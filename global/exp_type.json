@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "type": "Character",
+    "name": "沙盒玩家"
+  },
+  {
+    "id": 2,
+    "type": "Unit",
+    "name": "沙盒角色"
+  },
+  {
+    "id": 3,
+    "type": "Player",
+    "name": "网游玩家"
+  },
+  {
+    "id": 4,
+    "type": "PlayerRole",
+    "name": "网游人物"
+  },
+  {
+    "id": 5,
+    "type": "PlayerSandbox",
+    "name": "网游沙盒"
+  },
+  {
+    "id": 6,
+    "type": "Workshop",
+    "name": "沙盒工坊"
+  },
+  {
+    "id": 7,
+    "type": "PlayeRoleFriendship",
+    "name": "网游人物羁绊"
+  },
+  {
+    "id": 8,
+    "type": "ElysiumPlacementWarmth",
+    "name": "网游乐土家园温馨值"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "普通战术",
+    "slot_id": 1,
+    "icon": "icon_tactics_low",
+    "is_passive": false
+  },
+  {
+    "id": 2,
+    "name": "中级战术",
+    "slot_id": 2,
+    "icon": "icon_tactics_mid",
+    "is_passive": false
+  },
+  {
+    "id": 3,
+    "name": "高级战术",
+    "slot_id": 3,
+    "icon": "icon_tactics_super",
+    "is_passive": false
+  },
+  {
+    "id": 4,
+    "name": "临时战术",
+    "slot_id": 4,
+    "icon": "icon_LimitedTime",
+    "is_passive": true
+  }
+]

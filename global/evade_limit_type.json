@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "type": "ATTACK_TIMES",
+    "name": "计次"
+  },
+  {
+    "id": 2,
+    "type": "SKILL_COUNT",
+    "name": "计轮"
+  }
+]

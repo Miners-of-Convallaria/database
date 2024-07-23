@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1,
+    "m_special_effect_details": [],
+    "name": "测试1",
+    "editor_name": "测试-敌方单位组1，单位2添加Buff",
+    "special_effect_detail_ids": "9"
+  },
+  {
+    "id": 3,
+    "m_special_effect_details": [],
+    "name": "测试3",
+    "editor_name": "测试-敌方单位1添加buff",
+    "special_effect_detail_ids": "1"
+  },
+  {
+    "id": 4,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-我方添加不屈",
+    "special_effect_detail_ids": "12"
+  },
+  {
+    "id": 5,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-让一个事件启用",
+    "special_effect_detail_ids": "2|14"
+  },
+  {
+    "id": 6,
+    "m_special_effect_details": [],
+    "name": "单位组1出击",
+    "editor_name": "正式-出击-单位组1出击",
+    "special_effect_detail_ids": "3"
+  },
+  {
+    "id": 7,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-出击-单位组1不出击",
+    "special_effect_detail_ids": "15"
+  },
+  {
+    "id": 8,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-敌方单位组1替换",
+    "special_effect_detail_ids": "5"
+  },
+  {
+    "id": 9,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-区域增加效果",
+    "special_effect_detail_ids": "4|16"
+  },
+  {
+    "id": 10,
+    "m_special_effect_details": [],
+    "name": "我方出击人数-1",
+    "editor_name": "我方出击人数-1",
+    "special_effect_detail_ids": "17"
+  },
+  {
+    "id": 11,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-回合数减少5",
+    "special_effect_detail_ids": "18"
+  },
+  {
+    "id": 12,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-启用副胜利条件",
+    "special_effect_detail_ids": "19"
+  },
+  {
+    "id": 13,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-启用副失败条件",
+    "special_effect_detail_ids": "20"
+  },
+  {
+    "id": 14,
+    "m_special_effect_details": [],
+    "name": "禁止使用中、高级战术指令",
+    "editor_name": "禁用中高级战术技能",
+    "special_effect_detail_ids": "21"
+  },
+  {
+    "id": 15,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-禁用战术点回复",
+    "special_effect_detail_ids": "22"
+  },
+  {
+    "id": 16,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-添加临时战术技能（布置陷阱）",
+    "special_effect_detail_ids": "24"
+  },
+  {
+    "id": 17,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-添加临时战术技能（布置陷阱+乘胜追击）",
+    "special_effect_detail_ids": "24|25"
+  },
+  {
+    "id": 18,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-添加临时战术技能（布置陷阱+乘胜追击+稻草人）",
+    "special_effect_detail_ids": "24|25|26"
+  },
+  {
+    "id": 19,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-添加临时战术技能（布置陷阱+乘胜追击+稻草人+防御号令）",
+    "special_effect_detail_ids": "24|25|26|27"
+  },
+  {
+    "id": 20,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-禁用战术点回复-行动结束",
+    "special_effect_detail_ids": "29"
+  },
+  {
+    "id": 21,
+    "m_special_effect_details": [],
+    "name": "测试",
+    "editor_name": "测试-禁用战术点回复-回合结束",
+    "special_effect_detail_ids": "30"
+  },
+  {
+    "id": 22,
+    "m_special_effect_details": [],
+    "name": "测试-通过目标类型添加buff",
+    "editor_name": "测试-通过目标类型添加buff",
+    "special_effect_detail_ids": "32"
+  },
+  {
+    "id": 23,
+    "m_special_effect_details": [],
+    "name": "敌方攻防属性提高12%",
+    "editor_name": "敌方攻防属性提高12%",
+    "special_effect_detail_ids": "33"
+  },
+  {
+    "id": 24,
+    "m_special_effect_details": [],
+    "name": "敌方攻防属性提高24%",
+    "editor_name": "敌方攻防属性提高24%",
+    "special_effect_detail_ids": "34"
+  },
+  {
+    "id": 25,
+    "m_special_effect_details": [],
+    "name": "敌方移动力增加1格",
+    "editor_name": "敌方移动力增加1格",
+    "special_effect_detail_ids": "37"
+  },
+  {
+    "id": 26,
+    "m_special_effect_details": [],
+    "name": "敌方造成伤害提高30%",
+    "editor_name": "敌方造成伤害提高30%",
+    "special_effect_detail_ids": "36"
+  },
+  {
+    "id": 27,
+    "m_special_effect_details": [],
+    "name": "敌方受到伤害降低20%",
+    "editor_name": "敌方受到伤害降低20%",
+    "special_effect_detail_ids": "35"
+  },
+  {
+    "id": 28,
+    "m_special_effect_details": [],
+    "name": "敌方免疫击退",
+    "editor_name": "敌方免疫击退",
+    "special_effect_detail_ids": "38"
+  },
+  {
+    "id": 30,
+    "m_special_effect_details": [],
+    "name": "通关时间减少3回合",
+    "editor_name": "通关时间减少3回合",
+    "special_effect_detail_ids": "18"
+  },
+  {
+    "id": 31,
+    "m_special_effect_details": [],
+    "name": "通关时间减少5回合",
+    "editor_name": "通关时间减少5回合",
+    "special_effect_detail_ids": "39"
+  },
+  {
+    "id": 32,
+    "m_special_effect_details": [],
+    "name": "给敌方单位ID8添加不屈强韧 击杀后再行动",
+    "editor_name": "给敌方单位ID8添加不屈强韧 击杀后再行动",
+    "special_effect_detail_ids": "40"
+  },
+  {
+    "id": 33,
+    "m_special_effect_details": [],
+    "name": "敌方死后自爆",
+    "editor_name": "敌方死后自爆",
+    "special_effect_detail_ids": "48"
+  },
+  {
+    "id": 34,
+    "m_special_effect_details": [],
+    "name": "迪塔利奥出战",
+    "editor_name": "敌方单位1替换为大王子破晓3*3版",
+    "special_effect_detail_ids": "49"
+  },
+  {
+    "id": 35,
+    "m_special_effect_details": [],
+    "name": "敌方获得[不屈]、[强韧]， 生命值提高20%",
+    "editor_name": "敌方获得[不屈]、[强韧]， 最大生命值提高20%",
+    "special_effect_detail_ids": "47"
+  },
+  {
+    "id": 36,
+    "m_special_effect_details": [],
+    "name": "我方受到治疗效果降低35%",
+    "editor_name": "我方受到治疗效果降低35%",
+    "special_effect_detail_ids": "45"
+  },
+  {
+    "id": 37,
+    "m_special_effect_details": [],
+    "name": "我方受到治疗效果降低70%",
+    "editor_name": "我方受到治疗效果降低70%",
+    "special_effect_detail_ids": "43"
+  },
+  {
+    "id": 38,
+    "m_special_effect_details": [],
+    "name": "无人阵亡",
+    "editor_name": "无人阵亡",
+    "special_effect_detail_ids": "50"
+  },
+  {
+    "id": 39,
+    "m_special_effect_details": [],
+    "name": "禁止初级战术技能",
+    "editor_name": "禁止初级战术技能",
+    "special_effect_detail_ids": "7"
+  },
+  {
+    "id": 40,
+    "m_special_effect_details": [],
+    "name": "敌方射程增加1格",
+    "editor_name": "敌方射程增加1格",
+    "special_effect_detail_ids": "44"
+  },
+  {
+    "id": 41,
+    "m_special_effect_details": [],
+    "name": "敌方无视职业克制",
+    "editor_name": "敌方无视职业克制",
+    "special_effect_detail_ids": "51"
+  },
+  {
+    "id": 42,
+    "m_special_effect_details": [],
+    "name": "敌方获得[不屈]",
+    "editor_name": "敌方获得[不屈]",
+    "special_effect_detail_ids": "13"
+  },
+  {
+    "id": 43,
+    "m_special_effect_details": [],
+    "name": "敌方获得[强韧]",
+    "editor_name": "敌方获得[强韧]",
+    "special_effect_detail_ids": "52"
+  },
+  {
+    "id": 44,
+    "m_special_effect_details": [],
+    "name": "敌方受到物理伤害降低50%",
+    "editor_name": "敌方受到物理伤害降低50%",
+    "special_effect_detail_ids": "53"
+  },
+  {
+    "id": 45,
+    "m_special_effect_details": [],
+    "name": "泰登出战",
+    "editor_name": "泰登出战 mission2385",
+    "special_effect_detail_ids": "55|57|56"
+  },
+  {
+    "id": 46,
+    "m_special_effect_details": [],
+    "name": "歌洛莉亚强化",
+    "editor_name": "歌洛莉亚强化 mission2385",
+    "special_effect_detail_ids": "58|66|109"
+  },
+  {
+    "id": 47,
+    "m_special_effect_details": [],
+    "name": "敌方受到魔法伤害降低40%，受到百分比伤害降低50%",
+    "editor_name": "敌方受到魔法伤害降低40%，受到百分比伤害降低50%",
+    "special_effect_detail_ids": "59"
+  },
+  {
+    "id": 48,
+    "m_special_effect_details": [],
+    "name": "敌方受到治疗效果提高30%",
+    "editor_name": "敌方受到治疗效果提高30%",
+    "special_effect_detail_ids": "60"
+  },
+  {
+    "id": 49,
+    "m_special_effect_details": [],
+    "name": "敌方获得[不屈]，可回复40%生命值",
+    "editor_name": "敌方获得[不屈]，可回复40%生命值",
+    "special_effect_detail_ids": "61"
+  },
+  {
+    "id": 50,
+    "m_special_effect_details": [],
+    "name": "审判者萨曼莎出战",
+    "editor_name": "审判者萨曼莎出战 mission2406",
+    "special_effect_detail_ids": "55|62"
+  },
+  {
+    "id": 51,
+    "m_special_effect_details": [],
+    "name": "修女萨曼莎出战",
+    "editor_name": "修女萨曼莎出战 mission2406",
+    "special_effect_detail_ids": "3|79|102"
+  },
+  {
+    "id": 52,
+    "m_special_effect_details": [],
+    "name": "区域组1效果变为燃烧",
+    "editor_name": "区域组1效果变为燃烧",
+    "special_effect_detail_ids": "65"
+  },
+  {
+    "id": 53,
+    "m_special_effect_details": [],
+    "name": "骑士团精英出战",
+    "editor_name": "骑士团精英出战 mission2385",
+    "special_effect_detail_ids": "3"
+  },
+  {
+    "id": 54,
+    "m_special_effect_details": [],
+    "name": "索菲亚强化",
+    "editor_name": "索菲亚强化 集火",
+    "special_effect_detail_ids": "68|67"
+  },
+  {
+    "id": 55,
+    "m_special_effect_details": [],
+    "name": "索菲亚强化",
+    "editor_name": "索菲亚强化 控制",
+    "special_effect_detail_ids": "70|110"
+  },
+  {
+    "id": 56,
+    "m_special_effect_details": [],
+    "name": "敌方3格内有2个友军攻防属性提升30%",
+    "editor_name": "敌方3格内有2个友军攻防属性提升30%",
+    "special_effect_detail_ids": "71"
+  },
+  {
+    "id": 57,
+    "m_special_effect_details": [],
+    "name": "贝拉强化",
+    "editor_name": "贝拉强化",
+    "special_effect_detail_ids": "73|76"
+  },
+  {
+    "id": 58,
+    "m_special_effect_details": [],
+    "name": "铃兰加油",
+    "editor_name": "铃兰加油",
+    "special_effect_detail_ids": "75|72|74"
+  },
+  {
+    "id": 59,
+    "m_special_effect_details": [],
+    "name": "法卡尔强化",
+    "editor_name": "法卡尔强化",
+    "special_effect_detail_ids": "74"
+  },
+  {
+    "id": 60,
+    "m_special_effect_details": [],
+    "name": "拉维耶强化",
+    "editor_name": "拉维耶强化",
+    "special_effect_detail_ids": "72"
+  },
+  {
+    "id": 61,
+    "m_special_effect_details": [],
+    "name": "贝拉地形燃烧",
+    "editor_name": "贝拉地形燃烧",
+    "special_effect_detail_ids": "65|77"
+  },
+  {
+    "id": 62,
+    "m_special_effect_details": [],
+    "name": "全体获得10%物理护盾，拥有护盾时伤害提升15%，受到伤害降低15%",
+    "editor_name": "全体获得10%物理护盾，拥有护盾时伤害提升15%，受到伤害降低15%",
+    "special_effect_detail_ids": "57|78"
+  },
+  {
+    "id": 63,
+    "m_special_effect_details": [],
+    "name": "健康时受到物理伤害降低30%，受伤时受到魔法伤害降低30%",
+    "editor_name": "健康时受到物理伤害降低30%，受伤时受到魔法伤害降低30%",
+    "special_effect_detail_ids": "81"
+  },
+  {
+    "id": 64,
+    "m_special_effect_details": [],
+    "name": "攻击力+3%",
+    "editor_name": "大型活动1期-属性-攻击力+3%",
+    "special_effect_detail_ids": "82"
+  },
+  {
+    "id": 65,
+    "m_special_effect_details": [],
+    "name": "防御力+5%",
+    "editor_name": "大型活动1期-属性-防御力+5%",
+    "special_effect_detail_ids": "83"
+  },
+  {
+    "id": 66,
+    "m_special_effect_details": [],
+    "name": "暴击率+5%",
+    "editor_name": "大型活动1期-属性-暴击率+5%",
+    "special_effect_detail_ids": "85"
+  },
+  {
+    "id": 67,
+    "m_special_effect_details": [],
+    "name": "暴击伤害+3%",
+    "editor_name": "大型活动1期-属性-暴击伤害+3%",
+    "special_effect_detail_ids": "86"
+  },
+  {
+    "id": 68,
+    "m_special_effect_details": [],
+    "name": "生命值+5%",
+    "editor_name": "大型活动1期-属性-生命值+5%",
+    "special_effect_detail_ids": "84"
+  },
+  {
+    "id": 69,
+    "m_special_effect_details": [],
+    "name": "技能1",
+    "editor_name": "大型活动1期-技能1",
+    "special_effect_detail_ids": "87"
+  },
+  {
+    "id": 70,
+    "m_special_effect_details": [],
+    "name": "技能2",
+    "editor_name": "大型活动1期-技能2",
+    "special_effect_detail_ids": "88"
+  },
+  {
+    "id": 71,
+    "m_special_effect_details": [],
+    "name": "技能3",
+    "editor_name": "大型活动1期-技能3",
+    "special_effect_detail_ids": "89"
+  },
+  {
+    "id": 72,
+    "m_special_effect_details": [],
+    "name": "技能4",
+    "editor_name": "大型活动1期-技能4",
+    "special_effect_detail_ids": "90"
+  },
+  {
+    "id": 73,
+    "m_special_effect_details": [],
+    "name": "技能6",
+    "editor_name": "大型活动1期-技能6",
+    "special_effect_detail_ids": "92"
+  },
+  {
+    "id": 74,
+    "m_special_effect_details": [],
+    "name": "技能7",
+    "editor_name": "大型活动1期-技能7",
+    "special_effect_detail_ids": "93"
+  },
+  {
+    "id": 75,
+    "m_special_effect_details": [],
+    "name": "技能8",
+    "editor_name": "大型活动1期-技能8",
+    "special_effect_detail_ids": "94"
+  },
+  {
+    "id": 76,
+    "m_special_effect_details": [],
+    "name": "技能9",
+    "editor_name": "大型活动1期-技能9",
+    "special_effect_detail_ids": "95"
+  },
+  {
+    "id": 77,
+    "m_special_effect_details": [],
+    "name": "技能5",
+    "editor_name": "大型活动1期-技能5",
+    "special_effect_detail_ids": "91"
+  },
+  {
+    "id": 78,
+    "m_special_effect_details": [],
+    "name": "关卡等级60",
+    "editor_name": "等级合约60",
+    "special_effect_detail_ids": "96"
+  },
+  {
+    "id": 79,
+    "m_special_effect_details": [],
+    "name": "我方攻防属性提高50%",
+    "editor_name": "我方攻防属性提高50%",
+    "special_effect_detail_ids": "98"
+  },
+  {
+    "id": 80,
+    "m_special_effect_details": [],
+    "name": "通关时间减少7回合",
+    "editor_name": "通关时间减少7回合",
+    "special_effect_detail_ids": "99"
+  },
+  {
+    "id": 81,
+    "m_special_effect_details": [],
+    "name": "召唤2个额外的祝福灯桩",
+    "editor_name": "召唤2个额外的祝福灯桩（教皇国挑战）",
+    "special_effect_detail_ids": "2"
+  },
+  {
+    "id": 82,
+    "m_special_effect_details": [],
+    "name": "敌方最大生命值提升25%",
+    "editor_name": "敌方最大生命值提升25%",
+    "special_effect_detail_ids": "100"
+  },
+  {
+    "id": 83,
+    "m_special_effect_details": [],
+    "name": "敌方每拥有1个增益造成伤害提升10%，受到伤害降低10%",
+    "editor_name": "敌方每拥有1个增益造成伤害提升10%，受到伤害降低10%",
+    "special_effect_detail_ids": "101"
+  },
+  {
+    "id": 84,
+    "m_special_effect_details": [],
+    "name": "敌方攻击前每移动1格，造成伤害提升8%",
+    "editor_name": "敌方攻击前每移动1格，造成伤害提升8%",
+    "special_effect_detail_ids": "103"
+  },
+  {
+    "id": 85,
+    "m_special_effect_details": [],
+    "name": "关卡等级50",
+    "editor_name": "等级合约50",
+    "special_effect_detail_ids": "104"
+  },
+  {
+    "id": 86,
+    "m_special_effect_details": [],
+    "name": "关卡等级40",
+    "editor_name": "等级合约40",
+    "special_effect_detail_ids": "105"
+  },
+  {
+    "id": 87,
+    "m_special_effect_details": [],
+    "name": "关卡等级30",
+    "editor_name": "等级合约30",
+    "special_effect_detail_ids": "106"
+  },
+  {
+    "id": 88,
+    "m_special_effect_details": [],
+    "name": "小型活动用-开战获得20%最大生命值的【物理护盾】，行动结束时若自身没有护盾，则获得10%",
+    "editor_name": "小型活动用-开战获得20%最大生命值的【物理护盾】，行动结束时若自身没有护盾，则获得10%",
+    "special_effect_detail_ids": "107"
+  },
+  {
+    "id": 89,
+    "m_special_effect_details": [],
+    "name": "修女萨曼莎强化",
+    "editor_name": "修女萨曼莎强化",
+    "special_effect_detail_ids": "79"
+  },
+  {
+    "id": 90,
+    "m_special_effect_details": [],
+    "name": "小型活动用-伤害类型转换为目标较低防御的类型，攻击后造成伤害",
+    "editor_name": "小型活动用-伤害类型转换为目标较低防御的类型，攻击后造成伤害",
+    "special_effect_detail_ids": "108"
+  }
+]

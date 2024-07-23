@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "is_normal": 1,
+    "is_boss": 0,
+    "param0": 0,
+    "param1": 0,
+    "score": 100,
+    "name": "测试1"
+  },
+  {
+    "id": 2,
+    "type": 2,
+    "is_normal": 1,
+    "is_boss": 0,
+    "param0": 2,
+    "param1": 3,
+    "score": 100,
+    "name": "测试2"
+  },
+  {
+    "id": 3,
+    "type": 2,
+    "is_normal": 1,
+    "is_boss": 0,
+    "param0": 3,
+    "param1": 5,
+    "score": 200,
+    "name": "测试3"
+  },
+  {
+    "id": 4,
+    "type": 2,
+    "is_normal": 1,
+    "is_boss": 0,
+    "param0": 5,
+    "param1": 10,
+    "score": 300,
+    "name": "测试4"
+  },
+  {
+    "id": 5,
+    "type": 2,
+    "is_normal": 1,
+    "is_boss": 0,
+    "param0": 10,
+    "param1": 100,
+    "score": 500,
+    "name": "测试5"
+  }
+]

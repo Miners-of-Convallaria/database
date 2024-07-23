@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "m_online_tech_upgrade_types": [],
+    "name": "战术技能",
+    "editor_name": "战术技能",
+    "profession_category_limited": false
+  },
+  {
+    "id": 2,
+    "m_online_tech_upgrade_types": [],
+    "name": "战术科技",
+    "editor_name": "战术科技",
+    "profession_category_limited": false
+  },
+  {
+    "id": 3,
+    "m_online_tech_upgrade_types": [],
+    "name": "职业大类被动技能",
+    "editor_name": "职业大类被动技能",
+    "profession_category_limited": true
+  },
+  {
+    "id": 4,
+    "m_online_tech_upgrade_types": [],
+    "name": "职业大类属性",
+    "editor_name": "职业大类属性",
+    "profession_category_limited": true
+  },
+  {
+    "id": 5,
+    "m_online_tech_upgrade_types": [],
+    "name": "属性",
+    "editor_name": "属性",
+    "profession_category_limited": false
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5,
+    "m_smithy_process_consumes": [],
+    "m_smithy_process_bonuss": [],
+    "name": "铸造晶石合金",
+    "editor_name": "AT2-生产晶石合金",
+    "desc": "通过骑士同盟的独家工艺，淬炼晶尘与铁锭以获得晶石合金。",
+    "round": 3,
+    "icon": "icon_saint",
+    "big_icon": "material_spar_alloy"
+  },
+  {
+    "id": 6,
+    "m_smithy_process_consumes": [],
+    "m_smithy_process_bonuss": [],
+    "name": "金属加工",
+    "editor_name": "AT2-生产铁",
+    "desc": "熔炼铁矿获得铁锭。",
+    "round": 3,
+    "icon": "icon_ingots",
+    "big_icon": "material_iron_ingots"
+  },
+  {
+    "id": 7,
+    "m_smithy_process_consumes": [],
+    "m_smithy_process_bonuss": [],
+    "name": "提纯高品质晶石",
+    "editor_name": "AT2-生产高品质晶石",
+    "desc": "淬炼晶石以获得高品质晶石。",
+    "round": 3,
+    "icon": "icon_spar02",
+    "big_icon": "material_spar_high"
+  }
+]

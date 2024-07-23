@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "角色通用出率模板",
+    "editor_name": "角色通用出率模板",
+    "ssr_chance": 2,
+    "sr_chance": 20,
+    "r_chance": 40,
+    "n_chance": 38
+  },
+  {
+    "id": 2,
+    "name": "通用武器出率模板",
+    "editor_name": "通用武器出率模板",
+    "ssr_chance": 5,
+    "sr_chance": 50,
+    "r_chance": 25,
+    "n_chance": 20
+  },
+  {
+    "id": 3,
+    "name": "武器通用出率模板",
+    "editor_name": "武器通用出率模板",
+    "ssr_chance": 5,
+    "sr_chance": 50,
+    "r_chance": 25,
+    "n_chance": 20
+  }
+]

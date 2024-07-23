@@ -1,0 +1,2340 @@
+[
+  {
+    "id": 1,
+    "idunit_model": 1,
+    "name": "无法者弓兵(缺省)",
+    "palette": "banditArcherM3_palette",
+    "icon": "character_banditarchermset01"
+  },
+  {
+    "id": 2,
+    "idunit_model": 2,
+    "name": "无法者刺客(缺省)",
+    "palette": "mercenaryAssassinM2_palette",
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "idunit_model": 3,
+    "name": "无法者巨斧兵(缺省)",
+    "palette": "banditBerserkerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "idunit_model": 4,
+    "name": "无法者弩兵(缺省)",
+    "palette": "banditCrossbowM2_palette",
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "idunit_model": 5,
+    "name": "无法者剑盾兵(缺省)",
+    "palette": "banditGuardianM_palette",
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "idunit_model": 6,
+    "name": "无法者长枪兵(缺省)",
+    "palette": "banditLancerM_palette",
+    "icon": ""
+  },
+  {
+    "id": 7,
+    "idunit_model": 6,
+    "name": "黑暗之光长枪兵",
+    "palette": "darklightLancerMset01_palette",
+    "icon": "character_darklightlancermset01"
+  },
+  {
+    "id": 8,
+    "idunit_model": 8,
+    "name": "黑暗之光爆破手(缺省)",
+    "palette": "darklightBomberM_palette",
+    "icon": ""
+  },
+  {
+    "id": 9,
+    "idunit_model": 9,
+    "name": "黑暗之光弩兵(缺省)",
+    "palette": "darklightCrossbowMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 10,
+    "idunit_model": 10,
+    "name": "黑暗之光暗法(缺省)",
+    "palette": "darklightDarkwizzardF_palette",
+    "icon": ""
+  },
+  {
+    "id": 11,
+    "idunit_model": 11,
+    "name": "黑暗之光火法(缺省)",
+    "palette": "papalIcewizzardF_palette",
+    "icon": ""
+  },
+  {
+    "id": 12,
+    "idunit_model": 11,
+    "name": "darklightFirewizzardFset01_palette",
+    "palette": "darklightFirewizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 13,
+    "idunit_model": 11,
+    "name": "darklightIcewizzardMset01_palette",
+    "palette": "darklightIcewizzardMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 14,
+    "idunit_model": 12,
+    "name": "黑暗之光冰法(缺省)",
+    "palette": "papalIcewizzardF_palette",
+    "icon": ""
+  },
+  {
+    "id": 15,
+    "idunit_model": 12,
+    "name": "darklightFirewizzardFset01_palette",
+    "palette": "darklightFirewizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 16,
+    "idunit_model": 12,
+    "name": "darklightIcewizzardMset01_palette",
+    "palette": "darklightIcewizzardMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 17,
+    "idunit_model": 13,
+    "name": "黑暗之光长枪兵(缺省)",
+    "palette": "banditLancerM_palette",
+    "icon": ""
+  },
+  {
+    "id": 18,
+    "idunit_model": 13,
+    "name": "darklightLancerMset01_palette",
+    "palette": "darklightLancerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 19,
+    "idunit_model": 16,
+    "name": "面具刺客(缺省)",
+    "palette": "HbanditThemaskMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 20,
+    "idunit_model": 17,
+    "name": "歌洛莉亚持剑(缺省)",
+    "palette": "HknightsPaladinFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 21,
+    "idunit_model": 18,
+    "name": "歌洛莉亚扬旗(缺省)",
+    "palette": "HknightsPaladinFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 22,
+    "idunit_model": 19,
+    "name": "伊利亚弓兵(缺省)",
+    "palette": "iriaArcherF_palette",
+    "icon": ""
+  },
+  {
+    "id": 23,
+    "idunit_model": 20,
+    "name": "雇佣兵精英火法(缺省)",
+    "palette": "iriaFireWizzardF_palette",
+    "icon": ""
+  },
+  {
+    "id": 24,
+    "idunit_model": 21,
+    "name": "骑士团巨斧兵(缺省)",
+    "palette": "knightsBerserkerM_palette",
+    "icon": ""
+  },
+  {
+    "id": 25,
+    "idunit_model": 22,
+    "name": "骑士团剑盾兵(缺省)",
+    "palette": "knightsGuardianM_palette",
+    "icon": ""
+  },
+  {
+    "id": 26,
+    "idunit_model": 22,
+    "name": "knightsGuardianM_palette 1",
+    "palette": "knightsGuardianM_palette 1",
+    "icon": ""
+  },
+  {
+    "id": 27,
+    "idunit_model": 23,
+    "name": "骑士团长枪兵(缺省)",
+    "palette": "knightsLancerM_palette",
+    "icon": ""
+  },
+  {
+    "id": 28,
+    "idunit_model": 24,
+    "name": "骑士团牧师(缺省)",
+    "palette": "knightsPriestF_palette",
+    "icon": ""
+  },
+  {
+    "id": 29,
+    "idunit_model": 25,
+    "name": "雇佣兵刺客(缺省)",
+    "palette": "mercenaryAssassinM2_palette",
+    "icon": ""
+  },
+  {
+    "id": 30,
+    "idunit_model": 26,
+    "name": "教皇国弩兵(缺省)",
+    "palette": "papalCrossbowM_palette",
+    "icon": ""
+  },
+  {
+    "id": 31,
+    "idunit_model": 27,
+    "name": "教皇国冰法(缺省)",
+    "palette": "papalIcewizzardF_palette",
+    "icon": ""
+  },
+  {
+    "id": 32,
+    "idunit_model": 27,
+    "name": "黑暗之光火法",
+    "palette": "darklightFirewizzardFset01_palette",
+    "icon": "character_darklightfirewizzardmset01"
+  },
+  {
+    "id": 33,
+    "idunit_model": 27,
+    "name": "黑暗之光冰法",
+    "palette": "darklightIcewizzardMset01_palette",
+    "icon": "character_darklighticewizzardmset01"
+  },
+  {
+    "id": 34,
+    "idunit_model": 28,
+    "name": "教皇国牧师(缺省)",
+    "palette": "papalPriestF_palette",
+    "icon": ""
+  },
+  {
+    "id": 35,
+    "idunit_model": 30,
+    "name": "薇尔德刺客(缺省)",
+    "palette": "vilderAssassinM_palette",
+    "icon": ""
+  },
+  {
+    "id": 36,
+    "idunit_model": 31,
+    "name": "薇尔德舞娘(缺省)",
+    "palette": "vilderDancerF_palette",
+    "icon": ""
+  },
+  {
+    "id": 37,
+    "idunit_model": 32,
+    "name": "薇尔德弓兵(缺省)",
+    "palette": "vilderArcherF_palette",
+    "icon": ""
+  },
+  {
+    "id": 38,
+    "idunit_model": 34,
+    "name": "三王女(缺省)",
+    "palette": "HiriaLadymunaFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 39,
+    "idunit_model": 36,
+    "name": "麦莎(缺省)",
+    "palette": "HplayerMercenarygirlFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 40,
+    "idunit_model": 37,
+    "name": "黑暗之光刺客(缺省)",
+    "palette": "mercenaryAssassinM2_palette",
+    "icon": ""
+  },
+  {
+    "id": 41,
+    "idunit_model": 38,
+    "name": "法卡尔(缺省)",
+    "palette": "HplayerMercenaryboyMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 42,
+    "idunit_model": 38,
+    "name": "HplayerMercenaryboyMset01_palette_a",
+    "palette": "HplayerMercenaryboyMset01_palette_a",
+    "icon": ""
+  },
+  {
+    "id": 43,
+    "idunit_model": 39,
+    "name": "黑暗之光剑盾兵(缺省)",
+    "palette": "darklightGuradianM_palette",
+    "icon": ""
+  },
+  {
+    "id": 44,
+    "idunit_model": 40,
+    "name": "秘密警察剑士(缺省)",
+    "palette": "policeLongswordMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 45,
+    "idunit_model": 41,
+    "name": "拉维耶(缺省)",
+    "palette": "HplayerSisterlavierF_palette",
+    "icon": ""
+  },
+  {
+    "id": 46,
+    "idunit_model": 41,
+    "name": "HplayerSisterlavierF_palette_a",
+    "palette": "HplayerSisterlavierF_palette_a",
+    "icon": ""
+  },
+  {
+    "id": 47,
+    "idunit_model": 42,
+    "name": "索菲亚(缺省)",
+    "palette": "HpoliceLeaderF_palette",
+    "icon": ""
+  },
+  {
+    "id": 48,
+    "idunit_model": 43,
+    "name": "暴民巨斧兵(缺省)",
+    "palette": "militaryBerserkerM_palette",
+    "icon": ""
+  },
+  {
+    "id": 49,
+    "idunit_model": 43,
+    "name": "黑暗之光巨斧兵",
+    "palette": "darklightBerserkerM_palette",
+    "icon": "character_darklightberserkerm01"
+  },
+  {
+    "id": 50,
+    "idunit_model": 44,
+    "name": "黑暗之光巨斧兵(缺省)",
+    "palette": "militaryBerserkerM_palette",
+    "icon": ""
+  },
+  {
+    "id": 51,
+    "idunit_model": 44,
+    "name": "darklightBerserkerM_palette",
+    "palette": "darklightBerserkerM_palette",
+    "icon": ""
+  },
+  {
+    "id": 52,
+    "idunit_model": 46,
+    "name": "秘密警察弩刺(缺省)",
+    "palette": "policeNightwalkerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 53,
+    "idunit_model": 47,
+    "name": "骑士团团长(缺省)",
+    "palette": "HknightsCaptainMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 54,
+    "idunit_model": 48,
+    "name": "暴民剑盾兵(缺省)",
+    "palette": "militaryGuardianM_palette",
+    "icon": ""
+  },
+  {
+    "id": 55,
+    "idunit_model": 49,
+    "name": "暴民爆破手(缺省)",
+    "palette": "militaryBomberM_palette",
+    "icon": ""
+  },
+  {
+    "id": 56,
+    "idunit_model": 50,
+    "name": "伊利亚长枪兵(缺省)",
+    "palette": "iriaLancerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 57,
+    "idunit_model": 51,
+    "name": "男主角(缺省)",
+    "palette": "PlayerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 58,
+    "idunit_model": 51,
+    "name": "PlayerMset01_palette_a",
+    "palette": "PlayerMset01_palette_a",
+    "icon": ""
+  },
+  {
+    "id": 59,
+    "idunit_model": 52,
+    "name": "二王子(缺省)",
+    "palette": "HiriaSprinceMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 60,
+    "idunit_model": 53,
+    "name": "三王女平民版(缺省)",
+    "palette": "HiriaLadymunaFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 61,
+    "idunit_model": 54,
+    "name": "野怪灰色狼",
+    "palette": "MonsterWolfset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 62,
+    "idunit_model": 56,
+    "name": "npc05(缺省)",
+    "palette": "npc05_palette",
+    "icon": ""
+  },
+  {
+    "id": 63,
+    "idunit_model": 57,
+    "name": "npc06(缺省)",
+    "palette": "npc06_palette",
+    "icon": ""
+  },
+  {
+    "id": 64,
+    "idunit_model": 58,
+    "name": "npc07(缺省)",
+    "palette": "npc07_palette",
+    "icon": ""
+  },
+  {
+    "id": 65,
+    "idunit_model": 59,
+    "name": "npc08(缺省)",
+    "palette": "npc08_palette",
+    "icon": ""
+  },
+  {
+    "id": 66,
+    "idunit_model": 60,
+    "name": "npc10(缺省)",
+    "palette": "npc10_palette",
+    "icon": ""
+  },
+  {
+    "id": 67,
+    "idunit_model": 63,
+    "name": "伊利亚剑盾兵(缺省)",
+    "palette": "iriaGuardianMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 68,
+    "idunit_model": 64,
+    "name": "雇佣兵弓兵(缺省)",
+    "palette": "mercenaryArcherMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 69,
+    "idunit_model": 65,
+    "name": "雇佣兵剑盾兵(缺省)",
+    "palette": "mercenaryGuardianMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 70,
+    "idunit_model": 66,
+    "name": "老团长（废弃）(缺省)",
+    "palette": "HplayerGodfatherMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 71,
+    "idunit_model": 67,
+    "name": "npc11(缺省)",
+    "palette": "npc11_palette",
+    "icon": ""
+  },
+  {
+    "id": 72,
+    "idunit_model": 67,
+    "name": "npc12_palette",
+    "palette": "npc12_palette",
+    "icon": ""
+  },
+  {
+    "id": 73,
+    "idunit_model": 68,
+    "name": "npc12(缺省)",
+    "palette": "npc12_palette",
+    "icon": ""
+  },
+  {
+    "id": 74,
+    "idunit_model": 68,
+    "name": "npc11_palette",
+    "palette": "npc11_palette",
+    "icon": ""
+  },
+  {
+    "id": 75,
+    "idunit_model": 71,
+    "name": "雇佣兵巨斧兵(缺省)",
+    "palette": "mercenaryBerserkerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 76,
+    "idunit_model": 72,
+    "name": "暴民弩兵(缺省)",
+    "palette": "militaryCrossbowMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 77,
+    "idunit_model": 79,
+    "name": "雇佣兵长枪兵(缺省)",
+    "palette": "mercenaryLancerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 78,
+    "idunit_model": 80,
+    "name": "萨曼莎审判者少女(缺省)",
+    "palette": "HpapalSamanthaFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 79,
+    "idunit_model": 81,
+    "name": "伊利亚刺客(缺省)",
+    "palette": "iriaAssassinFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 80,
+    "idunit_model": 82,
+    "name": "秘密警察牧师(缺省)",
+    "palette": "policePriestFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 81,
+    "idunit_model": 83,
+    "name": "秘密警察暗法(缺省)",
+    "palette": "policeDarkwizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 82,
+    "idunit_model": 84,
+    "name": "泰登(缺省)",
+    "palette": "HknightsOldknightMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 83,
+    "idunit_model": 84,
+    "name": "HknightsOldknightMset01_palette_trans2",
+    "palette": "HknightsOldknightMset01_palette_trans2",
+    "icon": ""
+  },
+  {
+    "id": 84,
+    "idunit_model": 85,
+    "name": "npc13(缺省)",
+    "palette": "npc13_palette",
+    "icon": ""
+  },
+  {
+    "id": 85,
+    "idunit_model": 86,
+    "name": "npc14(缺省)",
+    "palette": "npc14_palette",
+    "icon": ""
+  },
+  {
+    "id": 86,
+    "idunit_model": 87,
+    "name": "npc15(缺省)",
+    "palette": "npc15_palette",
+    "icon": ""
+  },
+  {
+    "id": 87,
+    "idunit_model": 88,
+    "name": "大型单位-测试(缺省)",
+    "palette": "tarot",
+    "icon": ""
+  },
+  {
+    "id": 88,
+    "idunit_model": 89,
+    "name": "马格努斯(缺省)",
+    "palette": "HiriaCommanderMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 89,
+    "idunit_model": 90,
+    "name": "泽维尔(缺省)",
+    "palette": "HiriaYoungcolonelMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 90,
+    "idunit_model": 91,
+    "name": "伊利亚修女(缺省)",
+    "palette": "iriaPriestFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 92,
+    "idunit_model": 93,
+    "name": "古兹曼(缺省)",
+    "palette": "HdarklightDarkknightMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 93,
+    "idunit_model": 94,
+    "name": "古兹曼尸体形态(缺省)",
+    "palette": "HdarklightDarkknightMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 94,
+    "idunit_model": 95,
+    "name": "塔罗怪轮子(缺省)",
+    "palette": "tarotAgileMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 95,
+    "idunit_model": 95,
+    "name": "塔罗怪轮子2",
+    "palette": "tarotAgileMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 96,
+    "idunit_model": 96,
+    "name": "塔罗怪镰刀(缺省)",
+    "palette": "tarotGuardMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 97,
+    "idunit_model": 96,
+    "name": "塔罗怪镰刀2",
+    "palette": "tarotGuardMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 98,
+    "idunit_model": 97,
+    "name": "塔罗怪大针蜂(缺省)",
+    "palette": "tarotNormalMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 99,
+    "idunit_model": 97,
+    "name": "塔罗怪大针蜂2",
+    "palette": "tarotNormalMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 100,
+    "idunit_model": 98,
+    "name": "塔罗怪水母(缺省)",
+    "palette": "tarotShooterMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 101,
+    "idunit_model": 98,
+    "name": "塔罗怪水母2",
+    "palette": "tarotShooterMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 102,
+    "idunit_model": 99,
+    "name": "拉维耶剑冢(缺省)",
+    "palette": "SwordBurial_palette",
+    "icon": ""
+  },
+  {
+    "id": 103,
+    "idunit_model": 99,
+    "name": "SwordBurial_palette_a",
+    "palette": "SwordBurial_palette_a",
+    "icon": ""
+  },
+  {
+    "id": 104,
+    "idunit_model": 100,
+    "name": "塔罗boss魔术师(缺省)",
+    "palette": "TbossMagicianMset99_palette",
+    "icon": ""
+  },
+  {
+    "id": 105,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset99_palette_star",
+    "palette": "TbossMagicianMset99_palette_star",
+    "icon": ""
+  },
+  {
+    "id": 106,
+    "idunit_model": 101,
+    "name": "npc09(缺省)",
+    "palette": "npc09_palette",
+    "icon": ""
+  },
+  {
+    "id": 109,
+    "idunit_model": 104,
+    "name": "萨曼莎修女(缺省)",
+    "palette": "HpapalSamanthaFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 110,
+    "idunit_model": 105,
+    "name": "贝拉(缺省)",
+    "palette": "HplayerLittlewitchFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 111,
+    "idunit_model": 106,
+    "name": "迪塔利奥(缺省)",
+    "palette": "HiriaFprinceMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 112,
+    "idunit_model": 107,
+    "name": "薇尔德姐姐(缺省)",
+    "palette": "HvilderSisterchiefFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 113,
+    "idunit_model": 108,
+    "name": "薇尔德妹妹(缺省)",
+    "palette": "HvilderSistersingerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 114,
+    "idunit_model": 109,
+    "name": "熊(缺省)",
+    "palette": "MonsterBearMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 115,
+    "idunit_model": 110,
+    "name": "野怪软泥怪(缺省)",
+    "palette": "MonsterSlimeMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 116,
+    "idunit_model": 111,
+    "name": "黑暗之光魔人(缺省)",
+    "palette": "darklightMajinMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 117,
+    "idunit_model": 112,
+    "name": "黑暗之光教主(缺省)",
+    "palette": "HdarklightFernandoMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 118,
+    "idunit_model": 113,
+    "name": "女主角(缺省)",
+    "palette": "PlayerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 119,
+    "idunit_model": 114,
+    "name": "露西亚剑盾兵(缺省)",
+    "palette": "luciaGuardianMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 120,
+    "idunit_model": 116,
+    "name": "伊利亚正规军火法(缺省)",
+    "palette": "iriaFireWizzardF2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 121,
+    "idunit_model": 117,
+    "name": "阿力克赛(缺省)",
+    "palette": "HluciaYoungcolonelMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 122,
+    "idunit_model": 118,
+    "name": "教皇国投枪兵(缺省)",
+    "palette": "papalJavelinFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 123,
+    "idunit_model": 120,
+    "name": "教皇国佣兵头子(缺省)",
+    "palette": "HpapalMercenaryleaderMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 129,
+    "idunit_model": 67,
+    "name": "莎士比亚圣诞",
+    "palette": "aaa",
+    "icon": ""
+  },
+  {
+    "id": 130,
+    "idunit_model": 37,
+    "name": "无法者刺客",
+    "palette": "banditAssassinMset01_palette",
+    "icon": "character_banditassassinmmset01"
+  },
+  {
+    "id": 131,
+    "idunit_model": 37,
+    "name": "雇佣兵刺客",
+    "palette": "mercenaryAssassinMset01_palette",
+    "icon": "character_mercenaryassassinmset01"
+  },
+  {
+    "id": 134,
+    "idunit_model": 122,
+    "name": "npc17",
+    "palette": "npc17_palette",
+    "icon": "character_npc17"
+  },
+  {
+    "id": 135,
+    "idunit_model": 122,
+    "name": "npc18",
+    "palette": "npc18_palette",
+    "icon": "character_npc18"
+  },
+  {
+    "id": 138,
+    "idunit_model": 92,
+    "name": "npc16",
+    "palette": "npc16_palette",
+    "icon": "character_npc16"
+  },
+  {
+    "id": 141,
+    "idunit_model": 123,
+    "name": "npc19",
+    "palette": "npc19_palette",
+    "icon": "character_npc19"
+  },
+  {
+    "id": 142,
+    "idunit_model": 123,
+    "name": "npc20",
+    "palette": "npc20_palette",
+    "icon": "character_npc20"
+  },
+  {
+    "id": 143,
+    "idunit_model": 65,
+    "name": "雇佣兵剑盾兵配色2",
+    "palette": "mercenaryGuardianMset02_palette",
+    "icon": "character_mercenaryguardianmset02"
+  },
+  {
+    "id": 144,
+    "idunit_model": 91,
+    "name": "伊利亚修女配色2",
+    "palette": "iriaPriestFset02_palette",
+    "icon": "character_iriapriestfset02"
+  },
+  {
+    "id": 145,
+    "idunit_model": 43,
+    "name": "民兵巨斧兵配色2",
+    "palette": "militaryberserkermset02_palette",
+    "icon": "character_militaryberserkermset02"
+  },
+  {
+    "id": 146,
+    "idunit_model": 143,
+    "name": "npc29（缺省）",
+    "palette": "npc29_palette",
+    "icon": "character_npc29"
+  },
+  {
+    "id": 147,
+    "idunit_model": 143,
+    "name": "npc30",
+    "palette": "npc30_palette",
+    "icon": "character_npc30"
+  },
+  {
+    "id": 148,
+    "idunit_model": 136,
+    "name": "塔罗怪钢板白（缺省）",
+    "palette": "tarotGuardM2set01_palette",
+    "icon": "character_tarotguardm2set01"
+  },
+  {
+    "id": 149,
+    "idunit_model": 136,
+    "name": "塔罗怪钢板黑",
+    "palette": "tarotGuardM2set02_palette",
+    "icon": "character_tarotguardm2set02"
+  },
+  {
+    "id": 150,
+    "idunit_model": 135,
+    "name": "塔罗怪陀螺白",
+    "palette": "tarotAgileM2set01_palette",
+    "icon": "character_tarotagilem2set01"
+  },
+  {
+    "id": 151,
+    "idunit_model": 135,
+    "name": "塔罗怪陀螺黑",
+    "palette": "tarotAgileM2set02_palette",
+    "icon": "character_tarotagilem2set02"
+  },
+  {
+    "id": 154,
+    "idunit_model": 147,
+    "name": "塔罗怪抛射炮台白",
+    "palette": "tarotShooterM2set01_palette",
+    "icon": "character_tarotshooterm2set01"
+  },
+  {
+    "id": 155,
+    "idunit_model": 147,
+    "name": "塔罗怪抛射炮台黑",
+    "palette": "tarotShooterM2set02_palette",
+    "icon": "character_tarotshooterm2set02"
+  },
+  {
+    "id": 156,
+    "idunit_model": 146,
+    "name": "塔罗怪光束炮台白（缺省）",
+    "palette": "tarotShooterM3set01_palette",
+    "icon": "character_tarotshooterm3set01"
+  },
+  {
+    "id": 157,
+    "idunit_model": 146,
+    "name": "塔罗怪光束炮台黑",
+    "palette": "tarotShooterM3set02_palette",
+    "icon": "character_tarotshooterm3set02"
+  },
+  {
+    "id": 158,
+    "idunit_model": 54,
+    "name": "野怪白色狼",
+    "palette": "MonsterWolfset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 159,
+    "idunit_model": 54,
+    "name": "野怪黑色狼",
+    "palette": "MonsterWolfset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 160,
+    "idunit_model": 54,
+    "name": "野怪褐色狼",
+    "palette": "MonsterWolfset04_palette",
+    "icon": ""
+  },
+  {
+    "id": 161,
+    "idunit_model": 54,
+    "name": "野怪红色狼",
+    "palette": "MonsterWolfset05_palette",
+    "icon": ""
+  },
+  {
+    "id": 162,
+    "idunit_model": 54,
+    "name": "野怪紫色狼",
+    "palette": "MonsterWolfset06_palette",
+    "icon": ""
+  },
+  {
+    "id": 163,
+    "idunit_model": 134,
+    "name": "塔罗boss力量白女神（缺省）",
+    "palette": "TbossStrengthFset01_palette",
+    "icon": "character_tbossstrengthfset01"
+  },
+  {
+    "id": 164,
+    "idunit_model": 134,
+    "name": "塔罗boss力量黑女神",
+    "palette": "TbossStrengthFset02_palette",
+    "icon": "character_tbossstrengthfset02"
+  },
+  {
+    "id": 165,
+    "idunit_model": 37,
+    "name": "苏莱曼刺客",
+    "palette": "solomonAssassinFset01_palette",
+    "icon": "character_solomonassassinfset01"
+  },
+  {
+    "id": 166,
+    "idunit_model": 180,
+    "name": "塔罗boss魔术师2",
+    "palette": "TbossMagicianMset02_palette",
+    "icon": "character_tbossmagicianm2set01"
+  },
+  {
+    "id": 167,
+    "idunit_model": 180,
+    "name": "塔罗boss魔术师",
+    "palette": "TbossMagicianMset99_palette",
+    "icon": "character_tbossmagicianmset01"
+  },
+  {
+    "id": 168,
+    "idunit_model": 199,
+    "name": "塔罗boss战车意志",
+    "palette": "TbossChariotM3set02_palette",
+    "icon": "character_tbosschariotm3set02"
+  },
+  {
+    "id": 169,
+    "idunit_model": 201,
+    "name": "黑暗之光火法",
+    "palette": "darklightFirewizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 170,
+    "idunit_model": 37,
+    "name": "黑暗之光刺客(缺省)",
+    "palette": "mercenaryAssassinM_palette",
+    "icon": ""
+  },
+  {
+    "id": 171,
+    "idunit_model": 38,
+    "name": "HplayerMercenaryboyMset01_palette2",
+    "palette": "HplayerMercenaryboyMset01_palette2",
+    "icon": ""
+  },
+  {
+    "id": 172,
+    "idunit_model": 43,
+    "name": "militaryBerserkerMset02_palette",
+    "palette": "militaryBerserkerMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 173,
+    "idunit_model": 51,
+    "name": "PlayerMset01_palette2",
+    "palette": "PlayerMset01_palette2",
+    "icon": ""
+  },
+  {
+    "id": 174,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset01_di",
+    "palette": "TbossMagicianMset01_di",
+    "icon": ""
+  },
+  {
+    "id": 175,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset01_di2",
+    "palette": "TbossMagicianMset01_di2",
+    "icon": ""
+  },
+  {
+    "id": 176,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset01_di_1",
+    "palette": "TbossMagicianMset01_di_1",
+    "icon": ""
+  },
+  {
+    "id": 177,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset01_palette_star",
+    "palette": "TbossMagicianMset01_palette_star",
+    "icon": ""
+  },
+  {
+    "id": 178,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset01_palette_trans_ass",
+    "palette": "TbossMagicianMset01_palette_trans_ass",
+    "icon": ""
+  },
+  {
+    "id": 179,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset01_palette_trans_ass2",
+    "palette": "TbossMagicianMset01_palette_trans_ass2",
+    "icon": ""
+  },
+  {
+    "id": 180,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset02_palette",
+    "palette": "TbossMagicianMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 181,
+    "idunit_model": 100,
+    "name": "TbossMagicianMset99_palette_star2",
+    "palette": "TbossMagicianMset99_palette_star2",
+    "icon": ""
+  },
+  {
+    "id": 184,
+    "idunit_model": 121,
+    "name": "露西亚熊人(缺省)",
+    "palette": "luciaBearMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 185,
+    "idunit_model": 124,
+    "name": "npc21(缺省)",
+    "palette": "npc21_palette",
+    "icon": ""
+  },
+  {
+    "id": 186,
+    "idunit_model": 124,
+    "name": "npc22_palette",
+    "palette": "npc22_palette",
+    "icon": ""
+  },
+  {
+    "id": 187,
+    "idunit_model": 125,
+    "name": "素体人(缺省)",
+    "palette": "HcheckboardMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 188,
+    "idunit_model": 125,
+    "name": "HcheckboardMset01_palette_create",
+    "palette": "HcheckboardMset01_palette_create",
+    "icon": ""
+  },
+  {
+    "id": 189,
+    "idunit_model": 126,
+    "name": "银狼狼形态(缺省)",
+    "palette": "HluciaSilverwolfFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 190,
+    "idunit_model": 127,
+    "name": "npc26(缺省)",
+    "palette": "npc26_palette",
+    "icon": ""
+  },
+  {
+    "id": 191,
+    "idunit_model": 128,
+    "name": "npc27(缺省)",
+    "palette": "npc27_palette",
+    "icon": ""
+  },
+  {
+    "id": 192,
+    "idunit_model": 129,
+    "name": "npc28(缺省)",
+    "palette": "npc28_palette",
+    "icon": ""
+  },
+  {
+    "id": 195,
+    "idunit_model": 131,
+    "name": "单位模型_近战动画名模板(缺省)",
+    "palette": "SwordBurial_palette",
+    "icon": ""
+  },
+  {
+    "id": 196,
+    "idunit_model": 131,
+    "name": "SwordBurial_palette_a",
+    "palette": "SwordBurial_palette_a",
+    "icon": ""
+  },
+  {
+    "id": 197,
+    "idunit_model": 132,
+    "name": "单位模型_射手动画名模板(缺省)",
+    "palette": "SwordBurial_palette",
+    "icon": ""
+  },
+  {
+    "id": 198,
+    "idunit_model": 132,
+    "name": "SwordBurial_palette_a",
+    "palette": "SwordBurial_palette_a",
+    "icon": ""
+  },
+  {
+    "id": 199,
+    "idunit_model": 133,
+    "name": "单位模型_法师动画名模板(缺省)",
+    "palette": "SwordBurial_palette",
+    "icon": ""
+  },
+  {
+    "id": 200,
+    "idunit_model": 133,
+    "name": "SwordBurial_palette_a",
+    "palette": "SwordBurial_palette_a",
+    "icon": ""
+  },
+  {
+    "id": 201,
+    "idunit_model": 139,
+    "name": "难民领袖少女(缺省)",
+    "palette": "HplayerLeaderadaFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 202,
+    "idunit_model": 140,
+    "name": "伊利亚正规军牧师(缺省)",
+    "palette": "iriaDoctorFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 203,
+    "idunit_model": 141,
+    "name": "教皇国精英长枪兵(缺省)",
+    "palette": "papalLancerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 204,
+    "idunit_model": 142,
+    "name": "灰狼(缺省)",
+    "palette": "HvilderGraywolfMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 205,
+    "idunit_model": 144,
+    "name": "三王女公主版(缺省)",
+    "palette": "HiriaLadymunaFset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 206,
+    "idunit_model": 145,
+    "name": "小魔女的背包(缺省)",
+    "palette": "zlittlewitchbag_palette",
+    "icon": ""
+  },
+  {
+    "id": 207,
+    "idunit_model": 150,
+    "name": "塔罗boss力量狮子战士(缺省)",
+    "palette": "TbossStrengthMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 212,
+    "idunit_model": 151,
+    "name": "教皇国精英暗法(缺省)",
+    "palette": "papalDarkwizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 213,
+    "idunit_model": 152,
+    "name": "苏莱曼商人(缺省)",
+    "palette": "HsolomonBusinessmanMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 214,
+    "idunit_model": 153,
+    "name": "骑士团精英长枪兵(缺省)",
+    "palette": "knightsLancerM2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 215,
+    "idunit_model": 154,
+    "name": "骑士团精英弩兵(缺省)",
+    "palette": "knightsCrossbowMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 216,
+    "idunit_model": 155,
+    "name": "苏莱曼剑盾兵(缺省)",
+    "palette": "solomonGuardianMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 217,
+    "idunit_model": 156,
+    "name": "骑士团精英剑士2(缺省)",
+    "palette": "knightsLongswordF2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 218,
+    "idunit_model": 157,
+    "name": "谜之声黑猫(缺省)",
+    "palette": "secretcat_palette",
+    "icon": "character_secretcat"
+  },
+  {
+    "id": 219,
+    "idunit_model": 158,
+    "name": "舞团舞娘(缺省)",
+    "palette": "HvilderDancerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 220,
+    "idunit_model": 159,
+    "name": "npc31(缺省)",
+    "palette": "npc31_palette",
+    "icon": ""
+  },
+  {
+    "id": 221,
+    "idunit_model": 160,
+    "name": "npc32(缺省)",
+    "palette": "npc32_palette",
+    "icon": ""
+  },
+  {
+    "id": 222,
+    "idunit_model": 162,
+    "name": "薇尔德晶石少女(缺省)",
+    "palette": "HvilderWitchFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 223,
+    "idunit_model": 163,
+    "name": "露西亚弓兵(缺省)",
+    "palette": "luciaArcherFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 224,
+    "idunit_model": 164,
+    "name": "审判者C(缺省)",
+    "palette": "HpapalJudgercFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 225,
+    "idunit_model": 165,
+    "name": "倒吊人双子哥哥(缺省)",
+    "palette": "HpoliceTwinsMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 226,
+    "idunit_model": 166,
+    "name": "倒吊人双子妹妹(缺省)",
+    "palette": "HpoliceTwinsFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 227,
+    "idunit_model": 169,
+    "name": "npc33(缺省)",
+    "palette": "npc33_palette",
+    "icon": ""
+  },
+  {
+    "id": 228,
+    "idunit_model": 170,
+    "name": "npc34(缺省)",
+    "palette": "npc34_palette",
+    "icon": ""
+  },
+  {
+    "id": 229,
+    "idunit_model": 171,
+    "name": "露西亚巨斧兵(缺省)",
+    "palette": "luciaBerserkerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 230,
+    "idunit_model": 172,
+    "name": "教皇国弩刺(缺省)",
+    "palette": "papalNightwalkerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 231,
+    "idunit_model": 173,
+    "name": "教皇国剑盾兵(缺省)",
+    "palette": "papalGuardianMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 232,
+    "idunit_model": 174,
+    "name": "银狼人形态(缺省)",
+    "palette": "HluciaSilverwolfFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 233,
+    "idunit_model": 175,
+    "name": "露西亚狼人(缺省)",
+    "palette": "luciaWolfFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 234,
+    "idunit_model": 176,
+    "name": "骑士团法师(缺省)",
+    "palette": "HknightsIcemageFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 235,
+    "idunit_model": 177,
+    "name": "骑士团精英剑士(缺省)",
+    "palette": "knightsLongswordFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 236,
+    "idunit_model": 179,
+    "name": "邦国王子(缺省)",
+    "palette": "HpapalPrinceMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 245,
+    "idunit_model": 182,
+    "name": "历史书(缺省)",
+    "palette": "zprincebook_palette",
+    "icon": ""
+  },
+  {
+    "id": 246,
+    "idunit_model": 183,
+    "name": "(废弃）1(缺省)",
+    "palette": "knightsLongswordF2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 247,
+    "idunit_model": 184,
+    "name": "光辉卫士长(缺省)",
+    "palette": "HpapalCommanderMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 248,
+    "idunit_model": 185,
+    "name": "苏莱曼巨斧兵(缺省)",
+    "palette": "solomonBerserkerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 249,
+    "idunit_model": 186,
+    "name": "塔_箭塔(缺省)",
+    "palette": "zpvparcher_palette",
+    "icon": ""
+  },
+  {
+    "id": 250,
+    "idunit_model": 187,
+    "name": "塔_爆炸塔(缺省)",
+    "palette": "zpvpboomer_palette",
+    "icon": ""
+  },
+  {
+    "id": 251,
+    "idunit_model": 188,
+    "name": "塔_减速塔(缺省)",
+    "palette": "zpvpslower_palette",
+    "icon": ""
+  },
+  {
+    "id": 252,
+    "idunit_model": 189,
+    "name": "塔_睡眠塔(缺省)",
+    "palette": "zpvpnapper_palette",
+    "icon": ""
+  },
+  {
+    "id": 253,
+    "idunit_model": 190,
+    "name": "面具(缺省)",
+    "palette": "zmask_palette",
+    "icon": ""
+  },
+  {
+    "id": 254,
+    "idunit_model": 191,
+    "name": "npc35(缺省)",
+    "palette": "npc35_palette",
+    "icon": ""
+  },
+  {
+    "id": 255,
+    "idunit_model": 192,
+    "name": "npc36(缺省)",
+    "palette": "npc36_palette",
+    "icon": ""
+  },
+  {
+    "id": 256,
+    "idunit_model": 193,
+    "name": "npc37(缺省)",
+    "palette": "npc37_palette",
+    "icon": ""
+  },
+  {
+    "id": 257,
+    "idunit_model": 194,
+    "name": "活动假人(缺省)",
+    "palette": "MonsterHoodset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 258,
+    "idunit_model": 195,
+    "name": "法皇之手(缺省)",
+    "palette": "HpapalBishopF_palette",
+    "icon": ""
+  },
+  {
+    "id": 259,
+    "idunit_model": 196,
+    "name": "女侍卫(缺省)",
+    "palette": "HiriaPrincessguardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 260,
+    "idunit_model": 197,
+    "name": "塔罗boss战车合体版(缺省)",
+    "palette": "TbossChariotMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 261,
+    "idunit_model": 198,
+    "name": "塔罗boss战车本体版(缺省)",
+    "palette": "TbossChariotM2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 262,
+    "idunit_model": 199,
+    "name": "塔罗boss战车本能(缺省)",
+    "palette": "TbossChariotM3set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 263,
+    "idunit_model": 200,
+    "name": "苏莱曼暗法(缺省)",
+    "palette": "solomonDarkwizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 264,
+    "idunit_model": 201,
+    "name": "黑暗之光火法(缺省)",
+    "palette": "papalIcewizzardF_palette",
+    "icon": ""
+  },
+  {
+    "id": 265,
+    "idunit_model": 201,
+    "name": "darklightIcewizzardMset01_palette",
+    "palette": "darklightIcewizzardMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 266,
+    "idunit_model": 1,
+    "name": "无法者弓兵头目",
+    "palette": "banditArcherM4set01_palette",
+    "icon": "character_banditarcherm4set01"
+  },
+  {
+    "id": 267,
+    "idunit_model": 37,
+    "name": "无法者刺客头目",
+    "palette": "banditAssassinM2set01_palette",
+    "icon": "character_banditassassinm2set01"
+  },
+  {
+    "id": 268,
+    "idunit_model": 114,
+    "name": "无法者剑盾兵头目",
+    "palette": "banditGuardianM2set01_palette",
+    "icon": "character_banditguardianm2set01"
+  },
+  {
+    "id": 269,
+    "idunit_model": 202,
+    "name": "无法者冰法头目（缺省）",
+    "palette": "banditIcewizzardFset01_palette",
+    "icon": "character_banditicewizzardfset01"
+  },
+  {
+    "id": 273,
+    "idunit_model": 203,
+    "name": "苏莱曼精英双刀兵",
+    "palette": "solomonBladeMset01_palette",
+    "icon": "character_solomonblademset01"
+  },
+  {
+    "id": 274,
+    "idunit_model": 207,
+    "name": "苏莱曼舞娘",
+    "palette": "solomonDancerFset01_palette",
+    "icon": "character_solomondancerfset01"
+  },
+  {
+    "id": 276,
+    "idunit_model": 208,
+    "name": "塔罗怪圣杯",
+    "palette": "TbossCupsMset01_palette",
+    "icon": "character_tbosscupsmset01"
+  },
+  {
+    "id": 277,
+    "idunit_model": 209,
+    "name": "塔罗怪星币",
+    "palette": "TbossPentaclesMset01_palette",
+    "icon": "character_tbosspentaclesmset01"
+  },
+  {
+    "id": 278,
+    "idunit_model": 210,
+    "name": "塔罗怪宝剑",
+    "palette": "TbossSwordsMset01_palette",
+    "icon": "character_tbossswordsmset01"
+  },
+  {
+    "id": 279,
+    "idunit_model": 211,
+    "name": "塔罗怪权杖",
+    "palette": "TbossWandsMset01_palette",
+    "icon": "character_tbosswandsmset01"
+  },
+  {
+    "id": 280,
+    "idunit_model": 212,
+    "name": "魔术师召唤物",
+    "palette": "tarotSummonerMset01_palette",
+    "icon": "character_tarotsummonermset01"
+  },
+  {
+    "id": 281,
+    "idunit_model": 157,
+    "name": "谜之声黑猫蓝色版",
+    "palette": "secretcat03_palette",
+    "icon": "character_secretcat03"
+  },
+  {
+    "id": 282,
+    "idunit_model": 157,
+    "name": "谜之声黑猫蓝色版",
+    "palette": "secretcat03_palette",
+    "icon": "character_secretcat03"
+  },
+  {
+    "id": 284,
+    "idunit_model": 212,
+    "name": "魔术师召唤物2",
+    "palette": "tarotSummonerMset02_palette",
+    "icon": "character_tarotsummonermset02"
+  },
+  {
+    "id": 285,
+    "idunit_model": 213,
+    "name": "混血的笔记本",
+    "palette": "Cocoabook_palette",
+    "icon": "character_cocoabook"
+  },
+  {
+    "id": 286,
+    "idunit_model": 214,
+    "name": "薇尔德混血儿",
+    "palette": "HsolomonHalfbloodgirlFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 287,
+    "idunit_model": 215,
+    "name": "薇尔德混血儿无背包版",
+    "palette": "HsolomonHalfbloodgirlFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 288,
+    "idunit_model": 20,
+    "name": "banditIcewizzardFset01_palette",
+    "palette": "banditIcewizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 290,
+    "idunit_model": 195,
+    "name": "法皇之手(缺省)",
+    "palette": "HpapalBishopFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 291,
+    "idunit_model": 202,
+    "name": "雇佣兵精英冰法",
+    "palette": "iriaFireWizzardF_palette",
+    "icon": ""
+  },
+  {
+    "id": 292,
+    "idunit_model": 204,
+    "name": "黑光祭祀(缺省)",
+    "palette": "HdarklightTranquilloMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 293,
+    "idunit_model": 205,
+    "name": "青鸟与笼子(缺省)",
+    "palette": "birdincage_palette",
+    "icon": ""
+  },
+  {
+    "id": 294,
+    "idunit_model": 206,
+    "name": "面具刺客无面具版(缺省)",
+    "palette": "HbanditThemaskMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 295,
+    "idunit_model": 216,
+    "name": "盲女侍卫",
+    "palette": "HsolomonBlindgirlFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 296,
+    "idunit_model": 217,
+    "name": "大哈沙",
+    "palette": "HsolomonKinghashaMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 297,
+    "idunit_model": 218,
+    "name": "苏莱曼精英刀盾兵",
+    "palette": "solomonGuardianM2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 298,
+    "idunit_model": 219,
+    "name": "苏莱曼精英刺客",
+    "palette": "solomonAssassinMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 300,
+    "idunit_model": 220,
+    "name": "重生石碑",
+    "palette": "zrevive_palette",
+    "icon": ""
+  },
+  {
+    "id": 301,
+    "idunit_model": 91,
+    "name": "席梦娜部队暗法",
+    "palette": "knightsDarkwizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 302,
+    "idunit_model": 27,
+    "name": "席梦娜部队冰法",
+    "palette": "knightsIcewizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 304,
+    "idunit_model": 222,
+    "name": "露西亚冰法2",
+    "palette": "luciaIcewizzardFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 305,
+    "idunit_model": 163,
+    "name": "露西亚冰法2",
+    "palette": "luciaArcherFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 307,
+    "idunit_model": 223,
+    "name": "骑士团剑盾兵",
+    "palette": "knightsGuardianM_palette",
+    "icon": ""
+  },
+  {
+    "id": 308,
+    "idunit_model": 110,
+    "name": "野怪黄色软泥怪",
+    "palette": "MonsterSlimeMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 309,
+    "idunit_model": 110,
+    "name": "野怪绿色软泥怪",
+    "palette": "MonsterSlimeMset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 310,
+    "idunit_model": 110,
+    "name": "野怪橘色软泥怪",
+    "palette": "MonsterSlimeMset04_palette",
+    "icon": ""
+  },
+  {
+    "id": 311,
+    "idunit_model": 110,
+    "name": "野怪灰色软泥怪",
+    "palette": "MonsterSlimeMset05_palette",
+    "icon": ""
+  },
+  {
+    "id": 312,
+    "idunit_model": 225,
+    "name": "野怪小软泥怪（缺省）",
+    "palette": "MonsterSlimeM2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 313,
+    "idunit_model": 225,
+    "name": "野怪黄色小软泥怪",
+    "palette": "MonsterSlimeM2set02_palette",
+    "icon": ""
+  },
+  {
+    "id": 314,
+    "idunit_model": 225,
+    "name": "野怪绿色小软泥怪",
+    "palette": "MonsterSlimeM2set03_palette",
+    "icon": ""
+  },
+  {
+    "id": 315,
+    "idunit_model": 225,
+    "name": "野怪橘色小软泥怪",
+    "palette": "MonsterSlimeM2set04_palette",
+    "icon": ""
+  },
+  {
+    "id": 316,
+    "idunit_model": 225,
+    "name": "野怪灰色小软泥怪",
+    "palette": "MonsterSlimeM2set05_palette",
+    "icon": ""
+  },
+  {
+    "id": 317,
+    "idunit_model": 226,
+    "name": "npc38",
+    "palette": "npc38_palette",
+    "icon": ""
+  },
+  {
+    "id": 318,
+    "idunit_model": 227,
+    "name": "鹦鹉人",
+    "palette": "HsolomonParrotgirlFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 321,
+    "idunit_model": 230,
+    "name": "蓝鹦鹉",
+    "palette": "Sblueparrot_palette",
+    "icon": ""
+  },
+  {
+    "id": 322,
+    "idunit_model": 231,
+    "name": "大哈沙内衣版",
+    "palette": "HsolomonKinghashaMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 323,
+    "idunit_model": 230,
+    "name": "绿鹦鹉",
+    "palette": "Sgreenparrot_palette",
+    "icon": ""
+  },
+  {
+    "id": 324,
+    "idunit_model": 230,
+    "name": "红鹦鹉",
+    "palette": "Sredparrot_palette",
+    "icon": ""
+  },
+  {
+    "id": 325,
+    "idunit_model": 232,
+    "name": "塔罗boss恋人M",
+    "palette": "TbossLoversMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 326,
+    "idunit_model": 233,
+    "name": "塔罗boss恋人F",
+    "palette": "TbossLoversFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 327,
+    "idunit_model": 235,
+    "name": "SP拉维耶",
+    "palette": "HcrimsonlavierFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 328,
+    "idunit_model": 221,
+    "name": "露西亚冰法1",
+    "palette": "luciaIcewizzardFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 330,
+    "idunit_model": 238,
+    "name": "npc39",
+    "palette": "npc39_palette",
+    "icon": ""
+  },
+  {
+    "id": 331,
+    "idunit_model": 239,
+    "name": "npc40",
+    "palette": "npc40_palette",
+    "icon": ""
+  },
+  {
+    "id": 332,
+    "idunit_model": 240,
+    "name": "npc41",
+    "palette": "npc41_palette",
+    "icon": ""
+  },
+  {
+    "id": 333,
+    "idunit_model": 241,
+    "name": "npc42",
+    "palette": "npc42_palette",
+    "icon": ""
+  },
+  {
+    "id": 334,
+    "idunit_model": 242,
+    "name": "npc43",
+    "palette": "npc43_palette",
+    "icon": ""
+  },
+  {
+    "id": 335,
+    "idunit_model": 243,
+    "name": "npc44",
+    "palette": "npc44_palette",
+    "icon": ""
+  },
+  {
+    "id": 336,
+    "idunit_model": 244,
+    "name": "黑帮小弟",
+    "palette": "CrimsonAssassinMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 337,
+    "idunit_model": 245,
+    "name": "野怪野猪",
+    "palette": "MonsterBoarMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 338,
+    "idunit_model": 245,
+    "name": "野怪棕色野猪",
+    "palette": "MonsterBoarMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 339,
+    "idunit_model": 245,
+    "name": "野怪红色野猪",
+    "palette": "MonsterBoarMset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 340,
+    "idunit_model": 245,
+    "name": "野怪黑色野猪",
+    "palette": "MonsterBoarMset04_palette",
+    "icon": ""
+  },
+  {
+    "id": 341,
+    "idunit_model": 245,
+    "name": "野怪灰色野猪",
+    "palette": "MonsterBoarMset05_palette",
+    "icon": ""
+  },
+  {
+    "id": 342,
+    "idunit_model": 246,
+    "name": "野怪蜘蛛",
+    "palette": "MonsterSpiderMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 343,
+    "idunit_model": 246,
+    "name": "野怪黄色蜘蛛",
+    "palette": "MonsterSpiderMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 344,
+    "idunit_model": 246,
+    "name": "野怪蓝色蜘蛛",
+    "palette": "MonsterSpiderMset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 345,
+    "idunit_model": 246,
+    "name": "野怪红色蜘蛛",
+    "palette": "MonsterSpiderMset04_palette",
+    "icon": ""
+  },
+  {
+    "id": 346,
+    "idunit_model": 247,
+    "name": "学姐",
+    "palette": "HcrimsonDetectiveFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 352,
+    "idunit_model": 254,
+    "name": "女仆杀手",
+    "palette": "HcrimsonHousemaidkillerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 354,
+    "idunit_model": 257,
+    "name": "野怪青蛙",
+    "palette": "MonsterFrogMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 355,
+    "idunit_model": 257,
+    "name": "野怪红色青蛙",
+    "palette": "MonsterFrogMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 356,
+    "idunit_model": 257,
+    "name": "野怪青色青蛙",
+    "palette": "MonsterFrogMset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 357,
+    "idunit_model": 257,
+    "name": "野怪蓝色青蛙",
+    "palette": "MonsterFrogMset04_palette",
+    "icon": ""
+  },
+  {
+    "id": 358,
+    "idunit_model": 257,
+    "name": "野怪紫色青蛙",
+    "palette": "MonsterFrogMset05_palette",
+    "icon": ""
+  },
+  {
+    "id": 359,
+    "idunit_model": 257,
+    "name": "野怪绿色青蛙",
+    "palette": "MonsterFrogMset06_palette",
+    "icon": ""
+  },
+  {
+    "id": 360,
+    "idunit_model": 258,
+    "name": "野怪蝎子",
+    "palette": "MonsterScorpionMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 361,
+    "idunit_model": 258,
+    "name": "野怪灰色蝎子",
+    "palette": "MonsterScorpionMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 362,
+    "idunit_model": 258,
+    "name": "野怪紫色蝎子",
+    "palette": "MonsterScorpionMset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 363,
+    "idunit_model": 258,
+    "name": "野怪红色蝎子",
+    "palette": "MonsterScorpionMset04_palette",
+    "icon": ""
+  },
+  {
+    "id": 364,
+    "idunit_model": 258,
+    "name": "野怪金色蝎子",
+    "palette": "MonsterScorpionMset05_palette",
+    "icon": ""
+  },
+  {
+    "id": 365,
+    "idunit_model": 259,
+    "name": "野怪浣熊",
+    "palette": "MonsterRaccoonMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 366,
+    "idunit_model": 259,
+    "name": "野怪橘色浣熊",
+    "palette": "MonsterRaccoonMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 367,
+    "idunit_model": 259,
+    "name": "野怪棕色浣熊",
+    "palette": "MonsterRaccoonMset03_palette",
+    "icon": ""
+  },
+  {
+    "id": 368,
+    "idunit_model": 259,
+    "name": "野怪蓝色浣熊",
+    "palette": "MonsterRaccoonMset04_palette",
+    "icon": ""
+  },
+  {
+    "id": 369,
+    "idunit_model": 259,
+    "name": "野怪红色浣熊",
+    "palette": "MonsterRaccoonMset05_palette",
+    "icon": ""
+  },
+  {
+    "id": 370,
+    "idunit_model": 259,
+    "name": "野怪金色浣熊",
+    "palette": "MonsterRaccoonMset06_palette",
+    "icon": ""
+  },
+  {
+    "id": 371,
+    "idunit_model": 114,
+    "name": "水鬼帮剑盾兵",
+    "palette": "pirateGuardianMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 372,
+    "idunit_model": 171,
+    "name": "水鬼帮巨斧兵",
+    "palette": "pirateBerserkerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 373,
+    "idunit_model": 6,
+    "name": "水鬼帮长枪兵",
+    "palette": "pirateLancerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 374,
+    "idunit_model": 163,
+    "name": "水鬼帮弓兵",
+    "palette": "pirateArcherFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 375,
+    "idunit_model": 4,
+    "name": "水鬼帮弩兵",
+    "palette": "pirateCrossbowMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 376,
+    "idunit_model": 71,
+    "name": "水鬼帮巨斧兵",
+    "palette": "pirateBerserkerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 377,
+    "idunit_model": 8,
+    "name": "纵火暴民爆破手",
+    "palette": "terroristBomberMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 378,
+    "idunit_model": 43,
+    "name": "纵火暴民巨斧兵",
+    "palette": "terroristBerserkerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 379,
+    "idunit_model": 79,
+    "name": "纵火暴民长枪兵",
+    "palette": "terroristLancerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 380,
+    "idunit_model": 266,
+    "name": "蒙面人",
+    "palette": "crimsonAssassinM4set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 386,
+    "idunit_model": 10,
+    "name": "旅行商人",
+    "palette": "darklightDarkwizzardFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 387,
+    "idunit_model": 200,
+    "name": "商会会长BOSS",
+    "palette": "solomonDarkwizzardFset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 397,
+    "idunit_model": 273,
+    "name": "塔罗boss紫色星星",
+    "palette": "TbossStarMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 398,
+    "idunit_model": 130,
+    "name": "塔罗boss星星",
+    "palette": "TbossStarMset01_palette",
+    "icon": ""
+  }
+]

@@ -1,0 +1,7681 @@
+[
+  {
+    "id": 1,
+    "idweapon": 6,
+    "attribute_type": 2,
+    "attribute_param": 50,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 2,
+    "idweapon": 1,
+    "attribute_type": 7,
+    "attribute_param": 10,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 4,
+    "idweapon": 13,
+    "attribute_type": 8,
+    "attribute_param": 12,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 5,
+    "idweapon": 12,
+    "attribute_type": 7,
+    "attribute_param": 34,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 6,
+    "idweapon": 13,
+    "attribute_type": 10,
+    "attribute_param": 12,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 7,
+    "idweapon": 12,
+    "attribute_type": 9,
+    "attribute_param": 34,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 11,
+    "idweapon": 18,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 13,
+    "idweapon": 19,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 15,
+    "idweapon": 21,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 16,
+    "idweapon": 21,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 17,
+    "idweapon": 22,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 18,
+    "idweapon": 22,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 19,
+    "idweapon": 37,
+    "attribute_type": 7,
+    "attribute_param": 34,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 20,
+    "idweapon": 37,
+    "attribute_type": 9,
+    "attribute_param": 34,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 21,
+    "idweapon": 38,
+    "attribute_type": 7,
+    "attribute_param": 34,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 22,
+    "idweapon": 38,
+    "attribute_type": 9,
+    "attribute_param": 34,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 23,
+    "idweapon": 35,
+    "attribute_type": 7,
+    "attribute_param": 12,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 24,
+    "idweapon": 35,
+    "attribute_type": 9,
+    "attribute_param": 12,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 25,
+    "idweapon": 36,
+    "attribute_type": 8,
+    "attribute_param": 12,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 26,
+    "idweapon": 36,
+    "attribute_type": 10,
+    "attribute_param": 12,
+    "attribute_permillage": 0
+  },
+  {
+    "id": 27,
+    "idweapon": 20,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 28,
+    "idweapon": 20,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 29,
+    "idweapon": 20,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 30,
+    "idweapon": 21,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 31,
+    "idweapon": 22,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 33,
+    "idweapon": 17,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 4
+  },
+  {
+    "id": 34,
+    "idweapon": 18,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 4
+  },
+  {
+    "id": 35,
+    "idweapon": 18,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 36,
+    "idweapon": 17,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 37,
+    "idweapon": 19,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 38,
+    "idweapon": 19,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 39,
+    "idweapon": 53,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 40,
+    "idweapon": 53,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 41,
+    "idweapon": 53,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 42,
+    "idweapon": 54,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 43,
+    "idweapon": 54,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 44,
+    "idweapon": 54,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 48,
+    "idweapon": 56,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 49,
+    "idweapon": 56,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 4
+  },
+  {
+    "id": 50,
+    "idweapon": 56,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 51,
+    "idweapon": 57,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 52,
+    "idweapon": 57,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 53,
+    "idweapon": 57,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 57,
+    "idweapon": 17,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 4
+  },
+  {
+    "id": 58,
+    "idweapon": 55,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 59,
+    "idweapon": 55,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 60,
+    "idweapon": 55,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 74,
+    "idweapon": 92,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 75,
+    "idweapon": 92,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 76,
+    "idweapon": 92,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 77,
+    "idweapon": 93,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 78,
+    "idweapon": 93,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 79,
+    "idweapon": 93,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 80,
+    "idweapon": 94,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 81,
+    "idweapon": 94,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 82,
+    "idweapon": 94,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 84,
+    "idweapon": 95,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 85,
+    "idweapon": 95,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 87,
+    "idweapon": 96,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 88,
+    "idweapon": 96,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 89,
+    "idweapon": 97,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 90,
+    "idweapon": 97,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 91,
+    "idweapon": 97,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 92,
+    "idweapon": 98,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 93,
+    "idweapon": 98,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 18
+  },
+  {
+    "id": 95,
+    "idweapon": 99,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 96,
+    "idweapon": 99,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 97,
+    "idweapon": 99,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 98,
+    "idweapon": 100,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 99,
+    "idweapon": 100,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 100,
+    "idweapon": 100,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 101,
+    "idweapon": 101,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 102,
+    "idweapon": 101,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 103,
+    "idweapon": 101,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 104,
+    "idweapon": 102,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 105,
+    "idweapon": 102,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 106,
+    "idweapon": 102,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 107,
+    "idweapon": 103,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 108,
+    "idweapon": 103,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 109,
+    "idweapon": 103,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 110,
+    "idweapon": 104,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 112,
+    "idweapon": 104,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 113,
+    "idweapon": 105,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 115,
+    "idweapon": 105,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 116,
+    "idweapon": 106,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 117,
+    "idweapon": 106,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 119,
+    "idweapon": 107,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 120,
+    "idweapon": 107,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 121,
+    "idweapon": 107,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 122,
+    "idweapon": 108,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 123,
+    "idweapon": 108,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 18
+  },
+  {
+    "id": 125,
+    "idweapon": 109,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 126,
+    "idweapon": 109,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 127,
+    "idweapon": 109,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 128,
+    "idweapon": 110,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 129,
+    "idweapon": 110,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 130,
+    "idweapon": 110,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 131,
+    "idweapon": 111,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 132,
+    "idweapon": 111,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 133,
+    "idweapon": 111,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 134,
+    "idweapon": 112,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 135,
+    "idweapon": 112,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 136,
+    "idweapon": 112,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 137,
+    "idweapon": 113,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 138,
+    "idweapon": 113,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 139,
+    "idweapon": 113,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 140,
+    "idweapon": 114,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 141,
+    "idweapon": 114,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 142,
+    "idweapon": 114,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 143,
+    "idweapon": 115,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 144,
+    "idweapon": 115,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 146,
+    "idweapon": 116,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 147,
+    "idweapon": 116,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 149,
+    "idweapon": 117,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 150,
+    "idweapon": 117,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 151,
+    "idweapon": 117,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 152,
+    "idweapon": 118,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 153,
+    "idweapon": 118,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 154,
+    "idweapon": 118,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 158,
+    "idweapon": 120,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 159,
+    "idweapon": 120,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 160,
+    "idweapon": 120,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 161,
+    "idweapon": 121,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 162,
+    "idweapon": 121,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 163,
+    "idweapon": 121,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 164,
+    "idweapon": 122,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 165,
+    "idweapon": 122,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 166,
+    "idweapon": 122,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 167,
+    "idweapon": 123,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 168,
+    "idweapon": 123,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 169,
+    "idweapon": 123,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 170,
+    "idweapon": 124,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 171,
+    "idweapon": 124,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 172,
+    "idweapon": 124,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 173,
+    "idweapon": 125,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 174,
+    "idweapon": 125,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 175,
+    "idweapon": 125,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 177,
+    "idweapon": 126,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 178,
+    "idweapon": 126,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 180,
+    "idweapon": 127,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 181,
+    "idweapon": 127,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 182,
+    "idweapon": 128,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 183,
+    "idweapon": 128,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 184,
+    "idweapon": 128,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 185,
+    "idweapon": 129,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 186,
+    "idweapon": 129,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 187,
+    "idweapon": 129,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 188,
+    "idweapon": 130,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 189,
+    "idweapon": 130,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 190,
+    "idweapon": 130,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 191,
+    "idweapon": 131,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 192,
+    "idweapon": 131,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 193,
+    "idweapon": 131,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 194,
+    "idweapon": 132,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 195,
+    "idweapon": 132,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 196,
+    "idweapon": 132,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 197,
+    "idweapon": 133,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 198,
+    "idweapon": 133,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 199,
+    "idweapon": 133,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 200,
+    "idweapon": 134,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 201,
+    "idweapon": 134,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 202,
+    "idweapon": 134,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 203,
+    "idweapon": 135,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 204,
+    "idweapon": 135,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 205,
+    "idweapon": 135,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 206,
+    "idweapon": 136,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 207,
+    "idweapon": 136,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 208,
+    "idweapon": 136,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 209,
+    "idweapon": 137,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 210,
+    "idweapon": 137,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 211,
+    "idweapon": 137,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 212,
+    "idweapon": 138,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 213,
+    "idweapon": 138,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 214,
+    "idweapon": 138,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 215,
+    "idweapon": 139,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 216,
+    "idweapon": 139,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 217,
+    "idweapon": 139,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 218,
+    "idweapon": 140,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 219,
+    "idweapon": 140,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 220,
+    "idweapon": 140,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 221,
+    "idweapon": 141,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 222,
+    "idweapon": 141,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 223,
+    "idweapon": 141,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 224,
+    "idweapon": 142,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 225,
+    "idweapon": 142,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 226,
+    "idweapon": 142,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 227,
+    "idweapon": 143,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 228,
+    "idweapon": 143,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 229,
+    "idweapon": 143,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 230,
+    "idweapon": 144,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 231,
+    "idweapon": 144,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 232,
+    "idweapon": 144,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 233,
+    "idweapon": 145,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 234,
+    "idweapon": 145,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 235,
+    "idweapon": 145,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 237,
+    "idweapon": 146,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 240,
+    "idweapon": 147,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 243,
+    "idweapon": 148,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 244,
+    "idweapon": 148,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 246,
+    "idweapon": 149,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 247,
+    "idweapon": 149,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 249,
+    "idweapon": 150,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 250,
+    "idweapon": 150,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 252,
+    "idweapon": 151,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 253,
+    "idweapon": 151,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 254,
+    "idweapon": 152,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 255,
+    "idweapon": 152,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 257,
+    "idweapon": 153,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 258,
+    "idweapon": 153,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 260,
+    "idweapon": 154,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 261,
+    "idweapon": 154,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 263,
+    "idweapon": 155,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 264,
+    "idweapon": 155,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 266,
+    "idweapon": 156,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 267,
+    "idweapon": 156,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 268,
+    "idweapon": 156,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 269,
+    "idweapon": 157,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 270,
+    "idweapon": 157,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 271,
+    "idweapon": 157,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 272,
+    "idweapon": 158,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 273,
+    "idweapon": 158,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 275,
+    "idweapon": 159,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 276,
+    "idweapon": 159,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 278,
+    "idweapon": 160,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 279,
+    "idweapon": 160,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 281,
+    "idweapon": 161,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 282,
+    "idweapon": 161,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 284,
+    "idweapon": 162,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 285,
+    "idweapon": 162,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 287,
+    "idweapon": 163,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 288,
+    "idweapon": 163,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 290,
+    "idweapon": 164,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 291,
+    "idweapon": 164,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 293,
+    "idweapon": 165,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 294,
+    "idweapon": 165,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 296,
+    "idweapon": 166,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 297,
+    "idweapon": 166,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 298,
+    "idweapon": 166,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 299,
+    "idweapon": 167,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 300,
+    "idweapon": 167,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 301,
+    "idweapon": 167,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 302,
+    "idweapon": 168,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 303,
+    "idweapon": 168,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 304,
+    "idweapon": 168,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 305,
+    "idweapon": 169,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 306,
+    "idweapon": 169,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 307,
+    "idweapon": 169,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 308,
+    "idweapon": 170,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 309,
+    "idweapon": 170,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 310,
+    "idweapon": 170,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 311,
+    "idweapon": 171,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 312,
+    "idweapon": 171,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 313,
+    "idweapon": 171,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 314,
+    "idweapon": 172,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 315,
+    "idweapon": 172,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 316,
+    "idweapon": 172,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 317,
+    "idweapon": 173,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 318,
+    "idweapon": 173,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 319,
+    "idweapon": 173,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 320,
+    "idweapon": 174,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 321,
+    "idweapon": 174,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 322,
+    "idweapon": 174,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 323,
+    "idweapon": 175,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 324,
+    "idweapon": 175,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 325,
+    "idweapon": 175,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 326,
+    "idweapon": 176,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 327,
+    "idweapon": 176,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 328,
+    "idweapon": 176,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 329,
+    "idweapon": 177,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 330,
+    "idweapon": 177,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 331,
+    "idweapon": 177,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 332,
+    "idweapon": 178,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 333,
+    "idweapon": 178,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 334,
+    "idweapon": 178,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 335,
+    "idweapon": 179,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 336,
+    "idweapon": 179,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 337,
+    "idweapon": 179,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 338,
+    "idweapon": 180,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 339,
+    "idweapon": 180,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 340,
+    "idweapon": 180,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 341,
+    "idweapon": 181,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 342,
+    "idweapon": 181,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 343,
+    "idweapon": 181,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 344,
+    "idweapon": 182,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 345,
+    "idweapon": 182,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 346,
+    "idweapon": 182,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 347,
+    "idweapon": 183,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 348,
+    "idweapon": 183,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 349,
+    "idweapon": 183,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 350,
+    "idweapon": 184,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 351,
+    "idweapon": 184,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 352,
+    "idweapon": 184,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 353,
+    "idweapon": 185,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 354,
+    "idweapon": 185,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 355,
+    "idweapon": 185,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 356,
+    "idweapon": 186,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 357,
+    "idweapon": 186,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 358,
+    "idweapon": 186,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 359,
+    "idweapon": 187,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 361,
+    "idweapon": 187,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 362,
+    "idweapon": 188,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 364,
+    "idweapon": 188,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 365,
+    "idweapon": 189,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 367,
+    "idweapon": 189,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 368,
+    "idweapon": 190,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 370,
+    "idweapon": 190,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 371,
+    "idweapon": 191,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 373,
+    "idweapon": 191,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 375,
+    "idweapon": 192,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 376,
+    "idweapon": 192,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 378,
+    "idweapon": 193,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 379,
+    "idweapon": 193,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 381,
+    "idweapon": 194,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 382,
+    "idweapon": 194,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 384,
+    "idweapon": 195,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 385,
+    "idweapon": 195,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 387,
+    "idweapon": 196,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 388,
+    "idweapon": 196,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 390,
+    "idweapon": 197,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 391,
+    "idweapon": 197,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 392,
+    "idweapon": 198,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 393,
+    "idweapon": 198,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 394,
+    "idweapon": 198,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 395,
+    "idweapon": 199,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 396,
+    "idweapon": 199,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 397,
+    "idweapon": 199,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 2
+  },
+  {
+    "id": 399,
+    "idweapon": 200,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 400,
+    "idweapon": 200,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 402,
+    "idweapon": 201,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 403,
+    "idweapon": 201,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 405,
+    "idweapon": 202,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 406,
+    "idweapon": 202,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 408,
+    "idweapon": 203,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 409,
+    "idweapon": 203,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 410,
+    "idweapon": 207,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 411,
+    "idweapon": 207,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 412,
+    "idweapon": 207,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 413,
+    "idweapon": 208,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 414,
+    "idweapon": 208,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 4
+  },
+  {
+    "id": 415,
+    "idweapon": 208,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 416,
+    "idweapon": 209,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 417,
+    "idweapon": 209,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 4
+  },
+  {
+    "id": 418,
+    "idweapon": 209,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 419,
+    "idweapon": 210,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 420,
+    "idweapon": 210,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 421,
+    "idweapon": 210,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 422,
+    "idweapon": 211,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 423,
+    "idweapon": 211,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 425,
+    "idweapon": 212,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 426,
+    "idweapon": 212,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 427,
+    "idweapon": 212,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 431,
+    "idweapon": 214,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 433,
+    "idweapon": 214,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 434,
+    "idweapon": 215,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 435,
+    "idweapon": 215,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 436,
+    "idweapon": 215,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 437,
+    "idweapon": 216,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 438,
+    "idweapon": 216,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 439,
+    "idweapon": 216,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 440,
+    "idweapon": 217,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 441,
+    "idweapon": 217,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 443,
+    "idweapon": 218,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 444,
+    "idweapon": 218,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 445,
+    "idweapon": 218,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 449,
+    "idweapon": 220,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 451,
+    "idweapon": 220,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 452,
+    "idweapon": 221,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 453,
+    "idweapon": 221,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 454,
+    "idweapon": 221,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 455,
+    "idweapon": 222,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 456,
+    "idweapon": 222,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 457,
+    "idweapon": 222,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 458,
+    "idweapon": 223,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 459,
+    "idweapon": 223,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 461,
+    "idweapon": 224,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 462,
+    "idweapon": 224,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 463,
+    "idweapon": 224,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 467,
+    "idweapon": 226,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 468,
+    "idweapon": 226,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 469,
+    "idweapon": 226,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 470,
+    "idweapon": 227,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 471,
+    "idweapon": 227,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 472,
+    "idweapon": 227,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 473,
+    "idweapon": 228,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 474,
+    "idweapon": 228,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 475,
+    "idweapon": 228,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 476,
+    "idweapon": 229,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 477,
+    "idweapon": 229,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 479,
+    "idweapon": 230,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 480,
+    "idweapon": 230,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 481,
+    "idweapon": 230,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 485,
+    "idweapon": 232,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 487,
+    "idweapon": 232,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 488,
+    "idweapon": 233,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 489,
+    "idweapon": 233,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 490,
+    "idweapon": 233,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 491,
+    "idweapon": 234,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 492,
+    "idweapon": 234,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 493,
+    "idweapon": 234,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 494,
+    "idweapon": 235,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 495,
+    "idweapon": 235,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 496,
+    "idweapon": 235,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 497,
+    "idweapon": 236,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 498,
+    "idweapon": 236,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 499,
+    "idweapon": 236,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 500,
+    "idweapon": 237,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 501,
+    "idweapon": 237,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 502,
+    "idweapon": 237,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 503,
+    "idweapon": 238,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 504,
+    "idweapon": 238,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 505,
+    "idweapon": 238,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 506,
+    "idweapon": 239,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 507,
+    "idweapon": 239,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 509,
+    "idweapon": 240,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 510,
+    "idweapon": 240,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 511,
+    "idweapon": 240,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 512,
+    "idweapon": 241,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 513,
+    "idweapon": 241,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 514,
+    "idweapon": 241,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 521,
+    "idweapon": 244,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 522,
+    "idweapon": 244,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 523,
+    "idweapon": 244,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 527,
+    "idweapon": 246,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 528,
+    "idweapon": 246,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 529,
+    "idweapon": 246,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 542,
+    "idweapon": 253,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 543,
+    "idweapon": 253,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 544,
+    "idweapon": 253,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 545,
+    "idweapon": 254,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 546,
+    "idweapon": 254,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 547,
+    "idweapon": 254,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 548,
+    "idweapon": 255,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 549,
+    "idweapon": 255,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 550,
+    "idweapon": 255,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 551,
+    "idweapon": 256,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 552,
+    "idweapon": 256,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 553,
+    "idweapon": 256,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 554,
+    "idweapon": 257,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 555,
+    "idweapon": 257,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 556,
+    "idweapon": 257,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 557,
+    "idweapon": 258,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 558,
+    "idweapon": 258,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 559,
+    "idweapon": 258,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 563,
+    "idweapon": 260,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 564,
+    "idweapon": 260,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 565,
+    "idweapon": 260,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 566,
+    "idweapon": 261,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 567,
+    "idweapon": 261,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 568,
+    "idweapon": 261,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 569,
+    "idweapon": 262,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 570,
+    "idweapon": 262,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 571,
+    "idweapon": 262,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 572,
+    "idweapon": 263,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 573,
+    "idweapon": 263,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 574,
+    "idweapon": 263,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 575,
+    "idweapon": 264,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 576,
+    "idweapon": 264,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 577,
+    "idweapon": 264,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 578,
+    "idweapon": 265,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 579,
+    "idweapon": 265,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 580,
+    "idweapon": 265,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 581,
+    "idweapon": 266,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 582,
+    "idweapon": 266,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 583,
+    "idweapon": 266,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 584,
+    "idweapon": 267,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 585,
+    "idweapon": 267,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 586,
+    "idweapon": 267,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 587,
+    "idweapon": 268,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 588,
+    "idweapon": 268,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 589,
+    "idweapon": 268,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 590,
+    "idweapon": 269,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 591,
+    "idweapon": 269,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 592,
+    "idweapon": 269,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 593,
+    "idweapon": 270,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 594,
+    "idweapon": 270,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 595,
+    "idweapon": 270,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 596,
+    "idweapon": 271,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 597,
+    "idweapon": 271,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 598,
+    "idweapon": 271,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 599,
+    "idweapon": 272,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 600,
+    "idweapon": 272,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 601,
+    "idweapon": 272,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 602,
+    "idweapon": 273,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 603,
+    "idweapon": 273,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 604,
+    "idweapon": 273,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 605,
+    "idweapon": 274,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 606,
+    "idweapon": 274,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 607,
+    "idweapon": 274,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 608,
+    "idweapon": 275,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 609,
+    "idweapon": 275,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 610,
+    "idweapon": 275,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 611,
+    "idweapon": 276,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 612,
+    "idweapon": 276,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 613,
+    "idweapon": 276,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 614,
+    "idweapon": 277,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 615,
+    "idweapon": 277,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 616,
+    "idweapon": 277,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 617,
+    "idweapon": 278,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 618,
+    "idweapon": 278,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 619,
+    "idweapon": 278,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 620,
+    "idweapon": 279,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 621,
+    "idweapon": 279,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 622,
+    "idweapon": 279,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 625,
+    "idweapon": 282,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 626,
+    "idweapon": 282,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 627,
+    "idweapon": 282,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 628,
+    "idweapon": 283,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 630,
+    "idweapon": 283,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 631,
+    "idweapon": 284,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 632,
+    "idweapon": 284,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 633,
+    "idweapon": 284,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 634,
+    "idweapon": 285,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 635,
+    "idweapon": 285,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 637,
+    "idweapon": 286,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 638,
+    "idweapon": 286,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 639,
+    "idweapon": 286,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 640,
+    "idweapon": 287,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 641,
+    "idweapon": 287,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 642,
+    "idweapon": 287,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 644,
+    "idweapon": 288,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 645,
+    "idweapon": 288,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 646,
+    "idweapon": 289,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 648,
+    "idweapon": 289,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 650,
+    "idweapon": 290,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 651,
+    "idweapon": 290,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 653,
+    "idweapon": 291,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 12
+  },
+  {
+    "id": 654,
+    "idweapon": 291,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 655,
+    "idweapon": 147,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 656,
+    "idweapon": 147,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 657,
+    "idweapon": 146,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 658,
+    "idweapon": 146,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 659,
+    "idweapon": 149,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 660,
+    "idweapon": 148,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 661,
+    "idweapon": 151,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 662,
+    "idweapon": 150,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 663,
+    "idweapon": 104,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 664,
+    "idweapon": 104,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 665,
+    "idweapon": 187,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 666,
+    "idweapon": 187,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 667,
+    "idweapon": 189,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 668,
+    "idweapon": 189,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 669,
+    "idweapon": 188,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 670,
+    "idweapon": 188,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 671,
+    "idweapon": 191,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 672,
+    "idweapon": 191,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 673,
+    "idweapon": 190,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 674,
+    "idweapon": 190,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 675,
+    "idweapon": 143,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 676,
+    "idweapon": 142,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 677,
+    "idweapon": 145,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 678,
+    "idweapon": 144,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 679,
+    "idweapon": 113,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 680,
+    "idweapon": 114,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 681,
+    "idweapon": 203,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 682,
+    "idweapon": 202,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 683,
+    "idweapon": 201,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 684,
+    "idweapon": 200,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 685,
+    "idweapon": 126,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 686,
+    "idweapon": 127,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 687,
+    "idweapon": 195,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 688,
+    "idweapon": 194,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 689,
+    "idweapon": 193,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 690,
+    "idweapon": 192,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 692,
+    "idweapon": 105,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 693,
+    "idweapon": 105,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 694,
+    "idweapon": 157,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 695,
+    "idweapon": 156,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 696,
+    "idweapon": 197,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 697,
+    "idweapon": 196,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 698,
+    "idweapon": 235,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 699,
+    "idweapon": 95,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 700,
+    "idweapon": 96,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 701,
+    "idweapon": 107,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 702,
+    "idweapon": 321,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 703,
+    "idweapon": 321,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 704,
+    "idweapon": 321,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 705,
+    "idweapon": 322,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 706,
+    "idweapon": 322,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 707,
+    "idweapon": 323,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 708,
+    "idweapon": 323,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 709,
+    "idweapon": 323,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 710,
+    "idweapon": 324,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 711,
+    "idweapon": 324,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 712,
+    "idweapon": 324,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 713,
+    "idweapon": 325,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 714,
+    "idweapon": 325,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 715,
+    "idweapon": 325,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 716,
+    "idweapon": 326,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 717,
+    "idweapon": 326,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 718,
+    "idweapon": 326,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 719,
+    "idweapon": 326,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 720,
+    "idweapon": 327,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 721,
+    "idweapon": 327,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 722,
+    "idweapon": 327,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 723,
+    "idweapon": 327,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 724,
+    "idweapon": 328,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 725,
+    "idweapon": 328,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 726,
+    "idweapon": 329,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 727,
+    "idweapon": 329,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 728,
+    "idweapon": 329,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 729,
+    "idweapon": 330,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 730,
+    "idweapon": 330,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 731,
+    "idweapon": 330,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 732,
+    "idweapon": 331,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 733,
+    "idweapon": 331,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 734,
+    "idweapon": 331,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 3
+  },
+  {
+    "id": 735,
+    "idweapon": 288,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 736,
+    "idweapon": 289,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 737,
+    "idweapon": 289,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 738,
+    "idweapon": 291,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 739,
+    "idweapon": 290,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 742,
+    "idweapon": 215,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 743,
+    "idweapon": 233,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 744,
+    "idweapon": 227,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 745,
+    "idweapon": 221,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 9
+  },
+  {
+    "id": 746,
+    "idweapon": 232,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 747,
+    "idweapon": 232,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 748,
+    "idweapon": 226,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 749,
+    "idweapon": 214,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 750,
+    "idweapon": 214,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 751,
+    "idweapon": 220,
+    "attribute_type": 11,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 752,
+    "idweapon": 220,
+    "attribute_type": 12,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 753,
+    "idweapon": 237,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 754,
+    "idweapon": 240,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 755,
+    "idweapon": 241,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 758,
+    "idweapon": 357,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 759,
+    "idweapon": 357,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 760,
+    "idweapon": 357,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 761,
+    "idweapon": 359,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 762,
+    "idweapon": 359,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 763,
+    "idweapon": 359,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 764,
+    "idweapon": 359,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 765,
+    "idweapon": 363,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 766,
+    "idweapon": 363,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 767,
+    "idweapon": 363,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 768,
+    "idweapon": 379,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 769,
+    "idweapon": 379,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 770,
+    "idweapon": 379,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 771,
+    "idweapon": 378,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 772,
+    "idweapon": 378,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 773,
+    "idweapon": 378,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 774,
+    "idweapon": 364,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 775,
+    "idweapon": 364,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 776,
+    "idweapon": 364,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 777,
+    "idweapon": 365,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 778,
+    "idweapon": 365,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 779,
+    "idweapon": 365,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 780,
+    "idweapon": 386,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 781,
+    "idweapon": 386,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 782,
+    "idweapon": 386,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 783,
+    "idweapon": 387,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 784,
+    "idweapon": 387,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 785,
+    "idweapon": 387,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 786,
+    "idweapon": 380,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 787,
+    "idweapon": 380,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 788,
+    "idweapon": 380,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 789,
+    "idweapon": 367,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 790,
+    "idweapon": 367,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 791,
+    "idweapon": 367,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 792,
+    "idweapon": 381,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 793,
+    "idweapon": 381,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 794,
+    "idweapon": 381,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 795,
+    "idweapon": 366,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 796,
+    "idweapon": 366,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 797,
+    "idweapon": 366,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 798,
+    "idweapon": 371,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 799,
+    "idweapon": 371,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 800,
+    "idweapon": 371,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 801,
+    "idweapon": 369,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 802,
+    "idweapon": 369,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 803,
+    "idweapon": 369,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 804,
+    "idweapon": 370,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 805,
+    "idweapon": 370,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 806,
+    "idweapon": 370,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 807,
+    "idweapon": 368,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 808,
+    "idweapon": 368,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 809,
+    "idweapon": 368,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 15
+  },
+  {
+    "id": 810,
+    "idweapon": 373,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 811,
+    "idweapon": 373,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 812,
+    "idweapon": 373,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 813,
+    "idweapon": 383,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 814,
+    "idweapon": 383,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 815,
+    "idweapon": 383,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 816,
+    "idweapon": 382,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 817,
+    "idweapon": 382,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 818,
+    "idweapon": 382,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 819,
+    "idweapon": 372,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 820,
+    "idweapon": 372,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 821,
+    "idweapon": 372,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 822,
+    "idweapon": 389,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 823,
+    "idweapon": 389,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 824,
+    "idweapon": 389,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 825,
+    "idweapon": 390,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 826,
+    "idweapon": 390,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 827,
+    "idweapon": 390,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 828,
+    "idweapon": 374,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 829,
+    "idweapon": 374,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 830,
+    "idweapon": 374,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 831,
+    "idweapon": 374,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 832,
+    "idweapon": 375,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 833,
+    "idweapon": 375,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 834,
+    "idweapon": 375,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 835,
+    "idweapon": 375,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 836,
+    "idweapon": 376,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 837,
+    "idweapon": 376,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 838,
+    "idweapon": 376,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 839,
+    "idweapon": 376,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 840,
+    "idweapon": 377,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 841,
+    "idweapon": 377,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 843,
+    "idweapon": 377,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 844,
+    "idweapon": 377,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 845,
+    "idweapon": 283,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 846,
+    "idweapon": 395,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 847,
+    "idweapon": 395,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 848,
+    "idweapon": 395,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 5
+  },
+  {
+    "id": 849,
+    "idweapon": 396,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 850,
+    "idweapon": 396,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 851,
+    "idweapon": 396,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 6
+  },
+  {
+    "id": 852,
+    "idweapon": 397,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 853,
+    "idweapon": 397,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 854,
+    "idweapon": 397,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 8
+  },
+  {
+    "id": 949,
+    "idweapon": 509,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 955,
+    "idweapon": 515,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 966,
+    "idweapon": 526,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 967,
+    "idweapon": 527,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 980,
+    "idweapon": 540,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 981,
+    "idweapon": 541,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 993,
+    "idweapon": 496,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 995,
+    "idweapon": 496,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 996,
+    "idweapon": 497,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 997,
+    "idweapon": 496,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 998,
+    "idweapon": 497,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 999,
+    "idweapon": 497,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1000,
+    "idweapon": 502,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1001,
+    "idweapon": 502,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1002,
+    "idweapon": 502,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1003,
+    "idweapon": 503,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1004,
+    "idweapon": 503,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1005,
+    "idweapon": 503,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1007,
+    "idweapon": 508,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1008,
+    "idweapon": 514,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1009,
+    "idweapon": 528,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1010,
+    "idweapon": 528,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1011,
+    "idweapon": 528,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1012,
+    "idweapon": 529,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1013,
+    "idweapon": 529,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1014,
+    "idweapon": 542,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1015,
+    "idweapon": 542,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1016,
+    "idweapon": 542,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1018,
+    "idweapon": 543,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1019,
+    "idweapon": 549,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1020,
+    "idweapon": 550,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1021,
+    "idweapon": 550,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1022,
+    "idweapon": 550,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1023,
+    "idweapon": 551,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 150
+  },
+  {
+    "id": 1024,
+    "idweapon": 415,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1025,
+    "idweapon": 415,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1026,
+    "idweapon": 415,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1027,
+    "idweapon": 416,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1028,
+    "idweapon": 416,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1029,
+    "idweapon": 416,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1030,
+    "idweapon": 417,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1031,
+    "idweapon": 417,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1032,
+    "idweapon": 418,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1033,
+    "idweapon": 418,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1034,
+    "idweapon": 418,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1035,
+    "idweapon": 419,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1036,
+    "idweapon": 419,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1037,
+    "idweapon": 419,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1038,
+    "idweapon": 420,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1039,
+    "idweapon": 420,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1040,
+    "idweapon": 420,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1041,
+    "idweapon": 421,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1042,
+    "idweapon": 421,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1043,
+    "idweapon": 421,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1044,
+    "idweapon": 422,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1045,
+    "idweapon": 422,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1046,
+    "idweapon": 422,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1047,
+    "idweapon": 423,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1048,
+    "idweapon": 423,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1049,
+    "idweapon": 423,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1050,
+    "idweapon": 424,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1051,
+    "idweapon": 424,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1052,
+    "idweapon": 425,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1053,
+    "idweapon": 425,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1054,
+    "idweapon": 426,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1055,
+    "idweapon": 426,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1056,
+    "idweapon": 426,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1057,
+    "idweapon": 427,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 1058,
+    "idweapon": 427,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1059,
+    "idweapon": 427,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1060,
+    "idweapon": 428,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1061,
+    "idweapon": 428,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1062,
+    "idweapon": 428,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1063,
+    "idweapon": 429,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1064,
+    "idweapon": 429,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1065,
+    "idweapon": 429,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1066,
+    "idweapon": 430,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1067,
+    "idweapon": 430,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1068,
+    "idweapon": 430,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1069,
+    "idweapon": 431,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1070,
+    "idweapon": 431,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1071,
+    "idweapon": 431,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1072,
+    "idweapon": 432,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1073,
+    "idweapon": 432,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1074,
+    "idweapon": 432,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1075,
+    "idweapon": 433,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1076,
+    "idweapon": 433,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1077,
+    "idweapon": 433,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1078,
+    "idweapon": 434,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1079,
+    "idweapon": 434,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1080,
+    "idweapon": 434,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1081,
+    "idweapon": 435,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1082,
+    "idweapon": 435,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1083,
+    "idweapon": 435,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1084,
+    "idweapon": 436,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1085,
+    "idweapon": 436,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1086,
+    "idweapon": 437,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1087,
+    "idweapon": 437,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1088,
+    "idweapon": 438,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1089,
+    "idweapon": 438,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1090,
+    "idweapon": 439,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1091,
+    "idweapon": 439,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1092,
+    "idweapon": 439,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1093,
+    "idweapon": 440,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1094,
+    "idweapon": 440,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1095,
+    "idweapon": 440,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1096,
+    "idweapon": 441,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1097,
+    "idweapon": 441,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1098,
+    "idweapon": 441,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1099,
+    "idweapon": 442,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1100,
+    "idweapon": 442,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1101,
+    "idweapon": 442,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1102,
+    "idweapon": 443,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1103,
+    "idweapon": 443,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1104,
+    "idweapon": 443,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1105,
+    "idweapon": 444,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1106,
+    "idweapon": 444,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1107,
+    "idweapon": 444,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1108,
+    "idweapon": 445,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1109,
+    "idweapon": 445,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1110,
+    "idweapon": 445,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1111,
+    "idweapon": 446,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1112,
+    "idweapon": 446,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1113,
+    "idweapon": 446,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1114,
+    "idweapon": 447,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1115,
+    "idweapon": 447,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1116,
+    "idweapon": 447,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1117,
+    "idweapon": 448,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1118,
+    "idweapon": 448,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1119,
+    "idweapon": 448,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1120,
+    "idweapon": 449,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1121,
+    "idweapon": 449,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1122,
+    "idweapon": 449,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1123,
+    "idweapon": 450,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1124,
+    "idweapon": 450,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1125,
+    "idweapon": 450,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1126,
+    "idweapon": 451,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1127,
+    "idweapon": 451,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1128,
+    "idweapon": 452,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1129,
+    "idweapon": 452,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1130,
+    "idweapon": 453,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1131,
+    "idweapon": 453,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1132,
+    "idweapon": 454,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1133,
+    "idweapon": 454,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1134,
+    "idweapon": 454,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1135,
+    "idweapon": 455,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1136,
+    "idweapon": 455,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1137,
+    "idweapon": 455,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1138,
+    "idweapon": 456,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1139,
+    "idweapon": 456,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1140,
+    "idweapon": 456,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1141,
+    "idweapon": 457,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1142,
+    "idweapon": 457,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1143,
+    "idweapon": 457,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1144,
+    "idweapon": 458,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1145,
+    "idweapon": 458,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1146,
+    "idweapon": 458,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1147,
+    "idweapon": 459,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1148,
+    "idweapon": 459,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1149,
+    "idweapon": 459,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1150,
+    "idweapon": 460,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1151,
+    "idweapon": 460,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1152,
+    "idweapon": 461,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1153,
+    "idweapon": 461,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 1154,
+    "idweapon": 461,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1155,
+    "idweapon": 461,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1156,
+    "idweapon": 462,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1157,
+    "idweapon": 462,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1158,
+    "idweapon": 463,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1159,
+    "idweapon": 463,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1160,
+    "idweapon": 464,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1161,
+    "idweapon": 464,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1162,
+    "idweapon": 465,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1163,
+    "idweapon": 465,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 1164,
+    "idweapon": 465,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1165,
+    "idweapon": 465,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1166,
+    "idweapon": 466,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1167,
+    "idweapon": 466,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1168,
+    "idweapon": 466,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1169,
+    "idweapon": 466,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1170,
+    "idweapon": 467,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1171,
+    "idweapon": 467,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 1172,
+    "idweapon": 467,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1173,
+    "idweapon": 467,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1174,
+    "idweapon": 468,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1175,
+    "idweapon": 468,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1176,
+    "idweapon": 469,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1177,
+    "idweapon": 469,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1178,
+    "idweapon": 470,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1179,
+    "idweapon": 470,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1180,
+    "idweapon": 471,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1181,
+    "idweapon": 471,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1182,
+    "idweapon": 472,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1183,
+    "idweapon": 472,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1184,
+    "idweapon": 473,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1185,
+    "idweapon": 473,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1186,
+    "idweapon": 474,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1187,
+    "idweapon": 474,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 1188,
+    "idweapon": 474,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1189,
+    "idweapon": 474,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1190,
+    "idweapon": 475,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1191,
+    "idweapon": 475,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 1192,
+    "idweapon": 475,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1193,
+    "idweapon": 475,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1194,
+    "idweapon": 476,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1195,
+    "idweapon": 476,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 1196,
+    "idweapon": 476,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1197,
+    "idweapon": 476,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1198,
+    "idweapon": 477,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1199,
+    "idweapon": 477,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 1200,
+    "idweapon": 477,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1201,
+    "idweapon": 477,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1202,
+    "idweapon": 478,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1203,
+    "idweapon": 478,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 1204,
+    "idweapon": 478,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1205,
+    "idweapon": 478,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1206,
+    "idweapon": 479,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1207,
+    "idweapon": 479,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 1208,
+    "idweapon": 479,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1209,
+    "idweapon": 479,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1210,
+    "idweapon": 480,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1211,
+    "idweapon": 480,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1212,
+    "idweapon": 481,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1213,
+    "idweapon": 481,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1214,
+    "idweapon": 482,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1215,
+    "idweapon": 482,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1216,
+    "idweapon": 483,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1217,
+    "idweapon": 483,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1218,
+    "idweapon": 484,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1219,
+    "idweapon": 484,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1220,
+    "idweapon": 485,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1221,
+    "idweapon": 485,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1222,
+    "idweapon": 486,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1223,
+    "idweapon": 486,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1224,
+    "idweapon": 486,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1225,
+    "idweapon": 486,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1226,
+    "idweapon": 487,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1227,
+    "idweapon": 487,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1228,
+    "idweapon": 487,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1229,
+    "idweapon": 487,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1230,
+    "idweapon": 488,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1231,
+    "idweapon": 488,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1232,
+    "idweapon": 488,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1233,
+    "idweapon": 488,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1234,
+    "idweapon": 489,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1235,
+    "idweapon": 489,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1236,
+    "idweapon": 489,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1237,
+    "idweapon": 489,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1238,
+    "idweapon": 490,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1239,
+    "idweapon": 490,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1240,
+    "idweapon": 490,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1241,
+    "idweapon": 490,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1242,
+    "idweapon": 491,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1243,
+    "idweapon": 491,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 1244,
+    "idweapon": 491,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1245,
+    "idweapon": 491,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1246,
+    "idweapon": 492,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1247,
+    "idweapon": 492,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1248,
+    "idweapon": 492,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1249,
+    "idweapon": 493,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1250,
+    "idweapon": 493,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1251,
+    "idweapon": 493,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1252,
+    "idweapon": 494,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1253,
+    "idweapon": 494,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1254,
+    "idweapon": 494,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1255,
+    "idweapon": 495,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1256,
+    "idweapon": 495,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1257,
+    "idweapon": 495,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1258,
+    "idweapon": 498,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1259,
+    "idweapon": 498,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1260,
+    "idweapon": 498,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1261,
+    "idweapon": 499,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1262,
+    "idweapon": 499,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1263,
+    "idweapon": 499,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1264,
+    "idweapon": 500,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1265,
+    "idweapon": 500,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1266,
+    "idweapon": 500,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1267,
+    "idweapon": 501,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1268,
+    "idweapon": 501,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1269,
+    "idweapon": 501,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1270,
+    "idweapon": 504,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1271,
+    "idweapon": 504,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1272,
+    "idweapon": 504,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1273,
+    "idweapon": 505,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1274,
+    "idweapon": 505,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1275,
+    "idweapon": 505,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1276,
+    "idweapon": 506,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1277,
+    "idweapon": 506,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1278,
+    "idweapon": 506,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1279,
+    "idweapon": 507,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1280,
+    "idweapon": 507,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1281,
+    "idweapon": 507,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1282,
+    "idweapon": 510,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1283,
+    "idweapon": 510,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1284,
+    "idweapon": 510,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1285,
+    "idweapon": 511,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1286,
+    "idweapon": 511,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1287,
+    "idweapon": 511,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1288,
+    "idweapon": 512,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1289,
+    "idweapon": 512,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1290,
+    "idweapon": 512,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1291,
+    "idweapon": 513,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1292,
+    "idweapon": 513,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1293,
+    "idweapon": 513,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1294,
+    "idweapon": 516,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1295,
+    "idweapon": 516,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1296,
+    "idweapon": 516,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1297,
+    "idweapon": 517,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1298,
+    "idweapon": 517,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1299,
+    "idweapon": 517,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1300,
+    "idweapon": 518,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1301,
+    "idweapon": 518,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1302,
+    "idweapon": 518,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1303,
+    "idweapon": 519,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1304,
+    "idweapon": 519,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1305,
+    "idweapon": 519,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1306,
+    "idweapon": 520,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1307,
+    "idweapon": 520,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1308,
+    "idweapon": 521,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1309,
+    "idweapon": 521,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1310,
+    "idweapon": 522,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1311,
+    "idweapon": 522,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1312,
+    "idweapon": 522,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1313,
+    "idweapon": 523,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 1314,
+    "idweapon": 523,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1315,
+    "idweapon": 523,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1316,
+    "idweapon": 524,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1317,
+    "idweapon": 524,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1318,
+    "idweapon": 524,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1319,
+    "idweapon": 525,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1320,
+    "idweapon": 525,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1321,
+    "idweapon": 525,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 1322,
+    "idweapon": 530,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1323,
+    "idweapon": 530,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1324,
+    "idweapon": 530,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1325,
+    "idweapon": 531,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1326,
+    "idweapon": 531,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1327,
+    "idweapon": 531,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1328,
+    "idweapon": 532,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1329,
+    "idweapon": 532,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1330,
+    "idweapon": 532,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1331,
+    "idweapon": 533,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1332,
+    "idweapon": 533,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1333,
+    "idweapon": 533,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1334,
+    "idweapon": 534,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1335,
+    "idweapon": 534,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1336,
+    "idweapon": 535,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1337,
+    "idweapon": 535,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1338,
+    "idweapon": 536,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1339,
+    "idweapon": 536,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1340,
+    "idweapon": 536,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1341,
+    "idweapon": 537,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1342,
+    "idweapon": 537,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1343,
+    "idweapon": 537,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1344,
+    "idweapon": 538,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1345,
+    "idweapon": 538,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1346,
+    "idweapon": 538,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1347,
+    "idweapon": 539,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1348,
+    "idweapon": 539,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1349,
+    "idweapon": 539,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1350,
+    "idweapon": 544,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1351,
+    "idweapon": 544,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1352,
+    "idweapon": 544,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1353,
+    "idweapon": 545,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1354,
+    "idweapon": 545,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1355,
+    "idweapon": 545,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1356,
+    "idweapon": 546,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1357,
+    "idweapon": 546,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1358,
+    "idweapon": 547,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 1359,
+    "idweapon": 547,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1360,
+    "idweapon": 547,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1361,
+    "idweapon": 548,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1362,
+    "idweapon": 548,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1363,
+    "idweapon": 548,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 1364,
+    "idweapon": 462,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 1365,
+    "idweapon": 462,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  }
+]

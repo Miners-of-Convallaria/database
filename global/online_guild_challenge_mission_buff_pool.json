@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "m_mission_buff_pools": [],
+    "name": "boss突变条件池测试1",
+    "pick_num": 1,
+    "mission_buff_pool_ids": "1|2|3"
+  },
+  {
+    "id": 2,
+    "m_mission_buff_pools": [],
+    "name": "boss突变条件池测试2",
+    "pick_num": 1,
+    "mission_buff_pool_ids": "4|5|6"
+  },
+  {
+    "id": 3,
+    "m_mission_buff_pools": [],
+    "name": "boss突变条件池测试3",
+    "pick_num": 1,
+    "mission_buff_pool_ids": "7|8|9"
+  }
+]

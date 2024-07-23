@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "N",
+    "name": "N",
+    "money": 500
+  },
+  {
+    "id": 2,
+    "type": "R",
+    "name": "R",
+    "money": 1500
+  },
+  {
+    "id": 3,
+    "type": "SR",
+    "name": "SR",
+    "money": 5000
+  },
+  {
+    "id": 4,
+    "type": "SSR",
+    "name": "SSR",
+    "money": 30000
+  }
+]

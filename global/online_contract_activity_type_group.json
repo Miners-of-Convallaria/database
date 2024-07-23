@@ -1,0 +1,254 @@
+[
+  {
+    "id": 7,
+    "idonline_contract_activity": 2,
+    "type": 1,
+    "param0": 3,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityBig02_LevelSelect"
+  },
+  {
+    "id": 8,
+    "idonline_contract_activity": 2,
+    "type": 2,
+    "param0": 23,
+    "param1": 0,
+    "condition": "通关【盛宴的邀约】第四幕后解锁",
+    "prefab_name": "ActivityBig02_Sandbox"
+  },
+  {
+    "id": 9,
+    "idonline_contract_activity": 2,
+    "type": 3,
+    "param0": 1,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityBig02_Quest"
+  },
+  {
+    "id": 11,
+    "idonline_contract_activity": 2,
+    "type": 5,
+    "param0": 11,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityBig02_Shop"
+  },
+  {
+    "id": 12,
+    "idonline_contract_activity": 3,
+    "type": 1,
+    "param0": 4,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 13,
+    "idonline_contract_activity": 3,
+    "type": 2,
+    "param0": 24,
+    "param1": 1,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 14,
+    "idonline_contract_activity": 3,
+    "type": 3,
+    "param0": 2,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityQuestNew"
+  },
+  {
+    "id": 15,
+    "idonline_contract_activity": 3,
+    "type": 4,
+    "param0": 2,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityPointExchange"
+  },
+  {
+    "id": 18,
+    "idonline_contract_activity": 4,
+    "type": 1,
+    "param0": 5,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityBig01_LevelSelect"
+  },
+  {
+    "id": 19,
+    "idonline_contract_activity": 4,
+    "type": 3,
+    "param0": 3,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityBig01_Quest"
+  },
+  {
+    "id": 20,
+    "idonline_contract_activity": 4,
+    "type": 5,
+    "param0": 12,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityBig01_Shop"
+  },
+  {
+    "id": 21,
+    "idonline_contract_activity": 4,
+    "type": 2,
+    "param0": 25,
+    "param1": 0,
+    "condition": "通关【剧情战役】第四幕后解锁",
+    "prefab_name": "ActivityBig01_Sandbox"
+  },
+  {
+    "id": 23,
+    "idonline_contract_activity": 5,
+    "type": 1,
+    "param0": 6,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 24,
+    "idonline_contract_activity": 5,
+    "type": 3,
+    "param0": 4,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityLittle01_Quest"
+  },
+  {
+    "id": 25,
+    "idonline_contract_activity": 5,
+    "type": 5,
+    "param0": 14,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityLittle01_Shop"
+  },
+  {
+    "id": 27,
+    "idonline_contract_activity": 4,
+    "type": 6,
+    "param0": 1,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityBig01_AwakeningTactical"
+  },
+  {
+    "id": 28,
+    "idonline_contract_activity": 6,
+    "type": 1,
+    "param0": 7,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 29,
+    "idonline_contract_activity": 6,
+    "type": 2,
+    "param0": 26,
+    "param1": 1,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 30,
+    "idonline_contract_activity": 6,
+    "type": 3,
+    "param0": 6,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityMiddle02QuestView"
+  },
+  {
+    "id": 31,
+    "idonline_contract_activity": 6,
+    "type": 5,
+    "param0": 15,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityMiddle02ShopView"
+  },
+  {
+    "id": 32,
+    "idonline_contract_activity": 7,
+    "type": 1,
+    "param0": 8,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityBig03LevelSelectView"
+  },
+  {
+    "id": 33,
+    "idonline_contract_activity": 7,
+    "type": 2,
+    "param0": 27,
+    "param1": 0,
+    "condition": "通关【游园奇旅】第三幕后解锁",
+    "prefab_name": "UIActivityBig03SandboxView"
+  },
+  {
+    "id": 34,
+    "idonline_contract_activity": 7,
+    "type": 3,
+    "param0": 9,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityBig03QuestView"
+  },
+  {
+    "id": 35,
+    "idonline_contract_activity": 7,
+    "type": 5,
+    "param0": 16,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityBig03ShopView"
+  },
+  {
+    "id": 36,
+    "idonline_contract_activity": 8,
+    "type": 1,
+    "param0": 9,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 37,
+    "idonline_contract_activity": 8,
+    "type": 2,
+    "param0": 28,
+    "param1": 1,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 38,
+    "idonline_contract_activity": 8,
+    "type": 3,
+    "param0": 10,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityMiddle03QuestView"
+  },
+  {
+    "id": 39,
+    "idonline_contract_activity": 8,
+    "type": 4,
+    "param0": 3,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityMiddle03PointExchangeView"
+  }
+]

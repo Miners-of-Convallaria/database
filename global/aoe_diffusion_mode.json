@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "DISTANCE_CLOSEST",
+    "name": "中心向外",
+    "one_by_one": false
+  },
+  {
+    "id": 2,
+    "type": "DISTANCE_CLOSEST_SINGLE",
+    "name": "中心向外(逐个播放)",
+    "one_by_one": true
+  },
+  {
+    "id": 3,
+    "type": "ROW_CLOSEST",
+    "name": "逐排、由近至远",
+    "one_by_one": false
+  },
+  {
+    "id": 4,
+    "type": "ROW_CLOSEST_SINGLE",
+    "name": "逐排、由近至远(逐个播放)",
+    "one_by_one": true
+  }
+]

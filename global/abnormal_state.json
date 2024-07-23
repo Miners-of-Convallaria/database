@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "type": "Seal",
+    "name": "封技",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "type": "Forget",
+    "name": "遗忘",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "type": "Dizzy",
+    "name": "晕眩",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "type": "Frozen",
+    "name": "冰封",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "type": "Poison",
+    "name": "猛毒",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "type": "Fire",
+    "name": "灼烧",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 7,
+    "type": "Dot",
+    "name": "生命流失",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 8,
+    "type": "Hot",
+    "name": "持续治疗",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 9,
+    "type": "AttackUp",
+    "name": "攻击提高",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 10,
+    "type": "DefenceUp",
+    "name": "防御提高",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 11,
+    "type": "AttackDown",
+    "name": "攻击弱化",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 12,
+    "type": "DefenceDown",
+    "name": "防御弱化",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 13,
+    "type": "Haste",
+    "name": "加速",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 14,
+    "type": "Immobilize",
+    "name": "定身",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 15,
+    "type": "Slow",
+    "name": "减速",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 16,
+    "type": "Stance",
+    "name": "姿态",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 17,
+    "type": "Isolate",
+    "name": "孤立",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 18,
+    "type": "Hypnotize",
+    "name": "催眠",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 19,
+    "type": "Straight",
+    "name": "直行",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 20,
+    "type": "Invisible",
+    "name": "隐身",
+    "desc": "",
+    "icon": ""
+  },
+  {
+    "id": 21,
+    "type": "Charm",
+    "name": "魅惑",
+    "desc": "",
+    "icon": ""
+  }
+]

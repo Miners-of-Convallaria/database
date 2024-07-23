@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "R->R",
+    "result_rarity": 2,
+    "start_rarity": 2,
+    "chance": 100,
+    "priority": 2
+  },
+  {
+    "id": 2,
+    "name": "SR->SR",
+    "result_rarity": 3,
+    "start_rarity": 3,
+    "chance": 60,
+    "priority": 3
+  },
+  {
+    "id": 3,
+    "name": "R->SR",
+    "result_rarity": 3,
+    "start_rarity": 2,
+    "chance": 40,
+    "priority": 4
+  },
+  {
+    "id": 4,
+    "name": "SSR->SSR",
+    "result_rarity": 4,
+    "start_rarity": 4,
+    "chance": 65,
+    "priority": 5
+  },
+  {
+    "id": 5,
+    "name": "SR->SSR",
+    "result_rarity": 4,
+    "start_rarity": 3,
+    "chance": 35,
+    "priority": 6
+  },
+  {
+    "id": 7,
+    "name": "N->N",
+    "result_rarity": 1,
+    "start_rarity": 1,
+    "chance": 100,
+    "priority": 1
+  }
+]

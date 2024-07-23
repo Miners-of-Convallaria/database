@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "type": "None",
+    "name": "无"
+  },
+  {
+    "id": 2,
+    "type": "StrongControl",
+    "name": "强控"
+  },
+  {
+    "id": 3,
+    "type": "WeakControl",
+    "name": "弱控"
+  },
+  {
+    "id": 4,
+    "type": "AttackBuff",
+    "name": "攻击增益"
+  },
+  {
+    "id": 5,
+    "type": "AttackDebuff",
+    "name": "攻击妨害"
+  },
+  {
+    "id": 6,
+    "type": "DefenceBuff",
+    "name": "防御增益"
+  },
+  {
+    "id": 7,
+    "type": "DefenceDebuff",
+    "name": "防御妨害"
+  }
+]

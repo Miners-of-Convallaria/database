@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "idarena_building": 1,
+    "level": 1,
+    "cost": 0,
+    "unit_npc_id": 0,
+    "prop_id": 103,
+    "trap_id": 0,
+    "skill": 6347
+  },
+  {
+    "id": 10,
+    "idarena_building": 4,
+    "level": 1,
+    "cost": 0,
+    "unit_npc_id": 0,
+    "prop_id": 100,
+    "trap_id": 0,
+    "skill": 6350
+  },
+  {
+    "id": 11,
+    "idarena_building": 4,
+    "level": 2,
+    "cost": 100,
+    "unit_npc_id": 0,
+    "prop_id": 101,
+    "trap_id": 0,
+    "skill": 6349
+  },
+  {
+    "id": 12,
+    "idarena_building": 4,
+    "level": 3,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 102,
+    "trap_id": 0,
+    "skill": 6348
+  },
+  {
+    "id": 16,
+    "idarena_building": 1,
+    "level": 2,
+    "cost": 600,
+    "unit_npc_id": 0,
+    "prop_id": 104,
+    "trap_id": 0,
+    "skill": 6935
+  },
+  {
+    "id": 17,
+    "idarena_building": 1,
+    "level": 3,
+    "cost": 2400,
+    "unit_npc_id": 0,
+    "prop_id": 105,
+    "trap_id": 0,
+    "skill": 6936
+  },
+  {
+    "id": 24,
+    "idarena_building": 8,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 3181,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6959
+  },
+  {
+    "id": 25,
+    "idarena_building": 8,
+    "level": 2,
+    "cost": 400,
+    "unit_npc_id": 3182,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6960
+  },
+  {
+    "id": 26,
+    "idarena_building": 8,
+    "level": 3,
+    "cost": 1600,
+    "unit_npc_id": 3183,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6961
+  },
+  {
+    "id": 28,
+    "idarena_building": 6,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 3174,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6952
+  },
+  {
+    "id": 29,
+    "idarena_building": 6,
+    "level": 2,
+    "cost": 400,
+    "unit_npc_id": 3175,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6954
+  },
+  {
+    "id": 30,
+    "idarena_building": 6,
+    "level": 3,
+    "cost": 1600,
+    "unit_npc_id": 3176,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6955
+  },
+  {
+    "id": 31,
+    "idarena_building": 7,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 3178,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6956
+  },
+  {
+    "id": 32,
+    "idarena_building": 7,
+    "level": 2,
+    "cost": 400,
+    "unit_npc_id": 3179,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6957
+  },
+  {
+    "id": 33,
+    "idarena_building": 7,
+    "level": 3,
+    "cost": 1600,
+    "unit_npc_id": 3180,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6958
+  },
+  {
+    "id": 34,
+    "idarena_building": 2,
+    "level": 1,
+    "cost": 0,
+    "unit_npc_id": 2310,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 82
+  },
+  {
+    "id": 35,
+    "idarena_building": 2,
+    "level": 2,
+    "cost": 200,
+    "unit_npc_id": 2311,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6966
+  },
+  {
+    "id": 36,
+    "idarena_building": 2,
+    "level": 3,
+    "cost": 800,
+    "unit_npc_id": 2312,
+    "prop_id": 0,
+    "trap_id": 0,
+    "skill": 6951
+  },
+  {
+    "id": 40,
+    "idarena_building": 5,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 13,
+    "skill": 6341
+  },
+  {
+    "id": 41,
+    "idarena_building": 5,
+    "level": 2,
+    "cost": 100,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 14,
+    "skill": 6339
+  },
+  {
+    "id": 42,
+    "idarena_building": 5,
+    "level": 3,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 15,
+    "skill": 6340
+  },
+  {
+    "id": 43,
+    "idarena_building": 10,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 26,
+    "skill": 6970
+  },
+  {
+    "id": 44,
+    "idarena_building": 10,
+    "level": 2,
+    "cost": 100,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 27,
+    "skill": 6974
+  },
+  {
+    "id": 45,
+    "idarena_building": 10,
+    "level": 3,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 28,
+    "skill": 6975
+  },
+  {
+    "id": 46,
+    "idarena_building": 11,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 149,
+    "trap_id": 0,
+    "skill": 6976
+  },
+  {
+    "id": 47,
+    "idarena_building": 11,
+    "level": 2,
+    "cost": 200,
+    "unit_npc_id": 0,
+    "prop_id": 150,
+    "trap_id": 0,
+    "skill": 6977
+  },
+  {
+    "id": 48,
+    "idarena_building": 11,
+    "level": 3,
+    "cost": 800,
+    "unit_npc_id": 0,
+    "prop_id": 151,
+    "trap_id": 0,
+    "skill": 6978
+  },
+  {
+    "id": 49,
+    "idarena_building": 12,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 152,
+    "trap_id": 0,
+    "skill": 6979
+  },
+  {
+    "id": 50,
+    "idarena_building": 12,
+    "level": 2,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 153,
+    "trap_id": 0,
+    "skill": 6980
+  },
+  {
+    "id": 51,
+    "idarena_building": 12,
+    "level": 3,
+    "cost": 1600,
+    "unit_npc_id": 0,
+    "prop_id": 154,
+    "trap_id": 0,
+    "skill": 6981
+  },
+  {
+    "id": 52,
+    "idarena_building": 13,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 155,
+    "trap_id": 0,
+    "skill": 6982
+  },
+  {
+    "id": 53,
+    "idarena_building": 13,
+    "level": 2,
+    "cost": 200,
+    "unit_npc_id": 0,
+    "prop_id": 156,
+    "trap_id": 0,
+    "skill": 6983
+  },
+  {
+    "id": 54,
+    "idarena_building": 13,
+    "level": 3,
+    "cost": 800,
+    "unit_npc_id": 0,
+    "prop_id": 157,
+    "trap_id": 0,
+    "skill": 6984
+  },
+  {
+    "id": 58,
+    "idarena_building": 9,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 23,
+    "skill": 6967
+  },
+  {
+    "id": 59,
+    "idarena_building": 9,
+    "level": 2,
+    "cost": 100,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 24,
+    "skill": 6968
+  },
+  {
+    "id": 60,
+    "idarena_building": 9,
+    "level": 3,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 25,
+    "skill": 6969
+  },
+  {
+    "id": 62,
+    "idarena_building": 14,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 158,
+    "trap_id": 0,
+    "skill": 6985
+  },
+  {
+    "id": 63,
+    "idarena_building": 14,
+    "level": 2,
+    "cost": 200,
+    "unit_npc_id": 0,
+    "prop_id": 159,
+    "trap_id": 0,
+    "skill": 6986
+  },
+  {
+    "id": 64,
+    "idarena_building": 14,
+    "level": 3,
+    "cost": 800,
+    "unit_npc_id": 0,
+    "prop_id": 160,
+    "trap_id": 0,
+    "skill": 6987
+  },
+  {
+    "id": 66,
+    "idarena_building": 3,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 97,
+    "trap_id": 0,
+    "skill": 6344
+  },
+  {
+    "id": 67,
+    "idarena_building": 3,
+    "level": 2,
+    "cost": 200,
+    "unit_npc_id": 0,
+    "prop_id": 98,
+    "trap_id": 0,
+    "skill": 6345
+  },
+  {
+    "id": 68,
+    "idarena_building": 3,
+    "level": 3,
+    "cost": 800,
+    "unit_npc_id": 0,
+    "prop_id": 99,
+    "trap_id": 0,
+    "skill": 6346
+  },
+  {
+    "id": 69,
+    "idarena_building": 15,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 214,
+    "trap_id": 0,
+    "skill": 9153
+  },
+  {
+    "id": 70,
+    "idarena_building": 15,
+    "level": 2,
+    "cost": 200,
+    "unit_npc_id": 0,
+    "prop_id": 215,
+    "trap_id": 0,
+    "skill": 9154
+  },
+  {
+    "id": 71,
+    "idarena_building": 15,
+    "level": 3,
+    "cost": 800,
+    "unit_npc_id": 0,
+    "prop_id": 216,
+    "trap_id": 0,
+    "skill": 9155
+  },
+  {
+    "id": 72,
+    "idarena_building": 16,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 211,
+    "trap_id": 0,
+    "skill": 9156
+  },
+  {
+    "id": 73,
+    "idarena_building": 16,
+    "level": 2,
+    "cost": 200,
+    "unit_npc_id": 0,
+    "prop_id": 212,
+    "trap_id": 0,
+    "skill": 9157
+  },
+  {
+    "id": 74,
+    "idarena_building": 16,
+    "level": 3,
+    "cost": 800,
+    "unit_npc_id": 0,
+    "prop_id": 213,
+    "trap_id": 0,
+    "skill": 9158
+  },
+  {
+    "id": 75,
+    "idarena_building": 17,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 50,
+    "skill": 9657
+  },
+  {
+    "id": 76,
+    "idarena_building": 17,
+    "level": 2,
+    "cost": 100,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 54,
+    "skill": 9651
+  },
+  {
+    "id": 77,
+    "idarena_building": 17,
+    "level": 3,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 56,
+    "skill": 9656
+  },
+  {
+    "id": 78,
+    "idarena_building": 18,
+    "level": 1,
+    "cost": 50,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 51,
+    "skill": 9652
+  },
+  {
+    "id": 79,
+    "idarena_building": 18,
+    "level": 2,
+    "cost": 100,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 52,
+    "skill": 9653
+  },
+  {
+    "id": 80,
+    "idarena_building": 18,
+    "level": 3,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 0,
+    "trap_id": 53,
+    "skill": 9654
+  },
+  {
+    "id": 81,
+    "idarena_building": 19,
+    "level": 1,
+    "cost": 0,
+    "unit_npc_id": 0,
+    "prop_id": 245,
+    "trap_id": 0,
+    "skill": 9658
+  },
+  {
+    "id": 82,
+    "idarena_building": 19,
+    "level": 2,
+    "cost": 100,
+    "unit_npc_id": 0,
+    "prop_id": 246,
+    "trap_id": 0,
+    "skill": 9659
+  },
+  {
+    "id": 83,
+    "idarena_building": 19,
+    "level": 3,
+    "cost": 400,
+    "unit_npc_id": 0,
+    "prop_id": 247,
+    "trap_id": 0,
+    "skill": 9660
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "type": "FactionReputationGain",
+    "name": "势力声望获取变化",
+    "param0_name": "势力",
+    "param0_type": "faction",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 2,
+    "type": "FactionInfluenceGain",
+    "name": "势力影响力获取变化",
+    "param0_name": "势力",
+    "param0_type": "faction",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 3,
+    "type": "MoneyGain",
+    "name": "金币获得变化",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 4,
+    "type": "MoneyConsume",
+    "name": "金币消耗变化",
+    "param0_name": "系统",
+    "param0_type": "system",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 5,
+    "type": "MoraleMax",
+    "name": "活力最大值变化",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 6,
+    "type": "UnitAttributeModify",
+    "name": "我方角色属性变化",
+    "param0_name": "职业大类",
+    "param0_type": "profession_category",
+    "param1_name": "职业小类",
+    "param1_type": "profession"
+  },
+  {
+    "id": 7,
+    "type": "EnemyUnitAttributeModify",
+    "name": "敌方角色属性变化",
+    "param0_name": "职业大类",
+    "param0_type": "profession_category",
+    "param1_name": "职业小类",
+    "param1_type": "profession"
+  },
+  {
+    "id": 8,
+    "type": "UnitExtraSkill",
+    "name": "我方角色额外被动技能",
+    "param0_name": "职业大类",
+    "param0_type": "profession_category",
+    "param1_name": "职业小类",
+    "param1_type": "profession"
+  },
+  {
+    "id": 9,
+    "type": "WorldLevelModify",
+    "name": "世界等级成长速度变化",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 10,
+    "type": "CommercePropsPriceModify",
+    "name": "商会指定货物价格变化",
+    "param0_name": "商会道具",
+    "param0_type": "commerce_props",
+    "param1_name": "贸易点",
+    "param1_type": "commerce_trade_point"
+  },
+  {
+    "id": 11,
+    "type": "CommercePropsEmbargo",
+    "name": "商会指定货物禁运",
+    "param0_name": "商会道具",
+    "param0_type": "commerce_props",
+    "param1_name": "贸易点",
+    "param1_type": "commerce_trade_point"
+  },
+  {
+    "id": 12,
+    "type": "CommerceTradePointGradingModify",
+    "name": "商会贸易点订单评级阈值",
+    "param0_name": "贸易点",
+    "param0_type": "commerce_trade_point",
+    "param1_name": "",
+    "param1_type": ""
+  }
+]

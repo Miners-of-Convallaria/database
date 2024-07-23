@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "m_sandbox_specialitys": [],
+    "name": "测试1",
+    "editor_name": "测试1",
+    "icon": "",
+    "desc": "测试1",
+    "sandbox_speciality_ids": "64",
+    "weight": 0
+  },
+  {
+    "id": 2,
+    "m_sandbox_specialitys": [],
+    "name": "测试2",
+    "editor_name": "测试2",
+    "icon": "",
+    "desc": "测试2",
+    "sandbox_speciality_ids": "65",
+    "weight": 0
+  },
+  {
+    "id": 3,
+    "m_sandbox_specialitys": [],
+    "name": "测试3",
+    "editor_name": "测试3",
+    "icon": "",
+    "desc": "测试3",
+    "sandbox_speciality_ids": "66",
+    "weight": 0
+  },
+  {
+    "id": 101,
+    "m_sandbox_specialitys": [],
+    "name": "力量",
+    "editor_name": "塔罗牌-力量",
+    "icon": "major_arcana_08",
+    "desc": "没其他友军时，获得[<sprite=2>暴击4]",
+    "sandbox_speciality_ids": "20001",
+    "weight": 1
+  },
+  {
+    "id": 102,
+    "m_sandbox_specialitys": [],
+    "name": "战车",
+    "editor_name": "塔罗牌-战车",
+    "icon": "major_arcana_07",
+    "desc": "[冲锋]技能获得强化",
+    "sandbox_speciality_ids": "20002",
+    "weight": 1
+  },
+  {
+    "id": 103,
+    "m_sandbox_specialitys": [],
+    "name": "皇帝",
+    "editor_name": "塔罗牌-皇帝",
+    "icon": "major_arcana_04",
+    "desc": "在自身回合外，若攻击可获得增益",
+    "sandbox_speciality_ids": "20003",
+    "weight": 1
+  },
+  {
+    "id": 104,
+    "m_sandbox_specialitys": [],
+    "name": "女皇",
+    "editor_name": "塔罗牌-皇后",
+    "icon": "major_arcana_03",
+    "desc": "职能克制时，伤害增加，被克制时，伤害降低",
+    "sandbox_speciality_ids": "20004",
+    "weight": 1
+  },
+  {
+    "id": 105,
+    "m_sandbox_specialitys": [],
+    "name": "审判",
+    "editor_name": "塔罗牌-审判",
+    "icon": "major_arcana_20",
+    "desc": "范围攻击技能、需准备技能获得强化",
+    "sandbox_speciality_ids": "20005",
+    "weight": 1
+  },
+  {
+    "id": 106,
+    "m_sandbox_specialitys": [],
+    "name": "隐士",
+    "editor_name": "塔罗牌-隐士",
+    "icon": "major_arcana_09",
+    "desc": "治疗后，可对附近敌人附加伤害",
+    "sandbox_speciality_ids": "20006",
+    "weight": 1
+  },
+  {
+    "id": 107,
+    "m_sandbox_specialitys": [],
+    "name": "死神",
+    "editor_name": "塔罗牌-死神",
+    "icon": "major_arcana_13",
+    "desc": "[远程]攻击施加[减益]",
+    "sandbox_speciality_ids": "20007",
+    "weight": 1
+  },
+  {
+    "id": 108,
+    "m_sandbox_specialitys": [],
+    "name": "恶魔",
+    "editor_name": "塔罗牌-恶魔",
+    "icon": "major_arcana_15",
+    "desc": "没造成伤害时，获得[护盾]。拥有[护盾]时，能力强化",
+    "sandbox_speciality_ids": "20008",
+    "weight": 1
+  },
+  {
+    "id": 109,
+    "m_sandbox_specialitys": [],
+    "name": "女祭司",
+    "editor_name": "塔罗牌-女祭司",
+    "icon": "major_arcana_02",
+    "desc": "进行[援护防御]、[闪避]及[格挡]后，获得强化",
+    "sandbox_speciality_ids": "20009",
+    "weight": 1
+  },
+  {
+    "id": 110,
+    "m_sandbox_specialitys": [],
+    "name": "塔",
+    "editor_name": "塔罗牌-塔",
+    "icon": "major_arcana_16",
+    "desc": "进行[反击]、[闪避]及[格挡]后，能量+2",
+    "sandbox_speciality_ids": "20010",
+    "weight": 1
+  },
+  {
+    "id": 111,
+    "m_sandbox_specialitys": [],
+    "name": "世界",
+    "editor_name": "塔罗牌-世界",
+    "icon": "major_arcana_21",
+    "desc": "攻防属性提高 +3%",
+    "sandbox_speciality_ids": "20011",
+    "weight": 1
+  },
+  {
+    "id": 112,
+    "m_sandbox_specialitys": [],
+    "name": "命运之轮",
+    "editor_name": "塔罗牌-命运之轮",
+    "icon": "major_arcana_10",
+    "desc": "初始晶尘 +10，金币 +1000",
+    "sandbox_speciality_ids": "20012",
+    "weight": 1
+  },
+  {
+    "id": 113,
+    "m_sandbox_specialitys": [],
+    "name": "倒吊人",
+    "editor_name": "塔罗牌-倒吊人",
+    "icon": "major_arcana_12",
+    "desc": "初始木材 +20，金币 +1000",
+    "sandbox_speciality_ids": "20013",
+    "weight": 1
+  },
+  {
+    "id": 114,
+    "m_sandbox_specialitys": [],
+    "name": "正义",
+    "editor_name": "塔罗牌-正义",
+    "icon": "major_arcana_11",
+    "desc": "初始铁锭 +20，金币 +1000",
+    "sandbox_speciality_ids": "20014",
+    "weight": 1
+  },
+  {
+    "id": 115,
+    "m_sandbox_specialitys": [],
+    "name": "愚者",
+    "editor_name": "塔罗牌-愚者",
+    "icon": "major_arcana_00",
+    "desc": "初始木材 +50",
+    "sandbox_speciality_ids": "20015",
+    "weight": 1
+  },
+  {
+    "id": 116,
+    "m_sandbox_specialitys": [],
+    "name": "法皇",
+    "editor_name": "塔罗牌-教皇",
+    "icon": "major_arcana_05",
+    "desc": "初始晶尘 +25",
+    "sandbox_speciality_ids": "20016",
+    "weight": 1
+  },
+  {
+    "id": 117,
+    "m_sandbox_specialitys": [],
+    "name": "星星",
+    "editor_name": "塔罗牌-星星",
+    "icon": "major_arcana_17",
+    "desc": "初始铁锭 +50",
+    "sandbox_speciality_ids": "20017",
+    "weight": 1
+  },
+  {
+    "id": 118,
+    "m_sandbox_specialitys": [],
+    "name": "太阳",
+    "editor_name": "塔罗牌-太阳",
+    "icon": "major_arcana_19",
+    "desc": "获取3个光辉晶石",
+    "sandbox_speciality_ids": "20018",
+    "weight": 1
+  },
+  {
+    "id": 119,
+    "m_sandbox_specialitys": [],
+    "name": "月亮",
+    "editor_name": "塔罗牌-月亮",
+    "icon": "major_arcana_18",
+    "desc": "初始晶萃 +300",
+    "sandbox_speciality_ids": "20019",
+    "weight": 1
+  },
+  {
+    "id": 120,
+    "m_sandbox_specialitys": [],
+    "name": "节制",
+    "editor_name": "塔罗牌-节制",
+    "icon": "major_arcana_14",
+    "desc": "初始木材、铁锭、晶尘 +30",
+    "sandbox_speciality_ids": "20020",
+    "weight": 1
+  },
+  {
+    "id": 121,
+    "m_sandbox_specialitys": [],
+    "name": "魔术师",
+    "editor_name": "塔罗牌-魔术师",
+    "icon": "major_arcana_01",
+    "desc": "初始金币 +2000",
+    "sandbox_speciality_ids": "20021",
+    "weight": 1
+  },
+  {
+    "id": 122,
+    "m_sandbox_specialitys": [],
+    "name": "恋人",
+    "editor_name": "塔罗牌-恋人",
+    "icon": "major_arcana_06",
+    "desc": "获得一个“小巧人偶”",
+    "sandbox_speciality_ids": "20022",
+    "weight": 1
+  }
+]

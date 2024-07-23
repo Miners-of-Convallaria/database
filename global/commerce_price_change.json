@@ -1,0 +1,826 @@
+[
+  {
+    "id": 1,
+    "name": "全部货物禁运",
+    "type": 1,
+    "param0": 0,
+    "param1": 0,
+    "editor_name": "全部货物禁运"
+  },
+  {
+    "id": 2,
+    "name": "除粮食外禁运",
+    "type": 2,
+    "param0": 2,
+    "param1": 0,
+    "editor_name": "除粮食外禁运"
+  },
+  {
+    "id": 3,
+    "name": "禁运粮食",
+    "type": 3,
+    "param0": 2,
+    "param1": 0,
+    "editor_name": "禁运粮食"
+  },
+  {
+    "id": 4,
+    "name": "全部货物价值增加",
+    "type": 4,
+    "param0": 0,
+    "param1": 50,
+    "editor_name": "全部货物价值增加"
+  },
+  {
+    "id": 5,
+    "name": "除粮食外价值增加",
+    "type": 5,
+    "param0": 2,
+    "param1": 80,
+    "editor_name": "除粮食外价值增加"
+  },
+  {
+    "id": 6,
+    "name": "粮食价值增加",
+    "type": 6,
+    "param0": 2,
+    "param1": 100,
+    "editor_name": "粮食价值增加"
+  },
+  {
+    "id": 7,
+    "name": "禁止资金替代",
+    "type": 7,
+    "param0": 0,
+    "param1": 0,
+    "editor_name": "禁止资金替代"
+  },
+  {
+    "id": 8,
+    "name": "浪涌城_中需求_石材",
+    "type": 6,
+    "param0": 3,
+    "param1": 50,
+    "editor_name": "浪涌城_中需求_石材"
+  },
+  {
+    "id": 9,
+    "name": "浪涌城_高需求_幸运网",
+    "type": 6,
+    "param0": 14,
+    "param1": 50,
+    "editor_name": "浪涌城_高需求_幸运网"
+  },
+  {
+    "id": 10,
+    "name": "风谷镇_中需求_药品",
+    "type": 6,
+    "param0": 5,
+    "param1": 50,
+    "editor_name": "风谷镇_中需求_药品"
+  },
+  {
+    "id": 11,
+    "name": "风谷镇_高需求_盐",
+    "type": 6,
+    "param0": 6,
+    "param1": 50,
+    "editor_name": "风谷镇_高需求_盐"
+  },
+  {
+    "id": 12,
+    "name": "矿坑城_中需求_粮食",
+    "type": 6,
+    "param0": 2,
+    "param1": 50,
+    "editor_name": "矿坑城_中需求_粮食"
+  },
+  {
+    "id": 13,
+    "name": "矿坑城_高需求_药品",
+    "type": 6,
+    "param0": 5,
+    "param1": 50,
+    "editor_name": "矿坑城_高需求_药品"
+  },
+  {
+    "id": 14,
+    "name": "矿坑城_事件需求_晶石炸药",
+    "type": 6,
+    "param0": 11,
+    "param1": 50,
+    "editor_name": "矿坑城_事件需求_晶石炸药"
+  },
+  {
+    "id": 15,
+    "name": "拉比亚绿洲_中需求_珍珠",
+    "type": 6,
+    "param0": 12,
+    "param1": 50,
+    "editor_name": "拉比亚绿洲_中需求_珍珠"
+  },
+  {
+    "id": 16,
+    "name": "拉比亚绿洲_中需求_皮草",
+    "type": 6,
+    "param0": 10,
+    "param1": 50,
+    "editor_name": "拉比亚绿洲_中需求_皮草"
+  },
+  {
+    "id": 17,
+    "name": "拉比亚绿洲_高需求_皮草",
+    "type": 6,
+    "param0": 13,
+    "param1": 50,
+    "editor_name": "拉比亚绿洲_高需求_皮草"
+  },
+  {
+    "id": 18,
+    "name": "晨曦堡_高需求_珍珠",
+    "type": 6,
+    "param0": 12,
+    "param1": 50,
+    "editor_name": "晨曦堡_高需求_珍珠"
+  },
+  {
+    "id": 19,
+    "name": "晨曦堡_中需求_幸运网",
+    "type": 6,
+    "param0": 14,
+    "param1": 50,
+    "editor_name": "晨曦堡_中需求_幸运网"
+  },
+  {
+    "id": 20,
+    "name": "晨曦堡_高需求_粮食",
+    "type": 6,
+    "param0": 2,
+    "param1": 50,
+    "editor_name": "晨曦堡_高需求_粮食"
+  },
+  {
+    "id": 21,
+    "name": "晨曦堡_高需求_珍珠",
+    "type": 6,
+    "param0": 12,
+    "param1": 50,
+    "editor_name": "晨曦堡_高需求_珍珠"
+  },
+  {
+    "id": 22,
+    "name": "暮光城_中需求_宝石",
+    "type": 6,
+    "param0": 13,
+    "param1": 50,
+    "editor_name": "暮光城_中需求_宝石"
+  },
+  {
+    "id": 23,
+    "name": "暮光城_高需求_养生蛇油",
+    "type": 6,
+    "param0": 15,
+    "param1": 50,
+    "editor_name": "暮光城_高需求_养生蛇油"
+  },
+  {
+    "id": 24,
+    "name": "暮光城_高需求_皮草",
+    "type": 6,
+    "param0": 10,
+    "param1": 50,
+    "editor_name": "暮光城_高需求_皮草"
+  },
+  {
+    "id": 25,
+    "name": "薇尔德_中需求_盐",
+    "type": 6,
+    "param0": 6,
+    "param1": 50,
+    "editor_name": "薇尔德_中需求_盐"
+  },
+  {
+    "id": 26,
+    "name": "薇尔德_中需求_养生蛇油",
+    "type": 6,
+    "param0": 15,
+    "param1": 50,
+    "editor_name": "薇尔德_中需求_养生蛇油"
+  },
+  {
+    "id": 27,
+    "name": "薇尔德_高需求_石材",
+    "type": 6,
+    "param0": 3,
+    "param1": 50,
+    "editor_name": "薇尔德_高需求_石材"
+  },
+  {
+    "id": 28,
+    "name": "薇尔德_高需求_武器装备",
+    "type": 6,
+    "param0": 7,
+    "param1": 50,
+    "editor_name": "薇尔德_高需求_武器装备"
+  },
+  {
+    "id": 29,
+    "name": "拉比亚绿洲_高需求_车轮",
+    "type": 6,
+    "param0": 4,
+    "param1": 50,
+    "editor_name": "拉比亚绿洲_高需求_车轮"
+  },
+  {
+    "id": 30,
+    "name": "拉比亚绿洲_高需求_盐",
+    "type": 6,
+    "param0": 6,
+    "param1": 50,
+    "editor_name": "拉比亚绿洲_高需求_盐"
+  },
+  {
+    "id": 31,
+    "name": "浪涌城_禁运_粮食",
+    "type": 3,
+    "param0": 2,
+    "param1": 0,
+    "editor_name": "浪涌城_禁运_粮食"
+  },
+  {
+    "id": 32,
+    "name": "浪涌城_禁运_药品",
+    "type": 3,
+    "param0": 5,
+    "param1": 0,
+    "editor_name": "浪涌城_禁运_药品"
+  },
+  {
+    "id": 33,
+    "name": "浪涌城_禁运_珍珠",
+    "type": 3,
+    "param0": 12,
+    "param1": 0,
+    "editor_name": "浪涌城_禁运_珍珠"
+  },
+  {
+    "id": 34,
+    "name": "风谷镇_禁运_车轮",
+    "type": 3,
+    "param0": 4,
+    "param1": 0,
+    "editor_name": "风谷镇_禁运_车轮"
+  },
+  {
+    "id": 35,
+    "name": "风谷镇_禁运_武器装备",
+    "type": 3,
+    "param0": 7,
+    "param1": 0,
+    "editor_name": "风谷镇_禁运_武器装备"
+  },
+  {
+    "id": 36,
+    "name": "风谷镇_禁运_香料",
+    "type": 3,
+    "param0": 9,
+    "param1": 0,
+    "editor_name": "风谷镇_禁运_香料"
+  },
+  {
+    "id": 37,
+    "name": "风谷镇_禁运_晶石炸药",
+    "type": 3,
+    "param0": 11,
+    "param1": 0,
+    "editor_name": "风谷镇_禁运_晶石炸药"
+  },
+  {
+    "id": 38,
+    "name": "矿坑城_禁运_石材",
+    "type": 3,
+    "param0": 3,
+    "param1": 0,
+    "editor_name": "矿坑城_禁运_石材"
+  },
+  {
+    "id": 39,
+    "name": "矿坑城_禁运_盐",
+    "type": 3,
+    "param0": 6,
+    "param1": 0,
+    "editor_name": "矿坑城_禁运_盐"
+  },
+  {
+    "id": 40,
+    "name": "矿坑城_禁运_晶石",
+    "type": 3,
+    "param0": 16,
+    "param1": 0,
+    "editor_name": "矿坑城_禁运_晶石"
+  },
+  {
+    "id": 41,
+    "name": "拉比亚绿洲_禁运_香料",
+    "type": 3,
+    "param0": 9,
+    "param1": 0,
+    "editor_name": "拉比亚绿洲_禁运_香料"
+  },
+  {
+    "id": 42,
+    "name": "拉比亚绿洲_禁运_养生蛇油",
+    "type": 3,
+    "param0": 15,
+    "param1": 0,
+    "editor_name": "拉比亚绿洲_禁运_养生蛇油"
+  },
+  {
+    "id": 43,
+    "name": "晨曦堡_禁运_石材",
+    "type": 3,
+    "param0": 3,
+    "param1": 0,
+    "editor_name": "晨曦堡_禁运_石材"
+  },
+  {
+    "id": 44,
+    "name": "晨曦堡_禁运_车轮",
+    "type": 3,
+    "param0": 4,
+    "param1": 0,
+    "editor_name": "晨曦堡_禁运_车轮"
+  },
+  {
+    "id": 45,
+    "name": "晨曦堡_禁运_宝石",
+    "type": 3,
+    "param0": 13,
+    "param1": 0,
+    "editor_name": "晨曦堡_禁运_宝石"
+  },
+  {
+    "id": 46,
+    "name": "晨曦堡_禁运_晶石",
+    "type": 3,
+    "param0": 16,
+    "param1": 0,
+    "editor_name": "晨曦堡_禁运_晶石"
+  },
+  {
+    "id": 47,
+    "name": "暮光城_禁运_晶石",
+    "type": 3,
+    "param0": 16,
+    "param1": 0,
+    "editor_name": "暮光城_禁运_晶石"
+  },
+  {
+    "id": 48,
+    "name": "薇尔德_禁运_药品",
+    "type": 3,
+    "param0": 5,
+    "param1": 0,
+    "editor_name": "薇尔德_禁运_药品"
+  },
+  {
+    "id": 49,
+    "name": "薇尔德_禁运_幸运网",
+    "type": 3,
+    "param0": 14,
+    "param1": 0,
+    "editor_name": "薇尔德_禁运_幸运网"
+  },
+  {
+    "id": 50,
+    "name": "薇尔德_禁运_皮草",
+    "type": 3,
+    "param0": 10,
+    "param1": 0,
+    "editor_name": "薇尔德_禁运_皮草"
+  },
+  {
+    "id": 51,
+    "name": "薇尔德_禁运_晶石",
+    "type": 3,
+    "param0": 16,
+    "param1": 0,
+    "editor_name": "薇尔德_禁运_晶石"
+  },
+  {
+    "id": 52,
+    "name": "定制特产换药R1_仅黑麦汁",
+    "type": 2,
+    "param0": 8,
+    "param1": 0,
+    "editor_name": "定制特产换药R1_仅黑麦汁"
+  },
+  {
+    "id": 53,
+    "name": "定制特产换药R1_黑麦汁提升",
+    "type": 6,
+    "param0": 8,
+    "param1": 100,
+    "editor_name": "定制特产换药R1_黑麦汁提升"
+  },
+  {
+    "id": 54,
+    "name": "定制稳定粮价R1-3_仅粮食",
+    "type": 2,
+    "param0": 2,
+    "param1": 0,
+    "editor_name": "定制稳定粮价R1-3_仅粮食"
+  },
+  {
+    "id": 55,
+    "name": "定制稳定粮价R1_粮食提升",
+    "type": 6,
+    "param0": 2,
+    "param1": 100,
+    "editor_name": "定制稳定粮价R1_粮食提升"
+  },
+  {
+    "id": 56,
+    "name": "定制稳定粮价R2_粮食提升",
+    "type": 6,
+    "param0": 2,
+    "param1": 75,
+    "editor_name": "定制稳定粮价R2_粮食提升"
+  },
+  {
+    "id": 57,
+    "name": "定制稳定粮价R3_粮食提升",
+    "type": 6,
+    "param0": 2,
+    "param1": 50,
+    "editor_name": "定制稳定粮价R3_粮食提升"
+  },
+  {
+    "id": 58,
+    "name": "定制恶意竞争R1_黑麦汁提升",
+    "type": 6,
+    "param0": 8,
+    "param1": 50,
+    "editor_name": "定制恶意竞争R1_黑麦汁提升"
+  },
+  {
+    "id": 59,
+    "name": "定制建立矿坑城R2_武器装备提升",
+    "type": 6,
+    "param0": 7,
+    "param1": 100,
+    "editor_name": "定制建立矿坑城R2_武器装备提升"
+  },
+  {
+    "id": 60,
+    "name": "定制建立矿坑城R3_粮食提升",
+    "type": 6,
+    "param0": 2,
+    "param1": 100,
+    "editor_name": "定制建立矿坑城R3_粮食提升"
+  },
+  {
+    "id": 61,
+    "name": "定制开拓市场R1_货箱提升",
+    "type": 6,
+    "param0": 20,
+    "param1": 500,
+    "editor_name": "定制开拓市场R1_货箱提升"
+  },
+  {
+    "id": 62,
+    "name": "定制重型武器出现R1-2_石材提升",
+    "type": 6,
+    "param0": 3,
+    "param1": 50,
+    "editor_name": "定制重型武器出现R1-2_石材提升"
+  },
+  {
+    "id": 63,
+    "name": "定制恢复晶石生产R1-2_车轮提升",
+    "type": 6,
+    "param0": 4,
+    "param1": 50,
+    "editor_name": "定制恢复晶石生产R1-2_车轮提升"
+  },
+  {
+    "id": 64,
+    "name": "定制恢复晶石生产R1-2_粮食提升",
+    "type": 6,
+    "param0": 2,
+    "param1": 75,
+    "editor_name": "定制恢复晶石生产R1-2_粮食提升"
+  },
+  {
+    "id": 65,
+    "name": "定制恢复晶石生产R1-2_武器装备提升",
+    "type": 6,
+    "param0": 7,
+    "param1": 75,
+    "editor_name": "定制恢复晶石生产R1-2_武器装备提升"
+  },
+  {
+    "id": 66,
+    "name": "定制恢复晶石生产R1-2_炸药提升",
+    "type": 6,
+    "param0": 11,
+    "param1": 75,
+    "editor_name": "定制恢复晶石生产R1-2_炸药提升"
+  },
+  {
+    "id": 67,
+    "name": "二王子晶石生意R1-3_晶石提升强",
+    "type": 6,
+    "param0": 16,
+    "param1": 100,
+    "editor_name": "二王子晶石生意R1-3_晶石提升强"
+  },
+  {
+    "id": 68,
+    "name": "二王子晶石生意R1-3_仅晶石",
+    "type": 2,
+    "param0": 16,
+    "param1": 0,
+    "editor_name": "二王子晶石生意R1-3_仅晶石"
+  },
+  {
+    "id": 69,
+    "name": "二王子晶石生意R1-3_晶石提升弱",
+    "type": 6,
+    "param0": 16,
+    "param1": 25,
+    "editor_name": "二王子晶石生意R1-3_晶石提升弱"
+  },
+  {
+    "id": 70,
+    "name": "前往晨曦堡R1_粮食提升",
+    "type": 6,
+    "param0": 2,
+    "param1": 50,
+    "editor_name": "前往晨曦堡R1_粮食提升"
+  },
+  {
+    "id": 71,
+    "name": "前往晨曦堡R1_珍珠提升",
+    "type": 6,
+    "param0": 12,
+    "param1": 50,
+    "editor_name": "前往晨曦堡R1_珍珠提升"
+  },
+  {
+    "id": 72,
+    "name": "贿赂法皇国R1_蛇油提升",
+    "type": 6,
+    "param0": 15,
+    "param1": 50,
+    "editor_name": "贿赂法皇国R1_蛇油提升"
+  },
+  {
+    "id": 73,
+    "name": "薇尔德工艺品R1_武器装备提升",
+    "type": 6,
+    "param0": 7,
+    "param1": 50,
+    "editor_name": "薇尔德工艺品R1_武器装备提升"
+  },
+  {
+    "id": 74,
+    "name": "援建周边小镇R1-2_粮食提升",
+    "type": 6,
+    "param0": 2,
+    "param1": 50,
+    "editor_name": "援建周边小镇R1-2_粮食提升"
+  },
+  {
+    "id": 75,
+    "name": "援建周边小镇R2_石材提升",
+    "type": 6,
+    "param0": 3,
+    "param1": 50,
+    "editor_name": "援建周边小镇R2_石材提升"
+  },
+  {
+    "id": 76,
+    "name": "援建周边小镇R3_仅资金",
+    "type": 2,
+    "param0": 1,
+    "param1": 0,
+    "editor_name": "援建周边小镇R3_仅资金"
+  },
+  {
+    "id": 77,
+    "name": "援建周边小镇R3_资金提升",
+    "type": 6,
+    "param0": 1,
+    "param1": 100,
+    "editor_name": "援建周边小镇R3_资金提升"
+  },
+  {
+    "id": 78,
+    "name": "和特兰奎洛的交易R1_古书提升",
+    "type": 6,
+    "param0": 17,
+    "param1": 300,
+    "editor_name": "和特兰奎洛的交易R1_古书提升"
+  },
+  {
+    "id": 79,
+    "name": "鹦鹉人的走私RX_药材提升",
+    "type": 6,
+    "param0": 19,
+    "param1": 100,
+    "editor_name": "鹦鹉人的走私RX_药材提升"
+  },
+  {
+    "id": 80,
+    "name": "鹦鹉人的走私RX_仅药材",
+    "type": 2,
+    "param0": 19,
+    "param1": 0,
+    "editor_name": "鹦鹉人的走私RX_仅药材"
+  },
+  {
+    "id": 81,
+    "name": "护送前往晨曦堡R1_神秘货厢提升",
+    "type": 6,
+    "param0": 27,
+    "param1": 300,
+    "editor_name": "护送前往晨曦堡R1_神秘货厢提升"
+  },
+  {
+    "id": 82,
+    "name": "军火订单_武器装备提升",
+    "type": 6,
+    "param0": 7,
+    "param1": 100,
+    "editor_name": "军火订单_武器装备提升"
+  },
+  {
+    "id": 83,
+    "name": "军火订单_晶石炸药提升",
+    "type": 6,
+    "param0": 11,
+    "param1": 100,
+    "editor_name": "军火订单_晶石炸药提升"
+  },
+  {
+    "id": 84,
+    "name": "援建薇尔德R1-2_石材提升",
+    "type": 6,
+    "param0": 3,
+    "param1": 75,
+    "editor_name": "援建薇尔德R1-2_石材提升"
+  },
+  {
+    "id": 85,
+    "name": "援建薇尔德R1-2_车轮提升",
+    "type": 6,
+    "param0": 4,
+    "param1": 75,
+    "editor_name": "援建薇尔德R1-2_车轮提升"
+  },
+  {
+    "id": 86,
+    "name": "交易特兰奎洛R1_特兰奎洛提升",
+    "type": 6,
+    "param0": 18,
+    "param1": 300,
+    "editor_name": "交易特兰奎洛R1_特兰奎洛提升"
+  },
+  {
+    "id": 87,
+    "name": "塔埃尔的收藏R1_古书提升",
+    "type": 6,
+    "param0": 17,
+    "param1": 300,
+    "editor_name": "塔埃尔的收藏R1_古书提升"
+  },
+  {
+    "id": 88,
+    "name": "塔埃尔的收藏R1_仅古书",
+    "type": 2,
+    "param0": 17,
+    "param1": 0,
+    "editor_name": "塔埃尔的收藏R1_仅古书"
+  },
+  {
+    "id": 89,
+    "name": "晶石贸易委托RX_晶石提升强",
+    "type": 6,
+    "param0": 16,
+    "param1": 150,
+    "editor_name": "晶石贸易委托RX_晶石提升强"
+  },
+  {
+    "id": 90,
+    "name": "晶石贸易委托RX_晶石提升弱",
+    "type": 6,
+    "param0": 16,
+    "param1": 100,
+    "editor_name": "晶石贸易委托RX_晶石提升弱"
+  },
+  {
+    "id": 91,
+    "name": "晶石贸易委托RX_仅晶石",
+    "type": 2,
+    "param0": 16,
+    "param1": 0,
+    "editor_name": "晶石贸易委托RX_仅晶石"
+  },
+  {
+    "id": 92,
+    "name": "晶石贸易委托RX_森林之心提升",
+    "type": 6,
+    "param0": 23,
+    "param1": 300,
+    "editor_name": "晶石贸易委托RX_森林之心提升"
+  },
+  {
+    "id": 93,
+    "name": "伊奇的探索_全部禁运",
+    "type": 2,
+    "param0": 1,
+    "param1": 0,
+    "editor_name": "伊奇的探索_全部禁运"
+  },
+  {
+    "id": 94,
+    "name": "王权收集癖_印章戒指提升",
+    "type": 6,
+    "param0": 21,
+    "param1": 500,
+    "editor_name": "王权收集癖_印章戒指提升"
+  },
+  {
+    "id": 95,
+    "name": "收买米格尔_仅资金",
+    "type": 2,
+    "param0": 1,
+    "param1": 0,
+    "editor_name": "收买米格尔_仅资金"
+  },
+  {
+    "id": 96,
+    "name": "买染料R2_染料提升",
+    "type": 6,
+    "param0": 22,
+    "param1": 200,
+    "editor_name": "买染料R2_染料提升"
+  },
+  {
+    "id": 97,
+    "name": "买染料R2_仅染料",
+    "type": 2,
+    "param0": 22,
+    "param1": 0,
+    "editor_name": "买染料R2_仅染料"
+  },
+  {
+    "id": 98,
+    "name": "评议会手谕R2_二王子的信提升",
+    "type": 6,
+    "param0": 25,
+    "param1": 500,
+    "editor_name": "评议会手谕R2_二王子的信提升"
+  },
+  {
+    "id": 99,
+    "name": "评议会手谕R2_仅二王子的信",
+    "type": 2,
+    "param0": 25,
+    "param1": 0,
+    "editor_name": "评议会手谕R2_仅二王子的信"
+  },
+  {
+    "id": 100,
+    "name": "评议会手谕R3_木马提升",
+    "type": 6,
+    "param0": 24,
+    "param1": 600,
+    "editor_name": "评议会手谕R3_木马提升"
+  },
+  {
+    "id": 101,
+    "name": "评议会手谕R3_仅木马",
+    "type": 2,
+    "param0": 24,
+    "param1": 0,
+    "editor_name": "评议会手谕R3_仅木马"
+  },
+  {
+    "id": 102,
+    "name": "王权收集癖_仅印章戒指",
+    "type": 2,
+    "param0": 21,
+    "param1": 0,
+    "editor_name": "王权收集癖_仅印章戒指"
+  },
+  {
+    "id": 103,
+    "name": "交易特兰奎洛R1_仅特兰奎洛",
+    "type": 2,
+    "param0": 18,
+    "param1": 300,
+    "editor_name": "交易特兰奎洛R1_仅特兰奎洛"
+  }
+]

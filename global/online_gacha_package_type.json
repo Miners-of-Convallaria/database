@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "Unit",
+    "name": "邂逅",
+    "guaranteed_count": 100
+  },
+  {
+    "id": 2,
+    "type": "Weapon",
+    "name": "投影",
+    "guaranteed_count": 0
+  }
+]

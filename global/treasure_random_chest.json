@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "测试随机宝箱",
+    "editor_name": "测试随机宝箱",
+    "desc": "",
+    "rarity": 1,
+    "icon": "material_treasure_random_chest1"
+  },
+  {
+    "id": 4,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "锻造材料箱",
+    "editor_name": "随机材料包Ⅰ",
+    "desc": "随机获得5单位的基础锻造材料",
+    "rarity": 1,
+    "icon": "material_treasure_random_chest1"
+  },
+  {
+    "id": 5,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "锻造材料箱2",
+    "editor_name": "随机材料包Ⅱ",
+    "desc": "随机获得10单位的基础锻造材料",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest2"
+  },
+  {
+    "id": 6,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "锻造材料箱3",
+    "editor_name": "随机材料包Ⅲ",
+    "desc": "随机获得15单位的基础锻造材料",
+    "rarity": 3,
+    "icon": "material_treasure_random_chest3"
+  },
+  {
+    "id": 7,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "派遣委托-图纸1",
+    "editor_name": "派遣委托-图纸Ⅰ",
+    "desc": "随机获得一张武器图纸",
+    "rarity": 3,
+    "icon": "material_treasure_random_chest3"
+  },
+  {
+    "id": 12,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "派遣委托-图纸2",
+    "editor_name": "派遣委托-图纸Ⅱ",
+    "desc": "随机获得一张武器图纸",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 15,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "随机材料包Ⅲ骑士同盟",
+    "editor_name": "随机材料包Ⅲ骑士团",
+    "desc": "随机获得30单位的基础锻造材料",
+    "rarity": 3,
+    "icon": "material_treasure_random_chest3"
+  },
+  {
+    "id": 16,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "随机材料包Ⅱ骑士同盟",
+    "editor_name": "随机材料包Ⅱ骑士团",
+    "desc": "随机获得20单位的基础锻造材料",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest2"
+  },
+  {
+    "id": 17,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "神秘的赠礼",
+    "editor_name": "AT2-神秘的赠礼",
+    "desc": "一份礼物，但赠送者是谁没有人知道。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 19,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "拉维耶的馈赠",
+    "editor_name": "AT2-拉维耶的馈赠",
+    "desc": "大姐头准备的特别奖励，如果你表现得好的话。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 21,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "萨曼莎的祝福",
+    "editor_name": "AT2-萨曼莎代表物",
+    "desc": "审判者萨曼莎带来的礼物，寄予她最虔诚的祝福。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 22,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "泰登的感谢",
+    "editor_name": "AT2-泰登的感谢",
+    "desc": "泰登很感谢你所做的一切，并准备好了谢礼。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 23,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "伊利亚的宝藏",
+    "editor_name": "AT2-伊利亚人的宝藏",
+    "desc": "一些被勤奋的伊利亚人挖掘出的宝藏，将会被赠予获胜者。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 26,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "奥古斯特的武器",
+    "editor_name": "AT2-奥古斯特的武器",
+    "desc": "这些年，奥古斯特就是用着他们，驰骋战场的。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 29,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "采集晶石",
+    "editor_name": "AT2-派遣-高品质晶石",
+    "desc": "派遣佣兵探索薇尔塔矿洞，有几率获取光辉晶石或晶尘。",
+    "rarity": 3,
+    "icon": "material_treasure_chest3"
+  },
+  {
+    "id": 30,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "普通设施升级",
+    "editor_name": "AT2-N级科技奖励随机",
+    "desc": "随机获得一个普通设施升级，祝你好运。",
+    "rarity": 1,
+    "icon": "material_treasure_tech_chest1"
+  },
+  {
+    "id": 31,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "精英设施升级",
+    "editor_name": "AT2-R级科技奖励随机",
+    "desc": "随机获得一个精英设施升级，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_tech_chest2"
+  },
+  {
+    "id": 32,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "史诗设施升级",
+    "editor_name": "AT2-SR级科技奖励随机",
+    "desc": "随机获得一个史诗设施升级，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_tech_chest3"
+  },
+  {
+    "id": 33,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "传说设施升级",
+    "editor_name": "AT2-SSR级科技奖励随机",
+    "desc": "随机获得一个传说设施升级，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_tech_chest4"
+  },
+  {
+    "id": 34,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "随机普通级战术指令",
+    "editor_name": "AT2-N级战术技能奖励随机",
+    "desc": "随机获得一个普通级战术指令",
+    "rarity": 1,
+    "icon": "material_treasure_tactics_skill_chest1"
+  },
+  {
+    "id": 35,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "随机精英战术技能",
+    "editor_name": "AT2-R级战术技能奖励随机",
+    "desc": "随机获得一个精英级战术技能",
+    "rarity": 2,
+    "icon": "material_treasure_tactics_skill_chest2"
+  },
+  {
+    "id": 36,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "随机史诗级战术指令",
+    "editor_name": "AT2-SR级战术技能奖励随机",
+    "desc": "随机获得一个史诗级战术指令",
+    "rarity": 3,
+    "icon": "material_treasure_tactics_skill_chest3"
+  },
+  {
+    "id": 37,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "随机传说级战术指令",
+    "editor_name": "AT2-SSR级战术技能奖励随机",
+    "desc": "随机获得一个传说级战术指令",
+    "rarity": 4,
+    "icon": "material_treasure_tactics_skill_chest4"
+  },
+  {
+    "id": 38,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "普通特殊训练",
+    "editor_name": "AT2-N级训练被动随机",
+    "desc": "随机获得一个普通特殊训练，祝你好运。",
+    "rarity": 1,
+    "icon": "material_treasure_faction_skill_chest1"
+  },
+  {
+    "id": 39,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "精英特殊训练",
+    "editor_name": "AT2-R级训练被动随机",
+    "desc": "随机获得一个精英级特殊训练，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_faction_skill_chest2"
+  },
+  {
+    "id": 40,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "史诗特殊训练",
+    "editor_name": "AT2-SR级训练被动随机",
+    "desc": "随机获得一个史诗级特殊训练，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_faction_skill_chest3"
+  },
+  {
+    "id": 41,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "传说特殊训练",
+    "editor_name": "AT2-SSR级训练被动随机",
+    "desc": "随机获得一个传说特殊训练，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_faction_skill_chest4"
+  },
+  {
+    "id": 42,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "普通装备",
+    "editor_name": "AT2-N级武器奖励随机",
+    "desc": "随机获得一个普通武器或装具，祝你好运。",
+    "rarity": 1,
+    "icon": "material_treasure_weapon_chest1"
+  },
+  {
+    "id": 43,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "精英装备",
+    "editor_name": "AT2-R级武器奖励随机",
+    "desc": "随机获得一个精英武器或装具，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_weapon_chest2"
+  },
+  {
+    "id": 44,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "神秘材料箱",
+    "editor_name": "AT2-商店-走私材料箱",
+    "desc": "一些基础材料，希望你能用得到。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3"
+  },
+  {
+    "id": 45,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "索菲亚的装具",
+    "editor_name": "AT2-索菲亚的装具",
+    "desc": "这可是索菲亚最满意的装具，她从不将其轻易示人。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 46,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "歌洛莉亚的装具",
+    "editor_name": "AT2-歌洛莉亚代表副手",
+    "desc": "歌洛莉亚的常用装具，现在忍痛割爱，希望新主人可以好好善待它。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 47,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "菲鲁特的装具",
+    "editor_name": "AT2-二王子代表副手",
+    "desc": "鲁特菲殿下随身携带的用品，华贵又不失威仪。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 53,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "阿列克谢的宝物",
+    "editor_name": "CB1-阿列克谢的宝物",
+    "desc": "阿列克谢攒了很久的好东西，完成战斗你就可以获得它。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 54,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "马格努斯的宝物",
+    "editor_name": "CB1-马格努斯的宝物",
+    "desc": "马格努斯将军的东西，品质绝对优良，完成战斗就可以获得它。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 55,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "泽维尔的宝物",
+    "editor_name": "CB1-泽维尔的宝物",
+    "desc": "泽维尔自己都不舍用的东西，完成战斗就可以获得它。",
+    "rarity": 3,
+    "icon": "material_treasure_weapon_chest3"
+  },
+  {
+    "id": 56,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "传说级武器",
+    "editor_name": "CB1-SSR级武器随机",
+    "desc": "随机获得一个传说武器，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 57,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "传说装备",
+    "editor_name": "CB1-SSR级装备随机",
+    "desc": "随机获得一个传说武器或装具，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 58,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "传说装具",
+    "editor_name": "CB1-SSR级装具随机",
+    "desc": "随机获得一个传说级装具，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4"
+  },
+  {
+    "id": 59,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "贵族的家产",
+    "editor_name": "CB2-贵族的家产-7000",
+    "desc": "完成战斗，收缴贵族的家产。",
+    "rarity": 3,
+    "icon": "material_treasure_random_chest3"
+  },
+  {
+    "id": 60,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "贵族的宝库财产",
+    "editor_name": "CB2-贵族的家产-20000",
+    "desc": "完成战斗，收缴宝库中的财产。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 61,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "莉莉薇儿的馈赠",
+    "editor_name": "CB2-黑暗仪式",
+    "desc": "帮助莉莉薇儿完成她的使命，礼物代表了她衷心的感谢！",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4"
+  },
+  {
+    "id": 62,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "史诗级武器",
+    "editor_name": "CB2-SR级武器随机",
+    "desc": "随机获得一个史诗武器，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_weapon_chest3"
+  },
+  {
+    "id": 63,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "史诗级锻造蓝图",
+    "editor_name": "CB2-SR级锻造蓝图随机",
+    "desc": "随机获得一个史诗锻造蓝图，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_blueprint_chest3"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "m_online_abyss_guide_quests": [],
+    "name": "浅层1",
+    "prev_guide_id": 0,
+    "battle_field_group_id": 1,
+    "difficulty_level": 40,
+    "score_ratio": 1,
+    "mission_buff_id": 90,
+    "icon": "character_head_banditarcherm4set01",
+    "editor_name": "引导难度1",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "m_online_abyss_guide_quests": [],
+    "name": "浅层2",
+    "prev_guide_id": 1,
+    "battle_field_group_id": 2,
+    "difficulty_level": 45,
+    "score_ratio": 1,
+    "mission_buff_id": 147,
+    "icon": "character_head_hknightsicemagefset01",
+    "editor_name": "引导难度2",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "m_online_abyss_guide_quests": [],
+    "name": "浅层3",
+    "prev_guide_id": 2,
+    "battle_field_group_id": 3,
+    "difficulty_level": 50,
+    "score_ratio": 1,
+    "mission_buff_id": 106,
+    "icon": "character_head_hiriayoungcolonelmset01",
+    "editor_name": "引导难度3",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "m_online_abyss_guide_quests": [],
+    "name": "浅层4",
+    "prev_guide_id": 3,
+    "battle_field_group_id": 4,
+    "difficulty_level": 55,
+    "score_ratio": 1,
+    "mission_buff_id": 89,
+    "icon": "character_head_hiriafprincemset01",
+    "editor_name": "引导难度4",
+    "difficulty": 4
+  }
+]

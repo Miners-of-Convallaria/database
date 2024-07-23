@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "type": "anchor_decorate",
+    "name": "装饰物",
+    "desc": "装饰物",
+    "order_id": 1,
+    "placement_category": 2,
+    "icon": "icon_pictures"
+  },
+  {
+    "id": 2,
+    "type": "anchor_bed",
+    "name": "床铺",
+    "desc": "床铺",
+    "order_id": 2,
+    "placement_category": 2,
+    "icon": "icon_bed"
+  },
+  {
+    "id": 3,
+    "type": "anchor_rest",
+    "name": "休息区域",
+    "desc": "休息区域",
+    "order_id": 3,
+    "placement_category": 2,
+    "icon": "icon_relax"
+  },
+  {
+    "id": 4,
+    "type": "anchor_desk",
+    "name": "办公区域",
+    "desc": "办公区域",
+    "order_id": 4,
+    "placement_category": 2,
+    "icon": "icon_tables"
+  },
+  {
+    "id": 11,
+    "type": "table",
+    "name": "桌子",
+    "desc": "桌子",
+    "order_id": 1,
+    "placement_category": 1,
+    "icon": "icon_desk"
+  },
+  {
+    "id": 12,
+    "type": "sofa",
+    "name": "沙发",
+    "desc": "沙发",
+    "order_id": 2,
+    "placement_category": 1,
+    "icon": "icon_sofa"
+  },
+  {
+    "id": 13,
+    "type": "chair",
+    "name": "椅子",
+    "desc": "椅子",
+    "order_id": 3,
+    "placement_category": 1,
+    "icon": "icon_chair"
+  },
+  {
+    "id": 14,
+    "type": "plant",
+    "name": "植物",
+    "desc": "植物",
+    "order_id": 4,
+    "placement_category": 1,
+    "icon": "icon_green"
+  },
+  {
+    "id": 15,
+    "type": "storage",
+    "name": "储物",
+    "desc": "储物",
+    "order_id": 5,
+    "placement_category": 1,
+    "icon": "icon_cabinet"
+  },
+  {
+    "id": 16,
+    "type": "entertainment",
+    "name": "娱乐",
+    "desc": "娱乐",
+    "order_id": 6,
+    "placement_category": 1,
+    "icon": "icon_entertainment"
+  },
+  {
+    "id": 17,
+    "type": "lighting",
+    "name": "灯具",
+    "desc": "灯具",
+    "order_id": 7,
+    "placement_category": 1,
+    "icon": "icon_lamps"
+  },
+  {
+    "id": 18,
+    "type": "misc",
+    "name": "杂物",
+    "desc": "杂物",
+    "order_id": 8,
+    "placement_category": 1,
+    "icon": "icon_sundries"
+  },
+  {
+    "id": 19,
+    "type": "other",
+    "name": "其他",
+    "desc": "其他",
+    "order_id": 9,
+    "placement_category": 1,
+    "icon": "icon_decorations"
+  }
+]

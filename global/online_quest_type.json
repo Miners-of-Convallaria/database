@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": "Main",
+    "name": "主线任务",
+    "desc": ""
+  },
+  {
+    "id": 2,
+    "type": "Daily",
+    "name": "日常任务",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "type": "Side",
+    "name": "支线任务",
+    "desc": ""
+  },
+  {
+    "id": 4,
+    "type": "Bonus",
+    "name": "奖励任务",
+    "desc": ""
+  },
+  {
+    "id": 5,
+    "type": "Hard",
+    "name": "困难任务",
+    "desc": ""
+  },
+  {
+    "id": 6,
+    "type": "Help",
+    "name": "助战任务",
+    "desc": ""
+  },
+  {
+    "id": 7,
+    "type": "FriendBattle",
+    "name": "好友切磋关卡",
+    "desc": ""
+  }
+]

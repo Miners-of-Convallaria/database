@@ -1,0 +1,106 @@
+[
+  {
+    "id": 2,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "旗帜1",
+    "model": "qizhi_01_1",
+    "root": "qizhi_01"
+  },
+  {
+    "id": 3,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "旗帜2",
+    "model": "qizhi_02_1",
+    "root": "qizhi_02"
+  },
+  {
+    "id": 4,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "树桩和斧头",
+    "model": "shuzhuang_1",
+    "root": "shuzhuang"
+  },
+  {
+    "id": 6,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "箭靶1",
+    "model": "empty",
+    "root": "jianba_01"
+  },
+  {
+    "id": 7,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "箭靶2",
+    "model": "empty",
+    "root": "jianba_02"
+  },
+  {
+    "id": 8,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "箭靶3",
+    "model": "empty",
+    "root": "jianba_03"
+  },
+  {
+    "id": 9,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "箭靶4",
+    "model": "empty",
+    "root": "jianba_04"
+  },
+  {
+    "id": 10,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "木桩1",
+    "model": "empty",
+    "root": "muzhuang_01"
+  },
+  {
+    "id": 11,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "木桩2",
+    "model": "empty",
+    "root": "muzhuang_02"
+  },
+  {
+    "id": 12,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "木桩3",
+    "model": "empty",
+    "root": "muzhuang_03"
+  },
+  {
+    "id": 13,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "木桩4",
+    "model": "empty",
+    "root": "muzhuang_04"
+  },
+  {
+    "id": 14,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "箭塔1",
+    "model": "jianta_01_1",
+    "root": "jianta_01"
+  },
+  {
+    "id": 15,
+    "m_capital_area_parts_upgrades": [],
+    "idcapital_area": 4,
+    "name": "箭塔2",
+    "model": "jianta_01_1",
+    "root": "jianta_02"
+  }
+]

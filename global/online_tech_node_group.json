@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "tactics",
+    "name": "战术",
+    "editor_name": "战术"
+  },
+  {
+    "id": 2,
+    "type": "attack",
+    "name": "进攻",
+    "editor_name": "进攻"
+  },
+  {
+    "id": 3,
+    "type": "survival",
+    "name": "生存",
+    "editor_name": "生存"
+  }
+]

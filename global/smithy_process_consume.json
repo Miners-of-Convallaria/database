@@ -1,0 +1,44 @@
+[
+  {
+    "id": 6,
+    "idsmithy_process": 5,
+    "type": 2,
+    "param0": 0,
+    "param1": 300
+  },
+  {
+    "id": 7,
+    "idsmithy_process": 6,
+    "type": 2,
+    "param0": 0,
+    "param1": 200
+  },
+  {
+    "id": 8,
+    "idsmithy_process": 7,
+    "type": 2,
+    "param0": 0,
+    "param1": 1000
+  },
+  {
+    "id": 10,
+    "idsmithy_process": 5,
+    "type": 8,
+    "param0": 22,
+    "param1": 5
+  },
+  {
+    "id": 11,
+    "idsmithy_process": 7,
+    "type": 8,
+    "param0": 22,
+    "param1": 30
+  },
+  {
+    "id": 12,
+    "idsmithy_process": 5,
+    "type": 8,
+    "param0": 2,
+    "param1": 15
+  }
+]

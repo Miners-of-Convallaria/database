@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "m_online_weapon_enchanting_element_entrys": [],
+    "name": "权杖",
+    "editor_name": "权杖",
+    "icon": "icon_enchant_grail"
+  },
+  {
+    "id": 2,
+    "m_online_weapon_enchanting_element_entrys": [],
+    "name": "宝剑",
+    "editor_name": "宝剑",
+    "icon": "icon_enchant_sword"
+  },
+  {
+    "id": 3,
+    "m_online_weapon_enchanting_element_entrys": [],
+    "name": "星币",
+    "editor_name": "星币",
+    "icon": "icon_enchant_coin"
+  },
+  {
+    "id": 4,
+    "m_online_weapon_enchanting_element_entrys": [],
+    "name": "圣杯",
+    "editor_name": "圣杯",
+    "icon": "icon_enchant_wand"
+  }
+]

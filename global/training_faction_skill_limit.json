@@ -1,0 +1,954 @@
+[
+  {
+    "id": 4,
+    "idtraining_faction_skill": 20,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 6,
+    "idtraining_faction_skill": 22,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 7,
+    "idtraining_faction_skill": 23,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 8,
+    "idtraining_faction_skill": 24,
+    "limit_type": 5,
+    "param0": 8,
+    "is_and": true
+  },
+  {
+    "id": 9,
+    "idtraining_faction_skill": 25,
+    "limit_type": 5,
+    "param0": 8,
+    "is_and": true
+  },
+  {
+    "id": 10,
+    "idtraining_faction_skill": 26,
+    "limit_type": 6,
+    "param0": 14,
+    "is_and": true
+  },
+  {
+    "id": 12,
+    "idtraining_faction_skill": 28,
+    "limit_type": 4,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 13,
+    "idtraining_faction_skill": 29,
+    "limit_type": 4,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 14,
+    "idtraining_faction_skill": 30,
+    "limit_type": 6,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 15,
+    "idtraining_faction_skill": 31,
+    "limit_type": 5,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 18,
+    "idtraining_faction_skill": 34,
+    "limit_type": 5,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 19,
+    "idtraining_faction_skill": 35,
+    "limit_type": 5,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 20,
+    "idtraining_faction_skill": 36,
+    "limit_type": 6,
+    "param0": 15,
+    "is_and": true
+  },
+  {
+    "id": 21,
+    "idtraining_faction_skill": 37,
+    "limit_type": 5,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 22,
+    "idtraining_faction_skill": 38,
+    "limit_type": 5,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 23,
+    "idtraining_faction_skill": 39,
+    "limit_type": 6,
+    "param0": 23,
+    "is_and": true
+  },
+  {
+    "id": 24,
+    "idtraining_faction_skill": 40,
+    "limit_type": 6,
+    "param0": 23,
+    "is_and": true
+  },
+  {
+    "id": 25,
+    "idtraining_faction_skill": 41,
+    "limit_type": 6,
+    "param0": 12,
+    "is_and": true
+  },
+  {
+    "id": 26,
+    "idtraining_faction_skill": 42,
+    "limit_type": 6,
+    "param0": 12,
+    "is_and": true
+  },
+  {
+    "id": 28,
+    "idtraining_faction_skill": 46,
+    "limit_type": 4,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 29,
+    "idtraining_faction_skill": 47,
+    "limit_type": 4,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 31,
+    "idtraining_faction_skill": 49,
+    "limit_type": 4,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 32,
+    "idtraining_faction_skill": 50,
+    "limit_type": 6,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 33,
+    "idtraining_faction_skill": 51,
+    "limit_type": 4,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 34,
+    "idtraining_faction_skill": 52,
+    "limit_type": 4,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 35,
+    "idtraining_faction_skill": 53,
+    "limit_type": 4,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 36,
+    "idtraining_faction_skill": 54,
+    "limit_type": 4,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 37,
+    "idtraining_faction_skill": 55,
+    "limit_type": 4,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 38,
+    "idtraining_faction_skill": 56,
+    "limit_type": 4,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 39,
+    "idtraining_faction_skill": 57,
+    "limit_type": 6,
+    "param0": 40,
+    "is_and": true
+  },
+  {
+    "id": 40,
+    "idtraining_faction_skill": 58,
+    "limit_type": 6,
+    "param0": 39,
+    "is_and": true
+  },
+  {
+    "id": 41,
+    "idtraining_faction_skill": 59,
+    "limit_type": 6,
+    "param0": 19,
+    "is_and": true
+  },
+  {
+    "id": 42,
+    "idtraining_faction_skill": 60,
+    "limit_type": 6,
+    "param0": 6,
+    "is_and": true
+  },
+  {
+    "id": 43,
+    "idtraining_faction_skill": 61,
+    "limit_type": 2,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 44,
+    "idtraining_faction_skill": 62,
+    "limit_type": 2,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 45,
+    "idtraining_faction_skill": 63,
+    "limit_type": 6,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 46,
+    "idtraining_faction_skill": 64,
+    "limit_type": 6,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 47,
+    "idtraining_faction_skill": 65,
+    "limit_type": 6,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 48,
+    "idtraining_faction_skill": 66,
+    "limit_type": 6,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 49,
+    "idtraining_faction_skill": 67,
+    "limit_type": 6,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 50,
+    "idtraining_faction_skill": 68,
+    "limit_type": 2,
+    "param0": 10,
+    "is_and": true
+  },
+  {
+    "id": 51,
+    "idtraining_faction_skill": 69,
+    "limit_type": 2,
+    "param0": 10,
+    "is_and": true
+  },
+  {
+    "id": 52,
+    "idtraining_faction_skill": 70,
+    "limit_type": 2,
+    "param0": 10,
+    "is_and": true
+  },
+  {
+    "id": 53,
+    "idtraining_faction_skill": 71,
+    "limit_type": 6,
+    "param0": 38,
+    "is_and": true
+  },
+  {
+    "id": 54,
+    "idtraining_faction_skill": 72,
+    "limit_type": 6,
+    "param0": 41,
+    "is_and": true
+  },
+  {
+    "id": 55,
+    "idtraining_faction_skill": 73,
+    "limit_type": 6,
+    "param0": 40,
+    "is_and": true
+  },
+  {
+    "id": 56,
+    "idtraining_faction_skill": 74,
+    "limit_type": 6,
+    "param0": 39,
+    "is_and": true
+  },
+  {
+    "id": 57,
+    "idtraining_faction_skill": 75,
+    "limit_type": 6,
+    "param0": 19,
+    "is_and": true
+  },
+  {
+    "id": 58,
+    "idtraining_faction_skill": 76,
+    "limit_type": 6,
+    "param0": 38,
+    "is_and": true
+  },
+  {
+    "id": 59,
+    "idtraining_faction_skill": 77,
+    "limit_type": 6,
+    "param0": 41,
+    "is_and": true
+  },
+  {
+    "id": 60,
+    "idtraining_faction_skill": 78,
+    "limit_type": 2,
+    "param0": 11,
+    "is_and": true
+  },
+  {
+    "id": 61,
+    "idtraining_faction_skill": 79,
+    "limit_type": 6,
+    "param0": 7,
+    "is_and": true
+  },
+  {
+    "id": 62,
+    "idtraining_faction_skill": 80,
+    "limit_type": 6,
+    "param0": 7,
+    "is_and": true
+  },
+  {
+    "id": 63,
+    "idtraining_faction_skill": 81,
+    "limit_type": 6,
+    "param0": 11,
+    "is_and": true
+  },
+  {
+    "id": 64,
+    "idtraining_faction_skill": 82,
+    "limit_type": 6,
+    "param0": 11,
+    "is_and": true
+  },
+  {
+    "id": 65,
+    "idtraining_faction_skill": 83,
+    "limit_type": 6,
+    "param0": 10,
+    "is_and": true
+  },
+  {
+    "id": 66,
+    "idtraining_faction_skill": 84,
+    "limit_type": 6,
+    "param0": 10,
+    "is_and": true
+  },
+  {
+    "id": 68,
+    "idtraining_faction_skill": 86,
+    "limit_type": 6,
+    "param0": 9,
+    "is_and": true
+  },
+  {
+    "id": 69,
+    "idtraining_faction_skill": 87,
+    "limit_type": 6,
+    "param0": 6,
+    "is_and": true
+  },
+  {
+    "id": 70,
+    "idtraining_faction_skill": 88,
+    "limit_type": 6,
+    "param0": 13,
+    "is_and": true
+  },
+  {
+    "id": 71,
+    "idtraining_faction_skill": 89,
+    "limit_type": 6,
+    "param0": 13,
+    "is_and": true
+  },
+  {
+    "id": 72,
+    "idtraining_faction_skill": 90,
+    "limit_type": 2,
+    "param0": 11,
+    "is_and": true
+  },
+  {
+    "id": 73,
+    "idtraining_faction_skill": 92,
+    "limit_type": 6,
+    "param0": 13,
+    "is_and": true
+  },
+  {
+    "id": 74,
+    "idtraining_faction_skill": 93,
+    "limit_type": 6,
+    "param0": 13,
+    "is_and": true
+  },
+  {
+    "id": 75,
+    "idtraining_faction_skill": 94,
+    "limit_type": 6,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 76,
+    "idtraining_faction_skill": 95,
+    "limit_type": 5,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 77,
+    "idtraining_faction_skill": 96,
+    "limit_type": 5,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 78,
+    "idtraining_faction_skill": 97,
+    "limit_type": 6,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 79,
+    "idtraining_faction_skill": 98,
+    "limit_type": 6,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 80,
+    "idtraining_faction_skill": 99,
+    "limit_type": 6,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 81,
+    "idtraining_faction_skill": 100,
+    "limit_type": 6,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 82,
+    "idtraining_faction_skill": 101,
+    "limit_type": 4,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 84,
+    "idtraining_faction_skill": 102,
+    "limit_type": 5,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 85,
+    "idtraining_faction_skill": 102,
+    "limit_type": 2,
+    "param0": 3,
+    "is_and": false
+  },
+  {
+    "id": 86,
+    "idtraining_faction_skill": 102,
+    "limit_type": 2,
+    "param0": 11,
+    "is_and": false
+  },
+  {
+    "id": 111,
+    "idtraining_faction_skill": 33,
+    "limit_type": 5,
+    "param0": 7,
+    "is_and": true
+  },
+  {
+    "id": 112,
+    "idtraining_faction_skill": 108,
+    "limit_type": 6,
+    "param0": 22,
+    "is_and": true
+  },
+  {
+    "id": 113,
+    "idtraining_faction_skill": 109,
+    "limit_type": 6,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 114,
+    "idtraining_faction_skill": 110,
+    "limit_type": 6,
+    "param0": 21,
+    "is_and": true
+  },
+  {
+    "id": 115,
+    "idtraining_faction_skill": 111,
+    "limit_type": 6,
+    "param0": 8,
+    "is_and": true
+  },
+  {
+    "id": 116,
+    "idtraining_faction_skill": 112,
+    "limit_type": 6,
+    "param0": 14,
+    "is_and": true
+  },
+  {
+    "id": 118,
+    "idtraining_faction_skill": 114,
+    "limit_type": 6,
+    "param0": 15,
+    "is_and": true
+  },
+  {
+    "id": 119,
+    "idtraining_faction_skill": 115,
+    "limit_type": 6,
+    "param0": 31,
+    "is_and": true
+  },
+  {
+    "id": 121,
+    "idtraining_faction_skill": 117,
+    "limit_type": 6,
+    "param0": 8,
+    "is_and": true
+  },
+  {
+    "id": 122,
+    "idtraining_faction_skill": 119,
+    "limit_type": 6,
+    "param0": 42,
+    "is_and": true
+  },
+  {
+    "id": 123,
+    "idtraining_faction_skill": 120,
+    "limit_type": 6,
+    "param0": 22,
+    "is_and": true
+  },
+  {
+    "id": 124,
+    "idtraining_faction_skill": 122,
+    "limit_type": 6,
+    "param0": 43,
+    "is_and": true
+  },
+  {
+    "id": 125,
+    "idtraining_faction_skill": 121,
+    "limit_type": 6,
+    "param0": 43,
+    "is_and": true
+  },
+  {
+    "id": 126,
+    "idtraining_faction_skill": 116,
+    "limit_type": 6,
+    "param0": 31,
+    "is_and": false
+  },
+  {
+    "id": 127,
+    "idtraining_faction_skill": 116,
+    "limit_type": 6,
+    "param0": 25,
+    "is_and": false
+  },
+  {
+    "id": 128,
+    "idtraining_faction_skill": 123,
+    "limit_type": 6,
+    "param0": 42,
+    "is_and": true
+  },
+  {
+    "id": 129,
+    "idtraining_faction_skill": 124,
+    "limit_type": 6,
+    "param0": 24,
+    "is_and": true
+  },
+  {
+    "id": 130,
+    "idtraining_faction_skill": 125,
+    "limit_type": 6,
+    "param0": 24,
+    "is_and": true
+  },
+  {
+    "id": 131,
+    "idtraining_faction_skill": 126,
+    "limit_type": 6,
+    "param0": 21,
+    "is_and": true
+  },
+  {
+    "id": 134,
+    "idtraining_faction_skill": 128,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 135,
+    "idtraining_faction_skill": 118,
+    "limit_type": 3,
+    "param0": 279,
+    "is_and": true
+  },
+  {
+    "id": 136,
+    "idtraining_faction_skill": 18,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 137,
+    "idtraining_faction_skill": 17,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 138,
+    "idtraining_faction_skill": 21,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 139,
+    "idtraining_faction_skill": 19,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 140,
+    "idtraining_faction_skill": 129,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 141,
+    "idtraining_faction_skill": 130,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 142,
+    "idtraining_faction_skill": 131,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 143,
+    "idtraining_faction_skill": 132,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 144,
+    "idtraining_faction_skill": 133,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 145,
+    "idtraining_faction_skill": 134,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 146,
+    "idtraining_faction_skill": 135,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 147,
+    "idtraining_faction_skill": 136,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 148,
+    "idtraining_faction_skill": 137,
+    "limit_type": 1,
+    "param0": 0,
+    "is_and": true
+  },
+  {
+    "id": 149,
+    "idtraining_faction_skill": 138,
+    "limit_type": 4,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 150,
+    "idtraining_faction_skill": 139,
+    "limit_type": 4,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 151,
+    "idtraining_faction_skill": 140,
+    "limit_type": 4,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 152,
+    "idtraining_faction_skill": 141,
+    "limit_type": 4,
+    "param0": 3,
+    "is_and": true
+  },
+  {
+    "id": 153,
+    "idtraining_faction_skill": 142,
+    "limit_type": 5,
+    "param0": 8,
+    "is_and": true
+  },
+  {
+    "id": 154,
+    "idtraining_faction_skill": 143,
+    "limit_type": 5,
+    "param0": 8,
+    "is_and": true
+  },
+  {
+    "id": 155,
+    "idtraining_faction_skill": 144,
+    "limit_type": 5,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 156,
+    "idtraining_faction_skill": 145,
+    "limit_type": 5,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 157,
+    "idtraining_faction_skill": 146,
+    "limit_type": 5,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 158,
+    "idtraining_faction_skill": 147,
+    "limit_type": 5,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 159,
+    "idtraining_faction_skill": 148,
+    "limit_type": 5,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 160,
+    "idtraining_faction_skill": 149,
+    "limit_type": 5,
+    "param0": 6,
+    "is_and": true
+  },
+  {
+    "id": 162,
+    "idtraining_faction_skill": 150,
+    "limit_type": 5,
+    "param0": 6,
+    "is_and": true
+  },
+  {
+    "id": 163,
+    "idtraining_faction_skill": 151,
+    "limit_type": 5,
+    "param0": 6,
+    "is_and": true
+  },
+  {
+    "id": 164,
+    "idtraining_faction_skill": 152,
+    "limit_type": 5,
+    "param0": 6,
+    "is_and": true
+  },
+  {
+    "id": 166,
+    "idtraining_faction_skill": 153,
+    "limit_type": 2,
+    "param0": 18,
+    "is_and": true
+  },
+  {
+    "id": 167,
+    "idtraining_faction_skill": 154,
+    "limit_type": 2,
+    "param0": 18,
+    "is_and": true
+  },
+  {
+    "id": 168,
+    "idtraining_faction_skill": 155,
+    "limit_type": 2,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 169,
+    "idtraining_faction_skill": 156,
+    "limit_type": 2,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 170,
+    "idtraining_faction_skill": 157,
+    "limit_type": 2,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 171,
+    "idtraining_faction_skill": 158,
+    "limit_type": 2,
+    "param0": 4,
+    "is_and": true
+  },
+  {
+    "id": 172,
+    "idtraining_faction_skill": 159,
+    "limit_type": 2,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 173,
+    "idtraining_faction_skill": 160,
+    "limit_type": 2,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 174,
+    "idtraining_faction_skill": 161,
+    "limit_type": 2,
+    "param0": 5,
+    "is_and": true
+  },
+  {
+    "id": 175,
+    "idtraining_faction_skill": 162,
+    "limit_type": 4,
+    "param0": 1,
+    "is_and": true
+  },
+  {
+    "id": 176,
+    "idtraining_faction_skill": 163,
+    "limit_type": 5,
+    "param0": 2,
+    "is_and": true
+  },
+  {
+    "id": 177,
+    "idtraining_faction_skill": 164,
+    "limit_type": 2,
+    "param0": 4,
+    "is_and": true
+  }
+]

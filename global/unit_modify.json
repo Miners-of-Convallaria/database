@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-突击"
+  },
+  {
+    "id": 2,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-战士"
+  },
+  {
+    "id": 3,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-守卫"
+  },
+  {
+    "id": 4,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-黑近战"
+  },
+  {
+    "id": 5,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-黑法师"
+  },
+  {
+    "id": 6,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-白射手"
+  },
+  {
+    "id": 7,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-白近战"
+  },
+  {
+    "id": 8,
+    "m_unit_modify_levels": [],
+    "name": "完美养成-白法师"
+  },
+  {
+    "id": 9,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-突击"
+  },
+  {
+    "id": 10,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-战士"
+  },
+  {
+    "id": 11,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-守卫"
+  },
+  {
+    "id": 12,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-黑近战"
+  },
+  {
+    "id": 13,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-黑法师"
+  },
+  {
+    "id": 14,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-白射手"
+  },
+  {
+    "id": 15,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-白近战"
+  },
+  {
+    "id": 16,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-白法师"
+  },
+  {
+    "id": 17,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-战士"
+  },
+  {
+    "id": 18,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-刺客"
+  },
+  {
+    "id": 19,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-守卫"
+  },
+  {
+    "id": 20,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-黑打手"
+  },
+  {
+    "id": 21,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-黑法师"
+  },
+  {
+    "id": 22,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-弓手"
+  },
+  {
+    "id": 23,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-白打手"
+  },
+  {
+    "id": 24,
+    "m_unit_modify_levels": [],
+    "name": "沙盒测试-白法师"
+  },
+  {
+    "id": 25,
+    "m_unit_modify_levels": [],
+    "name": "正常养成-黑射手"
+  },
+  {
+    "id": 90,
+    "m_unit_modify_levels": [],
+    "name": "测试正常养成-原型数值模板"
+  },
+  {
+    "id": 91,
+    "m_unit_modify_levels": [],
+    "name": "测试敌人-原型数值模板"
+  },
+  {
+    "id": 101,
+    "m_unit_modify_levels": [],
+    "name": "雇佣兵盾兵"
+  },
+  {
+    "id": 102,
+    "m_unit_modify_levels": [],
+    "name": "雇佣兵枪兵"
+  },
+  {
+    "id": 104,
+    "m_unit_modify_levels": [],
+    "name": "雇佣兵弓兵"
+  },
+  {
+    "id": 105,
+    "m_unit_modify_levels": [],
+    "name": "雇佣兵刺客"
+  },
+  {
+    "id": 111,
+    "m_unit_modify_levels": [],
+    "name": "骑士团剑盾兵"
+  },
+  {
+    "id": 112,
+    "m_unit_modify_levels": [],
+    "name": "骑士团枪兵"
+  },
+  {
+    "id": 113,
+    "m_unit_modify_levels": [],
+    "name": "骑士团巨斧兵"
+  },
+  {
+    "id": 114,
+    "m_unit_modify_levels": [],
+    "name": "骑士团牧师"
+  },
+  {
+    "id": 121,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚剑盾兵"
+  },
+  {
+    "id": 122,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚枪兵"
+  },
+  {
+    "id": 123,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚弓兵"
+  },
+  {
+    "id": 124,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚火法"
+  },
+  {
+    "id": 125,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚秘警剑士"
+  },
+  {
+    "id": 126,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚秘警弩刺"
+  },
+  {
+    "id": 127,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚刺客"
+  },
+  {
+    "id": 128,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚牧师"
+  },
+  {
+    "id": 129,
+    "m_unit_modify_levels": [],
+    "name": "伊利亚秘警暗法"
+  },
+  {
+    "id": 131,
+    "m_unit_modify_levels": [],
+    "name": "无法者盾兵"
+  },
+  {
+    "id": 132,
+    "m_unit_modify_levels": [],
+    "name": "无法者枪兵"
+  },
+  {
+    "id": 133,
+    "m_unit_modify_levels": [],
+    "name": "无法者巨斧兵"
+  },
+  {
+    "id": 134,
+    "m_unit_modify_levels": [],
+    "name": "无法者弓兵"
+  },
+  {
+    "id": 135,
+    "m_unit_modify_levels": [],
+    "name": "无法者弩兵"
+  },
+  {
+    "id": 136,
+    "m_unit_modify_levels": [],
+    "name": "无法者刺客"
+  },
+  {
+    "id": 141,
+    "m_unit_modify_levels": [],
+    "name": "教皇国牧师"
+  },
+  {
+    "id": 142,
+    "m_unit_modify_levels": [],
+    "name": "教皇国弩兵"
+  },
+  {
+    "id": 143,
+    "m_unit_modify_levels": [],
+    "name": "教皇国冰法"
+  },
+  {
+    "id": 144,
+    "m_unit_modify_levels": [],
+    "name": "教皇国投枪兵"
+  },
+  {
+    "id": 145,
+    "m_unit_modify_levels": [],
+    "name": "教皇国剑盾兵"
+  },
+  {
+    "id": 146,
+    "m_unit_modify_levels": [],
+    "name": "教皇国弩刺"
+  },
+  {
+    "id": 151,
+    "m_unit_modify_levels": [],
+    "name": "薇尔德刺客"
+  },
+  {
+    "id": 152,
+    "m_unit_modify_levels": [],
+    "name": "薇尔德弓兵"
+  },
+  {
+    "id": 161,
+    "m_unit_modify_levels": [],
+    "name": "黑暗之光火法"
+  },
+  {
+    "id": 162,
+    "m_unit_modify_levels": [],
+    "name": "黑暗之光冰法"
+  },
+  {
+    "id": 163,
+    "m_unit_modify_levels": [],
+    "name": "黑暗之光暗法"
+  },
+  {
+    "id": 201,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵盾兵"
+  },
+  {
+    "id": 202,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵枪兵"
+  },
+  {
+    "id": 204,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵弓兵"
+  },
+  {
+    "id": 205,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵刺客"
+  },
+  {
+    "id": 211,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团剑盾兵"
+  },
+  {
+    "id": 212,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团枪兵"
+  },
+  {
+    "id": 213,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团巨斧兵"
+  },
+  {
+    "id": 214,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团牧师"
+  },
+  {
+    "id": 221,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚剑盾兵"
+  },
+  {
+    "id": 222,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚枪兵"
+  },
+  {
+    "id": 223,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚弓兵"
+  },
+  {
+    "id": 224,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚火法"
+  },
+  {
+    "id": 225,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚秘警剑士"
+  },
+  {
+    "id": 226,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚秘警弩刺"
+  },
+  {
+    "id": 227,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚刺客"
+  },
+  {
+    "id": 228,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚牧师"
+  },
+  {
+    "id": 229,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚秘警暗法"
+  },
+  {
+    "id": 231,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者盾兵"
+  },
+  {
+    "id": 232,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者枪兵"
+  },
+  {
+    "id": 233,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者巨斧兵"
+  },
+  {
+    "id": 234,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者弓兵"
+  },
+  {
+    "id": 235,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者弩兵"
+  },
+  {
+    "id": 236,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者刺客"
+  },
+  {
+    "id": 241,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国牧师"
+  },
+  {
+    "id": 242,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国弩兵"
+  },
+  {
+    "id": 243,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国冰法"
+  },
+  {
+    "id": 244,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国投枪兵"
+  },
+  {
+    "id": 245,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国剑盾兵"
+  },
+  {
+    "id": 246,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国弩刺"
+  },
+  {
+    "id": 251,
+    "m_unit_modify_levels": [],
+    "name": "敌-薇尔德刺客"
+  },
+  {
+    "id": 252,
+    "m_unit_modify_levels": [],
+    "name": "敌-薇尔德弓兵"
+  },
+  {
+    "id": 261,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光火法"
+  },
+  {
+    "id": 262,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光冰法"
+  },
+  {
+    "id": 263,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光暗法"
+  },
+  {
+    "id": 264,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光刺客"
+  },
+  {
+    "id": 265,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光剑盾兵"
+  },
+  {
+    "id": 266,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光枪兵"
+  },
+  {
+    "id": 267,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光弩兵"
+  },
+  {
+    "id": 268,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光巨斧兵"
+  },
+  {
+    "id": 269,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光爆破手"
+  },
+  {
+    "id": 270,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光魔人（小BOSS）"
+  },
+  {
+    "id": 271,
+    "m_unit_modify_levels": [],
+    "name": "敌-民兵剑盾兵"
+  },
+  {
+    "id": 272,
+    "m_unit_modify_levels": [],
+    "name": "敌-民兵巨斧兵"
+  },
+  {
+    "id": 273,
+    "m_unit_modify_levels": [],
+    "name": "敌-民兵弩手"
+  },
+  {
+    "id": 274,
+    "m_unit_modify_levels": [],
+    "name": "敌-民兵爆破手"
+  },
+  {
+    "id": 275,
+    "m_unit_modify_levels": [],
+    "name": "敌-晶石软泥怪"
+  },
+  {
+    "id": 276,
+    "m_unit_modify_levels": [],
+    "name": "敌-森林狼（杂鱼）"
+  },
+  {
+    "id": 277,
+    "m_unit_modify_levels": [],
+    "name": "敌-狼王(精英)"
+  },
+  {
+    "id": 278,
+    "m_unit_modify_levels": [],
+    "name": "敌-小晶石软泥怪"
+  },
+  {
+    "id": 279,
+    "m_unit_modify_levels": [],
+    "name": "敌-野猪"
+  },
+  {
+    "id": 280,
+    "m_unit_modify_levels": [],
+    "name": "敌-蜘蛛"
+  },
+  {
+    "id": 281,
+    "m_unit_modify_levels": [],
+    "name": "敌-露西亚巨斧兵"
+  },
+  {
+    "id": 282,
+    "m_unit_modify_levels": [],
+    "name": "敌-露西亚斧盾兵"
+  },
+  {
+    "id": 283,
+    "m_unit_modify_levels": [],
+    "name": "敌-露西亚弓兵"
+  },
+  {
+    "id": 284,
+    "m_unit_modify_levels": [],
+    "name": "敌-露西亚熊人-巨斧兵版"
+  },
+  {
+    "id": 285,
+    "m_unit_modify_levels": [],
+    "name": "敌-露西亚熊人-斧盾兵版"
+  },
+  {
+    "id": 286,
+    "m_unit_modify_levels": [],
+    "name": "敌-露西亚狼人-弓兵版"
+  },
+  {
+    "id": 291,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼剑盾兵"
+  },
+  {
+    "id": 292,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼刺客"
+  },
+  {
+    "id": 293,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼暗法"
+  },
+  {
+    "id": 294,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼奴隶巨斧兵"
+  },
+  {
+    "id": 295,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼奴隶舞娘"
+  },
+  {
+    "id": 296,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼精英巨斧兵"
+  },
+  {
+    "id": 297,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼精英剑盾兵"
+  },
+  {
+    "id": 298,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼精英刺客"
+  },
+  {
+    "id": 300,
+    "m_unit_modify_levels": [],
+    "name": "敌-晶石软泥怪-战士"
+  },
+  {
+    "id": 301,
+    "m_unit_modify_levels": [],
+    "name": "敌-晶石软泥怪-守望"
+  },
+  {
+    "id": 302,
+    "m_unit_modify_levels": [],
+    "name": "敌-晶石软泥怪-刺客"
+  },
+  {
+    "id": 303,
+    "m_unit_modify_levels": [],
+    "name": "敌-晶石软泥怪-守卫"
+  },
+  {
+    "id": 304,
+    "m_unit_modify_levels": [],
+    "name": "敌-青蛙"
+  },
+  {
+    "id": 305,
+    "m_unit_modify_levels": [],
+    "name": "敌-蝎子"
+  },
+  {
+    "id": 306,
+    "m_unit_modify_levels": [],
+    "name": "敌-浣熊"
+  },
+  {
+    "id": 400,
+    "m_unit_modify_levels": [],
+    "name": "我就是主角"
+  },
+  {
+    "id": 401,
+    "m_unit_modify_levels": [],
+    "name": "雇佣兵巨斧兵"
+  },
+  {
+    "id": 402,
+    "m_unit_modify_levels": [],
+    "name": "无国界医生"
+  },
+  {
+    "id": 403,
+    "m_unit_modify_levels": [],
+    "name": "维尔德舞娘"
+  },
+  {
+    "id": 404,
+    "m_unit_modify_levels": [],
+    "name": "倒吊人参谋官"
+  },
+  {
+    "id": 405,
+    "m_unit_modify_levels": [],
+    "name": "雇佣兵精英火法"
+  },
+  {
+    "id": 406,
+    "m_unit_modify_levels": [],
+    "name": "教皇国魔战士"
+  },
+  {
+    "id": 407,
+    "m_unit_modify_levels": [],
+    "name": "骑士团重弩"
+  },
+  {
+    "id": 408,
+    "m_unit_modify_levels": [],
+    "name": "教皇国主教"
+  },
+  {
+    "id": 409,
+    "m_unit_modify_levels": [],
+    "name": "骑士团战士"
+  },
+  {
+    "id": 410,
+    "m_unit_modify_levels": [],
+    "name": "骑士团突击"
+  },
+  {
+    "id": 501,
+    "m_unit_modify_levels": [],
+    "name": "小红"
+  },
+  {
+    "id": 502,
+    "m_unit_modify_levels": [],
+    "name": "小绿"
+  },
+  {
+    "id": 503,
+    "m_unit_modify_levels": [],
+    "name": "女骑士"
+  },
+  {
+    "id": 504,
+    "m_unit_modify_levels": [],
+    "name": "大姐头"
+  },
+  {
+    "id": 505,
+    "m_unit_modify_levels": [],
+    "name": "黑光打手"
+  },
+  {
+    "id": 506,
+    "m_unit_modify_levels": [],
+    "name": "老骑士"
+  },
+  {
+    "id": 507,
+    "m_unit_modify_levels": [],
+    "name": "王国军小将军"
+  },
+  {
+    "id": 508,
+    "m_unit_modify_levels": [],
+    "name": "萨曼莎修女"
+  },
+  {
+    "id": 509,
+    "m_unit_modify_levels": [],
+    "name": "面具刺客"
+  },
+  {
+    "id": 510,
+    "m_unit_modify_levels": [],
+    "name": "索菲亚"
+  },
+  {
+    "id": 511,
+    "m_unit_modify_levels": [],
+    "name": "二王子"
+  },
+  {
+    "id": 512,
+    "m_unit_modify_levels": [],
+    "name": "薇尔德妹妹"
+  },
+  {
+    "id": 513,
+    "m_unit_modify_levels": [],
+    "name": "薇尔德姐姐"
+  },
+  {
+    "id": 514,
+    "m_unit_modify_levels": [],
+    "name": "小魔女"
+  },
+  {
+    "id": 515,
+    "m_unit_modify_levels": [],
+    "name": "大王子"
+  },
+  {
+    "id": 516,
+    "m_unit_modify_levels": [],
+    "name": "米格尔"
+  },
+  {
+    "id": 517,
+    "m_unit_modify_levels": [],
+    "name": "阿力克赛"
+  },
+  {
+    "id": 518,
+    "m_unit_modify_levels": [],
+    "name": "灰狼"
+  },
+  {
+    "id": 519,
+    "m_unit_modify_levels": [],
+    "name": "三王女"
+  },
+  {
+    "id": 520,
+    "m_unit_modify_levels": [],
+    "name": "审判者C"
+  },
+  {
+    "id": 521,
+    "m_unit_modify_levels": [],
+    "name": "晶石少女"
+  },
+  {
+    "id": 522,
+    "m_unit_modify_levels": [],
+    "name": "马格努斯"
+  },
+  {
+    "id": 523,
+    "m_unit_modify_levels": [],
+    "name": "难民少女"
+  },
+  {
+    "id": 524,
+    "m_unit_modify_levels": [],
+    "name": "骑士团法师"
+  },
+  {
+    "id": 525,
+    "m_unit_modify_levels": [],
+    "name": "双子哥哥"
+  },
+  {
+    "id": 526,
+    "m_unit_modify_levels": [],
+    "name": "双子妹妹"
+  },
+  {
+    "id": 527,
+    "m_unit_modify_levels": [],
+    "name": "银狼"
+  },
+  {
+    "id": 528,
+    "m_unit_modify_levels": [],
+    "name": "奥古斯特"
+  },
+  {
+    "id": 529,
+    "m_unit_modify_levels": [],
+    "name": "光辉卫士长"
+  },
+  {
+    "id": 530,
+    "m_unit_modify_levels": [],
+    "name": "审判者萨曼莎"
+  },
+  {
+    "id": 531,
+    "m_unit_modify_levels": [],
+    "name": "法皇之手"
+  },
+  {
+    "id": 532,
+    "m_unit_modify_levels": [],
+    "name": "邦国王子"
+  },
+  {
+    "id": 533,
+    "m_unit_modify_levels": [],
+    "name": "苏莱曼商人"
+  },
+  {
+    "id": 534,
+    "m_unit_modify_levels": [],
+    "name": "舞团舞娘"
+  },
+  {
+    "id": 535,
+    "m_unit_modify_levels": [],
+    "name": "混血儿"
+  },
+  {
+    "id": 536,
+    "m_unit_modify_levels": [],
+    "name": "盲女侍卫"
+  },
+  {
+    "id": 537,
+    "m_unit_modify_levels": [],
+    "name": "鹦鹉人"
+  },
+  {
+    "id": 538,
+    "m_unit_modify_levels": [],
+    "name": "学姐"
+  },
+  {
+    "id": 539,
+    "m_unit_modify_levels": [],
+    "name": "女仆杀手"
+  },
+  {
+    "id": 540,
+    "m_unit_modify_levels": [],
+    "name": "SP拉维耶"
+  },
+  {
+    "id": 541,
+    "m_unit_modify_levels": [],
+    "name": "SP索菲亚"
+  },
+  {
+    "id": 601,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵巨斧兵"
+  },
+  {
+    "id": 602,
+    "m_unit_modify_levels": [],
+    "name": "敌-无国界医生"
+  },
+  {
+    "id": 603,
+    "m_unit_modify_levels": [],
+    "name": "敌-维尔德舞娘"
+  },
+  {
+    "id": 604,
+    "m_unit_modify_levels": [],
+    "name": "敌-倒吊人参谋官"
+  },
+  {
+    "id": 605,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵精英火法"
+  },
+  {
+    "id": 606,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国魔战士"
+  },
+  {
+    "id": 607,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团重弩"
+  },
+  {
+    "id": 608,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国主教"
+  },
+  {
+    "id": 609,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团战士"
+  },
+  {
+    "id": 610,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团突击"
+  },
+  {
+    "id": 701,
+    "m_unit_modify_levels": [],
+    "name": "敌-小红"
+  },
+  {
+    "id": 702,
+    "m_unit_modify_levels": [],
+    "name": "敌-小绿"
+  },
+  {
+    "id": 703,
+    "m_unit_modify_levels": [],
+    "name": "敌-女骑士"
+  },
+  {
+    "id": 704,
+    "m_unit_modify_levels": [],
+    "name": "敌-大姐头"
+  },
+  {
+    "id": 705,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑光打手"
+  },
+  {
+    "id": 706,
+    "m_unit_modify_levels": [],
+    "name": "敌-老骑士"
+  },
+  {
+    "id": 707,
+    "m_unit_modify_levels": [],
+    "name": "敌-王国军小将军"
+  },
+  {
+    "id": 708,
+    "m_unit_modify_levels": [],
+    "name": "敌-萨曼莎修女"
+  },
+  {
+    "id": 709,
+    "m_unit_modify_levels": [],
+    "name": "敌-面具刺客"
+  },
+  {
+    "id": 710,
+    "m_unit_modify_levels": [],
+    "name": "敌-索菲亚"
+  },
+  {
+    "id": 711,
+    "m_unit_modify_levels": [],
+    "name": "敌-二王子"
+  },
+  {
+    "id": 712,
+    "m_unit_modify_levels": [],
+    "name": "敌-薇尔德妹妹"
+  },
+  {
+    "id": 713,
+    "m_unit_modify_levels": [],
+    "name": "敌-薇尔德姐姐"
+  },
+  {
+    "id": 714,
+    "m_unit_modify_levels": [],
+    "name": "敌-小魔女"
+  },
+  {
+    "id": 715,
+    "m_unit_modify_levels": [],
+    "name": "敌-大王子"
+  },
+  {
+    "id": 716,
+    "m_unit_modify_levels": [],
+    "name": "敌-米格尔"
+  },
+  {
+    "id": 717,
+    "m_unit_modify_levels": [],
+    "name": "敌-阿力克赛"
+  },
+  {
+    "id": 718,
+    "m_unit_modify_levels": [],
+    "name": "敌-灰狼"
+  },
+  {
+    "id": 719,
+    "m_unit_modify_levels": [],
+    "name": "敌-三王女"
+  },
+  {
+    "id": 720,
+    "m_unit_modify_levels": [],
+    "name": "敌-审判者C"
+  },
+  {
+    "id": 721,
+    "m_unit_modify_levels": [],
+    "name": "敌-晶石少女"
+  },
+  {
+    "id": 722,
+    "m_unit_modify_levels": [],
+    "name": "敌-马格努斯"
+  },
+  {
+    "id": 723,
+    "m_unit_modify_levels": [],
+    "name": "敌-难民少女"
+  },
+  {
+    "id": 724,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团法师"
+  },
+  {
+    "id": 725,
+    "m_unit_modify_levels": [],
+    "name": "敌-双子哥哥"
+  },
+  {
+    "id": 726,
+    "m_unit_modify_levels": [],
+    "name": "敌-双子妹妹"
+  },
+  {
+    "id": 727,
+    "m_unit_modify_levels": [],
+    "name": "敌-银狼"
+  },
+  {
+    "id": 728,
+    "m_unit_modify_levels": [],
+    "name": "敌-奥古斯特"
+  },
+  {
+    "id": 729,
+    "m_unit_modify_levels": [],
+    "name": "敌-光辉卫士长"
+  },
+  {
+    "id": 730,
+    "m_unit_modify_levels": [],
+    "name": "敌-审判者萨曼莎"
+  },
+  {
+    "id": 731,
+    "m_unit_modify_levels": [],
+    "name": "敌-法皇之手"
+  },
+  {
+    "id": 732,
+    "m_unit_modify_levels": [],
+    "name": "敌-邦国王子"
+  },
+  {
+    "id": 733,
+    "m_unit_modify_levels": [],
+    "name": "敌-苏莱曼商人"
+  },
+  {
+    "id": 734,
+    "m_unit_modify_levels": [],
+    "name": "敌-舞团舞娘"
+  },
+  {
+    "id": 735,
+    "m_unit_modify_levels": [],
+    "name": "敌-混血儿"
+  },
+  {
+    "id": 736,
+    "m_unit_modify_levels": [],
+    "name": "敌-盲女侍卫"
+  },
+  {
+    "id": 737,
+    "m_unit_modify_levels": [],
+    "name": "敌-鹦鹉人"
+  },
+  {
+    "id": 738,
+    "m_unit_modify_levels": [],
+    "name": "敌-学姐"
+  },
+  {
+    "id": 739,
+    "m_unit_modify_levels": [],
+    "name": "敌-女仆杀手"
+  },
+  {
+    "id": 740,
+    "m_unit_modify_levels": [],
+    "name": "敌-SP拉维耶"
+  },
+  {
+    "id": 741,
+    "m_unit_modify_levels": [],
+    "name": "敌-SP索菲亚"
+  },
+  {
+    "id": 1101,
+    "m_unit_modify_levels": [],
+    "name": "重型塔罗-物理"
+  },
+  {
+    "id": 1102,
+    "m_unit_modify_levels": [],
+    "name": "重型塔罗-魔法"
+  },
+  {
+    "id": 1103,
+    "m_unit_modify_levels": [],
+    "name": "战士塔罗-物理"
+  },
+  {
+    "id": 1104,
+    "m_unit_modify_levels": [],
+    "name": "战士塔罗-魔法"
+  },
+  {
+    "id": 1105,
+    "m_unit_modify_levels": [],
+    "name": "远程塔罗-物理"
+  },
+  {
+    "id": 1106,
+    "m_unit_modify_levels": [],
+    "name": "远程塔罗-魔法"
+  },
+  {
+    "id": 1107,
+    "m_unit_modify_levels": [],
+    "name": "冲锋塔罗-物理"
+  },
+  {
+    "id": 1108,
+    "m_unit_modify_levels": [],
+    "name": "冲锋塔罗-魔法"
+  },
+  {
+    "id": 1109,
+    "m_unit_modify_levels": [],
+    "name": "激光塔罗-物理"
+  },
+  {
+    "id": 1110,
+    "m_unit_modify_levels": [],
+    "name": "激光塔罗-魔法"
+  },
+  {
+    "id": 1111,
+    "m_unit_modify_levels": [],
+    "name": "光环塔罗-物理"
+  },
+  {
+    "id": 1112,
+    "m_unit_modify_levels": [],
+    "name": "杂兵塔罗-物理"
+  },
+  {
+    "id": 1113,
+    "m_unit_modify_levels": [],
+    "name": "杂兵塔罗-魔法"
+  },
+  {
+    "id": 1114,
+    "m_unit_modify_levels": [],
+    "name": "光环塔罗-魔法"
+  },
+  {
+    "id": 5010,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-小红"
+  },
+  {
+    "id": 5020,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-小绿"
+  },
+  {
+    "id": 5030,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-女骑士"
+  },
+  {
+    "id": 5040,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-大姐头"
+  },
+  {
+    "id": 5050,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-黑光打手"
+  },
+  {
+    "id": 5060,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-老骑士"
+  },
+  {
+    "id": 5070,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-王国军小将军"
+  },
+  {
+    "id": 5080,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-萨曼莎修女"
+  },
+  {
+    "id": 5090,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-面具刺客"
+  },
+  {
+    "id": 5100,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-索菲亚"
+  },
+  {
+    "id": 5110,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-二王子"
+  },
+  {
+    "id": 5120,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-薇尔德妹妹"
+  },
+  {
+    "id": 5130,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-薇尔德姐姐"
+  },
+  {
+    "id": 5140,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-小魔女"
+  },
+  {
+    "id": 5150,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-大王子"
+  },
+  {
+    "id": 5160,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-米格尔"
+  },
+  {
+    "id": 5170,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-阿力克赛"
+  },
+  {
+    "id": 5180,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-灰狼"
+  },
+  {
+    "id": 5190,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-三王女"
+  },
+  {
+    "id": 5200,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-审判者C"
+  },
+  {
+    "id": 5210,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-晶石少女"
+  },
+  {
+    "id": 5220,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-马格努斯"
+  },
+  {
+    "id": 5230,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-难民少女"
+  },
+  {
+    "id": 5240,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-骑士团法师"
+  },
+  {
+    "id": 5250,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-双子哥哥"
+  },
+  {
+    "id": 5260,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-双子妹妹"
+  },
+  {
+    "id": 5270,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-银狼"
+  },
+  {
+    "id": 5280,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-奥古斯特"
+  },
+  {
+    "id": 5290,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-光辉卫士长"
+  },
+  {
+    "id": 5300,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-审判者萨曼莎"
+  },
+  {
+    "id": 5310,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-法皇之手"
+  },
+  {
+    "id": 5320,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-邦国王子"
+  },
+  {
+    "id": 5330,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-苏莱曼商人"
+  },
+  {
+    "id": 5340,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-舞团舞娘"
+  },
+  {
+    "id": 5350,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-混血儿"
+  },
+  {
+    "id": 5360,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-盲女侍卫"
+  },
+  {
+    "id": 5370,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-鹦鹉人"
+  },
+  {
+    "id": 5380,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-学姐"
+  },
+  {
+    "id": 5390,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-女仆杀手"
+  },
+  {
+    "id": 5400,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-SP拉维耶"
+  },
+  {
+    "id": 5410,
+    "m_unit_modify_levels": [],
+    "name": "玩家试用-SP索菲亚"
+  },
+  {
+    "id": 6203,
+    "m_unit_modify_levels": [],
+    "name": "关卡测试-雇佣兵斧兵"
+  },
+  {
+    "id": 6205,
+    "m_unit_modify_levels": [],
+    "name": "关卡测试-雇佣兵刺客"
+  },
+  {
+    "id": 6211,
+    "m_unit_modify_levels": [],
+    "name": "关卡测试-骑士团剑盾兵"
+  },
+  {
+    "id": 6223,
+    "m_unit_modify_levels": [],
+    "name": "关卡测试-伊利亚弓兵"
+  },
+  {
+    "id": 6224,
+    "m_unit_modify_levels": [],
+    "name": "关卡测试-伊利亚火法"
+  },
+  {
+    "id": 6241,
+    "m_unit_modify_levels": [],
+    "name": "关卡测试-教皇国牧师"
+  },
+  {
+    "id": 10001,
+    "m_unit_modify_levels": [],
+    "name": "进阶本boss-泽维尔"
+  },
+  {
+    "id": 10002,
+    "m_unit_modify_levels": [],
+    "name": "进阶本boss-泰登"
+  },
+  {
+    "id": 10003,
+    "m_unit_modify_levels": [],
+    "name": "进阶本boss-诺诺薇儿"
+  },
+  {
+    "id": 10004,
+    "m_unit_modify_levels": [],
+    "name": "进阶本boss-萨曼莎"
+  },
+  {
+    "id": 10005,
+    "m_unit_modify_levels": [],
+    "name": "进阶本boss-古兹曼"
+  },
+  {
+    "id": 10006,
+    "m_unit_modify_levels": [],
+    "name": "护石本-突击狮子"
+  },
+  {
+    "id": 10007,
+    "m_unit_modify_levels": [],
+    "name": "护石本-守卫狮子"
+  },
+  {
+    "id": 10008,
+    "m_unit_modify_levels": [],
+    "name": "护石本-战士狮子"
+  },
+  {
+    "id": 10009,
+    "m_unit_modify_levels": [],
+    "name": "护石本-黑女神"
+  },
+  {
+    "id": 10010,
+    "m_unit_modify_levels": [],
+    "name": "护石本-白女神"
+  },
+  {
+    "id": 10011,
+    "m_unit_modify_levels": [],
+    "name": "科技本-星星"
+  },
+  {
+    "id": 10012,
+    "m_unit_modify_levels": [],
+    "name": "武器本-近战BOSS"
+  },
+  {
+    "id": 10013,
+    "m_unit_modify_levels": [],
+    "name": "武器本-远程BOSS"
+  },
+  {
+    "id": 10014,
+    "m_unit_modify_levels": [],
+    "name": "武器本-魔法BOSS"
+  },
+  {
+    "id": 10015,
+    "m_unit_modify_levels": [],
+    "name": "武器本-魔法图腾"
+  },
+  {
+    "id": 10016,
+    "m_unit_modify_levels": [],
+    "name": "附魔本-火"
+  },
+  {
+    "id": 10017,
+    "m_unit_modify_levels": [],
+    "name": "附魔本-水"
+  },
+  {
+    "id": 10018,
+    "m_unit_modify_levels": [],
+    "name": "附魔本-土"
+  },
+  {
+    "id": 10019,
+    "m_unit_modify_levels": [],
+    "name": "附魔本-风"
+  },
+  {
+    "id": 66201,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵盾兵标准模板"
+  },
+  {
+    "id": 66202,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵枪兵标准模板"
+  },
+  {
+    "id": 66204,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵弓兵标准模板"
+  },
+  {
+    "id": 66205,
+    "m_unit_modify_levels": [],
+    "name": "敌-雇佣兵刺客标准模板"
+  },
+  {
+    "id": 66211,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团剑盾兵标准模板"
+  },
+  {
+    "id": 66212,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团枪兵标准模板"
+  },
+  {
+    "id": 66213,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团巨斧兵标准模板"
+  },
+  {
+    "id": 66214,
+    "m_unit_modify_levels": [],
+    "name": "敌-骑士团牧师标准模板"
+  },
+  {
+    "id": 66221,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚剑盾兵标准模板"
+  },
+  {
+    "id": 66222,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚枪兵标准模板"
+  },
+  {
+    "id": 66223,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚弓兵标准模板"
+  },
+  {
+    "id": 66224,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚火法标准模板"
+  },
+  {
+    "id": 66225,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚秘警剑士标准模板"
+  },
+  {
+    "id": 66226,
+    "m_unit_modify_levels": [],
+    "name": "敌-伊利亚秘警弩刺标准模板"
+  },
+  {
+    "id": 66231,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者盾兵标准模板"
+  },
+  {
+    "id": 66232,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者枪兵标准模板"
+  },
+  {
+    "id": 66233,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者巨斧兵标准模板"
+  },
+  {
+    "id": 66234,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者弓兵标准模板"
+  },
+  {
+    "id": 66235,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者弩兵标准模板"
+  },
+  {
+    "id": 66236,
+    "m_unit_modify_levels": [],
+    "name": "敌-无法者刺客标准模板"
+  },
+  {
+    "id": 66241,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国牧师标准模板"
+  },
+  {
+    "id": 66242,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国弩兵标准模板"
+  },
+  {
+    "id": 66243,
+    "m_unit_modify_levels": [],
+    "name": "敌-教皇国冰法标准模板"
+  },
+  {
+    "id": 66251,
+    "m_unit_modify_levels": [],
+    "name": "敌-薇尔德刺客标准模板"
+  },
+  {
+    "id": 66252,
+    "m_unit_modify_levels": [],
+    "name": "敌-薇尔德弓兵标准模板"
+  },
+  {
+    "id": 66261,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光火法标准模板"
+  },
+  {
+    "id": 66262,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光冰法标准模板"
+  },
+  {
+    "id": 66263,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光暗法标准模板"
+  },
+  {
+    "id": 66264,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光刺客标准模板"
+  },
+  {
+    "id": 66265,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光剑盾兵标准模板"
+  },
+  {
+    "id": 66266,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光枪兵标准模板"
+  },
+  {
+    "id": 66267,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光弩兵标准模板"
+  },
+  {
+    "id": 66268,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光巨斧兵标准模板"
+  },
+  {
+    "id": 66269,
+    "m_unit_modify_levels": [],
+    "name": "敌-黑暗之光爆破手标准模板"
+  }
+]

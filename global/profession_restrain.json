@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "m_specialitys": [],
+    "idprofession_category": 1,
+    "profession_category_target": 2,
+    "speciality_ids": "3323",
+    "show_ui": true,
+    "evaluate": 130
+  },
+  {
+    "id": 4,
+    "m_specialitys": [],
+    "idprofession_category": 1,
+    "profession_category_target": 4,
+    "speciality_ids": "3324",
+    "show_ui": true,
+    "evaluate": 70
+  },
+  {
+    "id": 5,
+    "m_specialitys": [],
+    "idprofession_category": 2,
+    "profession_category_target": 1,
+    "speciality_ids": "3324",
+    "show_ui": true,
+    "evaluate": 70
+  },
+  {
+    "id": 6,
+    "m_specialitys": [],
+    "idprofession_category": 2,
+    "profession_category_target": 4,
+    "speciality_ids": "3323",
+    "show_ui": true,
+    "evaluate": 130
+  },
+  {
+    "id": 9,
+    "m_specialitys": [],
+    "idprofession_category": 4,
+    "profession_category_target": 2,
+    "speciality_ids": "3324",
+    "show_ui": true,
+    "evaluate": 70
+  },
+  {
+    "id": 10,
+    "m_specialitys": [],
+    "idprofession_category": 4,
+    "profession_category_target": 1,
+    "speciality_ids": "3323",
+    "show_ui": true,
+    "evaluate": 130
+  },
+  {
+    "id": 11,
+    "m_specialitys": [],
+    "idprofession_category": 5,
+    "profession_category_target": 3,
+    "speciality_ids": "3326",
+    "show_ui": true,
+    "evaluate": 130
+  },
+  {
+    "id": 13,
+    "m_specialitys": [],
+    "idprofession_category": 3,
+    "profession_category_target": 5,
+    "speciality_ids": "3325",
+    "show_ui": true,
+    "evaluate": 70
+  }
+]

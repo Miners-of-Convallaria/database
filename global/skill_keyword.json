@@ -1,0 +1,4930 @@
+[
+  {
+    "id": 1,
+    "name": "冰冻",
+    "editor_name": "冰冻",
+    "desc": "地形格，光滑的冰面。角色被击退时，会一直退到冰面边缘，再被正常击退。行走其中时，每格额外消耗<style=red>1</style>移动力。",
+    "type": 2
+  },
+  {
+    "id": 2,
+    "name": "<sprite=1>主动技",
+    "editor_name": "×主动技",
+    "desc": "减益，所属控制-干扰类，无法使用[普攻]以外的[主动技能]。",
+    "type": 2
+  },
+  {
+    "id": 3,
+    "name": "倒吊人标记",
+    "editor_name": "倒吊人标记",
+    "desc": "状态，受到特定技能攻击时会遭到额外的影响。",
+    "type": 2
+  },
+  {
+    "id": 4,
+    "name": "冰面作战",
+    "editor_name": "冰面作战",
+    "desc": "增益，处于[冰冻]地形格时，受到伤害降低<style=red>30%</style>，移动力增加<style=red>1</style>格。",
+    "type": 2
+  },
+  {
+    "id": 5,
+    "name": "警戒姿态",
+    "editor_name": "警戒姿态",
+    "desc": "看守某一地点，当敌人在警戒范围内移动时，对其进行攻击",
+    "type": 2
+  },
+  {
+    "id": 6,
+    "name": "伤害抵挡",
+    "editor_name": "（还没用）伤害抵挡",
+    "desc": "护盾，可以抵消一次直接伤害。",
+    "type": 2
+  },
+  {
+    "id": 7,
+    "name": "准备",
+    "editor_name": "准备",
+    "desc": "增益，等待到下个自身行动开始时，释放技能。",
+    "type": 2
+  },
+  {
+    "id": 8,
+    "name": "使徒·意志",
+    "editor_name": "使徒·意志",
+    "desc": "个性，无视[黑泥]地形格影响；处于[黑泥]地形格时，遭受伤害降低<style=red>30%</style>。被击败后，受到[晕眩]，持续到战斗结束，并将自身的[个性]效果赐予其他友军。",
+    "type": 1
+  },
+  {
+    "id": 9,
+    "name": "警戒",
+    "editor_name": "警戒",
+    "desc": "增益，对某区域进行警戒，当敌人进入该区域后，释放技能。",
+    "type": 2
+  },
+  {
+    "id": 10,
+    "name": "<sprite=2>射程",
+    "editor_name": "▲射程",
+    "desc": "增益，射击距离增加一定格数。",
+    "type": 2
+  },
+  {
+    "id": 11,
+    "name": "攻击姿态",
+    "editor_name": "攻击姿态",
+    "desc": "增益，自身物防值的<style=red>40%</style>附加在物攻上，受到伤害提高<style=red>8%</style>。",
+    "type": 2
+  },
+  {
+    "id": 12,
+    "name": "全回合技能",
+    "editor_name": "全回合技能",
+    "desc": "只能在移动前使用的技能",
+    "type": 2
+  },
+  {
+    "id": 13,
+    "name": "瞬发",
+    "editor_name": "瞬发",
+    "desc": "指使用本技能后，角色还可以继续行动，继承剩余移动力。",
+    "type": 2
+  },
+  {
+    "id": 14,
+    "name": "受伤",
+    "editor_name": "受伤",
+    "desc": "状态，生命值小于<style=green>70%</style>时的状态，伤害降低<style=red>20%</style>，受到伤害提高<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 16,
+    "name": "濒死",
+    "editor_name": "濒死",
+    "desc": "状态，生命值小于<style=green>30%</style>时的状态，伤害降低<style=red>30%</style>，受到伤害提高<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 17,
+    "name": "（废弃）燃烧",
+    "editor_name": "燃烧（角色）",
+    "desc": "行动结束时，损失自身<style=red>20%</style>最大生命值。",
+    "type": 2
+  },
+  {
+    "id": 18,
+    "name": "燃烧",
+    "editor_name": "燃烧",
+    "desc": "地形格，燃烧的地面。角色经过或停留时，被施加[<style=C4>灼烧</style>]，持续<style=red>2</style>回合。行走其中时，每格额外消耗<style=red>0.5</style>移动力。",
+    "type": 2
+  },
+  {
+    "id": 19,
+    "name": "格挡",
+    "editor_name": "格挡",
+    "desc": "增益，被[正、侧方]物理攻击时，<style=red>50%</style>概率面向敌人，伤害降低<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 20,
+    "name": "光之庇佑",
+    "editor_name": "光之庇佑",
+    "desc": "增益，免疫所有伤害，不可驱散，无法免疫。自身拥有[圣痕]时，该效果失效。",
+    "type": 1
+  },
+  {
+    "id": 21,
+    "name": "援护防御",
+    "editor_name": "援护防御",
+    "desc": "增益，守护自己行动范围内的友军，当其被单体攻击时，会与他们交换位置并承受伤害。",
+    "type": 2
+  },
+  {
+    "id": 22,
+    "name": "再生1",
+    "editor_name": "再生1",
+    "desc": "增益，在自身行动结束时，回复<style=green>10%</style>的生命值。",
+    "type": 2
+  },
+  {
+    "id": 23,
+    "name": "圣痕",
+    "editor_name": "圣痕",
+    "desc": "减益，每次行动结束时，损失<style=red>5%</style>生命值。",
+    "type": 2
+  },
+  {
+    "id": 24,
+    "name": "不屈",
+    "editor_name": "不屈",
+    "desc": "增益，被击败时，可重新投入战斗，并回复一定生命值，可生效<style=red>1</style>次。",
+    "type": 2
+  },
+  {
+    "id": 25,
+    "name": "闪避",
+    "editor_name": "闪避",
+    "desc": "增益，闪避敌人一次直接单体攻击。",
+    "type": 2
+  },
+  {
+    "id": 26,
+    "name": "暴雨审判",
+    "editor_name": "暴雨审判",
+    "desc": "减益，移动力固定为<style=red>2</style>格，最大射程等于最小射程。",
+    "type": 1
+  },
+  {
+    "id": 27,
+    "name": "协防",
+    "editor_name": "协防",
+    "desc": "增益，自身范围<style=red>2</style>格每存在1个其他友军，防御提高<style=red>10%</style>，最多<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 28,
+    "name": "中毒",
+    "editor_name": "中毒",
+    "desc": "减益，每次行动结束时损失一定百分比生命，可叠加，生效后层数减半。",
+    "type": 2
+  },
+  {
+    "id": 29,
+    "name": "<sprite=1>受治疗",
+    "editor_name": "×受治疗",
+    "desc": "减益，无法受到治疗。",
+    "type": 2
+  },
+  {
+    "id": 30,
+    "name": "<sprite=1>治疗",
+    "editor_name": "×治疗",
+    "desc": "减益，无法造成任何的治疗效果。",
+    "type": 2
+  },
+  {
+    "id": 31,
+    "name": "<sprite=2>受治疗1",
+    "editor_name": "▲受治疗1",
+    "desc": "增益，受到治疗提高<style=green>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 32,
+    "name": "<sprite=2>治疗1",
+    "editor_name": "▲治疗1",
+    "desc": "增益，治疗效果提高<style=green>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 33,
+    "name": "攀爬",
+    "editor_name": "攀爬",
+    "desc": "增益，往高地移动时，无视移动力衰减。",
+    "type": 2
+  },
+  {
+    "id": 34,
+    "name": "隐身",
+    "editor_name": "隐身",
+    "desc": "增益，无法被敌人技能选中，但可被[范围伤害]、[环境伤害]波及，可被[强制选中]。",
+    "type": 2
+  },
+  {
+    "id": 35,
+    "name": "魔法护盾",
+    "editor_name": "魔法护盾",
+    "desc": "护盾，可以额外抵挡魔法伤害。",
+    "type": 2
+  },
+  {
+    "id": 36,
+    "name": "心眼",
+    "editor_name": "心眼",
+    "desc": "增益，被[背击]时，立刻转向[格挡]。",
+    "type": 2
+  },
+  {
+    "id": 37,
+    "name": "灵巧",
+    "editor_name": "灵巧",
+    "desc": "增益，无视地形阻挡。",
+    "type": 2
+  },
+  {
+    "id": 38,
+    "name": "跳跃",
+    "editor_name": "跳跃",
+    "desc": "增益，跳跃力提高<style=red>3</style>倍，可以跳跃沟壑。",
+    "type": 2
+  },
+  {
+    "id": 39,
+    "name": "保镖",
+    "editor_name": "保镖",
+    "desc": "指通过召唤出来的特殊友军。",
+    "type": 1
+  },
+  {
+    "id": 40,
+    "name": "回击",
+    "editor_name": "回击",
+    "desc": "增益，被[正、侧方]敌人主动攻击时，若对方在攻击范围内，则用普攻进行[反击]，造成<style=red>70%</style>伤害，每回合生效<style=red>1</style>次。",
+    "type": 2
+  },
+  {
+    "id": 41,
+    "name": "光环",
+    "editor_name": "光环",
+    "desc": "增益，一定范围内产生效果，不可驱散，无法免疫。",
+    "type": 2
+  },
+  {
+    "id": 42,
+    "name": "魔能转换",
+    "editor_name": "魔能转换",
+    "desc": "增益，自身魔防值的<style=purple>80%</style>附加在物攻上。",
+    "type": 2
+  },
+  {
+    "id": 43,
+    "name": "伤害反射1",
+    "editor_name": "伤害反射1",
+    "desc": "增益，将受到的<style=red>15%</style>伤害，反弹给攻击者。",
+    "type": 2
+  },
+  {
+    "id": 44,
+    "name": "穿甲",
+    "editor_name": "穿甲",
+    "desc": "增益，攻击时，无视目标<style=red>40%</style>防御。",
+    "type": 2
+  },
+  {
+    "id": 45,
+    "name": "健康",
+    "editor_name": "健康",
+    "desc": "状态，生命值大于等于<style=green>70%</style>时的状态。",
+    "type": 2
+  },
+  {
+    "id": 46,
+    "name": "协攻",
+    "editor_name": "协攻",
+    "desc": "增益，自身范围<style=red>2</style>格每存在1个其他友军，攻击提高<style=red>5%</style>，最多<style=red>15%</style>。",
+    "type": 2
+  },
+  {
+    "id": 47,
+    "name": "先制",
+    "editor_name": "先制",
+    "desc": "增益，被[正、侧方]敌人主动攻击前，立刻转向，对攻击者造成<style=red>70%</style>伤害，每回合最多生效<style=red>1</style>次。",
+    "type": 2
+  },
+  {
+    "id": 48,
+    "name": "援护攻击",
+    "editor_name": "援护攻击",
+    "desc": "增益，准备攻击一定范围内的敌人，当其受到友军主动单体攻击时，也同时发起攻击。",
+    "type": 2
+  },
+  {
+    "id": 49,
+    "name": "物理护盾",
+    "editor_name": "物理护盾",
+    "desc": "护盾，可以额外抵挡物理伤害。",
+    "type": 2
+  },
+  {
+    "id": 50,
+    "name": "<sprite=1>范围伤害",
+    "editor_name": "×范围伤害",
+    "desc": "增益，免疫[范围攻击]造成的伤害。",
+    "type": 2
+  },
+  {
+    "id": 51,
+    "name": "重重有赏标记",
+    "editor_name": "重重有赏标记",
+    "desc": "减益，被击败时，对方回复<style=green>2</style>点能量。主动攻击被标记的目标时，攻击前，对方获得随机<style=red>2</style>个[2级增益]，持续<style=green>1</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 52,
+    "name": "神圣洗礼",
+    "editor_name": "神圣洗礼",
+    "desc": "增益，受到伤害降低<style=red>100%</style>，可生效<style=red>1</style>次。",
+    "type": 1
+  },
+  {
+    "id": 53,
+    "name": "<sprite=2>攻击1",
+    "editor_name": "▲攻击1",
+    "desc": "增益，物攻、魔攻提高<style=red>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 54,
+    "name": "<sprite=2>攻击2",
+    "editor_name": "▲攻击2",
+    "desc": "增益，物攻、魔攻提高<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 55,
+    "name": "<sprite=2>攻击3",
+    "editor_name": "▲攻击3",
+    "desc": "增益，物攻、魔攻提高<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 56,
+    "name": "<sprite=2>攻击4",
+    "editor_name": "▲攻击4",
+    "desc": "增益，物攻、魔攻提高<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 57,
+    "name": "<sprite=2>物防1",
+    "editor_name": "▲物防1",
+    "desc": "增益，物防提高<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 58,
+    "name": "<sprite=2>攻击5",
+    "editor_name": "▲攻击5",
+    "desc": "增益，物攻、魔攻提高<style=red>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 59,
+    "name": "<sprite=2>物防2",
+    "editor_name": "▲物防2",
+    "desc": "增益，物防提高<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 60,
+    "name": "<sprite=2>物防3",
+    "editor_name": "▲物防3",
+    "desc": "增益，物防提高<style=red>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 61,
+    "name": "<sprite=2>物防4",
+    "editor_name": "▲物防4",
+    "desc": "增益，物防提高<style=red>80%</style>。",
+    "type": 2
+  },
+  {
+    "id": 62,
+    "name": "<sprite=2>物防5",
+    "editor_name": "▲物防5",
+    "desc": "增益，物防提高<style=red>100%</style>。",
+    "type": 2
+  },
+  {
+    "id": 63,
+    "name": "<sprite=2>暴击1",
+    "editor_name": "▲暴击1",
+    "desc": "增益，暴击率提高<style=red>15%</style>。",
+    "type": 2
+  },
+  {
+    "id": 64,
+    "name": "<sprite=2>暴击2",
+    "editor_name": "▲暴击2",
+    "desc": "增益，暴击率提高<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 65,
+    "name": "<sprite=2>暴击3",
+    "editor_name": "▲暴击3",
+    "desc": "增益，暴击率提高<style=red>45%</style>。",
+    "type": 2
+  },
+  {
+    "id": 66,
+    "name": "<sprite=2>暴击4",
+    "editor_name": "▲暴击4",
+    "desc": "增益，暴击率提高<style=red>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 67,
+    "name": "<sprite=2>暴击5",
+    "editor_name": "▲暴击5",
+    "desc": "增益，暴击率提高<style=red>75%</style>。",
+    "type": 2
+  },
+  {
+    "id": 68,
+    "name": "<sprite=2>暴伤1",
+    "editor_name": "▲暴伤1",
+    "desc": "增益，暴击伤害提高<style=red>15%</style>。",
+    "type": 2
+  },
+  {
+    "id": 69,
+    "name": "<sprite=2>暴伤2",
+    "editor_name": "▲暴伤2",
+    "desc": "增益，暴击伤害提高<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 70,
+    "name": "<sprite=2>暴伤3",
+    "editor_name": "▲暴伤3",
+    "desc": "增益，暴击伤害提高<style=red>45%</style>。",
+    "type": 2
+  },
+  {
+    "id": 71,
+    "name": "<sprite=2>暴伤4",
+    "editor_name": "▲暴伤4",
+    "desc": "增益，暴击伤害提高<style=red>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 72,
+    "name": "<sprite=2>暴伤5",
+    "editor_name": "▲暴伤5",
+    "desc": "增益，暴击伤害提高<style=red>75%</style>。",
+    "type": 2
+  },
+  {
+    "id": 73,
+    "name": "<sprite=2>伤害1",
+    "editor_name": "▲伤害1",
+    "desc": "增益，造成伤害提高<style=red>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 74,
+    "name": "<sprite=2>伤害2",
+    "editor_name": "▲伤害2",
+    "desc": "增益，造成伤害提高<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 75,
+    "name": "<sprite=2>伤害3",
+    "editor_name": "▲伤害3",
+    "desc": "增益，造成伤害提高<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 76,
+    "name": "<sprite=2>伤害4",
+    "editor_name": "▲伤害4",
+    "desc": "增益，造成伤害提高<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 77,
+    "name": "<sprite=2>伤害5",
+    "editor_name": "▲伤害5",
+    "desc": "增益，造成伤害提高<style=red>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 78,
+    "name": "<sprite=2>受治疗2",
+    "editor_name": "▲受治疗2",
+    "desc": "增益，受到治疗提高<style=green>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 79,
+    "name": "<sprite=2>受治疗3",
+    "editor_name": "▲受治疗3",
+    "desc": "增益，受到治疗提高<style=green>45%</style>。",
+    "type": 2
+  },
+  {
+    "id": 80,
+    "name": "<sprite=2>受治疗4",
+    "editor_name": "▲受治疗4",
+    "desc": "增益，受到治疗提高<style=green>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 81,
+    "name": "<sprite=2>受治疗5",
+    "editor_name": "▲受治疗5",
+    "desc": "增益，受到治疗提高<style=green>75%</style>。",
+    "type": 2
+  },
+  {
+    "id": 82,
+    "name": "<sprite=1>伤害",
+    "editor_name": "×伤害",
+    "desc": "增益，免疫任何类型的伤害。",
+    "type": 2
+  },
+  {
+    "id": 83,
+    "name": "撕裂",
+    "editor_name": "撕裂",
+    "desc": "减益，受到物防降低<style=red>20%</style>，施加<style=red>5%</style>[生命流失]。",
+    "type": 2
+  },
+  {
+    "id": 84,
+    "name": "<sprite=1>跳跃",
+    "editor_name": "×跳跃",
+    "desc": "减益，无法触发[跳跃]效果。",
+    "type": 2
+  },
+  {
+    "id": 85,
+    "name": "适应",
+    "editor_name": "（废弃）适应",
+    "desc": "增益，受到伤害降低<style=red>50%</style>，移动力增加<style=red>1</style>格。",
+    "type": 2
+  },
+  {
+    "id": 86,
+    "name": "<sprite=2>移动1",
+    "editor_name": "▲移动1",
+    "desc": "增益，移动力增加<style=red>1</style>格。",
+    "type": 2
+  },
+  {
+    "id": 87,
+    "name": "<sprite=2>移动2",
+    "editor_name": "▲移动2",
+    "desc": "增益，移动力增加<style=red>2</style>格。",
+    "type": 2
+  },
+  {
+    "id": 88,
+    "name": "<sprite=2>移动3",
+    "editor_name": "▲移动3",
+    "desc": "增益，移动力增加<style=red>3</style>格。",
+    "type": 2
+  },
+  {
+    "id": 89,
+    "name": "<sprite=2>移动4",
+    "editor_name": "▲移动4",
+    "desc": "增益，移动力增加<style=red>4</style>格。",
+    "type": 2
+  },
+  {
+    "id": 90,
+    "name": "<sprite=2>移动5",
+    "editor_name": "▲移动5",
+    "desc": "增益，移动力增加<style=red>5</style>格。",
+    "type": 2
+  },
+  {
+    "id": 91,
+    "name": "<sprite=2>速度1",
+    "editor_name": "▲速度1",
+    "desc": "增益，速度增加<style=red>50</style>点。",
+    "type": 2
+  },
+  {
+    "id": 92,
+    "name": "<sprite=2>速度2",
+    "editor_name": "▲速度2",
+    "desc": "增益，速度增加<style=red>100</style>点。",
+    "type": 2
+  },
+  {
+    "id": 93,
+    "name": "<sprite=2>速度3",
+    "editor_name": "▲速度3",
+    "desc": "增益，速度增加<style=red>150</style>点。",
+    "type": 2
+  },
+  {
+    "id": 94,
+    "name": "<sprite=2>速度4",
+    "editor_name": "▲速度4",
+    "desc": "增益，速度增加<style=red>200</style>点。",
+    "type": 2
+  },
+  {
+    "id": 95,
+    "name": "<sprite=2>速度5",
+    "editor_name": "▲速度5",
+    "desc": "增益，速度增加<style=red>250</style>点。",
+    "type": 2
+  },
+  {
+    "id": 96,
+    "name": "伤害反射2",
+    "editor_name": "伤害反射2",
+    "desc": "增益，将受到的<style=red>30%</style>伤害，反弹给他攻击者。",
+    "type": 2
+  },
+  {
+    "id": 97,
+    "name": "伤害反射3",
+    "editor_name": "伤害反射3",
+    "desc": "增益，将受到的<style=red>45%</style>伤害，反弹给他攻击者。",
+    "type": 2
+  },
+  {
+    "id": 98,
+    "name": "伤害反射4",
+    "editor_name": "伤害反射4",
+    "desc": "增益，将受到的<style=red>60%</style>伤害，反弹给他攻击者。",
+    "type": 2
+  },
+  {
+    "id": 99,
+    "name": "伤害反射5",
+    "editor_name": "伤害反射5",
+    "desc": "增益，将受到的<style=red>75%</style>伤害，反弹给他攻击者。",
+    "type": 2
+  },
+  {
+    "id": 100,
+    "name": "再生2",
+    "editor_name": "再生2",
+    "desc": "增益，自身行动结束时，回复<style=green>20%</style>的生命值。",
+    "type": 2
+  },
+  {
+    "id": 101,
+    "name": "再生3",
+    "editor_name": "再生3",
+    "desc": "增益，自身行动结束时，回复<style=green>30%</style>的生命值。",
+    "type": 2
+  },
+  {
+    "id": 102,
+    "name": "再生4",
+    "editor_name": "再生4",
+    "desc": "增益，自身行动结束时，回复<style=green>40%</style>的生命值。",
+    "type": 2
+  },
+  {
+    "id": 103,
+    "name": "再生5",
+    "editor_name": "再生5",
+    "desc": "增益，自身行动结束时，回复<style=green>50%</style>的生命值。",
+    "type": 2
+  },
+  {
+    "id": 104,
+    "name": "<sprite=3>攻击1",
+    "editor_name": "▼攻击1",
+    "desc": "减益，物攻、魔攻降低<style=red>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 105,
+    "name": "<sprite=3>攻击2",
+    "editor_name": "▼攻击2",
+    "desc": "减益，物攻、魔攻降低<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 106,
+    "name": "<sprite=3>攻击3",
+    "editor_name": "▼攻击3",
+    "desc": "减益，物攻、魔攻降低<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 107,
+    "name": "<sprite=3>攻击4",
+    "editor_name": "▼攻击4",
+    "desc": "减益，物攻、魔攻降低<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 108,
+    "name": "<sprite=3>攻击5",
+    "editor_name": "▼攻击5",
+    "desc": "减益，物攻、魔攻降低<style=red>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 109,
+    "name": "无视援护",
+    "editor_name": "无视援护",
+    "desc": "增益，攻击时，无视敌人[援护]类型技能，包括：援护防御、援护攻击、援护治疗、援护反击。",
+    "type": 2
+  },
+  {
+    "id": 110,
+    "name": "<sprite=1>属性减益",
+    "editor_name": "×属性减益",
+    "desc": "增益，免疫属性类减益，包括：<sprite=3>攻击系列、<sprite=3>物防系列、<sprite=3>魔防系列、<sprite=3>暴击系列、<sprite=3>暴伤系列、<sprite=3>伤害系列、易伤系列、<sprite=3>速度系列、<sprite=3>受治疗、<sprite=1>受治疗、<sprite=1>治疗、<sprite=1>属性增益等减益效果。",
+    "type": 2
+  },
+  {
+    "id": 111,
+    "name": "免疫控制",
+    "editor_name": "免疫控制（以前的免疫行为减益",
+    "desc": "增益，免疫控制类减益，包括定身类、干扰类减益，具体为：<sprite=1>主动技、<sprite=1>被动技、<sprite=1>反应技、<sprite=1>闪避、致盲、强制直行、晕眩、睡眠、冰封、<sprite=3>移动、击退、打断。",
+    "type": 2
+  },
+  {
+    "id": 112,
+    "name": "免疫干扰",
+    "editor_name": "免疫干扰",
+    "desc": "增益，免疫行为类，干扰系列减益，包括：<sprite=3>移动系列、<sprite=1>主动技、<sprite=1>被动技、<sprite=1>反应技、<sprite=1>援护、<sprite=1>闪避、致盲、强制直行等。",
+    "type": 2
+  },
+  {
+    "id": 113,
+    "name": "<sprite=1>移动弱化",
+    "editor_name": "×移动弱化",
+    "desc": "增益，免疫<sprite=3>移动。",
+    "type": 2
+  },
+  {
+    "id": 114,
+    "name": "<sprite=3>物防1",
+    "editor_name": "▼物防1",
+    "desc": "减益，物防降低<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 115,
+    "name": "<sprite=3>物防2",
+    "editor_name": "▼物防2",
+    "desc": "减益，物防降低<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 116,
+    "name": "<sprite=3>物防3",
+    "editor_name": "▼物防3",
+    "desc": "减益，物防降低<style=red>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 117,
+    "name": "<sprite=3>物防4",
+    "editor_name": "▼物防4",
+    "desc": "减益，物防降低<style=red>80%</style>。",
+    "type": 2
+  },
+  {
+    "id": 118,
+    "name": "<sprite=3>物防5",
+    "editor_name": "▼物防5",
+    "desc": "减益，物防降低<style=red>100%</style>。",
+    "type": 2
+  },
+  {
+    "id": 119,
+    "name": "<sprite=1>穿透伤害",
+    "editor_name": "×穿透伤害",
+    "desc": "增益，免疫[穿透伤害]。",
+    "type": 2
+  },
+  {
+    "id": 120,
+    "name": "<sprite=1>比例伤害",
+    "editor_name": "×比例伤害",
+    "desc": "增益，免疫[百分比伤害]。",
+    "type": 2
+  },
+  {
+    "id": 121,
+    "name": "<sprite=1>环境伤害",
+    "editor_name": "×环境伤害",
+    "desc": "增益，免疫击退、滚石、炸药桶、地刺、落石等[环境伤害]。",
+    "type": 2
+  },
+  {
+    "id": 122,
+    "name": "<sprite=1>强制位移",
+    "editor_name": "×强制位移",
+    "desc": "增益，免疫例如击退、拉拽等强制位移效果。",
+    "type": 2
+  },
+  {
+    "id": 123,
+    "name": "<sprite=1>传送",
+    "editor_name": "×传送",
+    "desc": "增益，免疫传送。",
+    "type": 2
+  },
+  {
+    "id": 124,
+    "name": "<sprite=3>暴击1",
+    "editor_name": "▼暴击1",
+    "desc": "减益，暴击率降低<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 125,
+    "name": "<sprite=3>暴击2",
+    "editor_name": "▼暴击2",
+    "desc": "减益，暴击率降低<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 126,
+    "name": "<sprite=3>暴击3",
+    "editor_name": "▼暴击3",
+    "desc": "减益，暴击率降低<style=red>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 127,
+    "name": "<sprite=3>暴击4",
+    "editor_name": "▼暴击4",
+    "desc": "减益，暴击率降低<style=red>80%</style>。",
+    "type": 2
+  },
+  {
+    "id": 128,
+    "name": "<sprite=3>暴击5",
+    "editor_name": "▼暴击5",
+    "desc": "减益，暴击率降低<style=red>100%</style>。",
+    "type": 2
+  },
+  {
+    "id": 129,
+    "name": "<sprite=3>暴伤1",
+    "editor_name": "▼暴伤1",
+    "desc": "减益，暴击伤害降低<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 130,
+    "name": "<sprite=3>暴伤2",
+    "editor_name": "▼暴伤2",
+    "desc": "减益，暴击伤害降低<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 131,
+    "name": "<sprite=3>暴伤3",
+    "editor_name": "▼暴伤3",
+    "desc": "减益，暴击伤害降低<style=red>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 132,
+    "name": "<sprite=3>暴伤4",
+    "editor_name": "▼暴伤4",
+    "desc": "减益，暴击伤害降低<style=red>80%</style>。",
+    "type": 2
+  },
+  {
+    "id": 133,
+    "name": "<sprite=3>暴伤5",
+    "editor_name": "▼暴伤5",
+    "desc": "减益，暴击伤害降低<style=red>100%</style>。",
+    "type": 2
+  },
+  {
+    "id": 134,
+    "name": "微醺",
+    "editor_name": "微醺",
+    "desc": "增益，暴击率提高<style=red>30%</style>，受到伤害降低<style=red>10%</style>，可叠加。",
+    "type": 1
+  },
+  {
+    "id": 135,
+    "name": "英勇",
+    "editor_name": "英勇",
+    "desc": "增益，每层物攻提高<style=red>7%</style>，最多叠加<style=red>3</style>层。",
+    "type": 1
+  },
+  {
+    "id": 136,
+    "name": "苦难",
+    "editor_name": "苦难",
+    "desc": "每层提高物防、魔防<style=red>15%</style>，最多<style=red>60%</style>，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 137,
+    "name": "穿透伤害",
+    "editor_name": "穿透伤害",
+    "desc": "指无视目标物理、魔法防御，直接造成的伤害。",
+    "type": 2
+  },
+  {
+    "id": 138,
+    "name": "曲射",
+    "editor_name": "曲射",
+    "desc": "指轨迹为弯曲的射击，避开部分障碍影响。",
+    "type": 2
+  },
+  {
+    "id": 139,
+    "name": "易伤1",
+    "editor_name": "易伤1",
+    "desc": "减益，受到伤害提高<style=red>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 140,
+    "name": "易伤2",
+    "editor_name": "易伤2",
+    "desc": "减益，受到伤害提高<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 141,
+    "name": "易伤3",
+    "editor_name": "易伤3",
+    "desc": "减益，受到伤害提高<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 142,
+    "name": "易伤4",
+    "editor_name": "易伤4",
+    "desc": "减益，受到伤害提高<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 143,
+    "name": "易伤5",
+    "editor_name": "易伤5",
+    "desc": "减益，受到伤害提高<style=red>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 144,
+    "name": "免伤1",
+    "editor_name": "免伤1",
+    "desc": "增益，受到伤害降低<style=red>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 145,
+    "name": "免伤2",
+    "editor_name": "免伤2",
+    "desc": "增益，受到伤害降低<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 146,
+    "name": "免伤3",
+    "editor_name": "免伤3",
+    "desc": "增益，受到伤害降低<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 147,
+    "name": "免伤4",
+    "editor_name": "免伤4",
+    "desc": "增益，受到伤害降低<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 148,
+    "name": "免伤5",
+    "editor_name": "免伤5",
+    "desc": "增益，受到伤害降低<style=red>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 149,
+    "name": "<sprite=2>治疗2",
+    "editor_name": "▲治疗2",
+    "desc": "增益，治疗效果提高<style=green>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 150,
+    "name": "<sprite=2>治疗3",
+    "editor_name": "▲治疗3",
+    "desc": "增益，治疗效果提高<style=green>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 151,
+    "name": "<sprite=2>治疗4",
+    "editor_name": "▲治疗4",
+    "desc": "增益，治疗效果提高<style=green>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 152,
+    "name": "<sprite=2>治疗5",
+    "editor_name": "▲治疗5",
+    "desc": "增益，治疗效果提高<style=green>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 153,
+    "name": "<sprite=2>暴击",
+    "editor_name": "▲暴击",
+    "desc": "增益，暴击率提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 154,
+    "name": "<sprite=3>暴击",
+    "editor_name": "▼暴击",
+    "desc": "减益，暴击率降低一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 155,
+    "name": "<sprite=2>暴伤",
+    "editor_name": "▲暴伤",
+    "desc": "增益，暴击伤害提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 156,
+    "name": "<sprite=3>暴伤",
+    "editor_name": "▼暴伤",
+    "desc": "减益，暴击伤害降低一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 157,
+    "name": "易伤",
+    "editor_name": "易伤",
+    "desc": "减益，受到伤害提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 158,
+    "name": "<sprite=3>移动",
+    "editor_name": "▼移动",
+    "desc": "减益，所属控制-干扰类，移动力减少一定的格数。",
+    "type": 2
+  },
+  {
+    "id": 159,
+    "name": "<sprite=3>移动1",
+    "editor_name": "▼移动1",
+    "desc": "减益，所属控制-干扰类，移动力减少<style=red>1</style>格。",
+    "type": 2
+  },
+  {
+    "id": 160,
+    "name": "<sprite=3>移动2",
+    "editor_name": "▼移动2",
+    "desc": "减益，所属控制-干扰类，移动力减少<style=red>2</style>格。",
+    "type": 2
+  },
+  {
+    "id": 161,
+    "name": "<sprite=3>移动3",
+    "editor_name": "▼移动3",
+    "desc": "减益，所属控制-干扰类，移动力减少<style=red>3</style>格。",
+    "type": 2
+  },
+  {
+    "id": 162,
+    "name": "<sprite=3>移动4",
+    "editor_name": "▼移动4",
+    "desc": "减益，所属控制-干扰类，移动力减少<style=red>4</style>格。",
+    "type": 2
+  },
+  {
+    "id": 163,
+    "name": "<sprite=3>移动5",
+    "editor_name": "▼移动5",
+    "desc": "减益，所属控制-干扰类，移动力减少<style=red>5</style>格。",
+    "type": 2
+  },
+  {
+    "id": 164,
+    "name": "<sprite=3>攻击",
+    "editor_name": "▼攻击",
+    "desc": "减益，物攻、魔攻降低一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 165,
+    "name": "<sprite=3>物防",
+    "editor_name": "▼物防",
+    "desc": "减益，物防降低一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 166,
+    "name": "<sprite=3>魔防",
+    "editor_name": "▼魔防",
+    "desc": "减益，魔防降低一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 167,
+    "name": "<sprite=3>魔防1",
+    "editor_name": "▼魔防1",
+    "desc": "减益，魔防降低<style=purple>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 168,
+    "name": "<sprite=3>魔防2",
+    "editor_name": "▼魔防2",
+    "desc": "减益，魔防降低<style=purple>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 169,
+    "name": "<sprite=3>魔防3",
+    "editor_name": "▼魔防3",
+    "desc": "减益，魔防降低<style=purple>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 170,
+    "name": "<sprite=3>魔防4",
+    "editor_name": "▼魔防4",
+    "desc": "减益，魔防降低<style=purple>80%</style>。",
+    "type": 2
+  },
+  {
+    "id": 171,
+    "name": "<sprite=3>魔防5",
+    "editor_name": "▼魔防5",
+    "desc": "减益，魔防降低<style=purple>100%</style>。",
+    "type": 2
+  },
+  {
+    "id": 172,
+    "name": "<sprite=3>伤害",
+    "editor_name": "▼伤害",
+    "desc": "减益，造成伤害降低一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 173,
+    "name": "<sprite=3>伤害1",
+    "editor_name": "▼伤害1",
+    "desc": "减益，造成伤害降低<style=red>10%</style>。",
+    "type": 2
+  },
+  {
+    "id": 174,
+    "name": "<sprite=3>伤害2",
+    "editor_name": "▼伤害2",
+    "desc": "减益，造成伤害降低<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 175,
+    "name": "<sprite=3>伤害3",
+    "editor_name": "▼伤害3",
+    "desc": "减益，造成伤害降低<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 176,
+    "name": "<sprite=3>伤害4",
+    "editor_name": "▼伤害4",
+    "desc": "减益，造成伤害降低<style=red>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 177,
+    "name": "<sprite=3>伤害5",
+    "editor_name": "▼伤害5",
+    "desc": "减益，造成伤害降低<style=red>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 178,
+    "name": "<sprite=3>速度",
+    "editor_name": "▼速度",
+    "desc": "减益，速度减少一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 179,
+    "name": "<sprite=3>速度1",
+    "editor_name": "▼速度1",
+    "desc": "减益，速度减少<style=red>50</style>点。",
+    "type": 2
+  },
+  {
+    "id": 180,
+    "name": "<sprite=3>速度2",
+    "editor_name": "▼速度2",
+    "desc": "减益，速度减少<style=red>100</style>点。",
+    "type": 2
+  },
+  {
+    "id": 181,
+    "name": "<sprite=3>速度3",
+    "editor_name": "▼速度3",
+    "desc": "减益，速度减少<style=red>150</style>点。",
+    "type": 2
+  },
+  {
+    "id": 182,
+    "name": "<sprite=3>速度4",
+    "editor_name": "▼速度4",
+    "desc": "减益，速度减少<style=red>200</style>点。",
+    "type": 2
+  },
+  {
+    "id": 183,
+    "name": "<sprite=3>速度5",
+    "editor_name": "▼速度5",
+    "desc": "减益，速度减少<style=red>250</style>点。",
+    "type": 2
+  },
+  {
+    "id": 184,
+    "name": "<sprite=3>射程",
+    "editor_name": "▼射程",
+    "desc": "减益，射击距离减少一定格数。",
+    "type": 2
+  },
+  {
+    "id": 185,
+    "name": "<sprite=1>被动技",
+    "editor_name": "×被动技",
+    "desc": "减益，所属控制-干扰类，所有<被动>标签技能失效。",
+    "type": 2
+  },
+  {
+    "id": 186,
+    "name": "<sprite=1>反应技",
+    "editor_name": "×反应技",
+    "desc": "减益，属于干扰类型，所有〈反应〉标签技能失效。",
+    "type": 2
+  },
+  {
+    "id": 187,
+    "name": "<sprite=1>装备技",
+    "editor_name": "×装备技",
+    "desc": "减益，所有<装备>标签技能失效。",
+    "type": 2
+  },
+  {
+    "id": 188,
+    "name": "<sprite=1>符文技",
+    "editor_name": "×符文技",
+    "desc": "减益，所有<塔罗之语>标签技能失效。",
+    "type": 2
+  },
+  {
+    "id": 189,
+    "name": "<sprite=1>不屈",
+    "editor_name": "×不屈",
+    "desc": "减益，使得[不屈]，及部分不会被击败、被击败后重新投入战斗效果无效。",
+    "type": 2
+  },
+  {
+    "id": 190,
+    "name": "<sprite=1>闪避",
+    "editor_name": "×闪避",
+    "desc": "减益，所属控制-干扰类，[闪避]效果无效。",
+    "type": 2
+  },
+  {
+    "id": 191,
+    "name": "无视闪避",
+    "editor_name": "无视闪避",
+    "desc": "增益，无视目标的[闪避]状态。",
+    "type": 2
+  },
+  {
+    "id": 192,
+    "name": "致盲",
+    "editor_name": "致盲",
+    "desc": "减益，所属控制-干扰类，单体攻击有<style=red>80%</style>概率会被目标闪避。",
+    "type": 2
+  },
+  {
+    "id": 193,
+    "name": "强制直行",
+    "editor_name": "强制直行",
+    "desc": "减益，属于干扰类型，只可以直线移动。",
+    "type": 2
+  },
+  {
+    "id": 194,
+    "name": "晕眩",
+    "editor_name": "晕眩",
+    "desc": "减益，属于定身类型，无法做出任何行动。",
+    "type": 2
+  },
+  {
+    "id": 195,
+    "name": "睡眠",
+    "editor_name": "睡眠",
+    "desc": "减益，属于定身类型，无法做出任何行动，受到任何攻击伤害解除。",
+    "type": 2
+  },
+  {
+    "id": 196,
+    "name": "冰封",
+    "editor_name": "冰封",
+    "desc": "减益，属于定身类型，无法做出任何行动，同时免疫所有[物理伤害]。被火属性[范围伤害]攻击后，失效。",
+    "type": 2
+  },
+  {
+    "id": 197,
+    "name": "嘲讽",
+    "editor_name": "嘲讽",
+    "desc": "状态，敌人会优先攻击具有嘲讽状态的角色。",
+    "type": 2
+  },
+  {
+    "id": 198,
+    "name": "灼烧",
+    "editor_name": "灼烧",
+    "desc": "减益，每次行动结束时，损失<style=red>10%</style>生命值。不可叠加，重复添加时立刻受到<style=red>1</style>次伤害。",
+    "type": 2
+  },
+  {
+    "id": 199,
+    "name": "感染",
+    "editor_name": "感染",
+    "desc": "减益，每次行动结束时，损失一定的生命值，层数越高，伤害越高，可叠加，最高9层，生效后层数减半。",
+    "type": 2
+  },
+  {
+    "id": 200,
+    "name": "生命流失",
+    "editor_name": "生命流失",
+    "desc": "减益，每次行动结束时，损失一定的生命值。",
+    "type": 2
+  },
+  {
+    "id": 201,
+    "name": "<sprite=1>援护",
+    "editor_name": "×援护",
+    "desc": "减益，所属控制-干扰类，无法进行[援护]行为，包括：援护防御、援护攻击、援护治疗、援护反击。",
+    "type": 2
+  },
+  {
+    "id": 202,
+    "name": "<sprite=1>再行动",
+    "editor_name": "×再行动",
+    "desc": "减益，无法触发再行动效果。",
+    "type": 2
+  },
+  {
+    "id": 203,
+    "name": "<sprite=1>再移动",
+    "editor_name": "×再移动",
+    "desc": "减益，无法触发再移动效果。",
+    "type": 2
+  },
+  {
+    "id": 204,
+    "name": "<sprite=1>属性增益",
+    "editor_name": "×属性增益",
+    "desc": "减益，属性增益无法添加，包括：[<sprite=2>攻击]系列、[<sprite=2>伤害]系列、[<sprite=2>暴击]系列、[<sprite=2>暴伤]系列、[<sprite=2>物防]系列、[<sprite=2>魔防]系列、[免伤]系列等属性增益。",
+    "type": 2
+  },
+  {
+    "id": 205,
+    "name": "治疗逆转",
+    "editor_name": "治疗逆转",
+    "desc": "减益，使携带者造成的治疗效果转变为伤害。",
+    "type": 2
+  },
+  {
+    "id": 206,
+    "name": "受治疗逆转",
+    "editor_name": "受治疗逆转",
+    "desc": "减益，使携带者被治疗时，治疗效果转变为伤害。",
+    "type": 2
+  },
+  {
+    "id": 207,
+    "name": "孤立",
+    "editor_name": "孤立",
+    "desc": "减益，使携带者无法受到来自友军的[光环]效果。",
+    "type": 2
+  },
+  {
+    "id": 208,
+    "name": "<sprite=2>移动",
+    "editor_name": "▲移动",
+    "desc": "减益，移动力增加一定的格数。",
+    "type": 2
+  },
+  {
+    "id": 209,
+    "name": "<sprite=2>攻击",
+    "editor_name": "▲攻击",
+    "desc": "减益，物攻、魔攻提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 210,
+    "name": "<sprite=2>物防",
+    "editor_name": "▲物防",
+    "desc": "减益，物防提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 211,
+    "name": "<sprite=2>魔防",
+    "editor_name": "▲魔防",
+    "desc": "减益，魔防提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 212,
+    "name": "<sprite=2>魔防1",
+    "editor_name": "▲魔防1",
+    "desc": "增益，魔防提高<style=purple>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 213,
+    "name": "<sprite=2>魔防2",
+    "editor_name": "▲魔防2",
+    "desc": "增益，魔防提高<style=purple>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 214,
+    "name": "<sprite=2>魔防3",
+    "editor_name": "▲魔防3",
+    "desc": "增益，魔防提高<style=purple>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 215,
+    "name": "<sprite=2>魔防4",
+    "editor_name": "▲魔防4",
+    "desc": "增益，魔防提高<style=purple>80%</style>。",
+    "type": 2
+  },
+  {
+    "id": 216,
+    "name": "<sprite=2>魔防5",
+    "editor_name": "▲魔防5",
+    "desc": "增益，魔防提高<style=purple>100%</style>。",
+    "type": 2
+  },
+  {
+    "id": 217,
+    "name": "<sprite=2>伤害",
+    "editor_name": "▲伤害",
+    "desc": "增益，造成伤害提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 218,
+    "name": "免伤",
+    "editor_name": "免伤",
+    "desc": "增益，受到伤害降低一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 219,
+    "name": "<sprite=2>速度",
+    "editor_name": "▲速度",
+    "desc": "增益，速度增加一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 220,
+    "name": "<sprite=2>受治疗",
+    "editor_name": "▲受治疗",
+    "desc": "增益，受到治疗提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 221,
+    "name": "<sprite=2>治疗",
+    "editor_name": "▲治疗",
+    "desc": "增益，治疗效果提高一定的效果。",
+    "type": 2
+  },
+  {
+    "id": 222,
+    "name": "破盾",
+    "editor_name": "破盾",
+    "desc": "增益，攻击拥有护盾的目标时，攻击力额外提升一定比例。",
+    "type": 2
+  },
+  {
+    "id": 223,
+    "name": "破盾1",
+    "editor_name": "破盾1",
+    "desc": "增益，无视目标格挡，攻击拥有[护盾]的敌人时，攻击力提高<style=red>15%</style>。",
+    "type": 2
+  },
+  {
+    "id": 224,
+    "name": "破盾2",
+    "editor_name": "破盾2",
+    "desc": "增益，无视目标格挡，攻击拥有[护盾]的敌人时，攻击力提高<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 225,
+    "name": "破盾3",
+    "editor_name": "破盾3",
+    "desc": "增益，无视目标格挡，攻击拥有[护盾]的敌人时，攻击力提高<style=red>45%</style>。",
+    "type": 2
+  },
+  {
+    "id": 226,
+    "name": "破盾4",
+    "editor_name": "破盾4",
+    "desc": "增益，无视目标格挡，攻击拥有[护盾]的敌人时，攻击力提高<style=red>60%</style>。",
+    "type": 2
+  },
+  {
+    "id": 227,
+    "name": "破盾5",
+    "editor_name": "破盾5",
+    "desc": "增益，无视目标格挡，攻击拥有[护盾]的敌人时，攻击力提高<style=red>75%</style>。",
+    "type": 2
+  },
+  {
+    "id": 228,
+    "name": "再生",
+    "editor_name": "再生",
+    "desc": "增益，在自身行动结束时，回复一定的生命值。",
+    "type": 2
+  },
+  {
+    "id": 229,
+    "name": "伤害反射",
+    "editor_name": "伤害反射",
+    "desc": "增益，将受到的一定百分比伤害，反弹给他攻击者。",
+    "type": 2
+  },
+  {
+    "id": 231,
+    "name": "渴血战斧",
+    "editor_name": "渴血战斧",
+    "desc": "增益，伤害提高<style=red>20%</style>，产生<style=red>20%</style>[生命汲取]，最多可叠加<style=red>3</style>层。",
+    "type": 1
+  },
+  {
+    "id": 232,
+    "name": "蓄力",
+    "editor_name": "蓄力",
+    "desc": "增益，攻击射程提高<style=red>1</style>格，攻击前，获得[穿透伤害]、[<sprite=2>伤害2]，持续<style=red>2</style>回合。",
+    "type": 2
+  },
+  {
+    "id": 233,
+    "name": "最大功率",
+    "editor_name": "加长射程",
+    "desc": "增益，提高所有技能的攻击射程，加大极限光束系列技能的攻击范围。",
+    "type": 1
+  },
+  {
+    "id": 234,
+    "name": "突袭跳跃",
+    "editor_name": "突袭跳跃",
+    "desc": "增益，攻击敌人[侧、后方]时，攻击前，对目标施加[<sprite=1>反应技]。",
+    "type": 1
+  },
+  {
+    "id": 235,
+    "name": "烈风超重斩",
+    "editor_name": "烈风超重斩",
+    "desc": "技能，单体攻击，造成<style=red>140%</style>伤害。目标每有1个[减益]，伤害提高<style=red>10%</style>，最多<style=red>50%</style>。",
+    "type": 1
+  },
+  {
+    "id": 236,
+    "name": "强韧",
+    "editor_name": "强韧",
+    "desc": "技能，不会受到[受伤]、[濒死]状态的效果影响。",
+    "type": 2
+  },
+  {
+    "id": 237,
+    "name": "风怒",
+    "editor_name": "风怒",
+    "desc": "增益，攻击提高一定百分比。",
+    "type": 1
+  },
+  {
+    "id": 238,
+    "name": "风甲",
+    "editor_name": "风甲",
+    "desc": "增益，防御提高一定百分比。",
+    "type": 1
+  },
+  {
+    "id": 239,
+    "name": "扬旗",
+    "editor_name": "扬旗",
+    "desc": "光环，自身范围<style=red>3</style>格内其他友军，攻防属性提高<style=red>12%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 240,
+    "name": "剑技·疾风",
+    "editor_name": "圣剑突刺",
+    "desc": "技能，选择自身十字范围内1名敌人，造成<style=red>120%</style>物理伤害，攻击前，每移动1格，伤害提高<style=red>10%</style>，最多<style=red>50%</style>。",
+    "type": 1
+  },
+  {
+    "id": 241,
+    "name": "扬旗光环",
+    "editor_name": "扬旗进军",
+    "desc": "光环，使一定范围的其他友军，攻防属性提高<style=red>12%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 242,
+    "name": "剑技·圆月斩",
+    "editor_name": "压制横扫",
+    "desc": "技能，对自身范围<style=red>2</style>格内所有敌人，造成<style=red>90%</style>物理范围伤害，目标处于[受伤]状态时，造成伤害额外提高<style=red>30%</style>，技能使用后，自身获得[免伤2]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 243,
+    "name": "×反应",
+    "editor_name": "（废弃）×反应",
+    "desc": "减益，所有[反应]标签技能失效。",
+    "type": 2
+  },
+  {
+    "id": 244,
+    "name": "<sprite=3>受治疗",
+    "editor_name": "▼受治疗",
+    "desc": "减益，受到治疗降低<style=green>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 245,
+    "name": "1级增益",
+    "editor_name": "1级增益",
+    "desc": "增益，包含以下增益：[<sprite=2>攻击1]、[<sprite=2>暴击1]、[<sprite=2>物防1]、[<sprite=2>魔防1]、[<sprite=2>治疗1]。",
+    "type": 2
+  },
+  {
+    "id": 246,
+    "name": "1级属性增益",
+    "editor_name": "1级属性增益",
+    "desc": "增益，包含以下增益：[<sprite=2>攻击1]、[<sprite=2>暴击1]、[<sprite=2>物防1]、[<sprite=2>魔防1]、[<sprite=2>治疗1]。",
+    "type": 2
+  },
+  {
+    "id": 247,
+    "name": "1级减益",
+    "editor_name": "1级减益",
+    "desc": "减益，包含以下减益：[<sprite=3>攻击1]、[<sprite=3>暴击1]、[<sprite=3>物防1]、[<sprite=3>魔防1]、[<sprite=3>受治疗]。",
+    "type": 2
+  },
+  {
+    "id": 248,
+    "name": "1级属性减益",
+    "editor_name": "1级属性减益",
+    "desc": "减益，包含以下减益：[<sprite=3>攻击1]、[<sprite=3>暴击1]、[<sprite=3>物防1]、[<sprite=3>魔防1]、[<sprite=3>受治疗]。",
+    "type": 2
+  },
+  {
+    "id": 249,
+    "name": "2级属性增益",
+    "editor_name": "2级属性增益",
+    "desc": "增益，包含以下增益：[<sprite=2>攻击2]、[<sprite=2>暴击2]、[<sprite=2>物防2]、[<sprite=2>魔防2]、[<sprite=2>治疗2]。",
+    "type": 2
+  },
+  {
+    "id": 250,
+    "name": "2级增益",
+    "editor_name": "2级增益",
+    "desc": "增益，包含以下增益：[<sprite=2>攻击2]、[<sprite=2>暴击2]、[<sprite=2>物防2]、[<sprite=2>魔防2]、[<sprite=2>移动1]、[<sprite=2>治疗2]、[免疫属性减益]。",
+    "type": 2
+  },
+  {
+    "id": 251,
+    "name": "2级属性减益",
+    "editor_name": "2级属性减益",
+    "desc": "减益，包含以下减益：[<sprite=3>攻击2]、[<sprite=3>暴击2]、[<sprite=3>物防2]、[<sprite=3>魔防2]、[<sprite=1>受治疗]。",
+    "type": 2
+  },
+  {
+    "id": 252,
+    "name": "2级减益",
+    "editor_name": "2级减益",
+    "desc": "减益，包含以下减益：[<sprite=3>攻击2]、[<sprite=3>暴击2]、[<sprite=3>物防2]、[<sprite=3>魔防2]、[<sprite=1>被动技]、[<sprite=1>反应技]、[<sprite=1>受治疗]、[<sprite=1>属性增益]。",
+    "type": 2
+  },
+  {
+    "id": 253,
+    "name": "3级增益",
+    "editor_name": "3级增益",
+    "desc": "增益，包含以下增益：[<sprite=2>攻击3]、[<sprite=2>暴击3]、[<sprite=2>物防3]、[<sprite=2>魔防3]、[<sprite=2>治疗3]、[<sprite=2>移动2]。",
+    "type": 2
+  },
+  {
+    "id": 254,
+    "name": "3级减益",
+    "editor_name": "3级减益",
+    "desc": "减益，包含以下减益：[<sprite=3>攻击3]、[<sprite=3>暴击3]、[<sprite=3>物防3]、[<sprite=3>魔防3]、[<sprite=3>移动2]。",
+    "type": 2
+  },
+  {
+    "id": 255,
+    "name": "阻挡",
+    "editor_name": "阻挡",
+    "desc": "状态，指攻击目标敌人，却被目标前的另一敌人承受了攻击。",
+    "type": 2
+  },
+  {
+    "id": 256,
+    "name": "天籁之音",
+    "editor_name": "动听歌声",
+    "desc": "技能，使范围<style=red>4</style>格内所有己方，获得[<style=C4>再生2</style>]、[<style=C4>免疫属性减益</style>]，对范围<style=red>4</style>格内所有敌人，施加[<style=C4><sprite=1>主动技</style>]。",
+    "type": 1
+  },
+  {
+    "id": 257,
+    "name": "生命汲取",
+    "editor_name": "生命汲取",
+    "desc": "增益，指回复一定的生命值，治疗量为本次对敌人造成伤害的百分比。",
+    "type": 2
+  },
+  {
+    "id": 258,
+    "name": "倒吊人特工",
+    "editor_name": "倒吊人刺客",
+    "desc": "突袭者，被召唤的召唤物角色，可与友军交换位置、消亡时对一定范围内敌人造成范围伤害，并施加2个[2级属性减益]。",
+    "type": 1
+  },
+  {
+    "id": 260,
+    "name": "形骸",
+    "editor_name": "形骸",
+    "desc": "状态，被击败后形成的特殊状态，若一定时间内没被再次击败，则角色可以重新投入战斗。",
+    "type": 1
+  },
+  {
+    "id": 261,
+    "name": "引入",
+    "editor_name": "引入",
+    "desc": "增益，无法被敌人选中，攻击提高<style=red>30%</style>。主动攻击后移除。",
+    "type": 1
+  },
+  {
+    "id": 262,
+    "name": "侧击战术",
+    "editor_name": "侧击战术",
+    "desc": "增益，攻击敌人[侧、后方]时，暴击率提高<style=red>40%</style>、暴击伤害提高<style=red>15%</style>，持续<style=red>3</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 263,
+    "name": "内在烈火",
+    "editor_name": "内在烈火",
+    "desc": "增益，对场上随机<style=red>2</style>名敌人，造成<style=red>70%</style>物理伤害。",
+    "type": 1
+  },
+  {
+    "id": 264,
+    "name": "急速突击",
+    "editor_name": "急速突击",
+    "desc": "增益，对场上随机<style=red>1</style>名敌人，造成<style=red>110%</style>物理伤害。施加[<style=C4>嘲讽</style>]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 265,
+    "name": "防守反击",
+    "editor_name": "防守反击",
+    "desc": "增益，攻击前，把自身<style=red>40%</style>物防属性增加至物攻属性上，<style=red>40%</style>魔防属性增加至魔攻属性上。",
+    "type": 1
+  },
+  {
+    "id": 266,
+    "name": "无限锋刃",
+    "editor_name": "强化破敌刃",
+    "desc": "技能，对目标方向<style=red>3*3</style>区域所有敌人，造成<style=red>160%</style>[范围伤害]。",
+    "type": 1
+  },
+  {
+    "id": 267,
+    "name": "正面装甲",
+    "editor_name": "正面装甲",
+    "desc": "增益，被[正、侧方]攻击时，受到伤害降低<style=red>20%</style>。",
+    "type": 1
+  },
+  {
+    "id": 268,
+    "name": "恶魔",
+    "editor_name": "恶魔",
+    "desc": "增益，攻防属性提高<style=red>3%</style>，最多<style=red>30%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 269,
+    "name": "审判",
+    "editor_name": "审判",
+    "desc": "减益，受到伤害提高<style=red>10%</style>，不可免疫。",
+    "type": 1
+  },
+  {
+    "id": 270,
+    "name": "命运之轮",
+    "editor_name": "命运之轮",
+    "desc": "增益，随机获得一种增益，有可能会是：造成伤害提高、受到伤害降低、对范围内敌人造成[穿透伤害]、使范围内己方回复生命值、攻防属性提高、回复能量、什么事情都没发生。",
+    "type": 1
+  },
+  {
+    "id": 271,
+    "name": "虔诚祈求",
+    "editor_name": "虔诚祈求",
+    "desc": "个性，使自身范围<style=red>3</style>格内所有友军，受到治疗效果提高一定百分比，若友军被攻击后处于[<style=C4>受伤</style>]或[<style=C4>濒死</style>]状态时，消耗自身<style=red>1</style>点能量，治疗该友军，治疗量为魔攻值的一定百分比。",
+    "type": 1
+  },
+  {
+    "id": 272,
+    "name": "招架",
+    "editor_name": "招架",
+    "desc": "状态，被近战物理攻击前，转向目标，自身物攻的<style=red>20%</style>附加在物防上。",
+    "type": 2
+  },
+  {
+    "id": 273,
+    "name": "乘胜追击",
+    "editor_name": "乘胜追击",
+    "desc": "增益，攻击后，可再行动，可生效<style=red>1</style>次。",
+    "type": 1
+  },
+  {
+    "id": 274,
+    "name": "狮牙徽记",
+    "editor_name": "狮牙徽记",
+    "desc": "增益，攻击提高<style=red>8%</style>，最多叠加<style=red>5</style>层，持续到使徒·桀骜之力下次行动结束后。",
+    "type": 1
+  },
+  {
+    "id": 275,
+    "name": "力量的祝福1",
+    "editor_name": "力量的祝福1",
+    "desc": "增益，防御提高<style=red>10%</style>，反击时，伤害提高<style=red>10%</style>，不可驱散。[第八灾厄“力量”]被击败后移除。",
+    "type": 1
+  },
+  {
+    "id": 276,
+    "name": "力量的祝福2",
+    "editor_name": "力量的祝福2",
+    "desc": "增益，防御提高<style=red>20%</style>，反击时，伤害提高<style=red>30%</style>，不可驱散。[第八灾厄“力量”]被击败后移除。",
+    "type": 1
+  },
+  {
+    "id": 277,
+    "name": "力量的祝福3",
+    "editor_name": "力量的祝福3",
+    "desc": "增益，防御提高<style=red>30%</style>，反击时，伤害提高<style=red>60%</style>，不可驱散。[第八灾厄“力量”]被击败后移除。",
+    "type": 1
+  },
+  {
+    "id": 278,
+    "name": "金鬃徽记",
+    "editor_name": "金鬃徽记",
+    "desc": "增益，物理攻击提高<style=red>4%</style>，最多<style=red>60%</style>，持续到本场战斗结束。",
+    "type": 1
+  },
+  {
+    "id": 279,
+    "name": "滋养",
+    "editor_name": "混沌增长",
+    "desc": "增益，每层射程增加<style=red>1</style>格，伤害提高<style=red>10%</style>，可以叠加。每次受到伤害后，移除<style=red>3</style>层。",
+    "type": 1
+  },
+  {
+    "id": 280,
+    "name": "遁入暗影",
+    "editor_name": "遁入暗影",
+    "desc": "增益，持续时间内[闪避]所有攻击，免疫所有异常效果，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 281,
+    "name": "力量的启示1",
+    "editor_name": "力量的启示1",
+    "desc": "减益，被施加[嘲讽]。受到攻击时，伤害提高<style=red>30%</style>。",
+    "type": 1
+  },
+  {
+    "id": 282,
+    "name": "力量的启示2",
+    "editor_name": "力量的启示2",
+    "desc": "减益，被施加[嘲讽]。受到攻击时，伤害提高<style=red>30%</style>，被施加[<sprite=1>闪避]。",
+    "type": 1
+  },
+  {
+    "id": 283,
+    "name": "力量的启示3",
+    "editor_name": "力量的启示3",
+    "desc": "减益，被施加[嘲讽]。受到攻击时，伤害提高<style=red>30%</style>，不可驱散，被施加[<sprite=1>闪避]。",
+    "type": 1
+  },
+  {
+    "id": 284,
+    "name": "鼓舞之舞",
+    "editor_name": "鼓舞之舞",
+    "desc": "增益，使自身范围<style=red>5</style>格内所有己方，伤害提高<style=red>20%</style>，产生<style=green>40%</style>[<style=C4>生命汲取</style>]。",
+    "type": 1
+  },
+  {
+    "id": 285,
+    "name": "移形换影",
+    "editor_name": "移形换影",
+    "desc": "增益，[背击]时，必定暴击。",
+    "type": 1
+  },
+  {
+    "id": 286,
+    "name": "蓄能",
+    "editor_name": "蓄能",
+    "desc": "增益，普攻时，最大射程提高<style=red>1</style>格，攻击前，获得[穿甲]。",
+    "type": 1
+  },
+  {
+    "id": 287,
+    "name": "<sprite=1>重生",
+    "editor_name": "×重生",
+    "desc": "减益，无法发动重生效果",
+    "type": 2
+  },
+  {
+    "id": 288,
+    "name": "斥力屏障",
+    "editor_name": "斥力屏障",
+    "desc": "增益，免疫击退，每层攻击提高<style=red>2%</style>。[格挡]物理攻击，并降低<style=red>50%</style>伤害，每次受到伤害后移除<style=red>1</style>层。不可驱散，无法免疫，最多叠加<style=red>5</style>层。",
+    "type": 1
+  },
+  {
+    "id": 289,
+    "name": "格挡强化",
+    "editor_name": "格挡强化",
+    "desc": "增益，被[正、侧方]远程物理攻击时，100%概率触发格挡，[格挡]时，受到伤害额外降低10%。",
+    "type": 2
+  },
+  {
+    "id": 290,
+    "name": "防御属性减益",
+    "editor_name": "防御属性减益",
+    "desc": "减益，包含以下减益：[<sprite=3>物防]系列、[<sprite=3>魔防]系列、[易伤]系列。",
+    "type": 2
+  },
+  {
+    "id": 291,
+    "name": "<sprite=1>防御属性减益",
+    "editor_name": "×防御属性减益",
+    "desc": "增益，免疫防御属性减益，包含：[<sprite=3>物防]系列、[<sprite=3>魔防]系列、[易伤]系列。",
+    "type": 2
+  },
+  {
+    "id": 292,
+    "name": "易容",
+    "editor_name": "易容",
+    "desc": "增益，受到伤害降低<style=red>30%</style>，移动力增加<style=red>2</style>。",
+    "type": 1
+  },
+  {
+    "id": 293,
+    "name": "召唤秘仪",
+    "editor_name": "召唤秘仪",
+    "desc": "增益，魔攻提高<style=red>2%</style>；效果可以叠加，<style=blue>可被驱散</style>。",
+    "type": 1
+  },
+  {
+    "id": 294,
+    "name": "雷霆之怒",
+    "editor_name": "雷霆之怒",
+    "desc": "增益，下次攻击时，攻击力提高<style=red>20%</style>，不可驱散，可以叠加多层。",
+    "type": 1
+  },
+  {
+    "id": 295,
+    "name": "面纱",
+    "editor_name": "面纱",
+    "desc": "增益，受到[范围伤害]降低<style=red>99%</style>，被[范围攻击]后消失，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 296,
+    "name": "格挡·改",
+    "editor_name": "格挡·改",
+    "desc": "增益，被[正、侧方]物理攻击时，<style=red>60%</style>概率面向敌人，伤害降低<style=red>30%</style>。",
+    "type": 2
+  },
+  {
+    "id": 297,
+    "name": "百战之盾",
+    "editor_name": "百战之姿",
+    "desc": "拥有[格挡]。行动结束时，对前方横排3格进行[警戒]，可造成自身防御的一定倍数的[范围伤害]，主动使用其他[警戒]技能时，自身攻击额外提高一定百分比。",
+    "type": 1
+  },
+  {
+    "id": 298,
+    "name": "风暴",
+    "editor_name": "风暴",
+    "desc": "对战场所有敌人造成1.4倍物理范围伤害。",
+    "type": 1
+  },
+  {
+    "id": 299,
+    "name": "电荷冲击",
+    "editor_name": "电荷冲击",
+    "desc": "减益，受到[第一灾厄“魔术师”]攻击后被施加，回合结束时生效。对目标及其十字范围<style=red>4</style>格内其他友军，造成目标<style=red>40%</style>生命值的[灾厄属性][穿透伤害]。",
+    "type": 1
+  },
+  {
+    "id": 300,
+    "name": "电压冲击",
+    "editor_name": "电压冲击",
+    "desc": "减益，受到[第一灾厄“魔术师”]攻击后被施加，回合结束时生效。对目标及其十字范围<style=red>8</style>格内其他友军，造成目标<style=red>60%</style>生命值的[灾厄属性][穿透伤害]。",
+    "type": 1
+  },
+  {
+    "id": 301,
+    "name": "攻防一体",
+    "editor_name": "攻防一体",
+    "desc": "增益，攻击时，若自身任一防御值高于对方对应防御值，对应伤害增加20%。",
+    "type": 1
+  },
+  {
+    "id": 302,
+    "name": "强化反击1",
+    "editor_name": "强化反击1",
+    "desc": "增益，对自身范围<style=red>1</style>格内所有攻击进行[反击]，造成<style=red>50%</style>物攻加魔攻的物理伤害，无法免疫，不可驱散，效果结束时间：自身行动开始时。",
+    "type": 2
+  },
+  {
+    "id": 303,
+    "name": "强化反击2",
+    "editor_name": "强化反击2",
+    "desc": "增益，对自身范围<style=red>3</style>格内所有攻击进行[反击]，造成<style=red>75%</style>物攻加魔攻的物理伤害，无法免疫，不可驱散，效果结束时间：自身行动开始时。",
+    "type": 2
+  },
+  {
+    "id": 304,
+    "name": "强化反击3",
+    "editor_name": "强化反击3",
+    "desc": "增益，对自身范围<style=red>5</style>格内所有攻击进行[反击]，造成<style=red>100%</style>物攻加魔攻的物理伤害，无法免疫，不可驱散，效果结束时间：自身行动开始时。",
+    "type": 2
+  },
+  {
+    "id": 305,
+    "name": "无敌",
+    "editor_name": "无敌",
+    "desc": "增益，免疫所有伤害，不可驱散，无法免疫。",
+    "type": 2
+  },
+  {
+    "id": 306,
+    "name": "晶石技能",
+    "editor_name": "晶石技能",
+    "desc": "指贝拉的[要爆炸啦！]、[高能火晶石]、[治愈光晶石]、[急冻冰晶石]等技能。",
+    "type": 1
+  },
+  {
+    "id": 307,
+    "name": "攻击属性减益",
+    "editor_name": "攻击属性减益",
+    "desc": "减益，包含以下减益：[<sprite=3>攻击]系列、[<sprite=3>伤害]系列、[<sprite=3>暴击]系列、[<sprite=3>暴伤]系列。",
+    "type": 2
+  },
+  {
+    "id": 308,
+    "name": "定身",
+    "editor_name": "定身（以前的控制",
+    "desc": "减益，包含以下减益：[晕眩]、[睡眠]、[冰封]。",
+    "type": 2
+  },
+  {
+    "id": 309,
+    "name": "干扰",
+    "editor_name": "干扰",
+    "desc": "减益，包含以下减益：<sprite=3>移动系列、<sprite=1>主动技、<sprite=1>被动技、<sprite=1>反应技、<sprite=1>援护、<sprite=1>闪避、致盲、强制直行等。",
+    "type": 2
+  },
+  {
+    "id": 310,
+    "name": "潜能激发",
+    "editor_name": "潜能激发",
+    "desc": "增益，攻击提高<style=red>20%</style>，防御提高<style=red>40%</style>，获得[<sprite=1>属性减益]。",
+    "type": 1
+  },
+  {
+    "id": 311,
+    "name": "苦修",
+    "editor_name": "苦修",
+    "desc": "增益，受到伤害降低<style=red>8%</style>，不可驱散，最多叠加<style=red>3</style>层。",
+    "type": 1
+  },
+  {
+    "id": 312,
+    "name": "厄运苏醒",
+    "editor_name": "恶魔苏醒",
+    "desc": "增益，攻击提高<style=red>20%</style>，产生<style=red>50%</style>[生命汲取]。行动结束时，对自身范围3格进行[警戒]，可造成<style=purple>70%</style>魔法伤害，每回合最多生效<style=red>3</style>次。",
+    "type": 1
+  },
+  {
+    "id": 313,
+    "name": "援护反击",
+    "editor_name": "援护反击",
+    "desc": "增益，守护一定范围内的友军，当其被单体攻击时，若攻击方在技能使用者攻击范围内，则进行反击。",
+    "type": 2
+  },
+  {
+    "id": 314,
+    "name": "伤口",
+    "editor_name": "伤口",
+    "desc": "减益，受到[非百分比穿透伤害]提高<style=red>12%</style>，受到治疗降低<style=red>30%</style>，最多叠加<style=red>4</style>层，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 315,
+    "name": "兽化",
+    "editor_name": "兽化",
+    "desc": "增益，攻击提高<style=red>10%</style>，物防提高<style=red>20%</style>，魔防降低<style=purple>10%</style>，不可驱散，无法免疫。",
+    "type": 2
+  },
+  {
+    "id": 316,
+    "name": "追猎",
+    "editor_name": "追猎",
+    "desc": "增益，移动力增加<style=red>2</style>格，攻击[受伤]状态的敌人时，额外回复<style=green>1</style>点能量。",
+    "type": 1
+  },
+  {
+    "id": 317,
+    "name": "强力盾牌充能",
+    "editor_name": "强力盾牌充能",
+    "desc": "增益，[格挡]概率提高至<style=red>100%</style>。[格挡]时，每拥有1层，受到伤害降低<style=red>15%</style>，最多叠加<style=red>2</style>层。被物理单体攻击后，移除<style=red>1</style>层。",
+    "type": 1
+  },
+  {
+    "id": 318,
+    "name": "盾牌充能",
+    "editor_name": "盾牌充能",
+    "desc": "增益，[格挡]概率提高至<style=red>100%</style>。[格挡]时，每拥有1层，受到伤害额外降低<style=red>10%</style>。被物理单体攻击后，移除<style=red>1</style>层。",
+    "type": 1
+  },
+  {
+    "id": 319,
+    "name": "刺刀充能",
+    "editor_name": "刺刀充能",
+    "desc": "增益，攻击提高<style=red>10%</style>，造成伤害后，移除所有层数。",
+    "type": 1
+  },
+  {
+    "id": 320,
+    "name": "怒意",
+    "editor_name": "怒意",
+    "desc": "每层攻击提高<style=red>3%</style>，不可驱散，无法免疫，最多叠加<style=red>6</style>层。",
+    "type": 1
+  },
+  {
+    "id": 321,
+    "name": "怒意爆发3",
+    "editor_name": "怒意爆发3",
+    "desc": "增益，将<style=red>70%</style>魔攻值附加在物攻上，获得[穿甲]。",
+    "type": 1
+  },
+  {
+    "id": 322,
+    "name": "怒意爆发2",
+    "editor_name": "怒意爆发2",
+    "desc": "增益，将<style=red>70%</style>魔攻值附加在物攻上",
+    "type": 1
+  },
+  {
+    "id": 323,
+    "name": "怒意爆发1",
+    "editor_name": "怒意爆发1",
+    "desc": "增益，将<style=red>40%</style>魔攻值附加在物攻上",
+    "type": 1
+  },
+  {
+    "id": 324,
+    "name": "守护",
+    "editor_name": "守护",
+    "desc": "替自身范围2格内所有友军承受[物理攻击]。发动时，防御提高<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 325,
+    "name": "环境伤害",
+    "editor_name": "环境伤害",
+    "desc": "指击退、滚石、炸药桶、地刺、落石等环境伤害。",
+    "type": 2
+  },
+  {
+    "id": 326,
+    "name": "低地",
+    "editor_name": "低地",
+    "desc": "指自身位置高度，低于对方大于等于<style=red>2</style>格时的状况。",
+    "type": 2
+  },
+  {
+    "id": 327,
+    "name": "高地",
+    "editor_name": "高地",
+    "desc": "指自身位置高度，高于对方大于等于<style=red>2</style>格时的状况。",
+    "type": 2
+  },
+  {
+    "id": 328,
+    "name": "防御属性增益",
+    "editor_name": "防御属性增益",
+    "desc": "增益，包含以下增益：[<sprite=2>物防]系列、[<sprite=2>魔防]系列、[免伤]系列。",
+    "type": 2
+  },
+  {
+    "id": 329,
+    "name": "属性增益",
+    "editor_name": "属性增益",
+    "desc": "增益，属性增益，包括：[<sprite=2>攻击]系列、[<sprite=2>伤害]系列、[<sprite=2>暴击]系列、[<sprite=2>暴伤]系列、[<sprite=2>物防]系列、[<sprite=2>魔防]系列、[免伤]系列等属性增益。",
+    "type": 2
+  },
+  {
+    "id": 330,
+    "name": "无伤",
+    "editor_name": "无伤",
+    "desc": "状态，生命值等于<style=red>100%</style>时的状态。",
+    "type": 2
+  },
+  {
+    "id": 331,
+    "name": "严寒",
+    "editor_name": "严寒",
+    "desc": "减益，移动力降低<style=red>1</style>格，行动结束时，不回复能量。",
+    "type": 2
+  },
+  {
+    "id": 332,
+    "name": "冰铠",
+    "editor_name": "冰铠",
+    "desc": "增益，获得施法者魔攻值<style=purple>60%</style>的[物理护盾]，免疫[冰冻]地形效果，被[近战攻击]后，施加对方[<sprite=3>移动1]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 333,
+    "name": "冲锋",
+    "editor_name": "冲锋",
+    "desc": "状态，指向目标角色或目标地点发起冲锋，产生位置变化的技能。",
+    "type": 2
+  },
+  {
+    "id": 334,
+    "name": "光谕",
+    "editor_name": "[法皇之手]-权杖强化",
+    "desc": "增益，若是卡丽丝专属技能，产生技能变更。若是非卡丽丝专属技能，最大射程增加<style=red>2</style>格，所消耗能量减少<style=red>1</style>，可生效<style=red>1</style>次。",
+    "type": 1
+  },
+  {
+    "id": 335,
+    "name": "旋转加速",
+    "editor_name": "旋转加速",
+    "desc": "增益，每层攻防属性提高<style=red>4%</style>。",
+    "type": 1
+  },
+  {
+    "id": 336,
+    "name": "决战号角",
+    "editor_name": "决战号角",
+    "desc": "减益，受到伤害提高一定百分比。",
+    "type": 1
+  },
+  {
+    "id": 337,
+    "name": "奇袭指令",
+    "editor_name": "奇袭指令",
+    "desc": "增益，攻击敌人[侧、后方]时，暴击率提高百分比，暴击伤害提高百分比。",
+    "type": 1
+  },
+  {
+    "id": 338,
+    "name": "捕兽夹",
+    "editor_name": "捕兽夹",
+    "desc": "陷阱，角色经过或停留时，造成<style=red>10%</style>生命值的[穿透伤害]，打断本次行动。",
+    "type": 2
+  },
+  {
+    "id": 339,
+    "name": "强力捕兽夹",
+    "editor_name": "强力捕兽夹",
+    "desc": "陷阱，角色经过或停留时，造成<style=red>30%</style>生命值的[穿透伤害]，打断本次行动。",
+    "type": 2
+  },
+  {
+    "id": 340,
+    "name": "和风守护",
+    "editor_name": "和风守护",
+    "desc": "增益，受到伤害降低百分比。",
+    "type": 1
+  },
+  {
+    "id": 341,
+    "name": "防御号令",
+    "editor_name": "防御号令",
+    "desc": "增益，防御提高百分比。",
+    "type": 1
+  },
+  {
+    "id": 342,
+    "name": "攻击号令",
+    "editor_name": "攻击号令",
+    "desc": "增益，攻击提高百分比。",
+    "type": 1
+  },
+  {
+    "id": 343,
+    "name": "行军号令",
+    "editor_name": "行军号令",
+    "desc": "增益，移动力增加一定格数。",
+    "type": 1
+  },
+  {
+    "id": 344,
+    "name": "锁定目标",
+    "editor_name": "锁定目标",
+    "desc": "减益，防御降低<style=red>20%</style>。",
+    "type": 1
+  },
+  {
+    "id": 345,
+    "name": "加急指令",
+    "editor_name": "加急指令",
+    "desc": "增益，速度提高一定点数。",
+    "type": 1
+  },
+  {
+    "id": 346,
+    "name": "战场历练",
+    "editor_name": "战场历练",
+    "desc": "增益，魔攻提高<style=red>8%</style>，最多可叠5层。",
+    "type": 1
+  },
+  {
+    "id": 347,
+    "name": "等待猎物",
+    "editor_name": "等待猎物",
+    "desc": "增益，攻击提升<style=red>20%</style>，击杀时额外回复一点能量。",
+    "type": 1
+  },
+  {
+    "id": 348,
+    "name": "突击姿态",
+    "editor_name": "突击姿态",
+    "desc": "增益，移动力增加<style=red>2</style>格，只能直线移动。移动后，攻击提高<style=red>15%</style>。攻击后，可再移动，继承剩余移动力。不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 349,
+    "name": "英灵长弓",
+    "editor_name": "英灵长弓",
+    "desc": "减益，来自装备效果，受到伤害提高<style=red>10%</style>。",
+    "type": 1
+  },
+  {
+    "id": 350,
+    "name": "刻印共鸣",
+    "editor_name": "刻印共鸣",
+    "desc": "增益，下次使用主动技能时，返还所消耗能量，冷却时间归零。",
+    "type": 1
+  },
+  {
+    "id": 351,
+    "name": "虚无之刺",
+    "editor_name": "虚无之刺",
+    "desc": "增益，暴击率提高<style=red>5%</style>，最多叠加<style=red>6</style>层。",
+    "type": 1
+  },
+  {
+    "id": 352,
+    "name": "审判诘责",
+    "editor_name": "审判诘责",
+    "desc": "减益，来自装备效果，受到伤害提高<style=red>25%</style>。",
+    "type": 1
+  },
+  {
+    "id": 353,
+    "name": "蚀炎",
+    "editor_name": "蚀炎",
+    "desc": "减益，每次行动结束时，损失<style=red>4%</style>当前生命值。不可叠加，无法免疫，不可驱散，重复添加时立刻受到<style=red>1</style>次伤害。",
+    "type": 2
+  },
+  {
+    "id": 354,
+    "name": "愈合·改",
+    "editor_name": "愈合·改",
+    "desc": "技能，行动结束时，治疗自身范围<style=red>3</style>格内生命值百分比最低的己方，治疗量为魔攻值的<style=green>50%</style>。",
+    "type": 1
+  },
+  {
+    "id": 356,
+    "name": "野兽狂热",
+    "editor_name": "野兽狂热",
+    "desc": "增益，暴击率、生命汲取提高<style=red>15%</style>，可叠加5次。",
+    "type": 1
+  },
+  {
+    "id": 357,
+    "name": "持续伤害",
+    "editor_name": "持续伤害",
+    "desc": "特定伤害类型，包含以下减益所造成的伤害：灼烧、感染、生命流失、圣痕、蚀炎。",
+    "type": 2
+  },
+  {
+    "id": 358,
+    "name": "烈火审判",
+    "editor_name": "烈火审判",
+    "desc": "减益，移动力固定为<style=red>2</style>格，最大射程等于最小射程。",
+    "type": 1
+  },
+  {
+    "id": 359,
+    "name": "烈酒",
+    "editor_name": "烈酒",
+    "desc": "减益，速度降低<style=red>150</style>点，移动力减少<style=red>1</style>格，魔防降低<style=purple>40%</style>。",
+    "type": 2
+  },
+  {
+    "id": 360,
+    "name": "免疫中级",
+    "editor_name": "免疫中级",
+    "desc": "受到生命值[百分比伤害]降低<style=red>80%</style>，免疫定身、[<sprite=1>主动技]、传送、击退、打断。",
+    "type": 2
+  },
+  {
+    "id": 361,
+    "name": "免疫初级",
+    "editor_name": "免疫初级",
+    "desc": "受到生命值[百分比伤害]降低<style=red>50%</style>，免疫定身、[<sprite=1>主动技]、传送、击退、打断。",
+    "type": 2
+  },
+  {
+    "id": 362,
+    "name": "免疫高级",
+    "editor_name": "免疫高级",
+    "desc": "受到生命值[百分比伤害]降低<style=red>95%</style>，免疫控制、传送、击退、打断。击败[召唤物]后，可再行动，每回合最多触发<style=red>1</style>次。",
+    "type": 2
+  },
+  {
+    "id": 363,
+    "name": "圣枪技·扬旗",
+    "editor_name": "圣枪技·扬旗",
+    "desc": "技能，[瞬发]，使自身范围3格内所有友军，获得[<sprite=2>移动1]，持续2回合，自身获得[扬旗]光环。",
+    "type": 1
+  },
+  {
+    "id": 364,
+    "name": "逆向斥力",
+    "editor_name": "逆向斥力",
+    "desc": "技能，选择自身十字范围内<style=red>1</style>个地点，造成横排<style=red>3</style>格内所有敌人<style=purple>70%</style>[范围伤害]，反向击退<style=red>2</style>格，施加目标[<style=C4><sprite=3>移动2</style>]，持续<style=red>1</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 365,
+    "name": "斥力放出",
+    "editor_name": "斥力放出",
+    "desc": "技能，选择自身十字范围内<style=red>1</style>个地点，造成横排<style=red>3</style>格内所有敌人<style=purple>90%</style>[范围伤害]，击退<style=red>2</style>格，施加目标[<style=C4><sprite=3>移动2</style>]，持续<style=red>1</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 366,
+    "name": "贯彻正义之剑",
+    "editor_name": "贯彻正义之剑",
+    "desc": "技能，单攻，造成<style=red>100%</style>物理伤害，[正面]攻击时，造成伤害提高<style=red>30%</style>。有[扬旗]光环时，技能变更为[贯彻正义之枪]。",
+    "type": 1
+  },
+  {
+    "id": 367,
+    "name": "贯彻正义之枪",
+    "editor_name": "贯彻正义之枪",
+    "desc": "技能，对目标范围<style=red>1</style>圈内所有敌人，造成<style=red>70%</style>物理伤害，没有[扬旗]光环时，技能变更为[贯彻正义之剑]。",
+    "type": 1
+  },
+  {
+    "id": 368,
+    "name": "捕兽夹",
+    "editor_name": "（废弃）捕兽夹",
+    "desc": "陷阱，角色经过或停留时，造成<style=red>10%</style>最大生命值的[穿透伤害]，打断本次行动。",
+    "type": 2
+  },
+  {
+    "id": 369,
+    "name": "属性减益",
+    "editor_name": "属性减益",
+    "desc": "属性类减益，包括：<sprite=3>攻击系列、<sprite=3>物防系列、<sprite=3>魔防系列、<sprite=3>暴击系列、<sprite=3>暴伤系列、<sprite=3>伤害系列、易伤系列、<sprite=3>速度系列、<sprite=3>受治疗、<sprite=1>受治疗、<sprite=1>治疗、<sprite=1>属性增益等减益效果。",
+    "type": 2
+  },
+  {
+    "id": 370,
+    "name": "标记",
+    "editor_name": "标记",
+    "desc": "状态，该目标已经被技能锁定。",
+    "type": 2
+  },
+  {
+    "id": 371,
+    "name": "神怒·瞬",
+    "editor_name": "重剑1段",
+    "desc": "技能，[瞬发]，选择自身十字范围内1名敌人，冲锋到其身边并造成<style=red>40%</style>伤害，击退<style=red>1</style>格。技能变更为[神怒·断]，技能保留<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 372,
+    "name": "神怒·断",
+    "editor_name": "重剑2段",
+    "desc": "技能，对目标方向<style=red>3*2</style>区域内所有敌人，造成<style=red>80%</style>伤害，施加[<sprite=3>物防2]，持续<style=red>2</style>回合。技能变更为[神怒·烈斩]，技能保留<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 373,
+    "name": "神怒·烈斩",
+    "editor_name": "重剑3段",
+    "desc": "技能，单体攻击，造成<style=red>160%</style>伤害；对目标范围<style=red>1</style>格内其他敌人，造成<style=red>40%</style>伤害，并击退<style=red>1</style>格。技能变更为[神怒·瞬]。",
+    "type": 1
+  },
+  {
+    "id": 374,
+    "name": "光辉圣域",
+    "editor_name": "光辉圣域",
+    "desc": "增益，受到伤害降低<style=red>50%</style>，受到伤害后，移除<style=red>1</style>层。",
+    "type": 1
+  },
+  {
+    "id": 375,
+    "name": "护盾",
+    "editor_name": "护盾",
+    "desc": "护盾，分为物理护盾、魔法护盾，可以分别额外抵挡物理伤害、魔法伤害。",
+    "type": 2
+  },
+  {
+    "id": 376,
+    "name": "火属性",
+    "editor_name": "火属性",
+    "desc": "状态，使可被燃烧的地形格变为[燃烧]。",
+    "type": 2
+  },
+  {
+    "id": 377,
+    "name": "冰属性",
+    "editor_name": "冰属性",
+    "desc": "状态，使地形格变为[冰冻]。",
+    "type": 2
+  },
+  {
+    "id": 378,
+    "name": "个性",
+    "editor_name": "个性",
+    "desc": "技能，每个角色的[个性]效果各不相同，具体可点击查看角色详情的[个性]栏。",
+    "type": 2
+  },
+  {
+    "id": 379,
+    "name": "减益",
+    "editor_name": "减益",
+    "desc": "指对当前角色造成不利状态的情况。",
+    "type": 2
+  },
+  {
+    "id": 380,
+    "name": "增益",
+    "editor_name": "增益",
+    "desc": "指对当前角色造成有利状态的情况。",
+    "type": 2
+  },
+  {
+    "id": 381,
+    "name": "初级雇佣弓手",
+    "editor_name": "初级雇佣弓手",
+    "desc": "守望者，被召唤的召唤物角色，拥有技能[游击]、[狙足]等。",
+    "type": 1
+  },
+  {
+    "id": 382,
+    "name": "中级雇佣弓手",
+    "editor_name": "中级雇佣弓手",
+    "desc": "守望者，被召唤的召唤物角色，拥有技能[游击]、[强力射击]等。",
+    "type": 1
+  },
+  {
+    "id": 383,
+    "name": "高级雇佣弓手",
+    "editor_name": "高级雇佣弓手",
+    "desc": "守望者，被召唤的召唤物角色，拥有技能[游击]、[强力射击]、[破空穿云箭]等。",
+    "type": 1
+  },
+  {
+    "id": 384,
+    "name": "（废弃）王国军神射手",
+    "editor_name": "王国军神射手",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 385,
+    "name": "技能",
+    "editor_name": "技能",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 386,
+    "name": "致命伤害",
+    "editor_name": "致命伤害",
+    "desc": "指这一次会造成目标被击败的攻击。",
+    "type": 2
+  },
+  {
+    "id": 387,
+    "name": "王女亲卫",
+    "editor_name": "召唤亲卫",
+    "desc": "防御者，被召唤的召唤物角色，拥有可援护防御的技能。",
+    "type": 1
+  },
+  {
+    "id": 388,
+    "name": "毁灭律令",
+    "editor_name": "毁灭律令",
+    "desc": "增益，攻防属性提高<style=red>20%</style>，最大射程增加<style=red>2</style>格，最多叠加<style=red>10</style>层。不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 389,
+    "name": "单体攻击",
+    "editor_name": "单体攻击",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 390,
+    "name": "传送",
+    "editor_name": "传送",
+    "desc": "状态，把指定角色传送到指定地形格。",
+    "type": 2
+  },
+  {
+    "id": 391,
+    "name": "物品",
+    "editor_name": "物品",
+    "desc": "指在战场上摆放的物品，可能只是装饰，或者有特别效果。",
+    "type": 2
+  },
+  {
+    "id": 392,
+    "name": "狙击姿态",
+    "editor_name": "狙击姿态",
+    "desc": "增益，远程技能最大射程增加<style=red>2</style>格。攻击、暴击率提高<style=red>15%</style>，无法移动 ，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 393,
+    "name": "侧、后方",
+    "editor_name": "侧、后方",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 394,
+    "name": "物理伤害",
+    "editor_name": "物理伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 395,
+    "name": "正面",
+    "editor_name": "正面",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 396,
+    "name": "魔法伤害",
+    "editor_name": "魔法伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 397,
+    "name": "远程攻击",
+    "editor_name": "远程攻击",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 398,
+    "name": "增益（废弃）",
+    "editor_name": "增益（废弃）",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 399,
+    "name": "灾厄护甲",
+    "editor_name": "灾厄护甲",
+    "desc": "增益，分别拥有<style=red>50%</style>生命值的物理护盾和魔法护盾，不可驱散，无法免疫。当任意护盾被击破时，消除全部护盾。",
+    "type": 1
+  },
+  {
+    "id": 400,
+    "name": "天外诫命使",
+    "editor_name": "天外诫命使",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 401,
+    "name": "护盾值",
+    "editor_name": "护盾值",
+    "desc": "指具体的护盾数值。",
+    "type": 2
+  },
+  {
+    "id": 402,
+    "name": "塔罗化身·万世绝罚",
+    "editor_name": "塔罗化身·万世绝罚",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 403,
+    "name": "背击",
+    "editor_name": "背击",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 404,
+    "name": "分身",
+    "editor_name": "分身",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 405,
+    "name": "范围伤害",
+    "editor_name": "范围伤害",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 406,
+    "name": "正、侧面",
+    "editor_name": "正、侧面",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 407,
+    "name": "火魔法",
+    "editor_name": "火魔法",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 408,
+    "name": "灾厄反噬",
+    "editor_name": "灾厄反噬",
+    "desc": "增益，无法做出任何行动，受到伤害减少<style=red>50%</style>，免疫传送，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 409,
+    "name": "烈风突入",
+    "editor_name": "烈风突入",
+    "desc": "技能，[瞬发]，选择自身十字范围内1名敌人，冲锋到其身边并造成<style=red>30%</style>[范围伤害]。",
+    "type": 1
+  },
+  {
+    "id": 410,
+    "name": "火墙陷阱",
+    "editor_name": "火墙陷阱",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 411,
+    "name": "地形格",
+    "editor_name": "地形格",
+    "desc": "状态，指角色或物品所能站立的地方。",
+    "type": 2
+  },
+  {
+    "id": 412,
+    "name": "远程伤害",
+    "editor_name": "远程伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 413,
+    "name": "近战物理攻击",
+    "editor_name": "近战物理攻击",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 414,
+    "name": "后方",
+    "editor_name": "后方",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 415,
+    "name": "克制职能",
+    "editor_name": "克制职能",
+    "desc": "指对当前角色产生克制关系的其他角色",
+    "type": 2
+  },
+  {
+    "id": 416,
+    "name": "侧面",
+    "editor_name": "侧面",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 417,
+    "name": "单体伤害",
+    "editor_name": "单体伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 418,
+    "name": "百分比伤害",
+    "editor_name": "百分比伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 419,
+    "name": "范围物理伤害",
+    "editor_name": "范围物理伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 420,
+    "name": "混合伤害",
+    "editor_name": "混合伤害",
+    "desc": "指技能伤害里包含物理伤害、魔法伤害。",
+    "type": 2
+  },
+  {
+    "id": 421,
+    "name": "远程技能",
+    "editor_name": "远程技能",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 422,
+    "name": "威胁范围",
+    "editor_name": "威胁范围",
+    "desc": "指可能受到敌人攻击的范围，由敌人攻击范围加移动范围组成。",
+    "type": 2
+  },
+  {
+    "id": 423,
+    "name": "竞技模式中效果减半",
+    "editor_name": "竞技模式中效果减半",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 424,
+    "name": "竞技模式中持续时间减半",
+    "editor_name": "竞技模式中持续时间减半",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 425,
+    "name": "迷你炸弹桶",
+    "editor_name": "迷你炸弹桶",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 426,
+    "name": "治疗技能",
+    "editor_name": "治疗技能",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 427,
+    "name": "碰撞",
+    "editor_name": "碰撞",
+    "desc": "指某角色、物品被推动后，与另一角色、物品、墙壁发生碰撞。",
+    "type": 2
+  },
+  {
+    "id": 428,
+    "name": "虚无",
+    "editor_name": "虚无",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 429,
+    "name": "近战伤害",
+    "editor_name": "近战伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 430,
+    "name": "翻越",
+    "editor_name": "翻越",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 431,
+    "name": "直线",
+    "editor_name": "直线",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 432,
+    "name": "远程单体攻击",
+    "editor_name": "远程单体攻击",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 433,
+    "name": "<sprite=2>防御2",
+    "editor_name": "▲防御2",
+    "desc": "增益，包含[<sprite=2>物防2]、[<sprite=2>魔防2]的效果。",
+    "type": 2
+  },
+  {
+    "id": 434,
+    "name": "魔法技能",
+    "editor_name": "魔法技能",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 435,
+    "name": "范围技能",
+    "editor_name": "范围技能",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 436,
+    "name": "炸弹桶",
+    "editor_name": "炸弹桶",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 437,
+    "name": "亲卫骑士",
+    "editor_name": "亲卫骑士",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 438,
+    "name": "个性技能",
+    "editor_name": "个性技能",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 439,
+    "name": "抉择",
+    "editor_name": "抉择",
+    "desc": "指可以选择不同技能使用。",
+    "type": 2
+  },
+  {
+    "id": 440,
+    "name": "空地",
+    "editor_name": "空地",
+    "desc": "地形格，指没有任何角色或物品的地形格。",
+    "type": 2
+  },
+  {
+    "id": 441,
+    "name": "移动姿态",
+    "editor_name": "移动姿态",
+    "desc": "技能，移除自身[狙击姿态]，获得[<sprite=2>速度2]，可再移动。",
+    "type": 1
+  },
+  {
+    "id": 442,
+    "name": "物理范围伤害",
+    "editor_name": "物理范围伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 443,
+    "name": "中枢",
+    "editor_name": "中枢",
+    "desc": "个性，无视[黑泥]地形格影响；攻击拥有[蚀炎]的敌人时，伤害提高<style=red>20%</style>。被击败后，受到[晕眩]，持续到战斗结束，并将自身的[个性]效果赐予其他友军。       ",
+    "type": 1
+  },
+  {
+    "id": 444,
+    "name": "黑泥",
+    "editor_name": "黑泥",
+    "desc": "地块效果，角色经过或停留时，被施加[蚀炎]，持续到战斗结束。",
+    "type": 2
+  },
+  {
+    "id": 445,
+    "name": "突击解除",
+    "editor_name": "突击解除",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 446,
+    "name": "使徒·本能",
+    "editor_name": "使徒·本能",
+    "desc": "个性，无视[黑泥]地形格影响；处于[黑泥]地形格时，伤害提高<style=red>50%</style>。被击败后，受到[晕眩]，持续到战斗结束，并将自身[个性]效果赐予其他友军。",
+    "type": 1
+  },
+  {
+    "id": 447,
+    "name": "木头人",
+    "editor_name": "木头人",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 448,
+    "name": "近战物理伤害",
+    "editor_name": "近战物理伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 449,
+    "name": "跳劈",
+    "editor_name": "跳劈",
+    "desc": "指角色跳起，然后落到目标身上，并且把目标击退1格。",
+    "type": 2
+  },
+  {
+    "id": 450,
+    "name": "范围魔法伤害",
+    "editor_name": "范围魔法伤害",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 451,
+    "name": "相邻距离算0格",
+    "editor_name": "相邻距离算0格",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 452,
+    "name": "星币共鸣",
+    "editor_name": "星币共鸣",
+    "desc": "增益，受到伤害减少<style=red>10%</style>，最多叠加<style=red>4</style>层，每次受到伤害后，移除<style=red>1</style>层。",
+    "type": 1
+  },
+  {
+    "id": 453,
+    "name": "攻防属性强强化·废弃",
+    "editor_name": "攻防属性强化·废弃",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 454,
+    "name": "集结信标",
+    "editor_name": "集结信标",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 455,
+    "name": "迫切的追逐",
+    "editor_name": "迫切的追逐",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 456,
+    "name": "休息中",
+    "editor_name": "休息中",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 457,
+    "name": "无畏冲阵",
+    "editor_name": "无畏冲阵",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 458,
+    "name": "冲阵减伤",
+    "editor_name": "冲阵减伤",
+    "desc": "增益，受到伤害降低一定百分比。",
+    "type": 1
+  },
+  {
+    "id": 459,
+    "name": "跳跃力提高",
+    "editor_name": "跳跃力提高",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 460,
+    "name": "受到环境伤害降低",
+    "editor_name": "受到环境伤害降低",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 461,
+    "name": "军旗",
+    "editor_name": "军旗",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 462,
+    "name": "塔罗·<sprite=2>速度",
+    "editor_name": "塔罗·▲速度",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 463,
+    "name": "刚背",
+    "editor_name": "刚背",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 464,
+    "name": "<sprite=2>防御1",
+    "editor_name": "▲防御1",
+    "desc": "增益，包含[<sprite=2>物防1]、[<sprite=2>魔法1]的效果。",
+    "type": 2
+  },
+  {
+    "id": 465,
+    "name": "反击次数",
+    "editor_name": "反击次数",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 466,
+    "name": "贴心治疗",
+    "editor_name": "贴心治疗",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 467,
+    "name": "无双乱舞",
+    "editor_name": "无双乱舞",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 468,
+    "name": "目不斜视",
+    "editor_name": "目不斜视",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 469,
+    "name": "请勿敲打",
+    "editor_name": "请勿敲打",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 470,
+    "name": "克制的艺术",
+    "editor_name": "克制的艺术",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 471,
+    "name": "克制职能",
+    "editor_name": "（废弃）克制职能",
+    "desc": "指对当前角色产生克制关系的其他角色",
+    "type": 2
+  },
+  {
+    "id": 472,
+    "name": "非克制职能",
+    "editor_name": "非克制职能",
+    "desc": "指没对当前角色产生克制关系的其他角色",
+    "type": 2
+  },
+  {
+    "id": 473,
+    "name": "毁灭者的不息",
+    "editor_name": "毁灭者的不息",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 474,
+    "name": "守望者的制裁",
+    "editor_name": "守望者的制裁",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 475,
+    "name": "突袭者的独行",
+    "editor_name": "突袭者的独行",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 476,
+    "name": "防御者的反击",
+    "editor_name": "防御者的反击",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 477,
+    "name": "防御者的坚盾",
+    "editor_name": "防御者的坚盾",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 478,
+    "name": "粉碎者的威慑",
+    "editor_name": "粉碎者的威慑",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 479,
+    "name": "粉碎者的坚韧",
+    "editor_name": "粉碎者的坚韧",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 480,
+    "name": "前进的预兆",
+    "editor_name": "前进的预兆",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 481,
+    "name": "哨兵的预兆",
+    "editor_name": "哨兵的预兆",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 482,
+    "name": "崩坏的预兆",
+    "editor_name": "崩坏的预兆",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 483,
+    "name": "古老的庇护",
+    "editor_name": "古老的庇护",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 484,
+    "name": "漂泊的骑士",
+    "editor_name": "漂泊的骑士",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 485,
+    "name": "<sprite=1>定身",
+    "editor_name": "×定身（以前的×控制",
+    "desc": "增益，免疫包含以下减益：[晕眩]、[睡眠]、[冰封]。",
+    "type": 2
+  },
+  {
+    "id": 486,
+    "name": "魔法伤害降低",
+    "editor_name": "魔法伤害降低",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 487,
+    "name": "圣骑士团光环",
+    "editor_name": "圣骑士团光环",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 488,
+    "name": "铃兰之主",
+    "editor_name": "铃兰之主",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 489,
+    "name": "伤害提高",
+    "editor_name": "伤害提高",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 490,
+    "name": "范围攻击",
+    "editor_name": "范围攻击",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 491,
+    "name": "环境伤害降低",
+    "editor_name": "环境伤害降低",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 492,
+    "name": "受到治疗量提高",
+    "editor_name": "受到治疗量提高",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 493,
+    "name": "强化命运道途指引此路",
+    "editor_name": "强化命运道途指引此路",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 494,
+    "name": "技能变更",
+    "editor_name": "技能变更",
+    "desc": "指当前技能更换为另一个技能",
+    "type": 2
+  },
+  {
+    "id": 495,
+    "name": "突变",
+    "editor_name": "突变",
+    "desc": "指场景环境效果。",
+    "type": 2
+  },
+  {
+    "id": 496,
+    "name": "观察视界",
+    "editor_name": "观察视界",
+    "desc": "状态，该角色正在对目标区域进行警戒，进入该区域或攻击该角色，但没在一次攻击中击败的话会惊动该角色。角色视野会被障碍物阻挡。",
+    "type": 2
+  },
+  {
+    "id": 497,
+    "name": "附加减益",
+    "editor_name": "附加减益",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 498,
+    "name": "再攻击",
+    "editor_name": "再攻击",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 499,
+    "name": "破绽",
+    "editor_name": "破绽",
+    "desc": "减益，准备期间，受到背击并造成伤害时，打断本次技能。",
+    "type": 1
+  },
+  {
+    "id": 500,
+    "name": "友情的力量",
+    "editor_name": "友情的力量",
+    "desc": "感受到了友情的力量。",
+    "type": 1
+  },
+  {
+    "id": 501,
+    "name": "平射",
+    "editor_name": "平射",
+    "desc": "指轨迹为平直的射击，受到部分障碍影响。",
+    "type": 2
+  },
+  {
+    "id": 502,
+    "name": "最终审判",
+    "editor_name": "最终审判",
+    "desc": "减益，攻击者无视携带者<style=red>30%</style>防御。",
+    "type": 1
+  },
+  {
+    "id": 503,
+    "name": "支援",
+    "editor_name": "支援",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 504,
+    "name": "治疗",
+    "editor_name": "治疗",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 505,
+    "name": "大型角色",
+    "editor_name": "大型角色",
+    "desc": "",
+    "type": 2
+  },
+  {
+    "id": 506,
+    "name": "启示",
+    "editor_name": "启示",
+    "desc": "受到了启示，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 507,
+    "name": "粉碎誓言",
+    "editor_name": "粉碎誓言",
+    "desc": "增益，获得[<sprite=2>伤害3]、[<sprite=2>移动1]。受到背刺伤害后移除该增益。不可驱散，不可免疫。",
+    "type": 1
+  },
+  {
+    "id": 508,
+    "name": "夜幕之刃",
+    "editor_name": "夜幕之刃",
+    "desc": "增益，无法被选中，伤害提高<style=red>30%</style>，主动攻击或被攻击后移除，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 509,
+    "name": "蛮牛旋风",
+    "editor_name": "蛮牛旋风",
+    "desc": "技能，对自身范围<style=red>1</style>圈内所有敌人，对造成<style=red>40%</style>物理伤害，攻击[受伤]状态的敌人时，施加[晕眩]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 510,
+    "name": "警戒射击",
+    "editor_name": "警戒射击",
+    "desc": "技能，对目标方向<style=red>3*3</style>区域进行[警戒]，可造成<style=red>100%</style>伤害，每回合最多发动<style=red>2</style>次。",
+    "type": 1
+  },
+  {
+    "id": 511,
+    "name": "寒冷",
+    "editor_name": "寒冷",
+    "desc": "光环，移动力减少<style=red>1</style>格，速度降低<style=red>50</style>点。",
+    "type": 1
+  },
+  {
+    "id": 512,
+    "name": "反击",
+    "editor_name": "反击",
+    "desc": "状态，受到单体攻击且对方在攻击范围内时，用普攻或技能进行反击，造成一定的伤害。",
+    "type": 2
+  },
+  {
+    "id": 513,
+    "name": "疲劳",
+    "editor_name": "疲劳",
+    "desc": "减益，感到了疲劳，随时晕眩。",
+    "type": 1
+  },
+  {
+    "id": 514,
+    "name": "散发瘴气",
+    "editor_name": "散发瘴气",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 515,
+    "name": "涌现瘴气",
+    "editor_name": "涌现瘴气",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 516,
+    "name": "瘴气",
+    "editor_name": "瘴气",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 517,
+    "name": "强烈瘴气",
+    "editor_name": "强烈瘴气",
+    "desc": "",
+    "type": 1
+  },
+  {
+    "id": 518,
+    "name": "认真",
+    "editor_name": "活动-大型2期-认真（挑战5）",
+    "desc": "增益，造成伤害提高<style=red>20%</style>，受到伤害降低<style=red>20%</style>，移动力增加<style=red>2</style>格，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 519,
+    "name": "荆棘之刺",
+    "editor_name": "荆棘之刺",
+    "desc": "增益，将受到的<style=red>15%</style>伤害，反弹给攻击者，最多可叠加<style=red>3</style>层，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 520,
+    "name": "刻苦",
+    "editor_name": "活动-大型2期-刻苦（挑战5）",
+    "desc": "增益，攻击力提高<style=red>20%</style>，防御提高<style=red>40%</style>，移动力增加<style=red>2</style>格，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 521,
+    "name": "射程增加",
+    "editor_name": "射程增加",
+    "desc": "增益，最大射程增加<style=red>1</style>格，最多叠加<style=red>3</style>层，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 522,
+    "name": "力量爆发",
+    "editor_name": "力量爆发",
+    "desc": "增益，造成伤害提高<style=red>7%</style>，最多叠加<style=red>3</style>层，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 523,
+    "name": "生命复苏",
+    "editor_name": "生命复苏",
+    "desc": "增益，行动结束时，回复<style=green>7%</style>生命值，最多叠加<style=red>3</style>层，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 524,
+    "name": "震惊",
+    "editor_name": "震惊",
+    "desc": "减益，无法做出任何行动，同时免疫所有伤害。",
+    "type": 1
+  },
+  {
+    "id": 525,
+    "name": "变成村长",
+    "editor_name": "变成村长",
+    "desc": "技能，将目标变为[村长]，施加[震惊]，持续<style=red>2</style>回合。无法选中精英敌人。",
+    "type": 1
+  },
+  {
+    "id": 526,
+    "name": "秘宝·冰镇瓶",
+    "editor_name": "秘宝·冰镇瓶",
+    "desc": "技能，选择1个地点，使目标范围<style=red>1</style>圈内所有己方，获得<style=red>5%</style>生命值的[<style=C4>物理护盾</style>]。使目标范围1圈内地形格强制变为[<style=C4>冰冻</style>]。",
+    "type": 1
+  },
+  {
+    "id": 527,
+    "name": "藤球之魂",
+    "editor_name": "藤球之魂",
+    "desc": "技能，对目标施加[藤球之魂]，效果：行动结束时，将自身范围<style=red>1</style>格内所有角色，击退<style=red>3</style>格。",
+    "type": 1
+  },
+  {
+    "id": 528,
+    "name": "再行动",
+    "editor_name": "再行动",
+    "desc": "指可以再次移动及再次攻击。",
+    "type": 2
+  },
+  {
+    "id": 529,
+    "name": "弱化穿甲",
+    "editor_name": "弱化穿甲",
+    "desc": "增益，攻击时，无视目标<style=red>20%</style>防御。",
+    "type": 2
+  },
+  {
+    "id": 530,
+    "name": "强化穿甲",
+    "editor_name": "强化穿甲",
+    "desc": "增益，攻击时，无视目标<style=red>70%</style>防御。",
+    "type": 2
+  },
+  {
+    "id": 531,
+    "name": "裂伤",
+    "editor_name": "裂伤",
+    "desc": "减益，行动结束时，生命值减少<style=green>10%</style>，受到持续伤害提高<style=red>20%</style>。",
+    "type": 2
+  },
+  {
+    "id": 532,
+    "name": "冥想",
+    "editor_name": "冥想",
+    "desc": "增益，行动开始时，恢复<style=red>1</style>点能量。",
+    "type": 1
+  },
+  {
+    "id": 533,
+    "name": "迟钝",
+    "editor_name": "迟钝",
+    "desc": "减益，所属控制-干扰类，受到[<sprite=1>反应技]。受到暴击后，受到[晕眩]。",
+    "type": 1
+  },
+  {
+    "id": 534,
+    "name": "力量赐福",
+    "editor_name": "力量赐福",
+    "desc": "增益，造成伤害提高<style=red>50%</style>，无法免疫，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 535,
+    "name": "迅捷赐福",
+    "editor_name": "迅捷赐福",
+    "desc": "增益，攻击后，可[再行动]，无法免疫，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 536,
+    "name": "待机",
+    "editor_name": "待机",
+    "desc": "状态，指本次行动没进行[攻击回合]，直接结束。使用[瞬发]技能，不属于进行[攻击回合]。",
+    "type": 2
+  },
+  {
+    "id": 537,
+    "name": "生命流失2",
+    "editor_name": "生命流失2",
+    "desc": "减益，行动结束时，损失<style=red>10%</style>生命值。",
+    "type": 2
+  },
+  {
+    "id": 538,
+    "name": "生命流失3",
+    "editor_name": "生命流失3",
+    "desc": "减益，行动结束时，损失物攻值<style=red>30%</style>的生命值。",
+    "type": 2
+  },
+  {
+    "id": 539,
+    "name": "光谕·耀护众生",
+    "editor_name": "光谕·耀护众生-魔法盾+",
+    "desc": "技能，使目标范围3格内所有己方，获得120%魔攻值的[魔法护盾]，不可驱散，获得[再生3]、[免疫控制]，所有效果持续2回合。",
+    "type": 1
+  },
+  {
+    "id": 540,
+    "name": "耀护众生",
+    "editor_name": "耀护众生-魔法盾",
+    "desc": "技能，使目标范围2格内所有己方，获得80%魔攻值的[魔法护盾]和[免疫定身]，不可驱散，持续2回合。",
+    "type": 1
+  },
+  {
+    "id": 541,
+    "name": "光谕·诸罪并罚",
+    "editor_name": "光谕·诸罪并罚-真·审判光束+",
+    "desc": "技能，对目标方向3*5区域内所有敌人，造成90%伤害。攻击[受伤]状态的敌人时，对目标施加[<sprite=1>不屈]，持续1回合。",
+    "type": 1
+  },
+  {
+    "id": 542,
+    "name": "诸罪并罚",
+    "editor_name": "诸罪并罚-真·审判光束",
+    "desc": "技能，对目标方向3*4区域内所有敌人，造成60%伤害。",
+    "type": 1
+  },
+  {
+    "id": 543,
+    "name": "光谕·肃清万恶",
+    "editor_name": "光谕·肃清万恶-地爆天星+",
+    "desc": "技能，准备1回合，对目标范围2格内所有敌人，造成120%伤害，施加[晕眩]，持续1回合，攻击[大型角色]时，伤害额外提高50%。继续攻击，对目标范围5格内所有敌人，造成60%伤害，施加[<sprite=1>受治疗]，持续2回合。技能释放后，跳过该回合行动。",
+    "type": 1
+  },
+  {
+    "id": 544,
+    "name": "肃清万恶",
+    "editor_name": "肃清万恶-地爆天星",
+    "desc": "技能，准备1回合，对目标范围2格内所有敌人，造成120%伤害，施加[晕眩]，持续1回合，攻击[大型角色]时，伤害额外提高50%。技能释放后，跳过该回合行动。",
+    "type": 1
+  },
+  {
+    "id": 545,
+    "name": "惩恶",
+    "editor_name": "惩恶-普攻-尖刺",
+    "desc": "技能，选择自身十字范围内1名敌人，造成2次30%魔攻值的[穿透伤害]。",
+    "type": 1
+  },
+  {
+    "id": 546,
+    "name": "光谕·惩恶",
+    "editor_name": "光谕·惩恶-普攻-尖刺+",
+    "desc": "技能，对目标方向直线5格内所有敌人，造成2次30%魔攻值的[穿透伤害]；每命中1名敌人时，回复1点能量。",
+    "type": 1
+  },
+  {
+    "id": 547,
+    "name": "过载",
+    "editor_name": "过载",
+    "desc": "增益，攻击前，每移动<style=red>1</style>格，攻击提高<style=red>10%</style>。",
+    "type": 1
+  },
+  {
+    "id": 548,
+    "name": "魅惑",
+    "editor_name": "魅惑",
+    "desc": "减益，不受控制，朝着施法者移动。",
+    "type": 1
+  },
+  {
+    "id": 549,
+    "name": "狂暴焚香",
+    "editor_name": "狂暴焚香",
+    "desc": "增益，来自装备效果，暴击率提高<style=red>100%</style>，受到伤害提高<style=red>50%</style>。",
+    "type": 1
+  },
+  {
+    "id": 550,
+    "name": "诅咒",
+    "editor_name": "诅咒",
+    "desc": "减益，状态时间结束时，受到<style=red>50%</style>生命值伤害。",
+    "type": 1
+  },
+  {
+    "id": 551,
+    "name": "肮脏",
+    "editor_name": "肮脏",
+    "desc": "地形格，肮脏的地面，角色经过或停留时，被施加[<style=C5>疲劳</style>]。",
+    "type": 2
+  },
+  {
+    "id": 552,
+    "name": "怒意爆发",
+    "editor_name": "怒意爆发",
+    "desc": "增益，攻击提高一定百分比。",
+    "type": 1
+  },
+  {
+    "id": 553,
+    "name": "神情专注",
+    "editor_name": "神情专注",
+    "desc": "增益，行动结束时，损失<style=red>5%</style>生命值，暴击率提高<style=red>5%</style>，最多叠加<style=red>10</style>层。",
+    "type": 1
+  },
+  {
+    "id": 554,
+    "name": "体格坚韧",
+    "editor_name": "体格坚韧",
+    "desc": "增益，行动结束时，损失<style=red>10%</style>生命值，防御提高<style=red>10%</style>，最多叠加<style=red>5</style>层。",
+    "type": 1
+  },
+  {
+    "id": 555,
+    "name": "蜂刺",
+    "editor_name": "蜂刺",
+    "desc": "标记，达到3层标记时，会受到额外一层[穿透攻击]，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 556,
+    "name": "听我号令",
+    "editor_name": "听我号令",
+    "desc": "增益，移动力增加<style=red>2</style>格，拥有本效果的角色可使用一次强力技能，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 557,
+    "name": "长官小心！",
+    "editor_name": "长官小心！",
+    "desc": "增益，每当[堕落骑士·科特]受到攻击时，如果自身在其范围<style=red>4</style>格内，则进行[援护防御]，每回合最多起效<style=red>1</style>次。",
+    "type": 1
+  },
+  {
+    "id": 558,
+    "name": "牺牲秘仪",
+    "editor_name": "牺牲秘仪",
+    "desc": "增益，魔攻提高<style=red>4%</style>；效果可以叠加，<style=blue>可被驱散</style>。",
+    "type": 1
+  },
+  {
+    "id": 559,
+    "name": "意志",
+    "editor_name": "意志",
+    "desc": "状态，[受伤]状态时，魔防提高<style=purple>50%</style>。",
+    "type": 2
+  },
+  {
+    "id": 560,
+    "name": "旗帜",
+    "editor_name": "旗帜",
+    "desc": "物品，场上所有己方，攻防属性提高<style=red>15%</style>，旗帜一定时间后会消失。",
+    "type": 1
+  },
+  {
+    "id": 561,
+    "name": "圣枪·朗基努斯",
+    "editor_name": "圣枪·朗基努斯",
+    "desc": "技能，对目标[空地]范围2格内所有敌人，造成80%物理范围伤害，召唤[旗帜]，但自身失去[扬旗]光环。",
+    "type": 1
+  },
+  {
+    "id": 562,
+    "name": "圣枪技·耀",
+    "editor_name": "圣枪技·耀",
+    "desc": "技能，自身范围<style=red>3</style>格所有己方，获得[<style=C4><sprite=2>攻击1</style>]、[<style=C4>免伤2</style>]，持续<style=red>2</style>回合，回复<style=green>1</style>点能量。",
+    "type": 1
+  },
+  {
+    "id": 563,
+    "name": "圣枪技·突",
+    "editor_name": "圣枪技·突",
+    "desc": "技能，选择自身十字范围内<style=red>1</style>名敌人，冲锋到其身边并造成<style=red>120%</style>物理伤害，击退<style=red>2</style>格。",
+    "type": 1
+  },
+  {
+    "id": 564,
+    "name": "活力鼓舞",
+    "editor_name": "活力鼓舞",
+    "desc": "[治愈灯桩]首次被激活时，场上所有己方获得[回复生命]，效果为：行动开始时，回复自身<style=green>20%</style>生命值，并驱散<style=red>1</style>个[减益]，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 565,
+    "name": "强袭鼓舞",
+    "editor_name": "强袭鼓舞",
+    "desc": "[强袭灯桩]首次被激活时，场上所有己方获得[<style=C4><sprite=2>伤害2</style>]。",
+    "type": 1
+  },
+  {
+    "id": 566,
+    "name": "坚韧鼓舞",
+    "editor_name": "坚韧鼓舞",
+    "desc": "（被动）[妨碍灯桩]首次被激活时，场上所有己方获得免疫[控制]、[传送]、[击退]、[打断]。",
+    "type": 1
+  },
+  {
+    "id": 567,
+    "name": "笼中说梦",
+    "editor_name": "笼中说梦",
+    "desc": "光环，自身移动力减少<style=red>2</style>格，自身范围<style=red>3</style>格内所有己方共同分摊所受伤害，免疫[属性减益]；行动结束时回复<style=green>15%</style>生命值，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 568,
+    "name": "书卷",
+    "editor_name": "书卷-邦国王子的个性陷阱",
+    "desc": "塔埃尔停留并[待机]时，回复<style=green>1</style>点能量，并获得<style=red>1</style>层[知识]。除此之外的行为，会让书卷损坏。",
+    "type": 1
+  },
+  {
+    "id": 569,
+    "name": "免疫定身",
+    "editor_name": "免疫定身（以前的免疫控制",
+    "desc": "增益，免疫包含以下减益：[晕眩]、[睡眠]、[冰封]。",
+    "type": 2
+  },
+  {
+    "id": 570,
+    "name": "免疫属性减益",
+    "editor_name": "免疫属性减益",
+    "desc": "增益，免疫属性类减益，包括：<sprite=3>攻击系列、<sprite=3>物防系列、<sprite=3>魔防系列、<sprite=3>暴击系列、<sprite=3>暴伤系列、<sprite=3>伤害系列、易伤系列、<sprite=3>速度系列、<sprite=3>受治疗、<sprite=1>受治疗、<sprite=1>治疗、<sprite=1>属性增益等减益效果。",
+    "type": 2
+  },
+  {
+    "id": 571,
+    "name": "免疫禁疗",
+    "editor_name": "免疫禁疗",
+    "desc": "增益，免疫[<style=C4><sprite=1>受治疗</style>]。",
+    "type": 2
+  },
+  {
+    "id": 572,
+    "name": "史学技能",
+    "editor_name": "史学技能",
+    "desc": "指塔埃尔的[历史真相]、[以史为鉴]、[英雄史诗]等技能。",
+    "type": 1
+  },
+  {
+    "id": 573,
+    "name": "<sprite=3>射程1",
+    "editor_name": "▼射程1",
+    "desc": "减益，远程技能最大射程减<style=red>1</style>。",
+    "type": 2
+  },
+  {
+    "id": 574,
+    "name": "骇人恶名",
+    "editor_name": "网游主线第十章-骇人恶名",
+    "desc": "状态，释放技能时，额外消耗<style=red>1</style>点能量，可以使用[正义驳斥]消除本效果。",
+    "type": 1
+  },
+  {
+    "id": 575,
+    "name": "怒意翻腾",
+    "editor_name": "网游主线第十章-怒意翻腾",
+    "desc": "状态，攻防属性提高<style=red>20%</style>，受到伤害减少<style=red>50%</style>。攻击后，可再攻击。",
+    "type": 1
+  },
+  {
+    "id": 576,
+    "name": "自乱阵脚",
+    "editor_name": "网游主线第十章-自乱阵脚",
+    "desc": "减益，自身行动开始时，获得[倒吊人标记]，持续<style=red>2</style>回合；造成伤害后，移除标记。",
+    "type": 1
+  },
+  {
+    "id": 577,
+    "name": "混沌异变·铁壁",
+    "editor_name": "混沌异变·铁壁-未用",
+    "desc": "增益，自身范围<style=red>3</style>格内所有己方，受到物理伤害降低<style=red>50%</style>，不可驱散。拥有<style=blue>【混沌异变·扭曲】</style>时，伤害增加<style=red>50%</style>，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 578,
+    "name": "混沌异变·扭曲",
+    "editor_name": "混沌异变·扭曲-未用",
+    "desc": "增益，自身范围<style=red>3</style>格内所有己方，受到魔法伤害降低<style=purple>50%</style>，不可驱散。拥有<style=blue>【混沌异变·铁壁】</style>时，伤害增加<style=red>50%</style>，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 579,
+    "name": "无限不屈",
+    "editor_name": "无限不屈",
+    "desc": "增益，被击败时，重新加入战斗，回复<style=green>1</style>点生命值，无限生效。",
+    "type": 1
+  },
+  {
+    "id": 580,
+    "name": "攻防属性强化",
+    "editor_name": "攻防属性强化",
+    "desc": "增益，攻防属性提高<style=red>15%</style>，<style=red>5</style>回合内有使徒接近第八灾厄或场上每有<style=red>1</style>个使徒被击败，该效果叠加<style=red>1</style>层，上限<style=red>3</style>层，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 581,
+    "name": "物伤减免·改",
+    "editor_name": "物伤减免·改",
+    "desc": "增益，受到物理伤害降低<style=red>70%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 582,
+    "name": "魔伤减免·改",
+    "editor_name": "魔伤减免·改",
+    "desc": "增益，受到魔法伤害降低<style=red>70%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 583,
+    "name": "回复生命",
+    "editor_name": "回复生命-未用",
+    "desc": "增益，行动开始时回复<style=green>30%</style>生命值并驱散<style=red>1</style>个[减益]，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 584,
+    "name": "无限不屈·异",
+    "editor_name": "无限不屈·异",
+    "desc": "增益，被击败时，可重新投入战斗，回复<style=green>50%</style>生命值，移动力减少<style=red>1</style>格，持续1回合，受到伤害增加<style=red>20%</style>，可叠加<style=red>5</style>层，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 585,
+    "name": "刺骨",
+    "editor_name": "活动-大型1期-刺骨",
+    "desc": "减益，<style=red>3</style>层攻防降低<style=red>10%</style>，<style=red>6</style>层触发[冻伤]，<style=red>9</style>层触发[冰封]并使[冻伤]效果翻倍。",
+    "type": 1
+  },
+  {
+    "id": 586,
+    "name": "召唤分身",
+    "editor_name": "活动-中型1期-敌方-召唤分身（挑战7）",
+    "desc": "自身达到[濒死]状态，召唤<style=red>1</style>个[分身]，召唤物继承部分属性。",
+    "type": 1
+  },
+  {
+    "id": 587,
+    "name": "枷锁",
+    "editor_name": "苏莱曼不死军用-枷锁",
+    "desc": "增益，造成伤害提高<style=red>10%</style>，受到伤害提高<style=red>5%</style>，最多叠加<style=red>3</style>层，每次受到伤害移除1层。",
+    "type": 1
+  },
+  {
+    "id": 588,
+    "name": "无畏",
+    "editor_name": "苏莱曼用-无畏",
+    "desc": "增益，攻防属性提高<style=red>5%</style>，最多叠加<style=red>3</style>层。",
+    "type": 1
+  },
+  {
+    "id": 589,
+    "name": "穿越",
+    "editor_name": "穿越",
+    "desc": "状态，指敌人行走路径可穿过自身，而不受阻挡。",
+    "type": 2
+  },
+  {
+    "id": 590,
+    "name": "暗影刺客",
+    "editor_name": "暗影刺客",
+    "desc": "毁灭者，被召唤的召唤物角色，可援护攻击，一定回合后离开战场。",
+    "type": 1
+  },
+  {
+    "id": 591,
+    "name": "杀戮之刃",
+    "editor_name": "暗影旋风",
+    "desc": "技能，对自身范围<style=red>2</style>格内所有敌人，造成<style=purple>100%</style>[范围伤害]，施加[<sprite=1>受治疗]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 592,
+    "name": "攻防降低",
+    "editor_name": "攻防降低",
+    "desc": "减益，攻击力、防御力防降低<style=red>10%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 593,
+    "name": "摔杯为号",
+    "editor_name": "歼灭指令",
+    "desc": "技能，使场上所有[暗影刺客]，立刻释放一次[杀戮之刃]。",
+    "type": 1
+  },
+  {
+    "id": 594,
+    "name": "人为财死",
+    "editor_name": "一掷千金敌",
+    "desc": "技能，[瞬发]，在目标地形格泼洒金币，将其范围<style=red>3</style>格内所有敌人及[暗影刺客]聚拢一起，并对敌人施加[<sprite=3>移动2]、[<sprite=3>魔防2]及[<sprite=1>援护]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 595,
+    "name": "重赏之下",
+    "editor_name": "一掷千金友",
+    "desc": "技能，使自身范围<style=red>3</style>格内其他友军，回复<style=green>1</style>点能量，主动技能冷却减<style=red>1</style>回合。并获得[<sprite=2>攻击2]、[<sprite=2>物防2]及[<sprite=2>魔防2]；若目标为召唤物则额外获得[<sprite=2>攻击4]，所有效果持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 596,
+    "name": "<sprite=1>回能",
+    "editor_name": "×回能",
+    "desc": "减益，行动结束时不回复能量，可免疫，不可驱散。",
+    "type": 2
+  },
+  {
+    "id": 597,
+    "name": "早餐",
+    "editor_name": "[混血儿]-早餐",
+    "desc": "增益，行动开始时，回复<style=green>15%</style>生命值，驱散<style=green>1</style>个减益。",
+    "type": 1
+  },
+  {
+    "id": 598,
+    "name": "便当",
+    "editor_name": "[混血儿]-便当",
+    "desc": "增益，行动开始时，回复<style=green>25%</style>生命值，驱散<style=green>2</style>个[减益]。",
+    "type": 1
+  },
+  {
+    "id": 599,
+    "name": "弹力绷带",
+    "editor_name": "弹力绷带",
+    "desc": "技能，[瞬发]，单体治疗，治疗量为施法者生命值的<style=green>25%</style>，每场战斗最多使用<style=red>5</style>次。",
+    "type": 1
+  },
+  {
+    "id": 600,
+    "name": "古方药剂",
+    "editor_name": "古方药剂",
+    "desc": "技能，单体治疗，治疗量为施法者生命值的<style=green>45%</style>，回复<style=green>1</style>点能量，每场战斗最多使用<style=red>3</style>次。",
+    "type": 1
+  },
+  {
+    "id": 601,
+    "name": "高山雪莲",
+    "editor_name": "高山雪莲",
+    "desc": "技能，驱散目标所有[减益]，并使其获得[<sprite=2>伤害3]、[免伤3]及[免疫属性减益]，持续<style=red>3</style>回合，每场战斗最多使用<style=red>3</style>次。",
+    "type": 1
+  },
+  {
+    "id": 602,
+    "name": "迷幻蘑菇",
+    "editor_name": "迷幻蘑菇",
+    "desc": "技能，单体攻击，造成[穿透伤害]，伤害为目标生命值的<style=red>30%</style>，并施加[睡眠]，持续<style=red>1</style>回合，再施加<style=red>2</style>层[感染]，每场战斗最多使用<style=red>3</style>次。",
+    "type": 1
+  },
+  {
+    "id": 603,
+    "name": "暗香",
+    "editor_name": "暗香",
+    "desc": "减益，被[哈斯娜]攻击时承受额外效果，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 604,
+    "name": "护盾移除",
+    "editor_name": "护盾移除",
+    "desc": "增益，攻击前移除目标身上的[物理护盾]。",
+    "type": 1
+  },
+  {
+    "id": 605,
+    "name": "流连忘形",
+    "editor_name": "流连忘形",
+    "desc": "减益，[健康]状态时，被施加[×被动技]，并且移动力减少<style=red>1</style>格。",
+    "type": 1
+  },
+  {
+    "id": 606,
+    "name": "散失的“力量”",
+    "editor_name": "活动-中型1期-敌方-散失的“力量”",
+    "desc": "每回合开始会进行扩散，己方角色停留时，即刻被击败，可被其他地形效果替代。",
+    "type": 1
+  },
+  {
+    "id": 607,
+    "name": "无影之刃",
+    "editor_name": "无影之刃",
+    "desc": "增益，闪避敌人单体攻击，并进行[反击]，对范围内敌人造成<style=red>85%</style>[物理范围伤害]。施加[易伤2]，持续<style=red>2</style>回合，自身回复<style=green>2</style>点能量。",
+    "type": 1
+  },
+  {
+    "id": 608,
+    "name": "幸福感",
+    "editor_name": "幸福感",
+    "desc": "增益，所有技能：消耗能量减少<style=red>1</style>点；使用后可产生冷却减<style=red>1</style>回合，执行任何行动后移除。",
+    "type": 1
+  },
+  {
+    "id": 609,
+    "name": "寒冰陷阱",
+    "editor_name": "活动-大型1期-寒冰陷阱",
+    "desc": "陷阱，角色停留时，造成<style=red>20%</style>生命值的[穿透伤害]。对敌方角色额外施加[<sprite=3>移动1]，持续<style=red>2</style>回合。使周围<style=red>1</style>格内地形[冰冻]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 610,
+    "name": "振翅掠袭",
+    "editor_name": "巴卢尔出击",
+    "desc": "技能，呼唤[沙欣]对单个目标造成<style=red>80%</style>伤害，并施加[<style=C4>致盲</style>]、[<style=C4><sprite=3>物防3</style>]，持续<style=red>2</style>回合。呼唤[巴卢尔]对其所在处范围<style=red>2</style>格内所有敌人造成<style=red>40%</style>伤害，<style=red>50%</style>的概率施加[致盲]，持续<style=red>1</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 611,
+    "name": "清凉微风",
+    "editor_name": "戈丽出击",
+    "desc": "技能，呼唤[戈丽]治疗目标，治疗量为自身物攻值的<style=green>80%</style>，治疗前驱散其[<style=C4><sprite=1>受治疗</style>]。呼唤[巴卢尔]治疗其所在处范围<style=red>2</style>格内所有己方，治疗量为物攻值的<style=green>40%</style>，再驱散<style=red>2</style>个[减益]。",
+    "type": 1
+  },
+  {
+    "id": 612,
+    "name": "乘胜追击·改",
+    "editor_name": "活动-大型1期-乘胜追击·改",
+    "desc": "技能，单体攻击，进行<style=red>4</style>次攻击，每次造成<style=red>40%</style>伤害。攻击后施加<style=red>5</style>层[<style=C4>刺骨</style>]，回复自身<style=green>20%</style>生命值。治疗自身范围<style=red>3</style>格内所有己方，治疗量为施法者的<style=green>15%</style>生命值。",
+    "type": 1
+  },
+  {
+    "id": 613,
+    "name": "畅谈古今",
+    "editor_name": "畅谈古今",
+    "desc": "技能，行动结束时，回复自身范围<style=red>3</style>格以内所有其他友军<style=green>1</style>点能量，再驱散<style=red>1</style>个[减益]。",
+    "type": 1
+  },
+  {
+    "id": 614,
+    "name": "冰霜光环",
+    "editor_name": "活动-大型1期-冰霜光环",
+    "desc": "增益，[无伤]状态时免疫冰冻地形。",
+    "type": 1
+  },
+  {
+    "id": 615,
+    "name": "骑士的英勇",
+    "editor_name": "骑士的英勇",
+    "desc": "使所有己方获得[<style=blue>骑士的英勇</style>]，持续<style=red>2</style>回合：\n攻击敌人[正面]时，攻击提高<style=red>50%</style>。被敌人[正面]攻击时，防御提高<style=red>40%</style>。\n被主动攻击前，使用[普攻]进行先制，被主动攻击后，使用[普攻]进行反击，每回合无限次生效。",
+    "type": 1
+  },
+  {
+    "id": 616,
+    "name": "骑士的正义",
+    "editor_name": "骑士的正义",
+    "desc": "使所有己方获得[<style=blue>骑士的正义</style>]，持续<style=red>2</style>回合：\n攻击前，驱散目标所有增益与能量。\n攻击后，恢复自身所有能量。",
+    "type": 1
+  },
+  {
+    "id": 617,
+    "name": "骑士的尊严",
+    "editor_name": "骑士的尊严",
+    "desc": "使所有己方获得[<style=blue>骑士的尊严</style>]，持续<style=red>2</style>回合：\n攻击前，对目标施加[<style=C4>眩晕</style>]，持续<style=red>1</style>回合。\n被击败时，重新加入战斗，回复<style=green>50%</style>最大生命值，每场战斗最多触发<style=red>1</style>次。",
+    "type": 1
+  },
+  {
+    "id": 618,
+    "name": "墨绿指令",
+    "editor_name": "墨绿指令",
+    "desc": "增益，获得最大生命值<style=green>80%</style>的<style=C4>物理护盾</style>和<style=C4>魔法护盾</style>。",
+    "type": 1
+  },
+  {
+    "id": 619,
+    "name": "尘白指令",
+    "editor_name": "尘白指令",
+    "desc": "增益，技能最大射程增加<style=red>2</style>格。",
+    "type": 1
+  },
+  {
+    "id": 620,
+    "name": "痛苦之源",
+    "editor_name": "痛苦之源",
+    "desc": "自身受到伤害时，将部分伤害分摊给拥有[分担痛苦]的角色。",
+    "type": 1
+  },
+  {
+    "id": 621,
+    "name": "分担痛苦",
+    "editor_name": "分担痛苦",
+    "desc": "拥有此效果的角色，会被迫分摊拥有[痛苦之源]的角色所受到的伤害。",
+    "type": 1
+  },
+  {
+    "id": 622,
+    "name": "雷鸣",
+    "editor_name": "雷鸣",
+    "desc": "增益，攻击提高<style=red>25%</style>，防御提高<style=red>20%</style>，范围伤害提高<style=red>30%</style>。",
+    "type": 1
+  },
+  {
+    "id": 623,
+    "name": "雷鸣·改",
+    "editor_name": "雷鸣·改",
+    "desc": "增益，攻击提高<style=red>25%</style>，防御提高<style=red>20%</style>，范围伤害提高<style=red>30%</style>，暴击率提高<style=red>10%</style>。",
+    "type": 1
+  },
+  {
+    "id": 624,
+    "name": "蚀炎之座·改",
+    "editor_name": "活动-中型2期-蚀炎之座·改",
+    "desc": "增益，无视[不稳定黑泥]地形格影响，处于[不稳定黑泥]地形格时，造成伤害提高<style=red>50%</style>，攻击后获得<style=red>50%</style>[生命汲取]，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 625,
+    "name": "蚀炎之轮·改",
+    "editor_name": "活动-中型2期-蚀炎之轮·改",
+    "desc": "增益，无视[不稳定黑泥]地形格影响。被击败时，站立地形格强制变为[不稳定黑泥]。",
+    "type": 1
+  },
+  {
+    "id": 626,
+    "name": "横冲直撞",
+    "editor_name": "活动-中型2期-横冲直撞",
+    "desc": "增益，免疫所有伤害，经过[不稳定黑泥]时不消耗移动力，只会直线移动，可以[翻越]敌人、中立角色，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 627,
+    "name": "战车之力·改",
+    "editor_name": "活动-中型2期-战车之力·改",
+    "desc": "增益，免疫击退和所有伤害，经过[不稳定黑泥]不消耗移动力，可以[翻越]敌人、中立角色。被击败时，可重新投入战斗，回复<style=green>50%</style>生命值并获得[<style=C4><sprite=2>伤害5</style>]，每回合生效<style=red>1</style>次，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 628,
+    "name": "蚀炎之影",
+    "editor_name": "活动-中型2期-蚀炎之影",
+    "desc": "增益，无视[不稳定黑泥]地形格影响，处于[不稳定黑泥]地形格时可无限闪避，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 629,
+    "name": "追猎·改",
+    "editor_name": "活动-大型1期-追猎·改",
+    "desc": "增益，移动力增加<style=red>2</style>格，攻击[受伤]状态的敌人时，额外回复<style=green>1</style>点能量（每回合<style=red>1</style>次），攻击处于[冰面]的敌人时，可产生20%[生命汲取]。",
+    "type": 1
+  },
+  {
+    "id": 630,
+    "name": "蚀炎之影·改",
+    "editor_name": "活动-中型2期-蚀炎之影·改",
+    "desc": "增益，无视[不稳定黑泥]地形格影响，处于[不稳定黑泥]地形格时攻击力提高<style=red>50%</style>，攻击无法被护防御]，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 631,
+    "name": "轨迹行径",
+    "editor_name": "活动-中型2期-轨迹行径",
+    "desc": "增益，免疫所有伤害，按照固定路线移动，可以[翻越]敌人、中立角色。",
+    "type": 1
+  },
+  {
+    "id": 632,
+    "name": "蚀炎之晶",
+    "editor_name": "活动-中型2期-蚀炎之晶",
+    "desc": "增益，无视[不稳定黑泥]地形格影响。被击败时，对周围<style=red>2</style>格范围敌方造成<style=red>50%</style>生命值的[穿透伤害]，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 633,
+    "name": "射程强化·冰",
+    "editor_name": "活动-大型1期-射程强化·冰",
+    "desc": "增益，暴击伤害提高<style=red>20%</style>。行动开始时，若处于[冰冻]地形格，则[远程技能]最大射程提高<style=red>1</style>格。",
+    "type": 1
+  },
+  {
+    "id": 634,
+    "name": "冰术增幅",
+    "editor_name": "活动-大型1期-冰术增幅",
+    "desc": "增益，魔防提高<style=red>50%</style>，造成伤害提高<style=red>10%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 635,
+    "name": "光术增幅",
+    "editor_name": "活动-大型1期-光术增幅",
+    "desc": "增益，物防提高<style=red>50%</style>，造成伤害提高<style=red>10%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 636,
+    "name": "生命回复·冰",
+    "editor_name": "活动-大型1期-生命回复·冰",
+    "desc": "增益，暴击率提高<style=red>20%</style>；行动结束时，若处于[冰冻]地形格，回复<style=green>10%</style>生命值。",
+    "type": 1
+  },
+  {
+    "id": 637,
+    "name": "缠绕",
+    "editor_name": "缠绕",
+    "desc": "减益，每层移动力减少<style=red>1</style>格；拥有<style=red>3</style>层时，受到[眩晕]，持续<style=red>1</style>回合，并移除所有层数。行动结束时，移除<style=red>1</style>层。",
+    "type": 1
+  },
+  {
+    "id": 638,
+    "name": "蚀炎之熵",
+    "editor_name": "活动-中型2期-蚀炎之熵",
+    "desc": "增益，速度提高<style=red>150</style>，无视[不稳定黑泥]地形格影响，行动结束对<style=red>2</style>格范围内所有敌方施加<style=red>2</style>个[持续伤害]和[<sprite=3>移动1]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 639,
+    "name": "偏斜的意志",
+    "editor_name": "偏斜的意志",
+    "desc": "获得最大生命值<style=green>80%</style>的<style=C4>魔法护盾</style>，拥有护盾时，免疫异常效果与控制效果，无法免疫，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 640,
+    "name": "战车之力",
+    "editor_name": "活动-中型2期-战车之力",
+    "desc": "增益，免疫所有伤害，经过[不稳定黑泥]不消耗移动力，可以[翻越]敌人、中立角色。被击败时，可重新投入战斗，回复<style=green>50%</style>生命值并获得[<style=C4><sprite=2>伤害5</style>]，只生效<style=red>1</style>次，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 641,
+    "name": "圣域",
+    "editor_name": "圣域",
+    "desc": "地块格，角色停留时施加<style=red>2</style>层[圣痕]，并持续到战斗结束。",
+    "type": 2
+  },
+  {
+    "id": 642,
+    "name": "魔术师之红",
+    "editor_name": "魔术师之红",
+    "desc": "减益，被施加本[减益]的角色，下一次被魔术师攻击后，魔术师立即对其范围<style=red>1</style>圈内所有己方造成<style=purple>300%</style>的魔法伤害，不可被驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 643,
+    "name": "离我远点！",
+    "editor_name": "活动-大型3期-己方-主角-离我远点！",
+    "desc": "技能，选择自身十字范围内<style=red>1</style>个地点，造成横排<style=red>3</style>格内所有敌人<style=purple>70%</style>[范围伤害]，并击退<style=red>2</style>格。",
+    "type": 1
+  },
+  {
+    "id": 644,
+    "name": "再过来点！",
+    "editor_name": "活动-大型3期-己方-主角-再过来点！",
+    "desc": "技能，选择自身十字范围内<style=red>1</style>个地点，造成横排<style=red>3</style>格内所有敌人<style=purple>50%</style>[范围伤害]，并拉拽<style=red>2</style>格。",
+    "type": 1
+  },
+  {
+    "id": 645,
+    "name": "春愿火箭",
+    "editor_name": "活动-中型2期-己方-春愿火箭",
+    "desc": "物品，被[单体技能]攻击后，驱散受击方向直线<style=red>8</style>格的地形效果并释放焰火；对范围内[灾厄]击退<style=red>1</style>格，造成<style=red>100%</style>生命值的[火属性][穿透伤害]。受到其他方式攻击则释放十字<style=red>3</style>格范围的烟火。",
+    "type": 1
+  },
+  {
+    "id": 646,
+    "name": "春愿炮仗",
+    "editor_name": "活动-中型2期-己方-春愿炮仗",
+    "desc": "物品，被攻击后会爆炸，驱散自身范围<style=red>2</style>格内的地形效果，并对[灾厄]造成<style=red>100%</style>生命值的[火属性][穿透伤害]。",
+    "type": 1
+  },
+  {
+    "id": 647,
+    "name": "本能爆发",
+    "editor_name": "本能爆发",
+    "desc": "移动力增加<style=red>2</style>格，攻击提高<style=red>30%</style>，受到伤害提高<style=red>15%</style>，无法免疫，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 648,
+    "name": "蜕变装甲",
+    "editor_name": "蜕变装甲",
+    "desc": "每次行动开始时，清除自身所有减益，无法免疫，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 649,
+    "name": "嵌合超载",
+    "editor_name": "嵌合超载",
+    "desc": "叠加至一定层数时，战斗强制失败，无法免疫，不可驱散。",
+    "type": 1
+  },
+  {
+    "id": 650,
+    "name": "不稳定黑泥",
+    "editor_name": "不稳定黑泥",
+    "desc": "地块效果，角色停留时，被施加[蚀炎·改]，持续到战斗结束。",
+    "type": 2
+  },
+  {
+    "id": 651,
+    "name": "深渊的低语",
+    "editor_name": "活动-大型3期-深渊的低语",
+    "desc": "增益，无法移动，受到攻击后在自身周围召唤<style=red>2</style>只[灾厄]，每回合最多<style=red>4</style>只。",
+    "type": 1
+  },
+  {
+    "id": 652,
+    "name": "保费上涨",
+    "editor_name": "中活3-保费上涨",
+    "desc": "状态，雇佣佣兵所需[钱袋]数量上涨，每层代表额外需要<style=yellow>1</style>个，最多<style=yellow>3</style>层。",
+    "type": 1
+  },
+  {
+    "id": 653,
+    "name": "异域之靴",
+    "editor_name": "中活3-异域之靴",
+    "desc": "增益，被单体攻击时进行[闪避]，每回合生效<style=red>2</style>次；免疫[燃烧]地形，攻击目标造成伤害后，施加[燃烧]，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 654,
+    "name": "异域之盾",
+    "editor_name": "中活3-异域之盾",
+    "desc": "增益，受到物理伤害降低<style=green>50%</style>，并为自身范围<style=red>3</style>格其他友军承受单体攻击；进行[援护防御]时，受到魔法伤害提高<style=purple>40%</style>，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 655,
+    "name": "火鼠绒山贼",
+    "editor_name": "中活3-火鼠绒山贼",
+    "desc": "突袭者，不惧火焰，可钩敌人。",
+    "type": 1
+  },
+  {
+    "id": 656,
+    "name": "火鼠绒山贼老手",
+    "editor_name": "中活3-火鼠绒山贼老手",
+    "desc": "突袭者，不惧火焰，被击败后燃烧附近一切，可警戒射击。",
+    "type": 1
+  },
+  {
+    "id": 657,
+    "name": "火鼠绒山贼精锐",
+    "editor_name": "中活3-火鼠绒山贼精锐",
+    "desc": "突袭者，不惧火焰，被击败后燃烧附近一切，可警戒射击；额外拥有[补刀]被动技。",
+    "type": 1
+  },
+  {
+    "id": 658,
+    "name": "巡游舞者",
+    "editor_name": "中活3-巡游舞者",
+    "desc": "守望者，可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还可进行范围魔法攻击。",
+    "type": 1
+  },
+  {
+    "id": 659,
+    "name": "知名舞者",
+    "editor_name": "中活3-知名舞者",
+    "desc": "守望者，可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还可进行范围魔法攻击；拥有回复友军生命值，使敌人<sprite=1>援护的光环。",
+    "type": 1
+  },
+  {
+    "id": 660,
+    "name": "明星舞者",
+    "editor_name": "中活3-明星舞者",
+    "desc": "守望者，可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还可进行范围魔法攻击；拥有回复友军生命值，使敌人<sprite=1>援护的光环；额外拥有[战意]技能。",
+    "type": 1
+  },
+  {
+    "id": 661,
+    "name": "巡游歌姬",
+    "editor_name": "中活3-巡游歌姬",
+    "desc": "守望者，可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还可使用回复生命值技能。",
+    "type": 1
+  },
+  {
+    "id": 662,
+    "name": "知名歌姬",
+    "editor_name": "中活3-知名歌姬",
+    "desc": "守望者，可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还可使用回复生命值技能；拥有回复友军生命值，使敌人<sprite=1>援护的光环。",
+    "type": 1
+  },
+  {
+    "id": 663,
+    "name": "明星歌姬",
+    "editor_name": "中活3-明星歌姬",
+    "desc": "守望者，可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还可使用回复生命值技能；拥有回复友军生命值，使敌人<sprite=1>援护的光环；额外拥有[意志]技能。",
+    "type": 1
+  },
+  {
+    "id": 664,
+    "name": "帮派战士",
+    "editor_name": "中活3-帮派战士",
+    "desc": "防御者，可范围攻击，为队友援护防御。",
+    "type": 1
+  },
+  {
+    "id": 665,
+    "name": "忠诚战士",
+    "editor_name": "中活3-忠诚战士",
+    "desc": "防御者，可范围攻击，为队友援护防御；拥有[嘲讽]，受到单体攻击时可[反击]。",
+    "type": 1
+  },
+  {
+    "id": 666,
+    "name": "狂热战士",
+    "editor_name": "中活3-狂热战士",
+    "desc": "防御者，可范围攻击，为队友援护防御；拥有[嘲讽]，受到单体攻击时可[反击]；额外拥有[利刃]技能。",
+    "type": 1
+  },
+  {
+    "id": 667,
+    "name": "星辰聚集",
+    "editor_name": "活动-大型3期-星辰聚集",
+    "desc": "增益，攻击提高<style=red>15%</style>，防御提高<style=red>40%</style>，上限<style=red>3</style>层，不可免疫。受到[碰撞]后强制驱散<style=red>1</style>层。",
+    "type": 1
+  },
+  {
+    "id": 668,
+    "name": "星辰的低语",
+    "editor_name": "活动-大型3期-星辰的低语",
+    "desc": "增益，自身无法移动，行动结束后在自身周围召唤<style=red>1</style>只灾厄。",
+    "type": 1
+  },
+  {
+    "id": 669,
+    "name": "免疫减速",
+    "editor_name": "免疫减速",
+    "desc": "增益，免疫[<sprite=3>速度]。",
+    "type": 1
+  },
+  {
+    "id": 670,
+    "name": "白花旅程",
+    "editor_name": "白花旅程",
+    "desc": "使所有己方回复<style=green>40%</style>生命值。",
+    "type": 1
+  },
+  {
+    "id": 671,
+    "name": "魔力唤醒",
+    "editor_name": "魔力唤醒",
+    "desc": "使所有己方回复全部能量，所有技能冷却时间归零。",
+    "type": 1
+  },
+  {
+    "id": 672,
+    "name": "战车之速",
+    "editor_name": "战车之速",
+    "desc": "使所有己方获得[跳跃]、移动力增加<style=red>2</style>格、速度提高<style=red>100</style>点，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 673,
+    "name": "食材——巨型蜘蛛",
+    "editor_name": "活动-大型3期-食材——巨型蜘蛛",
+    "desc": "增益，令人战栗的生物。携带者移动力减少<style=red>1</style>格，免疫击退，物攻、魔攻提高<style=red>20%</style>，无法免疫。受到攻击或被击败后将随机掉落在自身周围<style=red>3</style>格菱形。",
+    "type": 1
+  },
+  {
+    "id": 674,
+    "name": "食材的诱惑",
+    "editor_name": "活动-大型3期-敌方-食材的诱惑",
+    "desc": "增益，主动攻击后对目标造成<style=red>30%</style>生命值的[穿透伤害]，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 675,
+    "name": "食材——噗露露",
+    "editor_name": "活动-大型3期-食材——噗露露",
+    "desc": "增益，能够提炼出富有弹性果冻的食材。携带者移动力减少<style=red>1</style>格，免疫击退，被击败时，可重新投入战斗，回复<style=green>20%</style>生命值，只生效<style=red>1</style>次，无法免疫。受到攻击或被击败后将随机掉落在自身周围<style=red>3</style>格菱形。",
+    "type": 1
+  },
+  {
+    "id": 676,
+    "name": "食材——洞穴野猪",
+    "editor_name": "活动-大型3期-食材——洞穴野猪",
+    "desc": "增益，肉质厚实，让人眼馋。携带者移动力降低<style=red>1</style>格，免疫击退，物防提高<style=red>40%</style>，无法免疫。受到攻击或被击败后将随机掉落在自身周围<style=red>3</style>格菱形。",
+    "type": 1
+  },
+  {
+    "id": 677,
+    "name": "消亡",
+    "editor_name": "消亡",
+    "desc": "行为，指被击败，会触发被击败时的各种效果。",
+    "type": 2
+  },
+  {
+    "id": 680,
+    "name": "食材——野狼王",
+    "editor_name": "活动-大型3期-食材——野狼王",
+    "desc": "增益，洞穴里也难遇到的珍贵食材。携带者移动力降低<style=red>1</style>格，免疫击退，受到伤害降低<style=red>50%</style>，无法免疫。受到攻击或被击败后将随机掉落在自身周围<style=red>3</style>格菱形。",
+    "type": 1
+  },
+  {
+    "id": 681,
+    "name": "净化果实",
+    "editor_name": "净化果实",
+    "desc": "减益，物攻、魔攻降低<style=red>20%</style>，可叠加<style=red>3</style>层。",
+    "type": 1
+  },
+  {
+    "id": 682,
+    "name": "战斗虚弱",
+    "editor_name": "战斗虚弱",
+    "desc": "造成的伤害降低<style=red>50%</style>，受到[克制伤害]提升<style=red>50%</style>，效果结束后恢复<style=red>6</style>层战斗装甲。",
+    "type": 1
+  },
+  {
+    "id": 683,
+    "name": "伊甸园·生命",
+    "editor_name": "伊甸园·生命",
+    "desc": "对场上所有敌方角色造成<style=red>130%</style>[物理伤害]。\n若自身的攻击属性被削弱，则伤害降低。",
+    "type": 1
+  },
+  {
+    "id": 684,
+    "name": "失乐园·生命",
+    "editor_name": "失乐园·生命",
+    "desc": "对场上除自身外所有角色造成<style=red>80%</style>[物理伤害]。\n若自身的攻击属性被削弱，则伤害降低。",
+    "type": 1
+  },
+  {
+    "id": 685,
+    "name": "胜利祈愿",
+    "editor_name": "活动-大型3期-胜利祈愿",
+    "desc": "增益，所有范围技能的攻击范围增加<style=red>1</style>格，魔法防御提高<style=red>40%</style>，可叠加，上限<style=red>2</style>层，无法驱散，不可免疫。",
+    "type": 1
+  },
+  {
+    "id": 686,
+    "name": "重金雇佣",
+    "editor_name": "活动-大型3期-重金雇佣",
+    "desc": "雇佣<style=red>1</style>名[雇佣弓手]和<style=red>1</style>名[雇佣剑盾兵]协助战斗，可叠加，上限<style=red>2</style>层（雇佣人数增加<style=red>2</style>人），不可驱散，无法免疫。每<style=red>1</style>名雇佣兵提高[阿坎贝]<style=red>20%</style>物理防御，可叠加，上限<style=red>6</style>层。",
+    "type": 1
+  },
+  {
+    "id": 687,
+    "name": "背水一击",
+    "editor_name": "活动-大型3期-背水一击",
+    "desc": "增益，防御提高<style=red>30%</style>，背击伤害提高<style=red>30%</style>，移动力增加<style=red>1</style>格，可叠加，上限<style=red>2</style>层，不可驱散，无法免疫。",
+    "type": 1
+  },
+  {
+    "id": 688,
+    "name": "充能药剂",
+    "editor_name": "活动-大型3期-充能药剂",
+    "desc": "增益，受到伤害降低<style=red>10%</style>，造成伤害提高<style=red>10%</style>，产生<style=red>10%</style>[生命汲取]，可叠加，上限<style=red>3</style>层，无法驱散，不可免疫。",
+    "type": 1
+  },
+  {
+    "id": 689,
+    "name": "混沌的低语",
+    "editor_name": "活动-大型3期-混沌的低语",
+    "desc": "自身无法移动，每<style=red>3</style>回合在自身周围召唤数只灾厄。",
+    "type": 1
+  },
+  {
+    "id": 690,
+    "name": "星辰狂暴",
+    "editor_name": "活动-大型3期-星辰狂暴",
+    "desc": "增益，免疫所有减益；造成伤害提高<style=red>10%</style>，受到伤害降低<style=red>15%</style>，上限<style=red>5</style>层，不可免疫。受到[碰撞]后强制驱散<style=red>1</style>层。<style=red>5</style>层后将释放[星辰之力]并清除所有层数的[星辰狂暴]",
+    "type": 1
+  },
+  {
+    "id": 691,
+    "name": "星辰之力",
+    "editor_name": "活动-大型3期-星辰之力",
+    "desc": "释放星辰的力量，对所有敌方角色造成<style=green>70%</style>生命值的[<style=C4>穿透伤害</style>]，并附加<style=red>1</style>个[<style=C4>2级减益</style>]和<style=red>1</style>个[<style=C4>持续伤害</style>]，持续<style=red>2</style>回合。",
+    "type": 1
+  },
+  {
+    "id": 692,
+    "name": "眷恋",
+    "editor_name": "眷恋",
+    "desc": "增益，造成伤害后，消除目标能量与[增益]。本效果无法免疫，不可驱散，但可被[<style=red>净化果实</style>]强制驱散。",
+    "type": 1
+  },
+  {
+    "id": 693,
+    "name": "大声呼吁",
+    "editor_name": "沙盒-特殊-大声呼吁",
+    "desc": "技能，驱散目标方向<style=red>3*7</style>区域所有角色拥有的[骚动]。",
+    "type": 1
+  },
+  {
+    "id": 694,
+    "name": "全场呼吁",
+    "editor_name": "沙盒-特殊-全场呼吁",
+    "desc": "技能，驱散场上所有角色拥有的[骚动]，一场战斗只能使用<style=red>2</style>次。",
+    "type": 1
+  },
+  {
+    "id": 695,
+    "name": "伊甸园·知识",
+    "editor_name": "伊甸园·知识",
+    "desc": "对场上所有敌方角色造成<style=purple>130%</style>[魔法伤害]。\n若自身的攻击属性被削弱，则伤害降低。",
+    "type": 1
+  },
+  {
+    "id": 696,
+    "name": "失乐园·知识",
+    "editor_name": "失乐园·知识",
+    "desc": "对场上除自身外所有角色造成<style=purple>80%</style>[魔法伤害]。\n若自身的攻击属性被削弱，则伤害降低。",
+    "type": 1
+  },
+  {
+    "id": 697,
+    "name": "雇主契约·仆",
+    "editor_name": "活动-大型3期-雇主契约·仆",
+    "desc": "提高雇主[阿坎贝]<style=red>20%</style>物理防御。",
+    "type": 1
+  },
+  {
+    "id": 698,
+    "name": "喧闹",
+    "editor_name": "喧闹",
+    "desc": "增益，闪避首次单体攻击，每回合最多生效<style=red>1</style>次。",
+    "type": 1
+  },
+  {
+    "id": 699,
+    "name": "战斗虚弱·毁灭",
+    "editor_name": "战斗虚弱·毁灭",
+    "desc": "造成的伤害降低<style=red>50%</style>，受到<毁灭者>攻击的伤害提升<style=red>50%</style>，效果结束后恢复<style=red>6</style>层战斗装甲。",
+    "type": 1
+  },
+  {
+    "id": 700,
+    "name": "免疫究极",
+    "editor_name": "免疫究极",
+    "desc": "强韧，受到生命值[百分比伤害]降低<style=red>95%</style>，免疫控制、传送、击退、打断、地块效果。防御提高<style=red>40%</style>。行动结束时，驱散自身5个[减益]。",
+    "type": 1
+  },
+  {
+    "id": 704,
+    "name": "巡游演员",
+    "editor_name": "中活3-巡游演员-解释",
+    "desc": "包括：巡游歌姬，可使用回复生命值技能；巡游舞者，可进行范围魔法攻击。她们为守望者，还驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果。",
+    "type": 1
+  },
+  {
+    "id": 705,
+    "name": "知名演员",
+    "editor_name": "中活3-知名演员-解释",
+    "desc": "包括：知名歌姬，可使用回复生命值技能；知名舞者，可进行范围魔法攻击。她们为守望者，还可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还拥有回复友军生命值，使敌人<sprite=1>援护的光环。",
+    "type": 1
+  },
+  {
+    "id": 706,
+    "name": "明星演员",
+    "editor_name": "中活3-明星演员-解释",
+    "desc": "包括：明星歌姬，可使用回复生命值技能，额外拥有[意志]技能；明星舞者可进行范围魔法攻击，额外拥有[战意]技能。她们为守望者，还可驱散范围内友军[减益]，并使其获得免疫[燃烧]地形效果，还拥有回复友军生命值，使敌人<sprite=1>援护的光环。",
+    "type": 1
+  },
+  {
+    "id": 707,
+    "name": "痛苦绑缚",
+    "editor_name": "中活3-痛苦绑缚",
+    "desc": "减益，分摊拥有[异域锁链]的角色所受到的<style=red>50%</style>伤害。",
+    "type": 1
+  },
+  {
+    "id": 713,
+    "name": "荒野缚灵",
+    "editor_name": "荒野缚灵",
+    "desc": "<style=green>【荒野缚灵】</style>开始行动时，可消耗用于召唤森林狼，每回合最多召唤<style=red>4</style>只。",
+    "type": 1
+  },
+  {
+    "id": 714,
+    "name": "召唤物",
+    "editor_name": "召唤物",
+    "desc": "指通过技能所召唤出来的角色、陷阱、物品等，其与对应的普通角色、陷阱、物品的功能一致。",
+    "type": 2
+  },
+  {
+    "id": 715,
+    "name": "初级训练假人",
+    "editor_name": "初级训练假人",
+    "desc": "无职能，被召唤的召唤物角色，不能攻击，无法移动。",
+    "type": 1
+  },
+  {
+    "id": 716,
+    "name": "中级训练假人",
+    "editor_name": "中级训练假人",
+    "desc": "无职能，被召唤的召唤物角色，拥有技能[守护]，不能攻击，无法移动。",
+    "type": 1
+  },
+  {
+    "id": 717,
+    "name": "高级训练假人",
+    "editor_name": "高级训练假人",
+    "desc": "无职能，被召唤的召唤物角色，拥有技能[守护]，受到[范围伤害]降低，不能攻击，无法移动。",
+    "type": 1
+  },
+  {
+    "id": 718,
+    "name": "王国军神射手",
+    "editor_name": "王国军神射手",
+    "desc": "守望者，被召唤的召唤物角色，拥有技能[凝神]、[破空穿云箭]等。",
+    "type": 1
+  }
+]

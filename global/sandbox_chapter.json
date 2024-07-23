@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "序章0",
+    "editor_name": "P0",
+    "result_desc": "P0（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 11,
+    "name": "往",
+    "editor_name": "骑士团线P1",
+    "result_desc": "骑士团线P1（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 12,
+    "name": "第二章",
+    "editor_name": "骑士团线P2",
+    "result_desc": "骑士团线P2（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 13,
+    "name": "第三章",
+    "editor_name": "骑士团线P3",
+    "result_desc": "骑士团线P3（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 14,
+    "name": "第四章 | 第二王子",
+    "editor_name": "二王子线P4",
+    "result_desc": "第二王子线P4（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 15,
+    "name": "第五章 | 第二王子",
+    "editor_name": "二王子线P5",
+    "result_desc": "第二王子线P5（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 24,
+    "name": "第四章 | 女骑士",
+    "editor_name": "女骑士线P4",
+    "result_desc": "女骑士线P4（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 25,
+    "name": "第五章 | 女骑士",
+    "editor_name": "女骑士线P5",
+    "result_desc": "女骑士线P5（测试用）小结算结语",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 26,
+    "name": "序章1",
+    "editor_name": "P1",
+    "result_desc": "P1(测试用）",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 27,
+    "name": "共通线-第一章",
+    "editor_name": "共通线1",
+    "result_desc": "共通线1（测试用）",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 28,
+    "name": "共通线-第一章",
+    "editor_name": "共通线-第一章",
+    "result_desc": "测试",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 29,
+    "name": "共通线-第二章",
+    "editor_name": "共通线-第二章",
+    "result_desc": "测试",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 99,
+    "name": "浪涌城风波",
+    "editor_name": "0周目P0正式（CB2新增）",
+    "result_desc": "不需要结算",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 100,
+    "name": "新生的序章",
+    "editor_name": "1周目P0正式（CB2新增）",
+    "result_desc": "你远离了风暴之地，结识了新的伙伴，与美丽的铃兰相会。\n一切过往，皆为序章，命运的笔自此交由到了你的手中，\n伊利亚的未来，等待着你来书写。",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 10
+  },
+  {
+    "id": 101,
+    "name": "铃兰盛开之地",
+    "editor_name": "P1-唯一",
+    "result_desc": "被命运裹挟的我，似乎找到了一个不错的栖息之地……\n还误打误撞成为了铃兰之剑的团长，\n接下来，又会是什么在等待着我呢？",
+    "tech_point": 0,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 0
+  },
+  {
+    "id": 102,
+    "name": "独木难成林",
+    "editor_name": "P2-选骑士团",
+    "result_desc": "我也曾想过，乱世之中铃兰之剑能否独善其身……\n千钧一发之际，驱散黑暗保护了小镇却是歌洛莉亚和她的骑士们。\n无论骑士同盟为何而来，至少目前是我们唯一可以依靠的盟友。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 103,
+    "name": "城堡与骑士",
+    "editor_name": "P3-骑士团线",
+    "result_desc": "我不知我的选择是否正确，我能做的，也许只有将这条路走下去，\n赢下即将到来的战役，让铃兰之剑更加强大。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 104,
+    "name": "染血的真相",
+    "editor_name": "P4-骑士团线",
+    "result_desc": "失去拉维耶，让伙伴们陷入迷茫与痛苦之中……\n我也不例外，只是作为团长，我依然要肩负起自己的职责。\n如今局势愈发紧张，我肩负那么多人的命运，\n我会带着大家，继续走下去……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 105,
+    "name": "无心的阴谋",
+    "editor_name": "P5-进二王子线",
+    "result_desc": "浪涌城的真相已经分明。\n事到如今，为鲁特菲殿下完成他的夙愿，\n还伊利亚一个和平，依然是不变的目标。\n那么，我还犹豫什么呢？",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 106,
+    "name": "决意与过往",
+    "editor_name": "P6-二王子线",
+    "result_desc": "局势变化莫测，波诡云谲，好在我们赢下了第二次十字路会战。\n未来虽然还未分明，但是我相信，和平，不会离我们太远了。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 107,
+    "name": "雾中的未来",
+    "editor_name": "P7-二王子线结局1",
+    "result_desc": "无",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 117,
+    "name": "雾中的未来",
+    "editor_name": "P7-二王子线结局2",
+    "result_desc": "无",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 125,
+    "name": "无心的阴谋",
+    "editor_name": "P5-进歌洛莉亚线",
+    "result_desc": "事情的真相出人意料，鲁特菲殿下竟然也没有逃脱干系……\n但至少，歌洛莉亚是值得信任的……\n无论如何，接下来的第二次会战，只许胜利，不能失败……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 126,
+    "name": "正义的代价",
+    "editor_name": "P6-歌洛莉亚线",
+    "result_desc": "第二次十字路会战我们付出了惨痛的代价。\n这也许是我们必然所有经历的，\n和平之路，从来都是鲜血淋漓的战士们所铸成的。\n只是，我们能等到好的结果吗？",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 127,
+    "name": "下一个黎明",
+    "editor_name": "P7-歌洛莉亚线结局",
+    "result_desc": "",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 132,
+    "name": "独木难成林",
+    "editor_name": "P2-选王国军",
+    "result_desc": "我也曾想过，乱世之中铃兰之剑能否独善其身……\n千钧一发之际，驱散黑暗保护了小镇却是索菲亚和倒吊人。\n尽管对伊利亚王国军的所作所为有所不满，\n但身为伊利亚人，王国军确实是我们唯一可以依靠的力量。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 133,
+    "name": "远未褪去的硝烟",
+    "editor_name": "P3-王国军线",
+    "result_desc": "大战告捷，铃兰之剑用实力证明了自己。\n当然，这只是一个开始，骑士同盟不会善罢甘休，\n而我们也会继续战斗下去。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 134,
+    "name": "紧紧相连的命运",
+    "editor_name": "P4-王国军线",
+    "result_desc": "第二次十字路会战即将到来……\n这次的战役至关重要，我会带领我的部下拿下这场战役，\n为伊利亚人民，奠定和平之路的基础。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 135,
+    "name": "勿言伤痛，这是胜利的代价",
+    "editor_name": "P5-王国军线",
+    "result_desc": "赢下第二次十字路会战，本该是件值得开心的事情……\n只是，这代价未免太大了，我们牺牲了那么多的伙伴，朋友……\n这就是，和平的代价吗……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 136,
+    "name": "漫漫长夜来临",
+    "editor_name": "P6-跑路结局",
+    "result_desc": "无",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 146,
+    "name": "漫漫长夜来临",
+    "editor_name": "P6-不跑路结局",
+    "result_desc": "无",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 156,
+    "name": "尘埃暂时落下",
+    "editor_name": "P6-王国军里线结局",
+    "result_desc": "无",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 162,
+    "name": "独木难成林",
+    "editor_name": "P2-选教皇国",
+    "result_desc": "我也曾想过，乱世之中铃兰之剑能否独善其身……\n千钧一发之际，驱散黑暗保护了小镇却是庇护之光的审判者萨曼莎。\n或许罗迪尼亚法皇国不能轻易信任，\n但至少可以作为对抗黑暗之光的盟友。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 172,
+    "name": "独木难成林",
+    "editor_name": "P2-孤立无援",
+    "result_desc": "我也曾想过，铃兰之剑能否一直保持中立，\n可是现实告诉我，在这战乱之中，没有人可以独善其身……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 178,
+    "name": "驱散黑暗的光辉",
+    "editor_name": "P3-法皇国线",
+    "result_desc": "我们终于打倒了黑暗之光，解放了矿坑城，\n但也亲眼见到了无法挽回的牺牲。\n这场泯灭人性的战乱，该结束了……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 179,
+    "name": "为和平执行审判",
+    "editor_name": "P4-法皇国线",
+    "result_desc": "为了结束伊利亚的战乱，我们走上了一条布满鲜血的道路。\n这条道路的彼端，是否有着我们所乞求的和平？",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 180,
+    "name": "逐渐远去的和平",
+    "editor_name": "P5-法皇国线",
+    "result_desc": "这本该是我们离和平最近的时候，为什么会变成这样？\n和平终究离我们越来越远了吗……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 181,
+    "name": "我们在为何而战",
+    "editor_name": "P6-法皇国线-表线",
+    "result_desc": "为了和平，我们一遍又一遍地弄脏着自己的双手，\n看着一个又一个的人倒在血泊中。\n萨曼莎心中满是痛苦，我必须陪她走到最后……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 182,
+    "name": "真相与决意",
+    "editor_name": "P6-法皇国线-里线",
+    "result_desc": "法皇国的所作所为不可饶恕，所幸还不算太迟。\n来吧，是时候团结起来为真正的和平而战了！",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 183,
+    "name": "但这，是我唯一能做的了",
+    "editor_name": "P7-法皇国线-表线",
+    "result_desc": "",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 184,
+    "name": "走向，新的光辉",
+    "editor_name": "P7-法皇国线-里线",
+    "result_desc": "",
+    "tech_point": 2,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 2
+  },
+  {
+    "id": 185,
+    "name": "熙攘之影",
+    "editor_name": "P2-埃拉曼线",
+    "result_desc": "铃兰商会逐渐走上正轨，你的交换之路正式开始。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 186,
+    "name": "声名鹊起",
+    "editor_name": "P3-埃拉曼线",
+    "result_desc": "很难说铃兰节的主意是好是坏，但你们尽可能地尝试了，\n或许保持这个劲头才是关键。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 187,
+    "name": "车轮滚滚",
+    "editor_name": "P4-埃拉曼线",
+    "result_desc": "在这条颠簸的路上，你有了更多伙伴，\n因为信任，她们将马车的缰绳交给了你。",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 188,
+    "name": "交换",
+    "editor_name": "P5-埃拉曼线",
+    "result_desc": "交换，不停地交换……",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 189,
+    "name": "响叮当",
+    "editor_name": "P6-埃拉曼线全票结局",
+    "result_desc": "无",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 190,
+    "name": "林中烟火",
+    "editor_name": "P6-埃拉曼线非全票结局",
+    "result_desc": "无",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  },
+  {
+    "id": 191,
+    "name": "原野上的良夜",
+    "editor_name": "P6-埃拉曼线非主席结局",
+    "result_desc": "无",
+    "tech_point": 1,
+    "index": 0,
+    "is_sandbox_end": false,
+    "tech_point_first": 1
+  }
+]

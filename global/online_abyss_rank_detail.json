@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "深层1",
+    "battle_field_group_id": 5,
+    "opt_req_player_level": 0,
+    "score_ratio": 4,
+    "mission_buff_id": 145,
+    "icon": "character_head_aaatbossmagicianmset01",
+    "editor_name": "S1组-排行难度5",
+    "difficulty": 5
+  },
+  {
+    "id": 2,
+    "name": "深层2",
+    "battle_field_group_id": 6,
+    "opt_req_player_level": 50,
+    "score_ratio": 8,
+    "mission_buff_id": 145,
+    "icon": "character_head_aaatbossmagicianmset01",
+    "editor_name": "S1组-排行难度6",
+    "difficulty": 6
+  },
+  {
+    "id": 3,
+    "name": "深层3",
+    "battle_field_group_id": 7,
+    "opt_req_player_level": 60,
+    "score_ratio": 16,
+    "mission_buff_id": 145,
+    "icon": "character_head_aaatbossmagicianmset01",
+    "editor_name": "S1组-排行难度7",
+    "difficulty": 7
+  },
+  {
+    "id": 4,
+    "name": "深层1",
+    "battle_field_group_id": 8,
+    "opt_req_player_level": 0,
+    "score_ratio": 4,
+    "mission_buff_id": 153,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S2组-排行难度5",
+    "difficulty": 5
+  },
+  {
+    "id": 5,
+    "name": "深层2",
+    "battle_field_group_id": 9,
+    "opt_req_player_level": 50,
+    "score_ratio": 8,
+    "mission_buff_id": 153,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S2组-排行难度6",
+    "difficulty": 6
+  },
+  {
+    "id": 6,
+    "name": "深层3",
+    "battle_field_group_id": 10,
+    "opt_req_player_level": 60,
+    "score_ratio": 16,
+    "mission_buff_id": 153,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S2组-排行难度7",
+    "difficulty": 7
+  },
+  {
+    "id": 7,
+    "name": "深层1",
+    "battle_field_group_id": 11,
+    "opt_req_player_level": 0,
+    "score_ratio": 4,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S3组-排行难度5",
+    "difficulty": 5
+  },
+  {
+    "id": 8,
+    "name": "深层2",
+    "battle_field_group_id": 12,
+    "opt_req_player_level": 50,
+    "score_ratio": 8,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S3组-排行难度6",
+    "difficulty": 6
+  },
+  {
+    "id": 9,
+    "name": "深层3",
+    "battle_field_group_id": 13,
+    "opt_req_player_level": 60,
+    "score_ratio": 16,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S3组-排行难度7",
+    "difficulty": 7
+  },
+  {
+    "id": 10,
+    "name": "深层1",
+    "battle_field_group_id": 11,
+    "opt_req_player_level": 0,
+    "score_ratio": 4,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S4组-排行难度5",
+    "difficulty": 5
+  },
+  {
+    "id": 11,
+    "name": "深层2",
+    "battle_field_group_id": 12,
+    "opt_req_player_level": 50,
+    "score_ratio": 8,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S4组-排行难度6",
+    "difficulty": 6
+  },
+  {
+    "id": 12,
+    "name": "深层3",
+    "battle_field_group_id": 13,
+    "opt_req_player_level": 60,
+    "score_ratio": 16,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S4组-排行难度7",
+    "difficulty": 7
+  },
+  {
+    "id": 13,
+    "name": "深层1",
+    "battle_field_group_id": 11,
+    "opt_req_player_level": 0,
+    "score_ratio": 4,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S5组-排行难度5",
+    "difficulty": 5
+  },
+  {
+    "id": 14,
+    "name": "深层2",
+    "battle_field_group_id": 12,
+    "opt_req_player_level": 50,
+    "score_ratio": 8,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S5组-排行难度6",
+    "difficulty": 6
+  },
+  {
+    "id": 15,
+    "name": "深层3",
+    "battle_field_group_id": 13,
+    "opt_req_player_level": 60,
+    "score_ratio": 16,
+    "mission_buff_id": 156,
+    "icon": "character_head_tbossstrengthmset01",
+    "editor_name": "S5组-排行难度7",
+    "difficulty": 7
+  }
+]

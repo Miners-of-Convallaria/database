@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "require_player_level": 0,
+    "require_level": 0,
+    "money": 0,
+    "material1_id": 0,
+    "material1_count": 0,
+    "material2_id": 0,
+    "material2_count": 0,
+    "level_cap": 10
+  },
+  {
+    "id": 1,
+    "require_player_level": 10,
+    "require_level": 10,
+    "money": 500,
+    "material1_id": 1,
+    "material1_count": 3,
+    "material2_id": 0,
+    "material2_count": 0,
+    "level_cap": 20
+  },
+  {
+    "id": 2,
+    "require_player_level": 20,
+    "require_level": 20,
+    "money": 1000,
+    "material1_id": 2,
+    "material1_count": 5,
+    "material2_id": 1,
+    "material2_count": 12,
+    "level_cap": 30
+  },
+  {
+    "id": 3,
+    "require_player_level": 30,
+    "require_level": 30,
+    "money": 2500,
+    "material1_id": 2,
+    "material1_count": 15,
+    "material2_id": 1,
+    "material2_count": 20,
+    "level_cap": 40
+  },
+  {
+    "id": 4,
+    "require_player_level": 40,
+    "require_level": 40,
+    "money": 5000,
+    "material1_id": 3,
+    "material1_count": 15,
+    "material2_id": 2,
+    "material2_count": 25,
+    "level_cap": 50
+  },
+  {
+    "id": 5,
+    "require_player_level": 50,
+    "require_level": 50,
+    "money": 30000,
+    "material1_id": 4,
+    "material1_count": 65,
+    "material2_id": 3,
+    "material2_count": 45,
+    "level_cap": 60
+  }
+]

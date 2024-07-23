@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "进入战斗(JOJO)",
+    "desc": "进入战斗，最后屏幕全黑",
+    "assetbundle": "ui/scenario",
+    "timeline": "hide",
+    "perfab": "Acrossmask",
+    "type": 1,
+    "time": "0.5"
+  },
+  {
+    "id": 2,
+    "name": "速度线拉黑(往左)",
+    "desc": "黑色速度线拉黑屏幕，从右向左，最后屏幕全黑",
+    "assetbundle": "ui/scenario",
+    "timeline": "visible_left",
+    "perfab": "SpeedLineMask_visible",
+    "type": 1,
+    "time": "0.2"
+  },
+  {
+    "id": 3,
+    "name": "速度线拉黑(往右)",
+    "desc": "黑色速度线拉黑屏幕，从左向右，最后屏幕全黑",
+    "assetbundle": "ui/scenario",
+    "timeline": "visible_right",
+    "perfab": "SpeedLineMask_visible",
+    "type": 1,
+    "time": "0.2"
+  },
+  {
+    "id": 4,
+    "name": "速度线拉亮",
+    "desc": "黑色速度线拉出，最后屏幕全亮",
+    "assetbundle": "ui/scenario",
+    "timeline": "hide",
+    "perfab": "SpeedLineMask_hide",
+    "type": 1,
+    "time": "0.2"
+  },
+  {
+    "id": 5,
+    "name": "黑边逐渐下拉",
+    "desc": "黑边逐渐下拉，最后屏幕全亮",
+    "assetbundle": "ui/scenario",
+    "timeline": "hide",
+    "perfab": "Blackcurtain",
+    "type": 1,
+    "time": "1.5"
+  },
+  {
+    "id": 6,
+    "name": "地标时间字出现",
+    "desc": "左下方出字特效",
+    "assetbundle": "ui/scenario",
+    "timeline": "visible",
+    "perfab": "LocationScenario",
+    "type": 2,
+    "time": "2.5"
+  },
+  {
+    "id": 7,
+    "name": "过场字幕",
+    "desc": "屏幕中半透明黑底遮罩上一行一行显示文字",
+    "assetbundle": "ui/scenario",
+    "timeline": "visible",
+    "perfab": "TextScenario",
+    "type": 0,
+    "time": "0"
+  },
+  {
+    "id": 8,
+    "name": "闭眼全黑",
+    "desc": "上下黑边，最后屏幕全黑",
+    "assetbundle": "ui/scenario",
+    "timeline": "visible",
+    "perfab": "WeakUpScenario",
+    "type": 1,
+    "time": "1"
+  },
+  {
+    "id": 9,
+    "name": "基础黑入",
+    "desc": "基础黑入，最后屏幕全亮",
+    "assetbundle": "ui/scenario",
+    "timeline": "Fadein",
+    "perfab": "BaseBlackFadein",
+    "type": 0,
+    "time": "3"
+  },
+  {
+    "id": 10,
+    "name": "基础黑出",
+    "desc": "基础黑出，最后屏幕全黑",
+    "assetbundle": "ui/scenario",
+    "timeline": "Fadeout",
+    "perfab": "BaseBlackFadeout",
+    "type": 0,
+    "time": "3"
+  }
+]

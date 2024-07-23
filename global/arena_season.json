@@ -1,0 +1,152 @@
+[
+  {
+    "id": 2,
+    "name": "疾风山丘",
+    "editor_name": "正式赛季S1_台服",
+    "season_num": "1",
+    "start_at": 1690972800,
+    "end_at": 1693972800,
+    "template_id": 8,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 6,
+    "name": "射手丘陵",
+    "editor_name": "正式赛季S2_台服",
+    "season_num": "2",
+    "start_at": 1693972800,
+    "end_at": 1696392000,
+    "template_id": 9,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 7,
+    "name": "决胜号角",
+    "editor_name": "正式赛季S3_台服",
+    "season_num": "3",
+    "start_at": 1696392000,
+    "end_at": 1698811200,
+    "template_id": 10,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 8,
+    "name": "兵临城下",
+    "editor_name": "正式赛季S4_台服",
+    "season_num": "4",
+    "start_at": 1718553600,
+    "end_at": 1720627199,
+    "template_id": 11,
+    "operating_areas": "tw|kr|jp|us"
+  },
+  {
+    "id": 9,
+    "name": "要塞曙光",
+    "editor_name": "正式赛季S5_台服",
+    "season_num": "5",
+    "start_at": 1701230400,
+    "end_at": 1703649600,
+    "template_id": 12,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 10,
+    "name": "不落堡垒",
+    "editor_name": "正式赛季S6_台服",
+    "season_num": "6",
+    "start_at": 1703649600,
+    "end_at": 1706068800,
+    "template_id": 13,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 14,
+    "name": "兵临城下",
+    "editor_name": "正式赛季S4_国服",
+    "season_num": "4",
+    "start_at": 1700668800,
+    "end_at": 1703044800,
+    "template_id": 14,
+    "operating_areas": "cn"
+  },
+  {
+    "id": 15,
+    "name": "要塞曙光",
+    "editor_name": "正式赛季S5_国服",
+    "season_num": "5",
+    "start_at": 1703044800,
+    "end_at": 1705464000,
+    "template_id": 15,
+    "operating_areas": "cn"
+  },
+  {
+    "id": 16,
+    "name": "不落堡垒",
+    "editor_name": "正式赛季S6_国服",
+    "season_num": "6",
+    "start_at": 1705464000,
+    "end_at": 1707883200,
+    "template_id": 16,
+    "operating_areas": "cn"
+  },
+  {
+    "id": 17,
+    "name": "晶能部落",
+    "editor_name": "正式赛季S7_台服",
+    "season_num": "7",
+    "start_at": 1706068800,
+    "end_at": 1708488000,
+    "template_id": 17,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 18,
+    "name": "刺骨高地",
+    "editor_name": "正式赛季S8_台服",
+    "season_num": "8",
+    "start_at": 1708488000,
+    "end_at": 1710907200,
+    "template_id": 18,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 19,
+    "name": "决胜号角",
+    "editor_name": "正式赛季S9_台服",
+    "season_num": "9",
+    "start_at": 1710907200,
+    "end_at": 1713326400,
+    "template_id": 19,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 20,
+    "name": "晶能部落",
+    "editor_name": "正式赛季S7_国服",
+    "season_num": "7",
+    "start_at": 1707883200,
+    "end_at": 1710302400,
+    "template_id": 17,
+    "operating_areas": "cn"
+  },
+  {
+    "id": 21,
+    "name": "刺骨高地",
+    "editor_name": "正式赛季S8_国服",
+    "season_num": "8",
+    "start_at": 1710302400,
+    "end_at": 1712721600,
+    "template_id": 18,
+    "operating_areas": "cn"
+  },
+  {
+    "id": 22,
+    "name": "决胜号角",
+    "editor_name": "正式赛季S9_国服",
+    "season_num": "9",
+    "start_at": 1712721600,
+    "end_at": 1715140800,
+    "template_id": 19,
+    "operating_areas": "cn"
+  }
+]

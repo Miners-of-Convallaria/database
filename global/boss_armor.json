@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "m_boss_armor_reduces": [],
+    "name": "Boss甲1",
+    "desc": "test",
+    "damage_factor": 0,
+    "recover_turn": 2,
+    "recover_damage": 10,
+    "buff_id": 149,
+    "break_buff_id": 150,
+    "knockback_reduce": 3
+  },
+  {
+    "id": 2,
+    "m_boss_armor_reduces": [],
+    "name": "BOSS甲测试",
+    "desc": "test",
+    "damage_factor": 10,
+    "recover_turn": 2,
+    "recover_damage": 10,
+    "buff_id": 0,
+    "break_buff_id": 0,
+    "knockback_reduce": 10
+  },
+  {
+    "id": 3,
+    "m_boss_armor_reduces": [],
+    "name": "女骑士BOSS甲",
+    "desc": "承受10次攻击破甲。存在护甲时免疫控制类异常和打断，受到来自正、侧面近战伤害降低50%。",
+    "damage_factor": 1,
+    "recover_turn": 25,
+    "recover_damage": 0,
+    "buff_id": 214,
+    "break_buff_id": 0,
+    "knockback_reduce": 2
+  },
+  {
+    "id": 4,
+    "m_boss_armor_reduces": [],
+    "name": "面具刺客专用-BOSS甲",
+    "desc": "承受20次攻击破甲。破甲2回合后复原。存在护甲时免疫控制类异常、击退和打断，物理防御力、魔法防御力大幅度提升",
+    "damage_factor": 5,
+    "recover_turn": 2,
+    "recover_damage": 150,
+    "buff_id": 250,
+    "break_buff_id": 11,
+    "knockback_reduce": 1
+  },
+  {
+    "id": 5,
+    "m_boss_armor_reduces": [],
+    "name": "骑士团长奥古斯特BOSS甲",
+    "desc": "",
+    "damage_factor": 1,
+    "recover_turn": 3,
+    "recover_damage": 400,
+    "buff_id": 306,
+    "break_buff_id": 101,
+    "knockback_reduce": 1
+  }
+]

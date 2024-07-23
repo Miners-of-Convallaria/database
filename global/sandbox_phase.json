@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "type": "Free",
+    "name": "自由阶段"
+  },
+  {
+    "id": 1,
+    "type": "World",
+    "name": "世界阶段"
+  },
+  {
+    "id": 2,
+    "type": "Base",
+    "name": "基地阶段"
+  },
+  {
+    "id": 3,
+    "type": "Any",
+    "name": "回合末阶段"
+  }
+]

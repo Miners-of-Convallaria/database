@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "type": "Attack",
+    "name": "勇气的赐福",
+    "editor_name": "进攻",
+    "desc": "获取勇气的赐福，角色将获得意志的淬炼，提升战斗的勇力与技巧。",
+    "icon": "icon_blessing_bravery"
+  },
+  {
+    "id": 2,
+    "type": "Defence",
+    "name": "庇护的赐福",
+    "editor_name": "防御",
+    "desc": "获取庇护的赐福，角色将会习得异常的耐力，在防守时难被摧破。",
+    "icon": "icon_blessing_aegis"
+  },
+  {
+    "id": 3,
+    "type": "Heal",
+    "name": "仁爱的赐福",
+    "editor_name": "生存",
+    "desc": "获取仁爱的赐福，角色将会与仁慈的曙光共鸣，获得有关治愈与回复的知识。",
+    "icon": "icon_blessing_kindheartedness"
+  },
+  {
+    "id": 4,
+    "type": "Special",
+    "name": "希望的赐福",
+    "editor_name": "特殊",
+    "desc": "获取希望的赐福，角色以希望为祈祷之名，激发自身其他还未被发掘的潜能。",
+    "icon": "icon_blessing_hope"
+  }
+]

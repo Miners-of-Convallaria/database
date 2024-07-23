@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "Extra_Skill",
+    "name": "被动技能",
+    "value_name": "技能",
+    "value_type": "skill",
+    "is_value_addend": false
+  },
+  {
+    "id": 2,
+    "type": "Exp_Modify",
+    "name": "经验值调整",
+    "value_name": "百分比",
+    "value_type": "int",
+    "is_value_addend": true
+  },
+  {
+    "id": 3,
+    "type": "Morale_Cost_Modify",
+    "name": "士气消耗调整",
+    "value_name": "百分比",
+    "value_type": "int",
+    "is_value_addend": true
+  }
+]

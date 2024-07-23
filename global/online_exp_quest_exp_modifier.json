@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "level_delta_min": 0,
+    "level_delta_max": 0,
+    "modifier": 0
+  },
+  {
+    "id": 2,
+    "level_delta_min": 0,
+    "level_delta_max": 0,
+    "modifier": 50
+  },
+  {
+    "id": 3,
+    "level_delta_min": 0,
+    "level_delta_max": 0,
+    "modifier": 100
+  },
+  {
+    "id": 4,
+    "level_delta_min": 0,
+    "level_delta_max": 0,
+    "modifier": 300
+  },
+  {
+    "id": 5,
+    "level_delta_min": 0,
+    "level_delta_max": 0,
+    "modifier": 500
+  },
+  {
+    "id": 6,
+    "level_delta_min": 0,
+    "level_delta_max": 0,
+    "modifier": 600
+  },
+  {
+    "id": 7,
+    "level_delta_min": 0,
+    "level_delta_max": 0,
+    "modifier": 700
+  },
+  {
+    "id": 8,
+    "level_delta_min": 1,
+    "level_delta_max": 1,
+    "modifier": 750
+  },
+  {
+    "id": 9,
+    "level_delta_min": 2,
+    "level_delta_max": 2,
+    "modifier": 800
+  },
+  {
+    "id": 10,
+    "level_delta_min": 3,
+    "level_delta_max": 3,
+    "modifier": 850
+  },
+  {
+    "id": 11,
+    "level_delta_min": 4,
+    "level_delta_max": 4,
+    "modifier": 900
+  },
+  {
+    "id": 12,
+    "level_delta_min": 5,
+    "level_delta_max": 5,
+    "modifier": 950
+  },
+  {
+    "id": 13,
+    "level_delta_min": 6,
+    "level_delta_max": 999,
+    "modifier": 1000
+  }
+]

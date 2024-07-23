@@ -1,0 +1,7202 @@
+[
+  {
+    "id": 1,
+    "buff_rank": 1,
+    "level": 1,
+    "power": 600
+  },
+  {
+    "id": 2,
+    "buff_rank": 2,
+    "level": 1,
+    "power": 620
+  },
+  {
+    "id": 3,
+    "buff_rank": 3,
+    "level": 1,
+    "power": 640
+  },
+  {
+    "id": 4,
+    "buff_rank": 4,
+    "level": 1,
+    "power": 660
+  },
+  {
+    "id": 5,
+    "buff_rank": 5,
+    "level": 1,
+    "power": 680
+  },
+  {
+    "id": 6,
+    "buff_rank": 6,
+    "level": 1,
+    "power": 690
+  },
+  {
+    "id": 7,
+    "buff_rank": 7,
+    "level": 1,
+    "power": 710
+  },
+  {
+    "id": 8,
+    "buff_rank": 8,
+    "level": 1,
+    "power": 730
+  },
+  {
+    "id": 9,
+    "buff_rank": 9,
+    "level": 1,
+    "power": 750
+  },
+  {
+    "id": 10,
+    "buff_rank": 10,
+    "level": 1,
+    "power": 770
+  },
+  {
+    "id": 11,
+    "buff_rank": 11,
+    "level": 1,
+    "power": 790
+  },
+  {
+    "id": 12,
+    "buff_rank": 12,
+    "level": 1,
+    "power": 820
+  },
+  {
+    "id": 13,
+    "buff_rank": 13,
+    "level": 1,
+    "power": 840
+  },
+  {
+    "id": 14,
+    "buff_rank": 14,
+    "level": 1,
+    "power": 870
+  },
+  {
+    "id": 15,
+    "buff_rank": 15,
+    "level": 1,
+    "power": 890
+  },
+  {
+    "id": 16,
+    "buff_rank": 16,
+    "level": 1,
+    "power": 910
+  },
+  {
+    "id": 17,
+    "buff_rank": 17,
+    "level": 1,
+    "power": 940
+  },
+  {
+    "id": 18,
+    "buff_rank": 18,
+    "level": 1,
+    "power": 960
+  },
+  {
+    "id": 19,
+    "buff_rank": 19,
+    "level": 1,
+    "power": 990
+  },
+  {
+    "id": 20,
+    "buff_rank": 20,
+    "level": 1,
+    "power": 1010
+  },
+  {
+    "id": 21,
+    "buff_rank": 1,
+    "level": 2,
+    "power": 620
+  },
+  {
+    "id": 22,
+    "buff_rank": 2,
+    "level": 2,
+    "power": 640
+  },
+  {
+    "id": 23,
+    "buff_rank": 3,
+    "level": 2,
+    "power": 660
+  },
+  {
+    "id": 24,
+    "buff_rank": 4,
+    "level": 2,
+    "power": 680
+  },
+  {
+    "id": 25,
+    "buff_rank": 5,
+    "level": 2,
+    "power": 700
+  },
+  {
+    "id": 26,
+    "buff_rank": 6,
+    "level": 2,
+    "power": 720
+  },
+  {
+    "id": 27,
+    "buff_rank": 7,
+    "level": 2,
+    "power": 740
+  },
+  {
+    "id": 28,
+    "buff_rank": 8,
+    "level": 2,
+    "power": 760
+  },
+  {
+    "id": 29,
+    "buff_rank": 9,
+    "level": 2,
+    "power": 780
+  },
+  {
+    "id": 30,
+    "buff_rank": 10,
+    "level": 2,
+    "power": 800
+  },
+  {
+    "id": 31,
+    "buff_rank": 11,
+    "level": 2,
+    "power": 830
+  },
+  {
+    "id": 32,
+    "buff_rank": 12,
+    "level": 2,
+    "power": 860
+  },
+  {
+    "id": 33,
+    "buff_rank": 13,
+    "level": 2,
+    "power": 880
+  },
+  {
+    "id": 34,
+    "buff_rank": 14,
+    "level": 2,
+    "power": 910
+  },
+  {
+    "id": 35,
+    "buff_rank": 15,
+    "level": 2,
+    "power": 940
+  },
+  {
+    "id": 36,
+    "buff_rank": 16,
+    "level": 2,
+    "power": 970
+  },
+  {
+    "id": 37,
+    "buff_rank": 17,
+    "level": 2,
+    "power": 1000
+  },
+  {
+    "id": 38,
+    "buff_rank": 18,
+    "level": 2,
+    "power": 1020
+  },
+  {
+    "id": 39,
+    "buff_rank": 19,
+    "level": 2,
+    "power": 1050
+  },
+  {
+    "id": 40,
+    "buff_rank": 20,
+    "level": 2,
+    "power": 1080
+  },
+  {
+    "id": 41,
+    "buff_rank": 1,
+    "level": 3,
+    "power": 640
+  },
+  {
+    "id": 42,
+    "buff_rank": 2,
+    "level": 3,
+    "power": 660
+  },
+  {
+    "id": 43,
+    "buff_rank": 3,
+    "level": 3,
+    "power": 680
+  },
+  {
+    "id": 44,
+    "buff_rank": 4,
+    "level": 3,
+    "power": 700
+  },
+  {
+    "id": 45,
+    "buff_rank": 5,
+    "level": 3,
+    "power": 720
+  },
+  {
+    "id": 46,
+    "buff_rank": 6,
+    "level": 3,
+    "power": 740
+  },
+  {
+    "id": 47,
+    "buff_rank": 7,
+    "level": 3,
+    "power": 760
+  },
+  {
+    "id": 48,
+    "buff_rank": 8,
+    "level": 3,
+    "power": 780
+  },
+  {
+    "id": 49,
+    "buff_rank": 9,
+    "level": 3,
+    "power": 800
+  },
+  {
+    "id": 50,
+    "buff_rank": 10,
+    "level": 3,
+    "power": 820
+  },
+  {
+    "id": 51,
+    "buff_rank": 11,
+    "level": 3,
+    "power": 850
+  },
+  {
+    "id": 52,
+    "buff_rank": 12,
+    "level": 3,
+    "power": 880
+  },
+  {
+    "id": 53,
+    "buff_rank": 13,
+    "level": 3,
+    "power": 920
+  },
+  {
+    "id": 54,
+    "buff_rank": 14,
+    "level": 3,
+    "power": 950
+  },
+  {
+    "id": 55,
+    "buff_rank": 15,
+    "level": 3,
+    "power": 980
+  },
+  {
+    "id": 56,
+    "buff_rank": 16,
+    "level": 3,
+    "power": 1010
+  },
+  {
+    "id": 57,
+    "buff_rank": 17,
+    "level": 3,
+    "power": 1040
+  },
+  {
+    "id": 58,
+    "buff_rank": 18,
+    "level": 3,
+    "power": 1080
+  },
+  {
+    "id": 59,
+    "buff_rank": 19,
+    "level": 3,
+    "power": 1110
+  },
+  {
+    "id": 60,
+    "buff_rank": 20,
+    "level": 3,
+    "power": 1140
+  },
+  {
+    "id": 61,
+    "buff_rank": 1,
+    "level": 4,
+    "power": 660
+  },
+  {
+    "id": 62,
+    "buff_rank": 2,
+    "level": 4,
+    "power": 680
+  },
+  {
+    "id": 63,
+    "buff_rank": 3,
+    "level": 4,
+    "power": 700
+  },
+  {
+    "id": 64,
+    "buff_rank": 4,
+    "level": 4,
+    "power": 720
+  },
+  {
+    "id": 65,
+    "buff_rank": 5,
+    "level": 4,
+    "power": 740
+  },
+  {
+    "id": 66,
+    "buff_rank": 6,
+    "level": 4,
+    "power": 770
+  },
+  {
+    "id": 67,
+    "buff_rank": 7,
+    "level": 4,
+    "power": 790
+  },
+  {
+    "id": 68,
+    "buff_rank": 8,
+    "level": 4,
+    "power": 810
+  },
+  {
+    "id": 69,
+    "buff_rank": 9,
+    "level": 4,
+    "power": 830
+  },
+  {
+    "id": 70,
+    "buff_rank": 10,
+    "level": 4,
+    "power": 850
+  },
+  {
+    "id": 71,
+    "buff_rank": 11,
+    "level": 4,
+    "power": 890
+  },
+  {
+    "id": 72,
+    "buff_rank": 12,
+    "level": 4,
+    "power": 920
+  },
+  {
+    "id": 73,
+    "buff_rank": 13,
+    "level": 4,
+    "power": 960
+  },
+  {
+    "id": 74,
+    "buff_rank": 14,
+    "level": 4,
+    "power": 990
+  },
+  {
+    "id": 75,
+    "buff_rank": 15,
+    "level": 4,
+    "power": 1030
+  },
+  {
+    "id": 76,
+    "buff_rank": 16,
+    "level": 4,
+    "power": 1060
+  },
+  {
+    "id": 77,
+    "buff_rank": 17,
+    "level": 4,
+    "power": 1100
+  },
+  {
+    "id": 78,
+    "buff_rank": 18,
+    "level": 4,
+    "power": 1130
+  },
+  {
+    "id": 79,
+    "buff_rank": 19,
+    "level": 4,
+    "power": 1170
+  },
+  {
+    "id": 80,
+    "buff_rank": 20,
+    "level": 4,
+    "power": 1200
+  },
+  {
+    "id": 81,
+    "buff_rank": 1,
+    "level": 5,
+    "power": 680
+  },
+  {
+    "id": 82,
+    "buff_rank": 2,
+    "level": 5,
+    "power": 710
+  },
+  {
+    "id": 83,
+    "buff_rank": 3,
+    "level": 5,
+    "power": 740
+  },
+  {
+    "id": 84,
+    "buff_rank": 4,
+    "level": 5,
+    "power": 770
+  },
+  {
+    "id": 85,
+    "buff_rank": 5,
+    "level": 5,
+    "power": 800
+  },
+  {
+    "id": 86,
+    "buff_rank": 6,
+    "level": 5,
+    "power": 840
+  },
+  {
+    "id": 87,
+    "buff_rank": 7,
+    "level": 5,
+    "power": 870
+  },
+  {
+    "id": 88,
+    "buff_rank": 8,
+    "level": 5,
+    "power": 900
+  },
+  {
+    "id": 89,
+    "buff_rank": 9,
+    "level": 5,
+    "power": 930
+  },
+  {
+    "id": 90,
+    "buff_rank": 10,
+    "level": 5,
+    "power": 960
+  },
+  {
+    "id": 91,
+    "buff_rank": 11,
+    "level": 5,
+    "power": 1000
+  },
+  {
+    "id": 92,
+    "buff_rank": 12,
+    "level": 5,
+    "power": 1040
+  },
+  {
+    "id": 93,
+    "buff_rank": 13,
+    "level": 5,
+    "power": 1080
+  },
+  {
+    "id": 94,
+    "buff_rank": 14,
+    "level": 5,
+    "power": 1120
+  },
+  {
+    "id": 95,
+    "buff_rank": 15,
+    "level": 5,
+    "power": 1160
+  },
+  {
+    "id": 96,
+    "buff_rank": 16,
+    "level": 5,
+    "power": 1200
+  },
+  {
+    "id": 97,
+    "buff_rank": 17,
+    "level": 5,
+    "power": 1240
+  },
+  {
+    "id": 98,
+    "buff_rank": 18,
+    "level": 5,
+    "power": 1280
+  },
+  {
+    "id": 99,
+    "buff_rank": 19,
+    "level": 5,
+    "power": 1320
+  },
+  {
+    "id": 100,
+    "buff_rank": 20,
+    "level": 5,
+    "power": 1360
+  },
+  {
+    "id": 101,
+    "buff_rank": 1,
+    "level": 6,
+    "power": 700
+  },
+  {
+    "id": 102,
+    "buff_rank": 2,
+    "level": 6,
+    "power": 730
+  },
+  {
+    "id": 103,
+    "buff_rank": 3,
+    "level": 6,
+    "power": 760
+  },
+  {
+    "id": 104,
+    "buff_rank": 4,
+    "level": 6,
+    "power": 800
+  },
+  {
+    "id": 105,
+    "buff_rank": 5,
+    "level": 6,
+    "power": 830
+  },
+  {
+    "id": 106,
+    "buff_rank": 6,
+    "level": 6,
+    "power": 860
+  },
+  {
+    "id": 107,
+    "buff_rank": 7,
+    "level": 6,
+    "power": 890
+  },
+  {
+    "id": 108,
+    "buff_rank": 8,
+    "level": 6,
+    "power": 930
+  },
+  {
+    "id": 109,
+    "buff_rank": 9,
+    "level": 6,
+    "power": 960
+  },
+  {
+    "id": 110,
+    "buff_rank": 10,
+    "level": 6,
+    "power": 990
+  },
+  {
+    "id": 111,
+    "buff_rank": 11,
+    "level": 6,
+    "power": 1030
+  },
+  {
+    "id": 112,
+    "buff_rank": 12,
+    "level": 6,
+    "power": 1080
+  },
+  {
+    "id": 113,
+    "buff_rank": 13,
+    "level": 6,
+    "power": 1120
+  },
+  {
+    "id": 114,
+    "buff_rank": 14,
+    "level": 6,
+    "power": 1160
+  },
+  {
+    "id": 115,
+    "buff_rank": 15,
+    "level": 6,
+    "power": 1210
+  },
+  {
+    "id": 116,
+    "buff_rank": 16,
+    "level": 6,
+    "power": 1250
+  },
+  {
+    "id": 117,
+    "buff_rank": 17,
+    "level": 6,
+    "power": 1290
+  },
+  {
+    "id": 118,
+    "buff_rank": 18,
+    "level": 6,
+    "power": 1330
+  },
+  {
+    "id": 119,
+    "buff_rank": 19,
+    "level": 6,
+    "power": 1380
+  },
+  {
+    "id": 120,
+    "buff_rank": 20,
+    "level": 6,
+    "power": 1420
+  },
+  {
+    "id": 121,
+    "buff_rank": 1,
+    "level": 7,
+    "power": 720
+  },
+  {
+    "id": 122,
+    "buff_rank": 2,
+    "level": 7,
+    "power": 750
+  },
+  {
+    "id": 123,
+    "buff_rank": 3,
+    "level": 7,
+    "power": 780
+  },
+  {
+    "id": 124,
+    "buff_rank": 4,
+    "level": 7,
+    "power": 820
+  },
+  {
+    "id": 125,
+    "buff_rank": 5,
+    "level": 7,
+    "power": 850
+  },
+  {
+    "id": 126,
+    "buff_rank": 6,
+    "level": 7,
+    "power": 880
+  },
+  {
+    "id": 127,
+    "buff_rank": 7,
+    "level": 7,
+    "power": 910
+  },
+  {
+    "id": 128,
+    "buff_rank": 8,
+    "level": 7,
+    "power": 950
+  },
+  {
+    "id": 129,
+    "buff_rank": 9,
+    "level": 7,
+    "power": 980
+  },
+  {
+    "id": 130,
+    "buff_rank": 10,
+    "level": 7,
+    "power": 1010
+  },
+  {
+    "id": 131,
+    "buff_rank": 11,
+    "level": 7,
+    "power": 1060
+  },
+  {
+    "id": 132,
+    "buff_rank": 12,
+    "level": 7,
+    "power": 1100
+  },
+  {
+    "id": 133,
+    "buff_rank": 13,
+    "level": 7,
+    "power": 1150
+  },
+  {
+    "id": 134,
+    "buff_rank": 14,
+    "level": 7,
+    "power": 1200
+  },
+  {
+    "id": 135,
+    "buff_rank": 15,
+    "level": 7,
+    "power": 1250
+  },
+  {
+    "id": 136,
+    "buff_rank": 16,
+    "level": 7,
+    "power": 1290
+  },
+  {
+    "id": 137,
+    "buff_rank": 17,
+    "level": 7,
+    "power": 1340
+  },
+  {
+    "id": 138,
+    "buff_rank": 18,
+    "level": 7,
+    "power": 1390
+  },
+  {
+    "id": 139,
+    "buff_rank": 19,
+    "level": 7,
+    "power": 1430
+  },
+  {
+    "id": 140,
+    "buff_rank": 20,
+    "level": 7,
+    "power": 1480
+  },
+  {
+    "id": 141,
+    "buff_rank": 1,
+    "level": 8,
+    "power": 730
+  },
+  {
+    "id": 142,
+    "buff_rank": 2,
+    "level": 8,
+    "power": 760
+  },
+  {
+    "id": 143,
+    "buff_rank": 3,
+    "level": 8,
+    "power": 800
+  },
+  {
+    "id": 144,
+    "buff_rank": 4,
+    "level": 8,
+    "power": 830
+  },
+  {
+    "id": 145,
+    "buff_rank": 5,
+    "level": 8,
+    "power": 870
+  },
+  {
+    "id": 146,
+    "buff_rank": 6,
+    "level": 8,
+    "power": 900
+  },
+  {
+    "id": 147,
+    "buff_rank": 7,
+    "level": 8,
+    "power": 940
+  },
+  {
+    "id": 148,
+    "buff_rank": 8,
+    "level": 8,
+    "power": 970
+  },
+  {
+    "id": 149,
+    "buff_rank": 9,
+    "level": 8,
+    "power": 1010
+  },
+  {
+    "id": 150,
+    "buff_rank": 10,
+    "level": 8,
+    "power": 1040
+  },
+  {
+    "id": 151,
+    "buff_rank": 11,
+    "level": 8,
+    "power": 1090
+  },
+  {
+    "id": 152,
+    "buff_rank": 12,
+    "level": 8,
+    "power": 1140
+  },
+  {
+    "id": 153,
+    "buff_rank": 13,
+    "level": 8,
+    "power": 1190
+  },
+  {
+    "id": 154,
+    "buff_rank": 14,
+    "level": 8,
+    "power": 1240
+  },
+  {
+    "id": 155,
+    "buff_rank": 15,
+    "level": 8,
+    "power": 1300
+  },
+  {
+    "id": 156,
+    "buff_rank": 16,
+    "level": 8,
+    "power": 1350
+  },
+  {
+    "id": 157,
+    "buff_rank": 17,
+    "level": 8,
+    "power": 1400
+  },
+  {
+    "id": 158,
+    "buff_rank": 18,
+    "level": 8,
+    "power": 1450
+  },
+  {
+    "id": 159,
+    "buff_rank": 19,
+    "level": 8,
+    "power": 1500
+  },
+  {
+    "id": 160,
+    "buff_rank": 20,
+    "level": 8,
+    "power": 1550
+  },
+  {
+    "id": 161,
+    "buff_rank": 1,
+    "level": 9,
+    "power": 750
+  },
+  {
+    "id": 162,
+    "buff_rank": 2,
+    "level": 9,
+    "power": 780
+  },
+  {
+    "id": 163,
+    "buff_rank": 3,
+    "level": 9,
+    "power": 820
+  },
+  {
+    "id": 164,
+    "buff_rank": 4,
+    "level": 9,
+    "power": 850
+  },
+  {
+    "id": 165,
+    "buff_rank": 5,
+    "level": 9,
+    "power": 890
+  },
+  {
+    "id": 166,
+    "buff_rank": 6,
+    "level": 9,
+    "power": 920
+  },
+  {
+    "id": 167,
+    "buff_rank": 7,
+    "level": 9,
+    "power": 960
+  },
+  {
+    "id": 168,
+    "buff_rank": 8,
+    "level": 9,
+    "power": 990
+  },
+  {
+    "id": 169,
+    "buff_rank": 9,
+    "level": 9,
+    "power": 1030
+  },
+  {
+    "id": 170,
+    "buff_rank": 10,
+    "level": 9,
+    "power": 1060
+  },
+  {
+    "id": 171,
+    "buff_rank": 11,
+    "level": 9,
+    "power": 1120
+  },
+  {
+    "id": 172,
+    "buff_rank": 12,
+    "level": 9,
+    "power": 1170
+  },
+  {
+    "id": 173,
+    "buff_rank": 13,
+    "level": 9,
+    "power": 1230
+  },
+  {
+    "id": 174,
+    "buff_rank": 14,
+    "level": 9,
+    "power": 1290
+  },
+  {
+    "id": 175,
+    "buff_rank": 15,
+    "level": 9,
+    "power": 1350
+  },
+  {
+    "id": 176,
+    "buff_rank": 16,
+    "level": 9,
+    "power": 1400
+  },
+  {
+    "id": 177,
+    "buff_rank": 17,
+    "level": 9,
+    "power": 1460
+  },
+  {
+    "id": 178,
+    "buff_rank": 18,
+    "level": 9,
+    "power": 1520
+  },
+  {
+    "id": 179,
+    "buff_rank": 19,
+    "level": 9,
+    "power": 1570
+  },
+  {
+    "id": 180,
+    "buff_rank": 20,
+    "level": 9,
+    "power": 1630
+  },
+  {
+    "id": 181,
+    "buff_rank": 1,
+    "level": 10,
+    "power": 770
+  },
+  {
+    "id": 182,
+    "buff_rank": 2,
+    "level": 10,
+    "power": 820
+  },
+  {
+    "id": 183,
+    "buff_rank": 3,
+    "level": 10,
+    "power": 870
+  },
+  {
+    "id": 184,
+    "buff_rank": 4,
+    "level": 10,
+    "power": 910
+  },
+  {
+    "id": 185,
+    "buff_rank": 5,
+    "level": 10,
+    "power": 960
+  },
+  {
+    "id": 186,
+    "buff_rank": 6,
+    "level": 10,
+    "power": 1010
+  },
+  {
+    "id": 187,
+    "buff_rank": 7,
+    "level": 10,
+    "power": 1060
+  },
+  {
+    "id": 188,
+    "buff_rank": 8,
+    "level": 10,
+    "power": 1100
+  },
+  {
+    "id": 189,
+    "buff_rank": 9,
+    "level": 10,
+    "power": 1150
+  },
+  {
+    "id": 190,
+    "buff_rank": 10,
+    "level": 10,
+    "power": 1200
+  },
+  {
+    "id": 191,
+    "buff_rank": 11,
+    "level": 10,
+    "power": 1270
+  },
+  {
+    "id": 192,
+    "buff_rank": 12,
+    "level": 10,
+    "power": 1330
+  },
+  {
+    "id": 193,
+    "buff_rank": 13,
+    "level": 10,
+    "power": 1400
+  },
+  {
+    "id": 194,
+    "buff_rank": 14,
+    "level": 10,
+    "power": 1460
+  },
+  {
+    "id": 195,
+    "buff_rank": 15,
+    "level": 10,
+    "power": 1530
+  },
+  {
+    "id": 196,
+    "buff_rank": 16,
+    "level": 10,
+    "power": 1600
+  },
+  {
+    "id": 197,
+    "buff_rank": 17,
+    "level": 10,
+    "power": 1660
+  },
+  {
+    "id": 198,
+    "buff_rank": 18,
+    "level": 10,
+    "power": 1730
+  },
+  {
+    "id": 199,
+    "buff_rank": 19,
+    "level": 10,
+    "power": 1790
+  },
+  {
+    "id": 200,
+    "buff_rank": 20,
+    "level": 10,
+    "power": 1860
+  },
+  {
+    "id": 201,
+    "buff_rank": 1,
+    "level": 11,
+    "power": 790
+  },
+  {
+    "id": 202,
+    "buff_rank": 2,
+    "level": 11,
+    "power": 840
+  },
+  {
+    "id": 203,
+    "buff_rank": 3,
+    "level": 11,
+    "power": 890
+  },
+  {
+    "id": 204,
+    "buff_rank": 4,
+    "level": 11,
+    "power": 940
+  },
+  {
+    "id": 205,
+    "buff_rank": 5,
+    "level": 11,
+    "power": 990
+  },
+  {
+    "id": 206,
+    "buff_rank": 6,
+    "level": 11,
+    "power": 1030
+  },
+  {
+    "id": 207,
+    "buff_rank": 7,
+    "level": 11,
+    "power": 1080
+  },
+  {
+    "id": 208,
+    "buff_rank": 8,
+    "level": 11,
+    "power": 1130
+  },
+  {
+    "id": 209,
+    "buff_rank": 9,
+    "level": 11,
+    "power": 1180
+  },
+  {
+    "id": 210,
+    "buff_rank": 10,
+    "level": 11,
+    "power": 1230
+  },
+  {
+    "id": 211,
+    "buff_rank": 11,
+    "level": 11,
+    "power": 1300
+  },
+  {
+    "id": 212,
+    "buff_rank": 12,
+    "level": 11,
+    "power": 1370
+  },
+  {
+    "id": 213,
+    "buff_rank": 13,
+    "level": 11,
+    "power": 1440
+  },
+  {
+    "id": 214,
+    "buff_rank": 14,
+    "level": 11,
+    "power": 1510
+  },
+  {
+    "id": 215,
+    "buff_rank": 15,
+    "level": 11,
+    "power": 1590
+  },
+  {
+    "id": 216,
+    "buff_rank": 16,
+    "level": 11,
+    "power": 1660
+  },
+  {
+    "id": 217,
+    "buff_rank": 17,
+    "level": 11,
+    "power": 1730
+  },
+  {
+    "id": 218,
+    "buff_rank": 18,
+    "level": 11,
+    "power": 1800
+  },
+  {
+    "id": 219,
+    "buff_rank": 19,
+    "level": 11,
+    "power": 1870
+  },
+  {
+    "id": 220,
+    "buff_rank": 20,
+    "level": 11,
+    "power": 1940
+  },
+  {
+    "id": 221,
+    "buff_rank": 1,
+    "level": 12,
+    "power": 810
+  },
+  {
+    "id": 222,
+    "buff_rank": 2,
+    "level": 12,
+    "power": 860
+  },
+  {
+    "id": 223,
+    "buff_rank": 3,
+    "level": 12,
+    "power": 910
+  },
+  {
+    "id": 224,
+    "buff_rank": 4,
+    "level": 12,
+    "power": 960
+  },
+  {
+    "id": 225,
+    "buff_rank": 5,
+    "level": 12,
+    "power": 1010
+  },
+  {
+    "id": 226,
+    "buff_rank": 6,
+    "level": 12,
+    "power": 1050
+  },
+  {
+    "id": 227,
+    "buff_rank": 7,
+    "level": 12,
+    "power": 1100
+  },
+  {
+    "id": 228,
+    "buff_rank": 8,
+    "level": 12,
+    "power": 1150
+  },
+  {
+    "id": 229,
+    "buff_rank": 9,
+    "level": 12,
+    "power": 1200
+  },
+  {
+    "id": 230,
+    "buff_rank": 10,
+    "level": 12,
+    "power": 1250
+  },
+  {
+    "id": 231,
+    "buff_rank": 11,
+    "level": 12,
+    "power": 1330
+  },
+  {
+    "id": 232,
+    "buff_rank": 12,
+    "level": 12,
+    "power": 1400
+  },
+  {
+    "id": 233,
+    "buff_rank": 13,
+    "level": 12,
+    "power": 1480
+  },
+  {
+    "id": 234,
+    "buff_rank": 14,
+    "level": 12,
+    "power": 1560
+  },
+  {
+    "id": 235,
+    "buff_rank": 15,
+    "level": 12,
+    "power": 1640
+  },
+  {
+    "id": 236,
+    "buff_rank": 16,
+    "level": 12,
+    "power": 1710
+  },
+  {
+    "id": 237,
+    "buff_rank": 17,
+    "level": 12,
+    "power": 1790
+  },
+  {
+    "id": 238,
+    "buff_rank": 18,
+    "level": 12,
+    "power": 1870
+  },
+  {
+    "id": 239,
+    "buff_rank": 19,
+    "level": 12,
+    "power": 1940
+  },
+  {
+    "id": 240,
+    "buff_rank": 20,
+    "level": 12,
+    "power": 2020
+  },
+  {
+    "id": 241,
+    "buff_rank": 1,
+    "level": 13,
+    "power": 830
+  },
+  {
+    "id": 242,
+    "buff_rank": 2,
+    "level": 13,
+    "power": 880
+  },
+  {
+    "id": 243,
+    "buff_rank": 3,
+    "level": 13,
+    "power": 930
+  },
+  {
+    "id": 244,
+    "buff_rank": 4,
+    "level": 13,
+    "power": 980
+  },
+  {
+    "id": 245,
+    "buff_rank": 5,
+    "level": 13,
+    "power": 1030
+  },
+  {
+    "id": 246,
+    "buff_rank": 6,
+    "level": 13,
+    "power": 1080
+  },
+  {
+    "id": 247,
+    "buff_rank": 7,
+    "level": 13,
+    "power": 1130
+  },
+  {
+    "id": 248,
+    "buff_rank": 8,
+    "level": 13,
+    "power": 1180
+  },
+  {
+    "id": 249,
+    "buff_rank": 9,
+    "level": 13,
+    "power": 1230
+  },
+  {
+    "id": 250,
+    "buff_rank": 10,
+    "level": 13,
+    "power": 1280
+  },
+  {
+    "id": 251,
+    "buff_rank": 11,
+    "level": 13,
+    "power": 1360
+  },
+  {
+    "id": 252,
+    "buff_rank": 12,
+    "level": 13,
+    "power": 1440
+  },
+  {
+    "id": 253,
+    "buff_rank": 13,
+    "level": 13,
+    "power": 1530
+  },
+  {
+    "id": 254,
+    "buff_rank": 14,
+    "level": 13,
+    "power": 1610
+  },
+  {
+    "id": 255,
+    "buff_rank": 15,
+    "level": 13,
+    "power": 1690
+  },
+  {
+    "id": 256,
+    "buff_rank": 16,
+    "level": 13,
+    "power": 1770
+  },
+  {
+    "id": 257,
+    "buff_rank": 17,
+    "level": 13,
+    "power": 1850
+  },
+  {
+    "id": 258,
+    "buff_rank": 18,
+    "level": 13,
+    "power": 1940
+  },
+  {
+    "id": 259,
+    "buff_rank": 19,
+    "level": 13,
+    "power": 2020
+  },
+  {
+    "id": 260,
+    "buff_rank": 20,
+    "level": 13,
+    "power": 2100
+  },
+  {
+    "id": 261,
+    "buff_rank": 1,
+    "level": 14,
+    "power": 850
+  },
+  {
+    "id": 262,
+    "buff_rank": 2,
+    "level": 14,
+    "power": 900
+  },
+  {
+    "id": 263,
+    "buff_rank": 3,
+    "level": 14,
+    "power": 950
+  },
+  {
+    "id": 264,
+    "buff_rank": 4,
+    "level": 14,
+    "power": 1000
+  },
+  {
+    "id": 265,
+    "buff_rank": 5,
+    "level": 14,
+    "power": 1050
+  },
+  {
+    "id": 266,
+    "buff_rank": 6,
+    "level": 14,
+    "power": 1110
+  },
+  {
+    "id": 267,
+    "buff_rank": 7,
+    "level": 14,
+    "power": 1160
+  },
+  {
+    "id": 268,
+    "buff_rank": 8,
+    "level": 14,
+    "power": 1210
+  },
+  {
+    "id": 269,
+    "buff_rank": 9,
+    "level": 14,
+    "power": 1260
+  },
+  {
+    "id": 270,
+    "buff_rank": 10,
+    "level": 14,
+    "power": 1310
+  },
+  {
+    "id": 271,
+    "buff_rank": 11,
+    "level": 14,
+    "power": 1400
+  },
+  {
+    "id": 272,
+    "buff_rank": 12,
+    "level": 14,
+    "power": 1490
+  },
+  {
+    "id": 273,
+    "buff_rank": 13,
+    "level": 14,
+    "power": 1570
+  },
+  {
+    "id": 274,
+    "buff_rank": 14,
+    "level": 14,
+    "power": 1660
+  },
+  {
+    "id": 275,
+    "buff_rank": 15,
+    "level": 14,
+    "power": 1750
+  },
+  {
+    "id": 276,
+    "buff_rank": 16,
+    "level": 14,
+    "power": 1840
+  },
+  {
+    "id": 277,
+    "buff_rank": 17,
+    "level": 14,
+    "power": 1930
+  },
+  {
+    "id": 278,
+    "buff_rank": 18,
+    "level": 14,
+    "power": 2010
+  },
+  {
+    "id": 279,
+    "buff_rank": 19,
+    "level": 14,
+    "power": 2100
+  },
+  {
+    "id": 280,
+    "buff_rank": 20,
+    "level": 14,
+    "power": 2190
+  },
+  {
+    "id": 281,
+    "buff_rank": 1,
+    "level": 15,
+    "power": 870
+  },
+  {
+    "id": 282,
+    "buff_rank": 2,
+    "level": 15,
+    "power": 930
+  },
+  {
+    "id": 283,
+    "buff_rank": 3,
+    "level": 15,
+    "power": 990
+  },
+  {
+    "id": 284,
+    "buff_rank": 4,
+    "level": 15,
+    "power": 1050
+  },
+  {
+    "id": 285,
+    "buff_rank": 5,
+    "level": 15,
+    "power": 1110
+  },
+  {
+    "id": 286,
+    "buff_rank": 6,
+    "level": 15,
+    "power": 1180
+  },
+  {
+    "id": 287,
+    "buff_rank": 7,
+    "level": 15,
+    "power": 1240
+  },
+  {
+    "id": 288,
+    "buff_rank": 8,
+    "level": 15,
+    "power": 1300
+  },
+  {
+    "id": 289,
+    "buff_rank": 9,
+    "level": 15,
+    "power": 1360
+  },
+  {
+    "id": 290,
+    "buff_rank": 10,
+    "level": 15,
+    "power": 1420
+  },
+  {
+    "id": 291,
+    "buff_rank": 11,
+    "level": 15,
+    "power": 1510
+  },
+  {
+    "id": 292,
+    "buff_rank": 12,
+    "level": 15,
+    "power": 1610
+  },
+  {
+    "id": 293,
+    "buff_rank": 13,
+    "level": 15,
+    "power": 1700
+  },
+  {
+    "id": 294,
+    "buff_rank": 14,
+    "level": 15,
+    "power": 1800
+  },
+  {
+    "id": 295,
+    "buff_rank": 15,
+    "level": 15,
+    "power": 1890
+  },
+  {
+    "id": 296,
+    "buff_rank": 16,
+    "level": 15,
+    "power": 1980
+  },
+  {
+    "id": 297,
+    "buff_rank": 17,
+    "level": 15,
+    "power": 2080
+  },
+  {
+    "id": 298,
+    "buff_rank": 18,
+    "level": 15,
+    "power": 2170
+  },
+  {
+    "id": 299,
+    "buff_rank": 19,
+    "level": 15,
+    "power": 2270
+  },
+  {
+    "id": 300,
+    "buff_rank": 20,
+    "level": 15,
+    "power": 2360
+  },
+  {
+    "id": 301,
+    "buff_rank": 1,
+    "level": 16,
+    "power": 890
+  },
+  {
+    "id": 302,
+    "buff_rank": 2,
+    "level": 16,
+    "power": 980
+  },
+  {
+    "id": 303,
+    "buff_rank": 3,
+    "level": 16,
+    "power": 1060
+  },
+  {
+    "id": 304,
+    "buff_rank": 4,
+    "level": 16,
+    "power": 1150
+  },
+  {
+    "id": 305,
+    "buff_rank": 5,
+    "level": 16,
+    "power": 1230
+  },
+  {
+    "id": 306,
+    "buff_rank": 6,
+    "level": 16,
+    "power": 1320
+  },
+  {
+    "id": 307,
+    "buff_rank": 7,
+    "level": 16,
+    "power": 1400
+  },
+  {
+    "id": 308,
+    "buff_rank": 8,
+    "level": 16,
+    "power": 1490
+  },
+  {
+    "id": 309,
+    "buff_rank": 9,
+    "level": 16,
+    "power": 1570
+  },
+  {
+    "id": 310,
+    "buff_rank": 10,
+    "level": 16,
+    "power": 1660
+  },
+  {
+    "id": 311,
+    "buff_rank": 11,
+    "level": 16,
+    "power": 1760
+  },
+  {
+    "id": 312,
+    "buff_rank": 12,
+    "level": 16,
+    "power": 1860
+  },
+  {
+    "id": 313,
+    "buff_rank": 13,
+    "level": 16,
+    "power": 1960
+  },
+  {
+    "id": 314,
+    "buff_rank": 14,
+    "level": 16,
+    "power": 2060
+  },
+  {
+    "id": 315,
+    "buff_rank": 15,
+    "level": 16,
+    "power": 2160
+  },
+  {
+    "id": 316,
+    "buff_rank": 16,
+    "level": 16,
+    "power": 2260
+  },
+  {
+    "id": 317,
+    "buff_rank": 17,
+    "level": 16,
+    "power": 2360
+  },
+  {
+    "id": 318,
+    "buff_rank": 18,
+    "level": 16,
+    "power": 2460
+  },
+  {
+    "id": 319,
+    "buff_rank": 19,
+    "level": 16,
+    "power": 2560
+  },
+  {
+    "id": 320,
+    "buff_rank": 20,
+    "level": 16,
+    "power": 2660
+  },
+  {
+    "id": 321,
+    "buff_rank": 1,
+    "level": 17,
+    "power": 910
+  },
+  {
+    "id": 322,
+    "buff_rank": 2,
+    "level": 17,
+    "power": 1000
+  },
+  {
+    "id": 323,
+    "buff_rank": 3,
+    "level": 17,
+    "power": 1080
+  },
+  {
+    "id": 324,
+    "buff_rank": 4,
+    "level": 17,
+    "power": 1170
+  },
+  {
+    "id": 325,
+    "buff_rank": 5,
+    "level": 17,
+    "power": 1260
+  },
+  {
+    "id": 326,
+    "buff_rank": 6,
+    "level": 17,
+    "power": 1340
+  },
+  {
+    "id": 327,
+    "buff_rank": 7,
+    "level": 17,
+    "power": 1430
+  },
+  {
+    "id": 328,
+    "buff_rank": 8,
+    "level": 17,
+    "power": 1520
+  },
+  {
+    "id": 329,
+    "buff_rank": 9,
+    "level": 17,
+    "power": 1600
+  },
+  {
+    "id": 330,
+    "buff_rank": 10,
+    "level": 17,
+    "power": 1690
+  },
+  {
+    "id": 331,
+    "buff_rank": 11,
+    "level": 17,
+    "power": 1800
+  },
+  {
+    "id": 332,
+    "buff_rank": 12,
+    "level": 17,
+    "power": 1900
+  },
+  {
+    "id": 333,
+    "buff_rank": 13,
+    "level": 17,
+    "power": 2010
+  },
+  {
+    "id": 334,
+    "buff_rank": 14,
+    "level": 17,
+    "power": 2110
+  },
+  {
+    "id": 335,
+    "buff_rank": 15,
+    "level": 17,
+    "power": 2220
+  },
+  {
+    "id": 336,
+    "buff_rank": 16,
+    "level": 17,
+    "power": 2330
+  },
+  {
+    "id": 337,
+    "buff_rank": 17,
+    "level": 17,
+    "power": 2430
+  },
+  {
+    "id": 338,
+    "buff_rank": 18,
+    "level": 17,
+    "power": 2540
+  },
+  {
+    "id": 339,
+    "buff_rank": 19,
+    "level": 17,
+    "power": 2640
+  },
+  {
+    "id": 340,
+    "buff_rank": 20,
+    "level": 17,
+    "power": 2750
+  },
+  {
+    "id": 341,
+    "buff_rank": 1,
+    "level": 18,
+    "power": 930
+  },
+  {
+    "id": 342,
+    "buff_rank": 2,
+    "level": 18,
+    "power": 1020
+  },
+  {
+    "id": 343,
+    "buff_rank": 3,
+    "level": 18,
+    "power": 1100
+  },
+  {
+    "id": 344,
+    "buff_rank": 4,
+    "level": 18,
+    "power": 1190
+  },
+  {
+    "id": 345,
+    "buff_rank": 5,
+    "level": 18,
+    "power": 1280
+  },
+  {
+    "id": 346,
+    "buff_rank": 6,
+    "level": 18,
+    "power": 1360
+  },
+  {
+    "id": 347,
+    "buff_rank": 7,
+    "level": 18,
+    "power": 1450
+  },
+  {
+    "id": 348,
+    "buff_rank": 8,
+    "level": 18,
+    "power": 1540
+  },
+  {
+    "id": 349,
+    "buff_rank": 9,
+    "level": 18,
+    "power": 1620
+  },
+  {
+    "id": 350,
+    "buff_rank": 10,
+    "level": 18,
+    "power": 1710
+  },
+  {
+    "id": 351,
+    "buff_rank": 11,
+    "level": 18,
+    "power": 1820
+  },
+  {
+    "id": 352,
+    "buff_rank": 12,
+    "level": 18,
+    "power": 1930
+  },
+  {
+    "id": 353,
+    "buff_rank": 13,
+    "level": 18,
+    "power": 2050
+  },
+  {
+    "id": 354,
+    "buff_rank": 14,
+    "level": 18,
+    "power": 2160
+  },
+  {
+    "id": 355,
+    "buff_rank": 15,
+    "level": 18,
+    "power": 2270
+  },
+  {
+    "id": 356,
+    "buff_rank": 16,
+    "level": 18,
+    "power": 2380
+  },
+  {
+    "id": 357,
+    "buff_rank": 17,
+    "level": 18,
+    "power": 2490
+  },
+  {
+    "id": 358,
+    "buff_rank": 18,
+    "level": 18,
+    "power": 2610
+  },
+  {
+    "id": 359,
+    "buff_rank": 19,
+    "level": 18,
+    "power": 2720
+  },
+  {
+    "id": 360,
+    "buff_rank": 20,
+    "level": 18,
+    "power": 2830
+  },
+  {
+    "id": 361,
+    "buff_rank": 1,
+    "level": 19,
+    "power": 950
+  },
+  {
+    "id": 362,
+    "buff_rank": 2,
+    "level": 19,
+    "power": 1040
+  },
+  {
+    "id": 363,
+    "buff_rank": 3,
+    "level": 19,
+    "power": 1130
+  },
+  {
+    "id": 364,
+    "buff_rank": 4,
+    "level": 19,
+    "power": 1210
+  },
+  {
+    "id": 365,
+    "buff_rank": 5,
+    "level": 19,
+    "power": 1300
+  },
+  {
+    "id": 366,
+    "buff_rank": 6,
+    "level": 19,
+    "power": 1390
+  },
+  {
+    "id": 367,
+    "buff_rank": 7,
+    "level": 19,
+    "power": 1480
+  },
+  {
+    "id": 368,
+    "buff_rank": 8,
+    "level": 19,
+    "power": 1560
+  },
+  {
+    "id": 369,
+    "buff_rank": 9,
+    "level": 19,
+    "power": 1650
+  },
+  {
+    "id": 370,
+    "buff_rank": 10,
+    "level": 19,
+    "power": 1740
+  },
+  {
+    "id": 371,
+    "buff_rank": 11,
+    "level": 19,
+    "power": 1860
+  },
+  {
+    "id": 372,
+    "buff_rank": 12,
+    "level": 19,
+    "power": 1970
+  },
+  {
+    "id": 373,
+    "buff_rank": 13,
+    "level": 19,
+    "power": 2090
+  },
+  {
+    "id": 374,
+    "buff_rank": 14,
+    "level": 19,
+    "power": 2210
+  },
+  {
+    "id": 375,
+    "buff_rank": 15,
+    "level": 19,
+    "power": 2330
+  },
+  {
+    "id": 376,
+    "buff_rank": 16,
+    "level": 19,
+    "power": 2440
+  },
+  {
+    "id": 377,
+    "buff_rank": 17,
+    "level": 19,
+    "power": 2560
+  },
+  {
+    "id": 378,
+    "buff_rank": 18,
+    "level": 19,
+    "power": 2680
+  },
+  {
+    "id": 379,
+    "buff_rank": 19,
+    "level": 19,
+    "power": 2790
+  },
+  {
+    "id": 380,
+    "buff_rank": 20,
+    "level": 19,
+    "power": 2910
+  },
+  {
+    "id": 381,
+    "buff_rank": 1,
+    "level": 20,
+    "power": 960
+  },
+  {
+    "id": 382,
+    "buff_rank": 2,
+    "level": 20,
+    "power": 1060
+  },
+  {
+    "id": 383,
+    "buff_rank": 3,
+    "level": 20,
+    "power": 1170
+  },
+  {
+    "id": 384,
+    "buff_rank": 4,
+    "level": 20,
+    "power": 1270
+  },
+  {
+    "id": 385,
+    "buff_rank": 5,
+    "level": 20,
+    "power": 1370
+  },
+  {
+    "id": 386,
+    "buff_rank": 6,
+    "level": 20,
+    "power": 1480
+  },
+  {
+    "id": 387,
+    "buff_rank": 7,
+    "level": 20,
+    "power": 1580
+  },
+  {
+    "id": 388,
+    "buff_rank": 8,
+    "level": 20,
+    "power": 1680
+  },
+  {
+    "id": 389,
+    "buff_rank": 9,
+    "level": 20,
+    "power": 1790
+  },
+  {
+    "id": 390,
+    "buff_rank": 10,
+    "level": 20,
+    "power": 1890
+  },
+  {
+    "id": 391,
+    "buff_rank": 11,
+    "level": 20,
+    "power": 2030
+  },
+  {
+    "id": 392,
+    "buff_rank": 12,
+    "level": 20,
+    "power": 2160
+  },
+  {
+    "id": 393,
+    "buff_rank": 13,
+    "level": 20,
+    "power": 2300
+  },
+  {
+    "id": 394,
+    "buff_rank": 14,
+    "level": 20,
+    "power": 2430
+  },
+  {
+    "id": 395,
+    "buff_rank": 15,
+    "level": 20,
+    "power": 2570
+  },
+  {
+    "id": 396,
+    "buff_rank": 16,
+    "level": 20,
+    "power": 2700
+  },
+  {
+    "id": 397,
+    "buff_rank": 17,
+    "level": 20,
+    "power": 2840
+  },
+  {
+    "id": 398,
+    "buff_rank": 18,
+    "level": 20,
+    "power": 2970
+  },
+  {
+    "id": 399,
+    "buff_rank": 19,
+    "level": 20,
+    "power": 3110
+  },
+  {
+    "id": 400,
+    "buff_rank": 20,
+    "level": 20,
+    "power": 3240
+  },
+  {
+    "id": 401,
+    "buff_rank": 1,
+    "level": 21,
+    "power": 980
+  },
+  {
+    "id": 402,
+    "buff_rank": 2,
+    "level": 21,
+    "power": 1080
+  },
+  {
+    "id": 403,
+    "buff_rank": 3,
+    "level": 21,
+    "power": 1190
+  },
+  {
+    "id": 404,
+    "buff_rank": 4,
+    "level": 21,
+    "power": 1290
+  },
+  {
+    "id": 405,
+    "buff_rank": 5,
+    "level": 21,
+    "power": 1400
+  },
+  {
+    "id": 406,
+    "buff_rank": 6,
+    "level": 21,
+    "power": 1500
+  },
+  {
+    "id": 407,
+    "buff_rank": 7,
+    "level": 21,
+    "power": 1610
+  },
+  {
+    "id": 408,
+    "buff_rank": 8,
+    "level": 21,
+    "power": 1710
+  },
+  {
+    "id": 409,
+    "buff_rank": 9,
+    "level": 21,
+    "power": 1820
+  },
+  {
+    "id": 410,
+    "buff_rank": 10,
+    "level": 21,
+    "power": 1920
+  },
+  {
+    "id": 411,
+    "buff_rank": 11,
+    "level": 21,
+    "power": 2060
+  },
+  {
+    "id": 412,
+    "buff_rank": 12,
+    "level": 21,
+    "power": 2200
+  },
+  {
+    "id": 413,
+    "buff_rank": 13,
+    "level": 21,
+    "power": 2340
+  },
+  {
+    "id": 414,
+    "buff_rank": 14,
+    "level": 21,
+    "power": 2480
+  },
+  {
+    "id": 415,
+    "buff_rank": 15,
+    "level": 21,
+    "power": 2630
+  },
+  {
+    "id": 416,
+    "buff_rank": 16,
+    "level": 21,
+    "power": 2770
+  },
+  {
+    "id": 417,
+    "buff_rank": 17,
+    "level": 21,
+    "power": 2910
+  },
+  {
+    "id": 418,
+    "buff_rank": 18,
+    "level": 21,
+    "power": 3050
+  },
+  {
+    "id": 419,
+    "buff_rank": 19,
+    "level": 21,
+    "power": 3190
+  },
+  {
+    "id": 420,
+    "buff_rank": 20,
+    "level": 21,
+    "power": 3330
+  },
+  {
+    "id": 421,
+    "buff_rank": 1,
+    "level": 22,
+    "power": 1000
+  },
+  {
+    "id": 422,
+    "buff_rank": 2,
+    "level": 22,
+    "power": 1100
+  },
+  {
+    "id": 423,
+    "buff_rank": 3,
+    "level": 22,
+    "power": 1210
+  },
+  {
+    "id": 424,
+    "buff_rank": 4,
+    "level": 22,
+    "power": 1310
+  },
+  {
+    "id": 425,
+    "buff_rank": 5,
+    "level": 22,
+    "power": 1420
+  },
+  {
+    "id": 426,
+    "buff_rank": 6,
+    "level": 22,
+    "power": 1520
+  },
+  {
+    "id": 427,
+    "buff_rank": 7,
+    "level": 22,
+    "power": 1630
+  },
+  {
+    "id": 428,
+    "buff_rank": 8,
+    "level": 22,
+    "power": 1730
+  },
+  {
+    "id": 429,
+    "buff_rank": 9,
+    "level": 22,
+    "power": 1840
+  },
+  {
+    "id": 430,
+    "buff_rank": 10,
+    "level": 22,
+    "power": 1940
+  },
+  {
+    "id": 431,
+    "buff_rank": 11,
+    "level": 22,
+    "power": 2090
+  },
+  {
+    "id": 432,
+    "buff_rank": 12,
+    "level": 22,
+    "power": 2230
+  },
+  {
+    "id": 433,
+    "buff_rank": 13,
+    "level": 22,
+    "power": 2380
+  },
+  {
+    "id": 434,
+    "buff_rank": 14,
+    "level": 22,
+    "power": 2530
+  },
+  {
+    "id": 435,
+    "buff_rank": 15,
+    "level": 22,
+    "power": 2680
+  },
+  {
+    "id": 436,
+    "buff_rank": 16,
+    "level": 22,
+    "power": 2820
+  },
+  {
+    "id": 437,
+    "buff_rank": 17,
+    "level": 22,
+    "power": 2970
+  },
+  {
+    "id": 438,
+    "buff_rank": 18,
+    "level": 22,
+    "power": 3120
+  },
+  {
+    "id": 439,
+    "buff_rank": 19,
+    "level": 22,
+    "power": 3260
+  },
+  {
+    "id": 440,
+    "buff_rank": 20,
+    "level": 22,
+    "power": 3410
+  },
+  {
+    "id": 441,
+    "buff_rank": 1,
+    "level": 23,
+    "power": 1020
+  },
+  {
+    "id": 442,
+    "buff_rank": 2,
+    "level": 23,
+    "power": 1130
+  },
+  {
+    "id": 443,
+    "buff_rank": 3,
+    "level": 23,
+    "power": 1230
+  },
+  {
+    "id": 444,
+    "buff_rank": 4,
+    "level": 23,
+    "power": 1340
+  },
+  {
+    "id": 445,
+    "buff_rank": 5,
+    "level": 23,
+    "power": 1440
+  },
+  {
+    "id": 446,
+    "buff_rank": 6,
+    "level": 23,
+    "power": 1550
+  },
+  {
+    "id": 447,
+    "buff_rank": 7,
+    "level": 23,
+    "power": 1650
+  },
+  {
+    "id": 448,
+    "buff_rank": 8,
+    "level": 23,
+    "power": 1760
+  },
+  {
+    "id": 449,
+    "buff_rank": 9,
+    "level": 23,
+    "power": 1860
+  },
+  {
+    "id": 450,
+    "buff_rank": 10,
+    "level": 23,
+    "power": 1970
+  },
+  {
+    "id": 451,
+    "buff_rank": 11,
+    "level": 23,
+    "power": 2120
+  },
+  {
+    "id": 452,
+    "buff_rank": 12,
+    "level": 23,
+    "power": 2280
+  },
+  {
+    "id": 453,
+    "buff_rank": 13,
+    "level": 23,
+    "power": 2430
+  },
+  {
+    "id": 454,
+    "buff_rank": 14,
+    "level": 23,
+    "power": 2580
+  },
+  {
+    "id": 455,
+    "buff_rank": 15,
+    "level": 23,
+    "power": 2740
+  },
+  {
+    "id": 456,
+    "buff_rank": 16,
+    "level": 23,
+    "power": 2890
+  },
+  {
+    "id": 457,
+    "buff_rank": 17,
+    "level": 23,
+    "power": 3040
+  },
+  {
+    "id": 458,
+    "buff_rank": 18,
+    "level": 23,
+    "power": 3190
+  },
+  {
+    "id": 459,
+    "buff_rank": 19,
+    "level": 23,
+    "power": 3350
+  },
+  {
+    "id": 460,
+    "buff_rank": 20,
+    "level": 23,
+    "power": 3500
+  },
+  {
+    "id": 461,
+    "buff_rank": 1,
+    "level": 24,
+    "power": 1040
+  },
+  {
+    "id": 462,
+    "buff_rank": 2,
+    "level": 24,
+    "power": 1150
+  },
+  {
+    "id": 463,
+    "buff_rank": 3,
+    "level": 24,
+    "power": 1250
+  },
+  {
+    "id": 464,
+    "buff_rank": 4,
+    "level": 24,
+    "power": 1360
+  },
+  {
+    "id": 465,
+    "buff_rank": 5,
+    "level": 24,
+    "power": 1470
+  },
+  {
+    "id": 466,
+    "buff_rank": 6,
+    "level": 24,
+    "power": 1570
+  },
+  {
+    "id": 467,
+    "buff_rank": 7,
+    "level": 24,
+    "power": 1680
+  },
+  {
+    "id": 468,
+    "buff_rank": 8,
+    "level": 24,
+    "power": 1790
+  },
+  {
+    "id": 469,
+    "buff_rank": 9,
+    "level": 24,
+    "power": 1890
+  },
+  {
+    "id": 470,
+    "buff_rank": 10,
+    "level": 24,
+    "power": 2000
+  },
+  {
+    "id": 471,
+    "buff_rank": 11,
+    "level": 24,
+    "power": 2160
+  },
+  {
+    "id": 472,
+    "buff_rank": 12,
+    "level": 24,
+    "power": 2320
+  },
+  {
+    "id": 473,
+    "buff_rank": 13,
+    "level": 24,
+    "power": 2470
+  },
+  {
+    "id": 474,
+    "buff_rank": 14,
+    "level": 24,
+    "power": 2630
+  },
+  {
+    "id": 475,
+    "buff_rank": 15,
+    "level": 24,
+    "power": 2790
+  },
+  {
+    "id": 476,
+    "buff_rank": 16,
+    "level": 24,
+    "power": 2950
+  },
+  {
+    "id": 477,
+    "buff_rank": 17,
+    "level": 24,
+    "power": 3110
+  },
+  {
+    "id": 478,
+    "buff_rank": 18,
+    "level": 24,
+    "power": 3260
+  },
+  {
+    "id": 479,
+    "buff_rank": 19,
+    "level": 24,
+    "power": 3420
+  },
+  {
+    "id": 480,
+    "buff_rank": 20,
+    "level": 24,
+    "power": 3580
+  },
+  {
+    "id": 481,
+    "buff_rank": 1,
+    "level": 25,
+    "power": 1080
+  },
+  {
+    "id": 482,
+    "buff_rank": 2,
+    "level": 25,
+    "power": 1200
+  },
+  {
+    "id": 483,
+    "buff_rank": 3,
+    "level": 25,
+    "power": 1320
+  },
+  {
+    "id": 484,
+    "buff_rank": 4,
+    "level": 25,
+    "power": 1440
+  },
+  {
+    "id": 485,
+    "buff_rank": 5,
+    "level": 25,
+    "power": 1560
+  },
+  {
+    "id": 486,
+    "buff_rank": 6,
+    "level": 25,
+    "power": 1690
+  },
+  {
+    "id": 487,
+    "buff_rank": 7,
+    "level": 25,
+    "power": 1810
+  },
+  {
+    "id": 488,
+    "buff_rank": 8,
+    "level": 25,
+    "power": 1930
+  },
+  {
+    "id": 489,
+    "buff_rank": 9,
+    "level": 25,
+    "power": 2050
+  },
+  {
+    "id": 490,
+    "buff_rank": 10,
+    "level": 25,
+    "power": 2170
+  },
+  {
+    "id": 491,
+    "buff_rank": 11,
+    "level": 25,
+    "power": 2340
+  },
+  {
+    "id": 492,
+    "buff_rank": 12,
+    "level": 25,
+    "power": 2500
+  },
+  {
+    "id": 493,
+    "buff_rank": 13,
+    "level": 25,
+    "power": 2670
+  },
+  {
+    "id": 494,
+    "buff_rank": 14,
+    "level": 25,
+    "power": 2830
+  },
+  {
+    "id": 495,
+    "buff_rank": 15,
+    "level": 25,
+    "power": 3000
+  },
+  {
+    "id": 496,
+    "buff_rank": 16,
+    "level": 25,
+    "power": 3170
+  },
+  {
+    "id": 497,
+    "buff_rank": 17,
+    "level": 25,
+    "power": 3330
+  },
+  {
+    "id": 498,
+    "buff_rank": 18,
+    "level": 25,
+    "power": 3500
+  },
+  {
+    "id": 499,
+    "buff_rank": 19,
+    "level": 25,
+    "power": 3660
+  },
+  {
+    "id": 500,
+    "buff_rank": 20,
+    "level": 25,
+    "power": 3830
+  },
+  {
+    "id": 501,
+    "buff_rank": 1,
+    "level": 26,
+    "power": 1120
+  },
+  {
+    "id": 502,
+    "buff_rank": 2,
+    "level": 26,
+    "power": 1240
+  },
+  {
+    "id": 503,
+    "buff_rank": 3,
+    "level": 26,
+    "power": 1370
+  },
+  {
+    "id": 504,
+    "buff_rank": 4,
+    "level": 26,
+    "power": 1490
+  },
+  {
+    "id": 505,
+    "buff_rank": 5,
+    "level": 26,
+    "power": 1610
+  },
+  {
+    "id": 506,
+    "buff_rank": 6,
+    "level": 26,
+    "power": 1740
+  },
+  {
+    "id": 507,
+    "buff_rank": 7,
+    "level": 26,
+    "power": 1860
+  },
+  {
+    "id": 508,
+    "buff_rank": 8,
+    "level": 26,
+    "power": 1980
+  },
+  {
+    "id": 509,
+    "buff_rank": 9,
+    "level": 26,
+    "power": 2110
+  },
+  {
+    "id": 510,
+    "buff_rank": 10,
+    "level": 26,
+    "power": 2230
+  },
+  {
+    "id": 511,
+    "buff_rank": 11,
+    "level": 26,
+    "power": 2400
+  },
+  {
+    "id": 512,
+    "buff_rank": 12,
+    "level": 26,
+    "power": 2570
+  },
+  {
+    "id": 513,
+    "buff_rank": 13,
+    "level": 26,
+    "power": 2740
+  },
+  {
+    "id": 514,
+    "buff_rank": 14,
+    "level": 26,
+    "power": 2910
+  },
+  {
+    "id": 515,
+    "buff_rank": 15,
+    "level": 26,
+    "power": 3090
+  },
+  {
+    "id": 516,
+    "buff_rank": 16,
+    "level": 26,
+    "power": 3260
+  },
+  {
+    "id": 517,
+    "buff_rank": 17,
+    "level": 26,
+    "power": 3430
+  },
+  {
+    "id": 518,
+    "buff_rank": 18,
+    "level": 26,
+    "power": 3600
+  },
+  {
+    "id": 519,
+    "buff_rank": 19,
+    "level": 26,
+    "power": 3770
+  },
+  {
+    "id": 520,
+    "buff_rank": 20,
+    "level": 26,
+    "power": 3940
+  },
+  {
+    "id": 521,
+    "buff_rank": 1,
+    "level": 27,
+    "power": 1160
+  },
+  {
+    "id": 522,
+    "buff_rank": 2,
+    "level": 27,
+    "power": 1280
+  },
+  {
+    "id": 523,
+    "buff_rank": 3,
+    "level": 27,
+    "power": 1410
+  },
+  {
+    "id": 524,
+    "buff_rank": 4,
+    "level": 27,
+    "power": 1530
+  },
+  {
+    "id": 525,
+    "buff_rank": 5,
+    "level": 27,
+    "power": 1660
+  },
+  {
+    "id": 526,
+    "buff_rank": 6,
+    "level": 27,
+    "power": 1780
+  },
+  {
+    "id": 527,
+    "buff_rank": 7,
+    "level": 27,
+    "power": 1910
+  },
+  {
+    "id": 528,
+    "buff_rank": 8,
+    "level": 27,
+    "power": 2030
+  },
+  {
+    "id": 529,
+    "buff_rank": 9,
+    "level": 27,
+    "power": 2160
+  },
+  {
+    "id": 530,
+    "buff_rank": 10,
+    "level": 27,
+    "power": 2280
+  },
+  {
+    "id": 531,
+    "buff_rank": 11,
+    "level": 27,
+    "power": 2460
+  },
+  {
+    "id": 532,
+    "buff_rank": 12,
+    "level": 27,
+    "power": 2640
+  },
+  {
+    "id": 533,
+    "buff_rank": 13,
+    "level": 27,
+    "power": 2810
+  },
+  {
+    "id": 534,
+    "buff_rank": 14,
+    "level": 27,
+    "power": 2990
+  },
+  {
+    "id": 535,
+    "buff_rank": 15,
+    "level": 27,
+    "power": 3170
+  },
+  {
+    "id": 536,
+    "buff_rank": 16,
+    "level": 27,
+    "power": 3350
+  },
+  {
+    "id": 537,
+    "buff_rank": 17,
+    "level": 27,
+    "power": 3530
+  },
+  {
+    "id": 538,
+    "buff_rank": 18,
+    "level": 27,
+    "power": 3700
+  },
+  {
+    "id": 539,
+    "buff_rank": 19,
+    "level": 27,
+    "power": 3880
+  },
+  {
+    "id": 540,
+    "buff_rank": 20,
+    "level": 27,
+    "power": 4060
+  },
+  {
+    "id": 541,
+    "buff_rank": 1,
+    "level": 28,
+    "power": 1200
+  },
+  {
+    "id": 542,
+    "buff_rank": 2,
+    "level": 28,
+    "power": 1330
+  },
+  {
+    "id": 543,
+    "buff_rank": 3,
+    "level": 28,
+    "power": 1450
+  },
+  {
+    "id": 544,
+    "buff_rank": 4,
+    "level": 28,
+    "power": 1580
+  },
+  {
+    "id": 545,
+    "buff_rank": 5,
+    "level": 28,
+    "power": 1700
+  },
+  {
+    "id": 546,
+    "buff_rank": 6,
+    "level": 28,
+    "power": 1830
+  },
+  {
+    "id": 547,
+    "buff_rank": 7,
+    "level": 28,
+    "power": 1950
+  },
+  {
+    "id": 548,
+    "buff_rank": 8,
+    "level": 28,
+    "power": 2080
+  },
+  {
+    "id": 549,
+    "buff_rank": 9,
+    "level": 28,
+    "power": 2200
+  },
+  {
+    "id": 550,
+    "buff_rank": 10,
+    "level": 28,
+    "power": 2330
+  },
+  {
+    "id": 551,
+    "buff_rank": 11,
+    "level": 28,
+    "power": 2510
+  },
+  {
+    "id": 552,
+    "buff_rank": 12,
+    "level": 28,
+    "power": 2700
+  },
+  {
+    "id": 553,
+    "buff_rank": 13,
+    "level": 28,
+    "power": 2880
+  },
+  {
+    "id": 554,
+    "buff_rank": 14,
+    "level": 28,
+    "power": 3070
+  },
+  {
+    "id": 555,
+    "buff_rank": 15,
+    "level": 28,
+    "power": 3250
+  },
+  {
+    "id": 556,
+    "buff_rank": 16,
+    "level": 28,
+    "power": 3430
+  },
+  {
+    "id": 557,
+    "buff_rank": 17,
+    "level": 28,
+    "power": 3620
+  },
+  {
+    "id": 558,
+    "buff_rank": 18,
+    "level": 28,
+    "power": 3800
+  },
+  {
+    "id": 559,
+    "buff_rank": 19,
+    "level": 28,
+    "power": 3990
+  },
+  {
+    "id": 560,
+    "buff_rank": 20,
+    "level": 28,
+    "power": 4170
+  },
+  {
+    "id": 561,
+    "buff_rank": 1,
+    "level": 29,
+    "power": 1230
+  },
+  {
+    "id": 562,
+    "buff_rank": 2,
+    "level": 29,
+    "power": 1360
+  },
+  {
+    "id": 563,
+    "buff_rank": 3,
+    "level": 29,
+    "power": 1490
+  },
+  {
+    "id": 564,
+    "buff_rank": 4,
+    "level": 29,
+    "power": 1620
+  },
+  {
+    "id": 565,
+    "buff_rank": 5,
+    "level": 29,
+    "power": 1750
+  },
+  {
+    "id": 566,
+    "buff_rank": 6,
+    "level": 29,
+    "power": 1870
+  },
+  {
+    "id": 567,
+    "buff_rank": 7,
+    "level": 29,
+    "power": 2000
+  },
+  {
+    "id": 568,
+    "buff_rank": 8,
+    "level": 29,
+    "power": 2130
+  },
+  {
+    "id": 569,
+    "buff_rank": 9,
+    "level": 29,
+    "power": 2260
+  },
+  {
+    "id": 570,
+    "buff_rank": 10,
+    "level": 29,
+    "power": 2390
+  },
+  {
+    "id": 571,
+    "buff_rank": 11,
+    "level": 29,
+    "power": 2580
+  },
+  {
+    "id": 572,
+    "buff_rank": 12,
+    "level": 29,
+    "power": 2770
+  },
+  {
+    "id": 573,
+    "buff_rank": 13,
+    "level": 29,
+    "power": 2960
+  },
+  {
+    "id": 574,
+    "buff_rank": 14,
+    "level": 29,
+    "power": 3150
+  },
+  {
+    "id": 575,
+    "buff_rank": 15,
+    "level": 29,
+    "power": 3340
+  },
+  {
+    "id": 576,
+    "buff_rank": 16,
+    "level": 29,
+    "power": 3530
+  },
+  {
+    "id": 577,
+    "buff_rank": 17,
+    "level": 29,
+    "power": 3720
+  },
+  {
+    "id": 578,
+    "buff_rank": 18,
+    "level": 29,
+    "power": 3910
+  },
+  {
+    "id": 579,
+    "buff_rank": 19,
+    "level": 29,
+    "power": 4100
+  },
+  {
+    "id": 580,
+    "buff_rank": 20,
+    "level": 29,
+    "power": 4290
+  },
+  {
+    "id": 581,
+    "buff_rank": 1,
+    "level": 30,
+    "power": 1270
+  },
+  {
+    "id": 582,
+    "buff_rank": 2,
+    "level": 30,
+    "power": 1420
+  },
+  {
+    "id": 583,
+    "buff_rank": 3,
+    "level": 30,
+    "power": 1570
+  },
+  {
+    "id": 584,
+    "buff_rank": 4,
+    "level": 30,
+    "power": 1720
+  },
+  {
+    "id": 585,
+    "buff_rank": 5,
+    "level": 30,
+    "power": 1870
+  },
+  {
+    "id": 586,
+    "buff_rank": 6,
+    "level": 30,
+    "power": 2010
+  },
+  {
+    "id": 587,
+    "buff_rank": 7,
+    "level": 30,
+    "power": 2160
+  },
+  {
+    "id": 588,
+    "buff_rank": 8,
+    "level": 30,
+    "power": 2310
+  },
+  {
+    "id": 589,
+    "buff_rank": 9,
+    "level": 30,
+    "power": 2460
+  },
+  {
+    "id": 590,
+    "buff_rank": 10,
+    "level": 30,
+    "power": 2610
+  },
+  {
+    "id": 591,
+    "buff_rank": 11,
+    "level": 30,
+    "power": 2840
+  },
+  {
+    "id": 592,
+    "buff_rank": 12,
+    "level": 30,
+    "power": 3060
+  },
+  {
+    "id": 593,
+    "buff_rank": 13,
+    "level": 30,
+    "power": 3290
+  },
+  {
+    "id": 594,
+    "buff_rank": 14,
+    "level": 30,
+    "power": 3510
+  },
+  {
+    "id": 595,
+    "buff_rank": 15,
+    "level": 30,
+    "power": 3740
+  },
+  {
+    "id": 596,
+    "buff_rank": 16,
+    "level": 30,
+    "power": 3970
+  },
+  {
+    "id": 597,
+    "buff_rank": 17,
+    "level": 30,
+    "power": 4190
+  },
+  {
+    "id": 598,
+    "buff_rank": 18,
+    "level": 30,
+    "power": 4420
+  },
+  {
+    "id": 599,
+    "buff_rank": 19,
+    "level": 30,
+    "power": 4640
+  },
+  {
+    "id": 600,
+    "buff_rank": 20,
+    "level": 30,
+    "power": 4870
+  },
+  {
+    "id": 601,
+    "buff_rank": 1,
+    "level": 31,
+    "power": 1310
+  },
+  {
+    "id": 602,
+    "buff_rank": 2,
+    "level": 31,
+    "power": 1470
+  },
+  {
+    "id": 603,
+    "buff_rank": 3,
+    "level": 31,
+    "power": 1620
+  },
+  {
+    "id": 604,
+    "buff_rank": 4,
+    "level": 31,
+    "power": 1780
+  },
+  {
+    "id": 605,
+    "buff_rank": 5,
+    "level": 31,
+    "power": 1930
+  },
+  {
+    "id": 606,
+    "buff_rank": 6,
+    "level": 31,
+    "power": 2090
+  },
+  {
+    "id": 607,
+    "buff_rank": 7,
+    "level": 31,
+    "power": 2240
+  },
+  {
+    "id": 608,
+    "buff_rank": 8,
+    "level": 31,
+    "power": 2400
+  },
+  {
+    "id": 609,
+    "buff_rank": 9,
+    "level": 31,
+    "power": 2550
+  },
+  {
+    "id": 610,
+    "buff_rank": 10,
+    "level": 31,
+    "power": 2710
+  },
+  {
+    "id": 611,
+    "buff_rank": 11,
+    "level": 31,
+    "power": 2950
+  },
+  {
+    "id": 612,
+    "buff_rank": 12,
+    "level": 31,
+    "power": 3180
+  },
+  {
+    "id": 613,
+    "buff_rank": 13,
+    "level": 31,
+    "power": 3420
+  },
+  {
+    "id": 614,
+    "buff_rank": 14,
+    "level": 31,
+    "power": 3650
+  },
+  {
+    "id": 615,
+    "buff_rank": 15,
+    "level": 31,
+    "power": 3890
+  },
+  {
+    "id": 616,
+    "buff_rank": 16,
+    "level": 31,
+    "power": 4130
+  },
+  {
+    "id": 617,
+    "buff_rank": 17,
+    "level": 31,
+    "power": 4360
+  },
+  {
+    "id": 618,
+    "buff_rank": 18,
+    "level": 31,
+    "power": 4600
+  },
+  {
+    "id": 619,
+    "buff_rank": 19,
+    "level": 31,
+    "power": 4830
+  },
+  {
+    "id": 620,
+    "buff_rank": 20,
+    "level": 31,
+    "power": 5070
+  },
+  {
+    "id": 621,
+    "buff_rank": 1,
+    "level": 32,
+    "power": 1350
+  },
+  {
+    "id": 622,
+    "buff_rank": 2,
+    "level": 32,
+    "power": 1510
+  },
+  {
+    "id": 623,
+    "buff_rank": 3,
+    "level": 32,
+    "power": 1670
+  },
+  {
+    "id": 624,
+    "buff_rank": 4,
+    "level": 32,
+    "power": 1820
+  },
+  {
+    "id": 625,
+    "buff_rank": 5,
+    "level": 32,
+    "power": 1980
+  },
+  {
+    "id": 626,
+    "buff_rank": 6,
+    "level": 32,
+    "power": 2140
+  },
+  {
+    "id": 627,
+    "buff_rank": 7,
+    "level": 32,
+    "power": 2300
+  },
+  {
+    "id": 628,
+    "buff_rank": 8,
+    "level": 32,
+    "power": 2450
+  },
+  {
+    "id": 629,
+    "buff_rank": 9,
+    "level": 32,
+    "power": 2610
+  },
+  {
+    "id": 630,
+    "buff_rank": 10,
+    "level": 32,
+    "power": 2770
+  },
+  {
+    "id": 631,
+    "buff_rank": 11,
+    "level": 32,
+    "power": 3020
+  },
+  {
+    "id": 632,
+    "buff_rank": 12,
+    "level": 32,
+    "power": 3260
+  },
+  {
+    "id": 633,
+    "buff_rank": 13,
+    "level": 32,
+    "power": 3510
+  },
+  {
+    "id": 634,
+    "buff_rank": 14,
+    "level": 32,
+    "power": 3750
+  },
+  {
+    "id": 635,
+    "buff_rank": 15,
+    "level": 32,
+    "power": 4000
+  },
+  {
+    "id": 636,
+    "buff_rank": 16,
+    "level": 32,
+    "power": 4240
+  },
+  {
+    "id": 637,
+    "buff_rank": 17,
+    "level": 32,
+    "power": 4490
+  },
+  {
+    "id": 638,
+    "buff_rank": 18,
+    "level": 32,
+    "power": 4730
+  },
+  {
+    "id": 639,
+    "buff_rank": 19,
+    "level": 32,
+    "power": 4980
+  },
+  {
+    "id": 640,
+    "buff_rank": 20,
+    "level": 32,
+    "power": 5220
+  },
+  {
+    "id": 641,
+    "buff_rank": 1,
+    "level": 33,
+    "power": 1390
+  },
+  {
+    "id": 642,
+    "buff_rank": 2,
+    "level": 33,
+    "power": 1550
+  },
+  {
+    "id": 643,
+    "buff_rank": 3,
+    "level": 33,
+    "power": 1710
+  },
+  {
+    "id": 644,
+    "buff_rank": 4,
+    "level": 33,
+    "power": 1870
+  },
+  {
+    "id": 645,
+    "buff_rank": 5,
+    "level": 33,
+    "power": 2030
+  },
+  {
+    "id": 646,
+    "buff_rank": 6,
+    "level": 33,
+    "power": 2190
+  },
+  {
+    "id": 647,
+    "buff_rank": 7,
+    "level": 33,
+    "power": 2350
+  },
+  {
+    "id": 648,
+    "buff_rank": 8,
+    "level": 33,
+    "power": 2510
+  },
+  {
+    "id": 649,
+    "buff_rank": 9,
+    "level": 33,
+    "power": 2670
+  },
+  {
+    "id": 650,
+    "buff_rank": 10,
+    "level": 33,
+    "power": 2830
+  },
+  {
+    "id": 651,
+    "buff_rank": 11,
+    "level": 33,
+    "power": 3080
+  },
+  {
+    "id": 652,
+    "buff_rank": 12,
+    "level": 33,
+    "power": 3340
+  },
+  {
+    "id": 653,
+    "buff_rank": 13,
+    "level": 33,
+    "power": 3590
+  },
+  {
+    "id": 654,
+    "buff_rank": 14,
+    "level": 33,
+    "power": 3850
+  },
+  {
+    "id": 655,
+    "buff_rank": 15,
+    "level": 33,
+    "power": 4100
+  },
+  {
+    "id": 656,
+    "buff_rank": 16,
+    "level": 33,
+    "power": 4350
+  },
+  {
+    "id": 657,
+    "buff_rank": 17,
+    "level": 33,
+    "power": 4610
+  },
+  {
+    "id": 658,
+    "buff_rank": 18,
+    "level": 33,
+    "power": 4860
+  },
+  {
+    "id": 659,
+    "buff_rank": 19,
+    "level": 33,
+    "power": 5120
+  },
+  {
+    "id": 660,
+    "buff_rank": 20,
+    "level": 33,
+    "power": 5370
+  },
+  {
+    "id": 661,
+    "buff_rank": 1,
+    "level": 34,
+    "power": 1430
+  },
+  {
+    "id": 662,
+    "buff_rank": 2,
+    "level": 34,
+    "power": 1590
+  },
+  {
+    "id": 663,
+    "buff_rank": 3,
+    "level": 34,
+    "power": 1750
+  },
+  {
+    "id": 664,
+    "buff_rank": 4,
+    "level": 34,
+    "power": 1910
+  },
+  {
+    "id": 665,
+    "buff_rank": 5,
+    "level": 34,
+    "power": 2070
+  },
+  {
+    "id": 666,
+    "buff_rank": 6,
+    "level": 34,
+    "power": 2240
+  },
+  {
+    "id": 667,
+    "buff_rank": 7,
+    "level": 34,
+    "power": 2400
+  },
+  {
+    "id": 668,
+    "buff_rank": 8,
+    "level": 34,
+    "power": 2560
+  },
+  {
+    "id": 669,
+    "buff_rank": 9,
+    "level": 34,
+    "power": 2720
+  },
+  {
+    "id": 670,
+    "buff_rank": 10,
+    "level": 34,
+    "power": 2880
+  },
+  {
+    "id": 671,
+    "buff_rank": 11,
+    "level": 34,
+    "power": 3140
+  },
+  {
+    "id": 672,
+    "buff_rank": 12,
+    "level": 34,
+    "power": 3410
+  },
+  {
+    "id": 673,
+    "buff_rank": 13,
+    "level": 34,
+    "power": 3670
+  },
+  {
+    "id": 674,
+    "buff_rank": 14,
+    "level": 34,
+    "power": 3940
+  },
+  {
+    "id": 675,
+    "buff_rank": 15,
+    "level": 34,
+    "power": 4200
+  },
+  {
+    "id": 676,
+    "buff_rank": 16,
+    "level": 34,
+    "power": 4460
+  },
+  {
+    "id": 677,
+    "buff_rank": 17,
+    "level": 34,
+    "power": 4730
+  },
+  {
+    "id": 678,
+    "buff_rank": 18,
+    "level": 34,
+    "power": 4990
+  },
+  {
+    "id": 679,
+    "buff_rank": 19,
+    "level": 34,
+    "power": 5260
+  },
+  {
+    "id": 680,
+    "buff_rank": 20,
+    "level": 34,
+    "power": 5520
+  },
+  {
+    "id": 681,
+    "buff_rank": 1,
+    "level": 35,
+    "power": 1460
+  },
+  {
+    "id": 682,
+    "buff_rank": 2,
+    "level": 35,
+    "power": 1660
+  },
+  {
+    "id": 683,
+    "buff_rank": 3,
+    "level": 35,
+    "power": 1860
+  },
+  {
+    "id": 684,
+    "buff_rank": 4,
+    "level": 35,
+    "power": 2050
+  },
+  {
+    "id": 685,
+    "buff_rank": 5,
+    "level": 35,
+    "power": 2250
+  },
+  {
+    "id": 686,
+    "buff_rank": 6,
+    "level": 35,
+    "power": 2450
+  },
+  {
+    "id": 687,
+    "buff_rank": 7,
+    "level": 35,
+    "power": 2650
+  },
+  {
+    "id": 688,
+    "buff_rank": 8,
+    "level": 35,
+    "power": 2840
+  },
+  {
+    "id": 689,
+    "buff_rank": 9,
+    "level": 35,
+    "power": 3040
+  },
+  {
+    "id": 690,
+    "buff_rank": 10,
+    "level": 35,
+    "power": 3240
+  },
+  {
+    "id": 691,
+    "buff_rank": 11,
+    "level": 35,
+    "power": 3520
+  },
+  {
+    "id": 692,
+    "buff_rank": 12,
+    "level": 35,
+    "power": 3800
+  },
+  {
+    "id": 693,
+    "buff_rank": 13,
+    "level": 35,
+    "power": 4080
+  },
+  {
+    "id": 694,
+    "buff_rank": 14,
+    "level": 35,
+    "power": 4360
+  },
+  {
+    "id": 695,
+    "buff_rank": 15,
+    "level": 35,
+    "power": 4640
+  },
+  {
+    "id": 696,
+    "buff_rank": 16,
+    "level": 35,
+    "power": 4920
+  },
+  {
+    "id": 697,
+    "buff_rank": 17,
+    "level": 35,
+    "power": 5200
+  },
+  {
+    "id": 698,
+    "buff_rank": 18,
+    "level": 35,
+    "power": 5480
+  },
+  {
+    "id": 699,
+    "buff_rank": 19,
+    "level": 35,
+    "power": 5760
+  },
+  {
+    "id": 700,
+    "buff_rank": 20,
+    "level": 35,
+    "power": 6040
+  },
+  {
+    "id": 701,
+    "buff_rank": 1,
+    "level": 36,
+    "power": 1500
+  },
+  {
+    "id": 702,
+    "buff_rank": 2,
+    "level": 36,
+    "power": 1700
+  },
+  {
+    "id": 703,
+    "buff_rank": 3,
+    "level": 36,
+    "power": 1900
+  },
+  {
+    "id": 704,
+    "buff_rank": 4,
+    "level": 36,
+    "power": 2100
+  },
+  {
+    "id": 705,
+    "buff_rank": 5,
+    "level": 36,
+    "power": 2300
+  },
+  {
+    "id": 706,
+    "buff_rank": 6,
+    "level": 36,
+    "power": 2500
+  },
+  {
+    "id": 707,
+    "buff_rank": 7,
+    "level": 36,
+    "power": 2700
+  },
+  {
+    "id": 708,
+    "buff_rank": 8,
+    "level": 36,
+    "power": 2900
+  },
+  {
+    "id": 709,
+    "buff_rank": 9,
+    "level": 36,
+    "power": 3100
+  },
+  {
+    "id": 710,
+    "buff_rank": 10,
+    "level": 36,
+    "power": 3300
+  },
+  {
+    "id": 711,
+    "buff_rank": 11,
+    "level": 36,
+    "power": 3590
+  },
+  {
+    "id": 712,
+    "buff_rank": 12,
+    "level": 36,
+    "power": 3880
+  },
+  {
+    "id": 713,
+    "buff_rank": 13,
+    "level": 36,
+    "power": 4170
+  },
+  {
+    "id": 714,
+    "buff_rank": 14,
+    "level": 36,
+    "power": 4460
+  },
+  {
+    "id": 715,
+    "buff_rank": 15,
+    "level": 36,
+    "power": 4760
+  },
+  {
+    "id": 716,
+    "buff_rank": 16,
+    "level": 36,
+    "power": 5050
+  },
+  {
+    "id": 717,
+    "buff_rank": 17,
+    "level": 36,
+    "power": 5340
+  },
+  {
+    "id": 718,
+    "buff_rank": 18,
+    "level": 36,
+    "power": 5630
+  },
+  {
+    "id": 719,
+    "buff_rank": 19,
+    "level": 36,
+    "power": 5920
+  },
+  {
+    "id": 720,
+    "buff_rank": 20,
+    "level": 36,
+    "power": 6210
+  },
+  {
+    "id": 721,
+    "buff_rank": 1,
+    "level": 37,
+    "power": 1540
+  },
+  {
+    "id": 722,
+    "buff_rank": 2,
+    "level": 37,
+    "power": 1740
+  },
+  {
+    "id": 723,
+    "buff_rank": 3,
+    "level": 37,
+    "power": 1940
+  },
+  {
+    "id": 724,
+    "buff_rank": 4,
+    "level": 37,
+    "power": 2140
+  },
+  {
+    "id": 725,
+    "buff_rank": 5,
+    "level": 37,
+    "power": 2340
+  },
+  {
+    "id": 726,
+    "buff_rank": 6,
+    "level": 37,
+    "power": 2550
+  },
+  {
+    "id": 727,
+    "buff_rank": 7,
+    "level": 37,
+    "power": 2750
+  },
+  {
+    "id": 728,
+    "buff_rank": 8,
+    "level": 37,
+    "power": 2950
+  },
+  {
+    "id": 729,
+    "buff_rank": 9,
+    "level": 37,
+    "power": 3150
+  },
+  {
+    "id": 730,
+    "buff_rank": 10,
+    "level": 37,
+    "power": 3350
+  },
+  {
+    "id": 731,
+    "buff_rank": 11,
+    "level": 37,
+    "power": 3650
+  },
+  {
+    "id": 732,
+    "buff_rank": 12,
+    "level": 37,
+    "power": 3960
+  },
+  {
+    "id": 733,
+    "buff_rank": 13,
+    "level": 37,
+    "power": 4260
+  },
+  {
+    "id": 734,
+    "buff_rank": 14,
+    "level": 37,
+    "power": 4570
+  },
+  {
+    "id": 735,
+    "buff_rank": 15,
+    "level": 37,
+    "power": 4870
+  },
+  {
+    "id": 736,
+    "buff_rank": 16,
+    "level": 37,
+    "power": 5170
+  },
+  {
+    "id": 737,
+    "buff_rank": 17,
+    "level": 37,
+    "power": 5480
+  },
+  {
+    "id": 738,
+    "buff_rank": 18,
+    "level": 37,
+    "power": 5780
+  },
+  {
+    "id": 739,
+    "buff_rank": 19,
+    "level": 37,
+    "power": 6090
+  },
+  {
+    "id": 740,
+    "buff_rank": 20,
+    "level": 37,
+    "power": 6390
+  },
+  {
+    "id": 741,
+    "buff_rank": 1,
+    "level": 38,
+    "power": 1580
+  },
+  {
+    "id": 742,
+    "buff_rank": 2,
+    "level": 38,
+    "power": 1780
+  },
+  {
+    "id": 743,
+    "buff_rank": 3,
+    "level": 38,
+    "power": 1990
+  },
+  {
+    "id": 744,
+    "buff_rank": 4,
+    "level": 38,
+    "power": 2190
+  },
+  {
+    "id": 745,
+    "buff_rank": 5,
+    "level": 38,
+    "power": 2390
+  },
+  {
+    "id": 746,
+    "buff_rank": 6,
+    "level": 38,
+    "power": 2600
+  },
+  {
+    "id": 747,
+    "buff_rank": 7,
+    "level": 38,
+    "power": 2800
+  },
+  {
+    "id": 748,
+    "buff_rank": 8,
+    "level": 38,
+    "power": 3000
+  },
+  {
+    "id": 749,
+    "buff_rank": 9,
+    "level": 38,
+    "power": 3210
+  },
+  {
+    "id": 750,
+    "buff_rank": 10,
+    "level": 38,
+    "power": 3410
+  },
+  {
+    "id": 751,
+    "buff_rank": 11,
+    "level": 38,
+    "power": 3730
+  },
+  {
+    "id": 752,
+    "buff_rank": 12,
+    "level": 38,
+    "power": 4040
+  },
+  {
+    "id": 753,
+    "buff_rank": 13,
+    "level": 38,
+    "power": 4360
+  },
+  {
+    "id": 754,
+    "buff_rank": 14,
+    "level": 38,
+    "power": 4670
+  },
+  {
+    "id": 755,
+    "buff_rank": 15,
+    "level": 38,
+    "power": 4990
+  },
+  {
+    "id": 756,
+    "buff_rank": 16,
+    "level": 38,
+    "power": 5300
+  },
+  {
+    "id": 757,
+    "buff_rank": 17,
+    "level": 38,
+    "power": 5620
+  },
+  {
+    "id": 758,
+    "buff_rank": 18,
+    "level": 38,
+    "power": 5930
+  },
+  {
+    "id": 759,
+    "buff_rank": 19,
+    "level": 38,
+    "power": 6250
+  },
+  {
+    "id": 760,
+    "buff_rank": 20,
+    "level": 38,
+    "power": 6560
+  },
+  {
+    "id": 761,
+    "buff_rank": 1,
+    "level": 39,
+    "power": 1620
+  },
+  {
+    "id": 762,
+    "buff_rank": 2,
+    "level": 39,
+    "power": 1830
+  },
+  {
+    "id": 763,
+    "buff_rank": 3,
+    "level": 39,
+    "power": 2030
+  },
+  {
+    "id": 764,
+    "buff_rank": 4,
+    "level": 39,
+    "power": 2240
+  },
+  {
+    "id": 765,
+    "buff_rank": 5,
+    "level": 39,
+    "power": 2440
+  },
+  {
+    "id": 766,
+    "buff_rank": 6,
+    "level": 39,
+    "power": 2650
+  },
+  {
+    "id": 767,
+    "buff_rank": 7,
+    "level": 39,
+    "power": 2850
+  },
+  {
+    "id": 768,
+    "buff_rank": 8,
+    "level": 39,
+    "power": 3060
+  },
+  {
+    "id": 769,
+    "buff_rank": 9,
+    "level": 39,
+    "power": 3260
+  },
+  {
+    "id": 770,
+    "buff_rank": 10,
+    "level": 39,
+    "power": 3470
+  },
+  {
+    "id": 771,
+    "buff_rank": 11,
+    "level": 39,
+    "power": 3810
+  },
+  {
+    "id": 772,
+    "buff_rank": 12,
+    "level": 39,
+    "power": 4150
+  },
+  {
+    "id": 773,
+    "buff_rank": 13,
+    "level": 39,
+    "power": 4490
+  },
+  {
+    "id": 774,
+    "buff_rank": 14,
+    "level": 39,
+    "power": 4830
+  },
+  {
+    "id": 775,
+    "buff_rank": 15,
+    "level": 39,
+    "power": 5170
+  },
+  {
+    "id": 776,
+    "buff_rank": 16,
+    "level": 39,
+    "power": 5510
+  },
+  {
+    "id": 777,
+    "buff_rank": 17,
+    "level": 39,
+    "power": 5850
+  },
+  {
+    "id": 778,
+    "buff_rank": 18,
+    "level": 39,
+    "power": 6190
+  },
+  {
+    "id": 779,
+    "buff_rank": 19,
+    "level": 39,
+    "power": 6530
+  },
+  {
+    "id": 780,
+    "buff_rank": 20,
+    "level": 39,
+    "power": 6870
+  },
+  {
+    "id": 781,
+    "buff_rank": 1,
+    "level": 40,
+    "power": 1660
+  },
+  {
+    "id": 782,
+    "buff_rank": 2,
+    "level": 40,
+    "power": 1890
+  },
+  {
+    "id": 783,
+    "buff_rank": 3,
+    "level": 40,
+    "power": 2110
+  },
+  {
+    "id": 784,
+    "buff_rank": 4,
+    "level": 40,
+    "power": 2340
+  },
+  {
+    "id": 785,
+    "buff_rank": 5,
+    "level": 40,
+    "power": 2570
+  },
+  {
+    "id": 786,
+    "buff_rank": 6,
+    "level": 40,
+    "power": 2790
+  },
+  {
+    "id": 787,
+    "buff_rank": 7,
+    "level": 40,
+    "power": 3020
+  },
+  {
+    "id": 788,
+    "buff_rank": 8,
+    "level": 40,
+    "power": 3250
+  },
+  {
+    "id": 789,
+    "buff_rank": 9,
+    "level": 40,
+    "power": 3470
+  },
+  {
+    "id": 790,
+    "buff_rank": 10,
+    "level": 40,
+    "power": 3700
+  },
+  {
+    "id": 791,
+    "buff_rank": 11,
+    "level": 40,
+    "power": 4060
+  },
+  {
+    "id": 792,
+    "buff_rank": 12,
+    "level": 40,
+    "power": 4430
+  },
+  {
+    "id": 793,
+    "buff_rank": 13,
+    "level": 40,
+    "power": 4790
+  },
+  {
+    "id": 794,
+    "buff_rank": 14,
+    "level": 40,
+    "power": 5160
+  },
+  {
+    "id": 795,
+    "buff_rank": 15,
+    "level": 40,
+    "power": 5520
+  },
+  {
+    "id": 796,
+    "buff_rank": 16,
+    "level": 40,
+    "power": 5880
+  },
+  {
+    "id": 797,
+    "buff_rank": 17,
+    "level": 40,
+    "power": 6250
+  },
+  {
+    "id": 798,
+    "buff_rank": 18,
+    "level": 40,
+    "power": 6610
+  },
+  {
+    "id": 799,
+    "buff_rank": 19,
+    "level": 40,
+    "power": 6980
+  },
+  {
+    "id": 800,
+    "buff_rank": 20,
+    "level": 40,
+    "power": 7340
+  },
+  {
+    "id": 801,
+    "buff_rank": 1,
+    "level": 41,
+    "power": 1690
+  },
+  {
+    "id": 802,
+    "buff_rank": 2,
+    "level": 41,
+    "power": 1920
+  },
+  {
+    "id": 803,
+    "buff_rank": 3,
+    "level": 41,
+    "power": 2150
+  },
+  {
+    "id": 804,
+    "buff_rank": 4,
+    "level": 41,
+    "power": 2380
+  },
+  {
+    "id": 805,
+    "buff_rank": 5,
+    "level": 41,
+    "power": 2610
+  },
+  {
+    "id": 806,
+    "buff_rank": 6,
+    "level": 41,
+    "power": 2840
+  },
+  {
+    "id": 807,
+    "buff_rank": 7,
+    "level": 41,
+    "power": 3070
+  },
+  {
+    "id": 808,
+    "buff_rank": 8,
+    "level": 41,
+    "power": 3300
+  },
+  {
+    "id": 809,
+    "buff_rank": 9,
+    "level": 41,
+    "power": 3530
+  },
+  {
+    "id": 810,
+    "buff_rank": 10,
+    "level": 41,
+    "power": 3760
+  },
+  {
+    "id": 811,
+    "buff_rank": 11,
+    "level": 41,
+    "power": 4150
+  },
+  {
+    "id": 812,
+    "buff_rank": 12,
+    "level": 41,
+    "power": 4540
+  },
+  {
+    "id": 813,
+    "buff_rank": 13,
+    "level": 41,
+    "power": 4930
+  },
+  {
+    "id": 814,
+    "buff_rank": 14,
+    "level": 41,
+    "power": 5320
+  },
+  {
+    "id": 815,
+    "buff_rank": 15,
+    "level": 41,
+    "power": 5720
+  },
+  {
+    "id": 816,
+    "buff_rank": 16,
+    "level": 41,
+    "power": 6110
+  },
+  {
+    "id": 817,
+    "buff_rank": 17,
+    "level": 41,
+    "power": 6500
+  },
+  {
+    "id": 818,
+    "buff_rank": 18,
+    "level": 41,
+    "power": 6890
+  },
+  {
+    "id": 819,
+    "buff_rank": 19,
+    "level": 41,
+    "power": 7280
+  },
+  {
+    "id": 820,
+    "buff_rank": 20,
+    "level": 41,
+    "power": 7670
+  },
+  {
+    "id": 821,
+    "buff_rank": 1,
+    "level": 42,
+    "power": 1730
+  },
+  {
+    "id": 822,
+    "buff_rank": 2,
+    "level": 42,
+    "power": 1960
+  },
+  {
+    "id": 823,
+    "buff_rank": 3,
+    "level": 42,
+    "power": 2190
+  },
+  {
+    "id": 824,
+    "buff_rank": 4,
+    "level": 42,
+    "power": 2430
+  },
+  {
+    "id": 825,
+    "buff_rank": 5,
+    "level": 42,
+    "power": 2660
+  },
+  {
+    "id": 826,
+    "buff_rank": 6,
+    "level": 42,
+    "power": 2890
+  },
+  {
+    "id": 827,
+    "buff_rank": 7,
+    "level": 42,
+    "power": 3120
+  },
+  {
+    "id": 828,
+    "buff_rank": 8,
+    "level": 42,
+    "power": 3360
+  },
+  {
+    "id": 829,
+    "buff_rank": 9,
+    "level": 42,
+    "power": 3590
+  },
+  {
+    "id": 830,
+    "buff_rank": 10,
+    "level": 42,
+    "power": 3820
+  },
+  {
+    "id": 831,
+    "buff_rank": 11,
+    "level": 42,
+    "power": 4220
+  },
+  {
+    "id": 832,
+    "buff_rank": 12,
+    "level": 42,
+    "power": 4630
+  },
+  {
+    "id": 833,
+    "buff_rank": 13,
+    "level": 42,
+    "power": 5030
+  },
+  {
+    "id": 834,
+    "buff_rank": 14,
+    "level": 42,
+    "power": 5430
+  },
+  {
+    "id": 835,
+    "buff_rank": 15,
+    "level": 42,
+    "power": 5840
+  },
+  {
+    "id": 836,
+    "buff_rank": 16,
+    "level": 42,
+    "power": 6240
+  },
+  {
+    "id": 837,
+    "buff_rank": 17,
+    "level": 42,
+    "power": 6640
+  },
+  {
+    "id": 838,
+    "buff_rank": 18,
+    "level": 42,
+    "power": 7040
+  },
+  {
+    "id": 839,
+    "buff_rank": 19,
+    "level": 42,
+    "power": 7450
+  },
+  {
+    "id": 840,
+    "buff_rank": 20,
+    "level": 42,
+    "power": 7850
+  },
+  {
+    "id": 841,
+    "buff_rank": 1,
+    "level": 43,
+    "power": 1770
+  },
+  {
+    "id": 842,
+    "buff_rank": 2,
+    "level": 43,
+    "power": 2000
+  },
+  {
+    "id": 843,
+    "buff_rank": 3,
+    "level": 43,
+    "power": 2240
+  },
+  {
+    "id": 844,
+    "buff_rank": 4,
+    "level": 43,
+    "power": 2470
+  },
+  {
+    "id": 845,
+    "buff_rank": 5,
+    "level": 43,
+    "power": 2710
+  },
+  {
+    "id": 846,
+    "buff_rank": 6,
+    "level": 43,
+    "power": 2940
+  },
+  {
+    "id": 847,
+    "buff_rank": 7,
+    "level": 43,
+    "power": 3180
+  },
+  {
+    "id": 848,
+    "buff_rank": 8,
+    "level": 43,
+    "power": 3410
+  },
+  {
+    "id": 849,
+    "buff_rank": 9,
+    "level": 43,
+    "power": 3650
+  },
+  {
+    "id": 850,
+    "buff_rank": 10,
+    "level": 43,
+    "power": 3880
+  },
+  {
+    "id": 851,
+    "buff_rank": 11,
+    "level": 43,
+    "power": 4300
+  },
+  {
+    "id": 852,
+    "buff_rank": 12,
+    "level": 43,
+    "power": 4710
+  },
+  {
+    "id": 853,
+    "buff_rank": 13,
+    "level": 43,
+    "power": 5130
+  },
+  {
+    "id": 854,
+    "buff_rank": 14,
+    "level": 43,
+    "power": 5540
+  },
+  {
+    "id": 855,
+    "buff_rank": 15,
+    "level": 43,
+    "power": 5960
+  },
+  {
+    "id": 856,
+    "buff_rank": 16,
+    "level": 43,
+    "power": 6370
+  },
+  {
+    "id": 857,
+    "buff_rank": 17,
+    "level": 43,
+    "power": 6790
+  },
+  {
+    "id": 858,
+    "buff_rank": 18,
+    "level": 43,
+    "power": 7200
+  },
+  {
+    "id": 859,
+    "buff_rank": 19,
+    "level": 43,
+    "power": 7620
+  },
+  {
+    "id": 860,
+    "buff_rank": 20,
+    "level": 43,
+    "power": 8030
+  },
+  {
+    "id": 861,
+    "buff_rank": 1,
+    "level": 44,
+    "power": 1810
+  },
+  {
+    "id": 862,
+    "buff_rank": 2,
+    "level": 44,
+    "power": 2050
+  },
+  {
+    "id": 863,
+    "buff_rank": 3,
+    "level": 44,
+    "power": 2280
+  },
+  {
+    "id": 864,
+    "buff_rank": 4,
+    "level": 44,
+    "power": 2520
+  },
+  {
+    "id": 865,
+    "buff_rank": 5,
+    "level": 44,
+    "power": 2760
+  },
+  {
+    "id": 866,
+    "buff_rank": 6,
+    "level": 44,
+    "power": 2990
+  },
+  {
+    "id": 867,
+    "buff_rank": 7,
+    "level": 44,
+    "power": 3230
+  },
+  {
+    "id": 868,
+    "buff_rank": 8,
+    "level": 44,
+    "power": 3470
+  },
+  {
+    "id": 869,
+    "buff_rank": 9,
+    "level": 44,
+    "power": 3700
+  },
+  {
+    "id": 870,
+    "buff_rank": 10,
+    "level": 44,
+    "power": 3940
+  },
+  {
+    "id": 871,
+    "buff_rank": 11,
+    "level": 44,
+    "power": 4370
+  },
+  {
+    "id": 872,
+    "buff_rank": 12,
+    "level": 44,
+    "power": 4790
+  },
+  {
+    "id": 873,
+    "buff_rank": 13,
+    "level": 44,
+    "power": 5220
+  },
+  {
+    "id": 874,
+    "buff_rank": 14,
+    "level": 44,
+    "power": 5640
+  },
+  {
+    "id": 875,
+    "buff_rank": 15,
+    "level": 44,
+    "power": 6070
+  },
+  {
+    "id": 876,
+    "buff_rank": 16,
+    "level": 44,
+    "power": 6500
+  },
+  {
+    "id": 877,
+    "buff_rank": 17,
+    "level": 44,
+    "power": 6920
+  },
+  {
+    "id": 878,
+    "buff_rank": 18,
+    "level": 44,
+    "power": 7350
+  },
+  {
+    "id": 879,
+    "buff_rank": 19,
+    "level": 44,
+    "power": 7770
+  },
+  {
+    "id": 880,
+    "buff_rank": 20,
+    "level": 44,
+    "power": 8200
+  },
+  {
+    "id": 881,
+    "buff_rank": 1,
+    "level": 45,
+    "power": 1870
+  },
+  {
+    "id": 882,
+    "buff_rank": 2,
+    "level": 45,
+    "power": 2130
+  },
+  {
+    "id": 883,
+    "buff_rank": 3,
+    "level": 45,
+    "power": 2390
+  },
+  {
+    "id": 884,
+    "buff_rank": 4,
+    "level": 45,
+    "power": 2650
+  },
+  {
+    "id": 885,
+    "buff_rank": 5,
+    "level": 45,
+    "power": 2910
+  },
+  {
+    "id": 886,
+    "buff_rank": 6,
+    "level": 45,
+    "power": 3160
+  },
+  {
+    "id": 887,
+    "buff_rank": 7,
+    "level": 45,
+    "power": 3420
+  },
+  {
+    "id": 888,
+    "buff_rank": 8,
+    "level": 45,
+    "power": 3680
+  },
+  {
+    "id": 889,
+    "buff_rank": 9,
+    "level": 45,
+    "power": 3940
+  },
+  {
+    "id": 890,
+    "buff_rank": 10,
+    "level": 45,
+    "power": 4200
+  },
+  {
+    "id": 891,
+    "buff_rank": 11,
+    "level": 45,
+    "power": 4650
+  },
+  {
+    "id": 892,
+    "buff_rank": 12,
+    "level": 45,
+    "power": 5100
+  },
+  {
+    "id": 893,
+    "buff_rank": 13,
+    "level": 45,
+    "power": 5540
+  },
+  {
+    "id": 894,
+    "buff_rank": 14,
+    "level": 45,
+    "power": 5990
+  },
+  {
+    "id": 895,
+    "buff_rank": 15,
+    "level": 45,
+    "power": 6440
+  },
+  {
+    "id": 896,
+    "buff_rank": 16,
+    "level": 45,
+    "power": 6890
+  },
+  {
+    "id": 897,
+    "buff_rank": 17,
+    "level": 45,
+    "power": 7340
+  },
+  {
+    "id": 898,
+    "buff_rank": 18,
+    "level": 45,
+    "power": 7780
+  },
+  {
+    "id": 899,
+    "buff_rank": 19,
+    "level": 45,
+    "power": 8230
+  },
+  {
+    "id": 900,
+    "buff_rank": 20,
+    "level": 45,
+    "power": 8680
+  },
+  {
+    "id": 901,
+    "buff_rank": 1,
+    "level": 46,
+    "power": 1920
+  },
+  {
+    "id": 902,
+    "buff_rank": 2,
+    "level": 46,
+    "power": 2190
+  },
+  {
+    "id": 903,
+    "buff_rank": 3,
+    "level": 46,
+    "power": 2460
+  },
+  {
+    "id": 904,
+    "buff_rank": 4,
+    "level": 46,
+    "power": 2730
+  },
+  {
+    "id": 905,
+    "buff_rank": 5,
+    "level": 46,
+    "power": 3000
+  },
+  {
+    "id": 906,
+    "buff_rank": 6,
+    "level": 46,
+    "power": 3280
+  },
+  {
+    "id": 907,
+    "buff_rank": 7,
+    "level": 46,
+    "power": 3550
+  },
+  {
+    "id": 908,
+    "buff_rank": 8,
+    "level": 46,
+    "power": 3820
+  },
+  {
+    "id": 909,
+    "buff_rank": 9,
+    "level": 46,
+    "power": 4090
+  },
+  {
+    "id": 910,
+    "buff_rank": 10,
+    "level": 46,
+    "power": 4360
+  },
+  {
+    "id": 911,
+    "buff_rank": 11,
+    "level": 46,
+    "power": 4830
+  },
+  {
+    "id": 912,
+    "buff_rank": 12,
+    "level": 46,
+    "power": 5290
+  },
+  {
+    "id": 913,
+    "buff_rank": 13,
+    "level": 46,
+    "power": 5760
+  },
+  {
+    "id": 914,
+    "buff_rank": 14,
+    "level": 46,
+    "power": 6220
+  },
+  {
+    "id": 915,
+    "buff_rank": 15,
+    "level": 46,
+    "power": 6690
+  },
+  {
+    "id": 916,
+    "buff_rank": 16,
+    "level": 46,
+    "power": 7150
+  },
+  {
+    "id": 917,
+    "buff_rank": 17,
+    "level": 46,
+    "power": 7620
+  },
+  {
+    "id": 918,
+    "buff_rank": 18,
+    "level": 46,
+    "power": 8080
+  },
+  {
+    "id": 919,
+    "buff_rank": 19,
+    "level": 46,
+    "power": 8550
+  },
+  {
+    "id": 920,
+    "buff_rank": 20,
+    "level": 46,
+    "power": 9010
+  },
+  {
+    "id": 921,
+    "buff_rank": 1,
+    "level": 47,
+    "power": 1980
+  },
+  {
+    "id": 922,
+    "buff_rank": 2,
+    "level": 47,
+    "power": 2250
+  },
+  {
+    "id": 923,
+    "buff_rank": 3,
+    "level": 47,
+    "power": 2530
+  },
+  {
+    "id": 924,
+    "buff_rank": 4,
+    "level": 47,
+    "power": 2800
+  },
+  {
+    "id": 925,
+    "buff_rank": 5,
+    "level": 47,
+    "power": 3080
+  },
+  {
+    "id": 926,
+    "buff_rank": 6,
+    "level": 47,
+    "power": 3350
+  },
+  {
+    "id": 927,
+    "buff_rank": 7,
+    "level": 47,
+    "power": 3630
+  },
+  {
+    "id": 928,
+    "buff_rank": 8,
+    "level": 47,
+    "power": 3900
+  },
+  {
+    "id": 929,
+    "buff_rank": 9,
+    "level": 47,
+    "power": 4180
+  },
+  {
+    "id": 930,
+    "buff_rank": 10,
+    "level": 47,
+    "power": 4450
+  },
+  {
+    "id": 931,
+    "buff_rank": 11,
+    "level": 47,
+    "power": 4930
+  },
+  {
+    "id": 932,
+    "buff_rank": 12,
+    "level": 47,
+    "power": 5410
+  },
+  {
+    "id": 933,
+    "buff_rank": 13,
+    "level": 47,
+    "power": 5890
+  },
+  {
+    "id": 934,
+    "buff_rank": 14,
+    "level": 47,
+    "power": 6370
+  },
+  {
+    "id": 935,
+    "buff_rank": 15,
+    "level": 47,
+    "power": 6850
+  },
+  {
+    "id": 936,
+    "buff_rank": 16,
+    "level": 47,
+    "power": 7330
+  },
+  {
+    "id": 937,
+    "buff_rank": 17,
+    "level": 47,
+    "power": 7810
+  },
+  {
+    "id": 938,
+    "buff_rank": 18,
+    "level": 47,
+    "power": 8290
+  },
+  {
+    "id": 939,
+    "buff_rank": 19,
+    "level": 47,
+    "power": 8770
+  },
+  {
+    "id": 940,
+    "buff_rank": 20,
+    "level": 47,
+    "power": 9250
+  },
+  {
+    "id": 941,
+    "buff_rank": 1,
+    "level": 48,
+    "power": 2040
+  },
+  {
+    "id": 942,
+    "buff_rank": 2,
+    "level": 48,
+    "power": 2320
+  },
+  {
+    "id": 943,
+    "buff_rank": 3,
+    "level": 48,
+    "power": 2600
+  },
+  {
+    "id": 944,
+    "buff_rank": 4,
+    "level": 48,
+    "power": 2870
+  },
+  {
+    "id": 945,
+    "buff_rank": 5,
+    "level": 48,
+    "power": 3150
+  },
+  {
+    "id": 946,
+    "buff_rank": 6,
+    "level": 48,
+    "power": 3430
+  },
+  {
+    "id": 947,
+    "buff_rank": 7,
+    "level": 48,
+    "power": 3710
+  },
+  {
+    "id": 948,
+    "buff_rank": 8,
+    "level": 48,
+    "power": 3980
+  },
+  {
+    "id": 949,
+    "buff_rank": 9,
+    "level": 48,
+    "power": 4260
+  },
+  {
+    "id": 950,
+    "buff_rank": 10,
+    "level": 48,
+    "power": 4540
+  },
+  {
+    "id": 951,
+    "buff_rank": 11,
+    "level": 48,
+    "power": 5040
+  },
+  {
+    "id": 952,
+    "buff_rank": 12,
+    "level": 48,
+    "power": 5530
+  },
+  {
+    "id": 953,
+    "buff_rank": 13,
+    "level": 48,
+    "power": 6030
+  },
+  {
+    "id": 954,
+    "buff_rank": 14,
+    "level": 48,
+    "power": 6520
+  },
+  {
+    "id": 955,
+    "buff_rank": 15,
+    "level": 48,
+    "power": 7020
+  },
+  {
+    "id": 956,
+    "buff_rank": 16,
+    "level": 48,
+    "power": 7510
+  },
+  {
+    "id": 957,
+    "buff_rank": 17,
+    "level": 48,
+    "power": 8010
+  },
+  {
+    "id": 958,
+    "buff_rank": 18,
+    "level": 48,
+    "power": 8500
+  },
+  {
+    "id": 959,
+    "buff_rank": 19,
+    "level": 48,
+    "power": 9000
+  },
+  {
+    "id": 960,
+    "buff_rank": 20,
+    "level": 48,
+    "power": 9490
+  },
+  {
+    "id": 961,
+    "buff_rank": 1,
+    "level": 49,
+    "power": 2100
+  },
+  {
+    "id": 962,
+    "buff_rank": 2,
+    "level": 49,
+    "power": 2380
+  },
+  {
+    "id": 963,
+    "buff_rank": 3,
+    "level": 49,
+    "power": 2660
+  },
+  {
+    "id": 964,
+    "buff_rank": 4,
+    "level": 49,
+    "power": 2940
+  },
+  {
+    "id": 965,
+    "buff_rank": 5,
+    "level": 49,
+    "power": 3220
+  },
+  {
+    "id": 966,
+    "buff_rank": 6,
+    "level": 49,
+    "power": 3510
+  },
+  {
+    "id": 967,
+    "buff_rank": 7,
+    "level": 49,
+    "power": 3790
+  },
+  {
+    "id": 968,
+    "buff_rank": 8,
+    "level": 49,
+    "power": 4070
+  },
+  {
+    "id": 969,
+    "buff_rank": 9,
+    "level": 49,
+    "power": 4350
+  },
+  {
+    "id": 970,
+    "buff_rank": 10,
+    "level": 49,
+    "power": 4630
+  },
+  {
+    "id": 971,
+    "buff_rank": 11,
+    "level": 49,
+    "power": 5140
+  },
+  {
+    "id": 972,
+    "buff_rank": 12,
+    "level": 49,
+    "power": 5650
+  },
+  {
+    "id": 973,
+    "buff_rank": 13,
+    "level": 49,
+    "power": 6160
+  },
+  {
+    "id": 974,
+    "buff_rank": 14,
+    "level": 49,
+    "power": 6670
+  },
+  {
+    "id": 975,
+    "buff_rank": 15,
+    "level": 49,
+    "power": 7190
+  },
+  {
+    "id": 976,
+    "buff_rank": 16,
+    "level": 49,
+    "power": 7700
+  },
+  {
+    "id": 977,
+    "buff_rank": 17,
+    "level": 49,
+    "power": 8210
+  },
+  {
+    "id": 978,
+    "buff_rank": 18,
+    "level": 49,
+    "power": 8720
+  },
+  {
+    "id": 979,
+    "buff_rank": 19,
+    "level": 49,
+    "power": 9230
+  },
+  {
+    "id": 980,
+    "buff_rank": 20,
+    "level": 49,
+    "power": 9740
+  },
+  {
+    "id": 981,
+    "buff_rank": 1,
+    "level": 50,
+    "power": 2160
+  },
+  {
+    "id": 982,
+    "buff_rank": 2,
+    "level": 50,
+    "power": 2470
+  },
+  {
+    "id": 983,
+    "buff_rank": 3,
+    "level": 50,
+    "power": 2790
+  },
+  {
+    "id": 984,
+    "buff_rank": 4,
+    "level": 50,
+    "power": 3100
+  },
+  {
+    "id": 985,
+    "buff_rank": 5,
+    "level": 50,
+    "power": 3410
+  },
+  {
+    "id": 986,
+    "buff_rank": 6,
+    "level": 50,
+    "power": 3730
+  },
+  {
+    "id": 987,
+    "buff_rank": 7,
+    "level": 50,
+    "power": 4040
+  },
+  {
+    "id": 988,
+    "buff_rank": 8,
+    "level": 50,
+    "power": 4350
+  },
+  {
+    "id": 989,
+    "buff_rank": 9,
+    "level": 50,
+    "power": 4670
+  },
+  {
+    "id": 990,
+    "buff_rank": 10,
+    "level": 50,
+    "power": 4980
+  },
+  {
+    "id": 991,
+    "buff_rank": 11,
+    "level": 50,
+    "power": 5550
+  },
+  {
+    "id": 992,
+    "buff_rank": 12,
+    "level": 50,
+    "power": 6120
+  },
+  {
+    "id": 993,
+    "buff_rank": 13,
+    "level": 50,
+    "power": 6680
+  },
+  {
+    "id": 994,
+    "buff_rank": 14,
+    "level": 50,
+    "power": 7250
+  },
+  {
+    "id": 995,
+    "buff_rank": 15,
+    "level": 50,
+    "power": 7820
+  },
+  {
+    "id": 996,
+    "buff_rank": 16,
+    "level": 50,
+    "power": 8390
+  },
+  {
+    "id": 997,
+    "buff_rank": 17,
+    "level": 50,
+    "power": 8960
+  },
+  {
+    "id": 998,
+    "buff_rank": 18,
+    "level": 50,
+    "power": 9520
+  },
+  {
+    "id": 999,
+    "buff_rank": 19,
+    "level": 50,
+    "power": 10090
+  },
+  {
+    "id": 1000,
+    "buff_rank": 20,
+    "level": 50,
+    "power": 10660
+  },
+  {
+    "id": 1001,
+    "buff_rank": 1,
+    "level": 51,
+    "power": 2210
+  },
+  {
+    "id": 1002,
+    "buff_rank": 2,
+    "level": 51,
+    "power": 2530
+  },
+  {
+    "id": 1003,
+    "buff_rank": 3,
+    "level": 51,
+    "power": 2850
+  },
+  {
+    "id": 1004,
+    "buff_rank": 4,
+    "level": 51,
+    "power": 3160
+  },
+  {
+    "id": 1005,
+    "buff_rank": 5,
+    "level": 51,
+    "power": 3480
+  },
+  {
+    "id": 1006,
+    "buff_rank": 6,
+    "level": 51,
+    "power": 3800
+  },
+  {
+    "id": 1007,
+    "buff_rank": 7,
+    "level": 51,
+    "power": 4120
+  },
+  {
+    "id": 1008,
+    "buff_rank": 8,
+    "level": 51,
+    "power": 4430
+  },
+  {
+    "id": 1009,
+    "buff_rank": 9,
+    "level": 51,
+    "power": 4750
+  },
+  {
+    "id": 1010,
+    "buff_rank": 10,
+    "level": 51,
+    "power": 5070
+  },
+  {
+    "id": 1011,
+    "buff_rank": 11,
+    "level": 51,
+    "power": 5680
+  },
+  {
+    "id": 1012,
+    "buff_rank": 12,
+    "level": 51,
+    "power": 6300
+  },
+  {
+    "id": 1013,
+    "buff_rank": 13,
+    "level": 51,
+    "power": 6910
+  },
+  {
+    "id": 1014,
+    "buff_rank": 14,
+    "level": 51,
+    "power": 7520
+  },
+  {
+    "id": 1015,
+    "buff_rank": 15,
+    "level": 51,
+    "power": 8140
+  },
+  {
+    "id": 1016,
+    "buff_rank": 16,
+    "level": 51,
+    "power": 8750
+  },
+  {
+    "id": 1017,
+    "buff_rank": 17,
+    "level": 51,
+    "power": 9360
+  },
+  {
+    "id": 1018,
+    "buff_rank": 18,
+    "level": 51,
+    "power": 9970
+  },
+  {
+    "id": 1019,
+    "buff_rank": 19,
+    "level": 51,
+    "power": 10590
+  },
+  {
+    "id": 1020,
+    "buff_rank": 20,
+    "level": 51,
+    "power": 11200
+  },
+  {
+    "id": 1021,
+    "buff_rank": 1,
+    "level": 52,
+    "power": 2270
+  },
+  {
+    "id": 1022,
+    "buff_rank": 2,
+    "level": 52,
+    "power": 2590
+  },
+  {
+    "id": 1023,
+    "buff_rank": 3,
+    "level": 52,
+    "power": 2910
+  },
+  {
+    "id": 1024,
+    "buff_rank": 4,
+    "level": 52,
+    "power": 3230
+  },
+  {
+    "id": 1025,
+    "buff_rank": 5,
+    "level": 52,
+    "power": 3550
+  },
+  {
+    "id": 1026,
+    "buff_rank": 6,
+    "level": 52,
+    "power": 3880
+  },
+  {
+    "id": 1027,
+    "buff_rank": 7,
+    "level": 52,
+    "power": 4200
+  },
+  {
+    "id": 1028,
+    "buff_rank": 8,
+    "level": 52,
+    "power": 4520
+  },
+  {
+    "id": 1029,
+    "buff_rank": 9,
+    "level": 52,
+    "power": 4840
+  },
+  {
+    "id": 1030,
+    "buff_rank": 10,
+    "level": 52,
+    "power": 5160
+  },
+  {
+    "id": 1031,
+    "buff_rank": 11,
+    "level": 52,
+    "power": 5800
+  },
+  {
+    "id": 1032,
+    "buff_rank": 12,
+    "level": 52,
+    "power": 6430
+  },
+  {
+    "id": 1033,
+    "buff_rank": 13,
+    "level": 52,
+    "power": 7070
+  },
+  {
+    "id": 1034,
+    "buff_rank": 14,
+    "level": 52,
+    "power": 7710
+  },
+  {
+    "id": 1035,
+    "buff_rank": 15,
+    "level": 52,
+    "power": 8350
+  },
+  {
+    "id": 1036,
+    "buff_rank": 16,
+    "level": 52,
+    "power": 8980
+  },
+  {
+    "id": 1037,
+    "buff_rank": 17,
+    "level": 52,
+    "power": 9620
+  },
+  {
+    "id": 1038,
+    "buff_rank": 18,
+    "level": 52,
+    "power": 10260
+  },
+  {
+    "id": 1039,
+    "buff_rank": 19,
+    "level": 52,
+    "power": 10890
+  },
+  {
+    "id": 1040,
+    "buff_rank": 20,
+    "level": 52,
+    "power": 11530
+  },
+  {
+    "id": 1041,
+    "buff_rank": 1,
+    "level": 53,
+    "power": 2330
+  },
+  {
+    "id": 1042,
+    "buff_rank": 2,
+    "level": 53,
+    "power": 2660
+  },
+  {
+    "id": 1043,
+    "buff_rank": 3,
+    "level": 53,
+    "power": 2980
+  },
+  {
+    "id": 1044,
+    "buff_rank": 4,
+    "level": 53,
+    "power": 3310
+  },
+  {
+    "id": 1045,
+    "buff_rank": 5,
+    "level": 53,
+    "power": 3630
+  },
+  {
+    "id": 1046,
+    "buff_rank": 6,
+    "level": 53,
+    "power": 3960
+  },
+  {
+    "id": 1047,
+    "buff_rank": 7,
+    "level": 53,
+    "power": 4280
+  },
+  {
+    "id": 1048,
+    "buff_rank": 8,
+    "level": 53,
+    "power": 4610
+  },
+  {
+    "id": 1049,
+    "buff_rank": 9,
+    "level": 53,
+    "power": 4930
+  },
+  {
+    "id": 1050,
+    "buff_rank": 10,
+    "level": 53,
+    "power": 5260
+  },
+  {
+    "id": 1051,
+    "buff_rank": 11,
+    "level": 53,
+    "power": 5920
+  },
+  {
+    "id": 1052,
+    "buff_rank": 12,
+    "level": 53,
+    "power": 6580
+  },
+  {
+    "id": 1053,
+    "buff_rank": 13,
+    "level": 53,
+    "power": 7240
+  },
+  {
+    "id": 1054,
+    "buff_rank": 14,
+    "level": 53,
+    "power": 7900
+  },
+  {
+    "id": 1055,
+    "buff_rank": 15,
+    "level": 53,
+    "power": 8570
+  },
+  {
+    "id": 1056,
+    "buff_rank": 16,
+    "level": 53,
+    "power": 9230
+  },
+  {
+    "id": 1057,
+    "buff_rank": 17,
+    "level": 53,
+    "power": 9890
+  },
+  {
+    "id": 1058,
+    "buff_rank": 18,
+    "level": 53,
+    "power": 10550
+  },
+  {
+    "id": 1059,
+    "buff_rank": 19,
+    "level": 53,
+    "power": 11210
+  },
+  {
+    "id": 1060,
+    "buff_rank": 20,
+    "level": 53,
+    "power": 11870
+  },
+  {
+    "id": 1061,
+    "buff_rank": 1,
+    "level": 54,
+    "power": 2390
+  },
+  {
+    "id": 1062,
+    "buff_rank": 2,
+    "level": 54,
+    "power": 2720
+  },
+  {
+    "id": 1063,
+    "buff_rank": 3,
+    "level": 54,
+    "power": 3050
+  },
+  {
+    "id": 1064,
+    "buff_rank": 4,
+    "level": 54,
+    "power": 3380
+  },
+  {
+    "id": 1065,
+    "buff_rank": 5,
+    "level": 54,
+    "power": 3710
+  },
+  {
+    "id": 1066,
+    "buff_rank": 6,
+    "level": 54,
+    "power": 4030
+  },
+  {
+    "id": 1067,
+    "buff_rank": 7,
+    "level": 54,
+    "power": 4360
+  },
+  {
+    "id": 1068,
+    "buff_rank": 8,
+    "level": 54,
+    "power": 4690
+  },
+  {
+    "id": 1069,
+    "buff_rank": 9,
+    "level": 54,
+    "power": 5020
+  },
+  {
+    "id": 1070,
+    "buff_rank": 10,
+    "level": 54,
+    "power": 5350
+  },
+  {
+    "id": 1071,
+    "buff_rank": 11,
+    "level": 54,
+    "power": 6040
+  },
+  {
+    "id": 1072,
+    "buff_rank": 12,
+    "level": 54,
+    "power": 6720
+  },
+  {
+    "id": 1073,
+    "buff_rank": 13,
+    "level": 54,
+    "power": 7410
+  },
+  {
+    "id": 1074,
+    "buff_rank": 14,
+    "level": 54,
+    "power": 8090
+  },
+  {
+    "id": 1075,
+    "buff_rank": 15,
+    "level": 54,
+    "power": 8780
+  },
+  {
+    "id": 1076,
+    "buff_rank": 16,
+    "level": 54,
+    "power": 9470
+  },
+  {
+    "id": 1077,
+    "buff_rank": 17,
+    "level": 54,
+    "power": 10150
+  },
+  {
+    "id": 1078,
+    "buff_rank": 18,
+    "level": 54,
+    "power": 10840
+  },
+  {
+    "id": 1079,
+    "buff_rank": 19,
+    "level": 54,
+    "power": 11520
+  },
+  {
+    "id": 1080,
+    "buff_rank": 20,
+    "level": 54,
+    "power": 12210
+  },
+  {
+    "id": 1081,
+    "buff_rank": 1,
+    "level": 55,
+    "power": 2440
+  },
+  {
+    "id": 1082,
+    "buff_rank": 2,
+    "level": 55,
+    "power": 2810
+  },
+  {
+    "id": 1083,
+    "buff_rank": 3,
+    "level": 55,
+    "power": 3190
+  },
+  {
+    "id": 1084,
+    "buff_rank": 4,
+    "level": 55,
+    "power": 3560
+  },
+  {
+    "id": 1085,
+    "buff_rank": 5,
+    "level": 55,
+    "power": 3930
+  },
+  {
+    "id": 1086,
+    "buff_rank": 6,
+    "level": 55,
+    "power": 4310
+  },
+  {
+    "id": 1087,
+    "buff_rank": 7,
+    "level": 55,
+    "power": 4680
+  },
+  {
+    "id": 1088,
+    "buff_rank": 8,
+    "level": 55,
+    "power": 5050
+  },
+  {
+    "id": 1089,
+    "buff_rank": 9,
+    "level": 55,
+    "power": 5430
+  },
+  {
+    "id": 1090,
+    "buff_rank": 10,
+    "level": 55,
+    "power": 5800
+  },
+  {
+    "id": 1091,
+    "buff_rank": 11,
+    "level": 55,
+    "power": 6530
+  },
+  {
+    "id": 1092,
+    "buff_rank": 12,
+    "level": 55,
+    "power": 7260
+  },
+  {
+    "id": 1093,
+    "buff_rank": 13,
+    "level": 55,
+    "power": 7980
+  },
+  {
+    "id": 1094,
+    "buff_rank": 14,
+    "level": 55,
+    "power": 8710
+  },
+  {
+    "id": 1095,
+    "buff_rank": 15,
+    "level": 55,
+    "power": 9440
+  },
+  {
+    "id": 1096,
+    "buff_rank": 16,
+    "level": 55,
+    "power": 10170
+  },
+  {
+    "id": 1097,
+    "buff_rank": 17,
+    "level": 55,
+    "power": 10900
+  },
+  {
+    "id": 1098,
+    "buff_rank": 18,
+    "level": 55,
+    "power": 11620
+  },
+  {
+    "id": 1099,
+    "buff_rank": 19,
+    "level": 55,
+    "power": 12350
+  },
+  {
+    "id": 1100,
+    "buff_rank": 20,
+    "level": 55,
+    "power": 13080
+  },
+  {
+    "id": 1101,
+    "buff_rank": 1,
+    "level": 56,
+    "power": 2500
+  },
+  {
+    "id": 1102,
+    "buff_rank": 2,
+    "level": 56,
+    "power": 2880
+  },
+  {
+    "id": 1103,
+    "buff_rank": 3,
+    "level": 56,
+    "power": 3250
+  },
+  {
+    "id": 1104,
+    "buff_rank": 4,
+    "level": 56,
+    "power": 3630
+  },
+  {
+    "id": 1105,
+    "buff_rank": 5,
+    "level": 56,
+    "power": 4010
+  },
+  {
+    "id": 1106,
+    "buff_rank": 6,
+    "level": 56,
+    "power": 4380
+  },
+  {
+    "id": 1107,
+    "buff_rank": 7,
+    "level": 56,
+    "power": 4760
+  },
+  {
+    "id": 1108,
+    "buff_rank": 8,
+    "level": 56,
+    "power": 5140
+  },
+  {
+    "id": 1109,
+    "buff_rank": 9,
+    "level": 56,
+    "power": 5510
+  },
+  {
+    "id": 1110,
+    "buff_rank": 10,
+    "level": 56,
+    "power": 5890
+  },
+  {
+    "id": 1111,
+    "buff_rank": 11,
+    "level": 56,
+    "power": 6640
+  },
+  {
+    "id": 1112,
+    "buff_rank": 12,
+    "level": 56,
+    "power": 7400
+  },
+  {
+    "id": 1113,
+    "buff_rank": 13,
+    "level": 56,
+    "power": 8150
+  },
+  {
+    "id": 1114,
+    "buff_rank": 14,
+    "level": 56,
+    "power": 8910
+  },
+  {
+    "id": 1115,
+    "buff_rank": 15,
+    "level": 56,
+    "power": 9660
+  },
+  {
+    "id": 1116,
+    "buff_rank": 16,
+    "level": 56,
+    "power": 10410
+  },
+  {
+    "id": 1117,
+    "buff_rank": 17,
+    "level": 56,
+    "power": 11170
+  },
+  {
+    "id": 1118,
+    "buff_rank": 18,
+    "level": 56,
+    "power": 11920
+  },
+  {
+    "id": 1119,
+    "buff_rank": 19,
+    "level": 56,
+    "power": 12680
+  },
+  {
+    "id": 1120,
+    "buff_rank": 20,
+    "level": 56,
+    "power": 13430
+  },
+  {
+    "id": 1121,
+    "buff_rank": 1,
+    "level": 57,
+    "power": 2560
+  },
+  {
+    "id": 1122,
+    "buff_rank": 2,
+    "level": 57,
+    "power": 2940
+  },
+  {
+    "id": 1123,
+    "buff_rank": 3,
+    "level": 57,
+    "power": 3320
+  },
+  {
+    "id": 1124,
+    "buff_rank": 4,
+    "level": 57,
+    "power": 3700
+  },
+  {
+    "id": 1125,
+    "buff_rank": 5,
+    "level": 57,
+    "power": 4080
+  },
+  {
+    "id": 1126,
+    "buff_rank": 6,
+    "level": 57,
+    "power": 4460
+  },
+  {
+    "id": 1127,
+    "buff_rank": 7,
+    "level": 57,
+    "power": 4840
+  },
+  {
+    "id": 1128,
+    "buff_rank": 8,
+    "level": 57,
+    "power": 5220
+  },
+  {
+    "id": 1129,
+    "buff_rank": 9,
+    "level": 57,
+    "power": 5600
+  },
+  {
+    "id": 1130,
+    "buff_rank": 10,
+    "level": 57,
+    "power": 5980
+  },
+  {
+    "id": 1131,
+    "buff_rank": 11,
+    "level": 57,
+    "power": 6760
+  },
+  {
+    "id": 1132,
+    "buff_rank": 12,
+    "level": 57,
+    "power": 7540
+  },
+  {
+    "id": 1133,
+    "buff_rank": 13,
+    "level": 57,
+    "power": 8320
+  },
+  {
+    "id": 1134,
+    "buff_rank": 14,
+    "level": 57,
+    "power": 9100
+  },
+  {
+    "id": 1135,
+    "buff_rank": 15,
+    "level": 57,
+    "power": 9880
+  },
+  {
+    "id": 1136,
+    "buff_rank": 16,
+    "level": 57,
+    "power": 10660
+  },
+  {
+    "id": 1137,
+    "buff_rank": 17,
+    "level": 57,
+    "power": 11440
+  },
+  {
+    "id": 1138,
+    "buff_rank": 18,
+    "level": 57,
+    "power": 12220
+  },
+  {
+    "id": 1139,
+    "buff_rank": 19,
+    "level": 57,
+    "power": 13000
+  },
+  {
+    "id": 1140,
+    "buff_rank": 20,
+    "level": 57,
+    "power": 13780
+  },
+  {
+    "id": 1141,
+    "buff_rank": 1,
+    "level": 58,
+    "power": 2620
+  },
+  {
+    "id": 1142,
+    "buff_rank": 2,
+    "level": 58,
+    "power": 3000
+  },
+  {
+    "id": 1143,
+    "buff_rank": 3,
+    "level": 58,
+    "power": 3390
+  },
+  {
+    "id": 1144,
+    "buff_rank": 4,
+    "level": 58,
+    "power": 3770
+  },
+  {
+    "id": 1145,
+    "buff_rank": 5,
+    "level": 58,
+    "power": 4150
+  },
+  {
+    "id": 1146,
+    "buff_rank": 6,
+    "level": 58,
+    "power": 4540
+  },
+  {
+    "id": 1147,
+    "buff_rank": 7,
+    "level": 58,
+    "power": 4920
+  },
+  {
+    "id": 1148,
+    "buff_rank": 8,
+    "level": 58,
+    "power": 5300
+  },
+  {
+    "id": 1149,
+    "buff_rank": 9,
+    "level": 58,
+    "power": 5690
+  },
+  {
+    "id": 1150,
+    "buff_rank": 10,
+    "level": 58,
+    "power": 6070
+  },
+  {
+    "id": 1151,
+    "buff_rank": 11,
+    "level": 58,
+    "power": 6880
+  },
+  {
+    "id": 1152,
+    "buff_rank": 12,
+    "level": 58,
+    "power": 7680
+  },
+  {
+    "id": 1153,
+    "buff_rank": 13,
+    "level": 58,
+    "power": 8490
+  },
+  {
+    "id": 1154,
+    "buff_rank": 14,
+    "level": 58,
+    "power": 9300
+  },
+  {
+    "id": 1155,
+    "buff_rank": 15,
+    "level": 58,
+    "power": 10110
+  },
+  {
+    "id": 1156,
+    "buff_rank": 16,
+    "level": 58,
+    "power": 10910
+  },
+  {
+    "id": 1157,
+    "buff_rank": 17,
+    "level": 58,
+    "power": 11720
+  },
+  {
+    "id": 1158,
+    "buff_rank": 18,
+    "level": 58,
+    "power": 12530
+  },
+  {
+    "id": 1159,
+    "buff_rank": 19,
+    "level": 58,
+    "power": 13330
+  },
+  {
+    "id": 1160,
+    "buff_rank": 20,
+    "level": 58,
+    "power": 14140
+  },
+  {
+    "id": 1161,
+    "buff_rank": 1,
+    "level": 59,
+    "power": 2670
+  },
+  {
+    "id": 1162,
+    "buff_rank": 2,
+    "level": 59,
+    "power": 3060
+  },
+  {
+    "id": 1163,
+    "buff_rank": 3,
+    "level": 59,
+    "power": 3450
+  },
+  {
+    "id": 1164,
+    "buff_rank": 4,
+    "level": 59,
+    "power": 3830
+  },
+  {
+    "id": 1165,
+    "buff_rank": 5,
+    "level": 59,
+    "power": 4220
+  },
+  {
+    "id": 1166,
+    "buff_rank": 6,
+    "level": 59,
+    "power": 4610
+  },
+  {
+    "id": 1167,
+    "buff_rank": 7,
+    "level": 59,
+    "power": 5000
+  },
+  {
+    "id": 1168,
+    "buff_rank": 8,
+    "level": 59,
+    "power": 5380
+  },
+  {
+    "id": 1169,
+    "buff_rank": 9,
+    "level": 59,
+    "power": 5770
+  },
+  {
+    "id": 1170,
+    "buff_rank": 10,
+    "level": 59,
+    "power": 6160
+  },
+  {
+    "id": 1171,
+    "buff_rank": 11,
+    "level": 59,
+    "power": 6990
+  },
+  {
+    "id": 1172,
+    "buff_rank": 12,
+    "level": 59,
+    "power": 7830
+  },
+  {
+    "id": 1173,
+    "buff_rank": 13,
+    "level": 59,
+    "power": 8660
+  },
+  {
+    "id": 1174,
+    "buff_rank": 14,
+    "level": 59,
+    "power": 9500
+  },
+  {
+    "id": 1175,
+    "buff_rank": 15,
+    "level": 59,
+    "power": 10330
+  },
+  {
+    "id": 1176,
+    "buff_rank": 16,
+    "level": 59,
+    "power": 11160
+  },
+  {
+    "id": 1177,
+    "buff_rank": 17,
+    "level": 59,
+    "power": 12000
+  },
+  {
+    "id": 1178,
+    "buff_rank": 18,
+    "level": 59,
+    "power": 12830
+  },
+  {
+    "id": 1179,
+    "buff_rank": 19,
+    "level": 59,
+    "power": 13670
+  },
+  {
+    "id": 1180,
+    "buff_rank": 20,
+    "level": 59,
+    "power": 14500
+  },
+  {
+    "id": 1181,
+    "buff_rank": 1,
+    "level": 60,
+    "power": 2730
+  },
+  {
+    "id": 1182,
+    "buff_rank": 2,
+    "level": 60,
+    "power": 3140
+  },
+  {
+    "id": 1183,
+    "buff_rank": 3,
+    "level": 60,
+    "power": 3550
+  },
+  {
+    "id": 1184,
+    "buff_rank": 4,
+    "level": 60,
+    "power": 3970
+  },
+  {
+    "id": 1185,
+    "buff_rank": 5,
+    "level": 60,
+    "power": 4380
+  },
+  {
+    "id": 1186,
+    "buff_rank": 6,
+    "level": 60,
+    "power": 4790
+  },
+  {
+    "id": 1187,
+    "buff_rank": 7,
+    "level": 60,
+    "power": 5200
+  },
+  {
+    "id": 1188,
+    "buff_rank": 8,
+    "level": 60,
+    "power": 5620
+  },
+  {
+    "id": 1189,
+    "buff_rank": 9,
+    "level": 60,
+    "power": 6030
+  },
+  {
+    "id": 1190,
+    "buff_rank": 10,
+    "level": 60,
+    "power": 6440
+  },
+  {
+    "id": 1191,
+    "buff_rank": 11,
+    "level": 60,
+    "power": 7360
+  },
+  {
+    "id": 1192,
+    "buff_rank": 12,
+    "level": 60,
+    "power": 8270
+  },
+  {
+    "id": 1193,
+    "buff_rank": 13,
+    "level": 60,
+    "power": 9190
+  },
+  {
+    "id": 1194,
+    "buff_rank": 14,
+    "level": 60,
+    "power": 10100
+  },
+  {
+    "id": 1195,
+    "buff_rank": 15,
+    "level": 60,
+    "power": 11020
+  },
+  {
+    "id": 1196,
+    "buff_rank": 16,
+    "level": 60,
+    "power": 11930
+  },
+  {
+    "id": 1197,
+    "buff_rank": 17,
+    "level": 60,
+    "power": 12850
+  },
+  {
+    "id": 1198,
+    "buff_rank": 18,
+    "level": 60,
+    "power": 13760
+  },
+  {
+    "id": 1199,
+    "buff_rank": 19,
+    "level": 60,
+    "power": 14680
+  },
+  {
+    "id": 1200,
+    "buff_rank": 20,
+    "level": 60,
+    "power": 15590
+  }
+]

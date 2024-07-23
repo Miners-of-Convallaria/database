@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "OperationActivitySubLoopQuestsView",
+    "desc": "用来适配D，E类型，任务列表之类，特征是 无限滑动列表"
+  },
+  {
+    "id": 2,
+    "name": "OperationActivitySubWebView",
+    "desc": "运营活动类型，带url跳转，读的treasure表显示奖励"
+  },
+  {
+    "id": 3,
+    "name": "OperationActivitySubLinkView",
+    "desc": "几乎没法重用大概"
+  },
+  {
+    "id": 4,
+    "name": "OperationActivitySubLimitedQuestsView",
+    "desc": "用来适配D，E类型，任务列表之类，特征是 任务节点是摆放的，有限的"
+  },
+  {
+    "id": 5,
+    "name": "OperationActivitySubSystemRedirectView",
+    "desc": "系统玩法跳转，非url跳转，一般奖励显示"
+  },
+  {
+    "id": 7,
+    "name": "OperationActivitySubLimitedQuests2View",
+    "desc": "D，E类型，任务列表之类，特征是 任务节点是摆放的有限的;item非通用btn结构"
+  },
+  {
+    "id": 8,
+    "name": "OperationActivitySubNoneView",
+    "desc": "只负责更新标题和描述"
+  },
+  {
+    "id": 9,
+    "name": "OperationActivitySubSystemRedirectView2",
+    "desc": "系统玩法跳转，非url跳转，特殊底奖励显示"
+  },
+  {
+    "id": 10,
+    "name": "OperationActivitySubLoopQuests2View",
+    "desc": "用来适配D，E类型，任务列表之类，特征是 无限滑动列表"
+  },
+  {
+    "id": 11,
+    "name": "OperationActivitySub14View",
+    "desc": "对应prefab operationActivity_14"
+  },
+  {
+    "id": 12,
+    "name": "OperationActivitySubBindMobileView",
+    "desc": "对应prefab operationActivityBindMobile"
+  },
+  {
+    "id": 13,
+    "name": "OperationActivitySubLoopQuests3View",
+    "desc": "无限滑动，但是没有大奖励"
+  },
+  {
+    "id": 14,
+    "name": "OperationActivitySubSandboxTokenGetView",
+    "desc": "沙盒信标获得活动"
+  },
+  {
+    "id": 15,
+    "name": "OperationActivitySubGuildView",
+    "desc": "公会建设活动"
+  },
+  {
+    "id": 16,
+    "name": "OperationActivitySubGuildView02",
+    "desc": "公会建设活动奖励"
+  }
+]

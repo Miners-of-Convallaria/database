@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "目标点",
+    "asset_name": "grid_target"
+  },
+  {
+    "id": 2,
+    "name": "调查点",
+    "asset_name": "grid_search_point"
+  },
+  {
+    "id": 3,
+    "name": "警戒范围",
+    "asset_name": "grid_alert_point"
+  },
+  {
+    "id": 4,
+    "name": "刷兵点",
+    "asset_name": "grid_reinforce_point"
+  },
+  {
+    "id": 5,
+    "name": "危险地点",
+    "asset_name": "grid_danger_point"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "NORMAL",
+    "name": "普通"
+  },
+  {
+    "id": 2,
+    "type": "MINOR_ELITE",
+    "name": "小精英"
+  },
+  {
+    "id": 3,
+    "type": "ELITE",
+    "name": "精英"
+  },
+  {
+    "id": 4,
+    "type": "BOSS",
+    "name": "boss"
+  },
+  {
+    "id": 5,
+    "type": "DUMMY",
+    "name": "沙包(无用)"
+  },
+  {
+    "id": 6,
+    "type": "ESCORT_NPC",
+    "name": "护送对象"
+  }
+]

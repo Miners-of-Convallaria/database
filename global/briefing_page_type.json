@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "普通页",
+    "type": "Normal"
+  },
+  {
+    "id": 2,
+    "name": "反馈页",
+    "type": "Feedback"
+  },
+  {
+    "id": 3,
+    "name": "选项页",
+    "type": "Option"
+  }
+]

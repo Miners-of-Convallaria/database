@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "type": "Game_Start",
+    "name": "游戏开始",
+    "is_flexible": false,
+    "next_id": 5,
+    "order_id": 10
+  },
+  {
+    "id": 2,
+    "type": "Gacha_End",
+    "name": "网游抽卡引导",
+    "is_flexible": false,
+    "next_id": 3,
+    "order_id": 50
+  },
+  {
+    "id": 3,
+    "type": "Main_Quest_Win",
+    "name": "网游主线关卡引导",
+    "is_flexible": false,
+    "next_id": 0,
+    "order_id": 60
+  },
+  {
+    "id": 4,
+    "type": "Sandbox_Enter",
+    "name": "网游进入沙盒引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 70
+  },
+  {
+    "id": 5,
+    "type": "Level_s0_1",
+    "name": "沙盒关卡0-1引导",
+    "is_flexible": false,
+    "next_id": 6,
+    "order_id": 20
+  },
+  {
+    "id": 6,
+    "type": "Level_s0_2",
+    "name": "沙盒关卡0-2引导",
+    "is_flexible": false,
+    "next_id": 7,
+    "order_id": 30
+  },
+  {
+    "id": 7,
+    "type": "Level_s0_3",
+    "name": "沙盒关卡0-3引导",
+    "is_flexible": false,
+    "next_id": 2,
+    "order_id": 40
+  },
+  {
+    "id": 8,
+    "type": "Check_Unit_Box",
+    "name": "0- 1 后教查看角色",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 80
+  },
+  {
+    "id": 9,
+    "type": "Unit_Level_Up",
+    "name": "0- 2 后教升级",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 90
+  },
+  {
+    "id": 10,
+    "type": "Wpn_Equip",
+    "name": "0- 4 后教装武器",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 100
+  },
+  {
+    "id": 11,
+    "type": "Unit_Rank_Up",
+    "name": "0- 8 后教进阶",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 110
+  },
+  {
+    "id": 12,
+    "type": "Activity_Quest",
+    "name": "0- 9 后教打非主线",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 120
+  },
+  {
+    "id": 13,
+    "type": "Unit_Star_Up",
+    "name": "1- 1 后教升星",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 130
+  },
+  {
+    "id": 14,
+    "type": "Wpn_Level_Up",
+    "name": "1- 3 后教武器升级",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 140
+  },
+  {
+    "id": 15,
+    "type": "Activity_Quest_Exp",
+    "name": "1- 6 后一图介绍经验本",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 150
+  },
+  {
+    "id": 16,
+    "type": "Wpn_Breakthrough",
+    "name": "1- 9 后教武器突破",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 160
+  },
+  {
+    "id": 17,
+    "type": "Activity_Quest_Forge",
+    "name": "2- 7 后一图介绍锻造本",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 170
+  },
+  {
+    "id": 18,
+    "type": "Technology",
+    "name": "1-12 后教科技",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 180
+  },
+  {
+    "id": 19,
+    "type": "Activity_Quest_Frgm",
+    "name": "1-17 后一图介绍碎片本",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 190
+  },
+  {
+    "id": 20,
+    "type": "Arena",
+    "name": "2- 5 后一图介绍pvp",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 200
+  },
+  {
+    "id": 21,
+    "type": "Activity_Quest_Tech",
+    "name": "1-12 后一图介绍科技本",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 210
+  },
+  {
+    "id": 22,
+    "type": "Activity_Quest_Wpn",
+    "name": "2-17 后一图介绍武器本",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 220
+  },
+  {
+    "id": 23,
+    "type": "Chm_Equip",
+    "name": "3- 1 后教护石装备",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 230
+  },
+  {
+    "id": 24,
+    "type": "Agent",
+    "name": "2-15 后一图介绍代行",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 240
+  },
+  {
+    "id": 25,
+    "type": "Activity_Quest_Chm",
+    "name": "3-16 后一图介绍护石本",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 250
+  },
+  {
+    "id": 26,
+    "type": "Chm_Level_Up",
+    "name": "3-12 后一图介绍护石拆解和强化",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 260
+  },
+  {
+    "id": 27,
+    "type": "Album",
+    "name": "首次进入收集册时拉去看见闻",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 270
+  },
+  {
+    "id": 28,
+    "type": "Level_0_2",
+    "name": "网游0-2引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 280
+  },
+  {
+    "id": 29,
+    "type": "Level_0_5",
+    "name": "网游0-5引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 290
+  },
+  {
+    "id": 30,
+    "type": "Level_0_6",
+    "name": "网游0-6引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 300
+  },
+  {
+    "id": 31,
+    "type": "Wpn_Star_Up",
+    "name": "2- 1 后一图教武器升星",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 310
+  },
+  {
+    "id": 32,
+    "type": "Activity_Weekly",
+    "name": "2-11 后一图教周常本",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 320
+  },
+  {
+    "id": 33,
+    "type": "Hard_Mode",
+    "name": "1- 5 后教困难模式",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 145
+  },
+  {
+    "id": 34,
+    "type": "Furniture",
+    "name": "1- 6 后教家园",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 235
+  },
+  {
+    "id": 35,
+    "type": "Level_0_1",
+    "name": "网游0-1引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 275
+  },
+  {
+    "id": 36,
+    "type": "Level_Week",
+    "name": "周常本引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 330
+  },
+  {
+    "id": 37,
+    "type": "Level_1_13",
+    "name": "战术技能引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 340
+  },
+  {
+    "id": 38,
+    "type": "Level_1_4_1",
+    "name": "双击引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 350
+  },
+  {
+    "id": 39,
+    "type": "Level_1_9_1",
+    "name": "位置拖拽引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 360
+  },
+  {
+    "id": 40,
+    "type": "Level_1_13_2",
+    "name": "战术说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 370
+  },
+  {
+    "id": 41,
+    "type": "World_Map_Entrust",
+    "name": "沙盒委托说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 380
+  },
+  {
+    "id": 42,
+    "type": "Sandbox_Capital_Enter",
+    "name": "进入沙盒模式办公室说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 390
+  },
+  {
+    "id": 43,
+    "type": "Sandbox_Blacksmith",
+    "name": "沙盒铁匠铺说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 400
+  },
+  {
+    "id": 44,
+    "type": "Sandbox_Dorm",
+    "name": "沙盒佣兵之家说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 410
+  },
+  {
+    "id": 45,
+    "type": "Sandbox_Tavern",
+    "name": "沙盒旅店说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 420
+  },
+  {
+    "id": 46,
+    "type": "Sandbox_Camp",
+    "name": "沙盒训练场说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 430
+  },
+  {
+    "id": 47,
+    "type": "Sandbox_Workshop",
+    "name": "沙盒晶石工坊说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 440
+  },
+  {
+    "id": 48,
+    "type": "Sandbox_Blessing",
+    "name": "沙盒祝福说明书",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 450
+  },
+  {
+    "id": 49,
+    "type": "Kizuna",
+    "name": "1-18 后解锁羁绊",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 460
+  }
+]

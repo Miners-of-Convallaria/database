@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "online_activity_limit_count",
+    "name": "日常活动限制次数增量",
+    "param0_name": "日常活动组ID",
+    "param0_type": "online_activity_group",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 2,
+    "type": "online_activity_high_bonus_count",
+    "name": "日常活动高倍次数增量",
+    "param0_name": "日常活动组ID",
+    "param0_type": "online_activity_group",
+    "param1_name": "",
+    "param1_type": ""
+  }
+]

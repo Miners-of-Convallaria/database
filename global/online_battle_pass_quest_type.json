@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "周任务",
+    "type": "Weekly",
+    "param_name": "",
+    "param_type": "",
+    "category": 1
+  },
+  {
+    "id": 2,
+    "name": "赛季任务",
+    "type": "Season",
+    "param_name": "",
+    "param_type": "",
+    "category": 2
+  },
+  {
+    "id": 3,
+    "name": "运营活动任务",
+    "type": "OperationActivity",
+    "param_name": "运营活动ID",
+    "param_type": "online_operation_activity",
+    "category": 2
+  }
+]

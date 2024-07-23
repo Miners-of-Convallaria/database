@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "type": "fade_out",
+    "name": "渐隐"
+  },
+  {
+    "id": 2,
+    "type": "unit_effect",
+    "name": "单位对应特效(disappear),单位以外播放固定烟雾特效"
+  },
+  {
+    "id": 3,
+    "type": "perform",
+    "name": "演出序列(disappear)"
+  }
+]

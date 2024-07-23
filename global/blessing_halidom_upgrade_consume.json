@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "idblessing_halidom_upgrade": 2,
+    "type": 2,
+    "param0": 0,
+    "param1": 1000
+  },
+  {
+    "id": 2,
+    "idblessing_halidom_upgrade": 2,
+    "type": 8,
+    "param0": 1,
+    "param1": 5
+  },
+  {
+    "id": 3,
+    "idblessing_halidom_upgrade": 3,
+    "type": 2,
+    "param0": 0,
+    "param1": 2000
+  },
+  {
+    "id": 4,
+    "idblessing_halidom_upgrade": 3,
+    "type": 8,
+    "param0": 1,
+    "param1": 20
+  },
+  {
+    "id": 5,
+    "idblessing_halidom_upgrade": 3,
+    "type": 8,
+    "param0": 2,
+    "param1": 30
+  },
+  {
+    "id": 6,
+    "idblessing_halidom_upgrade": 4,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  },
+  {
+    "id": 7,
+    "idblessing_halidom_upgrade": 4,
+    "type": 8,
+    "param0": 6,
+    "param1": 1
+  },
+  {
+    "id": 8,
+    "idblessing_halidom_upgrade": 6,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  },
+  {
+    "id": 9,
+    "idblessing_halidom_upgrade": 6,
+    "type": 8,
+    "param0": 6,
+    "param1": 3
+  },
+  {
+    "id": 10,
+    "idblessing_halidom_upgrade": 8,
+    "type": 8,
+    "param0": 24,
+    "param1": 5
+  },
+  {
+    "id": 11,
+    "idblessing_halidom_upgrade": 8,
+    "type": 2,
+    "param0": 0,
+    "param1": 500
+  },
+  {
+    "id": 12,
+    "idblessing_halidom_upgrade": 9,
+    "type": 8,
+    "param0": 24,
+    "param1": 10
+  },
+  {
+    "id": 13,
+    "idblessing_halidom_upgrade": 9,
+    "type": 8,
+    "param0": 1,
+    "param1": 20
+  },
+  {
+    "id": 14,
+    "idblessing_halidom_upgrade": 10,
+    "type": 8,
+    "param0": 24,
+    "param1": 20
+  },
+  {
+    "id": 15,
+    "idblessing_halidom_upgrade": 10,
+    "type": 8,
+    "param0": 2,
+    "param1": 30
+  },
+  {
+    "id": 16,
+    "idblessing_halidom_upgrade": 11,
+    "type": 8,
+    "param0": 24,
+    "param1": 30
+  },
+  {
+    "id": 17,
+    "idblessing_halidom_upgrade": 11,
+    "type": 8,
+    "param0": 6,
+    "param1": 1
+  },
+  {
+    "id": 18,
+    "idblessing_halidom_upgrade": 11,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  },
+  {
+    "id": 19,
+    "idblessing_halidom_upgrade": 13,
+    "type": 8,
+    "param0": 24,
+    "param1": 5
+  },
+  {
+    "id": 20,
+    "idblessing_halidom_upgrade": 13,
+    "type": 2,
+    "param0": 0,
+    "param1": 500
+  },
+  {
+    "id": 21,
+    "idblessing_halidom_upgrade": 14,
+    "type": 8,
+    "param0": 24,
+    "param1": 10
+  },
+  {
+    "id": 22,
+    "idblessing_halidom_upgrade": 14,
+    "type": 8,
+    "param0": 1,
+    "param1": 20
+  },
+  {
+    "id": 23,
+    "idblessing_halidom_upgrade": 15,
+    "type": 8,
+    "param0": 24,
+    "param1": 20
+  },
+  {
+    "id": 24,
+    "idblessing_halidom_upgrade": 15,
+    "type": 8,
+    "param0": 2,
+    "param1": 30
+  },
+  {
+    "id": 25,
+    "idblessing_halidom_upgrade": 16,
+    "type": 8,
+    "param0": 24,
+    "param1": 30
+  },
+  {
+    "id": 26,
+    "idblessing_halidom_upgrade": 16,
+    "type": 8,
+    "param0": 6,
+    "param1": 1
+  },
+  {
+    "id": 27,
+    "idblessing_halidom_upgrade": 16,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  },
+  {
+    "id": 28,
+    "idblessing_halidom_upgrade": 18,
+    "type": 8,
+    "param0": 24,
+    "param1": 20
+  },
+  {
+    "id": 29,
+    "idblessing_halidom_upgrade": 18,
+    "type": 2,
+    "param0": 0,
+    "param1": 500
+  },
+  {
+    "id": 30,
+    "idblessing_halidom_upgrade": 19,
+    "type": 8,
+    "param0": 24,
+    "param1": 30
+  },
+  {
+    "id": 31,
+    "idblessing_halidom_upgrade": 19,
+    "type": 8,
+    "param0": 6,
+    "param1": 3
+  },
+  {
+    "id": 32,
+    "idblessing_halidom_upgrade": 19,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  },
+  {
+    "id": 33,
+    "idblessing_halidom_upgrade": 21,
+    "type": 8,
+    "param0": 24,
+    "param1": 20
+  },
+  {
+    "id": 34,
+    "idblessing_halidom_upgrade": 21,
+    "type": 2,
+    "param0": 0,
+    "param1": 500
+  },
+  {
+    "id": 35,
+    "idblessing_halidom_upgrade": 22,
+    "type": 8,
+    "param0": 24,
+    "param1": 30
+  },
+  {
+    "id": 36,
+    "idblessing_halidom_upgrade": 22,
+    "type": 8,
+    "param0": 6,
+    "param1": 3
+  },
+  {
+    "id": 37,
+    "idblessing_halidom_upgrade": 22,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  },
+  {
+    "id": 38,
+    "idblessing_halidom_upgrade": 24,
+    "type": 8,
+    "param0": 24,
+    "param1": 5
+  },
+  {
+    "id": 39,
+    "idblessing_halidom_upgrade": 24,
+    "type": 2,
+    "param0": 0,
+    "param1": 500
+  },
+  {
+    "id": 40,
+    "idblessing_halidom_upgrade": 25,
+    "type": 8,
+    "param0": 24,
+    "param1": 10
+  },
+  {
+    "id": 41,
+    "idblessing_halidom_upgrade": 25,
+    "type": 8,
+    "param0": 1,
+    "param1": 20
+  },
+  {
+    "id": 42,
+    "idblessing_halidom_upgrade": 26,
+    "type": 8,
+    "param0": 24,
+    "param1": 20
+  },
+  {
+    "id": 43,
+    "idblessing_halidom_upgrade": 26,
+    "type": 8,
+    "param0": 2,
+    "param1": 30
+  },
+  {
+    "id": 44,
+    "idblessing_halidom_upgrade": 27,
+    "type": 8,
+    "param0": 24,
+    "param1": 30
+  },
+  {
+    "id": 45,
+    "idblessing_halidom_upgrade": 27,
+    "type": 8,
+    "param0": 6,
+    "param1": 1
+  },
+  {
+    "id": 46,
+    "idblessing_halidom_upgrade": 27,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  },
+  {
+    "id": 47,
+    "idblessing_halidom_upgrade": 29,
+    "type": 8,
+    "param0": 24,
+    "param1": 5
+  },
+  {
+    "id": 48,
+    "idblessing_halidom_upgrade": 29,
+    "type": 2,
+    "param0": 0,
+    "param1": 500
+  },
+  {
+    "id": 49,
+    "idblessing_halidom_upgrade": 30,
+    "type": 8,
+    "param0": 24,
+    "param1": 10
+  },
+  {
+    "id": 50,
+    "idblessing_halidom_upgrade": 30,
+    "type": 8,
+    "param0": 1,
+    "param1": 20
+  },
+  {
+    "id": 51,
+    "idblessing_halidom_upgrade": 31,
+    "type": 8,
+    "param0": 24,
+    "param1": 20
+  },
+  {
+    "id": 52,
+    "idblessing_halidom_upgrade": 31,
+    "type": 8,
+    "param0": 2,
+    "param1": 30
+  },
+  {
+    "id": 53,
+    "idblessing_halidom_upgrade": 32,
+    "type": 8,
+    "param0": 24,
+    "param1": 30
+  },
+  {
+    "id": 54,
+    "idblessing_halidom_upgrade": 32,
+    "type": 8,
+    "param0": 6,
+    "param1": 1
+  },
+  {
+    "id": 55,
+    "idblessing_halidom_upgrade": 32,
+    "type": 2,
+    "param0": 0,
+    "param1": 3000
+  }
+]

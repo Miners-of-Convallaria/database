@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "test",
+    "name": "记忆的世界提示",
+    "system_tip_content_ids": "1|2|3|4|5"
+  },
+  {
+    "id": 2,
+    "m_system_tip_contents": [],
+    "idsystem": 38,
+    "type": "online_unit",
+    "name": "乐土角色一览提示",
+    "system_tip_content_ids": "101|102"
+  },
+  {
+    "id": 3,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_unit_levelup",
+    "name": "乐土角色升级提示",
+    "system_tip_content_ids": "111|112"
+  },
+  {
+    "id": 4,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_weapon_equip",
+    "name": "武器装备提示",
+    "system_tip_content_ids": "121"
+  },
+  {
+    "id": 5,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_unit_rankup",
+    "name": "进阶提示",
+    "system_tip_content_ids": "131|132"
+  },
+  {
+    "id": 6,
+    "m_system_tip_contents": [],
+    "idsystem": 22,
+    "type": "online_activity",
+    "name": "交错的世界提示",
+    "system_tip_content_ids": "141|142|143"
+  },
+  {
+    "id": 7,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_unit_starup",
+    "name": "乐土角色升星提示",
+    "system_tip_content_ids": "151|152"
+  },
+  {
+    "id": 8,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_weapon_upgrade",
+    "name": "武器升级提示",
+    "system_tip_content_ids": "161|162"
+  },
+  {
+    "id": 9,
+    "m_system_tip_contents": [],
+    "idsystem": 23,
+    "type": "online_activity_exp",
+    "name": "实战训练提示",
+    "system_tip_content_ids": "171|172"
+  },
+  {
+    "id": 10,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_weapon_rankup",
+    "name": "武器突破提示",
+    "system_tip_content_ids": "181"
+  },
+  {
+    "id": 11,
+    "m_system_tip_contents": [],
+    "idsystem": 44,
+    "type": "online_activity_forge",
+    "name": "光辉锻铸提示",
+    "system_tip_content_ids": "191|192"
+  },
+  {
+    "id": 12,
+    "m_system_tip_contents": [],
+    "idsystem": 49,
+    "type": "online_tech",
+    "name": "天赋学习提示",
+    "system_tip_content_ids": "201|551"
+  },
+  {
+    "id": 13,
+    "m_system_tip_contents": [],
+    "idsystem": 26,
+    "type": "online_activity_unit_piece",
+    "name": "记忆寻回提示",
+    "system_tip_content_ids": "211|212"
+  },
+  {
+    "id": 14,
+    "m_system_tip_contents": [],
+    "idsystem": 37,
+    "type": "online_arena",
+    "name": "荣耀之战提示",
+    "system_tip_content_ids": "221|222|1001"
+  },
+  {
+    "id": 15,
+    "m_system_tip_contents": [],
+    "idsystem": 45,
+    "type": "online_activity_tech",
+    "name": "星辰试炼提示",
+    "system_tip_content_ids": "231|232"
+  },
+  {
+    "id": 16,
+    "m_system_tip_contents": [],
+    "idsystem": 27,
+    "type": "online_activity_weapon",
+    "name": "神兵试炼提示",
+    "system_tip_content_ids": "241|242"
+  },
+  {
+    "id": 17,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_charm_equip",
+    "name": "护石装备提示",
+    "system_tip_content_ids": "251"
+  },
+  {
+    "id": 18,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_practice",
+    "name": "代行作战提示",
+    "system_tip_content_ids": "261"
+  },
+  {
+    "id": 19,
+    "m_system_tip_contents": [],
+    "idsystem": 28,
+    "type": "online_activity_charm",
+    "name": "塔罗遗力提示",
+    "system_tip_content_ids": "271|272"
+  },
+  {
+    "id": 20,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_charm_upgrade",
+    "name": "护石强化提示",
+    "system_tip_content_ids": "281|282"
+  },
+  {
+    "id": 21,
+    "m_system_tip_contents": [],
+    "idsystem": 53,
+    "type": "online_sandbox_collection",
+    "name": "命运印记提示",
+    "system_tip_content_ids": "291|292"
+  },
+  {
+    "id": 22,
+    "m_system_tip_contents": [],
+    "idsystem": 36,
+    "type": "online_sandbox_entry",
+    "name": "启动沙盒提示",
+    "system_tip_content_ids": "99|100"
+  },
+  {
+    "id": 23,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "battle_counter",
+    "name": "克制关系",
+    "system_tip_content_ids": "501"
+  },
+  {
+    "id": 24,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "battle_info",
+    "name": "信息面板",
+    "system_tip_content_ids": "502"
+  },
+  {
+    "id": 25,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "battle_height_difference",
+    "name": "高度优势",
+    "system_tip_content_ids": "503"
+  },
+  {
+    "id": 26,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "tactics_skill",
+    "name": "战术技能",
+    "system_tip_content_ids": "504|505"
+  },
+  {
+    "id": 27,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_weapon_starup",
+    "name": "武器升星提示",
+    "system_tip_content_ids": "301"
+  },
+  {
+    "id": 28,
+    "m_system_tip_contents": [],
+    "idsystem": 48,
+    "type": "online_tower",
+    "name": "征服之塔提示",
+    "system_tip_content_ids": "311|312|1020"
+  },
+  {
+    "id": 29,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_main_quest",
+    "name": "乐土主线提示",
+    "system_tip_content_ids": "520"
+  },
+  {
+    "id": 31,
+    "m_system_tip_contents": [],
+    "idsystem": 25,
+    "type": "online_activity_unit_rank_materi",
+    "name": "进阶试炼提示",
+    "system_tip_content_ids": "517"
+  },
+  {
+    "id": 34,
+    "m_system_tip_contents": [],
+    "idsystem": 64,
+    "type": "online_sandbox_tech_tree",
+    "name": "沙盒科技盘",
+    "system_tip_content_ids": "514"
+  },
+  {
+    "id": 38,
+    "m_system_tip_contents": [],
+    "idsystem": 41,
+    "type": "sandbox_workshop_quest",
+    "name": "沙盒晶石工坊",
+    "system_tip_content_ids": "511"
+  },
+  {
+    "id": 39,
+    "m_system_tip_contents": [],
+    "idsystem": 1,
+    "type": "sandbox_smithy",
+    "name": "沙盒锻造",
+    "system_tip_content_ids": "509"
+  },
+  {
+    "id": 40,
+    "m_system_tip_contents": [],
+    "idsystem": 18,
+    "type": "sandbox_training",
+    "name": "沙盒训练",
+    "system_tip_content_ids": "506"
+  },
+  {
+    "id": 41,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_sandbox_collection_reward",
+    "name": "沙盒收集册",
+    "system_tip_content_ids": "291|292"
+  },
+  {
+    "id": 42,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_weapon",
+    "name": "武器综合强化",
+    "system_tip_content_ids": "161|162"
+  },
+  {
+    "id": 43,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "battle_drag",
+    "name": "拖拽上阵",
+    "system_tip_content_ids": "500"
+  },
+  {
+    "id": 44,
+    "m_system_tip_contents": [],
+    "idsystem": 75,
+    "type": "elysium_placement",
+    "name": "乐土家具",
+    "system_tip_content_ids": "531|532|533 "
+  },
+  {
+    "id": 45,
+    "m_system_tip_contents": [],
+    "idsystem": 81,
+    "type": "online_contract_activity_quest",
+    "name": "限时大型活动说明",
+    "system_tip_content_ids": "541"
+  },
+  {
+    "id": 47,
+    "m_system_tip_contents": [],
+    "idsystem": 66,
+    "type": "online_role_friendship",
+    "name": "网游羁绊",
+    "system_tip_content_ids": "561|562"
+  },
+  {
+    "id": 48,
+    "m_system_tip_contents": [],
+    "idsystem": 8,
+    "type": "hospital",
+    "name": "沙盒疗养",
+    "system_tip_content_ids": "571"
+  },
+  {
+    "id": 49,
+    "m_system_tip_contents": [],
+    "idsystem": 3,
+    "type": "tavern",
+    "name": "沙盒旅店",
+    "system_tip_content_ids": "581"
+  },
+  {
+    "id": 50,
+    "m_system_tip_contents": [],
+    "idsystem": 5,
+    "type": "entrust_battle",
+    "name": "沙盒委托",
+    "system_tip_content_ids": "591"
+  },
+  {
+    "id": 51,
+    "m_system_tip_contents": [],
+    "idsystem": 78,
+    "type": "blessing",
+    "name": "沙盒祝福",
+    "system_tip_content_ids": "601"
+  },
+  {
+    "id": 52,
+    "m_system_tip_contents": [],
+    "idsystem": 83,
+    "type": "online_guild",
+    "name": "公会",
+    "system_tip_content_ids": "611"
+  },
+  {
+    "id": 55,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_unit_detail",
+    "name": "乐土角色详情提示",
+    "system_tip_content_ids": "621"
+  },
+  {
+    "id": 56,
+    "m_system_tip_contents": [],
+    "idsystem": 81,
+    "type": "online_contract_activity_quest_m",
+    "name": "限时中型活动1-说明",
+    "system_tip_content_ids": "542"
+  },
+  {
+    "id": 100,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "sanbox_office",
+    "name": "铃兰之剑佣兵团",
+    "system_tip_content_ids": "1000"
+  },
+  {
+    "id": 101,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "revelation_tarot",
+    "name": "启示录插卡提醒",
+    "system_tip_content_ids": "1010"
+  },
+  {
+    "id": 103,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_tower2",
+    "name": "征服之塔环境提示",
+    "system_tip_content_ids": "1002"
+  },
+  {
+    "id": 106,
+    "m_system_tip_contents": [],
+    "idsystem": 94,
+    "type": "online_contract_activity_yangcheng",
+    "name": "限时大型活动养成说明",
+    "system_tip_content_ids": "1011"
+  },
+  {
+    "id": 108,
+    "m_system_tip_contents": [],
+    "idsystem": 81,
+    "type": "online_contract_activity_quest_s",
+    "name": "限时小型活动说明",
+    "system_tip_content_ids": "1013|1015"
+  },
+  {
+    "id": 109,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "commerce",
+    "name": "沙盒商会",
+    "system_tip_content_ids": "1016"
+  },
+  {
+    "id": 111,
+    "m_system_tip_contents": [],
+    "idsystem": 81,
+    "type": "online_contract_activity_quest_m2",
+    "name": "限时中型活动3-说明",
+    "system_tip_content_ids": "1017"
+  },
+  {
+    "id": 112,
+    "m_system_tip_contents": [],
+    "idsystem": 0,
+    "type": "online_abyss",
+    "name": "逆境之塔",
+    "system_tip_content_ids": "1018|1019|1021"
+  }
+]

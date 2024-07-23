@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "type": "Cut",
+    "name": "砍掉",
+    "field_status": 0
+  },
+  {
+    "id": 2,
+    "type": "Burn",
+    "name": "点燃",
+    "field_status": 2
+  },
+  {
+    "id": 3,
+    "type": "Light",
+    "name": "被火魔法点亮",
+    "field_status": 0
+  },
+  {
+    "id": 4,
+    "type": "Extinguish",
+    "name": "被水魔法熄灭",
+    "field_status": 0
+  },
+  {
+    "id": 5,
+    "type": "Throw",
+    "name": "投掷",
+    "field_status": 0
+  },
+  {
+    "id": 6,
+    "type": "Bomb",
+    "name": "爆炸",
+    "field_status": 0
+  },
+  {
+    "id": 7,
+    "type": "Blind",
+    "name": "致盲",
+    "field_status": 0
+  },
+  {
+    "id": 8,
+    "type": "Blow",
+    "name": "被风魔法吹掉",
+    "field_status": 0
+  },
+  {
+    "id": 9,
+    "type": "Knockback",
+    "name": "击退",
+    "field_status": 0
+  },
+  {
+    "id": 10,
+    "type": "Frozen",
+    "name": "冰冻",
+    "field_status": 3
+  },
+  {
+    "id": 11,
+    "type": "Stigmata",
+    "name": "圣痕",
+    "field_status": 6
+  },
+  {
+    "id": 12,
+    "type": "Dust",
+    "name": "扬尘",
+    "field_status": 7
+  },
+  {
+    "id": 13,
+    "type": "Normal",
+    "name": "恢复正常地面",
+    "field_status": 1
+  },
+  {
+    "id": 14,
+    "type": "Wine",
+    "name": "撒酒",
+    "field_status": 8
+  },
+  {
+    "id": 15,
+    "type": "Mud",
+    "name": "涂泥",
+    "field_status": 9
+  },
+  {
+    "id": 16,
+    "type": "Stain",
+    "name": "弄脏",
+    "field_status": 4
+  },
+  {
+    "id": 17,
+    "type": "Unstable_Mud",
+    "name": "涂不稳定的黑泥",
+    "field_status": 13
+  },
+  {
+    "id": 18,
+    "type": "Smog",
+    "name": "释放烟雾",
+    "field_status": 14
+  }
+]

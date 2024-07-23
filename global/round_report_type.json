@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "type": "entrust_appoint",
+    "name": "指名委托",
+    "icon": "briefing_004",
+    "desc": "",
+    "enable": true,
+    "order": 0
+  },
+  {
+    "id": 2,
+    "type": "tavern",
+    "name": "招募",
+    "icon": "briefing_024",
+    "desc": "",
+    "enable": true,
+    "order": 0
+  },
+  {
+    "id": 3,
+    "type": "unit_leave",
+    "name": "离队通告",
+    "icon": "briefing_003",
+    "desc": "",
+    "enable": true,
+    "order": 0
+  },
+  {
+    "id": 4,
+    "type": "workshop",
+    "name": "晶石工坊-战斗任务进度",
+    "icon": "briefing_003",
+    "desc": "",
+    "enable": true,
+    "order": 0
+  },
+  {
+    "id": 5,
+    "type": "blessing",
+    "name": "祝福",
+    "icon": "briefing_024",
+    "desc": "",
+    "enable": true,
+    "order": 0
+  }
+]

@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "idonline_weapon_modify": 1,
+    "level": 1,
+    "hp": 60,
+    "physic_attack": 38,
+    "spell_attack": 0,
+    "physic_defence": 12,
+    "spell_defence": 8
+  },
+  {
+    "id": 2,
+    "idonline_weapon_modify": 1,
+    "level": 2,
+    "hp": 70,
+    "physic_attack": 44,
+    "spell_attack": 0,
+    "physic_defence": 14,
+    "spell_defence": 9
+  },
+  {
+    "id": 3,
+    "idonline_weapon_modify": 1,
+    "level": 3,
+    "hp": 80,
+    "physic_attack": 50,
+    "spell_attack": 0,
+    "physic_defence": 16,
+    "spell_defence": 11
+  },
+  {
+    "id": 4,
+    "idonline_weapon_modify": 1,
+    "level": 4,
+    "hp": 89,
+    "physic_attack": 57,
+    "spell_attack": 0,
+    "physic_defence": 18,
+    "spell_defence": 12
+  },
+  {
+    "id": 5,
+    "idonline_weapon_modify": 1,
+    "level": 5,
+    "hp": 99,
+    "physic_attack": 63,
+    "spell_attack": 0,
+    "physic_defence": 20,
+    "spell_defence": 13
+  },
+  {
+    "id": 6,
+    "idonline_weapon_modify": 1,
+    "level": 6,
+    "hp": 109,
+    "physic_attack": 69,
+    "spell_attack": 0,
+    "physic_defence": 22,
+    "spell_defence": 15
+  },
+  {
+    "id": 7,
+    "idonline_weapon_modify": 1,
+    "level": 7,
+    "hp": 119,
+    "physic_attack": 75,
+    "spell_attack": 0,
+    "physic_defence": 24,
+    "spell_defence": 16
+  },
+  {
+    "id": 8,
+    "idonline_weapon_modify": 1,
+    "level": 8,
+    "hp": 128,
+    "physic_attack": 81,
+    "spell_attack": 0,
+    "physic_defence": 26,
+    "spell_defence": 17
+  },
+  {
+    "id": 9,
+    "idonline_weapon_modify": 1,
+    "level": 9,
+    "hp": 138,
+    "physic_attack": 87,
+    "spell_attack": 0,
+    "physic_defence": 28,
+    "spell_defence": 18
+  },
+  {
+    "id": 10,
+    "idonline_weapon_modify": 1,
+    "level": 10,
+    "hp": 148,
+    "physic_attack": 94,
+    "spell_attack": 0,
+    "physic_defence": 30,
+    "spell_defence": 20
+  },
+  {
+    "id": 11,
+    "idonline_weapon_modify": 1,
+    "level": 11,
+    "hp": 168,
+    "physic_attack": 100,
+    "spell_attack": 0,
+    "physic_defence": 32,
+    "spell_defence": 21
+  },
+  {
+    "id": 12,
+    "idonline_weapon_modify": 1,
+    "level": 12,
+    "hp": 178,
+    "physic_attack": 106,
+    "spell_attack": 0,
+    "physic_defence": 33,
+    "spell_defence": 22
+  },
+  {
+    "id": 13,
+    "idonline_weapon_modify": 1,
+    "level": 13,
+    "hp": 189,
+    "physic_attack": 112,
+    "spell_attack": 0,
+    "physic_defence": 35,
+    "spell_defence": 24
+  },
+  {
+    "id": 14,
+    "idonline_weapon_modify": 1,
+    "level": 14,
+    "hp": 199,
+    "physic_attack": 118,
+    "spell_attack": 0,
+    "physic_defence": 37,
+    "spell_defence": 25
+  },
+  {
+    "id": 15,
+    "idonline_weapon_modify": 1,
+    "level": 15,
+    "hp": 210,
+    "physic_attack": 124,
+    "spell_attack": 0,
+    "physic_defence": 39,
+    "spell_defence": 26
+  },
+  {
+    "id": 16,
+    "idonline_weapon_modify": 1,
+    "level": 16,
+    "hp": 220,
+    "physic_attack": 131,
+    "spell_attack": 0,
+    "physic_defence": 41,
+    "spell_defence": 28
+  },
+  {
+    "id": 17,
+    "idonline_weapon_modify": 1,
+    "level": 17,
+    "hp": 230,
+    "physic_attack": 137,
+    "spell_attack": 0,
+    "physic_defence": 43,
+    "spell_defence": 29
+  },
+  {
+    "id": 18,
+    "idonline_weapon_modify": 1,
+    "level": 18,
+    "hp": 241,
+    "physic_attack": 143,
+    "spell_attack": 0,
+    "physic_defence": 45,
+    "spell_defence": 30
+  },
+  {
+    "id": 19,
+    "idonline_weapon_modify": 1,
+    "level": 19,
+    "hp": 251,
+    "physic_attack": 149,
+    "spell_attack": 0,
+    "physic_defence": 47,
+    "spell_defence": 31
+  },
+  {
+    "id": 20,
+    "idonline_weapon_modify": 1,
+    "level": 20,
+    "hp": 262,
+    "physic_attack": 155,
+    "spell_attack": 0,
+    "physic_defence": 49,
+    "spell_defence": 33
+  },
+  {
+    "id": 21,
+    "idonline_weapon_modify": 1,
+    "level": 21,
+    "hp": 289,
+    "physic_attack": 162,
+    "spell_attack": 0,
+    "physic_defence": 51,
+    "spell_defence": 34
+  },
+  {
+    "id": 22,
+    "idonline_weapon_modify": 1,
+    "level": 22,
+    "hp": 300,
+    "physic_attack": 168,
+    "spell_attack": 0,
+    "physic_defence": 53,
+    "spell_defence": 35
+  },
+  {
+    "id": 23,
+    "idonline_weapon_modify": 1,
+    "level": 23,
+    "hp": 311,
+    "physic_attack": 174,
+    "spell_attack": 0,
+    "physic_defence": 55,
+    "spell_defence": 37
+  },
+  {
+    "id": 24,
+    "idonline_weapon_modify": 1,
+    "level": 24,
+    "hp": 322,
+    "physic_attack": 180,
+    "spell_attack": 0,
+    "physic_defence": 57,
+    "spell_defence": 38
+  },
+  {
+    "id": 25,
+    "idonline_weapon_modify": 1,
+    "level": 25,
+    "hp": 333,
+    "physic_attack": 186,
+    "spell_attack": 0,
+    "physic_defence": 59,
+    "spell_defence": 39
+  },
+  {
+    "id": 26,
+    "idonline_weapon_modify": 1,
+    "level": 26,
+    "hp": 344,
+    "physic_attack": 192,
+    "spell_attack": 0,
+    "physic_defence": 61,
+    "spell_defence": 41
+  },
+  {
+    "id": 27,
+    "idonline_weapon_modify": 1,
+    "level": 27,
+    "hp": 355,
+    "physic_attack": 199,
+    "spell_attack": 0,
+    "physic_defence": 63,
+    "spell_defence": 42
+  },
+  {
+    "id": 28,
+    "idonline_weapon_modify": 1,
+    "level": 28,
+    "hp": 366,
+    "physic_attack": 205,
+    "spell_attack": 0,
+    "physic_defence": 65,
+    "spell_defence": 43
+  },
+  {
+    "id": 29,
+    "idonline_weapon_modify": 1,
+    "level": 29,
+    "hp": 377,
+    "physic_attack": 211,
+    "spell_attack": 0,
+    "physic_defence": 67,
+    "spell_defence": 44
+  },
+  {
+    "id": 30,
+    "idonline_weapon_modify": 1,
+    "level": 30,
+    "hp": 388,
+    "physic_attack": 217,
+    "spell_attack": 0,
+    "physic_defence": 69,
+    "spell_defence": 46
+  },
+  {
+    "id": 31,
+    "idonline_weapon_modify": 1,
+    "level": 31,
+    "hp": 423,
+    "physic_attack": 223,
+    "spell_attack": 0,
+    "physic_defence": 71,
+    "spell_defence": 47
+  },
+  {
+    "id": 32,
+    "idonline_weapon_modify": 1,
+    "level": 32,
+    "hp": 435,
+    "physic_attack": 229,
+    "spell_attack": 0,
+    "physic_defence": 72,
+    "spell_defence": 48
+  },
+  {
+    "id": 33,
+    "idonline_weapon_modify": 1,
+    "level": 33,
+    "hp": 446,
+    "physic_attack": 236,
+    "spell_attack": 0,
+    "physic_defence": 74,
+    "spell_defence": 50
+  },
+  {
+    "id": 34,
+    "idonline_weapon_modify": 1,
+    "level": 34,
+    "hp": 458,
+    "physic_attack": 242,
+    "spell_attack": 0,
+    "physic_defence": 76,
+    "spell_defence": 51
+  },
+  {
+    "id": 35,
+    "idonline_weapon_modify": 1,
+    "level": 35,
+    "hp": 470,
+    "physic_attack": 248,
+    "spell_attack": 0,
+    "physic_defence": 78,
+    "spell_defence": 52
+  },
+  {
+    "id": 36,
+    "idonline_weapon_modify": 1,
+    "level": 36,
+    "hp": 482,
+    "physic_attack": 254,
+    "spell_attack": 0,
+    "physic_defence": 80,
+    "spell_defence": 54
+  },
+  {
+    "id": 37,
+    "idonline_weapon_modify": 1,
+    "level": 37,
+    "hp": 493,
+    "physic_attack": 260,
+    "spell_attack": 0,
+    "physic_defence": 82,
+    "spell_defence": 55
+  },
+  {
+    "id": 38,
+    "idonline_weapon_modify": 1,
+    "level": 38,
+    "hp": 505,
+    "physic_attack": 266,
+    "spell_attack": 0,
+    "physic_defence": 84,
+    "spell_defence": 56
+  },
+  {
+    "id": 39,
+    "idonline_weapon_modify": 1,
+    "level": 39,
+    "hp": 517,
+    "physic_attack": 273,
+    "spell_attack": 0,
+    "physic_defence": 86,
+    "spell_defence": 57
+  },
+  {
+    "id": 40,
+    "idonline_weapon_modify": 1,
+    "level": 40,
+    "hp": 528,
+    "physic_attack": 279,
+    "spell_attack": 0,
+    "physic_defence": 88,
+    "spell_defence": 59
+  },
+  {
+    "id": 41,
+    "idonline_weapon_modify": 1,
+    "level": 41,
+    "hp": 570,
+    "physic_attack": 285,
+    "spell_attack": 0,
+    "physic_defence": 90,
+    "spell_defence": 60
+  },
+  {
+    "id": 42,
+    "idonline_weapon_modify": 1,
+    "level": 42,
+    "hp": 582,
+    "physic_attack": 291,
+    "spell_attack": 0,
+    "physic_defence": 92,
+    "spell_defence": 61
+  },
+  {
+    "id": 43,
+    "idonline_weapon_modify": 1,
+    "level": 43,
+    "hp": 595,
+    "physic_attack": 297,
+    "spell_attack": 0,
+    "physic_defence": 94,
+    "spell_defence": 63
+  },
+  {
+    "id": 44,
+    "idonline_weapon_modify": 1,
+    "level": 44,
+    "hp": 607,
+    "physic_attack": 304,
+    "spell_attack": 0,
+    "physic_defence": 96,
+    "spell_defence": 64
+  },
+  {
+    "id": 45,
+    "idonline_weapon_modify": 1,
+    "level": 45,
+    "hp": 619,
+    "physic_attack": 310,
+    "spell_attack": 0,
+    "physic_defence": 98,
+    "spell_defence": 65
+  },
+  {
+    "id": 46,
+    "idonline_weapon_modify": 1,
+    "level": 46,
+    "hp": 632,
+    "physic_attack": 316,
+    "spell_attack": 0,
+    "physic_defence": 100,
+    "spell_defence": 66
+  },
+  {
+    "id": 47,
+    "idonline_weapon_modify": 1,
+    "level": 47,
+    "hp": 644,
+    "physic_attack": 322,
+    "spell_attack": 0,
+    "physic_defence": 102,
+    "spell_defence": 68
+  },
+  {
+    "id": 48,
+    "idonline_weapon_modify": 1,
+    "level": 48,
+    "hp": 656,
+    "physic_attack": 328,
+    "spell_attack": 0,
+    "physic_defence": 104,
+    "spell_defence": 69
+  },
+  {
+    "id": 49,
+    "idonline_weapon_modify": 1,
+    "level": 49,
+    "hp": 669,
+    "physic_attack": 334,
+    "spell_attack": 0,
+    "physic_defence": 106,
+    "spell_defence": 70
+  },
+  {
+    "id": 50,
+    "idonline_weapon_modify": 1,
+    "level": 50,
+    "hp": 681,
+    "physic_attack": 341,
+    "spell_attack": 0,
+    "physic_defence": 108,
+    "spell_defence": 72
+  },
+  {
+    "id": 51,
+    "idonline_weapon_modify": 1,
+    "level": 51,
+    "hp": 730,
+    "physic_attack": 347,
+    "spell_attack": 0,
+    "physic_defence": 110,
+    "spell_defence": 73
+  },
+  {
+    "id": 52,
+    "idonline_weapon_modify": 1,
+    "level": 52,
+    "hp": 743,
+    "physic_attack": 353,
+    "spell_attack": 0,
+    "physic_defence": 111,
+    "spell_defence": 74
+  },
+  {
+    "id": 53,
+    "idonline_weapon_modify": 1,
+    "level": 53,
+    "hp": 756,
+    "physic_attack": 359,
+    "spell_attack": 0,
+    "physic_defence": 113,
+    "spell_defence": 76
+  },
+  {
+    "id": 54,
+    "idonline_weapon_modify": 1,
+    "level": 54,
+    "hp": 769,
+    "physic_attack": 365,
+    "spell_attack": 0,
+    "physic_defence": 115,
+    "spell_defence": 77
+  },
+  {
+    "id": 55,
+    "idonline_weapon_modify": 1,
+    "level": 55,
+    "hp": 782,
+    "physic_attack": 371,
+    "spell_attack": 0,
+    "physic_defence": 117,
+    "spell_defence": 78
+  },
+  {
+    "id": 56,
+    "idonline_weapon_modify": 1,
+    "level": 56,
+    "hp": 795,
+    "physic_attack": 378,
+    "spell_attack": 0,
+    "physic_defence": 119,
+    "spell_defence": 79
+  },
+  {
+    "id": 57,
+    "idonline_weapon_modify": 1,
+    "level": 57,
+    "hp": 808,
+    "physic_attack": 384,
+    "spell_attack": 0,
+    "physic_defence": 121,
+    "spell_defence": 81
+  },
+  {
+    "id": 58,
+    "idonline_weapon_modify": 1,
+    "level": 58,
+    "hp": 821,
+    "physic_attack": 390,
+    "spell_attack": 0,
+    "physic_defence": 123,
+    "spell_defence": 82
+  },
+  {
+    "id": 59,
+    "idonline_weapon_modify": 1,
+    "level": 59,
+    "hp": 834,
+    "physic_attack": 396,
+    "spell_attack": 0,
+    "physic_defence": 125,
+    "spell_defence": 83
+  },
+  {
+    "id": 60,
+    "idonline_weapon_modify": 1,
+    "level": 60,
+    "hp": 847,
+    "physic_attack": 402,
+    "spell_attack": 0,
+    "physic_defence": 127,
+    "spell_defence": 85
+  },
+  {
+    "id": 61,
+    "idonline_weapon_modify": 2,
+    "level": 1,
+    "hp": 56,
+    "physic_attack": 37,
+    "spell_attack": 0,
+    "physic_defence": 14,
+    "spell_defence": 7
+  },
+  {
+    "id": 62,
+    "idonline_weapon_modify": 2,
+    "level": 2,
+    "hp": 65,
+    "physic_attack": 43,
+    "spell_attack": 0,
+    "physic_defence": 16,
+    "spell_defence": 8
+  },
+  {
+    "id": 63,
+    "idonline_weapon_modify": 2,
+    "level": 3,
+    "hp": 74,
+    "physic_attack": 49,
+    "spell_attack": 0,
+    "physic_defence": 19,
+    "spell_defence": 9
+  },
+  {
+    "id": 64,
+    "idonline_weapon_modify": 2,
+    "level": 4,
+    "hp": 83,
+    "physic_attack": 55,
+    "spell_attack": 0,
+    "physic_defence": 21,
+    "spell_defence": 10
+  },
+  {
+    "id": 65,
+    "idonline_weapon_modify": 2,
+    "level": 5,
+    "hp": 92,
+    "physic_attack": 61,
+    "spell_attack": 0,
+    "physic_defence": 23,
+    "spell_defence": 12
+  },
+  {
+    "id": 66,
+    "idonline_weapon_modify": 2,
+    "level": 6,
+    "hp": 102,
+    "physic_attack": 67,
+    "spell_attack": 0,
+    "physic_defence": 25,
+    "spell_defence": 13
+  },
+  {
+    "id": 67,
+    "idonline_weapon_modify": 2,
+    "level": 7,
+    "hp": 111,
+    "physic_attack": 73,
+    "spell_attack": 0,
+    "physic_defence": 28,
+    "spell_defence": 14
+  },
+  {
+    "id": 68,
+    "idonline_weapon_modify": 2,
+    "level": 8,
+    "hp": 120,
+    "physic_attack": 79,
+    "spell_attack": 0,
+    "physic_defence": 30,
+    "spell_defence": 15
+  },
+  {
+    "id": 69,
+    "idonline_weapon_modify": 2,
+    "level": 9,
+    "hp": 129,
+    "physic_attack": 85,
+    "spell_attack": 0,
+    "physic_defence": 32,
+    "spell_defence": 16
+  },
+  {
+    "id": 70,
+    "idonline_weapon_modify": 2,
+    "level": 10,
+    "hp": 138,
+    "physic_attack": 91,
+    "spell_attack": 0,
+    "physic_defence": 34,
+    "spell_defence": 17
+  },
+  {
+    "id": 71,
+    "idonline_weapon_modify": 2,
+    "level": 11,
+    "hp": 157,
+    "physic_attack": 97,
+    "spell_attack": 0,
+    "physic_defence": 37,
+    "spell_defence": 18
+  },
+  {
+    "id": 72,
+    "idonline_weapon_modify": 2,
+    "level": 12,
+    "hp": 167,
+    "physic_attack": 103,
+    "spell_attack": 0,
+    "physic_defence": 39,
+    "spell_defence": 20
+  },
+  {
+    "id": 73,
+    "idonline_weapon_modify": 2,
+    "level": 13,
+    "hp": 176,
+    "physic_attack": 109,
+    "spell_attack": 0,
+    "physic_defence": 41,
+    "spell_defence": 21
+  },
+  {
+    "id": 74,
+    "idonline_weapon_modify": 2,
+    "level": 14,
+    "hp": 186,
+    "physic_attack": 115,
+    "spell_attack": 0,
+    "physic_defence": 44,
+    "spell_defence": 22
+  },
+  {
+    "id": 75,
+    "idonline_weapon_modify": 2,
+    "level": 15,
+    "hp": 196,
+    "physic_attack": 121,
+    "spell_attack": 0,
+    "physic_defence": 46,
+    "spell_defence": 23
+  },
+  {
+    "id": 76,
+    "idonline_weapon_modify": 2,
+    "level": 16,
+    "hp": 205,
+    "physic_attack": 127,
+    "spell_attack": 0,
+    "physic_defence": 48,
+    "spell_defence": 24
+  },
+  {
+    "id": 77,
+    "idonline_weapon_modify": 2,
+    "level": 17,
+    "hp": 215,
+    "physic_attack": 133,
+    "spell_attack": 0,
+    "physic_defence": 50,
+    "spell_defence": 25
+  },
+  {
+    "id": 78,
+    "idonline_weapon_modify": 2,
+    "level": 18,
+    "hp": 225,
+    "physic_attack": 139,
+    "spell_attack": 0,
+    "physic_defence": 53,
+    "spell_defence": 26
+  },
+  {
+    "id": 79,
+    "idonline_weapon_modify": 2,
+    "level": 19,
+    "hp": 234,
+    "physic_attack": 145,
+    "spell_attack": 0,
+    "physic_defence": 55,
+    "spell_defence": 27
+  },
+  {
+    "id": 80,
+    "idonline_weapon_modify": 2,
+    "level": 20,
+    "hp": 244,
+    "physic_attack": 151,
+    "spell_attack": 0,
+    "physic_defence": 57,
+    "spell_defence": 29
+  },
+  {
+    "id": 81,
+    "idonline_weapon_modify": 2,
+    "level": 21,
+    "hp": 270,
+    "physic_attack": 157,
+    "spell_attack": 0,
+    "physic_defence": 60,
+    "spell_defence": 30
+  },
+  {
+    "id": 82,
+    "idonline_weapon_modify": 2,
+    "level": 22,
+    "hp": 280,
+    "physic_attack": 163,
+    "spell_attack": 0,
+    "physic_defence": 62,
+    "spell_defence": 31
+  },
+  {
+    "id": 83,
+    "idonline_weapon_modify": 2,
+    "level": 23,
+    "hp": 290,
+    "physic_attack": 169,
+    "spell_attack": 0,
+    "physic_defence": 64,
+    "spell_defence": 32
+  },
+  {
+    "id": 84,
+    "idonline_weapon_modify": 2,
+    "level": 24,
+    "hp": 301,
+    "physic_attack": 175,
+    "spell_attack": 0,
+    "physic_defence": 66,
+    "spell_defence": 33
+  },
+  {
+    "id": 85,
+    "idonline_weapon_modify": 2,
+    "level": 25,
+    "hp": 311,
+    "physic_attack": 181,
+    "spell_attack": 0,
+    "physic_defence": 69,
+    "spell_defence": 34
+  },
+  {
+    "id": 86,
+    "idonline_weapon_modify": 2,
+    "level": 26,
+    "hp": 321,
+    "physic_attack": 187,
+    "spell_attack": 0,
+    "physic_defence": 71,
+    "spell_defence": 35
+  },
+  {
+    "id": 87,
+    "idonline_weapon_modify": 2,
+    "level": 27,
+    "hp": 332,
+    "physic_attack": 193,
+    "spell_attack": 0,
+    "physic_defence": 73,
+    "spell_defence": 37
+  },
+  {
+    "id": 88,
+    "idonline_weapon_modify": 2,
+    "level": 28,
+    "hp": 342,
+    "physic_attack": 199,
+    "spell_attack": 0,
+    "physic_defence": 75,
+    "spell_defence": 38
+  },
+  {
+    "id": 89,
+    "idonline_weapon_modify": 2,
+    "level": 29,
+    "hp": 352,
+    "physic_attack": 205,
+    "spell_attack": 0,
+    "physic_defence": 78,
+    "spell_defence": 39
+  },
+  {
+    "id": 90,
+    "idonline_weapon_modify": 2,
+    "level": 30,
+    "hp": 363,
+    "physic_attack": 211,
+    "spell_attack": 0,
+    "physic_defence": 80,
+    "spell_defence": 40
+  },
+  {
+    "id": 91,
+    "idonline_weapon_modify": 2,
+    "level": 31,
+    "hp": 395,
+    "physic_attack": 217,
+    "spell_attack": 0,
+    "physic_defence": 82,
+    "spell_defence": 41
+  },
+  {
+    "id": 92,
+    "idonline_weapon_modify": 2,
+    "level": 32,
+    "hp": 406,
+    "physic_attack": 223,
+    "spell_attack": 0,
+    "physic_defence": 85,
+    "spell_defence": 42
+  },
+  {
+    "id": 93,
+    "idonline_weapon_modify": 2,
+    "level": 33,
+    "hp": 417,
+    "physic_attack": 229,
+    "spell_attack": 0,
+    "physic_defence": 87,
+    "spell_defence": 43
+  },
+  {
+    "id": 94,
+    "idonline_weapon_modify": 2,
+    "level": 34,
+    "hp": 428,
+    "physic_attack": 235,
+    "spell_attack": 0,
+    "physic_defence": 89,
+    "spell_defence": 45
+  },
+  {
+    "id": 95,
+    "idonline_weapon_modify": 2,
+    "level": 35,
+    "hp": 438,
+    "physic_attack": 241,
+    "spell_attack": 0,
+    "physic_defence": 91,
+    "spell_defence": 46
+  },
+  {
+    "id": 96,
+    "idonline_weapon_modify": 2,
+    "level": 36,
+    "hp": 449,
+    "physic_attack": 247,
+    "spell_attack": 0,
+    "physic_defence": 94,
+    "spell_defence": 47
+  },
+  {
+    "id": 97,
+    "idonline_weapon_modify": 2,
+    "level": 37,
+    "hp": 460,
+    "physic_attack": 253,
+    "spell_attack": 0,
+    "physic_defence": 96,
+    "spell_defence": 48
+  },
+  {
+    "id": 98,
+    "idonline_weapon_modify": 2,
+    "level": 38,
+    "hp": 471,
+    "physic_attack": 259,
+    "spell_attack": 0,
+    "physic_defence": 98,
+    "spell_defence": 49
+  },
+  {
+    "id": 99,
+    "idonline_weapon_modify": 2,
+    "level": 39,
+    "hp": 482,
+    "physic_attack": 265,
+    "spell_attack": 0,
+    "physic_defence": 100,
+    "spell_defence": 50
+  },
+  {
+    "id": 100,
+    "idonline_weapon_modify": 2,
+    "level": 40,
+    "hp": 493,
+    "physic_attack": 271,
+    "spell_attack": 0,
+    "physic_defence": 103,
+    "spell_defence": 51
+  },
+  {
+    "id": 101,
+    "idonline_weapon_modify": 2,
+    "level": 41,
+    "hp": 532,
+    "physic_attack": 278,
+    "spell_attack": 0,
+    "physic_defence": 105,
+    "spell_defence": 53
+  },
+  {
+    "id": 102,
+    "idonline_weapon_modify": 2,
+    "level": 42,
+    "hp": 544,
+    "physic_attack": 284,
+    "spell_attack": 0,
+    "physic_defence": 107,
+    "spell_defence": 54
+  },
+  {
+    "id": 103,
+    "idonline_weapon_modify": 2,
+    "level": 43,
+    "hp": 555,
+    "physic_attack": 290,
+    "spell_attack": 0,
+    "physic_defence": 110,
+    "spell_defence": 55
+  },
+  {
+    "id": 104,
+    "idonline_weapon_modify": 2,
+    "level": 44,
+    "hp": 567,
+    "physic_attack": 296,
+    "spell_attack": 0,
+    "physic_defence": 112,
+    "spell_defence": 56
+  },
+  {
+    "id": 105,
+    "idonline_weapon_modify": 2,
+    "level": 45,
+    "hp": 578,
+    "physic_attack": 302,
+    "spell_attack": 0,
+    "physic_defence": 114,
+    "spell_defence": 57
+  },
+  {
+    "id": 106,
+    "idonline_weapon_modify": 2,
+    "level": 46,
+    "hp": 590,
+    "physic_attack": 308,
+    "spell_attack": 0,
+    "physic_defence": 116,
+    "spell_defence": 58
+  },
+  {
+    "id": 107,
+    "idonline_weapon_modify": 2,
+    "level": 47,
+    "hp": 601,
+    "physic_attack": 314,
+    "spell_attack": 0,
+    "physic_defence": 119,
+    "spell_defence": 59
+  },
+  {
+    "id": 108,
+    "idonline_weapon_modify": 2,
+    "level": 48,
+    "hp": 613,
+    "physic_attack": 320,
+    "spell_attack": 0,
+    "physic_defence": 121,
+    "spell_defence": 60
+  },
+  {
+    "id": 109,
+    "idonline_weapon_modify": 2,
+    "level": 49,
+    "hp": 624,
+    "physic_attack": 326,
+    "spell_attack": 0,
+    "physic_defence": 123,
+    "spell_defence": 62
+  },
+  {
+    "id": 110,
+    "idonline_weapon_modify": 2,
+    "level": 50,
+    "hp": 636,
+    "physic_attack": 332,
+    "spell_attack": 0,
+    "physic_defence": 125,
+    "spell_defence": 63
+  },
+  {
+    "id": 111,
+    "idonline_weapon_modify": 2,
+    "level": 51,
+    "hp": 681,
+    "physic_attack": 338,
+    "spell_attack": 0,
+    "physic_defence": 128,
+    "spell_defence": 64
+  },
+  {
+    "id": 112,
+    "idonline_weapon_modify": 2,
+    "level": 52,
+    "hp": 693,
+    "physic_attack": 344,
+    "spell_attack": 0,
+    "physic_defence": 130,
+    "spell_defence": 65
+  },
+  {
+    "id": 113,
+    "idonline_weapon_modify": 2,
+    "level": 53,
+    "hp": 706,
+    "physic_attack": 350,
+    "spell_attack": 0,
+    "physic_defence": 132,
+    "spell_defence": 66
+  },
+  {
+    "id": 114,
+    "idonline_weapon_modify": 2,
+    "level": 54,
+    "hp": 718,
+    "physic_attack": 356,
+    "spell_attack": 0,
+    "physic_defence": 135,
+    "spell_defence": 67
+  },
+  {
+    "id": 115,
+    "idonline_weapon_modify": 2,
+    "level": 55,
+    "hp": 730,
+    "physic_attack": 362,
+    "spell_attack": 0,
+    "physic_defence": 137,
+    "spell_defence": 68
+  },
+  {
+    "id": 116,
+    "idonline_weapon_modify": 2,
+    "level": 56,
+    "hp": 742,
+    "physic_attack": 368,
+    "spell_attack": 0,
+    "physic_defence": 139,
+    "spell_defence": 70
+  },
+  {
+    "id": 117,
+    "idonline_weapon_modify": 2,
+    "level": 57,
+    "hp": 754,
+    "physic_attack": 374,
+    "spell_attack": 0,
+    "physic_defence": 141,
+    "spell_defence": 71
+  },
+  {
+    "id": 118,
+    "idonline_weapon_modify": 2,
+    "level": 58,
+    "hp": 766,
+    "physic_attack": 380,
+    "spell_attack": 0,
+    "physic_defence": 144,
+    "spell_defence": 72
+  },
+  {
+    "id": 119,
+    "idonline_weapon_modify": 2,
+    "level": 59,
+    "hp": 778,
+    "physic_attack": 386,
+    "spell_attack": 0,
+    "physic_defence": 146,
+    "spell_defence": 73
+  },
+  {
+    "id": 120,
+    "idonline_weapon_modify": 2,
+    "level": 60,
+    "hp": 791,
+    "physic_attack": 392,
+    "spell_attack": 0,
+    "physic_defence": 148,
+    "spell_defence": 74
+  },
+  {
+    "id": 121,
+    "idonline_weapon_modify": 3,
+    "level": 1,
+    "hp": 66,
+    "physic_attack": 40,
+    "spell_attack": 0,
+    "physic_defence": 9,
+    "spell_defence": 7
+  },
+  {
+    "id": 122,
+    "idonline_weapon_modify": 3,
+    "level": 2,
+    "hp": 77,
+    "physic_attack": 47,
+    "spell_attack": 0,
+    "physic_defence": 10,
+    "spell_defence": 8
+  },
+  {
+    "id": 123,
+    "idonline_weapon_modify": 3,
+    "level": 3,
+    "hp": 87,
+    "physic_attack": 53,
+    "spell_attack": 0,
+    "physic_defence": 12,
+    "spell_defence": 9
+  },
+  {
+    "id": 124,
+    "idonline_weapon_modify": 3,
+    "level": 4,
+    "hp": 98,
+    "physic_attack": 60,
+    "spell_attack": 0,
+    "physic_defence": 13,
+    "spell_defence": 10
+  },
+  {
+    "id": 125,
+    "idonline_weapon_modify": 3,
+    "level": 5,
+    "hp": 109,
+    "physic_attack": 66,
+    "spell_attack": 0,
+    "physic_defence": 15,
+    "spell_defence": 12
+  },
+  {
+    "id": 126,
+    "idonline_weapon_modify": 3,
+    "level": 6,
+    "hp": 120,
+    "physic_attack": 73,
+    "spell_attack": 0,
+    "physic_defence": 16,
+    "spell_defence": 13
+  },
+  {
+    "id": 127,
+    "idonline_weapon_modify": 3,
+    "level": 7,
+    "hp": 130,
+    "physic_attack": 79,
+    "spell_attack": 0,
+    "physic_defence": 18,
+    "spell_defence": 14
+  },
+  {
+    "id": 128,
+    "idonline_weapon_modify": 3,
+    "level": 8,
+    "hp": 141,
+    "physic_attack": 86,
+    "spell_attack": 0,
+    "physic_defence": 19,
+    "spell_defence": 15
+  },
+  {
+    "id": 129,
+    "idonline_weapon_modify": 3,
+    "level": 9,
+    "hp": 152,
+    "physic_attack": 92,
+    "spell_attack": 0,
+    "physic_defence": 21,
+    "spell_defence": 16
+  },
+  {
+    "id": 130,
+    "idonline_weapon_modify": 3,
+    "level": 10,
+    "hp": 163,
+    "physic_attack": 99,
+    "spell_attack": 0,
+    "physic_defence": 22,
+    "spell_defence": 17
+  },
+  {
+    "id": 131,
+    "idonline_weapon_modify": 3,
+    "level": 11,
+    "hp": 185,
+    "physic_attack": 105,
+    "spell_attack": 0,
+    "physic_defence": 24,
+    "spell_defence": 18
+  },
+  {
+    "id": 132,
+    "idonline_weapon_modify": 3,
+    "level": 12,
+    "hp": 196,
+    "physic_attack": 112,
+    "spell_attack": 0,
+    "physic_defence": 25,
+    "spell_defence": 20
+  },
+  {
+    "id": 133,
+    "idonline_weapon_modify": 3,
+    "level": 13,
+    "hp": 208,
+    "physic_attack": 118,
+    "spell_attack": 0,
+    "physic_defence": 27,
+    "spell_defence": 21
+  },
+  {
+    "id": 134,
+    "idonline_weapon_modify": 3,
+    "level": 14,
+    "hp": 219,
+    "physic_attack": 125,
+    "spell_attack": 0,
+    "physic_defence": 28,
+    "spell_defence": 22
+  },
+  {
+    "id": 135,
+    "idonline_weapon_modify": 3,
+    "level": 15,
+    "hp": 231,
+    "physic_attack": 131,
+    "spell_attack": 0,
+    "physic_defence": 29,
+    "spell_defence": 23
+  },
+  {
+    "id": 136,
+    "idonline_weapon_modify": 3,
+    "level": 16,
+    "hp": 242,
+    "physic_attack": 138,
+    "spell_attack": 0,
+    "physic_defence": 31,
+    "spell_defence": 24
+  },
+  {
+    "id": 137,
+    "idonline_weapon_modify": 3,
+    "level": 17,
+    "hp": 253,
+    "physic_attack": 144,
+    "spell_attack": 0,
+    "physic_defence": 32,
+    "spell_defence": 25
+  },
+  {
+    "id": 138,
+    "idonline_weapon_modify": 3,
+    "level": 18,
+    "hp": 265,
+    "physic_attack": 151,
+    "spell_attack": 0,
+    "physic_defence": 34,
+    "spell_defence": 26
+  },
+  {
+    "id": 139,
+    "idonline_weapon_modify": 3,
+    "level": 19,
+    "hp": 276,
+    "physic_attack": 157,
+    "spell_attack": 0,
+    "physic_defence": 35,
+    "spell_defence": 27
+  },
+  {
+    "id": 140,
+    "idonline_weapon_modify": 3,
+    "level": 20,
+    "hp": 288,
+    "physic_attack": 164,
+    "spell_attack": 0,
+    "physic_defence": 37,
+    "spell_defence": 29
+  },
+  {
+    "id": 141,
+    "idonline_weapon_modify": 3,
+    "level": 21,
+    "hp": 318,
+    "physic_attack": 170,
+    "spell_attack": 0,
+    "physic_defence": 38,
+    "spell_defence": 30
+  },
+  {
+    "id": 142,
+    "idonline_weapon_modify": 3,
+    "level": 22,
+    "hp": 330,
+    "physic_attack": 177,
+    "spell_attack": 0,
+    "physic_defence": 40,
+    "spell_defence": 31
+  },
+  {
+    "id": 143,
+    "idonline_weapon_modify": 3,
+    "level": 23,
+    "hp": 342,
+    "physic_attack": 183,
+    "spell_attack": 0,
+    "physic_defence": 41,
+    "spell_defence": 32
+  },
+  {
+    "id": 144,
+    "idonline_weapon_modify": 3,
+    "level": 24,
+    "hp": 354,
+    "physic_attack": 190,
+    "spell_attack": 0,
+    "physic_defence": 43,
+    "spell_defence": 33
+  },
+  {
+    "id": 145,
+    "idonline_weapon_modify": 3,
+    "level": 25,
+    "hp": 367,
+    "physic_attack": 196,
+    "spell_attack": 0,
+    "physic_defence": 44,
+    "spell_defence": 34
+  },
+  {
+    "id": 146,
+    "idonline_weapon_modify": 3,
+    "level": 26,
+    "hp": 379,
+    "physic_attack": 203,
+    "spell_attack": 0,
+    "physic_defence": 46,
+    "spell_defence": 35
+  },
+  {
+    "id": 147,
+    "idonline_weapon_modify": 3,
+    "level": 27,
+    "hp": 391,
+    "physic_attack": 209,
+    "spell_attack": 0,
+    "physic_defence": 47,
+    "spell_defence": 37
+  },
+  {
+    "id": 148,
+    "idonline_weapon_modify": 3,
+    "level": 28,
+    "hp": 403,
+    "physic_attack": 216,
+    "spell_attack": 0,
+    "physic_defence": 48,
+    "spell_defence": 38
+  },
+  {
+    "id": 149,
+    "idonline_weapon_modify": 3,
+    "level": 29,
+    "hp": 415,
+    "physic_attack": 222,
+    "spell_attack": 0,
+    "physic_defence": 50,
+    "spell_defence": 39
+  },
+  {
+    "id": 150,
+    "idonline_weapon_modify": 3,
+    "level": 30,
+    "hp": 427,
+    "physic_attack": 229,
+    "spell_attack": 0,
+    "physic_defence": 51,
+    "spell_defence": 40
+  },
+  {
+    "id": 151,
+    "idonline_weapon_modify": 3,
+    "level": 31,
+    "hp": 465,
+    "physic_attack": 235,
+    "spell_attack": 0,
+    "physic_defence": 53,
+    "spell_defence": 41
+  },
+  {
+    "id": 152,
+    "idonline_weapon_modify": 3,
+    "level": 32,
+    "hp": 478,
+    "physic_attack": 242,
+    "spell_attack": 0,
+    "physic_defence": 54,
+    "spell_defence": 42
+  },
+  {
+    "id": 153,
+    "idonline_weapon_modify": 3,
+    "level": 33,
+    "hp": 491,
+    "physic_attack": 248,
+    "spell_attack": 0,
+    "physic_defence": 56,
+    "spell_defence": 43
+  },
+  {
+    "id": 154,
+    "idonline_weapon_modify": 3,
+    "level": 34,
+    "hp": 504,
+    "physic_attack": 255,
+    "spell_attack": 0,
+    "physic_defence": 57,
+    "spell_defence": 45
+  },
+  {
+    "id": 155,
+    "idonline_weapon_modify": 3,
+    "level": 35,
+    "hp": 517,
+    "physic_attack": 261,
+    "spell_attack": 0,
+    "physic_defence": 59,
+    "spell_defence": 46
+  },
+  {
+    "id": 156,
+    "idonline_weapon_modify": 3,
+    "level": 36,
+    "hp": 530,
+    "physic_attack": 268,
+    "spell_attack": 0,
+    "physic_defence": 60,
+    "spell_defence": 47
+  },
+  {
+    "id": 157,
+    "idonline_weapon_modify": 3,
+    "level": 37,
+    "hp": 543,
+    "physic_attack": 274,
+    "spell_attack": 0,
+    "physic_defence": 62,
+    "spell_defence": 48
+  },
+  {
+    "id": 158,
+    "idonline_weapon_modify": 3,
+    "level": 38,
+    "hp": 555,
+    "physic_attack": 281,
+    "spell_attack": 0,
+    "physic_defence": 63,
+    "spell_defence": 49
+  },
+  {
+    "id": 159,
+    "idonline_weapon_modify": 3,
+    "level": 39,
+    "hp": 568,
+    "physic_attack": 287,
+    "spell_attack": 0,
+    "physic_defence": 65,
+    "spell_defence": 50
+  },
+  {
+    "id": 160,
+    "idonline_weapon_modify": 3,
+    "level": 40,
+    "hp": 581,
+    "physic_attack": 294,
+    "spell_attack": 0,
+    "physic_defence": 66,
+    "spell_defence": 51
+  },
+  {
+    "id": 161,
+    "idonline_weapon_modify": 3,
+    "level": 41,
+    "hp": 627,
+    "physic_attack": 300,
+    "spell_attack": 0,
+    "physic_defence": 68,
+    "spell_defence": 53
+  },
+  {
+    "id": 162,
+    "idonline_weapon_modify": 3,
+    "level": 42,
+    "hp": 641,
+    "physic_attack": 307,
+    "spell_attack": 0,
+    "physic_defence": 69,
+    "spell_defence": 54
+  },
+  {
+    "id": 163,
+    "idonline_weapon_modify": 3,
+    "level": 43,
+    "hp": 654,
+    "physic_attack": 313,
+    "spell_attack": 0,
+    "physic_defence": 70,
+    "spell_defence": 55
+  },
+  {
+    "id": 164,
+    "idonline_weapon_modify": 3,
+    "level": 44,
+    "hp": 668,
+    "physic_attack": 320,
+    "spell_attack": 0,
+    "physic_defence": 72,
+    "spell_defence": 56
+  },
+  {
+    "id": 165,
+    "idonline_weapon_modify": 3,
+    "level": 45,
+    "hp": 681,
+    "physic_attack": 326,
+    "spell_attack": 0,
+    "physic_defence": 73,
+    "spell_defence": 57
+  },
+  {
+    "id": 166,
+    "idonline_weapon_modify": 3,
+    "level": 46,
+    "hp": 695,
+    "physic_attack": 333,
+    "spell_attack": 0,
+    "physic_defence": 75,
+    "spell_defence": 58
+  },
+  {
+    "id": 167,
+    "idonline_weapon_modify": 3,
+    "level": 47,
+    "hp": 709,
+    "physic_attack": 339,
+    "spell_attack": 0,
+    "physic_defence": 76,
+    "spell_defence": 59
+  },
+  {
+    "id": 168,
+    "idonline_weapon_modify": 3,
+    "level": 48,
+    "hp": 722,
+    "physic_attack": 346,
+    "spell_attack": 0,
+    "physic_defence": 78,
+    "spell_defence": 60
+  },
+  {
+    "id": 169,
+    "idonline_weapon_modify": 3,
+    "level": 49,
+    "hp": 736,
+    "physic_attack": 352,
+    "spell_attack": 0,
+    "physic_defence": 79,
+    "spell_defence": 62
+  },
+  {
+    "id": 170,
+    "idonline_weapon_modify": 3,
+    "level": 50,
+    "hp": 749,
+    "physic_attack": 359,
+    "spell_attack": 0,
+    "physic_defence": 81,
+    "spell_defence": 63
+  },
+  {
+    "id": 171,
+    "idonline_weapon_modify": 3,
+    "level": 51,
+    "hp": 803,
+    "physic_attack": 365,
+    "spell_attack": 0,
+    "physic_defence": 82,
+    "spell_defence": 64
+  },
+  {
+    "id": 172,
+    "idonline_weapon_modify": 3,
+    "level": 52,
+    "hp": 817,
+    "physic_attack": 372,
+    "spell_attack": 0,
+    "physic_defence": 84,
+    "spell_defence": 65
+  },
+  {
+    "id": 173,
+    "idonline_weapon_modify": 3,
+    "level": 53,
+    "hp": 832,
+    "physic_attack": 378,
+    "spell_attack": 0,
+    "physic_defence": 85,
+    "spell_defence": 66
+  },
+  {
+    "id": 174,
+    "idonline_weapon_modify": 3,
+    "level": 54,
+    "hp": 846,
+    "physic_attack": 385,
+    "spell_attack": 0,
+    "physic_defence": 87,
+    "spell_defence": 67
+  },
+  {
+    "id": 175,
+    "idonline_weapon_modify": 3,
+    "level": 55,
+    "hp": 860,
+    "physic_attack": 391,
+    "spell_attack": 0,
+    "physic_defence": 88,
+    "spell_defence": 68
+  },
+  {
+    "id": 176,
+    "idonline_weapon_modify": 3,
+    "level": 56,
+    "hp": 875,
+    "physic_attack": 398,
+    "spell_attack": 0,
+    "physic_defence": 89,
+    "spell_defence": 70
+  },
+  {
+    "id": 177,
+    "idonline_weapon_modify": 3,
+    "level": 57,
+    "hp": 889,
+    "physic_attack": 404,
+    "spell_attack": 0,
+    "physic_defence": 91,
+    "spell_defence": 71
+  },
+  {
+    "id": 178,
+    "idonline_weapon_modify": 3,
+    "level": 58,
+    "hp": 903,
+    "physic_attack": 411,
+    "spell_attack": 0,
+    "physic_defence": 92,
+    "spell_defence": 72
+  },
+  {
+    "id": 179,
+    "idonline_weapon_modify": 3,
+    "level": 59,
+    "hp": 917,
+    "physic_attack": 417,
+    "spell_attack": 0,
+    "physic_defence": 94,
+    "spell_defence": 73
+  },
+  {
+    "id": 180,
+    "idonline_weapon_modify": 3,
+    "level": 60,
+    "hp": 932,
+    "physic_attack": 424,
+    "spell_attack": 0,
+    "physic_defence": 95,
+    "spell_defence": 74
+  },
+  {
+    "id": 181,
+    "idonline_weapon_modify": 4,
+    "level": 1,
+    "hp": 56,
+    "physic_attack": 33,
+    "spell_attack": 0,
+    "physic_defence": 8,
+    "spell_defence": 8
+  },
+  {
+    "id": 182,
+    "idonline_weapon_modify": 4,
+    "level": 2,
+    "hp": 65,
+    "physic_attack": 38,
+    "spell_attack": 0,
+    "physic_defence": 9,
+    "spell_defence": 9
+  },
+  {
+    "id": 183,
+    "idonline_weapon_modify": 4,
+    "level": 3,
+    "hp": 74,
+    "physic_attack": 44,
+    "spell_attack": 0,
+    "physic_defence": 10,
+    "spell_defence": 10
+  },
+  {
+    "id": 184,
+    "idonline_weapon_modify": 4,
+    "level": 4,
+    "hp": 83,
+    "physic_attack": 49,
+    "spell_attack": 0,
+    "physic_defence": 11,
+    "spell_defence": 11
+  },
+  {
+    "id": 185,
+    "idonline_weapon_modify": 4,
+    "level": 5,
+    "hp": 92,
+    "physic_attack": 54,
+    "spell_attack": 0,
+    "physic_defence": 12,
+    "spell_defence": 12
+  },
+  {
+    "id": 186,
+    "idonline_weapon_modify": 4,
+    "level": 6,
+    "hp": 102,
+    "physic_attack": 60,
+    "spell_attack": 0,
+    "physic_defence": 14,
+    "spell_defence": 14
+  },
+  {
+    "id": 187,
+    "idonline_weapon_modify": 4,
+    "level": 7,
+    "hp": 111,
+    "physic_attack": 65,
+    "spell_attack": 0,
+    "physic_defence": 15,
+    "spell_defence": 15
+  },
+  {
+    "id": 188,
+    "idonline_weapon_modify": 4,
+    "level": 8,
+    "hp": 120,
+    "physic_attack": 71,
+    "spell_attack": 0,
+    "physic_defence": 16,
+    "spell_defence": 16
+  },
+  {
+    "id": 189,
+    "idonline_weapon_modify": 4,
+    "level": 9,
+    "hp": 129,
+    "physic_attack": 76,
+    "spell_attack": 0,
+    "physic_defence": 17,
+    "spell_defence": 17
+  },
+  {
+    "id": 190,
+    "idonline_weapon_modify": 4,
+    "level": 10,
+    "hp": 138,
+    "physic_attack": 81,
+    "spell_attack": 0,
+    "physic_defence": 18,
+    "spell_defence": 18
+  },
+  {
+    "id": 191,
+    "idonline_weapon_modify": 4,
+    "level": 11,
+    "hp": 157,
+    "physic_attack": 87,
+    "spell_attack": 0,
+    "physic_defence": 20,
+    "spell_defence": 20
+  },
+  {
+    "id": 192,
+    "idonline_weapon_modify": 4,
+    "level": 12,
+    "hp": 167,
+    "physic_attack": 92,
+    "spell_attack": 0,
+    "physic_defence": 21,
+    "spell_defence": 21
+  },
+  {
+    "id": 193,
+    "idonline_weapon_modify": 4,
+    "level": 13,
+    "hp": 176,
+    "physic_attack": 97,
+    "spell_attack": 0,
+    "physic_defence": 22,
+    "spell_defence": 22
+  },
+  {
+    "id": 194,
+    "idonline_weapon_modify": 4,
+    "level": 14,
+    "hp": 186,
+    "physic_attack": 103,
+    "spell_attack": 0,
+    "physic_defence": 23,
+    "spell_defence": 23
+  },
+  {
+    "id": 195,
+    "idonline_weapon_modify": 4,
+    "level": 15,
+    "hp": 196,
+    "physic_attack": 108,
+    "spell_attack": 0,
+    "physic_defence": 25,
+    "spell_defence": 25
+  },
+  {
+    "id": 196,
+    "idonline_weapon_modify": 4,
+    "level": 16,
+    "hp": 205,
+    "physic_attack": 113,
+    "spell_attack": 0,
+    "physic_defence": 26,
+    "spell_defence": 26
+  },
+  {
+    "id": 197,
+    "idonline_weapon_modify": 4,
+    "level": 17,
+    "hp": 215,
+    "physic_attack": 119,
+    "spell_attack": 0,
+    "physic_defence": 27,
+    "spell_defence": 27
+  },
+  {
+    "id": 198,
+    "idonline_weapon_modify": 4,
+    "level": 18,
+    "hp": 225,
+    "physic_attack": 124,
+    "spell_attack": 0,
+    "physic_defence": 28,
+    "spell_defence": 28
+  },
+  {
+    "id": 199,
+    "idonline_weapon_modify": 4,
+    "level": 19,
+    "hp": 234,
+    "physic_attack": 130,
+    "spell_attack": 0,
+    "physic_defence": 29,
+    "spell_defence": 29
+  },
+  {
+    "id": 200,
+    "idonline_weapon_modify": 4,
+    "level": 20,
+    "hp": 244,
+    "physic_attack": 135,
+    "spell_attack": 0,
+    "physic_defence": 31,
+    "spell_defence": 31
+  },
+  {
+    "id": 201,
+    "idonline_weapon_modify": 4,
+    "level": 21,
+    "hp": 270,
+    "physic_attack": 140,
+    "spell_attack": 0,
+    "physic_defence": 32,
+    "spell_defence": 32
+  },
+  {
+    "id": 202,
+    "idonline_weapon_modify": 4,
+    "level": 22,
+    "hp": 280,
+    "physic_attack": 146,
+    "spell_attack": 0,
+    "physic_defence": 33,
+    "spell_defence": 33
+  },
+  {
+    "id": 203,
+    "idonline_weapon_modify": 4,
+    "level": 23,
+    "hp": 290,
+    "physic_attack": 151,
+    "spell_attack": 0,
+    "physic_defence": 34,
+    "spell_defence": 34
+  },
+  {
+    "id": 204,
+    "idonline_weapon_modify": 4,
+    "level": 24,
+    "hp": 301,
+    "physic_attack": 156,
+    "spell_attack": 0,
+    "physic_defence": 36,
+    "spell_defence": 36
+  },
+  {
+    "id": 205,
+    "idonline_weapon_modify": 4,
+    "level": 25,
+    "hp": 311,
+    "physic_attack": 162,
+    "spell_attack": 0,
+    "physic_defence": 37,
+    "spell_defence": 37
+  },
+  {
+    "id": 206,
+    "idonline_weapon_modify": 4,
+    "level": 26,
+    "hp": 321,
+    "physic_attack": 167,
+    "spell_attack": 0,
+    "physic_defence": 38,
+    "spell_defence": 38
+  },
+  {
+    "id": 207,
+    "idonline_weapon_modify": 4,
+    "level": 27,
+    "hp": 332,
+    "physic_attack": 172,
+    "spell_attack": 0,
+    "physic_defence": 39,
+    "spell_defence": 39
+  },
+  {
+    "id": 208,
+    "idonline_weapon_modify": 4,
+    "level": 28,
+    "hp": 342,
+    "physic_attack": 178,
+    "spell_attack": 0,
+    "physic_defence": 40,
+    "spell_defence": 40
+  },
+  {
+    "id": 209,
+    "idonline_weapon_modify": 4,
+    "level": 29,
+    "hp": 352,
+    "physic_attack": 183,
+    "spell_attack": 0,
+    "physic_defence": 42,
+    "spell_defence": 42
+  },
+  {
+    "id": 210,
+    "idonline_weapon_modify": 4,
+    "level": 30,
+    "hp": 363,
+    "physic_attack": 189,
+    "spell_attack": 0,
+    "physic_defence": 43,
+    "spell_defence": 43
+  },
+  {
+    "id": 211,
+    "idonline_weapon_modify": 4,
+    "level": 31,
+    "hp": 395,
+    "physic_attack": 194,
+    "spell_attack": 0,
+    "physic_defence": 44,
+    "spell_defence": 44
+  },
+  {
+    "id": 212,
+    "idonline_weapon_modify": 4,
+    "level": 32,
+    "hp": 406,
+    "physic_attack": 199,
+    "spell_attack": 0,
+    "physic_defence": 45,
+    "spell_defence": 45
+  },
+  {
+    "id": 213,
+    "idonline_weapon_modify": 4,
+    "level": 33,
+    "hp": 417,
+    "physic_attack": 205,
+    "spell_attack": 0,
+    "physic_defence": 47,
+    "spell_defence": 47
+  },
+  {
+    "id": 214,
+    "idonline_weapon_modify": 4,
+    "level": 34,
+    "hp": 428,
+    "physic_attack": 210,
+    "spell_attack": 0,
+    "physic_defence": 48,
+    "spell_defence": 48
+  },
+  {
+    "id": 215,
+    "idonline_weapon_modify": 4,
+    "level": 35,
+    "hp": 438,
+    "physic_attack": 215,
+    "spell_attack": 0,
+    "physic_defence": 49,
+    "spell_defence": 49
+  },
+  {
+    "id": 216,
+    "idonline_weapon_modify": 4,
+    "level": 36,
+    "hp": 449,
+    "physic_attack": 221,
+    "spell_attack": 0,
+    "physic_defence": 50,
+    "spell_defence": 50
+  },
+  {
+    "id": 217,
+    "idonline_weapon_modify": 4,
+    "level": 37,
+    "hp": 460,
+    "physic_attack": 226,
+    "spell_attack": 0,
+    "physic_defence": 51,
+    "spell_defence": 51
+  },
+  {
+    "id": 218,
+    "idonline_weapon_modify": 4,
+    "level": 38,
+    "hp": 471,
+    "physic_attack": 231,
+    "spell_attack": 0,
+    "physic_defence": 53,
+    "spell_defence": 53
+  },
+  {
+    "id": 219,
+    "idonline_weapon_modify": 4,
+    "level": 39,
+    "hp": 482,
+    "physic_attack": 237,
+    "spell_attack": 0,
+    "physic_defence": 54,
+    "spell_defence": 54
+  },
+  {
+    "id": 220,
+    "idonline_weapon_modify": 4,
+    "level": 40,
+    "hp": 493,
+    "physic_attack": 242,
+    "spell_attack": 0,
+    "physic_defence": 55,
+    "spell_defence": 55
+  },
+  {
+    "id": 221,
+    "idonline_weapon_modify": 4,
+    "level": 41,
+    "hp": 532,
+    "physic_attack": 248,
+    "spell_attack": 0,
+    "physic_defence": 56,
+    "spell_defence": 56
+  },
+  {
+    "id": 222,
+    "idonline_weapon_modify": 4,
+    "level": 42,
+    "hp": 544,
+    "physic_attack": 253,
+    "spell_attack": 0,
+    "physic_defence": 57,
+    "spell_defence": 57
+  },
+  {
+    "id": 223,
+    "idonline_weapon_modify": 4,
+    "level": 43,
+    "hp": 555,
+    "physic_attack": 258,
+    "spell_attack": 0,
+    "physic_defence": 59,
+    "spell_defence": 59
+  },
+  {
+    "id": 224,
+    "idonline_weapon_modify": 4,
+    "level": 44,
+    "hp": 567,
+    "physic_attack": 264,
+    "spell_attack": 0,
+    "physic_defence": 60,
+    "spell_defence": 60
+  },
+  {
+    "id": 225,
+    "idonline_weapon_modify": 4,
+    "level": 45,
+    "hp": 578,
+    "physic_attack": 269,
+    "spell_attack": 0,
+    "physic_defence": 61,
+    "spell_defence": 61
+  },
+  {
+    "id": 226,
+    "idonline_weapon_modify": 4,
+    "level": 46,
+    "hp": 590,
+    "physic_attack": 274,
+    "spell_attack": 0,
+    "physic_defence": 62,
+    "spell_defence": 62
+  },
+  {
+    "id": 227,
+    "idonline_weapon_modify": 4,
+    "level": 47,
+    "hp": 601,
+    "physic_attack": 280,
+    "spell_attack": 0,
+    "physic_defence": 64,
+    "spell_defence": 64
+  },
+  {
+    "id": 228,
+    "idonline_weapon_modify": 4,
+    "level": 48,
+    "hp": 613,
+    "physic_attack": 285,
+    "spell_attack": 0,
+    "physic_defence": 65,
+    "spell_defence": 65
+  },
+  {
+    "id": 229,
+    "idonline_weapon_modify": 4,
+    "level": 49,
+    "hp": 624,
+    "physic_attack": 290,
+    "spell_attack": 0,
+    "physic_defence": 66,
+    "spell_defence": 66
+  },
+  {
+    "id": 230,
+    "idonline_weapon_modify": 4,
+    "level": 50,
+    "hp": 636,
+    "physic_attack": 296,
+    "spell_attack": 0,
+    "physic_defence": 67,
+    "spell_defence": 67
+  },
+  {
+    "id": 231,
+    "idonline_weapon_modify": 4,
+    "level": 51,
+    "hp": 681,
+    "physic_attack": 301,
+    "spell_attack": 0,
+    "physic_defence": 68,
+    "spell_defence": 68
+  },
+  {
+    "id": 232,
+    "idonline_weapon_modify": 4,
+    "level": 52,
+    "hp": 693,
+    "physic_attack": 306,
+    "spell_attack": 0,
+    "physic_defence": 70,
+    "spell_defence": 70
+  },
+  {
+    "id": 233,
+    "idonline_weapon_modify": 4,
+    "level": 53,
+    "hp": 706,
+    "physic_attack": 312,
+    "spell_attack": 0,
+    "physic_defence": 71,
+    "spell_defence": 71
+  },
+  {
+    "id": 234,
+    "idonline_weapon_modify": 4,
+    "level": 54,
+    "hp": 718,
+    "physic_attack": 317,
+    "spell_attack": 0,
+    "physic_defence": 72,
+    "spell_defence": 72
+  },
+  {
+    "id": 235,
+    "idonline_weapon_modify": 4,
+    "level": 55,
+    "hp": 730,
+    "physic_attack": 323,
+    "spell_attack": 0,
+    "physic_defence": 73,
+    "spell_defence": 73
+  },
+  {
+    "id": 236,
+    "idonline_weapon_modify": 4,
+    "level": 56,
+    "hp": 742,
+    "physic_attack": 328,
+    "spell_attack": 0,
+    "physic_defence": 75,
+    "spell_defence": 75
+  },
+  {
+    "id": 237,
+    "idonline_weapon_modify": 4,
+    "level": 57,
+    "hp": 754,
+    "physic_attack": 333,
+    "spell_attack": 0,
+    "physic_defence": 76,
+    "spell_defence": 76
+  },
+  {
+    "id": 238,
+    "idonline_weapon_modify": 4,
+    "level": 58,
+    "hp": 766,
+    "physic_attack": 339,
+    "spell_attack": 0,
+    "physic_defence": 77,
+    "spell_defence": 77
+  },
+  {
+    "id": 239,
+    "idonline_weapon_modify": 4,
+    "level": 59,
+    "hp": 778,
+    "physic_attack": 344,
+    "spell_attack": 0,
+    "physic_defence": 78,
+    "spell_defence": 78
+  },
+  {
+    "id": 240,
+    "idonline_weapon_modify": 4,
+    "level": 60,
+    "hp": 791,
+    "physic_attack": 349,
+    "spell_attack": 0,
+    "physic_defence": 79,
+    "spell_defence": 79
+  },
+  {
+    "id": 241,
+    "idonline_weapon_modify": 5,
+    "level": 1,
+    "hp": 60,
+    "physic_attack": 0,
+    "spell_attack": 38,
+    "physic_defence": 8,
+    "spell_defence": 13
+  },
+  {
+    "id": 242,
+    "idonline_weapon_modify": 5,
+    "level": 2,
+    "hp": 70,
+    "physic_attack": 0,
+    "spell_attack": 44,
+    "physic_defence": 9,
+    "spell_defence": 15
+  },
+  {
+    "id": 243,
+    "idonline_weapon_modify": 5,
+    "level": 3,
+    "hp": 80,
+    "physic_attack": 0,
+    "spell_attack": 50,
+    "physic_defence": 11,
+    "spell_defence": 17
+  },
+  {
+    "id": 244,
+    "idonline_weapon_modify": 5,
+    "level": 4,
+    "hp": 89,
+    "physic_attack": 0,
+    "spell_attack": 57,
+    "physic_defence": 12,
+    "spell_defence": 19
+  },
+  {
+    "id": 245,
+    "idonline_weapon_modify": 5,
+    "level": 5,
+    "hp": 99,
+    "physic_attack": 0,
+    "spell_attack": 63,
+    "physic_defence": 13,
+    "spell_defence": 21
+  },
+  {
+    "id": 246,
+    "idonline_weapon_modify": 5,
+    "level": 6,
+    "hp": 109,
+    "physic_attack": 0,
+    "spell_attack": 69,
+    "physic_defence": 15,
+    "spell_defence": 24
+  },
+  {
+    "id": 247,
+    "idonline_weapon_modify": 5,
+    "level": 7,
+    "hp": 119,
+    "physic_attack": 0,
+    "spell_attack": 75,
+    "physic_defence": 16,
+    "spell_defence": 26
+  },
+  {
+    "id": 248,
+    "idonline_weapon_modify": 5,
+    "level": 8,
+    "hp": 128,
+    "physic_attack": 0,
+    "spell_attack": 81,
+    "physic_defence": 17,
+    "spell_defence": 28
+  },
+  {
+    "id": 249,
+    "idonline_weapon_modify": 5,
+    "level": 9,
+    "hp": 138,
+    "physic_attack": 0,
+    "spell_attack": 87,
+    "physic_defence": 18,
+    "spell_defence": 30
+  },
+  {
+    "id": 250,
+    "idonline_weapon_modify": 5,
+    "level": 10,
+    "hp": 148,
+    "physic_attack": 0,
+    "spell_attack": 94,
+    "physic_defence": 20,
+    "spell_defence": 32
+  },
+  {
+    "id": 251,
+    "idonline_weapon_modify": 5,
+    "level": 11,
+    "hp": 168,
+    "physic_attack": 0,
+    "spell_attack": 100,
+    "physic_defence": 21,
+    "spell_defence": 34
+  },
+  {
+    "id": 252,
+    "idonline_weapon_modify": 5,
+    "level": 12,
+    "hp": 178,
+    "physic_attack": 0,
+    "spell_attack": 106,
+    "physic_defence": 22,
+    "spell_defence": 36
+  },
+  {
+    "id": 253,
+    "idonline_weapon_modify": 5,
+    "level": 13,
+    "hp": 189,
+    "physic_attack": 0,
+    "spell_attack": 112,
+    "physic_defence": 24,
+    "spell_defence": 38
+  },
+  {
+    "id": 254,
+    "idonline_weapon_modify": 5,
+    "level": 14,
+    "hp": 199,
+    "physic_attack": 0,
+    "spell_attack": 118,
+    "physic_defence": 25,
+    "spell_defence": 40
+  },
+  {
+    "id": 255,
+    "idonline_weapon_modify": 5,
+    "level": 15,
+    "hp": 210,
+    "physic_attack": 0,
+    "spell_attack": 124,
+    "physic_defence": 26,
+    "spell_defence": 43
+  },
+  {
+    "id": 256,
+    "idonline_weapon_modify": 5,
+    "level": 16,
+    "hp": 220,
+    "physic_attack": 0,
+    "spell_attack": 131,
+    "physic_defence": 28,
+    "spell_defence": 45
+  },
+  {
+    "id": 257,
+    "idonline_weapon_modify": 5,
+    "level": 17,
+    "hp": 230,
+    "physic_attack": 0,
+    "spell_attack": 137,
+    "physic_defence": 29,
+    "spell_defence": 47
+  },
+  {
+    "id": 258,
+    "idonline_weapon_modify": 5,
+    "level": 18,
+    "hp": 241,
+    "physic_attack": 0,
+    "spell_attack": 143,
+    "physic_defence": 30,
+    "spell_defence": 49
+  },
+  {
+    "id": 259,
+    "idonline_weapon_modify": 5,
+    "level": 19,
+    "hp": 251,
+    "physic_attack": 0,
+    "spell_attack": 149,
+    "physic_defence": 31,
+    "spell_defence": 51
+  },
+  {
+    "id": 260,
+    "idonline_weapon_modify": 5,
+    "level": 20,
+    "hp": 262,
+    "physic_attack": 0,
+    "spell_attack": 155,
+    "physic_defence": 33,
+    "spell_defence": 53
+  },
+  {
+    "id": 261,
+    "idonline_weapon_modify": 5,
+    "level": 21,
+    "hp": 289,
+    "physic_attack": 0,
+    "spell_attack": 162,
+    "physic_defence": 34,
+    "spell_defence": 55
+  },
+  {
+    "id": 262,
+    "idonline_weapon_modify": 5,
+    "level": 22,
+    "hp": 300,
+    "physic_attack": 0,
+    "spell_attack": 168,
+    "physic_defence": 35,
+    "spell_defence": 57
+  },
+  {
+    "id": 263,
+    "idonline_weapon_modify": 5,
+    "level": 23,
+    "hp": 311,
+    "physic_attack": 0,
+    "spell_attack": 174,
+    "physic_defence": 37,
+    "spell_defence": 59
+  },
+  {
+    "id": 264,
+    "idonline_weapon_modify": 5,
+    "level": 24,
+    "hp": 322,
+    "physic_attack": 0,
+    "spell_attack": 180,
+    "physic_defence": 38,
+    "spell_defence": 62
+  },
+  {
+    "id": 265,
+    "idonline_weapon_modify": 5,
+    "level": 25,
+    "hp": 333,
+    "physic_attack": 0,
+    "spell_attack": 186,
+    "physic_defence": 39,
+    "spell_defence": 64
+  },
+  {
+    "id": 266,
+    "idonline_weapon_modify": 5,
+    "level": 26,
+    "hp": 344,
+    "physic_attack": 0,
+    "spell_attack": 192,
+    "physic_defence": 41,
+    "spell_defence": 66
+  },
+  {
+    "id": 267,
+    "idonline_weapon_modify": 5,
+    "level": 27,
+    "hp": 355,
+    "physic_attack": 0,
+    "spell_attack": 199,
+    "physic_defence": 42,
+    "spell_defence": 68
+  },
+  {
+    "id": 268,
+    "idonline_weapon_modify": 5,
+    "level": 28,
+    "hp": 366,
+    "physic_attack": 0,
+    "spell_attack": 205,
+    "physic_defence": 43,
+    "spell_defence": 70
+  },
+  {
+    "id": 269,
+    "idonline_weapon_modify": 5,
+    "level": 29,
+    "hp": 377,
+    "physic_attack": 0,
+    "spell_attack": 211,
+    "physic_defence": 44,
+    "spell_defence": 72
+  },
+  {
+    "id": 270,
+    "idonline_weapon_modify": 5,
+    "level": 30,
+    "hp": 388,
+    "physic_attack": 0,
+    "spell_attack": 217,
+    "physic_defence": 46,
+    "spell_defence": 74
+  },
+  {
+    "id": 271,
+    "idonline_weapon_modify": 5,
+    "level": 31,
+    "hp": 423,
+    "physic_attack": 0,
+    "spell_attack": 223,
+    "physic_defence": 47,
+    "spell_defence": 76
+  },
+  {
+    "id": 272,
+    "idonline_weapon_modify": 5,
+    "level": 32,
+    "hp": 435,
+    "physic_attack": 0,
+    "spell_attack": 229,
+    "physic_defence": 48,
+    "spell_defence": 78
+  },
+  {
+    "id": 273,
+    "idonline_weapon_modify": 5,
+    "level": 33,
+    "hp": 446,
+    "physic_attack": 0,
+    "spell_attack": 236,
+    "physic_defence": 50,
+    "spell_defence": 81
+  },
+  {
+    "id": 274,
+    "idonline_weapon_modify": 5,
+    "level": 34,
+    "hp": 458,
+    "physic_attack": 0,
+    "spell_attack": 242,
+    "physic_defence": 51,
+    "spell_defence": 83
+  },
+  {
+    "id": 275,
+    "idonline_weapon_modify": 5,
+    "level": 35,
+    "hp": 470,
+    "physic_attack": 0,
+    "spell_attack": 248,
+    "physic_defence": 52,
+    "spell_defence": 85
+  },
+  {
+    "id": 276,
+    "idonline_weapon_modify": 5,
+    "level": 36,
+    "hp": 482,
+    "physic_attack": 0,
+    "spell_attack": 254,
+    "physic_defence": 54,
+    "spell_defence": 87
+  },
+  {
+    "id": 277,
+    "idonline_weapon_modify": 5,
+    "level": 37,
+    "hp": 493,
+    "physic_attack": 0,
+    "spell_attack": 260,
+    "physic_defence": 55,
+    "spell_defence": 89
+  },
+  {
+    "id": 278,
+    "idonline_weapon_modify": 5,
+    "level": 38,
+    "hp": 505,
+    "physic_attack": 0,
+    "spell_attack": 266,
+    "physic_defence": 56,
+    "spell_defence": 91
+  },
+  {
+    "id": 279,
+    "idonline_weapon_modify": 5,
+    "level": 39,
+    "hp": 517,
+    "physic_attack": 0,
+    "spell_attack": 273,
+    "physic_defence": 57,
+    "spell_defence": 93
+  },
+  {
+    "id": 280,
+    "idonline_weapon_modify": 5,
+    "level": 40,
+    "hp": 528,
+    "physic_attack": 0,
+    "spell_attack": 279,
+    "physic_defence": 59,
+    "spell_defence": 95
+  },
+  {
+    "id": 281,
+    "idonline_weapon_modify": 5,
+    "level": 41,
+    "hp": 570,
+    "physic_attack": 0,
+    "spell_attack": 285,
+    "physic_defence": 60,
+    "spell_defence": 98
+  },
+  {
+    "id": 282,
+    "idonline_weapon_modify": 5,
+    "level": 42,
+    "hp": 582,
+    "physic_attack": 0,
+    "spell_attack": 291,
+    "physic_defence": 61,
+    "spell_defence": 100
+  },
+  {
+    "id": 283,
+    "idonline_weapon_modify": 5,
+    "level": 43,
+    "hp": 595,
+    "physic_attack": 0,
+    "spell_attack": 297,
+    "physic_defence": 63,
+    "spell_defence": 102
+  },
+  {
+    "id": 284,
+    "idonline_weapon_modify": 5,
+    "level": 44,
+    "hp": 607,
+    "physic_attack": 0,
+    "spell_attack": 304,
+    "physic_defence": 64,
+    "spell_defence": 104
+  },
+  {
+    "id": 285,
+    "idonline_weapon_modify": 5,
+    "level": 45,
+    "hp": 619,
+    "physic_attack": 0,
+    "spell_attack": 310,
+    "physic_defence": 65,
+    "spell_defence": 106
+  },
+  {
+    "id": 286,
+    "idonline_weapon_modify": 5,
+    "level": 46,
+    "hp": 632,
+    "physic_attack": 0,
+    "spell_attack": 316,
+    "physic_defence": 66,
+    "spell_defence": 108
+  },
+  {
+    "id": 287,
+    "idonline_weapon_modify": 5,
+    "level": 47,
+    "hp": 644,
+    "physic_attack": 0,
+    "spell_attack": 322,
+    "physic_defence": 68,
+    "spell_defence": 110
+  },
+  {
+    "id": 288,
+    "idonline_weapon_modify": 5,
+    "level": 48,
+    "hp": 656,
+    "physic_attack": 0,
+    "spell_attack": 328,
+    "physic_defence": 69,
+    "spell_defence": 112
+  },
+  {
+    "id": 289,
+    "idonline_weapon_modify": 5,
+    "level": 49,
+    "hp": 669,
+    "physic_attack": 0,
+    "spell_attack": 334,
+    "physic_defence": 70,
+    "spell_defence": 114
+  },
+  {
+    "id": 290,
+    "idonline_weapon_modify": 5,
+    "level": 50,
+    "hp": 681,
+    "physic_attack": 0,
+    "spell_attack": 341,
+    "physic_defence": 72,
+    "spell_defence": 117
+  },
+  {
+    "id": 291,
+    "idonline_weapon_modify": 5,
+    "level": 51,
+    "hp": 730,
+    "physic_attack": 0,
+    "spell_attack": 347,
+    "physic_defence": 73,
+    "spell_defence": 119
+  },
+  {
+    "id": 292,
+    "idonline_weapon_modify": 5,
+    "level": 52,
+    "hp": 743,
+    "physic_attack": 0,
+    "spell_attack": 353,
+    "physic_defence": 74,
+    "spell_defence": 121
+  },
+  {
+    "id": 293,
+    "idonline_weapon_modify": 5,
+    "level": 53,
+    "hp": 756,
+    "physic_attack": 0,
+    "spell_attack": 359,
+    "physic_defence": 76,
+    "spell_defence": 123
+  },
+  {
+    "id": 294,
+    "idonline_weapon_modify": 5,
+    "level": 54,
+    "hp": 769,
+    "physic_attack": 0,
+    "spell_attack": 365,
+    "physic_defence": 77,
+    "spell_defence": 125
+  },
+  {
+    "id": 295,
+    "idonline_weapon_modify": 5,
+    "level": 55,
+    "hp": 782,
+    "physic_attack": 0,
+    "spell_attack": 371,
+    "physic_defence": 78,
+    "spell_defence": 127
+  },
+  {
+    "id": 296,
+    "idonline_weapon_modify": 5,
+    "level": 56,
+    "hp": 795,
+    "physic_attack": 0,
+    "spell_attack": 378,
+    "physic_defence": 79,
+    "spell_defence": 129
+  },
+  {
+    "id": 297,
+    "idonline_weapon_modify": 5,
+    "level": 57,
+    "hp": 808,
+    "physic_attack": 0,
+    "spell_attack": 384,
+    "physic_defence": 81,
+    "spell_defence": 131
+  },
+  {
+    "id": 298,
+    "idonline_weapon_modify": 5,
+    "level": 58,
+    "hp": 821,
+    "physic_attack": 0,
+    "spell_attack": 390,
+    "physic_defence": 82,
+    "spell_defence": 133
+  },
+  {
+    "id": 299,
+    "idonline_weapon_modify": 5,
+    "level": 59,
+    "hp": 834,
+    "physic_attack": 0,
+    "spell_attack": 396,
+    "physic_defence": 83,
+    "spell_defence": 136
+  },
+  {
+    "id": 300,
+    "idonline_weapon_modify": 5,
+    "level": 60,
+    "hp": 847,
+    "physic_attack": 0,
+    "spell_attack": 402,
+    "physic_defence": 85,
+    "spell_defence": 138
+  },
+  {
+    "id": 301,
+    "idonline_weapon_modify": 6,
+    "level": 1,
+    "hp": 30,
+    "physic_attack": 18,
+    "spell_attack": 18,
+    "physic_defence": 5,
+    "spell_defence": 5
+  },
+  {
+    "id": 302,
+    "idonline_weapon_modify": 6,
+    "level": 2,
+    "hp": 35,
+    "physic_attack": 21,
+    "spell_attack": 21,
+    "physic_defence": 6,
+    "spell_defence": 6
+  },
+  {
+    "id": 303,
+    "idonline_weapon_modify": 6,
+    "level": 3,
+    "hp": 40,
+    "physic_attack": 24,
+    "spell_attack": 24,
+    "physic_defence": 7,
+    "spell_defence": 7
+  },
+  {
+    "id": 304,
+    "idonline_weapon_modify": 6,
+    "level": 4,
+    "hp": 45,
+    "physic_attack": 27,
+    "spell_attack": 27,
+    "physic_defence": 7,
+    "spell_defence": 7
+  },
+  {
+    "id": 305,
+    "idonline_weapon_modify": 6,
+    "level": 5,
+    "hp": 50,
+    "physic_attack": 30,
+    "spell_attack": 30,
+    "physic_defence": 8,
+    "spell_defence": 8
+  },
+  {
+    "id": 306,
+    "idonline_weapon_modify": 6,
+    "level": 6,
+    "hp": 54,
+    "physic_attack": 33,
+    "spell_attack": 33,
+    "physic_defence": 9,
+    "spell_defence": 9
+  },
+  {
+    "id": 307,
+    "idonline_weapon_modify": 6,
+    "level": 7,
+    "hp": 59,
+    "physic_attack": 36,
+    "spell_attack": 36,
+    "physic_defence": 10,
+    "spell_defence": 10
+  },
+  {
+    "id": 308,
+    "idonline_weapon_modify": 6,
+    "level": 8,
+    "hp": 64,
+    "physic_attack": 38,
+    "spell_attack": 38,
+    "physic_defence": 11,
+    "spell_defence": 11
+  },
+  {
+    "id": 309,
+    "idonline_weapon_modify": 6,
+    "level": 9,
+    "hp": 69,
+    "physic_attack": 41,
+    "spell_attack": 41,
+    "physic_defence": 12,
+    "spell_defence": 12
+  },
+  {
+    "id": 310,
+    "idonline_weapon_modify": 6,
+    "level": 10,
+    "hp": 74,
+    "physic_attack": 44,
+    "spell_attack": 44,
+    "physic_defence": 12,
+    "spell_defence": 12
+  },
+  {
+    "id": 311,
+    "idonline_weapon_modify": 6,
+    "level": 11,
+    "hp": 84,
+    "physic_attack": 47,
+    "spell_attack": 47,
+    "physic_defence": 13,
+    "spell_defence": 13
+  },
+  {
+    "id": 312,
+    "idonline_weapon_modify": 6,
+    "level": 12,
+    "hp": 89,
+    "physic_attack": 50,
+    "spell_attack": 50,
+    "physic_defence": 14,
+    "spell_defence": 14
+  },
+  {
+    "id": 313,
+    "idonline_weapon_modify": 6,
+    "level": 13,
+    "hp": 94,
+    "physic_attack": 53,
+    "spell_attack": 53,
+    "physic_defence": 15,
+    "spell_defence": 15
+  },
+  {
+    "id": 314,
+    "idonline_weapon_modify": 6,
+    "level": 14,
+    "hp": 100,
+    "physic_attack": 56,
+    "spell_attack": 56,
+    "physic_defence": 16,
+    "spell_defence": 16
+  },
+  {
+    "id": 315,
+    "idonline_weapon_modify": 6,
+    "level": 15,
+    "hp": 105,
+    "physic_attack": 59,
+    "spell_attack": 59,
+    "physic_defence": 16,
+    "spell_defence": 16
+  },
+  {
+    "id": 316,
+    "idonline_weapon_modify": 6,
+    "level": 16,
+    "hp": 110,
+    "physic_attack": 62,
+    "spell_attack": 62,
+    "physic_defence": 17,
+    "spell_defence": 17
+  },
+  {
+    "id": 317,
+    "idonline_weapon_modify": 6,
+    "level": 17,
+    "hp": 115,
+    "physic_attack": 65,
+    "spell_attack": 65,
+    "physic_defence": 18,
+    "spell_defence": 18
+  },
+  {
+    "id": 318,
+    "idonline_weapon_modify": 6,
+    "level": 18,
+    "hp": 120,
+    "physic_attack": 68,
+    "spell_attack": 68,
+    "physic_defence": 19,
+    "spell_defence": 19
+  },
+  {
+    "id": 319,
+    "idonline_weapon_modify": 6,
+    "level": 19,
+    "hp": 126,
+    "physic_attack": 71,
+    "spell_attack": 71,
+    "physic_defence": 20,
+    "spell_defence": 20
+  },
+  {
+    "id": 320,
+    "idonline_weapon_modify": 6,
+    "level": 20,
+    "hp": 131,
+    "physic_attack": 74,
+    "spell_attack": 74,
+    "physic_defence": 20,
+    "spell_defence": 20
+  },
+  {
+    "id": 321,
+    "idonline_weapon_modify": 6,
+    "level": 21,
+    "hp": 145,
+    "physic_attack": 77,
+    "spell_attack": 77,
+    "physic_defence": 21,
+    "spell_defence": 21
+  },
+  {
+    "id": 322,
+    "idonline_weapon_modify": 6,
+    "level": 22,
+    "hp": 150,
+    "physic_attack": 79,
+    "spell_attack": 79,
+    "physic_defence": 22,
+    "spell_defence": 22
+  },
+  {
+    "id": 323,
+    "idonline_weapon_modify": 6,
+    "level": 23,
+    "hp": 156,
+    "physic_attack": 82,
+    "spell_attack": 82,
+    "physic_defence": 23,
+    "spell_defence": 23
+  },
+  {
+    "id": 324,
+    "idonline_weapon_modify": 6,
+    "level": 24,
+    "hp": 161,
+    "physic_attack": 85,
+    "spell_attack": 85,
+    "physic_defence": 24,
+    "spell_defence": 24
+  },
+  {
+    "id": 325,
+    "idonline_weapon_modify": 6,
+    "level": 25,
+    "hp": 167,
+    "physic_attack": 88,
+    "spell_attack": 88,
+    "physic_defence": 25,
+    "spell_defence": 25
+  },
+  {
+    "id": 326,
+    "idonline_weapon_modify": 6,
+    "level": 26,
+    "hp": 172,
+    "physic_attack": 91,
+    "spell_attack": 91,
+    "physic_defence": 25,
+    "spell_defence": 25
+  },
+  {
+    "id": 327,
+    "idonline_weapon_modify": 6,
+    "level": 27,
+    "hp": 178,
+    "physic_attack": 94,
+    "spell_attack": 94,
+    "physic_defence": 26,
+    "spell_defence": 26
+  },
+  {
+    "id": 328,
+    "idonline_weapon_modify": 6,
+    "level": 28,
+    "hp": 183,
+    "physic_attack": 97,
+    "spell_attack": 97,
+    "physic_defence": 27,
+    "spell_defence": 27
+  },
+  {
+    "id": 329,
+    "idonline_weapon_modify": 6,
+    "level": 29,
+    "hp": 189,
+    "physic_attack": 100,
+    "spell_attack": 100,
+    "physic_defence": 28,
+    "spell_defence": 28
+  },
+  {
+    "id": 330,
+    "idonline_weapon_modify": 6,
+    "level": 30,
+    "hp": 194,
+    "physic_attack": 103,
+    "spell_attack": 103,
+    "physic_defence": 29,
+    "spell_defence": 29
+  },
+  {
+    "id": 331,
+    "idonline_weapon_modify": 6,
+    "level": 31,
+    "hp": 212,
+    "physic_attack": 106,
+    "spell_attack": 106,
+    "physic_defence": 29,
+    "spell_defence": 29
+  },
+  {
+    "id": 332,
+    "idonline_weapon_modify": 6,
+    "level": 32,
+    "hp": 217,
+    "physic_attack": 109,
+    "spell_attack": 109,
+    "physic_defence": 30,
+    "spell_defence": 30
+  },
+  {
+    "id": 333,
+    "idonline_weapon_modify": 6,
+    "level": 33,
+    "hp": 223,
+    "physic_attack": 112,
+    "spell_attack": 112,
+    "physic_defence": 31,
+    "spell_defence": 31
+  },
+  {
+    "id": 334,
+    "idonline_weapon_modify": 6,
+    "level": 34,
+    "hp": 229,
+    "physic_attack": 115,
+    "spell_attack": 115,
+    "physic_defence": 32,
+    "spell_defence": 32
+  },
+  {
+    "id": 335,
+    "idonline_weapon_modify": 6,
+    "level": 35,
+    "hp": 235,
+    "physic_attack": 117,
+    "spell_attack": 117,
+    "physic_defence": 33,
+    "spell_defence": 33
+  },
+  {
+    "id": 336,
+    "idonline_weapon_modify": 6,
+    "level": 36,
+    "hp": 241,
+    "physic_attack": 120,
+    "spell_attack": 120,
+    "physic_defence": 33,
+    "spell_defence": 33
+  },
+  {
+    "id": 337,
+    "idonline_weapon_modify": 6,
+    "level": 37,
+    "hp": 247,
+    "physic_attack": 123,
+    "spell_attack": 123,
+    "physic_defence": 34,
+    "spell_defence": 34
+  },
+  {
+    "id": 338,
+    "idonline_weapon_modify": 6,
+    "level": 38,
+    "hp": 252,
+    "physic_attack": 126,
+    "spell_attack": 126,
+    "physic_defence": 35,
+    "spell_defence": 35
+  },
+  {
+    "id": 339,
+    "idonline_weapon_modify": 6,
+    "level": 39,
+    "hp": 258,
+    "physic_attack": 129,
+    "spell_attack": 129,
+    "physic_defence": 36,
+    "spell_defence": 36
+  },
+  {
+    "id": 340,
+    "idonline_weapon_modify": 6,
+    "level": 40,
+    "hp": 264,
+    "physic_attack": 132,
+    "spell_attack": 132,
+    "physic_defence": 37,
+    "spell_defence": 37
+  },
+  {
+    "id": 341,
+    "idonline_weapon_modify": 6,
+    "level": 41,
+    "hp": 285,
+    "physic_attack": 135,
+    "spell_attack": 135,
+    "physic_defence": 38,
+    "spell_defence": 38
+  },
+  {
+    "id": 342,
+    "idonline_weapon_modify": 6,
+    "level": 42,
+    "hp": 291,
+    "physic_attack": 138,
+    "spell_attack": 138,
+    "physic_defence": 38,
+    "spell_defence": 38
+  },
+  {
+    "id": 343,
+    "idonline_weapon_modify": 6,
+    "level": 43,
+    "hp": 297,
+    "physic_attack": 141,
+    "spell_attack": 141,
+    "physic_defence": 39,
+    "spell_defence": 39
+  },
+  {
+    "id": 344,
+    "idonline_weapon_modify": 6,
+    "level": 44,
+    "hp": 304,
+    "physic_attack": 144,
+    "spell_attack": 144,
+    "physic_defence": 40,
+    "spell_defence": 40
+  },
+  {
+    "id": 345,
+    "idonline_weapon_modify": 6,
+    "level": 45,
+    "hp": 310,
+    "physic_attack": 147,
+    "spell_attack": 147,
+    "physic_defence": 41,
+    "spell_defence": 41
+  },
+  {
+    "id": 346,
+    "idonline_weapon_modify": 6,
+    "level": 46,
+    "hp": 316,
+    "physic_attack": 150,
+    "spell_attack": 150,
+    "physic_defence": 42,
+    "spell_defence": 42
+  },
+  {
+    "id": 347,
+    "idonline_weapon_modify": 6,
+    "level": 47,
+    "hp": 322,
+    "physic_attack": 153,
+    "spell_attack": 153,
+    "physic_defence": 42,
+    "spell_defence": 42
+  },
+  {
+    "id": 348,
+    "idonline_weapon_modify": 6,
+    "level": 48,
+    "hp": 328,
+    "physic_attack": 155,
+    "spell_attack": 155,
+    "physic_defence": 43,
+    "spell_defence": 43
+  },
+  {
+    "id": 349,
+    "idonline_weapon_modify": 6,
+    "level": 49,
+    "hp": 334,
+    "physic_attack": 158,
+    "spell_attack": 158,
+    "physic_defence": 44,
+    "spell_defence": 44
+  },
+  {
+    "id": 350,
+    "idonline_weapon_modify": 6,
+    "level": 50,
+    "hp": 341,
+    "physic_attack": 161,
+    "spell_attack": 161,
+    "physic_defence": 45,
+    "spell_defence": 45
+  },
+  {
+    "id": 351,
+    "idonline_weapon_modify": 6,
+    "level": 51,
+    "hp": 365,
+    "physic_attack": 164,
+    "spell_attack": 164,
+    "physic_defence": 46,
+    "spell_defence": 46
+  },
+  {
+    "id": 352,
+    "idonline_weapon_modify": 6,
+    "level": 52,
+    "hp": 371,
+    "physic_attack": 167,
+    "spell_attack": 167,
+    "physic_defence": 46,
+    "spell_defence": 46
+  },
+  {
+    "id": 353,
+    "idonline_weapon_modify": 6,
+    "level": 53,
+    "hp": 378,
+    "physic_attack": 170,
+    "spell_attack": 170,
+    "physic_defence": 47,
+    "spell_defence": 47
+  },
+  {
+    "id": 354,
+    "idonline_weapon_modify": 6,
+    "level": 54,
+    "hp": 385,
+    "physic_attack": 173,
+    "spell_attack": 173,
+    "physic_defence": 48,
+    "spell_defence": 48
+  },
+  {
+    "id": 355,
+    "idonline_weapon_modify": 6,
+    "level": 55,
+    "hp": 391,
+    "physic_attack": 176,
+    "spell_attack": 176,
+    "physic_defence": 49,
+    "spell_defence": 49
+  },
+  {
+    "id": 356,
+    "idonline_weapon_modify": 6,
+    "level": 56,
+    "hp": 398,
+    "physic_attack": 179,
+    "spell_attack": 179,
+    "physic_defence": 50,
+    "spell_defence": 50
+  },
+  {
+    "id": 357,
+    "idonline_weapon_modify": 6,
+    "level": 57,
+    "hp": 404,
+    "physic_attack": 182,
+    "spell_attack": 182,
+    "physic_defence": 51,
+    "spell_defence": 51
+  },
+  {
+    "id": 358,
+    "idonline_weapon_modify": 6,
+    "level": 58,
+    "hp": 410,
+    "physic_attack": 185,
+    "spell_attack": 185,
+    "physic_defence": 51,
+    "spell_defence": 51
+  },
+  {
+    "id": 359,
+    "idonline_weapon_modify": 6,
+    "level": 59,
+    "hp": 417,
+    "physic_attack": 188,
+    "spell_attack": 188,
+    "physic_defence": 52,
+    "spell_defence": 52
+  },
+  {
+    "id": 360,
+    "idonline_weapon_modify": 6,
+    "level": 60,
+    "hp": 424,
+    "physic_attack": 191,
+    "spell_attack": 191,
+    "physic_defence": 53,
+    "spell_defence": 53
+  },
+  {
+    "id": 361,
+    "idonline_weapon_modify": 7,
+    "level": 1,
+    "hp": 17,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 5,
+    "spell_defence": 5
+  },
+  {
+    "id": 362,
+    "idonline_weapon_modify": 7,
+    "level": 2,
+    "hp": 20,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 6,
+    "spell_defence": 6
+  },
+  {
+    "id": 363,
+    "idonline_weapon_modify": 7,
+    "level": 3,
+    "hp": 22,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 7,
+    "spell_defence": 7
+  },
+  {
+    "id": 364,
+    "idonline_weapon_modify": 7,
+    "level": 4,
+    "hp": 25,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 8,
+    "spell_defence": 8
+  },
+  {
+    "id": 365,
+    "idonline_weapon_modify": 7,
+    "level": 5,
+    "hp": 28,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 9,
+    "spell_defence": 9
+  },
+  {
+    "id": 366,
+    "idonline_weapon_modify": 7,
+    "level": 6,
+    "hp": 31,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 10,
+    "spell_defence": 10
+  },
+  {
+    "id": 367,
+    "idonline_weapon_modify": 7,
+    "level": 7,
+    "hp": 34,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 11,
+    "spell_defence": 11
+  },
+  {
+    "id": 368,
+    "idonline_weapon_modify": 7,
+    "level": 8,
+    "hp": 36,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 11,
+    "spell_defence": 11
+  },
+  {
+    "id": 369,
+    "idonline_weapon_modify": 7,
+    "level": 9,
+    "hp": 39,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 12,
+    "spell_defence": 12
+  },
+  {
+    "id": 370,
+    "idonline_weapon_modify": 7,
+    "level": 10,
+    "hp": 42,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 13,
+    "spell_defence": 13
+  },
+  {
+    "id": 371,
+    "idonline_weapon_modify": 7,
+    "level": 11,
+    "hp": 46,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 14,
+    "spell_defence": 14
+  },
+  {
+    "id": 372,
+    "idonline_weapon_modify": 7,
+    "level": 12,
+    "hp": 51,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 16,
+    "spell_defence": 16
+  },
+  {
+    "id": 373,
+    "idonline_weapon_modify": 7,
+    "level": 13,
+    "hp": 55,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 17,
+    "spell_defence": 17
+  },
+  {
+    "id": 374,
+    "idonline_weapon_modify": 7,
+    "level": 14,
+    "hp": 59,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 18,
+    "spell_defence": 18
+  },
+  {
+    "id": 375,
+    "idonline_weapon_modify": 7,
+    "level": 15,
+    "hp": 63,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 20,
+    "spell_defence": 20
+  },
+  {
+    "id": 376,
+    "idonline_weapon_modify": 7,
+    "level": 16,
+    "hp": 67,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 21,
+    "spell_defence": 21
+  },
+  {
+    "id": 377,
+    "idonline_weapon_modify": 7,
+    "level": 17,
+    "hp": 72,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 22,
+    "spell_defence": 22
+  },
+  {
+    "id": 378,
+    "idonline_weapon_modify": 7,
+    "level": 18,
+    "hp": 76,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 24,
+    "spell_defence": 24
+  },
+  {
+    "id": 379,
+    "idonline_weapon_modify": 7,
+    "level": 19,
+    "hp": 80,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 25,
+    "spell_defence": 25
+  },
+  {
+    "id": 380,
+    "idonline_weapon_modify": 7,
+    "level": 20,
+    "hp": 84,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 26,
+    "spell_defence": 26
+  },
+  {
+    "id": 381,
+    "idonline_weapon_modify": 7,
+    "level": 21,
+    "hp": 88,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 28,
+    "spell_defence": 28
+  },
+  {
+    "id": 382,
+    "idonline_weapon_modify": 7,
+    "level": 22,
+    "hp": 93,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 29,
+    "spell_defence": 29
+  },
+  {
+    "id": 383,
+    "idonline_weapon_modify": 7,
+    "level": 23,
+    "hp": 97,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 30,
+    "spell_defence": 30
+  },
+  {
+    "id": 384,
+    "idonline_weapon_modify": 7,
+    "level": 24,
+    "hp": 101,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 32,
+    "spell_defence": 32
+  },
+  {
+    "id": 385,
+    "idonline_weapon_modify": 7,
+    "level": 25,
+    "hp": 105,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 33,
+    "spell_defence": 33
+  },
+  {
+    "id": 386,
+    "idonline_weapon_modify": 7,
+    "level": 26,
+    "hp": 109,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 34,
+    "spell_defence": 34
+  },
+  {
+    "id": 387,
+    "idonline_weapon_modify": 7,
+    "level": 27,
+    "hp": 114,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 36,
+    "spell_defence": 36
+  },
+  {
+    "id": 388,
+    "idonline_weapon_modify": 7,
+    "level": 28,
+    "hp": 118,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 37,
+    "spell_defence": 37
+  },
+  {
+    "id": 389,
+    "idonline_weapon_modify": 7,
+    "level": 29,
+    "hp": 122,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 38,
+    "spell_defence": 38
+  },
+  {
+    "id": 390,
+    "idonline_weapon_modify": 7,
+    "level": 30,
+    "hp": 128,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 40,
+    "spell_defence": 40
+  },
+  {
+    "id": 391,
+    "idonline_weapon_modify": 7,
+    "level": 31,
+    "hp": 133,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 42,
+    "spell_defence": 42
+  },
+  {
+    "id": 392,
+    "idonline_weapon_modify": 7,
+    "level": 32,
+    "hp": 139,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 43,
+    "spell_defence": 43
+  },
+  {
+    "id": 393,
+    "idonline_weapon_modify": 7,
+    "level": 33,
+    "hp": 145,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 45,
+    "spell_defence": 45
+  },
+  {
+    "id": 394,
+    "idonline_weapon_modify": 7,
+    "level": 34,
+    "hp": 150,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 47,
+    "spell_defence": 47
+  },
+  {
+    "id": 395,
+    "idonline_weapon_modify": 7,
+    "level": 35,
+    "hp": 156,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 49,
+    "spell_defence": 49
+  },
+  {
+    "id": 396,
+    "idonline_weapon_modify": 7,
+    "level": 36,
+    "hp": 161,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 50,
+    "spell_defence": 50
+  },
+  {
+    "id": 397,
+    "idonline_weapon_modify": 7,
+    "level": 37,
+    "hp": 167,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 52,
+    "spell_defence": 52
+  },
+  {
+    "id": 398,
+    "idonline_weapon_modify": 7,
+    "level": 38,
+    "hp": 173,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 54,
+    "spell_defence": 54
+  },
+  {
+    "id": 399,
+    "idonline_weapon_modify": 7,
+    "level": 39,
+    "hp": 178,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 56,
+    "spell_defence": 56
+  },
+  {
+    "id": 400,
+    "idonline_weapon_modify": 7,
+    "level": 40,
+    "hp": 184,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 57,
+    "spell_defence": 57
+  },
+  {
+    "id": 401,
+    "idonline_weapon_modify": 7,
+    "level": 41,
+    "hp": 189,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 59,
+    "spell_defence": 59
+  },
+  {
+    "id": 402,
+    "idonline_weapon_modify": 7,
+    "level": 42,
+    "hp": 195,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 61,
+    "spell_defence": 61
+  },
+  {
+    "id": 403,
+    "idonline_weapon_modify": 7,
+    "level": 43,
+    "hp": 201,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 63,
+    "spell_defence": 63
+  },
+  {
+    "id": 404,
+    "idonline_weapon_modify": 7,
+    "level": 44,
+    "hp": 206,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 64,
+    "spell_defence": 64
+  },
+  {
+    "id": 405,
+    "idonline_weapon_modify": 7,
+    "level": 45,
+    "hp": 212,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 66,
+    "spell_defence": 66
+  },
+  {
+    "id": 406,
+    "idonline_weapon_modify": 7,
+    "level": 46,
+    "hp": 218,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 68,
+    "spell_defence": 68
+  },
+  {
+    "id": 407,
+    "idonline_weapon_modify": 7,
+    "level": 47,
+    "hp": 223,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 70,
+    "spell_defence": 70
+  },
+  {
+    "id": 408,
+    "idonline_weapon_modify": 7,
+    "level": 48,
+    "hp": 229,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 71,
+    "spell_defence": 71
+  },
+  {
+    "id": 409,
+    "idonline_weapon_modify": 7,
+    "level": 49,
+    "hp": 234,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 73,
+    "spell_defence": 73
+  },
+  {
+    "id": 410,
+    "idonline_weapon_modify": 7,
+    "level": 50,
+    "hp": 241,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 75,
+    "spell_defence": 75
+  },
+  {
+    "id": 411,
+    "idonline_weapon_modify": 7,
+    "level": 51,
+    "hp": 248,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 78,
+    "spell_defence": 78
+  },
+  {
+    "id": 412,
+    "idonline_weapon_modify": 7,
+    "level": 52,
+    "hp": 255,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 80,
+    "spell_defence": 80
+  },
+  {
+    "id": 413,
+    "idonline_weapon_modify": 7,
+    "level": 53,
+    "hp": 262,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 82,
+    "spell_defence": 82
+  },
+  {
+    "id": 414,
+    "idonline_weapon_modify": 7,
+    "level": 54,
+    "hp": 269,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 84,
+    "spell_defence": 84
+  },
+  {
+    "id": 415,
+    "idonline_weapon_modify": 7,
+    "level": 55,
+    "hp": 276,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 86,
+    "spell_defence": 86
+  },
+  {
+    "id": 416,
+    "idonline_weapon_modify": 7,
+    "level": 56,
+    "hp": 284,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 89,
+    "spell_defence": 89
+  },
+  {
+    "id": 417,
+    "idonline_weapon_modify": 7,
+    "level": 57,
+    "hp": 291,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 91,
+    "spell_defence": 91
+  },
+  {
+    "id": 418,
+    "idonline_weapon_modify": 7,
+    "level": 58,
+    "hp": 298,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 93,
+    "spell_defence": 93
+  },
+  {
+    "id": 419,
+    "idonline_weapon_modify": 7,
+    "level": 59,
+    "hp": 305,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 95,
+    "spell_defence": 95
+  },
+  {
+    "id": 420,
+    "idonline_weapon_modify": 7,
+    "level": 60,
+    "hp": 320,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 100,
+    "spell_defence": 100
+  },
+  {
+    "id": 421,
+    "idonline_weapon_modify": 8,
+    "level": 1,
+    "hp": 13,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 6,
+    "spell_defence": 6
+  },
+  {
+    "id": 422,
+    "idonline_weapon_modify": 8,
+    "level": 2,
+    "hp": 15,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 7,
+    "spell_defence": 7
+  },
+  {
+    "id": 423,
+    "idonline_weapon_modify": 8,
+    "level": 3,
+    "hp": 17,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 8,
+    "spell_defence": 8
+  },
+  {
+    "id": 424,
+    "idonline_weapon_modify": 8,
+    "level": 4,
+    "hp": 19,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 9,
+    "spell_defence": 9
+  },
+  {
+    "id": 425,
+    "idonline_weapon_modify": 8,
+    "level": 5,
+    "hp": 21,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 11,
+    "spell_defence": 11
+  },
+  {
+    "id": 426,
+    "idonline_weapon_modify": 8,
+    "level": 6,
+    "hp": 23,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 12,
+    "spell_defence": 12
+  },
+  {
+    "id": 427,
+    "idonline_weapon_modify": 8,
+    "level": 7,
+    "hp": 25,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 13,
+    "spell_defence": 13
+  },
+  {
+    "id": 428,
+    "idonline_weapon_modify": 8,
+    "level": 8,
+    "hp": 27,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 14,
+    "spell_defence": 14
+  },
+  {
+    "id": 429,
+    "idonline_weapon_modify": 8,
+    "level": 9,
+    "hp": 29,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 15,
+    "spell_defence": 15
+  },
+  {
+    "id": 430,
+    "idonline_weapon_modify": 8,
+    "level": 10,
+    "hp": 32,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 16,
+    "spell_defence": 16
+  },
+  {
+    "id": 431,
+    "idonline_weapon_modify": 8,
+    "level": 11,
+    "hp": 35,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 17,
+    "spell_defence": 17
+  },
+  {
+    "id": 432,
+    "idonline_weapon_modify": 8,
+    "level": 12,
+    "hp": 38,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 19,
+    "spell_defence": 19
+  },
+  {
+    "id": 433,
+    "idonline_weapon_modify": 8,
+    "level": 13,
+    "hp": 41,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 21,
+    "spell_defence": 21
+  },
+  {
+    "id": 434,
+    "idonline_weapon_modify": 8,
+    "level": 14,
+    "hp": 44,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 22,
+    "spell_defence": 22
+  },
+  {
+    "id": 435,
+    "idonline_weapon_modify": 8,
+    "level": 15,
+    "hp": 47,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 24,
+    "spell_defence": 24
+  },
+  {
+    "id": 436,
+    "idonline_weapon_modify": 8,
+    "level": 16,
+    "hp": 51,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 25,
+    "spell_defence": 25
+  },
+  {
+    "id": 437,
+    "idonline_weapon_modify": 8,
+    "level": 17,
+    "hp": 54,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 27,
+    "spell_defence": 27
+  },
+  {
+    "id": 438,
+    "idonline_weapon_modify": 8,
+    "level": 18,
+    "hp": 57,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 28,
+    "spell_defence": 28
+  },
+  {
+    "id": 439,
+    "idonline_weapon_modify": 8,
+    "level": 19,
+    "hp": 60,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 30,
+    "spell_defence": 30
+  },
+  {
+    "id": 440,
+    "idonline_weapon_modify": 8,
+    "level": 20,
+    "hp": 63,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 32,
+    "spell_defence": 32
+  },
+  {
+    "id": 441,
+    "idonline_weapon_modify": 8,
+    "level": 21,
+    "hp": 66,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 33,
+    "spell_defence": 33
+  },
+  {
+    "id": 442,
+    "idonline_weapon_modify": 8,
+    "level": 22,
+    "hp": 69,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 35,
+    "spell_defence": 35
+  },
+  {
+    "id": 443,
+    "idonline_weapon_modify": 8,
+    "level": 23,
+    "hp": 73,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 36,
+    "spell_defence": 36
+  },
+  {
+    "id": 444,
+    "idonline_weapon_modify": 8,
+    "level": 24,
+    "hp": 76,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 38,
+    "spell_defence": 38
+  },
+  {
+    "id": 445,
+    "idonline_weapon_modify": 8,
+    "level": 25,
+    "hp": 79,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 39,
+    "spell_defence": 39
+  },
+  {
+    "id": 446,
+    "idonline_weapon_modify": 8,
+    "level": 26,
+    "hp": 82,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 41,
+    "spell_defence": 41
+  },
+  {
+    "id": 447,
+    "idonline_weapon_modify": 8,
+    "level": 27,
+    "hp": 85,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 43,
+    "spell_defence": 43
+  },
+  {
+    "id": 448,
+    "idonline_weapon_modify": 8,
+    "level": 28,
+    "hp": 88,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 44,
+    "spell_defence": 44
+  },
+  {
+    "id": 449,
+    "idonline_weapon_modify": 8,
+    "level": 29,
+    "hp": 92,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 46,
+    "spell_defence": 46
+  },
+  {
+    "id": 450,
+    "idonline_weapon_modify": 8,
+    "level": 30,
+    "hp": 96,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 48,
+    "spell_defence": 48
+  },
+  {
+    "id": 451,
+    "idonline_weapon_modify": 8,
+    "level": 31,
+    "hp": 100,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 50,
+    "spell_defence": 50
+  },
+  {
+    "id": 452,
+    "idonline_weapon_modify": 8,
+    "level": 32,
+    "hp": 104,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 52,
+    "spell_defence": 52
+  },
+  {
+    "id": 453,
+    "idonline_weapon_modify": 8,
+    "level": 33,
+    "hp": 108,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 54,
+    "spell_defence": 54
+  },
+  {
+    "id": 454,
+    "idonline_weapon_modify": 8,
+    "level": 34,
+    "hp": 113,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 56,
+    "spell_defence": 56
+  },
+  {
+    "id": 455,
+    "idonline_weapon_modify": 8,
+    "level": 35,
+    "hp": 117,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 58,
+    "spell_defence": 58
+  },
+  {
+    "id": 456,
+    "idonline_weapon_modify": 8,
+    "level": 36,
+    "hp": 121,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 61,
+    "spell_defence": 61
+  },
+  {
+    "id": 457,
+    "idonline_weapon_modify": 8,
+    "level": 37,
+    "hp": 125,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 63,
+    "spell_defence": 63
+  },
+  {
+    "id": 458,
+    "idonline_weapon_modify": 8,
+    "level": 38,
+    "hp": 129,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 65,
+    "spell_defence": 65
+  },
+  {
+    "id": 459,
+    "idonline_weapon_modify": 8,
+    "level": 39,
+    "hp": 134,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 67,
+    "spell_defence": 67
+  },
+  {
+    "id": 460,
+    "idonline_weapon_modify": 8,
+    "level": 40,
+    "hp": 138,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 69,
+    "spell_defence": 69
+  },
+  {
+    "id": 461,
+    "idonline_weapon_modify": 8,
+    "level": 41,
+    "hp": 142,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 71,
+    "spell_defence": 71
+  },
+  {
+    "id": 462,
+    "idonline_weapon_modify": 8,
+    "level": 42,
+    "hp": 146,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 73,
+    "spell_defence": 73
+  },
+  {
+    "id": 463,
+    "idonline_weapon_modify": 8,
+    "level": 43,
+    "hp": 151,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 75,
+    "spell_defence": 75
+  },
+  {
+    "id": 464,
+    "idonline_weapon_modify": 8,
+    "level": 44,
+    "hp": 155,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 77,
+    "spell_defence": 77
+  },
+  {
+    "id": 465,
+    "idonline_weapon_modify": 8,
+    "level": 45,
+    "hp": 159,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 79,
+    "spell_defence": 79
+  },
+  {
+    "id": 466,
+    "idonline_weapon_modify": 8,
+    "level": 46,
+    "hp": 163,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 82,
+    "spell_defence": 82
+  },
+  {
+    "id": 467,
+    "idonline_weapon_modify": 8,
+    "level": 47,
+    "hp": 167,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 84,
+    "spell_defence": 84
+  },
+  {
+    "id": 468,
+    "idonline_weapon_modify": 8,
+    "level": 48,
+    "hp": 172,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 86,
+    "spell_defence": 86
+  },
+  {
+    "id": 469,
+    "idonline_weapon_modify": 8,
+    "level": 49,
+    "hp": 176,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 88,
+    "spell_defence": 88
+  },
+  {
+    "id": 470,
+    "idonline_weapon_modify": 8,
+    "level": 50,
+    "hp": 181,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 91,
+    "spell_defence": 91
+  },
+  {
+    "id": 471,
+    "idonline_weapon_modify": 8,
+    "level": 51,
+    "hp": 186,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 93,
+    "spell_defence": 93
+  },
+  {
+    "id": 472,
+    "idonline_weapon_modify": 8,
+    "level": 52,
+    "hp": 192,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 96,
+    "spell_defence": 96
+  },
+  {
+    "id": 473,
+    "idonline_weapon_modify": 8,
+    "level": 53,
+    "hp": 197,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 98,
+    "spell_defence": 98
+  },
+  {
+    "id": 474,
+    "idonline_weapon_modify": 8,
+    "level": 54,
+    "hp": 202,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 101,
+    "spell_defence": 101
+  },
+  {
+    "id": 475,
+    "idonline_weapon_modify": 8,
+    "level": 55,
+    "hp": 207,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 104,
+    "spell_defence": 104
+  },
+  {
+    "id": 476,
+    "idonline_weapon_modify": 8,
+    "level": 56,
+    "hp": 213,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 106,
+    "spell_defence": 106
+  },
+  {
+    "id": 477,
+    "idonline_weapon_modify": 8,
+    "level": 57,
+    "hp": 218,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 109,
+    "spell_defence": 109
+  },
+  {
+    "id": 478,
+    "idonline_weapon_modify": 8,
+    "level": 58,
+    "hp": 223,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 112,
+    "spell_defence": 112
+  },
+  {
+    "id": 479,
+    "idonline_weapon_modify": 8,
+    "level": 59,
+    "hp": 228,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 114,
+    "spell_defence": 114
+  },
+  {
+    "id": 480,
+    "idonline_weapon_modify": 8,
+    "level": 60,
+    "hp": 240,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 120,
+    "spell_defence": 120
+  },
+  {
+    "id": 481,
+    "idonline_weapon_modify": 9,
+    "level": 1,
+    "hp": 17,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 4,
+    "spell_defence": 8
+  },
+  {
+    "id": 482,
+    "idonline_weapon_modify": 9,
+    "level": 2,
+    "hp": 20,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 4,
+    "spell_defence": 9
+  },
+  {
+    "id": 483,
+    "idonline_weapon_modify": 9,
+    "level": 3,
+    "hp": 22,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 5,
+    "spell_defence": 11
+  },
+  {
+    "id": 484,
+    "idonline_weapon_modify": 9,
+    "level": 4,
+    "hp": 25,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 6,
+    "spell_defence": 12
+  },
+  {
+    "id": 485,
+    "idonline_weapon_modify": 9,
+    "level": 5,
+    "hp": 28,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 6,
+    "spell_defence": 13
+  },
+  {
+    "id": 486,
+    "idonline_weapon_modify": 9,
+    "level": 6,
+    "hp": 31,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 7,
+    "spell_defence": 14
+  },
+  {
+    "id": 487,
+    "idonline_weapon_modify": 9,
+    "level": 7,
+    "hp": 34,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 7,
+    "spell_defence": 16
+  },
+  {
+    "id": 488,
+    "idonline_weapon_modify": 9,
+    "level": 8,
+    "hp": 36,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 8,
+    "spell_defence": 17
+  },
+  {
+    "id": 489,
+    "idonline_weapon_modify": 9,
+    "level": 9,
+    "hp": 39,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 9,
+    "spell_defence": 18
+  },
+  {
+    "id": 490,
+    "idonline_weapon_modify": 9,
+    "level": 10,
+    "hp": 42,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 9,
+    "spell_defence": 20
+  },
+  {
+    "id": 491,
+    "idonline_weapon_modify": 9,
+    "level": 11,
+    "hp": 46,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 10,
+    "spell_defence": 22
+  },
+  {
+    "id": 492,
+    "idonline_weapon_modify": 9,
+    "level": 12,
+    "hp": 51,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 11,
+    "spell_defence": 24
+  },
+  {
+    "id": 493,
+    "idonline_weapon_modify": 9,
+    "level": 13,
+    "hp": 55,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 12,
+    "spell_defence": 26
+  },
+  {
+    "id": 494,
+    "idonline_weapon_modify": 9,
+    "level": 14,
+    "hp": 59,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 13,
+    "spell_defence": 28
+  },
+  {
+    "id": 495,
+    "idonline_weapon_modify": 9,
+    "level": 15,
+    "hp": 63,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 14,
+    "spell_defence": 30
+  },
+  {
+    "id": 496,
+    "idonline_weapon_modify": 9,
+    "level": 16,
+    "hp": 67,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 15,
+    "spell_defence": 32
+  },
+  {
+    "id": 497,
+    "idonline_weapon_modify": 9,
+    "level": 17,
+    "hp": 72,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 16,
+    "spell_defence": 34
+  },
+  {
+    "id": 498,
+    "idonline_weapon_modify": 9,
+    "level": 18,
+    "hp": 76,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 17,
+    "spell_defence": 36
+  },
+  {
+    "id": 499,
+    "idonline_weapon_modify": 9,
+    "level": 19,
+    "hp": 80,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 18,
+    "spell_defence": 38
+  },
+  {
+    "id": 500,
+    "idonline_weapon_modify": 9,
+    "level": 20,
+    "hp": 84,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 18,
+    "spell_defence": 39
+  },
+  {
+    "id": 501,
+    "idonline_weapon_modify": 9,
+    "level": 21,
+    "hp": 88,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 19,
+    "spell_defence": 41
+  },
+  {
+    "id": 502,
+    "idonline_weapon_modify": 9,
+    "level": 22,
+    "hp": 93,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 20,
+    "spell_defence": 43
+  },
+  {
+    "id": 503,
+    "idonline_weapon_modify": 9,
+    "level": 23,
+    "hp": 97,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 21,
+    "spell_defence": 45
+  },
+  {
+    "id": 504,
+    "idonline_weapon_modify": 9,
+    "level": 24,
+    "hp": 101,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 22,
+    "spell_defence": 47
+  },
+  {
+    "id": 505,
+    "idonline_weapon_modify": 9,
+    "level": 25,
+    "hp": 105,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 23,
+    "spell_defence": 49
+  },
+  {
+    "id": 506,
+    "idonline_weapon_modify": 9,
+    "level": 26,
+    "hp": 109,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 24,
+    "spell_defence": 51
+  },
+  {
+    "id": 507,
+    "idonline_weapon_modify": 9,
+    "level": 27,
+    "hp": 114,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 25,
+    "spell_defence": 53
+  },
+  {
+    "id": 508,
+    "idonline_weapon_modify": 9,
+    "level": 28,
+    "hp": 118,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 26,
+    "spell_defence": 55
+  },
+  {
+    "id": 509,
+    "idonline_weapon_modify": 9,
+    "level": 29,
+    "hp": 122,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 27,
+    "spell_defence": 57
+  },
+  {
+    "id": 510,
+    "idonline_weapon_modify": 9,
+    "level": 30,
+    "hp": 128,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 28,
+    "spell_defence": 60
+  },
+  {
+    "id": 511,
+    "idonline_weapon_modify": 9,
+    "level": 31,
+    "hp": 133,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 29,
+    "spell_defence": 63
+  },
+  {
+    "id": 512,
+    "idonline_weapon_modify": 9,
+    "level": 32,
+    "hp": 139,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 30,
+    "spell_defence": 65
+  },
+  {
+    "id": 513,
+    "idonline_weapon_modify": 9,
+    "level": 33,
+    "hp": 145,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 32,
+    "spell_defence": 68
+  },
+  {
+    "id": 514,
+    "idonline_weapon_modify": 9,
+    "level": 34,
+    "hp": 150,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 33,
+    "spell_defence": 70
+  },
+  {
+    "id": 515,
+    "idonline_weapon_modify": 9,
+    "level": 35,
+    "hp": 156,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 34,
+    "spell_defence": 73
+  },
+  {
+    "id": 516,
+    "idonline_weapon_modify": 9,
+    "level": 36,
+    "hp": 161,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 35,
+    "spell_defence": 76
+  },
+  {
+    "id": 517,
+    "idonline_weapon_modify": 9,
+    "level": 37,
+    "hp": 167,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 37,
+    "spell_defence": 78
+  },
+  {
+    "id": 518,
+    "idonline_weapon_modify": 9,
+    "level": 38,
+    "hp": 173,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 38,
+    "spell_defence": 81
+  },
+  {
+    "id": 519,
+    "idonline_weapon_modify": 9,
+    "level": 39,
+    "hp": 178,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 39,
+    "spell_defence": 84
+  },
+  {
+    "id": 520,
+    "idonline_weapon_modify": 9,
+    "level": 40,
+    "hp": 184,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 40,
+    "spell_defence": 86
+  },
+  {
+    "id": 521,
+    "idonline_weapon_modify": 9,
+    "level": 41,
+    "hp": 189,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 41,
+    "spell_defence": 89
+  },
+  {
+    "id": 522,
+    "idonline_weapon_modify": 9,
+    "level": 42,
+    "hp": 195,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 43,
+    "spell_defence": 91
+  },
+  {
+    "id": 523,
+    "idonline_weapon_modify": 9,
+    "level": 43,
+    "hp": 201,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 44,
+    "spell_defence": 94
+  },
+  {
+    "id": 524,
+    "idonline_weapon_modify": 9,
+    "level": 44,
+    "hp": 206,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 45,
+    "spell_defence": 97
+  },
+  {
+    "id": 525,
+    "idonline_weapon_modify": 9,
+    "level": 45,
+    "hp": 212,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 46,
+    "spell_defence": 99
+  },
+  {
+    "id": 526,
+    "idonline_weapon_modify": 9,
+    "level": 46,
+    "hp": 218,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 48,
+    "spell_defence": 102
+  },
+  {
+    "id": 527,
+    "idonline_weapon_modify": 9,
+    "level": 47,
+    "hp": 223,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 49,
+    "spell_defence": 105
+  },
+  {
+    "id": 528,
+    "idonline_weapon_modify": 9,
+    "level": 48,
+    "hp": 229,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 50,
+    "spell_defence": 107
+  },
+  {
+    "id": 529,
+    "idonline_weapon_modify": 9,
+    "level": 49,
+    "hp": 234,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 51,
+    "spell_defence": 110
+  },
+  {
+    "id": 530,
+    "idonline_weapon_modify": 9,
+    "level": 50,
+    "hp": 241,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 53,
+    "spell_defence": 113
+  },
+  {
+    "id": 531,
+    "idonline_weapon_modify": 9,
+    "level": 51,
+    "hp": 248,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 54,
+    "spell_defence": 116
+  },
+  {
+    "id": 532,
+    "idonline_weapon_modify": 9,
+    "level": 52,
+    "hp": 255,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 56,
+    "spell_defence": 120
+  },
+  {
+    "id": 533,
+    "idonline_weapon_modify": 9,
+    "level": 53,
+    "hp": 262,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 57,
+    "spell_defence": 123
+  },
+  {
+    "id": 534,
+    "idonline_weapon_modify": 9,
+    "level": 54,
+    "hp": 269,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 59,
+    "spell_defence": 126
+  },
+  {
+    "id": 535,
+    "idonline_weapon_modify": 9,
+    "level": 55,
+    "hp": 276,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 60,
+    "spell_defence": 130
+  },
+  {
+    "id": 536,
+    "idonline_weapon_modify": 9,
+    "level": 56,
+    "hp": 284,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 62,
+    "spell_defence": 133
+  },
+  {
+    "id": 537,
+    "idonline_weapon_modify": 9,
+    "level": 57,
+    "hp": 291,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 64,
+    "spell_defence": 136
+  },
+  {
+    "id": 538,
+    "idonline_weapon_modify": 9,
+    "level": 58,
+    "hp": 298,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 65,
+    "spell_defence": 139
+  },
+  {
+    "id": 539,
+    "idonline_weapon_modify": 9,
+    "level": 59,
+    "hp": 305,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 67,
+    "spell_defence": 143
+  },
+  {
+    "id": 540,
+    "idonline_weapon_modify": 9,
+    "level": 60,
+    "hp": 320,
+    "physic_attack": 0,
+    "spell_attack": 0,
+    "physic_defence": 70,
+    "spell_defence": 150
+  }
+]

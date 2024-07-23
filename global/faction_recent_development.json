@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "m_faction_recent_development_texts": [],
+    "name": "势力近况测试",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 2,
+    "m_faction_recent_development_texts": [],
+    "name": "势力近况测试2",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 3,
+    "m_faction_recent_development_texts": [],
+    "name": "hydemo-侦探涂鸦1",
+    "faction_recent_development_text_ids": "57"
+  },
+  {
+    "id": 4,
+    "m_faction_recent_development_texts": [],
+    "name": "hydemo-侦探涂鸦2",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 5,
+    "m_faction_recent_development_texts": [],
+    "name": "hydemo-侦探涂鸦3",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 6,
+    "m_faction_recent_development_texts": [],
+    "name": "初始-00伊利亚",
+    "faction_recent_development_text_ids": "1"
+  },
+  {
+    "id": 7,
+    "m_faction_recent_development_texts": [],
+    "name": "初始-00骑士团",
+    "faction_recent_development_text_ids": "2"
+  },
+  {
+    "id": 8,
+    "m_faction_recent_development_texts": [],
+    "name": "初始-00教皇国",
+    "faction_recent_development_text_ids": "3"
+  },
+  {
+    "id": 9,
+    "m_faction_recent_development_texts": [],
+    "name": "初始-00黑暗之光",
+    "faction_recent_development_text_ids": "4"
+  },
+  {
+    "id": 10,
+    "m_faction_recent_development_texts": [],
+    "name": "初始-00薇尔德",
+    "faction_recent_development_text_ids": "5"
+  },
+  {
+    "id": 11,
+    "m_faction_recent_development_texts": [],
+    "name": "共通线-01伊利亚",
+    "faction_recent_development_text_ids": "1|6"
+  },
+  {
+    "id": 12,
+    "m_faction_recent_development_texts": [],
+    "name": "共通线-01骑士团",
+    "faction_recent_development_text_ids": "2|6"
+  },
+  {
+    "id": 13,
+    "m_faction_recent_development_texts": [],
+    "name": "（废弃）共通线-01教皇国",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 14,
+    "m_faction_recent_development_texts": [],
+    "name": "共通线-01黑暗之光",
+    "faction_recent_development_text_ids": "4|7"
+  },
+  {
+    "id": 15,
+    "m_faction_recent_development_texts": [],
+    "name": "共通线-02伊利亚",
+    "faction_recent_development_text_ids": "1|6|8"
+  },
+  {
+    "id": 16,
+    "m_faction_recent_development_texts": [],
+    "name": "（废弃）共通线-02教皇国",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 17,
+    "m_faction_recent_development_texts": [],
+    "name": "共通线-02骑士团",
+    "faction_recent_development_text_ids": "2|6|9"
+  },
+  {
+    "id": 18,
+    "m_faction_recent_development_texts": [],
+    "name": "（废弃）共通线-02黑暗之光",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 19,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-01伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10"
+  },
+  {
+    "id": 20,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-01骑士团",
+    "faction_recent_development_text_ids": "2|6|9"
+  },
+  {
+    "id": 21,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-01教皇国",
+    "faction_recent_development_text_ids": "3|11"
+  },
+  {
+    "id": 22,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-01黑暗之光",
+    "faction_recent_development_text_ids": "4|12"
+  },
+  {
+    "id": 23,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-02伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13"
+  },
+  {
+    "id": 24,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-02骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14"
+  },
+  {
+    "id": 25,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-03伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13|15"
+  },
+  {
+    "id": 26,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-03骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14|16"
+  },
+  {
+    "id": 27,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-02教皇国",
+    "faction_recent_development_text_ids": "3|11|17"
+  },
+  {
+    "id": 28,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-04伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13|15|18"
+  },
+  {
+    "id": 29,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-04骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14|16|19"
+  },
+  {
+    "id": 30,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-03教皇国",
+    "faction_recent_development_text_ids": "3|11|17|20"
+  },
+  {
+    "id": 31,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-05骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14|16|19|21"
+  },
+  {
+    "id": 32,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-04教皇国",
+    "faction_recent_development_text_ids": "3|11|17|20|22"
+  },
+  {
+    "id": 33,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-05伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13|15|18|23"
+  },
+  {
+    "id": 34,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-06骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14|16|19|21|24"
+  },
+  {
+    "id": 35,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-05教皇国",
+    "faction_recent_development_text_ids": "3|11|17|20|22"
+  },
+  {
+    "id": 36,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-06伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13|15|18|23|25"
+  },
+  {
+    "id": 37,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-07骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14|16|19|21|24|26"
+  },
+  {
+    "id": 38,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-07伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13|15|18|23|25|27"
+  },
+  {
+    "id": 39,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-08骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14|16|19|21|24|26|28"
+  },
+  {
+    "id": 40,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-08伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13|15|18|23|25|27|29"
+  },
+  {
+    "id": 41,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-09骑士团",
+    "faction_recent_development_text_ids": "2|6|9|14|16|19|21|24|26|28|30"
+  },
+  {
+    "id": 42,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-06教皇国",
+    "faction_recent_development_text_ids": "3|11|17|20|22|31"
+  },
+  {
+    "id": 43,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-09伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|10|13|15|18|23|25|27|32"
+  },
+  {
+    "id": 44,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-10骑士团",
+    "faction_recent_development_text_ids": "2|6|9|33"
+  },
+  {
+    "id": 45,
+    "m_faction_recent_development_texts": [],
+    "name": "骑士团线-07教皇国",
+    "faction_recent_development_text_ids": "3|11|17|20|22|31"
+  },
+  {
+    "id": 46,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-01黑暗之光",
+    "faction_recent_development_text_ids": "4|34"
+  },
+  {
+    "id": 47,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-02黑暗之光",
+    "faction_recent_development_text_ids": "4|34|35"
+  },
+  {
+    "id": 48,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-01伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36"
+  },
+  {
+    "id": 49,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-02伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36|37"
+  },
+  {
+    "id": 50,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-03伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38"
+  },
+  {
+    "id": 51,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-04伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39"
+  },
+  {
+    "id": 52,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-05伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40"
+  },
+  {
+    "id": 53,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-06伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41"
+  },
+  {
+    "id": 54,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-07伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42"
+  },
+  {
+    "id": 55,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-08伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42|43"
+  },
+  {
+    "id": 56,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-09伊利亚(骑士团被灭A）",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42|43|44"
+  },
+  {
+    "id": 57,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-09伊利亚(骑士团被灭B） ",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42|43|45"
+  },
+  {
+    "id": 58,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-10伊利亚(骑士团被灭A）",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42|43|44|46"
+  },
+  {
+    "id": 59,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-10伊利亚(骑士团被灭B）",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42|43|45|46"
+  },
+  {
+    "id": 60,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-11伊利亚(骑士团被灭A）",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42|43|44|46|47"
+  },
+  {
+    "id": 61,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-11伊利亚(骑士团被灭B）",
+    "faction_recent_development_text_ids": "1|6|8|36|37|38|39|40|41|42|43|45|46|47"
+  },
+  {
+    "id": 62,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-01骑士团",
+    "faction_recent_development_text_ids": "48"
+  },
+  {
+    "id": 63,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-02骑士团",
+    "faction_recent_development_text_ids": "48|49"
+  },
+  {
+    "id": 64,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-03骑士团",
+    "faction_recent_development_text_ids": "48|49|42"
+  },
+  {
+    "id": 65,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-04骑士团",
+    "faction_recent_development_text_ids": "48|49|42|50"
+  },
+  {
+    "id": 66,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-05骑士团（骑士团被灭A）",
+    "faction_recent_development_text_ids": "48|49|42|50|44"
+  },
+  {
+    "id": 67,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-05骑士团（骑士团被灭B）",
+    "faction_recent_development_text_ids": "48|49|42|50|45"
+  },
+  {
+    "id": 68,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-01教皇国",
+    "faction_recent_development_text_ids": "3|51"
+  },
+  {
+    "id": 69,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-02教皇国",
+    "faction_recent_development_text_ids": "3|51|52"
+  },
+  {
+    "id": 70,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-03教皇国",
+    "faction_recent_development_text_ids": "3|51|52|53"
+  },
+  {
+    "id": 71,
+    "m_faction_recent_development_texts": [],
+    "name": "（废弃）共通线-01薇尔德",
+    "faction_recent_development_text_ids": ""
+  },
+  {
+    "id": 72,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-01薇尔德",
+    "faction_recent_development_text_ids": "5|54"
+  },
+  {
+    "id": 73,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-02薇尔德",
+    "faction_recent_development_text_ids": "5|54|55"
+  },
+  {
+    "id": 74,
+    "m_faction_recent_development_texts": [],
+    "name": "王国军线-03薇尔德",
+    "faction_recent_development_text_ids": "5|54|55|56"
+  },
+  {
+    "id": 75,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-01法皇国",
+    "faction_recent_development_text_ids": "3|58"
+  },
+  {
+    "id": 76,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-02法皇国",
+    "faction_recent_development_text_ids": "3|58|59"
+  },
+  {
+    "id": 77,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-03法皇国",
+    "faction_recent_development_text_ids": "3|58|59|60"
+  },
+  {
+    "id": 78,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-04法皇国",
+    "faction_recent_development_text_ids": "3|58|59|60|61"
+  },
+  {
+    "id": 79,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-06法皇国",
+    "faction_recent_development_text_ids": "3|58|59|60|61|62"
+  },
+  {
+    "id": 80,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-07法皇国-表线",
+    "faction_recent_development_text_ids": "3|58|59|60|61|62|63"
+  },
+  {
+    "id": 81,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-08法皇国-表线",
+    "faction_recent_development_text_ids": "3|58|59|60|61|62|63|64"
+  },
+  {
+    "id": 82,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-07法皇国-里线",
+    "faction_recent_development_text_ids": "3|58|59|60|61|62|65"
+  },
+  {
+    "id": 83,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-08法皇国-里线",
+    "faction_recent_development_text_ids": "3|58|59|60|61|62|65|66"
+  },
+  {
+    "id": 84,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-03伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|72"
+  },
+  {
+    "id": 85,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-04伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|72|73"
+  },
+  {
+    "id": 86,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-06伊利亚",
+    "faction_recent_development_text_ids": "1|6|8|72|73|74"
+  },
+  {
+    "id": 87,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-08伊利亚-表线",
+    "faction_recent_development_text_ids": "1|6|8|72|73|74|75"
+  },
+  {
+    "id": 88,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-08伊利亚-里线",
+    "faction_recent_development_text_ids": "1|6|8|72|73|74|76"
+  },
+  {
+    "id": 89,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-03骑士同盟",
+    "faction_recent_development_text_ids": "2|6|9|69"
+  },
+  {
+    "id": 90,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-04骑士同盟",
+    "faction_recent_development_text_ids": "2|6|9|69|70"
+  },
+  {
+    "id": 91,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-05骑士同盟",
+    "faction_recent_development_text_ids": "2|6|9|69|70|71"
+  },
+  {
+    "id": 92,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-01黑暗之光",
+    "faction_recent_development_text_ids": "4|7|67"
+  },
+  {
+    "id": 93,
+    "m_faction_recent_development_texts": [],
+    "name": "法皇国线-02黑暗之光",
+    "faction_recent_development_text_ids": "4|7|67|68"
+  }
+]

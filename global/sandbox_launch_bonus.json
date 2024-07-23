@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "测试添加"
+  },
+  {
+    "id": 2,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "训练被动01-基础强化"
+  },
+  {
+    "id": 3,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "训练被动02-骑士团强化"
+  },
+  {
+    "id": 4,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "训练被动03-职业佣兵"
+  },
+  {
+    "id": 5,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "训练被动04-强行军"
+  },
+  {
+    "id": 6,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "战术技能01-攻击号令"
+  },
+  {
+    "id": 7,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "战术技能02-狙击配置"
+  },
+  {
+    "id": 8,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "战术技能03--隐蔽号令"
+  },
+  {
+    "id": 9,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "科技01-更多的选择"
+  },
+  {
+    "id": 10,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "科技02-改进锻造工艺"
+  },
+  {
+    "id": 11,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "科技03-疗养回复提升"
+  },
+  {
+    "id": 12,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "科技04-经验训练费用降低"
+  },
+  {
+    "id": 13,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "科技05-招募费用降低"
+  },
+  {
+    "id": 14,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "初始资源奖励"
+  },
+  {
+    "id": 15,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "废弃"
+  },
+  {
+    "id": 16,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "初始派遣解锁"
+  },
+  {
+    "id": 18,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "金币增加测试"
+  },
+  {
+    "id": 19,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "【沙盒】解锁放弃周目功能"
+  },
+  {
+    "id": 20,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外高品质晶石 1"
+  },
+  {
+    "id": 21,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外主武器 +"
+  },
+  {
+    "id": 22,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外副武器 +"
+  },
+  {
+    "id": 23,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外金币 1"
+  },
+  {
+    "id": 24,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外材料 1"
+  },
+  {
+    "id": 25,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外晶尘 1"
+  },
+  {
+    "id": 26,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-初始金币 1"
+  },
+  {
+    "id": 27,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-初始木 +"
+  },
+  {
+    "id": 28,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-初始铁 +"
+  },
+  {
+    "id": 29,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-初始晶尘 +"
+  },
+  {
+    "id": 30,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-命运之轮"
+  },
+  {
+    "id": 31,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-倒吊人"
+  },
+  {
+    "id": 32,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-正义"
+  },
+  {
+    "id": 33,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-愚者"
+  },
+  {
+    "id": 34,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-教皇"
+  },
+  {
+    "id": 35,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-星星"
+  },
+  {
+    "id": 36,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-太阳"
+  },
+  {
+    "id": 37,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-月亮"
+  },
+  {
+    "id": 38,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-节制"
+  },
+  {
+    "id": 39,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-魔术师"
+  },
+  {
+    "id": 40,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-恋人"
+  },
+  {
+    "id": 41,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-资源-通用-p1"
+  },
+  {
+    "id": 42,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-剧情角色-p1"
+  },
+  {
+    "id": 43,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-角色包-p1"
+  },
+  {
+    "id": 44,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-资源-通用-附加-p2"
+  },
+  {
+    "id": 52,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊资源-骑士团-p2"
+  },
+  {
+    "id": 53,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊资源-王国军-p2"
+  },
+  {
+    "id": 54,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-剧情角色-p2"
+  },
+  {
+    "id": 55,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-角色包-通用-替换-p2"
+  },
+  {
+    "id": 56,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊角色包-骑士团-p2"
+  },
+  {
+    "id": 57,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊角色包-王国军-p2"
+  },
+  {
+    "id": 58,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-资源-通用-附加-p3"
+  },
+  {
+    "id": 59,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊资源-骑士团-附加-p3"
+  },
+  {
+    "id": 60,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊资源-王国军-附加-p3"
+  },
+  {
+    "id": 61,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-剧情角色-p3"
+  },
+  {
+    "id": 62,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-角色包-通用-替换-p3"
+  },
+  {
+    "id": 64,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊角色包-骑士团-替换-p3"
+  },
+  {
+    "id": 65,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊角色包-王国军-替换-p3"
+  },
+  {
+    "id": 66,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外高品质晶石 2"
+  },
+  {
+    "id": 67,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外高品质晶石 3"
+  },
+  {
+    "id": 68,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外高品质晶石 4"
+  },
+  {
+    "id": 69,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外金币 2"
+  },
+  {
+    "id": 70,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外金币 3"
+  },
+  {
+    "id": 71,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外金币 4"
+  },
+  {
+    "id": 72,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外金币 5"
+  },
+  {
+    "id": 73,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外材料 2"
+  },
+  {
+    "id": 74,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外材料 3"
+  },
+  {
+    "id": 75,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外材料 4"
+  },
+  {
+    "id": 76,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外晶尘 2"
+  },
+  {
+    "id": 77,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外晶尘 3"
+  },
+  {
+    "id": 78,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "周目养成科技-额外晶尘 4"
+  },
+  {
+    "id": 79,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊角色包-法皇国-p2"
+  },
+  {
+    "id": 80,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊角色包-法皇国-替换-p3"
+  },
+  {
+    "id": 81,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊资源-法皇国-p2"
+  },
+  {
+    "id": 82,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-特殊资源-法皇国-附加-p3"
+  },
+  {
+    "id": 83,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-资源-埃拉曼-p1"
+  },
+  {
+    "id": 84,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-资源-埃拉曼-附加-p2"
+  },
+  {
+    "id": 85,
+    "m_sandbox_launch_bonus_details": [],
+    "name": "启动-角色包-埃拉曼-替换-p2"
+  }
+]

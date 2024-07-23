@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "profession_category": 1,
+    "weapon_type": 0,
+    "percent": 100
+  },
+  {
+    "id": 2,
+    "profession_category": 2,
+    "weapon_type": 0,
+    "percent": 105
+  },
+  {
+    "id": 3,
+    "profession_category": 3,
+    "weapon_type": 0,
+    "percent": 95
+  },
+  {
+    "id": 4,
+    "profession_category": 4,
+    "weapon_type": 0,
+    "percent": 100
+  },
+  {
+    "id": 5,
+    "profession_category": 5,
+    "weapon_type": 6,
+    "percent": 110
+  },
+  {
+    "id": 6,
+    "profession_category": 5,
+    "weapon_type": 0,
+    "percent": 105
+  }
+]

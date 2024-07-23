@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "type": "CommonMain",
+    "name": "通用主武器",
+    "main_hand": true,
+    "order_id": 6,
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "type": "CommonOffhand",
+    "name": "通用副武器",
+    "main_hand": false,
+    "order_id": 7,
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "type": "Sword",
+    "name": "剑",
+    "main_hand": true,
+    "order_id": 1,
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "type": "Spear",
+    "name": "枪",
+    "main_hand": true,
+    "order_id": 2,
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "type": "Axe",
+    "name": "斧",
+    "main_hand": true,
+    "order_id": 3,
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "type": "Bow",
+    "name": "弓",
+    "main_hand": true,
+    "order_id": 5,
+    "icon": ""
+  },
+  {
+    "id": 7,
+    "type": "Staff",
+    "name": "杖",
+    "main_hand": true,
+    "order_id": 4,
+    "icon": ""
+  },
+  {
+    "id": 8,
+    "type": "Shield",
+    "name": "盾牌（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 9,
+    "type": "Jewelry",
+    "name": "首饰（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 10,
+    "type": "Knife",
+    "name": "暗器（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 11,
+    "type": "Quiver",
+    "name": "箭袋（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 12,
+    "type": "LightKnife",
+    "name": "轻飞刀（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 13,
+    "type": "IceCrystal",
+    "name": "冰魔晶（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 14,
+    "type": "ReserveSpear",
+    "name": "备用枪（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 15,
+    "type": "CrossbowQuiver",
+    "name": "弩箭袋（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 16,
+    "type": "ThrowAxe",
+    "name": "投斧（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 17,
+    "type": "CrystalNecklace",
+    "name": "信物（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 18,
+    "type": "DarkCrystal",
+    "name": "暗魔晶（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  },
+  {
+    "id": 19,
+    "type": "Brassart",
+    "name": "手甲（废弃）",
+    "main_hand": false,
+    "order_id": 0,
+    "icon": ""
+  }
+]

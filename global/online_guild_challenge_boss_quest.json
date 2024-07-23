@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "m_online_guild_challenge_score_rules": [],
+    "m_online_guild_challenge_mission_buff_pools": [],
+    "m_online_guild_challenge_process_treasures": [],
+    "online_quest_id": 125,
+    "name": "战车",
+    "title": "第七灾厄",
+    "battle_power": 10000,
+    "online_guild_challenge_score_rule_ids": "1|2|3|4|5",
+    "online_guild_challenge_mission_buff_pool_ids": "1|2|3",
+    "online_guild_challenge_process_treasure_ids": "5|6|7|8"
+  }
+]

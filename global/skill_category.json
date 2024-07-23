@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "反击",
+    "can_overlay": false
+  },
+  {
+    "id": 3,
+    "name": "强弩连射互斥",
+    "can_overlay": false
+  },
+  {
+    "id": 4,
+    "name": "飞索",
+    "can_overlay": false
+  },
+  {
+    "id": 5,
+    "name": "冲锋",
+    "can_overlay": false
+  },
+  {
+    "id": 6,
+    "name": "强袭军",
+    "can_overlay": false
+  },
+  {
+    "id": 7,
+    "name": "闪避",
+    "can_overlay": false
+  },
+  {
+    "id": 8,
+    "name": "再行动和再移动",
+    "can_overlay": false
+  },
+  {
+    "id": 9,
+    "name": "技能后触发附加攻击",
+    "can_overlay": true
+  },
+  {
+    "id": 10,
+    "name": "射程增加",
+    "can_overlay": false
+  },
+  {
+    "id": 11,
+    "name": "装填",
+    "can_overlay": false
+  },
+  {
+    "id": 12,
+    "name": "异常箭（强力互斥DOT）",
+    "can_overlay": false
+  },
+  {
+    "id": 13,
+    "name": "异常箭（强力互斥属性削减）",
+    "can_overlay": false
+  },
+  {
+    "id": 14,
+    "name": "异常箭（强力互斥控制）",
+    "can_overlay": false
+  },
+  {
+    "id": 15,
+    "name": "击退",
+    "can_overlay": false
+  },
+  {
+    "id": 16,
+    "name": "传送",
+    "can_overlay": false
+  },
+  {
+    "id": 17,
+    "name": "技能前触发附加攻击",
+    "can_overlay": true
+  },
+  {
+    "id": 19,
+    "name": "技能后触发额外一轮攻击",
+    "can_overlay": true
+  },
+  {
+    "id": 22,
+    "name": "",
+    "can_overlay": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "月度祝福",
+    "desc": "月卡推荐",
+    "icon": "",
+    "category": 4,
+    "shop_id": 8,
+    "shop_item_id": 86,
+    "price": 0,
+    "order_id": 999,
+    "view_name": "ShopRecommendMonthCardView",
+    "prefab_name": "MonthCard",
+    "time_type": 1,
+    "start_at": 0,
+    "end_at": 0
+  }
+]

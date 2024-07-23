@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "充值",
+    "icon": "icon_pay",
+    "is_show": false,
+    "order_id": 3,
+    "key": "Pay"
+  },
+  {
+    "id": 2,
+    "name": "兑换",
+    "icon": "icon_exchange",
+    "is_show": true,
+    "order_id": 4,
+    "key": "Exchange"
+  },
+  {
+    "id": 3,
+    "name": "礼包",
+    "icon": "icon_gift",
+    "is_show": false,
+    "order_id": 2,
+    "key": "Gift"
+  },
+  {
+    "id": 4,
+    "name": "推荐",
+    "icon": "icon_recommend",
+    "is_show": true,
+    "order_id": 1,
+    "key": "Recommend"
+  }
+]

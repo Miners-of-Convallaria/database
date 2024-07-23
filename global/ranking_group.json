@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "m_rankings": [],
+    "name": "战斗力",
+    "icon": "icon_fight",
+    "order_id": 0,
+    "is_show": true,
+    "system_id": 0
+  },
+  {
+    "id": 2,
+    "m_rankings": [],
+    "name": "成就",
+    "icon": "icon_achievement",
+    "order_id": 0,
+    "is_show": true,
+    "system_id": 0
+  },
+  {
+    "id": 3,
+    "m_rankings": [],
+    "name": "见闻等级",
+    "icon": "icon_transcripts",
+    "order_id": 0,
+    "is_show": true,
+    "system_id": 0
+  },
+  {
+    "id": 4,
+    "m_rankings": [],
+    "name": "荣耀之战",
+    "icon": "icon_pvp",
+    "order_id": 0,
+    "is_show": true,
+    "system_id": 0
+  },
+  {
+    "id": 5,
+    "m_rankings": [],
+    "name": "逆境之塔",
+    "icon": "icon_abyss",
+    "order_id": 0,
+    "is_show": true,
+    "system_id": 95
+  }
+]

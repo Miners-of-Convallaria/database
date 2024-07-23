@@ -1,0 +1,1530 @@
+[
+  {
+    "id": 1,
+    "type": "RollSpeed",
+    "name": "战斗-滚石速度",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 2,
+    "type": "CarSpeed",
+    "name": "战斗-矿车速度",
+    "desc": "",
+    "iparam": 8,
+    "sparam": ""
+  },
+  {
+    "id": 3,
+    "type": "CarCurveSpeed",
+    "name": "战斗-矿车转弯速度",
+    "desc": "",
+    "iparam": 4,
+    "sparam": ""
+  },
+  {
+    "id": 4,
+    "type": "EntrustBattleGroup",
+    "name": "战斗委托组合初始计数",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 5,
+    "type": "EntrustBattleAppoint",
+    "name": "指定战斗委托最大数量",
+    "desc": " ",
+    "iparam": -1,
+    "sparam": " "
+  },
+  {
+    "id": 6,
+    "type": "EntrustPracticeAppoint",
+    "name": "指定派遣委托最大数量",
+    "desc": " ",
+    "iparam": -1,
+    "sparam": " "
+  },
+  {
+    "id": 7,
+    "type": "EntrustTerm",
+    "name": "委托周期",
+    "desc": "",
+    "iparam": 8,
+    "sparam": ""
+  },
+  {
+    "id": 8,
+    "type": "EntrustPracticeUnitAdd",
+    "name": "派遣委托人数增加数",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 9,
+    "type": "EntrustPracticeCount",
+    "name": "委托每回合最大执行次数",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 10,
+    "type": "EntrustIntelligenceCount",
+    "name": "情报委托最大执行次数",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 11,
+    "type": "EntrustBattleExp",
+    "name": "战斗委托佣兵团经验",
+    "desc": "",
+    "iparam": 50,
+    "sparam": ""
+  },
+  {
+    "id": 12,
+    "type": "EntrustPracticeExp",
+    "name": "派遣委托佣兵团经验",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 13,
+    "type": "EntrustBattleMorale",
+    "name": "战斗委托活力消耗量",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 14,
+    "type": "EntrustPracticeMorale",
+    "name": "派遣委托每回合活力消耗量",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 15,
+    "type": "MercPixelPosition",
+    "name": "佣兵团地图位置",
+    "desc": "",
+    "iparam": 7390,
+    "sparam": "3623"
+  },
+  {
+    "id": 16,
+    "type": "MapBlockColorWithNoFaction",
+    "name": "没有所属势力的地块颜色",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "96|92|92|0"
+  },
+  {
+    "id": 17,
+    "type": "CharacterMaxLevel",
+    "name": "玩家最大等级",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 18,
+    "type": "UnitMaxLevel",
+    "name": "单位最大等级",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 19,
+    "type": "EntrustBattleActPt",
+    "name": "战斗委托行动力",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 20,
+    "type": "RandomEntrustBattleSubCondition",
+    "name": "随机战斗委托副胜利条件",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "Pavc"
+  },
+  {
+    "id": 21,
+    "type": "UnitDeadMorale",
+    "name": "战损活力",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 22,
+    "type": "RestrainFactor",
+    "name": "（废弃）克制因子",
+    "desc": "",
+    "iparam": 125,
+    "sparam": ""
+  },
+  {
+    "id": 23,
+    "type": "BeRestrainFactor",
+    "name": "（废弃）被克制因子",
+    "desc": "",
+    "iparam": 80,
+    "sparam": ""
+  },
+  {
+    "id": 24,
+    "type": "OnlineMainQuestId",
+    "name": "网游主线ID",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 25,
+    "type": "TrainingFactionSkillMaxCount",
+    "name": "学习训练被动上限个数",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 26,
+    "type": "PlayerMaxLevel",
+    "name": "账号最大等级",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 27,
+    "type": "PlayerRoleUnitMaxLevel",
+    "name": "网游角色最大等级",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 28,
+    "type": "PlayerMaxStamina",
+    "name": "账号最大体力",
+    "desc": "",
+    "iparam": 240,
+    "sparam": ""
+  },
+  {
+    "id": 29,
+    "type": "PlayerStaminaRecoverInterval",
+    "name": "账号体力恢复间隔(秒)",
+    "desc": "",
+    "iparam": 240,
+    "sparam": ""
+  },
+  {
+    "id": 30,
+    "type": "OnlineGlobalRefreshAt",
+    "name": "网游全局刷新时间",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "0:00:00"
+  },
+  {
+    "id": 31,
+    "type": "BattleQuestMaxLevel",
+    "name": "战斗关卡最大等级",
+    "desc": "",
+    "iparam": 80,
+    "sparam": ""
+  },
+  {
+    "id": 32,
+    "type": "PurchaseSKUKey",
+    "name": "支付SKU键值",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "ios|android"
+  },
+  {
+    "id": 34,
+    "type": "SandboxDefaultEventLimit",
+    "name": "沙盒默认单阶段最大触发事件数",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 35,
+    "type": "PlayerMaxSandboxLevel",
+    "name": "玩家最大沙盒等级",
+    "desc": "",
+    "iparam": 12,
+    "sparam": ""
+  },
+  {
+    "id": 36,
+    "type": "SandboxLauncherItemValue",
+    "name": "单个沙盒启动项价值的沙盒币数量",
+    "desc": "",
+    "iparam": 300,
+    "sparam": ""
+  },
+  {
+    "id": 37,
+    "type": "OnlineGachaLimit",
+    "name": "抽卡限制(0表示不限制)",
+    "desc": "",
+    "iparam": 0,
+    "sparam": ""
+  },
+  {
+    "id": 38,
+    "type": "OnlineRecycleWeaponRatio",
+    "name": "拆解网游武器返还资源比例(百分比)",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 39,
+    "type": "UnitMaxMorale",
+    "name": "活力上限",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 40,
+    "type": "OnlineDailyQuestMaxPointValue",
+    "name": "日常任务最大活跃度",
+    "desc": "",
+    "iparam": 200,
+    "sparam": ""
+  },
+  {
+    "id": 41,
+    "type": "OnlineUnitSkillBookId",
+    "name": "网游角色普通技能书ID",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 42,
+    "type": "OnlineActivityHeroPieceMaxPerHero",
+    "name": "网游活动角色碎片本单个英雄可获取碎片上限",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 43,
+    "type": "OnlineArenaRefreshTimes",
+    "name": "网游异步竞技场每日刷新次数",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 44,
+    "type": "OnlineQuestionnaire1",
+    "name": "网游主线问卷一埋点",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "2-32"
+  },
+  {
+    "id": 45,
+    "type": "OnlineQuestionnaire2",
+    "name": "网游主线问卷二埋点",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "4-40"
+  },
+  {
+    "id": 46,
+    "type": "OnlineArenaSeasonDays",
+    "name": "网游竞技场赛季天数（废弃）",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 47,
+    "type": "OnlineArenaDayPointLimit",
+    "name": "网游竞技场每日建筑点获得上限",
+    "desc": "",
+    "iparam": 300,
+    "sparam": ""
+  },
+  {
+    "id": 48,
+    "type": "OnlineChallengeModeChapter",
+    "name": "网游篝火挑战章节ID",
+    "desc": "",
+    "iparam": 7,
+    "sparam": ""
+  },
+  {
+    "id": 50,
+    "type": "OnlineSandboxLauncherUnlockDivinationLevel",
+    "name": "网游周目启动功能之谜之声解锁所需沙盒等级",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 51,
+    "type": "KnockbackImpactDamage",
+    "name": "战斗-击退碰撞伤害",
+    "desc": "",
+    "iparam": 20,
+    "sparam": ""
+  },
+  {
+    "id": 52,
+    "type": "FallDamage",
+    "name": "战斗-坠落伤害",
+    "desc": "",
+    "iparam": 15,
+    "sparam": ""
+  },
+  {
+    "id": 53,
+    "type": "FallDamageHeight",
+    "name": "战斗-坠落伤害高度",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 54,
+    "type": "TacticPointInit",
+    "name": "战术点数初始值",
+    "desc": "",
+    "iparam": 200,
+    "sparam": ""
+  },
+  {
+    "id": 55,
+    "type": "TacticPointMax",
+    "name": "战术点数上限",
+    "desc": "",
+    "iparam": 500,
+    "sparam": ""
+  },
+  {
+    "id": 56,
+    "type": "TacticPointRecoverPerTurn",
+    "name": "战术点数大回合回复",
+    "desc": "",
+    "iparam": 20,
+    "sparam": ""
+  },
+  {
+    "id": 57,
+    "type": "TacticPointRecoverPerRound",
+    "name": "战术点数角色行动结束回复",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 58,
+    "type": "TacticPointRecoverExtraMax",
+    "name": "战术点数额外回复上限",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 59,
+    "type": "TacticPointBattleRecoverLimit",
+    "name": "（废弃）战术点数机制回复上限",
+    "desc": "",
+    "iparam": 50,
+    "sparam": ""
+  },
+  {
+    "id": 60,
+    "type": "WorkshopQuestMaxRealtimeQuestCount",
+    "name": "晶石工坊即时结算任务槽位最大数量",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 61,
+    "type": "WorkshopQuestMaxRealtimeQuestRefreshCD",
+    "name": "晶石工坊即时结算任务刷新CD",
+    "desc": "",
+    "iparam": 4,
+    "sparam": ""
+  },
+  {
+    "id": 62,
+    "type": "CountryStabilityMaxValue",
+    "name": "国家安定度上限",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 63,
+    "type": "CountryStabilityMinValue",
+    "name": "国家安定度下限",
+    "desc": "",
+    "iparam": 0,
+    "sparam": ""
+  },
+  {
+    "id": 64,
+    "type": "CritBaseDamage",
+    "name": "战斗-暴击基础伤害",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 65,
+    "type": "OnlinePracticeLimit",
+    "name": "每日至多网游派遣次数",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 66,
+    "type": "OnlineSandboxUnitLimitedCountDefault",
+    "name": "周目启动默认可携带的打手数量",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 67,
+    "type": "OnlineSandboxMinorArcanaLimitedCountDefault",
+    "name": "周目启动默认可携带的希望结晶数量",
+    "desc": "",
+    "iparam": 0,
+    "sparam": ""
+  },
+  {
+    "id": 68,
+    "type": "OnlineSandboxDivinationCardLimitedCountDefault",
+    "name": "（废弃）周目章节占卜默认随机卡牌的数量",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 69,
+    "type": "OnlineTowerChallengeCountRecoverInterval",
+    "name": "周常本(爬塔)挑战次数恢复时间间隔(秒)",
+    "desc": "",
+    "iparam": 1800,
+    "sparam": ""
+  },
+  {
+    "id": 70,
+    "type": "OnlineTowerChallengeCountMax",
+    "name": "周常本(爬塔)挑战次数上限",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 71,
+    "type": "SandboxGiveUpEndId",
+    "name": "放弃周目固定结局",
+    "desc": "",
+    "iparam": 13,
+    "sparam": ""
+  },
+  {
+    "id": 72,
+    "type": "SandboxLaunchTicketCountLimited",
+    "name": "沙盒门票数量上限",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 73,
+    "type": "OnlineTowerWeekFloorTreasureCount",
+    "name": "周常本(爬塔)周奖励层级数值",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 74,
+    "type": "PlayerDefaultModelID",
+    "name": "主角默认模型ID",
+    "desc": "",
+    "iparam": 51,
+    "sparam": ""
+  },
+  {
+    "id": 75,
+    "type": "SandboxGiveUpScenarioType",
+    "name": "放弃周目固定演出类型",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 76,
+    "type": "SandboxGiveUpScenarioId",
+    "name": "放弃周目固定演出ID",
+    "desc": "",
+    "iparam": 82,
+    "sparam": ""
+  },
+  {
+    "id": 78,
+    "type": "BattleBackCount",
+    "name": "战斗回溯次数",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 79,
+    "type": "OnlineTowerWeekScoreCount",
+    "name": "周常本奖励值",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 80,
+    "type": "OnlineOperationActivityDay7Id",
+    "name": "7留活动Id",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 81,
+    "type": "OnlineOperationActivityDay14Id",
+    "name": "14留活动Id",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 82,
+    "type": "OnlineEventLimit",
+    "name": "网游事件数量限制",
+    "desc": "",
+    "iparam": 5,
+    "sparam": ""
+  },
+  {
+    "id": 83,
+    "type": "OnlineEventColdDown",
+    "name": "网游事件触发CD(秒)",
+    "desc": "",
+    "iparam": 120,
+    "sparam": ""
+  },
+  {
+    "id": 84,
+    "type": "OnlineSandboxMemoirMaxItemCountSave",
+    "name": "沙盒回忆录最多保存的条目数量",
+    "desc": "",
+    "iparam": 20,
+    "sparam": ""
+  },
+  {
+    "id": 85,
+    "type": "OnlineSandboxMemoirMaxItemCountLock",
+    "name": "沙盒回忆录最多锁定的条目数量",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 86,
+    "type": "OnlineArenaEasyCoefficient",
+    "name": "网游竞技场简单难度分数系数",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 87,
+    "type": "OnlineArenaNormalCoefficient",
+    "name": "网游竞技场普通难度分数系数",
+    "desc": "",
+    "iparam": 120,
+    "sparam": ""
+  },
+  {
+    "id": 88,
+    "type": "OnlineArenaHardCoefficient",
+    "name": "网游竞技场困难难度分数系数",
+    "desc": "",
+    "iparam": 130,
+    "sparam": ""
+  },
+  {
+    "id": 89,
+    "type": "OnlineArenaOffenseCoefficient",
+    "name": "网游竞技场进攻方分数系数",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 90,
+    "type": "OnlineArenaDefenseCoefficient",
+    "name": "网游竞技场防守方分数系数",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 91,
+    "type": "OnlineArenaMatchScoreCoefficientRange",
+    "name": "网游竞技场匹配分系数范围",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "0.7|0.89|0.9|1.1|1.0|1.5"
+  },
+  {
+    "id": 92,
+    "type": "OnlineArenaDayChallengeTimes",
+    "name": "网游竞技场每日挑战次数",
+    "desc": "",
+    "iparam": 5,
+    "sparam": ""
+  },
+  {
+    "id": 93,
+    "type": "OnlineArenaSingleBattleBuildingPointLimit",
+    "name": "网游竞技场单场战斗建筑点获得上限",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 94,
+    "type": "OnlineArenaDefaultScore",
+    "name": "网游竞技场默认分数",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 95,
+    "type": "OnlineArenaRefreshCostDiamond",
+    "name": "网游竞技场刷新消费晶体",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 97,
+    "type": "OnlineRoleFriendshipStartInteractPoint",
+    "name": "网游人物羁绊初始补魔点数",
+    "desc": "",
+    "iparam": 500,
+    "sparam": ""
+  },
+  {
+    "id": 98,
+    "type": "OnlineRoleFriendshipInteractPointRecover",
+    "name": "网游人物羁绊补魔点数每日恢复",
+    "desc": "",
+    "iparam": 500,
+    "sparam": ""
+  },
+  {
+    "id": 99,
+    "type": "OnlineRoleFriendshipMaxInteractPoint",
+    "name": "网游人物羁绊补魔点数上限",
+    "desc": "",
+    "iparam": 3000,
+    "sparam": ""
+  },
+  {
+    "id": 100,
+    "type": "OnlineRoleFriendshipInteractFriendshipExp",
+    "name": "网游人物羁绊补魔点数增加羁绊经验值",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 101,
+    "type": "OnlineRoleFriendshipNicknameChangeUnlockLevel",
+    "name": "网游人物羁绊佣兵改名开放需要的羁绊等级",
+    "desc": "",
+    "iparam": 5,
+    "sparam": ""
+  },
+  {
+    "id": 102,
+    "type": "OnlineRoleFriendshipHeadPortraitUnlockLevel",
+    "name": "网游人物羁绊头像解锁需要的羁绊等级",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 103,
+    "type": "OnlineRoleFriendshipInteractCrystalFriendshipExp",
+    "name": "网游人物羁绊补魔道具增加羁绊经验值",
+    "desc": "",
+    "iparam": 162500,
+    "sparam": ""
+  },
+  {
+    "id": 104,
+    "type": "OnlineModifyNicknameConsume",
+    "name": "网游修改昵称消耗",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "152|1|1"
+  },
+  {
+    "id": 105,
+    "type": "OnlineCardRoleUnitSeatCount",
+    "name": "网游名片显示角色席位",
+    "desc": "",
+    "iparam": 4,
+    "sparam": ""
+  },
+  {
+    "id": 106,
+    "type": "OnlineCardSandboxTrophySeatCount",
+    "name": "网游名片显示勋章席位",
+    "desc": "",
+    "iparam": 4,
+    "sparam": ""
+  },
+  {
+    "id": 107,
+    "type": "OnlineRoleFriendshipMaxLevel",
+    "name": "网游人物羁绊最大等级",
+    "desc": "",
+    "iparam": 5,
+    "sparam": ""
+  },
+  {
+    "id": 108,
+    "type": "OnlineRoleFriendshipChangeRoleNicknameConsume",
+    "name": "网游人物羁绊改昵称消耗",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "152|1|1"
+  },
+  {
+    "id": 109,
+    "type": "OnlineHeadPortraitIdDefault",
+    "name": "网游名片默认头像id",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 110,
+    "type": "OnlineHeadPortraitBgIdDefault",
+    "name": "网游名片默认头像背景id",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 111,
+    "type": "OnlineHeadPortraitFrameIdDefault",
+    "name": "网游名片默认头像框id",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 113,
+    "type": "UseFatePowerLossOfWorldLevel",
+    "name": "使用命运之力损失世界等级",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 114,
+    "type": "OnlineMonthlyLoginCardId",
+    "name": "月签到绑定月卡id",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 115,
+    "type": "ScenarioTextNextTime",
+    "name": "演出文本时间间隔",
+    "desc": "",
+    "iparam": 1500,
+    "sparam": ""
+  },
+  {
+    "id": 116,
+    "type": "ScenarioVoiceNextTime",
+    "name": "演出语音时间间隔",
+    "desc": "",
+    "iparam": 300,
+    "sparam": ""
+  },
+  {
+    "id": 117,
+    "type": "ScenarioLineNextTime",
+    "name": "演出下一行时间间隔",
+    "desc": "",
+    "iparam": 1000,
+    "sparam": ""
+  },
+  {
+    "id": 118,
+    "type": "BlackHoleScenarioID",
+    "name": "黑洞穿越效果TimelineID",
+    "desc": "",
+    "iparam": 115,
+    "sparam": ""
+  },
+  {
+    "id": 119,
+    "type": "BattlePerfectTurnCount",
+    "name": "完美通关回合数",
+    "desc": "",
+    "iparam": 7,
+    "sparam": ""
+  },
+  {
+    "id": 120,
+    "type": "OnlineTowerMaxFloor",
+    "name": "网游周常本最高层",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 121,
+    "type": "OnlineGachaUnitCareerGuaranteedStart",
+    "name": "网游角色生涯保底开启",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 122,
+    "type": "OnlineBattleNormalPassId",
+    "name": "网游战令常规通行证ID",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 123,
+    "type": "OnlineBattleAdvancedPassId",
+    "name": "网游战令高级通行证ID",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 124,
+    "type": "OnlineBattlePassShopItemIds",
+    "name": "网游战令通行证的商店子项IDS",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "78|79|80"
+  },
+  {
+    "id": 125,
+    "type": "PlayVoiceUIIdleTime",
+    "name": "播放语音所需的界面闲置时间",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 126,
+    "type": "CountryStabilityDefaultValue",
+    "name": "国家安定度默认值",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 127,
+    "type": "PurchaseMailTemplateId",
+    "name": "充值到账邮件模板ID",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 128,
+    "type": "RefundMailTemplateId",
+    "name": "退款提示邮件模板ID",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 129,
+    "type": "CritBaseChance",
+    "name": "战斗-暴击基础概率",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 130,
+    "type": "OnlineArenaBotMaxLevel",
+    "name": "网游竞技场机器人最高等级（废弃）",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 131,
+    "type": "OnlineShopMonthlyCardRecommendRedirectId",
+    "name": "网游商店月卡推荐页跳转ID",
+    "desc": "",
+    "iparam": 5003,
+    "sparam": ""
+  },
+  {
+    "id": 132,
+    "type": "OnlineRoleUnitBattlePowerCoefficient",
+    "name": "网游角色战力系数(攻击|防御)",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "120|200"
+  },
+  {
+    "id": 133,
+    "type": "OnlineGachaWeaponCareerGuaranteedStart",
+    "name": "网游武器生涯保底开启",
+    "desc": "",
+    "iparam": 20,
+    "sparam": ""
+  },
+  {
+    "id": 134,
+    "type": "OnlineTowerResetFloorCount",
+    "name": "周常本重置挑战层数",
+    "desc": "",
+    "iparam": 2,
+    "sparam": ""
+  },
+  {
+    "id": 135,
+    "type": "OnlineShopItemMonthlyCardId ",
+    "name": "网游商店对应月卡的商品ID",
+    "desc": "",
+    "iparam": 86,
+    "sparam": ""
+  },
+  {
+    "id": 136,
+    "type": "OnlineArenaRestTime",
+    "name": "网游竞技场休整期时间",
+    "desc": "",
+    "iparam": 43200,
+    "sparam": ""
+  },
+  {
+    "id": 137,
+    "type": "OnlineRevelationFirstUnlockTarotIds",
+    "name": "网游启示录首次解锁默认解锁的塔罗牌Ids",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "1|2|3"
+  },
+  {
+    "id": 138,
+    "type": "WorldMapLineNormalColor",
+    "name": "沙盒地图勾边常态颜色WorldMapColorID",
+    "desc": "",
+    "iparam": 23,
+    "sparam": ""
+  },
+  {
+    "id": 139,
+    "type": "WorldMapLineDisableColor",
+    "name": "沙盒地图勾边灰态颜色WorldMapColorID",
+    "desc": "",
+    "iparam": 24,
+    "sparam": ""
+  },
+  {
+    "id": 140,
+    "type": "OnlineRevelationFakeMaxCount",
+    "name": "网游启示录虚假的上限数量",
+    "desc": "",
+    "iparam": 16,
+    "sparam": ""
+  },
+  {
+    "id": 141,
+    "type": "OnlineDazeTipColdTime",
+    "name": "网游发呆提示冷却时间",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 142,
+    "type": "SandboxDazeTipColdTime",
+    "name": "沙盒发呆提示冷却时间",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 143,
+    "type": "OnlineDazeTipConditionMainQuestProgress",
+    "name": "网游发呆提示不触发条件之主线关卡进度值",
+    "desc": "",
+    "iparam": 218,
+    "sparam": ""
+  },
+  {
+    "id": 144,
+    "type": "SandboxDazeTipConditionResultChapterTimes",
+    "name": "沙盒发呆提示不触发条件之结算章节的次数",
+    "desc": "",
+    "iparam": 20,
+    "sparam": ""
+  },
+  {
+    "id": 145,
+    "type": "OnlineMonthlyCardBuyInfoTextIds",
+    "name": "月卡购买弹窗内显示条目文本IDs",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "12801|12802|12803"
+  },
+  {
+    "id": 146,
+    "type": "OnlineGachaLogPageSize",
+    "name": "网游抽卡记录单页数量",
+    "desc": "",
+    "iparam": 1000000,
+    "sparam": ""
+  },
+  {
+    "id": 147,
+    "type": "OnlineGachaLogPageSizeClient",
+    "name": "网游抽卡记录单页数量（客户端）",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 148,
+    "type": "OnlineQuestStrength",
+    "name": "网游战斗强度",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "1|6|11"
+  },
+  {
+    "id": 149,
+    "type": "OnlineQuestStrengthMaxLevel",
+    "name": "网游战斗强度计算最高关卡等级",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 150,
+    "type": "OnlineFriendBattleColdTimeInApply",
+    "name": "网游好友切磋申请冷却时长（秒",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 151,
+    "type": "OnlineFriendBattleColdTimeInMapSelecting",
+    "name": "网游好友切磋地图选择冷却时长（秒",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 152,
+    "type": "OnlineFriendBattleColdTimeInBattlePrepare",
+    "name": "网游好友切磋战前准备冷却时长（秒",
+    "desc": "",
+    "iparam": 180,
+    "sparam": ""
+  },
+  {
+    "id": 153,
+    "type": "OnlineFriendRecommendLevelRange",
+    "name": "网游好友等级范围(下限|上限|满级下限)",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "10|10|10"
+  },
+  {
+    "id": 154,
+    "type": "MobileEmailVerificationCodeColdDown",
+    "name": "手机/邮箱发送验证码冷却时间(秒)",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 155,
+    "type": "MobileEmailValidateTime",
+    "name": "手机/邮箱验证码有效期(秒)",
+    "desc": "",
+    "iparam": 600,
+    "sparam": ""
+  },
+  {
+    "id": 156,
+    "type": "MobileEmailVerificationCodeLength",
+    "name": "手机/邮箱验证码长度",
+    "desc": "",
+    "iparam": 6,
+    "sparam": ""
+  },
+  {
+    "id": 157,
+    "type": "GoodReviewGuideCD",
+    "name": "好评引导触发时间间隔",
+    "desc": "单位 天",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 158,
+    "type": "MultipleSecond",
+    "name": "网游好友切磋地图每人行动冷却时长(秒",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 159,
+    "type": "PurchaseRebateMailTemplateId",
+    "name": "充值返利邮件模版ID",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 160,
+    "type": "ElysiumPlacementRoleFriendshipAddTime",
+    "name": "乐土家园角色自动羁绊增长时间",
+    "desc": "秒",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 161,
+    "type": "ElysiumPlacementRoleFriendshipAddExp",
+    "name": "乐土家园角色自动羁绊增长值",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 162,
+    "type": "OnlineShopGiftCategoryID",
+    "name": "网游商店礼包大类ID",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 163,
+    "type": "OnlineFriendBattleRecordMaxCount",
+    "name": "网游好友切磋记录存储最大条目数",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 164,
+    "type": "OnlineMaxAccumulateGuildChallengeCount",
+    "name": "网游公会挑战最高累计可用次数",
+    "desc": "",
+    "iparam": 4,
+    "sparam": ""
+  },
+  {
+    "id": 165,
+    "type": "ScenarioLineNextScrollTime",
+    "name": "演出下一行滚动时间",
+    "desc": "",
+    "iparam": 160,
+    "sparam": ""
+  },
+  {
+    "id": 166,
+    "type": "PropsLevelLimit",
+    "name": "物件等级限制",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 167,
+    "type": "OnlineModifyPartnerNicknameConsume",
+    "name": "网游修改伙伴昵称消耗",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "152|1|1"
+  },
+  {
+    "id": 168,
+    "type": "PartnerRoleId",
+    "name": "黑猫人物ID",
+    "desc": "",
+    "iparam": 124,
+    "sparam": ""
+  },
+  {
+    "id": 169,
+    "type": "SpecialScenariosWithoutSkipAndExit",
+    "name": "不能跳过和退出的特殊演出",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "1:10|1:91|1:112"
+  },
+  {
+    "id": 170,
+    "type": "OnlineShopIdBuyDiamond",
+    "name": "购买晶石的网游商店ID",
+    "desc": "",
+    "iparam": 5,
+    "sparam": ""
+  },
+  {
+    "id": 171,
+    "type": "OnlineArenaDefensePointCoefficient",
+    "name": "网游竞技场防守方资源点系数",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 172,
+    "type": "OnlineGuildChallengeAfterJoinCDTs",
+    "name": "单人入公会后公会挑战冻结时间(秒)",
+    "desc": "",
+    "iparam": 432000,
+    "sparam": ""
+  },
+  {
+    "id": 173,
+    "type": "OnlineShopRecommendCategoryId",
+    "name": "网游商城推荐页大类的ID",
+    "desc": "",
+    "iparam": 4,
+    "sparam": ""
+  },
+  {
+    "id": 174,
+    "type": "CommerceOrderCount",
+    "name": "商会每回合可发出订单数",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 175,
+    "type": "BattlePassTreasureMailTemplateId",
+    "name": "战令结束补发奖励邮件模版ID",
+    "desc": "",
+    "iparam": 7,
+    "sparam": ""
+  },
+  {
+    "id": 176,
+    "type": "OnlineAbyssMaxChallengeCount",
+    "name": "逆境之塔最大体力",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 177,
+    "type": "OnlineAbyssChallengeCountRecoverInterval",
+    "name": "逆境之塔体力恢复间隔(秒)",
+    "desc": "",
+    "iparam": 1800,
+    "sparam": ""
+  },
+  {
+    "id": 178,
+    "type": "OnlineGuildRecommendCount",
+    "name": "公会推荐数量",
+    "desc": "",
+    "iparam": 6,
+    "sparam": ""
+  },
+  {
+    "id": 179,
+    "type": "OnlineModifyGuildNameConsume",
+    "name": "网游公会改名小号",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "152|1|1"
+  },
+  {
+    "id": 180,
+    "type": "OnlineAbyssUnlockTowerFloor",
+    "name": "逆境之塔解锁需要的周常本最高层",
+    "desc": "",
+    "iparam": 12,
+    "sparam": ""
+  },
+  {
+    "id": 190,
+    "type": "OnlineAbyssMailTemplateId",
+    "name": "逆境之塔排行奖励邮件id",
+    "desc": "",
+    "iparam": 14,
+    "sparam": ""
+  },
+  {
+    "id": 191,
+    "type": "CommercePropensityOfWarDefaultValue",
+    "name": "商会系统默认战争倾向值",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 192,
+    "type": "OnlineFriendBattleFormationTime",
+    "name": "网游好友切磋前端布阵限制时间",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 193,
+    "type": "VideoRecordLimitMax",
+    "name": "战报系统最大条目限制",
+    "desc": "",
+    "iparam": 20,
+    "sparam": ""
+  },
+  {
+    "id": 194,
+    "type": "MultipleWaitReplayEnd",
+    "name": "网游好友切磋行动过渡(秒)",
+    "desc": "",
+    "iparam": 25,
+    "sparam": ""
+  },
+  {
+    "id": 195,
+    "type": "MultipleAllRoomMaxTime",
+    "name": "好友切磋整局时间(秒)",
+    "desc": "",
+    "iparam": 1800,
+    "sparam": ""
+  },
+  {
+    "id": 196,
+    "type": "MultipleAllDisconnectDelRoomTime",
+    "name": "好友切磋所有人都掉线了，自动删除房间时间(秒)",
+    "desc": "",
+    "iparam": 30,
+    "sparam": ""
+  },
+  {
+    "id": 197,
+    "type": "VideoShareExpired",
+    "name": "战报分享有效期（秒）",
+    "desc": "",
+    "iparam": 259200,
+    "sparam": ""
+  },
+  {
+    "id": 198,
+    "type": "VideoArenaRecordMax",
+    "name": "录像系统竞技场记录最大数量",
+    "desc": "",
+    "iparam": 50,
+    "sparam": ""
+  },
+  {
+    "id": 199,
+    "type": "VideoFavoriteLimitMax",
+    "name": "战报系统收藏数量限制",
+    "desc": "",
+    "iparam": 10,
+    "sparam": ""
+  },
+  {
+    "id": 200,
+    "type": "SingleRoomDisconnectDelMemTime",
+    "name": "单人房间玩家掉线,删除内存时间",
+    "desc": "",
+    "iparam": 600,
+    "sparam": ""
+  },
+  {
+    "id": 201,
+    "type": "OnlineGuildBuildActivityMailTemplateId",
+    "name": "公会建设活动分享奖励邮件id",
+    "desc": "",
+    "iparam": 15,
+    "sparam": ""
+  },
+  {
+    "id": 202,
+    "type": "Sandbox2UnitStudySkillConsume",
+    "name": "前传线角色学习技能消耗",
+    "desc": "",
+    "iparam": 0,
+    "sparam": "50|2|1"
+  },
+  {
+    "id": 203,
+    "type": "Sandbox2AccessorySlotPerUnit",
+    "name": "一个角色装备随身物品上限",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 204,
+    "type": "Sandbox2PlayerMaxAccessory",
+    "name": "随身物品背包上限",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 205,
+    "type": "OnlineAbyssQuestMaxPointRatio",
+    "name": "逆境之塔小关卡理论最大分百分比倍率",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  }
+]

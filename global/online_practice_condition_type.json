@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "Level",
+    "name": "等级",
+    "param_name": "等级",
+    "param_type": "int"
+  },
+  {
+    "id": 2,
+    "type": "Rank",
+    "name": "阶级",
+    "param_name": "阶级",
+    "param_type": "int"
+  },
+  {
+    "id": 3,
+    "type": "Star",
+    "name": "星级",
+    "param_name": "星级",
+    "param_type": "int"
+  },
+  {
+    "id": 4,
+    "type": "Rarity",
+    "name": "稀有度",
+    "param_name": "稀有度",
+    "param_type": "unit_rarity"
+  },
+  {
+    "id": 5,
+    "type": "ProfessionCategory",
+    "name": "职业大类",
+    "param_name": "职业大类",
+    "param_type": "profession_category"
+  },
+  {
+    "id": 6,
+    "type": "Profession",
+    "name": "职业小类",
+    "param_name": "职业小类",
+    "param_type": "profession"
+  },
+  {
+    "id": 7,
+    "type": "DynamicLevel",
+    "name": "动态等级",
+    "param_name": "调整值",
+    "param_type": "int"
+  },
+  {
+    "id": 8,
+    "type": "DynamicRank",
+    "name": "动态阶级",
+    "param_name": "调整值",
+    "param_type": "int"
+  }
+]

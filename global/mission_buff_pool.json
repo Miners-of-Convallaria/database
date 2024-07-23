@@ -1,0 +1,1080 @@
+[
+  {
+    "id": 1,
+    "name": "测试-命运之力·阿巴阿巴",
+    "buff_id": 560,
+    "target": 2,
+    "editor_name": "测试-命运之力·阿巴阿巴"
+  },
+  {
+    "id": 2,
+    "name": "测试-微光的试炼",
+    "buff_id": 65,
+    "target": 3,
+    "editor_name": "测试-微光的试炼"
+  },
+  {
+    "id": 3,
+    "name": "测试-微光的试炼（2）",
+    "buff_id": 604,
+    "target": 1,
+    "editor_name": "测试-微光的试炼（2）"
+  },
+  {
+    "id": 4,
+    "name": "举步维艰",
+    "buff_id": 143,
+    "target": 1,
+    "editor_name": "举步维艰"
+  },
+  {
+    "id": 5,
+    "name": "测试-禁止击退",
+    "buff_id": 20,
+    "target": 1,
+    "editor_name": "测试-禁止击退"
+  },
+  {
+    "id": 6,
+    "name": "硬化皮肤1",
+    "buff_id": 1405,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-硬化皮肤1"
+  },
+  {
+    "id": 7,
+    "name": "硬化皮肤2",
+    "buff_id": 1406,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-硬化皮肤2"
+  },
+  {
+    "id": 8,
+    "name": "硬化皮肤3",
+    "buff_id": 920,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-硬化皮肤3"
+  },
+  {
+    "id": 9,
+    "name": "精神武装1",
+    "buff_id": 1407,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-精神武装1"
+  },
+  {
+    "id": 10,
+    "name": "精神武装2",
+    "buff_id": 1408,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-精神武装2"
+  },
+  {
+    "id": 11,
+    "name": "精神武装3",
+    "buff_id": 922,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-精神武装3"
+  },
+  {
+    "id": 12,
+    "name": "蛮力角斗1",
+    "buff_id": 44,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-蛮力角斗1"
+  },
+  {
+    "id": 13,
+    "name": "蛮力角斗2",
+    "buff_id": 923,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-蛮力角斗2"
+  },
+  {
+    "id": 14,
+    "name": "蛮力角斗3",
+    "buff_id": 924,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-蛮力角斗3"
+  },
+  {
+    "id": 15,
+    "name": "魔法增幅1",
+    "buff_id": 5,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-魔法增幅1"
+  },
+  {
+    "id": 16,
+    "name": "魔法增幅2",
+    "buff_id": 926,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-魔法增幅2"
+  },
+  {
+    "id": 17,
+    "name": "魔法增幅3",
+    "buff_id": 927,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-魔法增幅3"
+  },
+  {
+    "id": 18,
+    "name": "次元反弹1",
+    "buff_id": 928,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-次元反弹1"
+  },
+  {
+    "id": 19,
+    "name": "次元反弹2",
+    "buff_id": 929,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-次元反弹2"
+  },
+  {
+    "id": 20,
+    "name": "次元反弹3",
+    "buff_id": 930,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-次元反弹3"
+  },
+  {
+    "id": 21,
+    "name": "腰酸背痛1",
+    "buff_id": 931,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV1突变]-腰酸背痛1"
+  },
+  {
+    "id": 22,
+    "name": "腰酸背痛2",
+    "buff_id": 932,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV2突变]-腰酸背痛2"
+  },
+  {
+    "id": 23,
+    "name": "腰酸背痛3",
+    "buff_id": 933,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV3突变]-腰酸背痛3"
+  },
+  {
+    "id": 24,
+    "name": "强横攻势1",
+    "buff_id": 934,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-强横攻势1"
+  },
+  {
+    "id": 25,
+    "name": "强横攻势2",
+    "buff_id": 935,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-强横攻势2"
+  },
+  {
+    "id": 26,
+    "name": "专注防御1",
+    "buff_id": 937,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-专注防御1"
+  },
+  {
+    "id": 27,
+    "name": "专注防御2",
+    "buff_id": 938,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-专注防御2"
+  },
+  {
+    "id": 28,
+    "name": "积极防御1",
+    "buff_id": 939,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-积极防御1"
+  },
+  {
+    "id": 29,
+    "name": "积极防御2",
+    "buff_id": 940,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-积极防御2"
+  },
+  {
+    "id": 30,
+    "name": "积极防御3",
+    "buff_id": 941,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-积极防御3"
+  },
+  {
+    "id": 31,
+    "name": "猩红之路1",
+    "buff_id": 942,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-猩红之路1"
+  },
+  {
+    "id": 32,
+    "name": "猩红之路2",
+    "buff_id": 943,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-猩红之路2"
+  },
+  {
+    "id": 33,
+    "name": "猩红之路3",
+    "buff_id": 944,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-猩红之路3"
+  },
+  {
+    "id": 34,
+    "name": "强风2",
+    "buff_id": 945,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV2突变]-强风2"
+  },
+  {
+    "id": 35,
+    "name": "强风3",
+    "buff_id": 946,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV3突变]-强风3"
+  },
+  {
+    "id": 36,
+    "name": "祖传贴膜1",
+    "buff_id": 947,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-祖传贴膜1"
+  },
+  {
+    "id": 37,
+    "name": "祖传贴膜2",
+    "buff_id": 948,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-祖传贴膜2"
+  },
+  {
+    "id": 38,
+    "name": "强化训练1",
+    "buff_id": 949,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV1突变]-强化训练1"
+  },
+  {
+    "id": 39,
+    "name": "强化训练2",
+    "buff_id": 950,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-强化训练2"
+  },
+  {
+    "id": 40,
+    "name": "精神饱满2",
+    "buff_id": 951,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-精神饱满2"
+  },
+  {
+    "id": 41,
+    "name": "精神饱满3",
+    "buff_id": 952,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-精神饱满3"
+  },
+  {
+    "id": 42,
+    "name": "猛烈反扑2",
+    "buff_id": 953,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-猛烈反扑2"
+  },
+  {
+    "id": 43,
+    "name": "猛烈反扑3",
+    "buff_id": 954,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-猛烈反扑3"
+  },
+  {
+    "id": 44,
+    "name": "猝不及防2",
+    "buff_id": 957,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-猝不及防2"
+  },
+  {
+    "id": 45,
+    "name": "猝不及防3",
+    "buff_id": 958,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-猝不及防3"
+  },
+  {
+    "id": 46,
+    "name": "无暇之盾2",
+    "buff_id": 956,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-无暇之盾2"
+  },
+  {
+    "id": 47,
+    "name": "无暇之盾3",
+    "buff_id": 955,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-无暇之盾3"
+  },
+  {
+    "id": 48,
+    "name": "大腿抽筋",
+    "buff_id": 959,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV3突变]-大腿抽筋"
+  },
+  {
+    "id": 49,
+    "name": "倒吊人名望：声名狼藉",
+    "buff_id": 1006,
+    "target": 2,
+    "editor_name": "[第十章环境效果]网游主线第十章-倒吊人名望：声名狼藉"
+  },
+  {
+    "id": 50,
+    "name": "长弓训练",
+    "buff_id": 967,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-长弓训练"
+  },
+  {
+    "id": 51,
+    "name": "长弓手",
+    "buff_id": 968,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-长弓手"
+  },
+  {
+    "id": 52,
+    "name": "蓄势待发",
+    "buff_id": 969,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-蓄势待发"
+  },
+  {
+    "id": 53,
+    "name": "能源枯竭",
+    "buff_id": 966,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本次要突变]-能源枯竭"
+  },
+  {
+    "id": 54,
+    "name": "小腿无力",
+    "buff_id": 965,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本次要突变]-小腿无力"
+  },
+  {
+    "id": 55,
+    "name": "气定神闲",
+    "buff_id": 970,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-气定神闲"
+  },
+  {
+    "id": 56,
+    "name": "区域控制",
+    "buff_id": 971,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-区域控制"
+  },
+  {
+    "id": 57,
+    "name": "腰马合一",
+    "buff_id": 972,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-腰马合一"
+  },
+  {
+    "id": 58,
+    "name": "净化一击",
+    "buff_id": 973,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本次要突变]-净化一击"
+  },
+  {
+    "id": 59,
+    "name": "治愈立场",
+    "buff_id": 974,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-治愈立场"
+  },
+  {
+    "id": 60,
+    "name": "侧击攻势1",
+    "buff_id": 975,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本次要突变]-侧击攻势1"
+  },
+  {
+    "id": 61,
+    "name": "闪电反射",
+    "buff_id": 976,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-闪电反射"
+  },
+  {
+    "id": 62,
+    "name": "炸弹人",
+    "buff_id": 1416,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-炸弹人"
+  },
+  {
+    "id": 63,
+    "name": "以力破巧",
+    "buff_id": 978,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本次要突变]-以力破巧"
+  },
+  {
+    "id": 64,
+    "name": "反击之手",
+    "buff_id": 979,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-反击之手"
+  },
+  {
+    "id": 65,
+    "name": "快速机动",
+    "buff_id": 980,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-快速机动"
+  },
+  {
+    "id": 66,
+    "name": "优质护甲",
+    "buff_id": 981,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-优质护甲"
+  },
+  {
+    "id": 67,
+    "name": "草莽醉拳",
+    "buff_id": 1856,
+    "target": 1,
+    "editor_name": "（CB2）-[通用环境]-草莽醉拳"
+  },
+  {
+    "id": 68,
+    "name": "洁净庇护",
+    "buff_id": 983,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-洁净庇护"
+  },
+  {
+    "id": 69,
+    "name": "寻求援助",
+    "buff_id": 984,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本次要突变]-寻求援助"
+  },
+  {
+    "id": 70,
+    "name": "线列作战",
+    "buff_id": 985,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-线列作战"
+  },
+  {
+    "id": 71,
+    "name": "北境寒流",
+    "buff_id": 1419,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本次要突变]-北境寒流"
+  },
+  {
+    "id": 72,
+    "name": "二连斩",
+    "buff_id": 987,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-二连斩"
+  },
+  {
+    "id": 73,
+    "name": "蚀炎之轰鸣",
+    "buff_id": 1546,
+    "target": 2,
+    "editor_name": "[通用环境效果]受到持续伤害提高100%"
+  },
+  {
+    "id": 74,
+    "name": "超载疗法",
+    "buff_id": 465,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-超载疗法"
+  },
+  {
+    "id": 75,
+    "name": "遗忘本能",
+    "buff_id": 990,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本次要突变]-遗忘本能"
+  },
+  {
+    "id": 76,
+    "name": "战地庸医",
+    "buff_id": 991,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本次要突变]-战地庸医"
+  },
+  {
+    "id": 77,
+    "name": "驰名庸医",
+    "buff_id": 992,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-驰名庸医"
+  },
+  {
+    "id": 78,
+    "name": "不动如山",
+    "buff_id": 993,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本次要突变]-不动如山"
+  },
+  {
+    "id": 79,
+    "name": "瘟疫蔓延",
+    "buff_id": 994,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本次要突变]-瘟疫蔓延"
+  },
+  {
+    "id": 80,
+    "name": "体力透支",
+    "buff_id": 996,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-体力透支"
+  },
+  {
+    "id": 81,
+    "name": "战火淬炼",
+    "buff_id": 998,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-战火淬炼"
+  },
+  {
+    "id": 82,
+    "name": "不屈意志",
+    "buff_id": 997,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2LV3主要突变]-不屈意志"
+  },
+  {
+    "id": 83,
+    "name": "魔力反噬",
+    "buff_id": 999,
+    "target": 2,
+    "editor_name": "（CB1）-[周常本LV3次要突变]-魔力反噬"
+  },
+  {
+    "id": 84,
+    "name": "强行军",
+    "buff_id": 1001,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-强行军"
+  },
+  {
+    "id": 85,
+    "name": "冲锋对决",
+    "buff_id": 1039,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-冲锋对决"
+  },
+  {
+    "id": 86,
+    "name": "高地优势",
+    "buff_id": 1037,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-高地优势"
+  },
+  {
+    "id": 87,
+    "name": "废弃",
+    "buff_id": 0,
+    "target": 3,
+    "editor_name": "（废弃）-[周常本环境]-废弃"
+  },
+  {
+    "id": 88,
+    "name": "见招拆招",
+    "buff_id": 1029,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-见招拆招"
+  },
+  {
+    "id": 89,
+    "name": "精神谴责",
+    "buff_id": 1014,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-精神谴责"
+  },
+  {
+    "id": 90,
+    "name": "仁慈之盾",
+    "buff_id": 1038,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-仁慈之盾"
+  },
+  {
+    "id": 91,
+    "name": "漂泊的骑士",
+    "buff_id": 1002,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-漂泊的骑士"
+  },
+  {
+    "id": 92,
+    "name": "防御者的反击",
+    "buff_id": 1011,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-防御者的反击"
+  },
+  {
+    "id": 93,
+    "name": "前进的预兆",
+    "buff_id": 1007,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-前进的预兆"
+  },
+  {
+    "id": 94,
+    "name": "无双乱舞",
+    "buff_id": 1036,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-无双乱舞"
+  },
+  {
+    "id": 95,
+    "name": "山地作战",
+    "buff_id": 1013,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-山地作战"
+  },
+  {
+    "id": 96,
+    "name": "流行性传染",
+    "buff_id": 1020,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-流行性传染"
+  },
+  {
+    "id": 97,
+    "name": "克制的艺术",
+    "buff_id": 1016,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-克制的艺术"
+  },
+  {
+    "id": 98,
+    "name": "战士呼吸法",
+    "buff_id": 1008,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-战士呼吸法"
+  },
+  {
+    "id": 99,
+    "name": "圣印的垂青",
+    "buff_id": 1009,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-圣印的垂青"
+  },
+  {
+    "id": 100,
+    "name": "废弃",
+    "buff_id": 0,
+    "target": 3,
+    "editor_name": "（废弃）-[周常本环境]-废弃"
+  },
+  {
+    "id": 101,
+    "name": "目不斜视",
+    "buff_id": 1021,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-目不斜视"
+  },
+  {
+    "id": 102,
+    "name": "附加奖励",
+    "buff_id": 1005,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-附加奖励"
+  },
+  {
+    "id": 103,
+    "name": "分散突击",
+    "buff_id": 1012,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-分散突击"
+  },
+  {
+    "id": 104,
+    "name": "毁灭者的不息",
+    "buff_id": 1015,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-毁灭者的不息"
+  },
+  {
+    "id": 105,
+    "name": "激昂战歌",
+    "buff_id": 1010,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-激昂战歌"
+  },
+  {
+    "id": 106,
+    "name": "古老的庇护",
+    "buff_id": 1003,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-古老的庇护"
+  },
+  {
+    "id": 107,
+    "name": "不屈的铃兰",
+    "buff_id": 1004,
+    "target": 3,
+    "editor_name": "（新版）-[周常本环境]-不屈的铃兰"
+  },
+  {
+    "id": 108,
+    "name": "[通用环境效果]全体敌人升级为精英属性",
+    "buff_id": 1130,
+    "target": 1,
+    "editor_name": "[通用环境效果]全体敌人升级为精英属性"
+  },
+  {
+    "id": 109,
+    "name": "野性暴怒：所有敌人每回合开始时增加5%攻击力。",
+    "buff_id": 492,
+    "target": 1,
+    "editor_name": "（CB2）-[通用环境]-野性暴怒"
+  },
+  {
+    "id": 110,
+    "name": "环境伤害降低30%",
+    "buff_id": 1257,
+    "target": 1,
+    "editor_name": "（CB2）-[通用环境]-环境伤害降低30%"
+  },
+  {
+    "id": 111,
+    "name": "强横攻势3",
+    "buff_id": 1409,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-强横攻势3"
+  },
+  {
+    "id": 112,
+    "name": "专注防御3",
+    "buff_id": 1411,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV2突变]-专注防御3"
+  },
+  {
+    "id": 113,
+    "name": "祖传贴膜3",
+    "buff_id": 1413,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本LV3突变]-祖传贴膜3"
+  },
+  {
+    "id": 114,
+    "name": "侧击攻势3",
+    "buff_id": 1415,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本次要突变]-侧击攻势3"
+  },
+  {
+    "id": 115,
+    "name": "圣光满溢",
+    "buff_id": 512,
+    "target": 1,
+    "editor_name": "（CB2）-[通用环境]-圣光满溢"
+  },
+  {
+    "id": 116,
+    "name": "格挡之手",
+    "buff_id": 1418,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-格挡之手"
+  },
+  {
+    "id": 117,
+    "name": "灼烧远征",
+    "buff_id": 986,
+    "target": 1,
+    "editor_name": "（CB1）-[周常本次要突变]-灼烧远征"
+  },
+  {
+    "id": 118,
+    "name": "瞄准射击",
+    "buff_id": 1420,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-瞄准射击"
+  },
+  {
+    "id": 119,
+    "name": "危险气场",
+    "buff_id": 1421,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-危险气场"
+  },
+  {
+    "id": 120,
+    "name": "极限机动",
+    "buff_id": 1422,
+    "target": 3,
+    "editor_name": "（CB1）-[周常本次要突变]-极限机动"
+  },
+  {
+    "id": 121,
+    "name": "愈合之祝",
+    "buff_id": 807,
+    "target": 2,
+    "editor_name": "竞技场场景环境_S1"
+  },
+  {
+    "id": 123,
+    "name": "（废弃）倒吊人名望：不共戴天",
+    "buff_id": 518,
+    "target": 2,
+    "editor_name": "（废弃）[第十章环境效果]网游主线第十章-倒吊人名望：不共戴天"
+  },
+  {
+    "id": 124,
+    "name": "乘风之矢",
+    "buff_id": 1851,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S2"
+  },
+  {
+    "id": 125,
+    "name": "无悔冲锋",
+    "buff_id": 1852,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S3"
+  },
+  {
+    "id": 126,
+    "name": "实时PVP专用",
+    "buff_id": 1861,
+    "target": 3,
+    "editor_name": "实时PVP专用"
+  },
+  {
+    "id": 127,
+    "name": "高度近视",
+    "buff_id": 2107,
+    "target": 3,
+    "editor_name": "（V1.3）-[周常本次要突变]-高度近视"
+  },
+  {
+    "id": 128,
+    "name": "至刚易折",
+    "buff_id": 2108,
+    "target": 3,
+    "editor_name": "（V1.3）-[周常本次要突变]-至刚易折"
+  },
+  {
+    "id": 129,
+    "name": "召唤黑泥",
+    "buff_id": 2109,
+    "target": 1,
+    "editor_name": "（V1.3）-[周常本次要突变]-召唤黑泥"
+  },
+  {
+    "id": 130,
+    "name": "再生体质",
+    "buff_id": 2110,
+    "target": 3,
+    "editor_name": "（V1.3）-[周常本次要突变]-再生体质"
+  },
+  {
+    "id": 131,
+    "name": "赛季环境",
+    "buff_id": 2118,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S4"
+  },
+  {
+    "id": 132,
+    "name": "赛季环境",
+    "buff_id": 2117,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S5"
+  },
+  {
+    "id": 133,
+    "name": "赛季环境",
+    "buff_id": 2123,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S6"
+  },
+  {
+    "id": 134,
+    "name": "强取豪夺",
+    "buff_id": 2353,
+    "target": 1,
+    "editor_name": "（V1.5）-[周常本次要突变]-强取豪夺"
+  },
+  {
+    "id": 135,
+    "name": "测试-战术技能tp改变",
+    "buff_id": 2366,
+    "target": 4,
+    "editor_name": "测试-战术技能tp改变"
+  },
+  {
+    "id": 136,
+    "name": "赛季环境",
+    "buff_id": 2126,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S7"
+  },
+  {
+    "id": 137,
+    "name": "赛季环境",
+    "buff_id": 2124,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S8"
+  },
+  {
+    "id": 138,
+    "name": "赛季环境",
+    "buff_id": 1852,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S9"
+  },
+  {
+    "id": 139,
+    "name": "再生体质2",
+    "buff_id": 2110,
+    "target": 1,
+    "editor_name": "（V1.7）-[周常本次要突变]-再生体质2"
+  },
+  {
+    "id": 141,
+    "name": "以力破巧1",
+    "buff_id": 2399,
+    "target": 2,
+    "editor_name": "（V1.7）-[周常本次要突变]-以力破巧1"
+  },
+  {
+    "id": 142,
+    "name": "以力破巧3",
+    "buff_id": 2400,
+    "target": 2,
+    "editor_name": "（V1.7）-[周常本次要突变]-以力破巧3"
+  },
+  {
+    "id": 143,
+    "name": "精神饱满4",
+    "buff_id": 2401,
+    "target": 1,
+    "editor_name": "（V1.7）-[周常本LV4突变]-精神饱满4"
+  },
+  {
+    "id": 144,
+    "name": "精神饱满5",
+    "buff_id": 2402,
+    "target": 1,
+    "editor_name": "（V1.7）-[周常本LV5突变]-精神饱满5"
+  },
+  {
+    "id": 145,
+    "name": "克制的艺术2",
+    "buff_id": 2403,
+    "target": 3,
+    "editor_name": "（V1.7）-[周常PVP]-克制的艺术2"
+  },
+  {
+    "id": 146,
+    "name": "克制的艺术3",
+    "buff_id": 2404,
+    "target": 3,
+    "editor_name": "（V1.7）-[周常本环境]-克制的艺术3"
+  },
+  {
+    "id": 147,
+    "name": "漂泊的骑士",
+    "buff_id": 2453,
+    "target": 3,
+    "editor_name": "（周常PVP）-[周常本环境]-漂泊的骑士"
+  },
+  {
+    "id": 148,
+    "name": "大型活动3期-刷分专用",
+    "buff_id": 2471,
+    "target": 2,
+    "editor_name": "大型活动3期-刷分专用"
+  },
+  {
+    "id": 149,
+    "name": "中活3期-刷分专用（没用上",
+    "buff_id": 2486,
+    "target": 2,
+    "editor_name": "中活3期-刷分专用（没用上"
+  },
+  {
+    "id": 150,
+    "name": "以力破巧2",
+    "buff_id": 2507,
+    "target": 2,
+    "editor_name": "（V1.7）-[周常本次要突变]-以力破巧2"
+  },
+  {
+    "id": 151,
+    "name": "毁灭者的不息2",
+    "buff_id": 2505,
+    "target": 3,
+    "editor_name": "（V1.7）-[周常本环境]-毁灭者的不息2"
+  },
+  {
+    "id": 153,
+    "name": "生存者的技巧",
+    "buff_id": 2512,
+    "target": 3,
+    "editor_name": "（1.7）-[周常PVP]-生存者的技巧"
+  },
+  {
+    "id": 154,
+    "name": "独狼",
+    "buff_id": 2513,
+    "target": 3,
+    "editor_name": "（V1.7）-[周常PVP]-独狼"
+  },
+  {
+    "id": 156,
+    "name": "枪林弹雨",
+    "buff_id": 2542,
+    "target": 3,
+    "editor_name": "（V1.8）-周常PVP-枪林弹雨"
+  },
+  {
+    "id": 157,
+    "name": "精力充沛",
+    "buff_id": 933,
+    "target": 3,
+    "editor_name": "（V1.8）-周常PVP-精力充沛"
+  },
+  {
+    "id": 158,
+    "name": "莽夫",
+    "buff_id": 2609,
+    "target": 2,
+    "editor_name": "周常PVP-S3-莽夫"
+  }
+]

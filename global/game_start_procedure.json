@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "type": "Game_Start",
+    "name": "游戏开始",
+    "is_online": false,
+    "next_id": 2,
+    "iparam": 4,
+    "sparam": ""
+  },
+  {
+    "id": 2,
+    "type": "Sandbox_Game_End_0",
+    "name": "0周目结束+黑屏进字",
+    "is_online": true,
+    "next_id": 3,
+    "iparam": 0,
+    "sparam": ""
+  },
+  {
+    "id": 3,
+    "type": "Scenario_Before_Sandbox_1",
+    "name": "乐土码头醒来",
+    "is_online": true,
+    "next_id": 9,
+    "iparam": 111,
+    "sparam": ""
+  },
+  {
+    "id": 7,
+    "type": "First_Main_Quest_Win",
+    "name": "主线0-1胜利",
+    "is_online": true,
+    "next_id": 0,
+    "iparam": 0,
+    "sparam": "2|3"
+  },
+  {
+    "id": 9,
+    "type": "First_Gacha",
+    "name": "首次抽卡",
+    "is_online": true,
+    "next_id": 13,
+    "iparam": 225,
+    "sparam": "100"
+  },
+  {
+    "id": 13,
+    "type": "Scenario_Unlock_Main_Quest",
+    "name": "主线解锁演出",
+    "is_online": true,
+    "next_id": 7,
+    "iparam": 101,
+    "sparam": ""
+  },
+  {
+    "id": 99,
+    "type": "Debug",
+    "name": "自由模式用",
+    "is_online": true,
+    "next_id": 0,
+    "iparam": 0,
+    "sparam": ""
+  }
+]

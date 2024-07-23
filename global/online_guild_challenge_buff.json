@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "idonline_guild_challenge_buff_pool": 1,
+    "type": 1,
+    "name": "需要1名阵营为[铃兰之剑]的角色",
+    "param0": 1,
+    "param1": 1,
+    "extra_power": 20
+  },
+  {
+    "id": 2,
+    "idonline_guild_challenge_buff_pool": 2,
+    "type": 2,
+    "name": "需要1名职能为防御者的角色",
+    "param0": 1,
+    "param1": 1,
+    "extra_power": 30
+  },
+  {
+    "id": 3,
+    "idonline_guild_challenge_buff_pool": 3,
+    "type": 3,
+    "name": "需要上阵[贝拉]",
+    "param0": 1,
+    "param1": 1,
+    "extra_power": 35
+  },
+  {
+    "id": 4,
+    "idonline_guild_challenge_buff_pool": 1,
+    "type": 1,
+    "name": "测试1",
+    "param0": 1,
+    "param1": 2,
+    "extra_power": 50
+  },
+  {
+    "id": 5,
+    "idonline_guild_challenge_buff_pool": 2,
+    "type": 2,
+    "name": "测试2",
+    "param0": 1,
+    "param1": 2,
+    "extra_power": 50
+  },
+  {
+    "id": 6,
+    "idonline_guild_challenge_buff_pool": 3,
+    "type": 3,
+    "name": "测试3",
+    "param0": 1,
+    "param1": 2,
+    "extra_power": 50
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "id": 1,
+    "filename": "banditarchermset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 2,
+    "filename": "banditassassinmmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 3,
+    "filename": "banditberserkerfset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 4,
+    "filename": "banditcrossbowmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 5,
+    "filename": "banditguardianmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 6,
+    "filename": "banditlancermset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 7,
+    "filename": "darklightassassinmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 8,
+    "filename": "darklightbombermset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 9,
+    "filename": "darklightcrossbowmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 10,
+    "filename": "darklightdarkwizzardfset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 11,
+    "filename": "darklightfirewizzardmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 12,
+    "filename": "darklighticewizzardmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 13,
+    "filename": "darklightlancermset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 14,
+    "filename": "hbanditthemaskmset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 15,
+    "filename": "hirialadymunafset01",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 16,
+    "filename": "hirialadymunafset01_anger",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 17,
+    "filename": "hirialadymunafset01_default",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 18,
+    "filename": "hirialadymunafset01_insane",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 19,
+    "filename": "hirialadymunafset01_rage",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 20,
+    "filename": "hirialadymunafset01_sad",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 21,
+    "filename": "hirialadymunafset01_sadsmile",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 22,
+    "filename": "hirialadymunafset01_shock",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 23,
+    "filename": "hirialadymunafset01_shy",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 24,
+    "filename": "hirialadymunafset01_smile",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 25,
+    "filename": "hirialadymunafset01_think",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 26,
+    "filename": "hknightspaladinfset01",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 27,
+    "filename": "hknightspaladinfset01_anger",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 29,
+    "filename": "hknightspaladinfset01_embarrass",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 30,
+    "filename": "hknightspaladinfset01_pain",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 31,
+    "filename": "hknightspaladinfset01_sad",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 32,
+    "filename": "hknightspaladinfset01_shock",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 34,
+    "filename": "hknightspaladinfset01_think",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 35,
+    "filename": "hplayergodfathermset01_default",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 36,
+    "filename": "hplayergodfathermset01_dying",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 37,
+    "filename": "hplayermercenaryboymset01",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 38,
+    "filename": "hplayermercenaryboymset01_anger",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 40,
+    "filename": "hplayermercenaryboymset01_embarrass",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 41,
+    "filename": "hplayermercenaryboymset01_overjoy",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 42,
+    "filename": "hplayermercenaryboymset01_shock",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 44,
+    "filename": "hplayermercenarygirlfset01",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 45,
+    "filename": "hplayermercenarygirlfset01_anger",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 46,
+    "filename": "hplayermercenarygirlfset01_cry",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 48,
+    "filename": "hplayermercenarygirlfset01_embarrass",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 49,
+    "filename": "hplayermercenarygirlfset01_sad",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 50,
+    "filename": "hplayermercenarygirlfset01_shock",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 51,
+    "filename": "iriaarcherfset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 52,
+    "filename": "iriafirewizzardfset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 53,
+    "filename": "knightsberserkermset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 54,
+    "filename": "knightsguardianmset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 55,
+    "filename": "knightslancermset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 56,
+    "filename": "knightspriestfset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 57,
+    "filename": "mercenaryassassinmset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 58,
+    "filename": "papalcrossbowmset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 59,
+    "filename": "papalicewizzardfset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 60,
+    "filename": "papalpriestfset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 61,
+    "filename": "playermset01_anger",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 63,
+    "filename": "playermset01_embarrass",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 64,
+    "filename": "playermset01_sad",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 66,
+    "filename": "playermset01_think",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 67,
+    "filename": "vilderarcherfset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 68,
+    "filename": "vilderassassinmset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 69,
+    "filename": "vilderdancerfset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 70,
+    "filename": "hknightspaladinfset01_serious",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 71,
+    "filename": "hplayermercenaryboymset01_happy",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 72,
+    "filename": "hplayermercenaryboymset01_hate",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 73,
+    "filename": "hplayermercenaryboymset01_sad",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 74,
+    "filename": "hplayermercenarygirlfset01_happy",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 75,
+    "filename": "hplayermercenarygirlfset01_overjoy",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 76,
+    "filename": "hplayermercenarygirlfset01_serious",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 77,
+    "filename": "hplayermercenarygirlfset01_worry",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 78,
+    "filename": "hplayersisterlavierfset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 79,
+    "filename": "hplayersisterlavierfset01_anger",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 80,
+    "filename": "hplayersisterlavierfset01_happy",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 81,
+    "filename": "hplayersisterlavierfset01_hate",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 82,
+    "filename": "hplayersisterlavierfset01_horrify",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 83,
+    "filename": "hplayersisterlavierfset01_ragedying",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 84,
+    "filename": "hplayersisterlavierfset01_sad",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 85,
+    "filename": "hplayersisterlavierfset01_serious",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 86,
+    "filename": "hplayersisterlavierfset01_shock",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 92,
+    "filename": "playermset01",
+    "assetsbundle": "icon_face3"
+  },
+  {
+    "id": 93,
+    "filename": "playermset01_happy",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 94,
+    "filename": "playermset01_pain",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 98,
+    "filename": "hirialadymunafset02",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 99,
+    "filename": "hirialadymunafset02_anger",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 100,
+    "filename": "hirialadymunafset02_happy",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 101,
+    "filename": "hirialadymunafset02_hate",
+    "assetsbundle": "icon_face1"
+  },
+  {
+    "id": 102,
+    "filename": "hirialadymunafset02_pain",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 103,
+    "filename": "hirialadymunafset02_sad",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 104,
+    "filename": "hirialadymunafset02_serious",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 105,
+    "filename": "hirialadymunafset02_shock",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 106,
+    "filename": "hirialadymunafset02_think",
+    "assetsbundle": "icon_face2"
+  },
+  {
+    "id": 107,
+    "filename": "hiriasprincemset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 108,
+    "filename": "hknightscaptainmset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 109,
+    "filename": "hknightspaladinfset01_happy",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 110,
+    "filename": "hpoliceleaderfset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 111,
+    "filename": "playermset01_shock",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 112,
+    "filename": "hiriasprincemset01_anger",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 113,
+    "filename": "hiriasprincemset01_happy",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 114,
+    "filename": "hiriasprincemset01_hate",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 115,
+    "filename": "hiriasprincemset01_sad",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 116,
+    "filename": "hiriasprincemset01_shock",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 117,
+    "filename": "hknightscaptainmset01_anger",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 118,
+    "filename": "hknightscaptainmset01_happy",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 119,
+    "filename": "hknightscaptainmset01_hate",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 120,
+    "filename": "hknightscaptainmset01_sad",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 121,
+    "filename": "hknightscaptainmset01_shock",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 122,
+    "filename": "hpoliceleaderfset01_anger",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 123,
+    "filename": "hpoliceleaderfset01_happy",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 124,
+    "filename": "hpoliceleaderfset01_hate",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 125,
+    "filename": "hpoliceleaderfset01_sad",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 126,
+    "filename": "hpoliceleaderfset01_shock",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 127,
+    "filename": "hpoliceleaderfset01_think",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 128,
+    "filename": "iriaguardianmset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 129,
+    "filename": "irialancermset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 130,
+    "filename": "mercenaryarchermset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 131,
+    "filename": "mercenaryguardianmset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 132,
+    "filename": "policelongswordmset01",
+    "assetsbundle": "icon_face4"
+  },
+  {
+    "id": 133,
+    "filename": "policenightwalkermset01",
+    "assetsbundle": "icon_face4"
+  }
+]

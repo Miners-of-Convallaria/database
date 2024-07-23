@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "type": "Normal",
+    "name": "不互斥不叠加"
+  },
+  {
+    "id": 2,
+    "type": "CategoryMutex",
+    "name": "同类互斥"
+  },
+  {
+    "id": 3,
+    "type": "AbsoluteMutex",
+    "name": "绝对互斥"
+  },
+  {
+    "id": 4,
+    "type": "CategoryOverlap",
+    "name": "同类叠加"
+  },
+  {
+    "id": 5,
+    "type": "Overlap",
+    "name": "完全叠加"
+  }
+]

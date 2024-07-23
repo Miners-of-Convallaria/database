@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "name": "威胁范围（默认）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 2,
+    "name": "行动顺序（默认）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 3,
+    "name": "回溯功能（默认）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 4,
+    "name": "战术技能（默认）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 5,
+    "name": "地块查询（默认）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 6,
+    "name": "陷阱",
+    "param0_name": "陷阱ID",
+    "param0_type": "trap",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "陷阱IDs",
+    "sparam_type": "trap"
+  },
+  {
+    "id": 7,
+    "name": "特殊胜利条件",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "特殊胜利条件",
+    "sparam_type": "string"
+  },
+  {
+    "id": 8,
+    "name": "互动物",
+    "param0_name": "物件ID",
+    "param0_type": "props",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "物件IDs",
+    "sparam_type": "props"
+  },
+  {
+    "id": 9,
+    "name": "地形效果",
+    "param0_name": "地形效果ID",
+    "param0_type": "field_status",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "地形效果IDs",
+    "sparam_type": "field_status"
+  },
+  {
+    "id": 10,
+    "name": "装置",
+    "param0_name": "装置ID",
+    "param0_type": "widget",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "装置IDs",
+    "sparam_type": "widget"
+  },
+  {
+    "id": 11,
+    "name": "克制关系（默认）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 12,
+    "name": "受伤濒死（默认）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 13,
+    "name": "背击机制",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 14,
+    "name": "高地优势",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 15,
+    "name": "警戒机制",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 16,
+    "name": "瞬发技能",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 17,
+    "name": "地表变化",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 18,
+    "name": "撞击伤害",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 19,
+    "name": "摔落伤害",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 20,
+    "name": "护卫机制",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 21,
+    "name": "蓄力技能",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 22,
+    "name": "护盾",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 23,
+    "name": "地形杀",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 24,
+    "name": "直击阻挡",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 25,
+    "name": "刺客跳跃",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 26,
+    "name": "buff持续时间",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 27,
+    "name": "高低落差（移动力）",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 28,
+    "name": "能量机制",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  },
+  {
+    "id": 29,
+    "name": "默认",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": ""
+  }
+]

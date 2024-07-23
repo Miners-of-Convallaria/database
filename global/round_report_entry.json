@@ -1,0 +1,74 @@
+[
+  {
+    "id": 11,
+    "idround_report_type": 1,
+    "type": "entrust_appoint_timeout",
+    "name": "指明委托超时",
+    "desc": "有<color=#7caeeb> {0}</color> 条指名委托超时。",
+    "single_desc": ""
+  },
+  {
+    "id": 21,
+    "idround_report_type": 2,
+    "type": "tavern",
+    "name": "招募",
+    "desc": "{0}出现在旅店中，可前去招募。",
+    "single_desc": "<color=#e5ab4f>{0}</color>"
+  },
+  {
+    "id": 31,
+    "idround_report_type": 3,
+    "type": "entrust_practice_leave_continue",
+    "name": "派遣委托离队继续",
+    "desc": "{0}离队，{1}不受影响继续进行。",
+    "single_desc": ""
+  },
+  {
+    "id": 32,
+    "idround_report_type": 3,
+    "type": "entrust_practice_leave_failure",
+    "name": "派遣委托离队失败",
+    "desc": "{0}离队，剩余人员无法完成{1}。",
+    "single_desc": ""
+  },
+  {
+    "id": 33,
+    "idround_report_type": 3,
+    "type": "training_leave_failure",
+    "name": "训练离队取消",
+    "desc": "{0}离队，训练取消。",
+    "single_desc": ""
+  },
+  {
+    "id": 34,
+    "idround_report_type": 3,
+    "type": "hospital_leave_failure",
+    "name": "疗养离队取消",
+    "desc": "{0}离队，疗养取消。",
+    "single_desc": ""
+  },
+  {
+    "id": 41,
+    "idround_report_type": 4,
+    "type": "workshop_progress",
+    "name": "晶石工坊-战斗任务进度",
+    "desc": "在{0}周内使用{1}次<color=#ca6c4b>{2}</color>, 进度{3}/{4}。",
+    "single_desc": ""
+  },
+  {
+    "id": 42,
+    "idround_report_type": 4,
+    "type": "workshop_progress2",
+    "name": "晶石工坊-战斗任务进度",
+    "desc": "在{0}周内使用{1}次战术指令, 进度{2}/{3}。",
+    "single_desc": ""
+  },
+  {
+    "id": 51,
+    "idround_report_type": 5,
+    "type": "blessing_seat_cd",
+    "name": "祝福栏位CD",
+    "desc": "{0}已经准备好了",
+    "single_desc": ""
+  }
+]

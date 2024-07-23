@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 1,
+    "m_treasure_chest_bonuss": [],
+    "name": "测试宝箱1zhm",
+    "editor_name": "测试宝箱1zhm",
+    "desc": "测试空包宝箱",
+    "rarity": 1,
+    "icon": "material_treasure_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 8,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟普通技能",
+    "editor_name": "技能宝箱N（委托领悟技能）",
+    "desc": "出击的角色中随机一人可领悟一个普通级技能。",
+    "rarity": 1,
+    "icon": "material_treasure_skill_chest1",
+    "view_type": 5
+  },
+  {
+    "id": 11,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟精英技能",
+    "editor_name": "技能宝箱R（委托领悟技能）",
+    "desc": "出击的角色中随机一人可领悟一个精英级技能。",
+    "rarity": 2,
+    "icon": "material_treasure_skill_chest2",
+    "view_type": 5
+  },
+  {
+    "id": 12,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟史诗技能",
+    "editor_name": "技能宝箱SR（委托领悟技能）",
+    "desc": "出击的角色中随机一人可领悟一个史诗级技能。",
+    "rarity": 3,
+    "icon": "material_treasure_skill_chest3",
+    "view_type": 5
+  },
+  {
+    "id": 13,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟传说技能",
+    "editor_name": "技能宝箱SSR（委托领悟技能）",
+    "desc": "出击的角色中随机一人可领悟一个传说级技能。",
+    "rarity": 4,
+    "icon": "material_treasure_skill_chest4",
+    "view_type": 5
+  },
+  {
+    "id": 14,
+    "m_treasure_chest_bonuss": [],
+    "name": "势力贡献宝箱",
+    "editor_name": "定制委托测试宝箱",
+    "desc": "待配置",
+    "rarity": 1,
+    "icon": "material_treasure_chest1",
+    "view_type": 1
+  },
+  {
+    "id": 15,
+    "m_treasure_chest_bonuss": [],
+    "name": "测试宝箱-武器",
+    "editor_name": "测试宝箱-武器",
+    "desc": "待配置",
+    "rarity": 1,
+    "icon": "material_treasure_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 17,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗锻造蓝图",
+    "editor_name": "锻造蓝图SR",
+    "desc": "可从随机的两个锻造蓝图中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_blueprint_chest3",
+    "view_type": 2
+  },
+  {
+    "id": 18,
+    "m_treasure_chest_bonuss": [],
+    "name": "定制获得-生存建筑",
+    "editor_name": "定制获得-生存建筑",
+    "desc": "待配置",
+    "rarity": 1,
+    "icon": "material_treasure_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 19,
+    "m_treasure_chest_bonuss": [],
+    "name": "特殊训练宝箱",
+    "editor_name": "自选宝箱-训练被动",
+    "desc": "随机获得一个特殊训练，可在训练场让佣兵学习。",
+    "rarity": 1,
+    "icon": "material_treasure_chest3",
+    "view_type": 6
+  },
+  {
+    "id": 20,
+    "m_treasure_chest_bonuss": [],
+    "name": "自选宝箱-战术点",
+    "editor_name": "自选宝箱-战术点数",
+    "desc": "待配置",
+    "rarity": 1,
+    "icon": "material_treasure_chest1",
+    "view_type": 1
+  },
+  {
+    "id": 21,
+    "m_treasure_chest_bonuss": [],
+    "name": "战术指令宝箱",
+    "editor_name": "自选宝箱-战术技能",
+    "desc": "可随机获得一个战术指令。",
+    "rarity": 1,
+    "icon": "material_treasure_chest3",
+    "view_type": 4
+  },
+  {
+    "id": 23,
+    "m_treasure_chest_bonuss": [],
+    "name": "骑士同盟的赏金",
+    "editor_name": "世界概况宝箱",
+    "desc": "骑士同盟的赏金",
+    "rarity": 1,
+    "icon": "material_treasure_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 24,
+    "m_treasure_chest_bonuss": [],
+    "name": "锻造蓝图精英",
+    "editor_name": "锻造蓝图R",
+    "desc": "随机获得一张精英品质武器蓝图。",
+    "rarity": 2,
+    "icon": "material_treasure_blueprint_chest2",
+    "view_type": 2
+  },
+  {
+    "id": 32,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说设施升级宝箱",
+    "editor_name": "QV1-SSR级科技奖励宝箱",
+    "desc": "可从随机的三种设施升级中选择一项",
+    "rarity": 4,
+    "icon": "material_treasure_tech_chest4",
+    "view_type": 3
+  },
+  {
+    "id": 33,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗设施升级宝箱",
+    "editor_name": "QV1-SR级科技奖励宝箱",
+    "desc": "可从随机的三种设施升级中选择一项",
+    "rarity": 3,
+    "icon": "material_treasure_tech_chest3",
+    "view_type": 3
+  },
+  {
+    "id": 34,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英级科技奖励宝箱",
+    "editor_name": "QV1-R级科技奖励宝箱",
+    "desc": "可从随机的三种设施升级中选择一项",
+    "rarity": 2,
+    "icon": "material_treasure_tech_chest2",
+    "view_type": 3
+  },
+  {
+    "id": 35,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说特殊训练宝箱",
+    "editor_name": "AT2-SSR级训练被动宝箱",
+    "desc": "可从随机的三个传说特殊训练中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_faction_skill_chest4",
+    "view_type": 6
+  },
+  {
+    "id": 36,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗特殊训练宝箱",
+    "editor_name": "AT2-SR级训练被动宝箱",
+    "desc": "可从随机的三个特殊训练中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_faction_skill_chest3",
+    "view_type": 6
+  },
+  {
+    "id": 37,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英特殊训练宝箱",
+    "editor_name": "AT2-R级训练被动宝箱",
+    "desc": "可从随机的三个特殊训练中选择一个获得，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_faction_skill_chest2",
+    "view_type": 6
+  },
+  {
+    "id": 38,
+    "m_treasure_chest_bonuss": [],
+    "name": "普通特殊训练宝箱",
+    "editor_name": "AT2-N级训练被动宝箱",
+    "desc": "可从随机的三个特殊训练中选择一个获得，祝你好运。",
+    "rarity": 1,
+    "icon": "material_treasure_faction_skill_chest1",
+    "view_type": 6
+  },
+  {
+    "id": 39,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说级战术指令宝箱",
+    "editor_name": "QV1-SSR级战术技能宝箱",
+    "desc": "可从随机的三个战术指令中选择一个获得",
+    "rarity": 4,
+    "icon": "material_treasure_tactics_skill_chest4",
+    "view_type": 4
+  },
+  {
+    "id": 40,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗级战术指令宝箱",
+    "editor_name": "QV1-SR级战术技能宝箱",
+    "desc": "可从随机的三个战术指令中选择一个获得",
+    "rarity": 3,
+    "icon": "material_treasure_tactics_skill_chest3",
+    "view_type": 4
+  },
+  {
+    "id": 41,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英级战术技能宝箱",
+    "editor_name": "QV1-R级战术技能宝箱",
+    "desc": "可从随机的三个战术指令中选择一个获得",
+    "rarity": 2,
+    "icon": "material_treasure_tactics_skill_chest2",
+    "view_type": 4
+  },
+  {
+    "id": 43,
+    "m_treasure_chest_bonuss": [],
+    "name": "普通级战术指令宝箱",
+    "editor_name": "QV1-N级战术技能宝箱",
+    "desc": "可从随机的三个战术指令中选择一个获得",
+    "rarity": 1,
+    "icon": "material_treasure_tactics_skill_chest1",
+    "view_type": 4
+  },
+  {
+    "id": 44,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟技能",
+    "editor_name": "0.02宝箱",
+    "desc": "出击的角色中随机一人可领悟一个技能。",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 5
+  },
+  {
+    "id": 45,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟史诗技能",
+    "editor_name": "1.03小红小绿宝箱",
+    "desc": "出击的角色中随机一人可领悟一个史诗级技能。",
+    "rarity": 3,
+    "icon": "material_treasure_chest3",
+    "view_type": 5
+  },
+  {
+    "id": 46,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟技能",
+    "editor_name": "0.01&1.01主角宝箱",
+    "desc": "出击的角色中随机一人可领悟一个技能。",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 5
+  },
+  {
+    "id": 47,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟普通技能",
+    "editor_name": "1.02拉维耶宝箱",
+    "desc": "出击的角色中随机一人可领悟一个普通级技能。",
+    "rarity": 1,
+    "icon": "material_treasure_chest1",
+    "view_type": 5
+  },
+  {
+    "id": 48,
+    "m_treasure_chest_bonuss": [],
+    "name": "骑士同盟特殊武器蓝图",
+    "editor_name": "骑士团特殊武器蓝图SR",
+    "desc": "随机获得一张特殊武器蓝图。",
+    "rarity": 3,
+    "icon": "material_treasure_blueprint_chest3",
+    "view_type": 2
+  },
+  {
+    "id": 49,
+    "m_treasure_chest_bonuss": [],
+    "name": "锻造蓝图传说",
+    "editor_name": "锻造蓝图SSR（废弃）",
+    "desc": "随机获得一张传说品质武器蓝图。",
+    "rarity": 4,
+    "icon": "material_treasure_blueprint_chest4",
+    "view_type": 2
+  },
+  {
+    "id": 50,
+    "m_treasure_chest_bonuss": [],
+    "name": "骑士同盟神器蓝图",
+    "editor_name": "骑士团神器蓝图SSR",
+    "desc": "随机获得一张神器武器蓝图。",
+    "rarity": 4,
+    "icon": "material_treasure_blueprint_chest4",
+    "view_type": 2
+  },
+  {
+    "id": 51,
+    "m_treasure_chest_bonuss": [],
+    "name": "骑士同盟设施升级-亲密",
+    "editor_name": "骑士团亲密科技奖励（废弃）",
+    "desc": "骑士团亲密科技奖励",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "view_type": 3
+  },
+  {
+    "id": 52,
+    "m_treasure_chest_bonuss": [],
+    "name": "骑士同盟补给-盟友",
+    "editor_name": "骑士团盟友科技奖励（废弃）",
+    "desc": "骑士团盟友科技奖励",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "view_type": 3
+  },
+  {
+    "id": 53,
+    "m_treasure_chest_bonuss": [],
+    "name": "行会评级银奖励",
+    "editor_name": "行会评级招募B级奖励科技",
+    "desc": "行会评级银设施奖励",
+    "rarity": 4,
+    "icon": "material_treasure_random_tech_chest4",
+    "view_type": 3
+  },
+  {
+    "id": 54,
+    "m_treasure_chest_bonuss": [],
+    "name": "行会评募金奖励",
+    "editor_name": "行会评级招募A级奖励科技",
+    "desc": "行会评级金设施奖励",
+    "rarity": 4,
+    "icon": "material_treasure_random_tech_chest4",
+    "view_type": 3
+  },
+  {
+    "id": 57,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说特殊训练宝箱",
+    "editor_name": "AT2-SSR级训练被动宝箱 骑士团",
+    "desc": "可从随机的三个传说特殊训练中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_faction_skill_chest4",
+    "view_type": 6
+  },
+  {
+    "id": 61,
+    "m_treasure_chest_bonuss": [],
+    "name": "技能自选宝箱",
+    "editor_name": "共通P1拉维耶宝箱",
+    "desc": "出击的角色中随机一人可领悟一个稀有级技能。",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 5
+  },
+  {
+    "id": 63,
+    "m_treasure_chest_bonuss": [],
+    "name": "指定职业技能测试",
+    "editor_name": "指定职业技能测试",
+    "desc": "指定一个技能，玩家选择角色列表中的角色进行学习",
+    "rarity": 4,
+    "icon": "material_treasure_skill_result4",
+    "view_type": 1
+  },
+  {
+    "id": 64,
+    "m_treasure_chest_bonuss": [],
+    "name": "战术指令宝箱",
+    "editor_name": "AT1-佣兵团演习",
+    "desc": "获得一个特定的战术指令",
+    "rarity": 1,
+    "icon": "material_treasure_tactics_skill_chest3",
+    "view_type": 4
+  },
+  {
+    "id": 65,
+    "m_treasure_chest_bonuss": [],
+    "name": "随机武器宝箱",
+    "editor_name": "AT1-难民到来",
+    "desc": "获得一把史诗稀有度的随机武器",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 1
+  },
+  {
+    "id": 66,
+    "m_treasure_chest_bonuss": [],
+    "name": "随机佣兵选择",
+    "editor_name": "AT1-训练完成",
+    "desc": "获得一个随机佣兵",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 1
+  },
+  {
+    "id": 68,
+    "m_treasure_chest_bonuss": [],
+    "name": "随机佣兵选择",
+    "editor_name": "AT1-三周目训练完成",
+    "desc": "获得一个随机佣兵",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 1
+  },
+  {
+    "id": 85,
+    "m_treasure_chest_bonuss": [],
+    "name": "战术指令 - 干粮补给",
+    "editor_name": "QV1-N级战术技能-干粮补给",
+    "desc": "获得战术指令“补充干粮”。",
+    "rarity": 1,
+    "icon": "material_treasure_tactics_skill_chest1",
+    "view_type": 4
+  },
+  {
+    "id": 86,
+    "m_treasure_chest_bonuss": [],
+    "name": "指定战术技能宝箱测试",
+    "editor_name": "指定战术技能宝箱测试",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_tactics_skill_chest4",
+    "view_type": 4
+  },
+  {
+    "id": 94,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗设施升级宝箱",
+    "editor_name": "AT2-SR级科技奖励宝箱",
+    "desc": "可从随机的三个史诗设施升级中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_random_tech_chest3",
+    "view_type": 3
+  },
+  {
+    "id": 95,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英设施升级宝箱",
+    "editor_name": "AT2-R级科技奖励宝箱",
+    "desc": "可从随机的三个精英设施升级中选择一个获得，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_random_tech_chest2",
+    "view_type": 3
+  },
+  {
+    "id": 96,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说设施升级宝箱",
+    "editor_name": "AT2-SSR级科技奖励宝箱",
+    "desc": "可从随机的三个传说设施升级中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_random_tech_chest4",
+    "view_type": 3
+  },
+  {
+    "id": 97,
+    "m_treasure_chest_bonuss": [],
+    "name": "普通设施升级宝箱",
+    "editor_name": "AT2-N级科技奖励宝箱",
+    "desc": "可以从随机的三个普通设施升级中选择一个获得，祝你好运。",
+    "rarity": 1,
+    "icon": "material_treasure_random_tech_chest1",
+    "view_type": 3
+  },
+  {
+    "id": 101,
+    "m_treasure_chest_bonuss": [],
+    "name": "佣兵团中级训练",
+    "editor_name": "AT2-派遣 佣兵团经验（中）（空包）",
+    "desc": "派遣佣兵参与中级训练，可获取大量佣兵团经验。",
+    "rarity": 3,
+    "icon": "material_treasure_tactics_skill_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 102,
+    "m_treasure_chest_bonuss": [],
+    "name": "佣兵团高级训练",
+    "editor_name": "AT2-派遣 佣兵团经验（多）（空包）",
+    "desc": "派遣佣兵参与高级训练，可获取一定佣兵团经验。",
+    "rarity": 4,
+    "icon": "material_treasure_tactics_skill_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 105,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗锻造设施升级宝箱",
+    "editor_name": "AT2-SR级锻造科技奖励宝箱",
+    "desc": "可从随机的三个锻造相关的史诗设施升级中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_random_tech_chest3",
+    "view_type": 3
+  },
+  {
+    "id": 106,
+    "m_treasure_chest_bonuss": [],
+    "name": "十字路的战利品",
+    "editor_name": "AT2-十字路口的战利品",
+    "desc": "战场上的意外收获，只有获胜者能够得到它。",
+    "rarity": 3,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 3
+  },
+  {
+    "id": 107,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗级锻造科技奖励宝箱",
+    "editor_name": "AT2-SR级锻造科技奖励宝箱（废弃）",
+    "desc": "可从随机的三个史诗科技中选择一个获得",
+    "rarity": 3,
+    "icon": "material_treasure_tech_chest3",
+    "view_type": 3
+  },
+  {
+    "id": 108,
+    "m_treasure_chest_bonuss": [],
+    "name": "会战的战利品",
+    "editor_name": "AT2-会战的战利品",
+    "desc": "一些战场上可能缴获的战利品，只有赢家才能够得到它。",
+    "rarity": 3,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 3
+  },
+  {
+    "id": 109,
+    "m_treasure_chest_bonuss": [],
+    "name": "领悟技能",
+    "editor_name": "0.03宝箱",
+    "desc": "出击的角色中随机一人可领悟一个技能。",
+    "rarity": 2,
+    "icon": "material_treasure_chest3",
+    "view_type": 5
+  },
+  {
+    "id": 110,
+    "m_treasure_chest_bonuss": [],
+    "name": "泽维尔的认可",
+    "editor_name": "AT2-泽维尔的认可",
+    "desc": "完成战斗，得到泽维尔的肯定。",
+    "rarity": 3,
+    "icon": "material_treasure_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 111,
+    "m_treasure_chest_bonuss": [],
+    "name": "泰登的感谢",
+    "editor_name": "AT2-泰登的感谢",
+    "desc": "完成战斗，得到泰登的感谢。",
+    "rarity": 3,
+    "icon": "material_treasure_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 113,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英武器宝箱",
+    "editor_name": "CB1-R级主武器奖励宝箱",
+    "desc": "可从随机的三个精英武器中选择一个获得，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 1
+  },
+  {
+    "id": 114,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英装具宝箱",
+    "editor_name": "CB1-R级副武器奖励宝箱",
+    "desc": "可从随机的三个精英装具中选择一个获得，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_chest2",
+    "view_type": 1
+  },
+  {
+    "id": 115,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗武器宝箱",
+    "editor_name": "CB1-SR级主武器奖励宝箱",
+    "desc": "可从随机的三个史诗武器中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 117,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗装具宝箱",
+    "editor_name": "CB1-SR级副武器奖励宝箱",
+    "desc": "可从随机的三个史诗装具中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 118,
+    "m_treasure_chest_bonuss": [],
+    "name": "贝拉的百宝箱",
+    "editor_name": "CB1-R级百宝箱",
+    "desc": "贝拉准备的一些特别礼物，可以从三个精英神秘物品中选择一个。",
+    "rarity": 2,
+    "icon": "material_treasure_beryl_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 121,
+    "m_treasure_chest_bonuss": [],
+    "name": "贝拉的珍贵百宝箱",
+    "editor_name": "CB1-SR级百宝箱",
+    "desc": "贝拉准备的一些特别礼物，可以从三个史诗神秘物品中选择一个。",
+    "rarity": 3,
+    "icon": "material_treasure_beryl_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 122,
+    "m_treasure_chest_bonuss": [],
+    "name": "贝拉的超级百宝箱",
+    "editor_name": "CB1-SSR级百宝箱",
+    "desc": "贝拉准备的一些特别礼物，可以从三个传说神秘物品中选择一个。",
+    "rarity": 4,
+    "icon": "material_treasure_beryl_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 123,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说特殊训练宝箱",
+    "editor_name": "AT2-SSR级训练被动宝箱 伊利亚",
+    "desc": "可从随机的三个传说特殊训练中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_faction_skill_chest4",
+    "view_type": 6
+  },
+  {
+    "id": 124,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英装备宝箱",
+    "editor_name": "CB1-R级装备奖励宝箱",
+    "desc": "可从随机的三个精英武器或装具中选择一个获得，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_weapon_chest2",
+    "view_type": 1
+  },
+  {
+    "id": 125,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗装备宝箱",
+    "editor_name": "CB1-SR级装备奖励宝箱",
+    "desc": "可从随机的三个史诗武器或装具中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_weapon_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 126,
+    "m_treasure_chest_bonuss": [],
+    "name": "普通装备宝箱",
+    "editor_name": "CB1-N级装备奖励宝箱",
+    "desc": "可从随机的三个普通级武器或装具中选择一个获得，祝你好运。",
+    "rarity": 1,
+    "icon": "material_treasure_weapon_chest1",
+    "view_type": 1
+  },
+  {
+    "id": 127,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说装备宝箱",
+    "editor_name": "CB1-SSR级装备奖励宝箱",
+    "desc": "可从随机的三个传说武器或装具中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 128,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说武器宝箱",
+    "editor_name": "CB1-SSR级武器奖励宝箱",
+    "desc": "可从随机的三个传说武器中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 129,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说装具宝箱",
+    "editor_name": "CB1-SSR级装具奖励宝箱",
+    "desc": "可从随机的三个传说装具中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_weapon_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 130,
+    "m_treasure_chest_bonuss": [],
+    "name": "薇尔德佣兵招募",
+    "editor_name": "CB2-定制薇尔德招募SSR",
+    "desc": "将会有一个传说薇尔德佣兵加入铃兰之剑，与你们并肩作战。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest4",
+    "view_type": 1
+  },
+  {
+    "id": 131,
+    "m_treasure_chest_bonuss": [],
+    "name": "萨曼莎的圣物",
+    "editor_name": "CB2-法皇国圣物自选宝箱",
+    "desc": "从萨曼莎拥有的圣物中选取一件，置于庇护所内。",
+    "rarity": 4,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 132,
+    "m_treasure_chest_bonuss": [],
+    "name": "货运安全承包",
+    "editor_name": "CB2-自选材料奖励",
+    "desc": "获得大量的资源补给。",
+    "rarity": 3,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 133,
+    "m_treasure_chest_bonuss": [],
+    "name": "高效工作",
+    "editor_name": "CB2-自选CD科技包",
+    "desc": "提升指定设施的工作效率。",
+    "rarity": 3,
+    "icon": "material_treasure_tech_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 134,
+    "m_treasure_chest_bonuss": [],
+    "name": "普通设施升级宝箱",
+    "editor_name": "N级科技奖励宝箱-埃拉曼线用",
+    "desc": "可以从随机的三个普通设施升级中选择一个获得，祝你好运。",
+    "rarity": 1,
+    "icon": "material_treasure_random_tech_chest1",
+    "view_type": 3
+  },
+  {
+    "id": 135,
+    "m_treasure_chest_bonuss": [],
+    "name": "精英设施升级宝箱",
+    "editor_name": "R级科技奖励宝箱-埃拉曼线用",
+    "desc": "可从随机的三个精英设施升级中选择一个获得，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_random_tech_chest2",
+    "view_type": 3
+  },
+  {
+    "id": 136,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗设施升级宝箱",
+    "editor_name": "SR级科技奖励宝箱-埃拉曼线用",
+    "desc": "可从随机的三个史诗设施升级中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_random_tech_chest3",
+    "view_type": 3
+  },
+  {
+    "id": 137,
+    "m_treasure_chest_bonuss": [],
+    "name": "传说设施升级宝箱",
+    "editor_name": "SSR级科技奖励宝箱-埃拉曼线用",
+    "desc": "可从随机的三个传说设施升级中选择一个获得，祝你好运。",
+    "rarity": 4,
+    "icon": "material_treasure_random_tech_chest4",
+    "view_type": 3
+  },
+  {
+    "id": 138,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励基础-自选材料组-自选宝箱1",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 139,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励基础-自选材料组-自选宝箱2",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 140,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励基础-自选材料组-自选宝箱3",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 141,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励基础-自选材料组-自选宝箱4",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 142,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励基础-自选材料组-自选宝箱5",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 143,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励发展-自选材料组-自选宝箱1",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 144,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励发展-自选材料组-自选宝箱2",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 145,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励发展-自选材料组-自选宝箱3",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 146,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励发展-自选材料组-自选宝箱4",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 147,
+    "m_treasure_chest_bonuss": [],
+    "name": "小镇建设材料",
+    "editor_name": "商会-订单-经营奖励发展-自选材料组-自选宝箱5",
+    "desc": "从建设小镇的材料中选择1种获取。",
+    "rarity": 2,
+    "icon": "material_treasure_random_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 148,
+    "m_treasure_chest_bonuss": [],
+    "name": "史诗武器宝箱",
+    "editor_name": "SR级武器奖励宝箱-埃拉曼线用",
+    "desc": "可从随机的三个史诗武器或装具中选择一个获得，祝你好运。",
+    "rarity": 3,
+    "icon": "material_treasure_chest3",
+    "view_type": 1
+  },
+  {
+    "id": 149,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-浪涌城-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 150,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-浪涌城-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 151,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-浪涌城-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 152,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-浪涌城-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 153,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-浪涌城-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的全部盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 154,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-浪涌城-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的全部盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 155,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-浪涌城-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的全部盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 156,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-浪涌城-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的全部盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 157,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-风谷镇-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 158,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-风谷镇-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 159,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-风谷镇-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 160,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-风谷镇-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 161,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-风谷镇-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 162,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-风谷镇-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 163,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-风谷镇-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 164,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-风谷镇-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 165,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-矿坑城-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 166,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-矿坑城-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 167,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-矿坑城-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 168,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-矿坑城-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 169,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-矿坑城-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 170,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-矿坑城-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 171,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-矿坑城-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 172,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-矿坑城-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 173,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-拉比亚绿洲-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 174,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-拉比亚绿洲-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 175,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-拉比亚绿洲-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 176,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-拉比亚绿洲-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 177,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-拉比亚绿洲-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 178,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-拉比亚绿洲-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 179,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-拉比亚绿洲-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 180,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-拉比亚绿洲-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 181,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-晨曦堡-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 182,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-晨曦堡-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 183,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-晨曦堡-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 184,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-晨曦堡-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 185,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-晨曦堡-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 186,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-晨曦堡-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 187,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-晨曦堡-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 188,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-晨曦堡-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 189,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-薇尔德部族-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 190,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-薇尔德部族-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 191,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-薇尔德部族-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 192,
+    "m_treasure_chest_bonuss": [],
+    "name": "基础自选货物",
+    "editor_name": "商会-订单-货物奖励-基础-薇尔德部族-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "material_treasure_selectable_props_chest_1",
+    "view_type": 1
+  },
+  {
+    "id": 193,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-薇尔德部族-自选组-奖励宝箱2",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 194,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-薇尔德部族-自选组-奖励宝箱3",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 195,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-薇尔德部族-自选组-奖励宝箱4",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  },
+  {
+    "id": 196,
+    "m_treasure_chest_bonuss": [],
+    "name": "高级自选货物",
+    "editor_name": "商会-订单-货物奖励-发展-薇尔德部族-自选组-奖励宝箱5",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "material_treasure_selectable_props_chest_2",
+    "view_type": 1
+  }
+]

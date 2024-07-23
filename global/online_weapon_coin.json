@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "光辉晶尘",
+    "editor_name": "武器拆解货币",
+    "desc": "通过拆解史诗级以下装备得到，可以在装备商店中兑换商品。",
+    "rarity": 3,
+    "icon": "material_onlineweaponcoin_sr"
+  },
+  {
+    "id": 2,
+    "name": "光辉晶核",
+    "editor_name": "高级武器拆解货币",
+    "desc": "通过拆解传说级装备得到，可以在装备商店中兑换商品。",
+    "rarity": 4,
+    "icon": "material_onlineweaponcoin_ssr"
+  }
+]

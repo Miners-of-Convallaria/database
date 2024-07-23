@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "m_system_redirects": [],
+    "name": "测试奖励预览",
+    "editor_name": "沙盒测试奖励预览",
+    "desc": "测试奖励预览的描述",
+    "rarity": 1,
+    "icon": "random_chest4",
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "system_redirect_ids": ""
+  },
+  {
+    "id": 2,
+    "m_system_redirects": [],
+    "name": "基础盛产货物",
+    "editor_name": "普通盛产货物_显示",
+    "desc": "从当前贸易地点的基础盛产货物中随机获取。",
+    "rarity": 2,
+    "icon": "random_props_chest_1",
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "system_redirect_ids": ""
+  },
+  {
+    "id": 3,
+    "m_system_redirects": [],
+    "name": "高级盛产货物",
+    "editor_name": "高级盛产货物_显示",
+    "desc": "从当前贸易地点的全部盛产货物中随机获取。",
+    "rarity": 3,
+    "icon": "random_props_chest_2",
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "system_redirect_ids": ""
+  },
+  {
+    "id": 4,
+    "m_system_redirects": [],
+    "name": "基础自选货物",
+    "editor_name": "普通自选货物_显示",
+    "desc": "从当前贸易地点的基础盛产货物中选择1组获取。",
+    "rarity": 2,
+    "icon": "selectable_props_chest_1",
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "system_redirect_ids": ""
+  },
+  {
+    "id": 5,
+    "m_system_redirects": [],
+    "name": "高级自选货物",
+    "editor_name": "高级自选货物_显示",
+    "desc": "从当前贸易地点的全部盛产货物中选择1组获取。",
+    "rarity": 3,
+    "icon": "selectable_props_chest_2",
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "system_redirect_ids": ""
+  }
+]

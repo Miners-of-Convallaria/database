@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "type": "OnlineTower",
+    "name": "爬塔数据",
+    "update_type": 2
+  },
+  {
+    "id": 2,
+    "type": "OnlineTech",
+    "name": "天赋数据",
+    "update_type": 1
+  },
+  {
+    "id": 3,
+    "type": "OnlineRoleFriendship",
+    "name": "角色羁绊数据",
+    "update_type": 1
+  },
+  {
+    "id": 4,
+    "type": "OnlineRevelation",
+    "name": "启示录数据",
+    "update_type": 2
+  },
+  {
+    "id": 5,
+    "type": "OnlineActivity",
+    "name": "日常本数据",
+    "update_type": 1
+  },
+  {
+    "id": 6,
+    "type": "System",
+    "name": "系统解锁数据",
+    "update_type": 1
+  },
+  {
+    "id": 7,
+    "type": "OnlineOperationActivity",
+    "name": "运营活动数据",
+    "update_type": 1
+  },
+  {
+    "id": 8,
+    "type": "SandboxEntrust",
+    "name": "沙盒委托数据",
+    "update_type": 2
+  },
+  {
+    "id": 9,
+    "type": "SandboxTraining",
+    "name": "沙盒训练数据",
+    "update_type": 2
+  },
+  {
+    "id": 10,
+    "type": "SandboxHospital",
+    "name": "沙盒疗养数据",
+    "update_type": 2
+  },
+  {
+    "id": 11,
+    "type": "SandboxTavern",
+    "name": "沙盒招募数据",
+    "update_type": 3
+  },
+  {
+    "id": 12,
+    "type": "SandboxSmithy",
+    "name": "沙盒锻造数据",
+    "update_type": 2
+  },
+  {
+    "id": 13,
+    "type": "SandboxWorkshop",
+    "name": "沙盒工坊数据",
+    "update_type": 2
+  },
+  {
+    "id": 14,
+    "type": "SandboxBlessingPrayer",
+    "name": "沙盒祈祷数据",
+    "update_type": 2
+  },
+  {
+    "id": 15,
+    "type": "SandboxBlessingBaptism  ",
+    "name": "沙盒洗礼数据",
+    "update_type": 2
+  },
+  {
+    "id": 16,
+    "type": "SandboxCommerce",
+    "name": "沙盒商会数据",
+    "update_type": 2
+  }
+]

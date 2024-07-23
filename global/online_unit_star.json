@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "count": 0,
+    "permillage_hp": 0,
+    "permillage_physic_attack": 0,
+    "permillage_spell_attack": 0,
+    "permillage_physic_defence": 0,
+    "permillage_spell_defence": 0
+  },
+  {
+    "id": 2,
+    "count": 20,
+    "permillage_hp": 30,
+    "permillage_physic_attack": 30,
+    "permillage_spell_attack": 30,
+    "permillage_physic_defence": 30,
+    "permillage_spell_defence": 30
+  },
+  {
+    "id": 3,
+    "count": 60,
+    "permillage_hp": 60,
+    "permillage_physic_attack": 60,
+    "permillage_spell_attack": 60,
+    "permillage_physic_defence": 60,
+    "permillage_spell_defence": 60
+  },
+  {
+    "id": 4,
+    "count": 100,
+    "permillage_hp": 90,
+    "permillage_physic_attack": 90,
+    "permillage_spell_attack": 90,
+    "permillage_physic_defence": 90,
+    "permillage_spell_defence": 90
+  },
+  {
+    "id": 5,
+    "count": 120,
+    "permillage_hp": 120,
+    "permillage_physic_attack": 120,
+    "permillage_spell_attack": 120,
+    "permillage_physic_defence": 120,
+    "permillage_spell_defence": 120
+  }
+]

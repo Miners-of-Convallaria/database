@@ -1,0 +1,4580 @@
+[
+  {
+    "id": 27,
+    "idunit_model": 3,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 31,
+    "idunit_model": 4,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 32,
+    "idunit_model": 4,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 33,
+    "idunit_model": 4,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 34,
+    "idunit_model": 4,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 35,
+    "idunit_model": 4,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 36,
+    "idunit_model": 4,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 37,
+    "idunit_model": 4,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 38,
+    "idunit_model": 4,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 39,
+    "idunit_model": 4,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 40,
+    "idunit_model": 4,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 41,
+    "idunit_model": 4,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 42,
+    "idunit_model": 5,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 43,
+    "idunit_model": 5,
+    "name": "1200",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 44,
+    "idunit_model": 5,
+    "name": "600",
+    "perform_sequence_id": 40
+  },
+  {
+    "id": 45,
+    "idunit_model": 5,
+    "name": "800_long",
+    "perform_sequence_id": 41
+  },
+  {
+    "id": 46,
+    "idunit_model": 5,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 52,
+    "idunit_model": 8,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 53,
+    "idunit_model": 8,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 54,
+    "idunit_model": 8,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 78,
+    "idunit_model": 15,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 79,
+    "idunit_model": 15,
+    "name": "盾击",
+    "perform_sequence_id": 24
+  },
+  {
+    "id": 88,
+    "idunit_model": 16,
+    "name": "面具割喉",
+    "perform_sequence_id": 432
+  },
+  {
+    "id": 89,
+    "idunit_model": 17,
+    "name": "first_hit",
+    "perform_sequence_id": 3
+  },
+  {
+    "id": 90,
+    "idunit_model": 17,
+    "name": "贯通震动",
+    "perform_sequence_id": 5
+  },
+  {
+    "id": 92,
+    "idunit_model": 17,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 94,
+    "idunit_model": 17,
+    "name": "副团长起跳",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 95,
+    "idunit_model": 17,
+    "name": "副团长冲锋突刺",
+    "perform_sequence_id": 54
+  },
+  {
+    "id": 96,
+    "idunit_model": 17,
+    "name": "副团长扬旗",
+    "perform_sequence_id": 55
+  },
+  {
+    "id": 97,
+    "idunit_model": 18,
+    "name": "first_hit",
+    "perform_sequence_id": 3
+  },
+  {
+    "id": 98,
+    "idunit_model": 18,
+    "name": "贯通震动",
+    "perform_sequence_id": 5
+  },
+  {
+    "id": 99,
+    "idunit_model": 18,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 100,
+    "idunit_model": 18,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 101,
+    "idunit_model": 18,
+    "name": "圣枪斩击",
+    "perform_sequence_id": 51
+  },
+  {
+    "id": 103,
+    "idunit_model": 19,
+    "name": "——alert",
+    "perform_sequence_id": 1
+  },
+  {
+    "id": 104,
+    "idunit_model": 19,
+    "name": "——alert_attack",
+    "perform_sequence_id": 2
+  },
+  {
+    "id": 105,
+    "idunit_model": 19,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 106,
+    "idunit_model": 19,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 107,
+    "idunit_model": 19,
+    "name": "attackback",
+    "perform_sequence_id": 26
+  },
+  {
+    "id": 108,
+    "idunit_model": 19,
+    "name": "skillcast1",
+    "perform_sequence_id": 30
+  },
+  {
+    "id": 109,
+    "idunit_model": 19,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 110,
+    "idunit_model": 19,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 111,
+    "idunit_model": 19,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 112,
+    "idunit_model": 19,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 113,
+    "idunit_model": 19,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 114,
+    "idunit_model": 19,
+    "name": "aoe_noskill",
+    "perform_sequence_id": 36
+  },
+  {
+    "id": 115,
+    "idunit_model": 19,
+    "name": "800+1000shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 116,
+    "idunit_model": 19,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 117,
+    "idunit_model": 19,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 118,
+    "idunit_model": 19,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 119,
+    "idunit_model": 20,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 120,
+    "idunit_model": 20,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 122,
+    "idunit_model": 21,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 123,
+    "idunit_model": 21,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 126,
+    "idunit_model": 22,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 135,
+    "idunit_model": 24,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 146,
+    "idunit_model": 26,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 147,
+    "idunit_model": 26,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 148,
+    "idunit_model": 26,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 149,
+    "idunit_model": 26,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 150,
+    "idunit_model": 26,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 151,
+    "idunit_model": 26,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 152,
+    "idunit_model": 26,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 153,
+    "idunit_model": 26,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 154,
+    "idunit_model": 26,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 155,
+    "idunit_model": 26,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 159,
+    "idunit_model": 28,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 160,
+    "idunit_model": 28,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 161,
+    "idunit_model": 28,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 162,
+    "idunit_model": 28,
+    "name": "周身自爆",
+    "perform_sequence_id": 42
+  },
+  {
+    "id": 164,
+    "idunit_model": 28,
+    "name": "蓄力直线1500",
+    "perform_sequence_id": 47
+  },
+  {
+    "id": 165,
+    "idunit_model": 29,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 166,
+    "idunit_model": 29,
+    "name": "600",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 167,
+    "idunit_model": 29,
+    "name": "1200",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 168,
+    "idunit_model": 29,
+    "name": "800_long",
+    "perform_sequence_id": 41
+  },
+  {
+    "id": 169,
+    "idunit_model": 29,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 176,
+    "idunit_model": 31,
+    "name": "背刺",
+    "perform_sequence_id": 11
+  },
+  {
+    "id": 180,
+    "idunit_model": 31,
+    "name": "舞娘瞬移",
+    "perform_sequence_id": 53
+  },
+  {
+    "id": 181,
+    "idunit_model": 31,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 182,
+    "idunit_model": 17,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 193,
+    "idunit_model": 20,
+    "name": "屏幕变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 199,
+    "idunit_model": 20,
+    "name": "变暗震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 200,
+    "idunit_model": 28,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 203,
+    "idunit_model": 10,
+    "name": "法师传送（目标）",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 217,
+    "idunit_model": 4,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 219,
+    "idunit_model": 4,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 220,
+    "idunit_model": 4,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 221,
+    "idunit_model": 26,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 222,
+    "idunit_model": 26,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 224,
+    "idunit_model": 26,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 225,
+    "idunit_model": 26,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 230,
+    "idunit_model": 19,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 231,
+    "idunit_model": 19,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 258,
+    "idunit_model": 32,
+    "name": "——alert",
+    "perform_sequence_id": 1
+  },
+  {
+    "id": 259,
+    "idunit_model": 32,
+    "name": "——alert_attack",
+    "perform_sequence_id": 2
+  },
+  {
+    "id": 260,
+    "idunit_model": 32,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 261,
+    "idunit_model": 32,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 262,
+    "idunit_model": 32,
+    "name": "attackback",
+    "perform_sequence_id": 26
+  },
+  {
+    "id": 263,
+    "idunit_model": 32,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 264,
+    "idunit_model": 32,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 265,
+    "idunit_model": 32,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 266,
+    "idunit_model": 32,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 267,
+    "idunit_model": 32,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 268,
+    "idunit_model": 32,
+    "name": "aoe_noskill",
+    "perform_sequence_id": 36
+  },
+  {
+    "id": 269,
+    "idunit_model": 32,
+    "name": "800+1000shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 270,
+    "idunit_model": 32,
+    "name": "skillcast1",
+    "perform_sequence_id": 30
+  },
+  {
+    "id": 271,
+    "idunit_model": 32,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 272,
+    "idunit_model": 32,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 273,
+    "idunit_model": 32,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 274,
+    "idunit_model": 32,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 275,
+    "idunit_model": 32,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 276,
+    "idunit_model": 32,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 278,
+    "idunit_model": 30,
+    "name": "暗步+攻击",
+    "perform_sequence_id": 85
+  },
+  {
+    "id": 279,
+    "idunit_model": 30,
+    "name": "前摇叮_快速",
+    "perform_sequence_id": 86
+  },
+  {
+    "id": 305,
+    "idunit_model": 5,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 306,
+    "idunit_model": 5,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 307,
+    "idunit_model": 5,
+    "name": "肾击",
+    "perform_sequence_id": 70
+  },
+  {
+    "id": 308,
+    "idunit_model": 5,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 309,
+    "idunit_model": 5,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 310,
+    "idunit_model": 5,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 311,
+    "idunit_model": 24,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 312,
+    "idunit_model": 24,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 313,
+    "idunit_model": 24,
+    "name": "周身自爆",
+    "perform_sequence_id": 42
+  },
+  {
+    "id": 314,
+    "idunit_model": 24,
+    "name": "法师传送（目标）",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 315,
+    "idunit_model": 24,
+    "name": "蓄力直线1500",
+    "perform_sequence_id": 47
+  },
+  {
+    "id": 316,
+    "idunit_model": 24,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 318,
+    "idunit_model": 8,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 319,
+    "idunit_model": 8,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 320,
+    "idunit_model": 8,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 321,
+    "idunit_model": 8,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 322,
+    "idunit_model": 8,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 323,
+    "idunit_model": 8,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 324,
+    "idunit_model": 8,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 325,
+    "idunit_model": 8,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 326,
+    "idunit_model": 8,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 327,
+    "idunit_model": 8,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 328,
+    "idunit_model": 8,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 329,
+    "idunit_model": 8,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 330,
+    "idunit_model": 8,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 331,
+    "idunit_model": 8,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 334,
+    "idunit_model": 24,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 336,
+    "idunit_model": 24,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 342,
+    "idunit_model": 24,
+    "name": "肾击",
+    "perform_sequence_id": 67
+  },
+  {
+    "id": 343,
+    "idunit_model": 24,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 344,
+    "idunit_model": 24,
+    "name": "背刺2",
+    "perform_sequence_id": 75
+  },
+  {
+    "id": 346,
+    "idunit_model": 19,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 347,
+    "idunit_model": 19,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 348,
+    "idunit_model": 19,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 349,
+    "idunit_model": 19,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 350,
+    "idunit_model": 28,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 351,
+    "idunit_model": 28,
+    "name": "变白",
+    "perform_sequence_id": 88
+  },
+  {
+    "id": 352,
+    "idunit_model": 28,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 353,
+    "idunit_model": 28,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 354,
+    "idunit_model": 28,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 356,
+    "idunit_model": 18,
+    "name": "——大招",
+    "perform_sequence_id": 50
+  },
+  {
+    "id": 360,
+    "idunit_model": 32,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 361,
+    "idunit_model": 32,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 362,
+    "idunit_model": 32,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 365,
+    "idunit_model": 24,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 376,
+    "idunit_model": 24,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 377,
+    "idunit_model": 24,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 383,
+    "idunit_model": 24,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 384,
+    "idunit_model": 24,
+    "name": "变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 390,
+    "idunit_model": 34,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 391,
+    "idunit_model": 34,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 392,
+    "idunit_model": 34,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 393,
+    "idunit_model": 34,
+    "name": "周身自爆",
+    "perform_sequence_id": 42
+  },
+  {
+    "id": 394,
+    "idunit_model": 34,
+    "name": "法师传送（目标）",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 395,
+    "idunit_model": 34,
+    "name": "蓄力直线1500",
+    "perform_sequence_id": 47
+  },
+  {
+    "id": 396,
+    "idunit_model": 34,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 397,
+    "idunit_model": 34,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 398,
+    "idunit_model": 34,
+    "name": "变白",
+    "perform_sequence_id": 88
+  },
+  {
+    "id": 399,
+    "idunit_model": 34,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 400,
+    "idunit_model": 34,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 401,
+    "idunit_model": 34,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 403,
+    "idunit_model": 34,
+    "name": "全体鼓舞",
+    "perform_sequence_id": 94
+  },
+  {
+    "id": 405,
+    "idunit_model": 8,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 411,
+    "idunit_model": 17,
+    "name": "BOSS落地烟",
+    "perform_sequence_id": 100
+  },
+  {
+    "id": 414,
+    "idunit_model": 18,
+    "name": "副团长起跳",
+    "perform_sequence_id": 335
+  },
+  {
+    "id": 415,
+    "idunit_model": 18,
+    "name": "副团长扬旗",
+    "perform_sequence_id": 454
+  },
+  {
+    "id": 418,
+    "idunit_model": 18,
+    "name": "BOSS大招",
+    "perform_sequence_id": 95
+  },
+  {
+    "id": 419,
+    "idunit_model": 18,
+    "name": "持枪大招",
+    "perform_sequence_id": 99
+  },
+  {
+    "id": 420,
+    "idunit_model": 18,
+    "name": "BOSS落地烟",
+    "perform_sequence_id": 100
+  },
+  {
+    "id": 459,
+    "idunit_model": 36,
+    "name": "小红助威",
+    "perform_sequence_id": 104
+  },
+  {
+    "id": 474,
+    "idunit_model": 21,
+    "name": "击退伤害子弹时间",
+    "perform_sequence_id": 111
+  },
+  {
+    "id": 480,
+    "idunit_model": 38,
+    "name": "attackback",
+    "perform_sequence_id": 26
+  },
+  {
+    "id": 483,
+    "idunit_model": 38,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 484,
+    "idunit_model": 38,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 485,
+    "idunit_model": 38,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 486,
+    "idunit_model": 38,
+    "name": "aoe_noskill",
+    "perform_sequence_id": 36
+  },
+  {
+    "id": 488,
+    "idunit_model": 38,
+    "name": "skillcast1",
+    "perform_sequence_id": 30
+  },
+  {
+    "id": 499,
+    "idunit_model": 36,
+    "name": "麦莎连击03",
+    "perform_sequence_id": 112
+  },
+  {
+    "id": 502,
+    "idunit_model": 38,
+    "name": "警戒射击",
+    "perform_sequence_id": 114
+  },
+  {
+    "id": 504,
+    "idunit_model": 19,
+    "name": "——警戒射击",
+    "perform_sequence_id": 114
+  },
+  {
+    "id": 505,
+    "idunit_model": 32,
+    "name": "警戒射击",
+    "perform_sequence_id": 114
+  },
+  {
+    "id": 506,
+    "idunit_model": 38,
+    "name": "启动警戒射击",
+    "perform_sequence_id": 115
+  },
+  {
+    "id": 507,
+    "idunit_model": 38,
+    "name": "复仇之箭",
+    "perform_sequence_id": 117
+  },
+  {
+    "id": 508,
+    "idunit_model": 36,
+    "name": "麦莎连击01",
+    "perform_sequence_id": 121
+  },
+  {
+    "id": 509,
+    "idunit_model": 36,
+    "name": "麦莎连击04",
+    "perform_sequence_id": 124
+  },
+  {
+    "id": 522,
+    "idunit_model": 40,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 523,
+    "idunit_model": 40,
+    "name": "1200",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 524,
+    "idunit_model": 40,
+    "name": "600",
+    "perform_sequence_id": 40
+  },
+  {
+    "id": 525,
+    "idunit_model": 40,
+    "name": "800_long",
+    "perform_sequence_id": 41
+  },
+  {
+    "id": 526,
+    "idunit_model": 40,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 527,
+    "idunit_model": 40,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 528,
+    "idunit_model": 40,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 529,
+    "idunit_model": 40,
+    "name": "肾击",
+    "perform_sequence_id": 70
+  },
+  {
+    "id": 530,
+    "idunit_model": 40,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 531,
+    "idunit_model": 40,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 532,
+    "idunit_model": 40,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 533,
+    "idunit_model": 40,
+    "name": "拔刀斩测试",
+    "perform_sequence_id": 126
+  },
+  {
+    "id": 535,
+    "idunit_model": 41,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 536,
+    "idunit_model": 41,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 543,
+    "idunit_model": 41,
+    "name": "拉维耶冲锋卡肉",
+    "perform_sequence_id": 111
+  },
+  {
+    "id": 558,
+    "idunit_model": 43,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 600,
+    "idunit_model": 46,
+    "name": "alert",
+    "perform_sequence_id": 1
+  },
+  {
+    "id": 601,
+    "idunit_model": 46,
+    "name": "alert_attack",
+    "perform_sequence_id": 2
+  },
+  {
+    "id": 603,
+    "idunit_model": 46,
+    "name": "attackback",
+    "perform_sequence_id": 26
+  },
+  {
+    "id": 606,
+    "idunit_model": 46,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 607,
+    "idunit_model": 46,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 618,
+    "idunit_model": 46,
+    "name": "shadow_step",
+    "perform_sequence_id": 85
+  },
+  {
+    "id": 619,
+    "idunit_model": 47,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 620,
+    "idunit_model": 47,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 621,
+    "idunit_model": 47,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 622,
+    "idunit_model": 47,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 623,
+    "idunit_model": 47,
+    "name": "肾击",
+    "perform_sequence_id": 67
+  },
+  {
+    "id": 624,
+    "idunit_model": 47,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 625,
+    "idunit_model": 47,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 626,
+    "idunit_model": 47,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 627,
+    "idunit_model": 47,
+    "name": "拉维耶冲锋卡肉",
+    "perform_sequence_id": 111
+  },
+  {
+    "id": 628,
+    "idunit_model": 47,
+    "name": "透明遮罩",
+    "perform_sequence_id": 129
+  },
+  {
+    "id": 629,
+    "idunit_model": 48,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 630,
+    "idunit_model": 48,
+    "name": "1200",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 631,
+    "idunit_model": 48,
+    "name": "600",
+    "perform_sequence_id": 40
+  },
+  {
+    "id": 632,
+    "idunit_model": 48,
+    "name": "800_long",
+    "perform_sequence_id": 41
+  },
+  {
+    "id": 633,
+    "idunit_model": 48,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 634,
+    "idunit_model": 48,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 635,
+    "idunit_model": 48,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 636,
+    "idunit_model": 48,
+    "name": "肾击",
+    "perform_sequence_id": 70
+  },
+  {
+    "id": 637,
+    "idunit_model": 48,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 638,
+    "idunit_model": 48,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 639,
+    "idunit_model": 48,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 640,
+    "idunit_model": 49,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 641,
+    "idunit_model": 49,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 642,
+    "idunit_model": 49,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 643,
+    "idunit_model": 49,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 644,
+    "idunit_model": 49,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 645,
+    "idunit_model": 49,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 646,
+    "idunit_model": 49,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 647,
+    "idunit_model": 49,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 648,
+    "idunit_model": 49,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 649,
+    "idunit_model": 49,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 650,
+    "idunit_model": 49,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 651,
+    "idunit_model": 49,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 652,
+    "idunit_model": 49,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 653,
+    "idunit_model": 49,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 654,
+    "idunit_model": 49,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 655,
+    "idunit_model": 49,
+    "name": "——远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 656,
+    "idunit_model": 49,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 657,
+    "idunit_model": 49,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 659,
+    "idunit_model": 47,
+    "name": "神怒变身",
+    "perform_sequence_id": 134
+  },
+  {
+    "id": 687,
+    "idunit_model": 37,
+    "name": "aoe_noskill",
+    "perform_sequence_id": 36
+  },
+  {
+    "id": 689,
+    "idunit_model": 37,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 691,
+    "idunit_model": 37,
+    "name": "背刺",
+    "perform_sequence_id": 75
+  },
+  {
+    "id": 692,
+    "idunit_model": 37,
+    "name": "影分身回收",
+    "perform_sequence_id": 127
+  },
+  {
+    "id": 693,
+    "idunit_model": 37,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 695,
+    "idunit_model": 37,
+    "name": "残像",
+    "perform_sequence_id": 138
+  },
+  {
+    "id": 697,
+    "idunit_model": 30,
+    "name": "aoe_noskill",
+    "perform_sequence_id": 36
+  },
+  {
+    "id": 699,
+    "idunit_model": 30,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 701,
+    "idunit_model": 30,
+    "name": "背刺",
+    "perform_sequence_id": 75
+  },
+  {
+    "id": 702,
+    "idunit_model": 30,
+    "name": "影分身回收",
+    "perform_sequence_id": 127
+  },
+  {
+    "id": 703,
+    "idunit_model": 30,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 705,
+    "idunit_model": 30,
+    "name": "残像",
+    "perform_sequence_id": 138
+  },
+  {
+    "id": 708,
+    "idunit_model": 51,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 713,
+    "idunit_model": 51,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 714,
+    "idunit_model": 51,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 715,
+    "idunit_model": 51,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 716,
+    "idunit_model": 31,
+    "name": "雪之舞",
+    "perform_sequence_id": 164
+  },
+  {
+    "id": 717,
+    "idunit_model": 51,
+    "name": "二泉映月",
+    "perform_sequence_id": 134
+  },
+  {
+    "id": 733,
+    "idunit_model": 53,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 734,
+    "idunit_model": 53,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 735,
+    "idunit_model": 53,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 736,
+    "idunit_model": 53,
+    "name": "周身自爆",
+    "perform_sequence_id": 42
+  },
+  {
+    "id": 737,
+    "idunit_model": 53,
+    "name": "法师传送（目标）",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 738,
+    "idunit_model": 53,
+    "name": "蓄力直线1500",
+    "perform_sequence_id": 47
+  },
+  {
+    "id": 739,
+    "idunit_model": 53,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 740,
+    "idunit_model": 53,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 741,
+    "idunit_model": 53,
+    "name": "变白",
+    "perform_sequence_id": 88
+  },
+  {
+    "id": 742,
+    "idunit_model": 53,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 743,
+    "idunit_model": 53,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 744,
+    "idunit_model": 53,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 745,
+    "idunit_model": 53,
+    "name": "全体鼓舞",
+    "perform_sequence_id": 94
+  },
+  {
+    "id": 746,
+    "idunit_model": 31,
+    "name": "主动瞬移",
+    "perform_sequence_id": 53
+  },
+  {
+    "id": 747,
+    "idunit_model": 51,
+    "name": "屏幕变红",
+    "perform_sequence_id": 65
+  },
+  {
+    "id": 751,
+    "idunit_model": 20,
+    "name": "主动瞬移",
+    "perform_sequence_id": 144
+  },
+  {
+    "id": 752,
+    "idunit_model": 20,
+    "name": "目标传送",
+    "perform_sequence_id": 145
+  },
+  {
+    "id": 754,
+    "idunit_model": 28,
+    "name": "主动瞬移",
+    "perform_sequence_id": 151
+  },
+  {
+    "id": 755,
+    "idunit_model": 28,
+    "name": "目标传送",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 757,
+    "idunit_model": 53,
+    "name": "主动瞬移",
+    "perform_sequence_id": 151
+  },
+  {
+    "id": 758,
+    "idunit_model": 53,
+    "name": "目标传送",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 759,
+    "idunit_model": 24,
+    "name": "主动瞬移",
+    "perform_sequence_id": 151
+  },
+  {
+    "id": 760,
+    "idunit_model": 24,
+    "name": "目标传送",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 761,
+    "idunit_model": 64,
+    "name": "——alert",
+    "perform_sequence_id": 1
+  },
+  {
+    "id": 762,
+    "idunit_model": 64,
+    "name": "——alert_attack",
+    "perform_sequence_id": 2
+  },
+  {
+    "id": 763,
+    "idunit_model": 64,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 765,
+    "idunit_model": 64,
+    "name": "attackback",
+    "perform_sequence_id": 26
+  },
+  {
+    "id": 766,
+    "idunit_model": 64,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 767,
+    "idunit_model": 64,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 768,
+    "idunit_model": 64,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 769,
+    "idunit_model": 64,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 770,
+    "idunit_model": 64,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 771,
+    "idunit_model": 64,
+    "name": "aoe_noskill",
+    "perform_sequence_id": 36
+  },
+  {
+    "id": 772,
+    "idunit_model": 64,
+    "name": "800+1000shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 773,
+    "idunit_model": 64,
+    "name": "skillcast1",
+    "perform_sequence_id": 30
+  },
+  {
+    "id": 774,
+    "idunit_model": 64,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 775,
+    "idunit_model": 64,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 776,
+    "idunit_model": 64,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 777,
+    "idunit_model": 64,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 778,
+    "idunit_model": 64,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 779,
+    "idunit_model": 64,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 780,
+    "idunit_model": 64,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 781,
+    "idunit_model": 64,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 782,
+    "idunit_model": 64,
+    "name": "警戒射击",
+    "perform_sequence_id": 114
+  },
+  {
+    "id": 783,
+    "idunit_model": 16,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 787,
+    "idunit_model": 65,
+    "name": "1200",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 788,
+    "idunit_model": 65,
+    "name": "600",
+    "perform_sequence_id": 40
+  },
+  {
+    "id": 789,
+    "idunit_model": 65,
+    "name": "800_long",
+    "perform_sequence_id": 41
+  },
+  {
+    "id": 790,
+    "idunit_model": 65,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 791,
+    "idunit_model": 65,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 792,
+    "idunit_model": 65,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 793,
+    "idunit_model": 65,
+    "name": "肾击",
+    "perform_sequence_id": 70
+  },
+  {
+    "id": 794,
+    "idunit_model": 65,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 795,
+    "idunit_model": 65,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 796,
+    "idunit_model": 65,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 797,
+    "idunit_model": 63,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 798,
+    "idunit_model": 63,
+    "name": "600",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 799,
+    "idunit_model": 63,
+    "name": "1200",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 800,
+    "idunit_model": 63,
+    "name": "800_long",
+    "perform_sequence_id": 41
+  },
+  {
+    "id": 801,
+    "idunit_model": 63,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 802,
+    "idunit_model": 63,
+    "name": "变暗震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 803,
+    "idunit_model": 63,
+    "name": "时间节点测试",
+    "perform_sequence_id": 101
+  },
+  {
+    "id": 804,
+    "idunit_model": 63,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 812,
+    "idunit_model": 27,
+    "name": "变蓝",
+    "perform_sequence_id": 68
+  },
+  {
+    "id": 813,
+    "idunit_model": 27,
+    "name": "冰自爆",
+    "perform_sequence_id": 79
+  },
+  {
+    "id": 818,
+    "idunit_model": 27,
+    "name": "主动瞬移",
+    "perform_sequence_id": 157
+  },
+  {
+    "id": 819,
+    "idunit_model": 27,
+    "name": "目标传送",
+    "perform_sequence_id": 158
+  },
+  {
+    "id": 820,
+    "idunit_model": 47,
+    "name": "背刺",
+    "perform_sequence_id": 75
+  },
+  {
+    "id": 821,
+    "idunit_model": 32,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 823,
+    "idunit_model": 34,
+    "name": "主动瞬移",
+    "perform_sequence_id": 151
+  },
+  {
+    "id": 824,
+    "idunit_model": 34,
+    "name": "目标传送",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 826,
+    "idunit_model": 46,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 828,
+    "idunit_model": 70,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 829,
+    "idunit_model": 70,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 830,
+    "idunit_model": 70,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 831,
+    "idunit_model": 70,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 832,
+    "idunit_model": 70,
+    "name": "肾击",
+    "perform_sequence_id": 70
+  },
+  {
+    "id": 833,
+    "idunit_model": 70,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 834,
+    "idunit_model": 70,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 835,
+    "idunit_model": 70,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 836,
+    "idunit_model": 71,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 837,
+    "idunit_model": 71,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 845,
+    "idunit_model": 72,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 846,
+    "idunit_model": 72,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 847,
+    "idunit_model": 72,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 848,
+    "idunit_model": 72,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 849,
+    "idunit_model": 72,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 850,
+    "idunit_model": 72,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 851,
+    "idunit_model": 72,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 852,
+    "idunit_model": 72,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 853,
+    "idunit_model": 72,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 854,
+    "idunit_model": 72,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 855,
+    "idunit_model": 72,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 856,
+    "idunit_model": 72,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 858,
+    "idunit_model": 72,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 859,
+    "idunit_model": 72,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 860,
+    "idunit_model": 31,
+    "name": "火之舞",
+    "perform_sequence_id": 165
+  },
+  {
+    "id": 861,
+    "idunit_model": 5,
+    "name": "新版震动测试",
+    "perform_sequence_id": 130
+  },
+  {
+    "id": 866,
+    "idunit_model": 0,
+    "name": "打击感",
+    "perform_sequence_id": 168
+  },
+  {
+    "id": 867,
+    "idunit_model": 0,
+    "name": "轻打击感",
+    "perform_sequence_id": 167
+  },
+  {
+    "id": 868,
+    "idunit_model": 0,
+    "name": "重打击感",
+    "perform_sequence_id": 166
+  },
+  {
+    "id": 870,
+    "idunit_model": 0,
+    "name": "——基础演出——",
+    "perform_sequence_id": 169
+  },
+  {
+    "id": 871,
+    "idunit_model": 0,
+    "name": "——打击感——",
+    "perform_sequence_id": 169
+  },
+  {
+    "id": 872,
+    "idunit_model": 0,
+    "name": "震地",
+    "perform_sequence_id": 176
+  },
+  {
+    "id": 873,
+    "idunit_model": 0,
+    "name": "大震地",
+    "perform_sequence_id": 177
+  },
+  {
+    "id": 874,
+    "idunit_model": 0,
+    "name": "——遮罩——",
+    "perform_sequence_id": 169
+  },
+  {
+    "id": 876,
+    "idunit_model": 0,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 879,
+    "idunit_model": 0,
+    "name": "变冷",
+    "perform_sequence_id": 179
+  },
+  {
+    "id": 880,
+    "idunit_model": 0,
+    "name": "变暖",
+    "perform_sequence_id": 178
+  },
+  {
+    "id": 881,
+    "idunit_model": 0,
+    "name": "黑幕",
+    "perform_sequence_id": 171
+  },
+  {
+    "id": 882,
+    "idunit_model": 0,
+    "name": "白幕",
+    "perform_sequence_id": 172
+  },
+  {
+    "id": 883,
+    "idunit_model": 0,
+    "name": "红幕",
+    "perform_sequence_id": 170
+  },
+  {
+    "id": 884,
+    "idunit_model": 0,
+    "name": "——时间操作——",
+    "perform_sequence_id": 169
+  },
+  {
+    "id": 885,
+    "idunit_model": 0,
+    "name": "——镜头操作——",
+    "perform_sequence_id": 169
+  },
+  {
+    "id": 887,
+    "idunit_model": 0,
+    "name": "卡顿",
+    "perform_sequence_id": 173
+  },
+  {
+    "id": 888,
+    "idunit_model": 0,
+    "name": "慢放",
+    "perform_sequence_id": 180
+  },
+  {
+    "id": 890,
+    "idunit_model": 0,
+    "name": "格挡",
+    "perform_sequence_id": 174
+  },
+  {
+    "id": 891,
+    "idunit_model": 0,
+    "name": "破盾",
+    "perform_sequence_id": 175
+  },
+  {
+    "id": 894,
+    "idunit_model": 0,
+    "name": "背刺",
+    "perform_sequence_id": 75
+  },
+  {
+    "id": 896,
+    "idunit_model": 0,
+    "name": "特写",
+    "perform_sequence_id": 183
+  },
+  {
+    "id": 897,
+    "idunit_model": 0,
+    "name": "聚焦",
+    "perform_sequence_id": 187
+  },
+  {
+    "id": 898,
+    "idunit_model": 0,
+    "name": "聚焦+特写",
+    "perform_sequence_id": 186
+  },
+  {
+    "id": 934,
+    "idunit_model": 79,
+    "name": "first_hit带拉近",
+    "perform_sequence_id": 3
+  },
+  {
+    "id": 952,
+    "idunit_model": 19,
+    "name": "测试_瘦身版警戒射击",
+    "perform_sequence_id": 268
+  },
+  {
+    "id": 960,
+    "idunit_model": 80,
+    "name": "主动瞬移",
+    "perform_sequence_id": 144
+  },
+  {
+    "id": 961,
+    "idunit_model": 80,
+    "name": "目标传送",
+    "perform_sequence_id": 145
+  },
+  {
+    "id": 963,
+    "idunit_model": 80,
+    "name": "cutin测试",
+    "perform_sequence_id": 272
+  },
+  {
+    "id": 966,
+    "idunit_model": 80,
+    "name": "真实领域攻击_聚焦",
+    "perform_sequence_id": 187
+  },
+  {
+    "id": 973,
+    "idunit_model": 81,
+    "name": "背刺",
+    "perform_sequence_id": 75
+  },
+  {
+    "id": 974,
+    "idunit_model": 81,
+    "name": "影分身回收",
+    "perform_sequence_id": 127
+  },
+  {
+    "id": 975,
+    "idunit_model": 81,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 977,
+    "idunit_model": 81,
+    "name": "残像",
+    "perform_sequence_id": 138
+  },
+  {
+    "id": 979,
+    "idunit_model": 0,
+    "name": "移动残像",
+    "perform_sequence_id": 276
+  },
+  {
+    "id": 980,
+    "idunit_model": 82,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 981,
+    "idunit_model": 82,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 982,
+    "idunit_model": 82,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 983,
+    "idunit_model": 82,
+    "name": "周身自爆",
+    "perform_sequence_id": 42
+  },
+  {
+    "id": 984,
+    "idunit_model": 82,
+    "name": "蓄力直线1500",
+    "perform_sequence_id": 47
+  },
+  {
+    "id": 985,
+    "idunit_model": 82,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 986,
+    "idunit_model": 82,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 987,
+    "idunit_model": 82,
+    "name": "变白",
+    "perform_sequence_id": 88
+  },
+  {
+    "id": 988,
+    "idunit_model": 82,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 989,
+    "idunit_model": 82,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 990,
+    "idunit_model": 82,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 991,
+    "idunit_model": 82,
+    "name": "主动瞬移",
+    "perform_sequence_id": 151
+  },
+  {
+    "id": 992,
+    "idunit_model": 82,
+    "name": "目标传送",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 998,
+    "idunit_model": 83,
+    "name": "法师传送（目标）",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 1000,
+    "idunit_model": 0,
+    "name": "变暗_保留深度",
+    "perform_sequence_id": 285
+  },
+  {
+    "id": 1003,
+    "idunit_model": 41,
+    "name": "摄像机转动演出测试",
+    "perform_sequence_id": 287
+  },
+  {
+    "id": 1004,
+    "idunit_model": 0,
+    "name": "——测试演出——",
+    "perform_sequence_id": 169
+  },
+  {
+    "id": 1019,
+    "idunit_model": 41,
+    "name": "特殊受击测试_04_超高浮空",
+    "perform_sequence_id": 293
+  },
+  {
+    "id": 1020,
+    "idunit_model": 41,
+    "name": "特殊受击测试_03_真实四方向",
+    "perform_sequence_id": 294
+  },
+  {
+    "id": 1021,
+    "idunit_model": 41,
+    "name": "特殊受击测试_07_小击退",
+    "perform_sequence_id": 295
+  },
+  {
+    "id": 1022,
+    "idunit_model": 41,
+    "name": "特殊受击测试_05_小浮空",
+    "perform_sequence_id": 296
+  },
+  {
+    "id": 1023,
+    "idunit_model": 80,
+    "name": "杖碎片快速返回",
+    "perform_sequence_id": 297
+  },
+  {
+    "id": 1043,
+    "idunit_model": 89,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 1044,
+    "idunit_model": 89,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 1057,
+    "idunit_model": 89,
+    "name": "受击小浮空",
+    "perform_sequence_id": 296
+  },
+  {
+    "id": 1058,
+    "idunit_model": 89,
+    "name": "受击小击退",
+    "perform_sequence_id": 295
+  },
+  {
+    "id": 1060,
+    "idunit_model": 31,
+    "name": "淡入淡出",
+    "perform_sequence_id": 302
+  },
+  {
+    "id": 1061,
+    "idunit_model": 90,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 1062,
+    "idunit_model": 90,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 1090,
+    "idunit_model": 91,
+    "name": "主动瞬移",
+    "perform_sequence_id": 151
+  },
+  {
+    "id": 1091,
+    "idunit_model": 91,
+    "name": "目标传送",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 1092,
+    "idunit_model": 84,
+    "name": "老骑士EX盾击",
+    "perform_sequence_id": 306
+  },
+  {
+    "id": 1093,
+    "idunit_model": 84,
+    "name": "老骑士EX启动",
+    "perform_sequence_id": 308
+  },
+  {
+    "id": 1094,
+    "idunit_model": 89,
+    "name": "战吼震动",
+    "perform_sequence_id": 311
+  },
+  {
+    "id": 1095,
+    "idunit_model": 89,
+    "name": "受击小浮空_王国军将军",
+    "perform_sequence_id": 314
+  },
+  {
+    "id": 1096,
+    "idunit_model": 28,
+    "name": "智力BOSS重型召唤攻击",
+    "perform_sequence_id": 318
+  },
+  {
+    "id": 1097,
+    "idunit_model": 28,
+    "name": "智力塔罗BOSS浮空三连击",
+    "perform_sequence_id": 319
+  },
+  {
+    "id": 1098,
+    "idunit_model": 28,
+    "name": "超能力少年",
+    "perform_sequence_id": 321
+  },
+  {
+    "id": 1103,
+    "idunit_model": 93,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 1104,
+    "idunit_model": 93,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 1112,
+    "idunit_model": 10,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 1113,
+    "idunit_model": 94,
+    "name": "旋风斩_追杀",
+    "perform_sequence_id": 16
+  },
+  {
+    "id": 1114,
+    "idunit_model": 94,
+    "name": "跳劈",
+    "perform_sequence_id": 18
+  },
+  {
+    "id": 1115,
+    "idunit_model": 94,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 1116,
+    "idunit_model": 94,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 1117,
+    "idunit_model": 94,
+    "name": "肾击",
+    "perform_sequence_id": 70
+  },
+  {
+    "id": 1118,
+    "idunit_model": 94,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 1119,
+    "idunit_model": 94,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 1120,
+    "idunit_model": 94,
+    "name": "变暗+震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 1153,
+    "idunit_model": 94,
+    "name": "复活",
+    "perform_sequence_id": 334
+  },
+  {
+    "id": 1155,
+    "idunit_model": 18,
+    "name": "————",
+    "perform_sequence_id": 359
+  },
+  {
+    "id": 1156,
+    "idunit_model": 17,
+    "name": "大招",
+    "perform_sequence_id": 50
+  },
+  {
+    "id": 1157,
+    "idunit_model": 18,
+    "name": "圣枪投掷起跳",
+    "perform_sequence_id": 335
+  },
+  {
+    "id": 1162,
+    "idunit_model": 93,
+    "name": "大手抓人连线_4方向",
+    "perform_sequence_id": 337
+  },
+  {
+    "id": 1164,
+    "idunit_model": 100,
+    "name": "塔罗boss变暗",
+    "perform_sequence_id": 344
+  },
+  {
+    "id": 1165,
+    "idunit_model": 41,
+    "name": "摄像机动画测试",
+    "perform_sequence_id": 345
+  },
+  {
+    "id": 1170,
+    "idunit_model": 100,
+    "name": "塔罗boss_技巧_箭",
+    "perform_sequence_id": 353
+  },
+  {
+    "id": 1171,
+    "idunit_model": 100,
+    "name": "塔罗boss_技巧_箭无延迟",
+    "perform_sequence_id": 354
+  },
+  {
+    "id": 1172,
+    "idunit_model": 17,
+    "name": "————————",
+    "perform_sequence_id": 359
+  },
+  {
+    "id": 1173,
+    "idunit_model": 17,
+    "name": "大招",
+    "perform_sequence_id": 50
+  },
+  {
+    "id": 1177,
+    "idunit_model": 0,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 1181,
+    "idunit_model": 107,
+    "name": "薇尔德姐姐EX01黑幕",
+    "perform_sequence_id": 364
+  },
+  {
+    "id": 1182,
+    "idunit_model": 107,
+    "name": "空中EX",
+    "perform_sequence_id": 363
+  },
+  {
+    "id": 1188,
+    "idunit_model": 108,
+    "name": "EX动听歌声",
+    "perform_sequence_id": 372
+  },
+  {
+    "id": 1191,
+    "idunit_model": 107,
+    "name": "淡入淡出",
+    "perform_sequence_id": 374
+  },
+  {
+    "id": 1195,
+    "idunit_model": 113,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 1196,
+    "idunit_model": 113,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 1197,
+    "idunit_model": 113,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 1198,
+    "idunit_model": 113,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 1199,
+    "idunit_model": 113,
+    "name": "二泉映月",
+    "perform_sequence_id": 134
+  },
+  {
+    "id": 1200,
+    "idunit_model": 113,
+    "name": "屏幕变红",
+    "perform_sequence_id": 65
+  },
+  {
+    "id": 1202,
+    "idunit_model": 117,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 1203,
+    "idunit_model": 117,
+    "name": "600",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 1204,
+    "idunit_model": 117,
+    "name": "1200",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 1205,
+    "idunit_model": 117,
+    "name": "800_long",
+    "perform_sequence_id": 41
+  },
+  {
+    "id": 1206,
+    "idunit_model": 117,
+    "name": "800",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 1207,
+    "idunit_model": 117,
+    "name": "变暗震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 1208,
+    "idunit_model": 117,
+    "name": "时间节点测试",
+    "perform_sequence_id": 101
+  },
+  {
+    "id": 1209,
+    "idunit_model": 117,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 1210,
+    "idunit_model": 117,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 1211,
+    "idunit_model": 108,
+    "name": "代身术",
+    "perform_sequence_id": 137
+  },
+  {
+    "id": 1212,
+    "idunit_model": 108,
+    "name": "主动瞬移",
+    "perform_sequence_id": 53
+  },
+  {
+    "id": 1213,
+    "idunit_model": 120,
+    "name": "400shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 1214,
+    "idunit_model": 120,
+    "name": "800shake",
+    "perform_sequence_id": 17
+  },
+  {
+    "id": 1215,
+    "idunit_model": 120,
+    "name": "body_replace",
+    "perform_sequence_id": 7
+  },
+  {
+    "id": 1216,
+    "idunit_model": 120,
+    "name": "shadow_step",
+    "perform_sequence_id": 13
+  },
+  {
+    "id": 1217,
+    "idunit_model": 120,
+    "name": "hook_perform",
+    "perform_sequence_id": 14
+  },
+  {
+    "id": 1218,
+    "idunit_model": 120,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 1219,
+    "idunit_model": 120,
+    "name": "强曲射",
+    "perform_sequence_id": 19
+  },
+  {
+    "id": 1220,
+    "idunit_model": 120,
+    "name": "700shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 1221,
+    "idunit_model": 120,
+    "name": "600shake",
+    "perform_sequence_id": 39
+  },
+  {
+    "id": 1222,
+    "idunit_model": 120,
+    "name": "1200shake",
+    "perform_sequence_id": 28
+  },
+  {
+    "id": 1223,
+    "idunit_model": 120,
+    "name": "800once",
+    "perform_sequence_id": 37
+  },
+  {
+    "id": 1224,
+    "idunit_model": 120,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 1225,
+    "idunit_model": 120,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 1226,
+    "idunit_model": 120,
+    "name": "受击前变慢+变暗",
+    "perform_sequence_id": 78
+  },
+  {
+    "id": 1227,
+    "idunit_model": 105,
+    "name": "主动瞬移",
+    "perform_sequence_id": 144
+  },
+  {
+    "id": 1228,
+    "idunit_model": 71,
+    "name": "瞬移跳劈",
+    "perform_sequence_id": 381
+  },
+  {
+    "id": 1230,
+    "idunit_model": 71,
+    "name": "瞬移跳劈小击退",
+    "perform_sequence_id": 331
+  },
+  {
+    "id": 1231,
+    "idunit_model": 106,
+    "name": "大王子EX小剧场02",
+    "perform_sequence_id": 659
+  },
+  {
+    "id": 1232,
+    "idunit_model": 106,
+    "name": "大王子EX小剧场01",
+    "perform_sequence_id": 658
+  },
+  {
+    "id": 1233,
+    "idunit_model": 106,
+    "name": "淡入淡出测试",
+    "perform_sequence_id": 386
+  },
+  {
+    "id": 1234,
+    "idunit_model": 106,
+    "name": "小浮空",
+    "perform_sequence_id": 296
+  },
+  {
+    "id": 1235,
+    "idunit_model": 106,
+    "name": "EX刀光子弹时间",
+    "perform_sequence_id": 388
+  },
+  {
+    "id": 1236,
+    "idunit_model": 51,
+    "name": "全正面施法测试",
+    "perform_sequence_id": 389
+  },
+  {
+    "id": 1237,
+    "idunit_model": 51,
+    "name": "召唤兽测试",
+    "perform_sequence_id": 390
+  },
+  {
+    "id": 1238,
+    "idunit_model": 117,
+    "name": "阿力克赛EX黑幕",
+    "perform_sequence_id": 393
+  },
+  {
+    "id": 1239,
+    "idunit_model": 106,
+    "name": "召唤兽测试",
+    "perform_sequence_id": 395
+  },
+  {
+    "id": 1240,
+    "idunit_model": 120,
+    "name": "米格尔EX黑幕",
+    "perform_sequence_id": 397
+  },
+  {
+    "id": 1241,
+    "idunit_model": 120,
+    "name": "淡出淡入",
+    "perform_sequence_id": 398
+  },
+  {
+    "id": 1242,
+    "idunit_model": 120,
+    "name": "米格尔EX变暗01",
+    "perform_sequence_id": 399
+  },
+  {
+    "id": 1243,
+    "idunit_model": 120,
+    "name": "米格尔EX变暗02",
+    "perform_sequence_id": 400
+  },
+  {
+    "id": 1244,
+    "idunit_model": 120,
+    "name": "米格尔EX变暗03",
+    "perform_sequence_id": 401
+  },
+  {
+    "id": 1246,
+    "idunit_model": 104,
+    "name": "萨曼莎修女EX黑幕01",
+    "perform_sequence_id": 402
+  },
+  {
+    "id": 1247,
+    "idunit_model": 104,
+    "name": "萨曼莎修女EX黑幕02",
+    "perform_sequence_id": 403
+  },
+  {
+    "id": 1248,
+    "idunit_model": 107,
+    "name": "后跳淡出淡入",
+    "perform_sequence_id": 374
+  },
+  {
+    "id": 1253,
+    "idunit_model": 105,
+    "name": "自爆变黑",
+    "perform_sequence_id": 407
+  },
+  {
+    "id": 1254,
+    "idunit_model": 0,
+    "name": "上",
+    "perform_sequence_id": 212
+  },
+  {
+    "id": 1255,
+    "idunit_model": 0,
+    "name": "下",
+    "perform_sequence_id": 211
+  },
+  {
+    "id": 1256,
+    "idunit_model": 0,
+    "name": "左",
+    "perform_sequence_id": 209
+  },
+  {
+    "id": 1257,
+    "idunit_model": 0,
+    "name": "右",
+    "perform_sequence_id": 210
+  },
+  {
+    "id": 1258,
+    "idunit_model": 0,
+    "name": "——特殊命中——",
+    "perform_sequence_id": 0
+  },
+  {
+    "id": 1259,
+    "idunit_model": 0,
+    "name": "小浮空",
+    "perform_sequence_id": 296
+  },
+  {
+    "id": 1260,
+    "idunit_model": 0,
+    "name": "小击退",
+    "perform_sequence_id": 295
+  },
+  {
+    "id": 1262,
+    "idunit_model": 106,
+    "name": "十字剑",
+    "perform_sequence_id": 373
+  },
+  {
+    "id": 1263,
+    "idunit_model": 108,
+    "name": "——大风车",
+    "perform_sequence_id": 408
+  },
+  {
+    "id": 1264,
+    "idunit_model": 105,
+    "name": "EX乱丢攻击",
+    "perform_sequence_id": 411
+  },
+  {
+    "id": 1265,
+    "idunit_model": 105,
+    "name": "小魔女EX背景",
+    "perform_sequence_id": 412
+  },
+  {
+    "id": 1266,
+    "idunit_model": 105,
+    "name": "落石压扁",
+    "perform_sequence_id": 419
+  },
+  {
+    "id": 1268,
+    "idunit_model": 52,
+    "name": "三连击残像",
+    "perform_sequence_id": 420
+  },
+  {
+    "id": 1269,
+    "idunit_model": 52,
+    "name": "EX突刺背面_背景",
+    "perform_sequence_id": 421
+  },
+  {
+    "id": 1270,
+    "idunit_model": 52,
+    "name": "EX突刺背面_变黑",
+    "perform_sequence_id": 422
+  },
+  {
+    "id": 1271,
+    "idunit_model": 52,
+    "name": "外交豁免演出",
+    "perform_sequence_id": 424
+  },
+  {
+    "id": 1274,
+    "idunit_model": 42,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 1278,
+    "idunit_model": 38,
+    "name": "法卡尔EX",
+    "perform_sequence_id": 428
+  },
+  {
+    "id": 1279,
+    "idunit_model": 150,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 1280,
+    "idunit_model": 16,
+    "name": "混入人群",
+    "perform_sequence_id": 326
+  },
+  {
+    "id": 1281,
+    "idunit_model": 84,
+    "name": "坚不可摧",
+    "perform_sequence_id": 433
+  },
+  {
+    "id": 1282,
+    "idunit_model": 90,
+    "name": "星陨斩击",
+    "perform_sequence_id": 434
+  },
+  {
+    "id": 1283,
+    "idunit_model": 90,
+    "name": "陷阵横扫",
+    "perform_sequence_id": 435
+  },
+  {
+    "id": 1284,
+    "idunit_model": 36,
+    "name": "麦莎连击02",
+    "perform_sequence_id": 436
+  },
+  {
+    "id": 1285,
+    "idunit_model": 36,
+    "name": "麦莎冲锋",
+    "perform_sequence_id": 437
+  },
+  {
+    "id": 1286,
+    "idunit_model": 41,
+    "name": "再来一杯",
+    "perform_sequence_id": 439
+  },
+  {
+    "id": 1287,
+    "idunit_model": 93,
+    "name": "浮空",
+    "perform_sequence_id": 318
+  },
+  {
+    "id": 1288,
+    "idunit_model": 93,
+    "name": "吞噬生灵_小剧场",
+    "perform_sequence_id": 441
+  },
+  {
+    "id": 1289,
+    "idunit_model": 93,
+    "name": "吞噬生灵_剪影化",
+    "perform_sequence_id": 440
+  },
+  {
+    "id": 1290,
+    "idunit_model": 31,
+    "name": "移形换影",
+    "perform_sequence_id": 442
+  },
+  {
+    "id": 1291,
+    "idunit_model": 31,
+    "name": "鼓舞之舞",
+    "perform_sequence_id": 443
+  },
+  {
+    "id": 1292,
+    "idunit_model": 71,
+    "name": "处决",
+    "perform_sequence_id": 444
+  },
+  {
+    "id": 1293,
+    "idunit_model": 91,
+    "name": "麻醉针",
+    "perform_sequence_id": 446
+  },
+  {
+    "id": 1294,
+    "idunit_model": 153,
+    "name": "浮空",
+    "perform_sequence_id": 318
+  },
+  {
+    "id": 1295,
+    "idunit_model": 153,
+    "name": "怒风强袭",
+    "perform_sequence_id": 437
+  },
+  {
+    "id": 1297,
+    "idunit_model": 154,
+    "name": "破城弩",
+    "perform_sequence_id": 448
+  },
+  {
+    "id": 1299,
+    "idunit_model": 0,
+    "name": "——战术技能——",
+    "perform_sequence_id": 0
+  },
+  {
+    "id": 1300,
+    "idunit_model": 0,
+    "name": "战术技能传送",
+    "perform_sequence_id": 464
+  },
+  {
+    "id": 1301,
+    "idunit_model": 0,
+    "name": "战术技能大陨石",
+    "perform_sequence_id": 467
+  },
+  {
+    "id": 1303,
+    "idunit_model": 0,
+    "name": "//战术技能关机重启",
+    "perform_sequence_id": 468
+  },
+  {
+    "id": 1304,
+    "idunit_model": 0,
+    "name": "战术技能全体加速",
+    "perform_sequence_id": 469
+  },
+  {
+    "id": 1305,
+    "idunit_model": 141,
+    "name": "格挡",
+    "perform_sequence_id": 174
+  },
+  {
+    "id": 1309,
+    "idunit_model": 142,
+    "name": "灰狼EX",
+    "perform_sequence_id": 474
+  },
+  {
+    "id": 1310,
+    "idunit_model": 100,
+    "name": "die",
+    "perform_sequence_id": 475
+  },
+  {
+    "id": 1313,
+    "idunit_model": 144,
+    "name": "淡出淡入",
+    "perform_sequence_id": 477
+  },
+  {
+    "id": 1314,
+    "idunit_model": 144,
+    "name": "EX变暗",
+    "perform_sequence_id": 478
+  },
+  {
+    "id": 1315,
+    "idunit_model": 104,
+    "name": "独显alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1317,
+    "idunit_model": 162,
+    "name": "爆裂弹",
+    "perform_sequence_id": 8
+  },
+  {
+    "id": 1318,
+    "idunit_model": 162,
+    "name": "火焰冲击",
+    "perform_sequence_id": 9
+  },
+  {
+    "id": 1319,
+    "idunit_model": 162,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 1320,
+    "idunit_model": 162,
+    "name": "变暗",
+    "perform_sequence_id": 64
+  },
+  {
+    "id": 1321,
+    "idunit_model": 162,
+    "name": "变蓝",
+    "perform_sequence_id": 68
+  },
+  {
+    "id": 1322,
+    "idunit_model": 162,
+    "name": "周身自爆",
+    "perform_sequence_id": 79
+  },
+  {
+    "id": 1323,
+    "idunit_model": 162,
+    "name": "变暗震动",
+    "perform_sequence_id": 69
+  },
+  {
+    "id": 1324,
+    "idunit_model": 162,
+    "name": "远程打击感",
+    "perform_sequence_id": 71
+  },
+  {
+    "id": 1325,
+    "idunit_model": 162,
+    "name": "远程打击感+变暗",
+    "perform_sequence_id": 77
+  },
+  {
+    "id": 1326,
+    "idunit_model": 162,
+    "name": "——打击感",
+    "perform_sequence_id": 82
+  },
+  {
+    "id": 1327,
+    "idunit_model": 162,
+    "name": "主动瞬移",
+    "perform_sequence_id": 144
+  },
+  {
+    "id": 1328,
+    "idunit_model": 162,
+    "name": "目标传送",
+    "perform_sequence_id": 145
+  },
+  {
+    "id": 1330,
+    "idunit_model": 105,
+    "name": "UI关闭测试",
+    "perform_sequence_id": 483
+  },
+  {
+    "id": 1331,
+    "idunit_model": 41,
+    "name": "双子哥哥EX测试",
+    "perform_sequence_id": 484
+  },
+  {
+    "id": 1332,
+    "idunit_model": 41,
+    "name": "双子哥哥EX受击演出",
+    "perform_sequence_id": 486
+  },
+  {
+    "id": 1333,
+    "idunit_model": 142,
+    "name": "灰狼瞬移_叶子",
+    "perform_sequence_id": 487
+  },
+  {
+    "id": 1335,
+    "idunit_model": 89,
+    "name": "投掷浮空",
+    "perform_sequence_id": 489
+  },
+  {
+    "id": 1336,
+    "idunit_model": 139,
+    "name": "移轴3000",
+    "perform_sequence_id": 507
+  },
+  {
+    "id": 1337,
+    "idunit_model": 164,
+    "name": "飞盘连线",
+    "perform_sequence_id": 491
+  },
+  {
+    "id": 1338,
+    "idunit_model": 162,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1339,
+    "idunit_model": 139,
+    "name": "EX_照亮",
+    "perform_sequence_id": 492
+  },
+  {
+    "id": 1341,
+    "idunit_model": 139,
+    "name": "EX_光路",
+    "perform_sequence_id": 518
+  },
+  {
+    "id": 1342,
+    "idunit_model": 162,
+    "name": "独显alpha0",
+    "perform_sequence_id": 497
+  },
+  {
+    "id": 1344,
+    "idunit_model": 164,
+    "name": "审判者C_EX_01",
+    "perform_sequence_id": 498
+  },
+  {
+    "id": 1345,
+    "idunit_model": 164,
+    "name": "审判者C_EX_02",
+    "perform_sequence_id": 499
+  },
+  {
+    "id": 1346,
+    "idunit_model": 144,
+    "name": "目标传送",
+    "perform_sequence_id": 501
+  },
+  {
+    "id": 1347,
+    "idunit_model": 164,
+    "name": "/回旋转盘",
+    "perform_sequence_id": 500
+  },
+  {
+    "id": 1348,
+    "idunit_model": 89,
+    "name": "投掷小剧场浮空",
+    "perform_sequence_id": 502
+  },
+  {
+    "id": 1349,
+    "idunit_model": 89,
+    "name": "投掷小剧场",
+    "perform_sequence_id": 503
+  },
+  {
+    "id": 1350,
+    "idunit_model": 164,
+    "name": "精神爆发",
+    "perform_sequence_id": 490
+  },
+  {
+    "id": 1352,
+    "idunit_model": 164,
+    "name": "回旋转盘_命中",
+    "perform_sequence_id": 506
+  },
+  {
+    "id": 1357,
+    "idunit_model": 142,
+    "name": "应急爆弹",
+    "perform_sequence_id": 512
+  },
+  {
+    "id": 1358,
+    "idunit_model": 142,
+    "name": "灰狼瞬移_烟雾",
+    "perform_sequence_id": 514
+  },
+  {
+    "id": 1359,
+    "idunit_model": 139,
+    "name": "投掷油桶",
+    "perform_sequence_id": 516
+  },
+  {
+    "id": 1360,
+    "idunit_model": 126,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1361,
+    "idunit_model": 126,
+    "name": "淡出淡入",
+    "perform_sequence_id": 517
+  },
+  {
+    "id": 1369,
+    "idunit_model": 142,
+    "name": "超级冲锋EX测试",
+    "perform_sequence_id": 520
+  },
+  {
+    "id": 1373,
+    "idunit_model": 180,
+    "name": "塔罗boss变暗",
+    "perform_sequence_id": 344
+  },
+  {
+    "id": 1374,
+    "idunit_model": 180,
+    "name": "塔罗boss_技巧_箭",
+    "perform_sequence_id": 353
+  },
+  {
+    "id": 1375,
+    "idunit_model": 180,
+    "name": "塔罗boss_技巧_箭无延迟",
+    "perform_sequence_id": 354
+  },
+  {
+    "id": 1376,
+    "idunit_model": 180,
+    "name": "die",
+    "perform_sequence_id": 475
+  },
+  {
+    "id": 1377,
+    "idunit_model": 181,
+    "name": "塔罗boss变暗",
+    "perform_sequence_id": 344
+  },
+  {
+    "id": 1378,
+    "idunit_model": 181,
+    "name": "塔罗boss_技巧_箭",
+    "perform_sequence_id": 353
+  },
+  {
+    "id": 1379,
+    "idunit_model": 181,
+    "name": "塔罗boss_技巧_箭无延迟",
+    "perform_sequence_id": 354
+  },
+  {
+    "id": 1380,
+    "idunit_model": 181,
+    "name": "die",
+    "perform_sequence_id": 475
+  },
+  {
+    "id": 1381,
+    "idunit_model": 176,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1382,
+    "idunit_model": 176,
+    "name": "淡出淡入",
+    "perform_sequence_id": 522
+  },
+  {
+    "id": 1383,
+    "idunit_model": 107,
+    "name": "双子妹妹淡出淡入01",
+    "perform_sequence_id": 525
+  },
+  {
+    "id": 1384,
+    "idunit_model": 107,
+    "name": "双子妹妹淡出淡入02",
+    "perform_sequence_id": 526
+  },
+  {
+    "id": 1385,
+    "idunit_model": 107,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1386,
+    "idunit_model": 166,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1387,
+    "idunit_model": 166,
+    "name": "双子妹妹淡出淡入01",
+    "perform_sequence_id": 525
+  },
+  {
+    "id": 1388,
+    "idunit_model": 166,
+    "name": "双子妹妹淡出淡入02",
+    "perform_sequence_id": 526
+  },
+  {
+    "id": 1389,
+    "idunit_model": 164,
+    "name": "回旋转盘",
+    "perform_sequence_id": 530
+  },
+  {
+    "id": 1391,
+    "idunit_model": 184,
+    "name": "卫士长变暗",
+    "perform_sequence_id": 531
+  },
+  {
+    "id": 1392,
+    "idunit_model": 184,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1394,
+    "idunit_model": 164,
+    "name": "飞盘收招",
+    "perform_sequence_id": 533
+  },
+  {
+    "id": 1398,
+    "idunit_model": 84,
+    "name": "奥义测试_老骑士",
+    "perform_sequence_id": 538
+  },
+  {
+    "id": 1402,
+    "idunit_model": 165,
+    "name": "扫描",
+    "perform_sequence_id": 543
+  },
+  {
+    "id": 1403,
+    "idunit_model": 144,
+    "name": "ex反馈-三王女",
+    "perform_sequence_id": 545
+  },
+  {
+    "id": 1405,
+    "idunit_model": 184,
+    "name": "移轴",
+    "perform_sequence_id": 507
+  },
+  {
+    "id": 1407,
+    "idunit_model": 165,
+    "name": "高跳",
+    "perform_sequence_id": 550
+  },
+  {
+    "id": 1408,
+    "idunit_model": 47,
+    "name": "移轴3",
+    "perform_sequence_id": 552
+  },
+  {
+    "id": 1409,
+    "idunit_model": 165,
+    "name": "双子哥哥EX",
+    "perform_sequence_id": 556
+  },
+  {
+    "id": 1410,
+    "idunit_model": 165,
+    "name": "双子哥哥EX受击演出",
+    "perform_sequence_id": 560
+  },
+  {
+    "id": 1411,
+    "idunit_model": 89,
+    "name": "王国军将军EX",
+    "perform_sequence_id": 562
+  },
+  {
+    "id": 1412,
+    "idunit_model": 52,
+    "name": "EX_玫瑰葬礼_演出",
+    "perform_sequence_id": 563
+  },
+  {
+    "id": 1413,
+    "idunit_model": 89,
+    "name": "王国军将军EX受击",
+    "perform_sequence_id": 567
+  },
+  {
+    "id": 1415,
+    "idunit_model": 200,
+    "name": "法师传送（目标）",
+    "perform_sequence_id": 45
+  },
+  {
+    "id": 1416,
+    "idunit_model": 200,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 1417,
+    "idunit_model": 172,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 1418,
+    "idunit_model": 201,
+    "name": "主动瞬移",
+    "perform_sequence_id": 144
+  },
+  {
+    "id": 1419,
+    "idunit_model": 201,
+    "name": "目标传送",
+    "perform_sequence_id": 145
+  },
+  {
+    "id": 1420,
+    "idunit_model": 130,
+    "name": "die",
+    "perform_sequence_id": 568
+  },
+  {
+    "id": 1422,
+    "idunit_model": 198,
+    "name": "淡出淡入",
+    "perform_sequence_id": 575
+  },
+  {
+    "id": 1426,
+    "idunit_model": 46,
+    "name": "召唤物换人",
+    "perform_sequence_id": 578
+  },
+  {
+    "id": 1427,
+    "idunit_model": 202,
+    "name": "变蓝",
+    "perform_sequence_id": 68
+  },
+  {
+    "id": 1428,
+    "idunit_model": 202,
+    "name": "冰自爆",
+    "perform_sequence_id": 79
+  },
+  {
+    "id": 1429,
+    "idunit_model": 202,
+    "name": "主动瞬移",
+    "perform_sequence_id": 157
+  },
+  {
+    "id": 1430,
+    "idunit_model": 202,
+    "name": "目标传送",
+    "perform_sequence_id": 158
+  },
+  {
+    "id": 1431,
+    "idunit_model": 0,
+    "name": "代身术",
+    "perform_sequence_id": 137
+  },
+  {
+    "id": 1432,
+    "idunit_model": 42,
+    "name": "EX召唤_四杰",
+    "perform_sequence_id": 583
+  },
+  {
+    "id": 1433,
+    "idunit_model": 42,
+    "name": "EX召唤",
+    "perform_sequence_id": 589
+  },
+  {
+    "id": 1434,
+    "idunit_model": 195,
+    "name": "变暗",
+    "perform_sequence_id": 590
+  },
+  {
+    "id": 1437,
+    "idunit_model": 80,
+    "name": "光线扫射",
+    "perform_sequence_id": 598
+  },
+  {
+    "id": 1439,
+    "idunit_model": 179,
+    "name": "变暗",
+    "perform_sequence_id": 690
+  },
+  {
+    "id": 1441,
+    "idunit_model": 80,
+    "name": "EX群体AOE_攻击",
+    "perform_sequence_id": 596
+  },
+  {
+    "id": 1442,
+    "idunit_model": 80,
+    "name": "EX群体AOE_特殊受击",
+    "perform_sequence_id": 604
+  },
+  {
+    "id": 1443,
+    "idunit_model": 158,
+    "name": "舞团舞娘EX",
+    "perform_sequence_id": 605
+  },
+  {
+    "id": 1444,
+    "idunit_model": 90,
+    "name": "BOSS泽维尔",
+    "perform_sequence_id": 424
+  },
+  {
+    "id": 1445,
+    "idunit_model": 0,
+    "name": "摄像机特效测试",
+    "perform_sequence_id": 606
+  },
+  {
+    "id": 1446,
+    "idunit_model": 165,
+    "name": "换位",
+    "perform_sequence_id": 608
+  },
+  {
+    "id": 1447,
+    "idunit_model": 106,
+    "name": "大王子重击辅助",
+    "perform_sequence_id": 610
+  },
+  {
+    "id": 1448,
+    "idunit_model": 18,
+    "name": "大招",
+    "perform_sequence_id": 50
+  },
+  {
+    "id": 1451,
+    "idunit_model": 214,
+    "name": "压扁",
+    "perform_sequence_id": 419
+  },
+  {
+    "id": 1458,
+    "idunit_model": 214,
+    "name": "弹飞",
+    "perform_sequence_id": 615
+  },
+  {
+    "id": 1459,
+    "idunit_model": 106,
+    "name": "EX衔接用障眼法",
+    "perform_sequence_id": 619
+  },
+  {
+    "id": 1460,
+    "idunit_model": 152,
+    "name": "击飞",
+    "perform_sequence_id": 612
+  },
+  {
+    "id": 1461,
+    "idunit_model": 158,
+    "name": "舞团舞娘移动残像",
+    "perform_sequence_id": 620
+  },
+  {
+    "id": 1462,
+    "idunit_model": 214,
+    "name": "alpha0",
+    "perform_sequence_id": 497
+  },
+  {
+    "id": 1463,
+    "idunit_model": 214,
+    "name": "淡出淡入",
+    "perform_sequence_id": 621
+  },
+  {
+    "id": 1464,
+    "idunit_model": 158,
+    "name": "冲锋AOE结束动作",
+    "perform_sequence_id": 622
+  },
+  {
+    "id": 1465,
+    "idunit_model": 158,
+    "name": "连击终点结束动作",
+    "perform_sequence_id": 624
+  },
+  {
+    "id": 1466,
+    "idunit_model": 152,
+    "name": "双重打击感",
+    "perform_sequence_id": 626
+  },
+  {
+    "id": 1467,
+    "idunit_model": 152,
+    "name": "三重打击",
+    "perform_sequence_id": 627
+  },
+  {
+    "id": 1476,
+    "idunit_model": 176,
+    "name": "环境光",
+    "perform_sequence_id": 635
+  },
+  {
+    "id": 1477,
+    "idunit_model": 223,
+    "name": "die",
+    "perform_sequence_id": 21
+  },
+  {
+    "id": 1486,
+    "idunit_model": 0,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 1487,
+    "idunit_model": 0,
+    "name": "持续震动700",
+    "perform_sequence_id": 643
+  },
+  {
+    "id": 1488,
+    "idunit_model": 227,
+    "name": "连续打击",
+    "perform_sequence_id": 646
+  },
+  {
+    "id": 1493,
+    "idunit_model": 216,
+    "name": "淡出淡入",
+    "perform_sequence_id": 655
+  },
+  {
+    "id": 1498,
+    "idunit_model": 216,
+    "name": "alpha0独显",
+    "perform_sequence_id": 497
+  },
+  {
+    "id": 1503,
+    "idunit_model": 216,
+    "name": "摄像机强制复位_盲女ex",
+    "perform_sequence_id": 660
+  },
+  {
+    "id": 1504,
+    "idunit_model": 0,
+    "name": "主动瞬移_闪现",
+    "perform_sequence_id": 661
+  },
+  {
+    "id": 1505,
+    "idunit_model": 16,
+    "name": "女仆大招测试_显形",
+    "perform_sequence_id": 662
+  },
+  {
+    "id": 1506,
+    "idunit_model": 233,
+    "name": "双重打击",
+    "perform_sequence_id": 665
+  },
+  {
+    "id": 1507,
+    "idunit_model": 232,
+    "name": "双重打击",
+    "perform_sequence_id": 665
+  },
+  {
+    "id": 1508,
+    "idunit_model": 233,
+    "name": "连续打击",
+    "perform_sequence_id": 637
+  },
+  {
+    "id": 1509,
+    "idunit_model": 233,
+    "name": "伊甸园",
+    "perform_sequence_id": 746
+  },
+  {
+    "id": 1510,
+    "idunit_model": 232,
+    "name": "伊甸园",
+    "perform_sequence_id": 746
+  },
+  {
+    "id": 1513,
+    "idunit_model": 113,
+    "name": "移轴2000",
+    "perform_sequence_id": 507
+  },
+  {
+    "id": 1514,
+    "idunit_model": 51,
+    "name": "移轴2000",
+    "perform_sequence_id": 507
+  },
+  {
+    "id": 1515,
+    "idunit_model": 51,
+    "name": "黑猫召唤兽",
+    "perform_sequence_id": 669
+  },
+  {
+    "id": 1516,
+    "idunit_model": 113,
+    "name": "黑猫召唤兽",
+    "perform_sequence_id": 669
+  },
+  {
+    "id": 1517,
+    "idunit_model": 227,
+    "name": "鹦鹉人EX红鸟AOE",
+    "perform_sequence_id": 647
+  },
+  {
+    "id": 1518,
+    "idunit_model": 227,
+    "name": "EX鹦鹉人淡出淡入",
+    "perform_sequence_id": 648
+  },
+  {
+    "id": 1519,
+    "idunit_model": 233,
+    "name": "失乐园",
+    "perform_sequence_id": 670
+  },
+  {
+    "id": 1520,
+    "idunit_model": 232,
+    "name": "失乐园",
+    "perform_sequence_id": 671
+  },
+  {
+    "id": 1522,
+    "idunit_model": 223,
+    "name": "大型活动_驱散寒冷",
+    "perform_sequence_id": 672
+  },
+  {
+    "id": 1523,
+    "idunit_model": 20,
+    "name": "大型活动_驱散寒冷",
+    "perform_sequence_id": 672
+  },
+  {
+    "id": 1524,
+    "idunit_model": 233,
+    "name": "普攻",
+    "perform_sequence_id": 675
+  },
+  {
+    "id": 1527,
+    "idunit_model": 232,
+    "name": "普攻",
+    "perform_sequence_id": 675
+  },
+  {
+    "id": 1530,
+    "idunit_model": 233,
+    "name": "普攻十字",
+    "perform_sequence_id": 678
+  },
+  {
+    "id": 1531,
+    "idunit_model": 233,
+    "name": "眷恋",
+    "perform_sequence_id": 679
+  },
+  {
+    "id": 1532,
+    "idunit_model": 233,
+    "name": "标记",
+    "perform_sequence_id": 680
+  },
+  {
+    "id": 1533,
+    "idunit_model": 233,
+    "name": "吹风",
+    "perform_sequence_id": 681
+  },
+  {
+    "id": 1534,
+    "idunit_model": 232,
+    "name": "普攻十字",
+    "perform_sequence_id": 678
+  },
+  {
+    "id": 1535,
+    "idunit_model": 232,
+    "name": "眷恋",
+    "perform_sequence_id": 679
+  },
+  {
+    "id": 1536,
+    "idunit_model": 232,
+    "name": "标记",
+    "perform_sequence_id": 680
+  },
+  {
+    "id": 1537,
+    "idunit_model": 232,
+    "name": "吹风",
+    "perform_sequence_id": 681
+  },
+  {
+    "id": 1539,
+    "idunit_model": 233,
+    "name": "荆棘2",
+    "perform_sequence_id": 683
+  },
+  {
+    "id": 1540,
+    "idunit_model": 232,
+    "name": "孤独2",
+    "perform_sequence_id": 683
+  },
+  {
+    "id": 1547,
+    "idunit_model": 236,
+    "name": "淡出淡入",
+    "perform_sequence_id": 691
+  },
+  {
+    "id": 1548,
+    "idunit_model": 236,
+    "name": "alpha0独显",
+    "perform_sequence_id": 497
+  },
+  {
+    "id": 1553,
+    "idunit_model": 247,
+    "name": "命中buff",
+    "perform_sequence_id": 696
+  },
+  {
+    "id": 1556,
+    "idunit_model": 16,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1557,
+    "idunit_model": 236,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1558,
+    "idunit_model": 247,
+    "name": "连续打击",
+    "perform_sequence_id": 699
+  },
+  {
+    "id": 1561,
+    "idunit_model": 247,
+    "name": "ex1",
+    "perform_sequence_id": 701
+  },
+  {
+    "id": 1564,
+    "idunit_model": 247,
+    "name": "小小击退",
+    "perform_sequence_id": 707
+  },
+  {
+    "id": 1565,
+    "idunit_model": 247,
+    "name": "特写2",
+    "perform_sequence_id": 708
+  },
+  {
+    "id": 1566,
+    "idunit_model": 156,
+    "name": "鹰之剑",
+    "perform_sequence_id": 709
+  },
+  {
+    "id": 1567,
+    "idunit_model": 247,
+    "name": "慢放2",
+    "perform_sequence_id": 710
+  },
+  {
+    "id": 1568,
+    "idunit_model": 0,
+    "name": "主动瞬移_高跳",
+    "perform_sequence_id": 711
+  },
+  {
+    "id": 1569,
+    "idunit_model": 247,
+    "name": "移轴2000",
+    "perform_sequence_id": 507
+  },
+  {
+    "id": 1570,
+    "idunit_model": 247,
+    "name": "学姐子弹时间测试",
+    "perform_sequence_id": 716
+  },
+  {
+    "id": 1574,
+    "idunit_model": 235,
+    "name": "EX_02",
+    "perform_sequence_id": 719
+  },
+  {
+    "id": 1575,
+    "idunit_model": 254,
+    "name": "移动残像",
+    "perform_sequence_id": 276
+  },
+  {
+    "id": 1576,
+    "idunit_model": 254,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1580,
+    "idunit_model": 254,
+    "name": "主动瞬移",
+    "perform_sequence_id": 725
+  },
+  {
+    "id": 1581,
+    "idunit_model": 256,
+    "name": "慢放2",
+    "perform_sequence_id": 710
+  },
+  {
+    "id": 1583,
+    "idunit_model": 256,
+    "name": "重击透明黑幕",
+    "perform_sequence_id": 729
+  },
+  {
+    "id": 1584,
+    "idunit_model": 256,
+    "name": "变暗2",
+    "perform_sequence_id": 728
+  },
+  {
+    "id": 1585,
+    "idunit_model": 256,
+    "name": "相机归位",
+    "perform_sequence_id": 730
+  },
+  {
+    "id": 1590,
+    "idunit_model": 256,
+    "name": "特写2",
+    "perform_sequence_id": 708
+  },
+  {
+    "id": 1592,
+    "idunit_model": 256,
+    "name": "ex演出相机",
+    "perform_sequence_id": 736
+  },
+  {
+    "id": 1593,
+    "idunit_model": 256,
+    "name": "击飞",
+    "perform_sequence_id": 737
+  },
+  {
+    "id": 1594,
+    "idunit_model": 256,
+    "name": "冲锋慢放",
+    "perform_sequence_id": 738
+  },
+  {
+    "id": 1599,
+    "idunit_model": 254,
+    "name": "潜入",
+    "perform_sequence_id": 743
+  },
+  {
+    "id": 1602,
+    "idunit_model": 254,
+    "name": "周身淡出淡入",
+    "perform_sequence_id": 749
+  },
+  {
+    "id": 1604,
+    "idunit_model": 158,
+    "name": "主动瞬移",
+    "perform_sequence_id": 53
+  },
+  {
+    "id": 1605,
+    "idunit_model": 254,
+    "name": "血条屏蔽",
+    "perform_sequence_id": 751
+  },
+  {
+    "id": 1606,
+    "idunit_model": 158,
+    "name": "交换位置",
+    "perform_sequence_id": 752
+  },
+  {
+    "id": 1607,
+    "idunit_model": 254,
+    "name": "特殊受击",
+    "perform_sequence_id": 753
+  },
+  {
+    "id": 1608,
+    "idunit_model": 254,
+    "name": "动作anime4",
+    "perform_sequence_id": 742
+  },
+  {
+    "id": 1611,
+    "idunit_model": 47,
+    "name": "变暗_buff_相机归位",
+    "perform_sequence_id": 757
+  },
+  {
+    "id": 1613,
+    "idunit_model": 0,
+    "name": "黑屏拼刀黑幕_中等长度",
+    "perform_sequence_id": 761
+  },
+  {
+    "id": 1614,
+    "idunit_model": 257,
+    "name": "吐舌头",
+    "perform_sequence_id": 762
+  },
+  {
+    "id": 1615,
+    "idunit_model": 51,
+    "name": "绿鸟_传送",
+    "perform_sequence_id": 764
+  },
+  {
+    "id": 1616,
+    "idunit_model": 113,
+    "name": "绿鸟_传送",
+    "perform_sequence_id": 764
+  },
+  {
+    "id": 1617,
+    "idunit_model": 233,
+    "name": "die",
+    "perform_sequence_id": 766
+  },
+  {
+    "id": 1618,
+    "idunit_model": 232,
+    "name": "die",
+    "perform_sequence_id": 766
+  },
+  {
+    "id": 1619,
+    "idunit_model": 197,
+    "name": "die",
+    "perform_sequence_id": 765
+  },
+  {
+    "id": 1628,
+    "idunit_model": 176,
+    "name": "摄像机强制复位",
+    "perform_sequence_id": 774
+  },
+  {
+    "id": 1631,
+    "idunit_model": 144,
+    "name": "关闭环境光",
+    "perform_sequence_id": 776
+  },
+  {
+    "id": 1632,
+    "idunit_model": 273,
+    "name": "die",
+    "perform_sequence_id": 568
+  },
+  {
+    "id": 1633,
+    "idunit_model": 0,
+    "name": "鹦鹉人EX红鸟AOE",
+    "perform_sequence_id": 647
+  }
+]

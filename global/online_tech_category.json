@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "m_online_tech_grade_exps": [],
+    "m_online_tech_nodes": [],
+    "name": "粉碎者之座",
+    "editor_name": "粉碎者",
+    "profession_category": 4,
+    "part_unlock_color": "174|124|117|255",
+    "all_unlock_color": "115|73|73|255",
+    "icon": "icon_rapier",
+    "bg_color": "138|74|88|255",
+    "bg_color2": "255|78|78|130"
+  },
+  {
+    "id": 2,
+    "m_online_tech_grade_exps": [],
+    "m_online_tech_nodes": [],
+    "name": "突袭者之座",
+    "editor_name": "突袭者",
+    "profession_category": 2,
+    "part_unlock_color": "108|135|167|255",
+    "all_unlock_color": "69|90|117|255",
+    "icon": "icon_killer",
+    "bg_color": "77|103|151|255",
+    "bg_color2": "100|150|234|130"
+  },
+  {
+    "id": 3,
+    "m_online_tech_grade_exps": [],
+    "m_online_tech_nodes": [],
+    "name": "防御者之座",
+    "editor_name": "防御者",
+    "profession_category": 1,
+    "part_unlock_color": "123|138|98|255",
+    "all_unlock_color": "109|89|41|255 ",
+    "icon": "icon_defender",
+    "bg_color": "95|123|101|255",
+    "bg_color2": "114|187|92|130"
+  },
+  {
+    "id": 4,
+    "m_online_tech_grade_exps": [],
+    "m_online_tech_nodes": [],
+    "name": "毁灭者之座",
+    "editor_name": "毁灭者",
+    "profession_category": 3,
+    "part_unlock_color": "151|119|172|255",
+    "all_unlock_color": "96|69|106|255",
+    "icon": "icon_destoryer",
+    "bg_color": "105|90|147|255",
+    "bg_color2": "167|117|223|130"
+  },
+  {
+    "id": 5,
+    "m_online_tech_grade_exps": [],
+    "m_online_tech_nodes": [],
+    "name": "守望者之座",
+    "editor_name": "守望者",
+    "profession_category": 5,
+    "part_unlock_color": "147|128|83|255",
+    "all_unlock_color": "109|89|41|255 ",
+    "icon": "icon_watcher",
+    "bg_color": "147|115|75|255",
+    "bg_color2": "255|171|50|130"
+  }
+]

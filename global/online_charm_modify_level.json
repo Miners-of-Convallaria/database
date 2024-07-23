@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "idonline_charm_modify": 1,
+    "level": 1,
+    "hp": 53,
+    "physic_attack": 29,
+    "spell_attack": 29,
+    "physic_defence": 11,
+    "spell_defence": 11
+  },
+  {
+    "id": 2,
+    "idonline_charm_modify": 1,
+    "level": 2,
+    "hp": 57,
+    "physic_attack": 32,
+    "spell_attack": 32,
+    "physic_defence": 12,
+    "spell_defence": 12
+  },
+  {
+    "id": 3,
+    "idonline_charm_modify": 1,
+    "level": 3,
+    "hp": 62,
+    "physic_attack": 35,
+    "spell_attack": 35,
+    "physic_defence": 13,
+    "spell_defence": 13
+  },
+  {
+    "id": 4,
+    "idonline_charm_modify": 1,
+    "level": 4,
+    "hp": 67,
+    "physic_attack": 37,
+    "spell_attack": 37,
+    "physic_defence": 14,
+    "spell_defence": 14
+  },
+  {
+    "id": 5,
+    "idonline_charm_modify": 1,
+    "level": 5,
+    "hp": 71,
+    "physic_attack": 40,
+    "spell_attack": 40,
+    "physic_defence": 15,
+    "spell_defence": 15
+  },
+  {
+    "id": 6,
+    "idonline_charm_modify": 1,
+    "level": 6,
+    "hp": 76,
+    "physic_attack": 42,
+    "spell_attack": 42,
+    "physic_defence": 16,
+    "spell_defence": 16
+  },
+  {
+    "id": 7,
+    "idonline_charm_modify": 1,
+    "level": 7,
+    "hp": 80,
+    "physic_attack": 45,
+    "spell_attack": 45,
+    "physic_defence": 17,
+    "spell_defence": 17
+  },
+  {
+    "id": 8,
+    "idonline_charm_modify": 1,
+    "level": 8,
+    "hp": 85,
+    "physic_attack": 47,
+    "spell_attack": 47,
+    "physic_defence": 18,
+    "spell_defence": 18
+  },
+  {
+    "id": 9,
+    "idonline_charm_modify": 1,
+    "level": 9,
+    "hp": 90,
+    "physic_attack": 50,
+    "spell_attack": 50,
+    "physic_defence": 19,
+    "spell_defence": 19
+  },
+  {
+    "id": 10,
+    "idonline_charm_modify": 1,
+    "level": 10,
+    "hp": 100,
+    "physic_attack": 52,
+    "spell_attack": 52,
+    "physic_defence": 20,
+    "spell_defence": 20
+  },
+  {
+    "id": 11,
+    "idonline_charm_modify": 1,
+    "level": 11,
+    "hp": 105,
+    "physic_attack": 55,
+    "spell_attack": 55,
+    "physic_defence": 21,
+    "spell_defence": 21
+  },
+  {
+    "id": 12,
+    "idonline_charm_modify": 1,
+    "level": 12,
+    "hp": 110,
+    "physic_attack": 58,
+    "spell_attack": 58,
+    "physic_defence": 22,
+    "spell_defence": 22
+  },
+  {
+    "id": 13,
+    "idonline_charm_modify": 1,
+    "level": 13,
+    "hp": 115,
+    "physic_attack": 60,
+    "spell_attack": 60,
+    "physic_defence": 23,
+    "spell_defence": 23
+  },
+  {
+    "id": 14,
+    "idonline_charm_modify": 1,
+    "level": 14,
+    "hp": 120,
+    "physic_attack": 63,
+    "spell_attack": 63,
+    "physic_defence": 24,
+    "spell_defence": 24
+  },
+  {
+    "id": 15,
+    "idonline_charm_modify": 1,
+    "level": 15,
+    "hp": 125,
+    "physic_attack": 65,
+    "spell_attack": 65,
+    "physic_defence": 24,
+    "spell_defence": 24
+  },
+  {
+    "id": 16,
+    "idonline_charm_modify": 1,
+    "level": 16,
+    "hp": 130,
+    "physic_attack": 68,
+    "spell_attack": 68,
+    "physic_defence": 25,
+    "spell_defence": 25
+  },
+  {
+    "id": 17,
+    "idonline_charm_modify": 1,
+    "level": 17,
+    "hp": 135,
+    "physic_attack": 70,
+    "spell_attack": 70,
+    "physic_defence": 26,
+    "spell_defence": 26
+  },
+  {
+    "id": 18,
+    "idonline_charm_modify": 1,
+    "level": 18,
+    "hp": 140,
+    "physic_attack": 73,
+    "spell_attack": 73,
+    "physic_defence": 27,
+    "spell_defence": 27
+  },
+  {
+    "id": 19,
+    "idonline_charm_modify": 1,
+    "level": 19,
+    "hp": 144,
+    "physic_attack": 76,
+    "spell_attack": 76,
+    "physic_defence": 28,
+    "spell_defence": 28
+  },
+  {
+    "id": 20,
+    "idonline_charm_modify": 1,
+    "level": 20,
+    "hp": 149,
+    "physic_attack": 78,
+    "spell_attack": 78,
+    "physic_defence": 29,
+    "spell_defence": 29
+  },
+  {
+    "id": 21,
+    "idonline_charm_modify": 1,
+    "level": 21,
+    "hp": 164,
+    "physic_attack": 81,
+    "spell_attack": 81,
+    "physic_defence": 30,
+    "spell_defence": 30
+  },
+  {
+    "id": 22,
+    "idonline_charm_modify": 1,
+    "level": 22,
+    "hp": 169,
+    "physic_attack": 83,
+    "spell_attack": 83,
+    "physic_defence": 31,
+    "spell_defence": 31
+  },
+  {
+    "id": 23,
+    "idonline_charm_modify": 1,
+    "level": 23,
+    "hp": 174,
+    "physic_attack": 86,
+    "spell_attack": 86,
+    "physic_defence": 32,
+    "spell_defence": 32
+  },
+  {
+    "id": 24,
+    "idonline_charm_modify": 1,
+    "level": 24,
+    "hp": 179,
+    "physic_attack": 88,
+    "spell_attack": 88,
+    "physic_defence": 33,
+    "spell_defence": 33
+  },
+  {
+    "id": 25,
+    "idonline_charm_modify": 1,
+    "level": 25,
+    "hp": 185,
+    "physic_attack": 91,
+    "spell_attack": 91,
+    "physic_defence": 34,
+    "spell_defence": 34
+  },
+  {
+    "id": 26,
+    "idonline_charm_modify": 1,
+    "level": 26,
+    "hp": 190,
+    "physic_attack": 93,
+    "spell_attack": 93,
+    "physic_defence": 35,
+    "spell_defence": 35
+  },
+  {
+    "id": 27,
+    "idonline_charm_modify": 1,
+    "level": 27,
+    "hp": 195,
+    "physic_attack": 96,
+    "spell_attack": 96,
+    "physic_defence": 36,
+    "spell_defence": 36
+  },
+  {
+    "id": 28,
+    "idonline_charm_modify": 1,
+    "level": 28,
+    "hp": 200,
+    "physic_attack": 99,
+    "spell_attack": 99,
+    "physic_defence": 37,
+    "spell_defence": 37
+  },
+  {
+    "id": 29,
+    "idonline_charm_modify": 1,
+    "level": 29,
+    "hp": 205,
+    "physic_attack": 101,
+    "spell_attack": 101,
+    "physic_defence": 38,
+    "spell_defence": 38
+  },
+  {
+    "id": 30,
+    "idonline_charm_modify": 1,
+    "level": 30,
+    "hp": 211,
+    "physic_attack": 104,
+    "spell_attack": 104,
+    "physic_defence": 39,
+    "spell_defence": 39
+  },
+  {
+    "id": 31,
+    "idonline_charm_modify": 1,
+    "level": 31,
+    "hp": 232,
+    "physic_attack": 108,
+    "spell_attack": 108,
+    "physic_defence": 40,
+    "spell_defence": 40
+  },
+  {
+    "id": 32,
+    "idonline_charm_modify": 1,
+    "level": 32,
+    "hp": 241,
+    "physic_attack": 112,
+    "spell_attack": 112,
+    "physic_defence": 42,
+    "spell_defence": 42
+  },
+  {
+    "id": 33,
+    "idonline_charm_modify": 1,
+    "level": 33,
+    "hp": 250,
+    "physic_attack": 116,
+    "spell_attack": 116,
+    "physic_defence": 44,
+    "spell_defence": 44
+  },
+  {
+    "id": 34,
+    "idonline_charm_modify": 1,
+    "level": 34,
+    "hp": 259,
+    "physic_attack": 121,
+    "spell_attack": 121,
+    "physic_defence": 45,
+    "spell_defence": 45
+  },
+  {
+    "id": 35,
+    "idonline_charm_modify": 1,
+    "level": 35,
+    "hp": 269,
+    "physic_attack": 125,
+    "spell_attack": 125,
+    "physic_defence": 47,
+    "spell_defence": 47
+  },
+  {
+    "id": 36,
+    "idonline_charm_modify": 1,
+    "level": 36,
+    "hp": 278,
+    "physic_attack": 129,
+    "spell_attack": 129,
+    "physic_defence": 48,
+    "spell_defence": 48
+  },
+  {
+    "id": 37,
+    "idonline_charm_modify": 1,
+    "level": 37,
+    "hp": 287,
+    "physic_attack": 133,
+    "spell_attack": 133,
+    "physic_defence": 50,
+    "spell_defence": 50
+  },
+  {
+    "id": 38,
+    "idonline_charm_modify": 1,
+    "level": 38,
+    "hp": 296,
+    "physic_attack": 137,
+    "spell_attack": 137,
+    "physic_defence": 52,
+    "spell_defence": 52
+  },
+  {
+    "id": 39,
+    "idonline_charm_modify": 1,
+    "level": 39,
+    "hp": 305,
+    "physic_attack": 142,
+    "spell_attack": 142,
+    "physic_defence": 53,
+    "spell_defence": 53
+  },
+  {
+    "id": 40,
+    "idonline_charm_modify": 1,
+    "level": 40,
+    "hp": 314,
+    "physic_attack": 146,
+    "spell_attack": 146,
+    "physic_defence": 55,
+    "spell_defence": 55
+  },
+  {
+    "id": 41,
+    "idonline_charm_modify": 1,
+    "level": 41,
+    "hp": 341,
+    "physic_attack": 150,
+    "spell_attack": 150,
+    "physic_defence": 56,
+    "spell_defence": 56
+  },
+  {
+    "id": 42,
+    "idonline_charm_modify": 1,
+    "level": 42,
+    "hp": 351,
+    "physic_attack": 154,
+    "spell_attack": 154,
+    "physic_defence": 58,
+    "spell_defence": 58
+  },
+  {
+    "id": 43,
+    "idonline_charm_modify": 1,
+    "level": 43,
+    "hp": 360,
+    "physic_attack": 159,
+    "spell_attack": 159,
+    "physic_defence": 59,
+    "spell_defence": 59
+  },
+  {
+    "id": 44,
+    "idonline_charm_modify": 1,
+    "level": 44,
+    "hp": 370,
+    "physic_attack": 163,
+    "spell_attack": 163,
+    "physic_defence": 61,
+    "spell_defence": 61
+  },
+  {
+    "id": 45,
+    "idonline_charm_modify": 1,
+    "level": 45,
+    "hp": 379,
+    "physic_attack": 167,
+    "spell_attack": 167,
+    "physic_defence": 63,
+    "spell_defence": 63
+  },
+  {
+    "id": 46,
+    "idonline_charm_modify": 1,
+    "level": 46,
+    "hp": 389,
+    "physic_attack": 171,
+    "spell_attack": 171,
+    "physic_defence": 64,
+    "spell_defence": 64
+  },
+  {
+    "id": 47,
+    "idonline_charm_modify": 1,
+    "level": 47,
+    "hp": 399,
+    "physic_attack": 175,
+    "spell_attack": 175,
+    "physic_defence": 66,
+    "spell_defence": 66
+  },
+  {
+    "id": 48,
+    "idonline_charm_modify": 1,
+    "level": 48,
+    "hp": 408,
+    "physic_attack": 180,
+    "spell_attack": 180,
+    "physic_defence": 67,
+    "spell_defence": 67
+  },
+  {
+    "id": 49,
+    "idonline_charm_modify": 1,
+    "level": 49,
+    "hp": 418,
+    "physic_attack": 184,
+    "spell_attack": 184,
+    "physic_defence": 69,
+    "spell_defence": 69
+  },
+  {
+    "id": 50,
+    "idonline_charm_modify": 1,
+    "level": 50,
+    "hp": 427,
+    "physic_attack": 188,
+    "spell_attack": 188,
+    "physic_defence": 71,
+    "spell_defence": 71
+  },
+  {
+    "id": 51,
+    "idonline_charm_modify": 1,
+    "level": 51,
+    "hp": 460,
+    "physic_attack": 192,
+    "spell_attack": 192,
+    "physic_defence": 72,
+    "spell_defence": 72
+  },
+  {
+    "id": 52,
+    "idonline_charm_modify": 1,
+    "level": 52,
+    "hp": 470,
+    "physic_attack": 197,
+    "spell_attack": 197,
+    "physic_defence": 74,
+    "spell_defence": 74
+  },
+  {
+    "id": 53,
+    "idonline_charm_modify": 1,
+    "level": 53,
+    "hp": 480,
+    "physic_attack": 201,
+    "spell_attack": 201,
+    "physic_defence": 75,
+    "spell_defence": 75
+  },
+  {
+    "id": 54,
+    "idonline_charm_modify": 1,
+    "level": 54,
+    "hp": 490,
+    "physic_attack": 205,
+    "spell_attack": 205,
+    "physic_defence": 77,
+    "spell_defence": 77
+  },
+  {
+    "id": 55,
+    "idonline_charm_modify": 1,
+    "level": 55,
+    "hp": 500,
+    "physic_attack": 209,
+    "spell_attack": 209,
+    "physic_defence": 78,
+    "spell_defence": 78
+  },
+  {
+    "id": 56,
+    "idonline_charm_modify": 1,
+    "level": 56,
+    "hp": 510,
+    "physic_attack": 214,
+    "spell_attack": 214,
+    "physic_defence": 80,
+    "spell_defence": 80
+  },
+  {
+    "id": 57,
+    "idonline_charm_modify": 1,
+    "level": 57,
+    "hp": 521,
+    "physic_attack": 218,
+    "spell_attack": 218,
+    "physic_defence": 82,
+    "spell_defence": 82
+  },
+  {
+    "id": 58,
+    "idonline_charm_modify": 1,
+    "level": 58,
+    "hp": 531,
+    "physic_attack": 222,
+    "spell_attack": 222,
+    "physic_defence": 83,
+    "spell_defence": 83
+  },
+  {
+    "id": 59,
+    "idonline_charm_modify": 1,
+    "level": 59,
+    "hp": 541,
+    "physic_attack": 226,
+    "spell_attack": 226,
+    "physic_defence": 85,
+    "spell_defence": 85
+  },
+  {
+    "id": 60,
+    "idonline_charm_modify": 1,
+    "level": 60,
+    "hp": 551,
+    "physic_attack": 230,
+    "spell_attack": 230,
+    "physic_defence": 86,
+    "spell_defence": 86
+  },
+  {
+    "id": 61,
+    "idonline_charm_modify": 2,
+    "level": 1,
+    "hp": 1,
+    "physic_attack": 1,
+    "spell_attack": 1,
+    "physic_defence": 1,
+    "spell_defence": 1
+  },
+  {
+    "id": 62,
+    "idonline_charm_modify": 2,
+    "level": 2,
+    "hp": 2,
+    "physic_attack": 2,
+    "spell_attack": 2,
+    "physic_defence": 2,
+    "spell_defence": 2
+  },
+  {
+    "id": 63,
+    "idonline_charm_modify": 2,
+    "level": 3,
+    "hp": 3,
+    "physic_attack": 3,
+    "spell_attack": 3,
+    "physic_defence": 3,
+    "spell_defence": 3
+  },
+  {
+    "id": 64,
+    "idonline_charm_modify": 2,
+    "level": 4,
+    "hp": 4,
+    "physic_attack": 4,
+    "spell_attack": 4,
+    "physic_defence": 4,
+    "spell_defence": 4
+  },
+  {
+    "id": 65,
+    "idonline_charm_modify": 2,
+    "level": 5,
+    "hp": 5,
+    "physic_attack": 5,
+    "spell_attack": 5,
+    "physic_defence": 5,
+    "spell_defence": 5
+  },
+  {
+    "id": 66,
+    "idonline_charm_modify": 2,
+    "level": 6,
+    "hp": 6,
+    "physic_attack": 6,
+    "spell_attack": 6,
+    "physic_defence": 6,
+    "spell_defence": 6
+  },
+  {
+    "id": 67,
+    "idonline_charm_modify": 2,
+    "level": 7,
+    "hp": 7,
+    "physic_attack": 7,
+    "spell_attack": 7,
+    "physic_defence": 7,
+    "spell_defence": 7
+  },
+  {
+    "id": 68,
+    "idonline_charm_modify": 2,
+    "level": 8,
+    "hp": 8,
+    "physic_attack": 8,
+    "spell_attack": 8,
+    "physic_defence": 8,
+    "spell_defence": 8
+  },
+  {
+    "id": 69,
+    "idonline_charm_modify": 2,
+    "level": 9,
+    "hp": 9,
+    "physic_attack": 9,
+    "spell_attack": 9,
+    "physic_defence": 9,
+    "spell_defence": 9
+  },
+  {
+    "id": 70,
+    "idonline_charm_modify": 2,
+    "level": 10,
+    "hp": 10,
+    "physic_attack": 10,
+    "spell_attack": 10,
+    "physic_defence": 10,
+    "spell_defence": 10
+  },
+  {
+    "id": 71,
+    "idonline_charm_modify": 2,
+    "level": 11,
+    "hp": 11,
+    "physic_attack": 11,
+    "spell_attack": 11,
+    "physic_defence": 11,
+    "spell_defence": 11
+  },
+  {
+    "id": 72,
+    "idonline_charm_modify": 2,
+    "level": 12,
+    "hp": 12,
+    "physic_attack": 12,
+    "spell_attack": 12,
+    "physic_defence": 12,
+    "spell_defence": 12
+  },
+  {
+    "id": 73,
+    "idonline_charm_modify": 2,
+    "level": 13,
+    "hp": 13,
+    "physic_attack": 13,
+    "spell_attack": 13,
+    "physic_defence": 13,
+    "spell_defence": 13
+  },
+  {
+    "id": 74,
+    "idonline_charm_modify": 2,
+    "level": 14,
+    "hp": 14,
+    "physic_attack": 14,
+    "spell_attack": 14,
+    "physic_defence": 14,
+    "spell_defence": 14
+  },
+  {
+    "id": 75,
+    "idonline_charm_modify": 2,
+    "level": 15,
+    "hp": 15,
+    "physic_attack": 15,
+    "spell_attack": 15,
+    "physic_defence": 15,
+    "spell_defence": 15
+  },
+  {
+    "id": 76,
+    "idonline_charm_modify": 2,
+    "level": 16,
+    "hp": 16,
+    "physic_attack": 16,
+    "spell_attack": 16,
+    "physic_defence": 16,
+    "spell_defence": 16
+  },
+  {
+    "id": 77,
+    "idonline_charm_modify": 2,
+    "level": 17,
+    "hp": 17,
+    "physic_attack": 17,
+    "spell_attack": 17,
+    "physic_defence": 17,
+    "spell_defence": 17
+  },
+  {
+    "id": 78,
+    "idonline_charm_modify": 2,
+    "level": 18,
+    "hp": 18,
+    "physic_attack": 18,
+    "spell_attack": 18,
+    "physic_defence": 18,
+    "spell_defence": 18
+  },
+  {
+    "id": 79,
+    "idonline_charm_modify": 2,
+    "level": 19,
+    "hp": 19,
+    "physic_attack": 19,
+    "spell_attack": 19,
+    "physic_defence": 19,
+    "spell_defence": 19
+  },
+  {
+    "id": 80,
+    "idonline_charm_modify": 2,
+    "level": 20,
+    "hp": 20,
+    "physic_attack": 20,
+    "spell_attack": 20,
+    "physic_defence": 20,
+    "spell_defence": 20
+  },
+  {
+    "id": 81,
+    "idonline_charm_modify": 2,
+    "level": 21,
+    "hp": 21,
+    "physic_attack": 21,
+    "spell_attack": 21,
+    "physic_defence": 21,
+    "spell_defence": 21
+  },
+  {
+    "id": 82,
+    "idonline_charm_modify": 2,
+    "level": 22,
+    "hp": 22,
+    "physic_attack": 22,
+    "spell_attack": 22,
+    "physic_defence": 22,
+    "spell_defence": 22
+  },
+  {
+    "id": 83,
+    "idonline_charm_modify": 2,
+    "level": 23,
+    "hp": 23,
+    "physic_attack": 23,
+    "spell_attack": 23,
+    "physic_defence": 23,
+    "spell_defence": 23
+  },
+  {
+    "id": 84,
+    "idonline_charm_modify": 2,
+    "level": 24,
+    "hp": 24,
+    "physic_attack": 24,
+    "spell_attack": 24,
+    "physic_defence": 24,
+    "spell_defence": 24
+  },
+  {
+    "id": 85,
+    "idonline_charm_modify": 2,
+    "level": 25,
+    "hp": 25,
+    "physic_attack": 25,
+    "spell_attack": 25,
+    "physic_defence": 25,
+    "spell_defence": 25
+  },
+  {
+    "id": 86,
+    "idonline_charm_modify": 2,
+    "level": 26,
+    "hp": 26,
+    "physic_attack": 26,
+    "spell_attack": 26,
+    "physic_defence": 26,
+    "spell_defence": 26
+  },
+  {
+    "id": 87,
+    "idonline_charm_modify": 2,
+    "level": 27,
+    "hp": 27,
+    "physic_attack": 27,
+    "spell_attack": 27,
+    "physic_defence": 27,
+    "spell_defence": 27
+  },
+  {
+    "id": 88,
+    "idonline_charm_modify": 2,
+    "level": 28,
+    "hp": 28,
+    "physic_attack": 28,
+    "spell_attack": 28,
+    "physic_defence": 28,
+    "spell_defence": 28
+  },
+  {
+    "id": 89,
+    "idonline_charm_modify": 2,
+    "level": 29,
+    "hp": 29,
+    "physic_attack": 29,
+    "spell_attack": 29,
+    "physic_defence": 29,
+    "spell_defence": 29
+  },
+  {
+    "id": 90,
+    "idonline_charm_modify": 2,
+    "level": 30,
+    "hp": 30,
+    "physic_attack": 30,
+    "spell_attack": 30,
+    "physic_defence": 30,
+    "spell_defence": 30
+  },
+  {
+    "id": 91,
+    "idonline_charm_modify": 2,
+    "level": 31,
+    "hp": 31,
+    "physic_attack": 31,
+    "spell_attack": 31,
+    "physic_defence": 31,
+    "spell_defence": 31
+  },
+  {
+    "id": 92,
+    "idonline_charm_modify": 2,
+    "level": 32,
+    "hp": 32,
+    "physic_attack": 32,
+    "spell_attack": 32,
+    "physic_defence": 32,
+    "spell_defence": 32
+  },
+  {
+    "id": 93,
+    "idonline_charm_modify": 2,
+    "level": 33,
+    "hp": 33,
+    "physic_attack": 33,
+    "spell_attack": 33,
+    "physic_defence": 33,
+    "spell_defence": 33
+  },
+  {
+    "id": 94,
+    "idonline_charm_modify": 2,
+    "level": 34,
+    "hp": 34,
+    "physic_attack": 34,
+    "spell_attack": 34,
+    "physic_defence": 34,
+    "spell_defence": 34
+  },
+  {
+    "id": 95,
+    "idonline_charm_modify": 2,
+    "level": 35,
+    "hp": 35,
+    "physic_attack": 35,
+    "spell_attack": 35,
+    "physic_defence": 35,
+    "spell_defence": 35
+  },
+  {
+    "id": 96,
+    "idonline_charm_modify": 2,
+    "level": 36,
+    "hp": 36,
+    "physic_attack": 36,
+    "spell_attack": 36,
+    "physic_defence": 36,
+    "spell_defence": 36
+  },
+  {
+    "id": 97,
+    "idonline_charm_modify": 2,
+    "level": 37,
+    "hp": 37,
+    "physic_attack": 37,
+    "spell_attack": 37,
+    "physic_defence": 37,
+    "spell_defence": 37
+  },
+  {
+    "id": 98,
+    "idonline_charm_modify": 2,
+    "level": 38,
+    "hp": 38,
+    "physic_attack": 38,
+    "spell_attack": 38,
+    "physic_defence": 38,
+    "spell_defence": 38
+  },
+  {
+    "id": 99,
+    "idonline_charm_modify": 2,
+    "level": 39,
+    "hp": 39,
+    "physic_attack": 39,
+    "spell_attack": 39,
+    "physic_defence": 39,
+    "spell_defence": 39
+  },
+  {
+    "id": 100,
+    "idonline_charm_modify": 2,
+    "level": 40,
+    "hp": 40,
+    "physic_attack": 40,
+    "spell_attack": 40,
+    "physic_defence": 40,
+    "spell_defence": 40
+  },
+  {
+    "id": 101,
+    "idonline_charm_modify": 2,
+    "level": 41,
+    "hp": 41,
+    "physic_attack": 41,
+    "spell_attack": 41,
+    "physic_defence": 41,
+    "spell_defence": 41
+  },
+  {
+    "id": 102,
+    "idonline_charm_modify": 2,
+    "level": 42,
+    "hp": 42,
+    "physic_attack": 42,
+    "spell_attack": 42,
+    "physic_defence": 42,
+    "spell_defence": 42
+  },
+  {
+    "id": 103,
+    "idonline_charm_modify": 2,
+    "level": 43,
+    "hp": 43,
+    "physic_attack": 43,
+    "spell_attack": 43,
+    "physic_defence": 43,
+    "spell_defence": 43
+  },
+  {
+    "id": 104,
+    "idonline_charm_modify": 2,
+    "level": 44,
+    "hp": 44,
+    "physic_attack": 44,
+    "spell_attack": 44,
+    "physic_defence": 44,
+    "spell_defence": 44
+  },
+  {
+    "id": 105,
+    "idonline_charm_modify": 2,
+    "level": 45,
+    "hp": 45,
+    "physic_attack": 45,
+    "spell_attack": 45,
+    "physic_defence": 45,
+    "spell_defence": 45
+  },
+  {
+    "id": 106,
+    "idonline_charm_modify": 2,
+    "level": 46,
+    "hp": 46,
+    "physic_attack": 46,
+    "spell_attack": 46,
+    "physic_defence": 46,
+    "spell_defence": 46
+  },
+  {
+    "id": 107,
+    "idonline_charm_modify": 2,
+    "level": 47,
+    "hp": 47,
+    "physic_attack": 47,
+    "spell_attack": 47,
+    "physic_defence": 47,
+    "spell_defence": 47
+  },
+  {
+    "id": 108,
+    "idonline_charm_modify": 2,
+    "level": 48,
+    "hp": 48,
+    "physic_attack": 48,
+    "spell_attack": 48,
+    "physic_defence": 48,
+    "spell_defence": 48
+  },
+  {
+    "id": 109,
+    "idonline_charm_modify": 2,
+    "level": 49,
+    "hp": 49,
+    "physic_attack": 49,
+    "spell_attack": 49,
+    "physic_defence": 49,
+    "spell_defence": 49
+  },
+  {
+    "id": 110,
+    "idonline_charm_modify": 2,
+    "level": 50,
+    "hp": 50,
+    "physic_attack": 50,
+    "spell_attack": 50,
+    "physic_defence": 50,
+    "spell_defence": 50
+  },
+  {
+    "id": 111,
+    "idonline_charm_modify": 2,
+    "level": 51,
+    "hp": 51,
+    "physic_attack": 51,
+    "spell_attack": 51,
+    "physic_defence": 51,
+    "spell_defence": 51
+  },
+  {
+    "id": 112,
+    "idonline_charm_modify": 2,
+    "level": 52,
+    "hp": 52,
+    "physic_attack": 52,
+    "spell_attack": 52,
+    "physic_defence": 52,
+    "spell_defence": 52
+  },
+  {
+    "id": 113,
+    "idonline_charm_modify": 2,
+    "level": 53,
+    "hp": 53,
+    "physic_attack": 53,
+    "spell_attack": 53,
+    "physic_defence": 53,
+    "spell_defence": 53
+  },
+  {
+    "id": 114,
+    "idonline_charm_modify": 2,
+    "level": 54,
+    "hp": 54,
+    "physic_attack": 54,
+    "spell_attack": 54,
+    "physic_defence": 54,
+    "spell_defence": 54
+  },
+  {
+    "id": 115,
+    "idonline_charm_modify": 2,
+    "level": 55,
+    "hp": 55,
+    "physic_attack": 55,
+    "spell_attack": 55,
+    "physic_defence": 55,
+    "spell_defence": 55
+  },
+  {
+    "id": 116,
+    "idonline_charm_modify": 2,
+    "level": 56,
+    "hp": 56,
+    "physic_attack": 56,
+    "spell_attack": 56,
+    "physic_defence": 56,
+    "spell_defence": 56
+  },
+  {
+    "id": 117,
+    "idonline_charm_modify": 2,
+    "level": 57,
+    "hp": 57,
+    "physic_attack": 57,
+    "spell_attack": 57,
+    "physic_defence": 57,
+    "spell_defence": 57
+  },
+  {
+    "id": 118,
+    "idonline_charm_modify": 2,
+    "level": 58,
+    "hp": 58,
+    "physic_attack": 58,
+    "spell_attack": 58,
+    "physic_defence": 58,
+    "spell_defence": 58
+  },
+  {
+    "id": 119,
+    "idonline_charm_modify": 2,
+    "level": 59,
+    "hp": 59,
+    "physic_attack": 59,
+    "spell_attack": 59,
+    "physic_defence": 59,
+    "spell_defence": 59
+  },
+  {
+    "id": 120,
+    "idonline_charm_modify": 2,
+    "level": 60,
+    "hp": 60,
+    "physic_attack": 60,
+    "spell_attack": 60,
+    "physic_defence": 60,
+    "spell_defence": 60
+  }
+]

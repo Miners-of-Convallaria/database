@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "m_treasures": [],
+    "name": "初入商界",
+    "desc": "依靠贸易的智慧帮助小镇和周边地区恢复稳定。",
+    "point": 4,
+    "treasures": "1",
+    "duration_round": 9,
+    "icon": "character_head_hplayermercenarygirlfset01"
+  },
+  {
+    "id": 2,
+    "m_treasures": [],
+    "name": "抑制粮食投机",
+    "desc": "一些可恶的投机者在粮食紧缺时打起了囤积居奇的主意，我们必须挫败他们的行动。",
+    "point": 3,
+    "treasures": "2",
+    "duration_round": 20,
+    "icon": "character_head_hplayermercenaryboymset01"
+  },
+  {
+    "id": 3,
+    "m_treasures": [],
+    "name": "地方保护",
+    "desc": "为我们在浪涌城的商队遭到了刁难，我们可以尝试解决这个问题。",
+    "point": 2,
+    "treasures": "3",
+    "duration_round": 20,
+    "icon": "character_head_playermset01"
+  },
+  {
+    "id": 4,
+    "m_treasures": [],
+    "name": "建立矿坑城",
+    "desc": "帮助难民们完成新家园的建设，建立自己的支柱产业。",
+    "point": 5,
+    "treasures": "4",
+    "duration_round": 11,
+    "icon": "character_head_hplayerleaderadafset01"
+  },
+  {
+    "id": 5,
+    "m_treasures": [],
+    "name": "开拓市场",
+    "desc": "在战争和黑暗之光的影响下，经营变得困难，我们需要开拓新的市场。",
+    "point": 2,
+    "treasures": "5",
+    "duration_round": 3,
+    "icon": "character_head_playermset01"
+  },
+  {
+    "id": 6,
+    "m_treasures": [],
+    "name": "调查炸药生产",
+    "desc": "调查风谷镇的新产业。",
+    "point": 2,
+    "treasures": "6",
+    "duration_round": 6,
+    "icon": "character_head_playermset01"
+  },
+  {
+    "id": 7,
+    "m_treasures": [],
+    "name": "矿坑城的经济支柱",
+    "desc": "帮助矿坑城发展自己的核心产业。",
+    "point": 3,
+    "treasures": "7",
+    "duration_round": 20,
+    "icon": "character_head_hplayerleaderadafset01"
+  },
+  {
+    "id": 8,
+    "m_treasures": [],
+    "name": "鲁特菲的承诺",
+    "desc": "如果我们能把晶石送往浪涌城，鲁特菲承诺会给我们开一个好价钱。",
+    "point": 3,
+    "treasures": "8",
+    "duration_round": 6,
+    "icon": "character_head_hiriasprincemset01"
+  },
+  {
+    "id": 9,
+    "m_treasures": [],
+    "name": "“历史爱好者”",
+    "desc": "特兰奎洛想要我们的一本古书，他声称自己只是对历史感兴趣。",
+    "point": 1,
+    "treasures": "9",
+    "duration_round": 20,
+    "icon": "character_head_hdarklighttranquillomset01"
+  },
+  {
+    "id": 10,
+    "m_treasures": [],
+    "name": "修复关系",
+    "desc": "阿坎贝建议我们通过贸易修复与王国军的关系。",
+    "point": 2,
+    "treasures": "10",
+    "duration_round": 20,
+    "icon": "character_head_hsolomonbusinessmanmset01"
+  },
+  {
+    "id": 11,
+    "m_treasures": [],
+    "name": "贿赂费尔南多",
+    "desc": "",
+    "point": 1,
+    "treasures": "11",
+    "duration_round": 20,
+    "icon": "character_head_hdarklightfernandomset01"
+  },
+  {
+    "id": 12,
+    "m_treasures": [],
+    "name": "贿赂法皇国贵族",
+    "desc": "虽然法皇国禁止出口晶石，但如果有必要的话我们可以采用一些特别的手段获得法皇国的晶石。",
+    "point": 1,
+    "treasures": "12",
+    "duration_round": 20,
+    "icon": "character_head_npc38"
+  },
+  {
+    "id": 13,
+    "m_treasures": [],
+    "name": "编织幸运",
+    "desc": "在特定的时节薇尔塔山的一些树木的树梢上会挂着一种叫做“幸运网”的手工艺品，在一些地方很受欢迎，或许我们可以与薇尔德人一同运作起这笔生意。",
+    "point": 1,
+    "treasures": "13",
+    "duration_round": 20,
+    "icon": "character_head_hvilderdancerfset01"
+  },
+  {
+    "id": 14,
+    "m_treasures": [],
+    "name": "薪火相传",
+    "desc": "矿坑城在我们的帮助下已经茁壮成长，现在我们可以一起帮助附近的地区抵御威胁，恢复自主能力。或许那些因贫困而加入黑暗之光的人，也会因此而改邪归正。",
+    "point": 6,
+    "treasures": "14",
+    "duration_round": 9,
+    "icon": "character_head_hplayerleaderadafset01"
+  },
+  {
+    "id": 15,
+    "m_treasures": [],
+    "name": "卡达尔的委托",
+    "desc": "",
+    "point": 1,
+    "treasures": "15",
+    "duration_round": 20,
+    "icon": "character_head_npc38"
+  },
+  {
+    "id": 16,
+    "m_treasures": [],
+    "name": "霍玛的事业",
+    "desc": "霍玛需要把一种伊利亚特产的疗伤药材走私进入埃拉曼，以帮助那些遭受创伤的奴隶。",
+    "point": 1,
+    "treasures": "16",
+    "duration_round": 20,
+    "icon": "character_head_hsolomonparrotgirlfset01"
+  },
+  {
+    "id": 17,
+    "m_treasures": [],
+    "name": "血辙",
+    "desc": "晨曦堡和浪涌城同时向你发出了军火订单——是否真的有一些金币比另一些更高尚或是卑劣？",
+    "point": 1,
+    "treasures": "17",
+    "duration_round": 3,
+    "icon": "character_head_playermset01"
+  },
+  {
+    "id": 18,
+    "m_treasures": [],
+    "name": "照亮黑暗",
+    "desc": "解散黑暗之光。",
+    "point": 1,
+    "treasures": "18",
+    "duration_round": 20,
+    "icon": "character_head_playermset01"
+  },
+  {
+    "id": 19,
+    "m_treasures": [],
+    "name": "睦“林”友好",
+    "desc": "薇尔德人面临着埃拉曼人和黑暗之光的双重威胁，恰巧我们已经非常擅长组织防御了。",
+    "point": 2,
+    "treasures": "19",
+    "duration_round": 20,
+    "icon": "character_head_hvildersisterchieffset01"
+  },
+  {
+    "id": 20,
+    "m_treasures": [],
+    "name": "引渡叛徒",
+    "desc": "法皇国要求我们把特兰奎洛送回去。",
+    "point": 1,
+    "treasures": "20",
+    "duration_round": 20,
+    "icon": "character_head_hdarklightfernandomset01"
+  },
+  {
+    "id": 21,
+    "m_treasures": [],
+    "name": "历史铭刻者",
+    "desc": "将我们获得过的那本古书送给塔埃尔。",
+    "point": 1,
+    "treasures": "21",
+    "duration_round": 20,
+    "icon": "character_head_hpapalprincemset01"
+  },
+  {
+    "id": 22,
+    "m_treasures": [],
+    "name": "晶石纪元",
+    "desc": "我们现在有充分地交易晶石的机会，用公平交易来满足骑士团的胃口，为伊利亚带来新的和平。",
+    "point": 3,
+    "treasures": "22",
+    "duration_round": 5,
+    "icon": "character_head_hirialadymunafset02"
+  },
+  {
+    "id": 23,
+    "m_treasures": [],
+    "name": "王权收集癖",
+    "desc": "暮光城的某个贵族似乎对王权有关的物品有特别的迷恋，愿意为收藏这些物品付出不菲的代价。",
+    "point": 1,
+    "treasures": "23",
+    "duration_round": 20,
+    "icon": "character_head_hpapaljudgercfset01"
+  },
+  {
+    "id": 24,
+    "m_treasures": [],
+    "name": "高级染料",
+    "desc": "拉比亚绿洲的那笔染料生意绝对可以赚大钱，前提是有门路……",
+    "point": 3,
+    "treasures": "24",
+    "duration_round": 12,
+    "icon": "character_head_npc19"
+  },
+  {
+    "id": 25,
+    "m_treasures": [],
+    "name": "获取法皇国罪证",
+    "desc": "从掌握法皇国罪证之人的手中获取罪证，使我们在最终的谈判中获得优势。",
+    "point": 1,
+    "treasures": "25",
+    "duration_round": 5,
+    "icon": "character_head_hirialadymunafset02"
+  },
+  {
+    "id": 26,
+    "m_treasures": [],
+    "name": "获取骑士团罪证",
+    "desc": "从掌握骑士评议会罪证之人的手中获取罪证，使我们在最终的谈判中获得优势。",
+    "point": 3,
+    "treasures": "26",
+    "duration_round": 5,
+    "icon": "character_head_hirialadymunafset02"
+  }
+]

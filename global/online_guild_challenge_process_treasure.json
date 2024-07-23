@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "min_consumed_process_percent": 0,
+    "max_consumed_process_percent": 100,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试1"
+  },
+  {
+    "id": 2,
+    "min_consumed_process_percent": 0,
+    "max_consumed_process_percent": 100,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试2"
+  },
+  {
+    "id": 3,
+    "min_consumed_process_percent": 0,
+    "max_consumed_process_percent": 100,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试3"
+  },
+  {
+    "id": 4,
+    "min_consumed_process_percent": 0,
+    "max_consumed_process_percent": 100,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试4"
+  },
+  {
+    "id": 5,
+    "min_consumed_process_percent": 0,
+    "max_consumed_process_percent": 20,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试5"
+  },
+  {
+    "id": 6,
+    "min_consumed_process_percent": 20,
+    "max_consumed_process_percent": 40,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试6"
+  },
+  {
+    "id": 7,
+    "min_consumed_process_percent": 40,
+    "max_consumed_process_percent": 60,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试7"
+  },
+  {
+    "id": 8,
+    "min_consumed_process_percent": 60,
+    "max_consumed_process_percent": 80,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": "",
+    "name": "测试8"
+  }
+]

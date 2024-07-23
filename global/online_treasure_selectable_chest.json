@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "",
+    "editor_name": "测试",
+    "desc": "测试",
+    "rarity": 4,
+    "icon": "material_treasure_chest1",
+    "manual": false
+  },
+  {
+    "id": 2,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "",
+    "editor_name": "预览测试",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_chest1",
+    "manual": false
+  },
+  {
+    "id": 3,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "歌中的宝藏",
+    "editor_name": "战令武器自选宝箱",
+    "desc": "从丰饶武器系列中选择一件武器。",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "manual": false
+  },
+  {
+    "id": 4,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "",
+    "editor_name": "在背包中手动使用的宝箱",
+    "desc": "在背包中手动使用宝箱",
+    "rarity": 1,
+    "icon": "material_treasure_chest1",
+    "manual": true
+  },
+  {
+    "id": 5,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "",
+    "editor_name": "自选附魔材料组SSR(3)",
+    "desc": "可在传说宝剑组刻印、传说权杖组刻印、传说星币组刻印、传说圣杯组刻印中任选一组获得。",
+    "rarity": 1,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 7,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "",
+    "editor_name": "角色自动自选",
+    "desc": "角色",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "manual": false
+  },
+  {
+    "id": 8,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "",
+    "editor_name": "角色手动自选",
+    "desc": "角色",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "manual": true
+  },
+  {
+    "id": 9,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "不同稀有度光辉铸铁",
+    "editor_name": "礼包自选部分-每周锻造礼盒",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "manual": false
+  },
+  {
+    "id": 10,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "传说级刻印*15，史诗级刻印*10",
+    "editor_name": "礼包自选部分-每周刻印礼盒",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 11,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "白金勋章*8，黄金勋章*8",
+    "editor_name": "礼包自选部分-每周进阶礼盒",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 12,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "星辰*6，星耀*6",
+    "editor_name": "礼包自选部分-每周星辰礼盒",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlinesystemtech_chest4",
+    "manual": false
+  },
+  {
+    "id": 13,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "传说级刻印*5，史诗级刻印*10",
+    "editor_name": "礼包自选部分-50级晋升礼包",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 14,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "白银勋章*18，青铜勋章*12",
+    "editor_name": "礼包自选部分-初级进阶精选",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 15,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "黄金勋章*18，白银勋章*10",
+    "editor_name": "礼包自选部分-中级进阶精选",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest2",
+    "manual": false
+  },
+  {
+    "id": 16,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "白金勋章*6，黄金勋章*12",
+    "editor_name": "礼包自选部分-高级进阶精选",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 17,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "白金勋章*16",
+    "editor_name": "礼包自选部分-特级进阶精选",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 18,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白金职阶勋章（3）",
+    "editor_name": "SSR升阶自选宝箱x3",
+    "desc": "从全部系列的白金职阶勋章中选择一组获取（数量3）。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 19,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的青铜职阶勋章",
+    "editor_name": "自选进阶材料N",
+    "desc": "从全部系列的青铜职阶勋章中选择一个获取。",
+    "rarity": 1,
+    "icon": "material_treasure_onlineunitrankmaterial_chest1",
+    "manual": false
+  },
+  {
+    "id": 20,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白银职阶勋章",
+    "editor_name": "自选进阶材料R",
+    "desc": "从全部系列的白银职阶勋章中选择一个获取。",
+    "rarity": 2,
+    "icon": "material_treasure_onlineunitrankmaterial_chest2",
+    "manual": false
+  },
+  {
+    "id": 21,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的黄金职阶勋章",
+    "editor_name": "自选进阶材料SR",
+    "desc": "从全部系列的黄金职阶勋章中选择一个获取。",
+    "rarity": 3,
+    "icon": "material_treasure_onlineunitrankmaterial_chest3",
+    "manual": false
+  },
+  {
+    "id": 22,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白金职阶勋章",
+    "editor_name": "自选进阶材料SSR",
+    "desc": "从全部系列的白金职阶勋章中选择一个获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 23,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星屑",
+    "editor_name": "自选科技材料N",
+    "desc": "从全部系列的星屑中选择一个获取。",
+    "rarity": 1,
+    "icon": "material_treasure_onlinesystemtech_chest1",
+    "manual": false
+  },
+  {
+    "id": 24,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星芒",
+    "editor_name": "自选科技材料R",
+    "desc": "从全部系列的星芒中选择一个获取。",
+    "rarity": 2,
+    "icon": "material_treasure_onlinesystemtech_chest2",
+    "manual": false
+  },
+  {
+    "id": 25,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星耀",
+    "editor_name": "自选科技材料SR",
+    "desc": "从全部系列的星耀中选择一个获取。",
+    "rarity": 3,
+    "icon": "material_treasure_onlinesystemtech_chest3",
+    "manual": false
+  },
+  {
+    "id": 26,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星辰",
+    "editor_name": "自选科技材料SSR",
+    "desc": "从全部系列的星辰中选择一个获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlinesystemtech_chest4",
+    "manual": false
+  },
+  {
+    "id": 27,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的刻印匣",
+    "editor_name": "自选附魔材料N",
+    "desc": "从全部系列的普通级刻印中选择一个获取。",
+    "rarity": 1,
+    "icon": "material_treasure_onlineweapon_enchanting_chest1",
+    "manual": false
+  },
+  {
+    "id": 28,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的精英级刻印匣",
+    "editor_name": "自选附魔材料R",
+    "desc": "从全部系列的精英级刻印中选择一个获取。",
+    "rarity": 2,
+    "icon": "material_treasure_onlineweapon_enchanting_chest2",
+    "manual": false
+  },
+  {
+    "id": 29,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的史诗级刻印匣",
+    "editor_name": "自选附魔材料SR",
+    "desc": "从全部系列的史诗级刻印中选择一个获取。",
+    "rarity": 3,
+    "icon": "material_treasure_onlineweapon_enchanting_chest3",
+    "manual": false
+  },
+  {
+    "id": 30,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的传说级刻印匣",
+    "editor_name": "自选附魔材料SSR",
+    "desc": "从全部系列的传说级刻印中选择一个获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 31,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "不同稀有度光辉铸铁（3）",
+    "editor_name": "自选突破材料宝箱x3",
+    "desc": "从各稀有度光辉铸铁中选择一组获取，其中包括传说级光辉铸铁（数量3）。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 32,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "不同稀有度光辉铸铁（5）",
+    "editor_name": "自选突破材料宝箱x5",
+    "desc": "从各稀有度光辉铸铁中选择一组获取，其中包括传说级光辉铸铁（数量5）。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 33,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白金职阶勋章（5）",
+    "editor_name": "SSR升阶自选宝箱x5",
+    "desc": "从全部系列的白金职阶勋章中选择一组获取（数量5）。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 34,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白金职阶勋章（10）",
+    "editor_name": "SSR升阶自选宝箱x10",
+    "desc": "从全部系列的白金职阶勋章中选择一组获取（数量10）。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 35,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "自选传说级角色",
+    "editor_name": "台服自选角色SSR",
+    "desc": "从指定传说级角色中选择一名获取。",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "manual": false
+  },
+  {
+    "id": 37,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白金职阶勋章（6）",
+    "editor_name": "SSR升阶自选宝箱x6",
+    "desc": "从全部系列的白金职阶勋章中选择一组获取（数量6）。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": false
+  },
+  {
+    "id": 38,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的刻印匣组合",
+    "editor_name": "礼包自选部分-每周刻印礼盒",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 39,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的职阶勋章组合",
+    "editor_name": "礼包自选部分-每月邂逅特典",
+    "desc": "",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": false
+  },
+  {
+    "id": 40,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "自选传说级角色",
+    "editor_name": "台服自选角色SSR-手动",
+    "desc": "可以从指定传说级角色中选择一名获取。",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
+    "manual": true
+  },
+  {
+    "id": 41,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "自选史诗级角色",
+    "editor_name": "国服自选SR角色",
+    "desc": "从指定史诗级角色中选择一名获取。",
+    "rarity": 3,
+    "icon": "material_treasure_chest_newyear",
+    "manual": true
+  },
+  {
+    "id": 42,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "护石手动自选测试",
+    "editor_name": "护石手动自选",
+    "desc": "护石自选",
+    "rarity": 4,
+    "icon": "material_charm4",
+    "manual": true
+  },
+  {
+    "id": 43,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "自选传说级装备",
+    "editor_name": "自选SSR装备-手动",
+    "desc": "从指定传说级装备中选择一件获取。",
+    "rarity": 4,
+    "icon": "material_onlineweapon_chest4",
+    "manual": true
+  },
+  {
+    "id": 44,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "自选传说级塔罗之语（系列Ⅰ）",
+    "editor_name": "自选SSR护石（系列Ⅰ）-手动",
+    "desc": "从指定传说级塔罗之语（系列Ⅰ）中选择一件获取。",
+    "rarity": 4,
+    "icon": "material_charm4",
+    "manual": true
+  },
+  {
+    "id": 45,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白金职阶勋章",
+    "editor_name": "自选进阶材料SSR-手动",
+    "desc": "从全部系列的白金职阶勋章中选择一个获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": true
+  },
+  {
+    "id": 46,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的传说级刻印匣",
+    "editor_name": "自选附魔材料SSR-手动",
+    "desc": "从全部系列的传说级刻印中选择一个获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": true
+  },
+  {
+    "id": 47,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的青铜职阶勋章",
+    "editor_name": "自选进阶材料N-手动",
+    "desc": "从全部系列的青铜职阶勋章中选择一个获取。",
+    "rarity": 1,
+    "icon": "material_treasure_onlineunitrankmaterial_chest1",
+    "manual": true
+  },
+  {
+    "id": 48,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的白银职阶勋章",
+    "editor_name": "自选进阶材料R-手动",
+    "desc": "从全部系列的白银职阶勋章中选择一个获取。",
+    "rarity": 2,
+    "icon": "material_treasure_onlineunitrankmaterial_chest2",
+    "manual": true
+  },
+  {
+    "id": 49,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的黄金职阶勋章",
+    "editor_name": "自选进阶材料SR-手动",
+    "desc": "从全部系列的黄金职阶勋章中选择一个获取。",
+    "rarity": 3,
+    "icon": "material_treasure_onlineunitrankmaterial_chest3",
+    "manual": true
+  },
+  {
+    "id": 50,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星屑",
+    "editor_name": "自选科技材料N-手动",
+    "desc": "从全部系列的星屑中选择一个获取。",
+    "rarity": 1,
+    "icon": "material_treasure_onlinesystemtech_chest1",
+    "manual": true
+  },
+  {
+    "id": 51,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星芒",
+    "editor_name": "自选科技材料R-手动",
+    "desc": "从全部系列的星芒中选择一个获取。",
+    "rarity": 2,
+    "icon": "material_treasure_onlinesystemtech_chest2",
+    "manual": true
+  },
+  {
+    "id": 52,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星耀",
+    "editor_name": "自选科技材料SR-手动",
+    "desc": "从全部系列的星耀中选择一个获取。",
+    "rarity": 3,
+    "icon": "material_treasure_onlinesystemtech_chest3",
+    "manual": true
+  },
+  {
+    "id": 53,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的星辰",
+    "editor_name": "自选科技材料SSR-手动",
+    "desc": "从全部系列的星辰中选择一个获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlinesystemtech_chest4",
+    "manual": true
+  },
+  {
+    "id": 54,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的刻印匣",
+    "editor_name": "自选附魔材料N-手动",
+    "desc": "从全部系列的传说级刻印中选择一个获取。",
+    "rarity": 1,
+    "icon": "material_treasure_onlineweapon_enchanting_chest1",
+    "manual": true
+  },
+  {
+    "id": 55,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的精英级刻印匣",
+    "editor_name": "自选附魔材料R-手动",
+    "desc": "从全部系列的传说级刻印中选择一个获取。",
+    "rarity": 2,
+    "icon": "material_treasure_onlineweapon_enchanting_chest2",
+    "manual": true
+  },
+  {
+    "id": 56,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的史诗级刻印匣",
+    "editor_name": "自选附魔材料SR-手动",
+    "desc": "从全部系列的传说级刻印中选择一个获取。",
+    "rarity": 3,
+    "icon": "material_treasure_onlineweapon_enchanting_chest3",
+    "manual": true
+  },
+  {
+    "id": 57,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的职阶勋章",
+    "editor_name": "自选进阶宝箱-全稀有度",
+    "desc": "从各稀有度的职阶勋章中选择一组获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineunitrankmaterial_chest4",
+    "manual": true
+  },
+  {
+    "id": 58,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "不同稀有度的光辉铸铁",
+    "editor_name": "自选突破材料宝箱-全稀有度",
+    "desc": "从各稀有度光辉铸铁中选择一组获取。",
+    "rarity": 4,
+    "icon": "material_random_chest4",
+    "manual": true
+  },
+  {
+    "id": 59,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "无名的刻印匣",
+    "editor_name": "自选附魔材料宝箱-全稀有度",
+    "desc": "从各稀有度的刻印中选择一组获取。",
+    "rarity": 4,
+    "icon": "material_treasure_onlineweapon_enchanting_chest4",
+    "manual": true
+  },
+  {
+    "id": 60,
+    "m_online_treasure_selectable_chest_bonuss": [],
+    "name": "综合自选宝箱",
+    "editor_name": "综合自选宝箱",
+    "desc": "从职阶勋章、光辉铸铁、刻印匣、公共经验、光辉冶粉、星之微粒、乐土币中选择一组获取。",
+    "rarity": 4,
+    "icon": "material_random_chest4",
+    "manual": true
+  }
+]

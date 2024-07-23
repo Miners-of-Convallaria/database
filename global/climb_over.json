@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "type": "Ditch",
+    "name": "沟壑"
+  },
+  {
+    "id": 2,
+    "type": "Enemy",
+    "name": "敌人"
+  },
+  {
+    "id": 3,
+    "type": "Neutral",
+    "name": "中立单位"
+  },
+  {
+    "id": 4,
+    "type": "Friend",
+    "name": "友军"
+  },
+  {
+    "id": 5,
+    "type": "Trap",
+    "name": "陷阱"
+  },
+  {
+    "id": 6,
+    "type": "Burning",
+    "name": "燃烧"
+  },
+  {
+    "id": 7,
+    "type": "Frozen",
+    "name": "冰冻"
+  }
+]

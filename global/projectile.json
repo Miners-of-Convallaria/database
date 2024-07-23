@@ -1,0 +1,857 @@
+[
+  {
+    "id": 1,
+    "name": "箭",
+    "desc": "",
+    "model": "arrow_p",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 2,
+    "name": "火球_头顶起点_01",
+    "desc": "",
+    "model": "fireball_flying",
+    "position": "0|0.9|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 3,
+    "name": "重型箭_镜头跟随",
+    "desc": "",
+    "model": "arrow_alter",
+    "position": "",
+    "isfollow_direct": true,
+    "sound_id": 0
+  },
+  {
+    "id": 4,
+    "name": "曲射箭_镜头跟随",
+    "desc": "",
+    "model": "arrow_qushe",
+    "position": "",
+    "isfollow_direct": true,
+    "sound_id": 0
+  },
+  {
+    "id": 9,
+    "name": "火箭",
+    "desc": "",
+    "model": "arrow_fire_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 10,
+    "name": "冰箭",
+    "desc": "",
+    "model": "arrow_ice_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 11,
+    "name": "毒箭",
+    "desc": "",
+    "model": "arrow_poison_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 13,
+    "name": "诅咒箭",
+    "desc": "",
+    "model": "arrow_curse_01",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 14,
+    "name": "眩晕箭",
+    "desc": "",
+    "model": "arrow_dizziness_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 16,
+    "name": "光箭",
+    "desc": "",
+    "model": "magic_lightarrow_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 17,
+    "name": "魔法飞弹",
+    "desc": "",
+    "model": "magic_lightball_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 18,
+    "name": "empty_透明箭矢_镜头跟随",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "",
+    "isfollow_direct": true,
+    "sound_id": 0
+  },
+  {
+    "id": 19,
+    "name": "无影箭",
+    "desc": "",
+    "model": "fast_flying",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 20,
+    "name": "爆炸箭",
+    "desc": "",
+    "model": "arrow_bomb_01",
+    "position": "arrow",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 21,
+    "name": "飞斧",
+    "desc": "",
+    "model": "flyaxe_flying",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 22,
+    "name": "苦无（黑）",
+    "desc": "",
+    "model": "fxtl_arrow_knife_02",
+    "position": "arrow",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 23,
+    "name": "苦无（黄）",
+    "desc": "",
+    "model": "fxtl_arrow_knife_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 24,
+    "name": "苦无（绿）",
+    "desc": "",
+    "model": "fxtl_arrow_knife_03",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 25,
+    "name": "光球_头顶",
+    "desc": "",
+    "model": "holyball_flying",
+    "position": "0|1.5|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 27,
+    "name": "光箭2",
+    "desc": "",
+    "model": "arrow_magic_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 28,
+    "name": "大火球_头顶起点",
+    "desc": "",
+    "model": "fireballbig_flying",
+    "position": "0|1.6|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 30,
+    "name": "舞娘飞刀",
+    "desc": "",
+    "model": "fxtl_arrow_knife_02",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 31,
+    "name": "暗影法弹",
+    "desc": "",
+    "model": "magic_darkball_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 32,
+    "name": "炸弹",
+    "desc": "",
+    "model": "arrow_bomb_01",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 33,
+    "name": "冰锥",
+    "desc": "",
+    "model": "fxtl_ice_lineattack_arrow_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 34,
+    "name": "警戒箭_镜头跟随",
+    "desc": "一条紫光\n",
+    "model": "archer_alter_arrowtest_01",
+    "position": "",
+    "isfollow_direct": true,
+    "sound_id": 0
+  },
+  {
+    "id": 35,
+    "name": "燃烧瓶",
+    "desc": "",
+    "model": "fx_arrow_bottlebomb_01",
+    "position": "0|0.5|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 36,
+    "name": "8bit箭_13人",
+    "desc": "",
+    "model": "fx_arrow_8bit13_01",
+    "position": "arrow",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 37,
+    "name": "玫瑰白",
+    "desc": "",
+    "model": "fx_arrow_rose_01",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 38,
+    "name": "火球_有灯",
+    "desc": "",
+    "model": "fireball_flying",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 39,
+    "name": "魔法飞弹_头顶起点_01",
+    "desc": "",
+    "model": "magic_lightball_01",
+    "position": "0|1|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 40,
+    "name": "empty_透明箭矢",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 41,
+    "name": "重型箭",
+    "desc": "",
+    "model": "arrow_alter",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 42,
+    "name": "小石子",
+    "desc": "",
+    "model": "fx_arrow_stone_01",
+    "position": "0|0.1|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 43,
+    "name": "便宜投枪",
+    "desc": "",
+    "model": "fx_flyspear_01",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 44,
+    "name": "真实之眼射线",
+    "desc": "无实际内容，美术效果来自拖尾",
+    "model": "empty_flying",
+    "position": "0|1.5|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 45,
+    "name": "（测试）火球zz",
+    "desc": "测试用火球",
+    "model": "wizard_fireball_cast_normal",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 1505
+  },
+  {
+    "id": 46,
+    "name": "绿苦无_高度2.5",
+    "desc": "",
+    "model": "fxtl_arrow_knife_03",
+    "position": "0|2.5|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 47,
+    "name": "透明紫色魔法飞弹",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 48,
+    "name": "塔罗boss智力_普攻光弹",
+    "desc": "",
+    "model": "fx_taluoboss3_pugong_dandao",
+    "position": "-1.1|3|-0.7",
+    "isfollow_direct": true,
+    "sound_id": 0
+  },
+  {
+    "id": 49,
+    "name": "塔罗boss智力_技能1_光弹01",
+    "desc": "",
+    "model": "fx_taluoboss3_skill1_dandao",
+    "position": "-1.1|1.8|-2.2",
+    "isfollow_direct": false,
+    "sound_id": 2527
+  },
+  {
+    "id": 50,
+    "name": "塔罗boss智力_技能1_光弹02",
+    "desc": "",
+    "model": "fx_taluoboss3_skill1_dandao",
+    "position": "-1.1|1.8|0.6",
+    "isfollow_direct": false,
+    "sound_id": 2527
+  },
+  {
+    "id": 51,
+    "name": "塔罗boss智力_技能1_光弹03",
+    "desc": "",
+    "model": "fx_taluoboss3_skill1_dandao",
+    "position": "-1.1|3|-0.7",
+    "isfollow_direct": false,
+    "sound_id": 2527
+  },
+  {
+    "id": 52,
+    "name": "塔罗boss蓝色箭",
+    "desc": "",
+    "model": "arrow_ice_01",
+    "position": "-1|2.7|-0.6",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 53,
+    "name": "塔罗boss蓝色箭技能2",
+    "desc": "",
+    "model": "arrow_ice_01",
+    "position": "0|1.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 54,
+    "name": "透明飞弹_中心点",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 55,
+    "name": "8bit法卡尔",
+    "desc": "",
+    "model": "fx_arrow_8bit_green",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 56,
+    "name": "无属性法术飞弹_0.25高度",
+    "desc": "",
+    "model": "fx_magicball_tail_01",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 57,
+    "name": "金币",
+    "desc": "",
+    "model": "fx_jinbi_migeer",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 58,
+    "name": "流星箭",
+    "desc": "",
+    "model": "arrow_meteor",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 59,
+    "name": "信号弹",
+    "desc": "",
+    "model": "fx_red_lightball_01",
+    "position": "0|0.8|0",
+    "isfollow_direct": true,
+    "sound_id": 0
+  },
+  {
+    "id": 60,
+    "name": "破城弩箭",
+    "desc": "",
+    "model": "fx_flyspear_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 61,
+    "name": "empty_透明箭矢_0.3高度",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 62,
+    "name": "魔法飞弹_0.25高度",
+    "desc": "",
+    "model": "magic_lightball_01",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 63,
+    "name": "油桶",
+    "desc": "",
+    "model": "arrow_lantern_01",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 64,
+    "name": "暗属性法弹_晶石少女",
+    "desc": "",
+    "model": "fx_jingshishaonv_anpingshe_zidan",
+    "position": "0|1.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 65,
+    "name": "原力推法弹_晶石少女",
+    "desc": "",
+    "model": "fx_jingshishaonv_anpingshe_zidan",
+    "position": "0|2|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 66,
+    "name": "箭_0.25高度",
+    "desc": "",
+    "model": "arrow_p",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 67,
+    "name": "飞爪-箭-露西亚熊人",
+    "desc": "",
+    "model": "fx_xiongren_feizhua_02",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 68,
+    "name": "火箭_0.25高度",
+    "desc": "",
+    "model": "arrow_fire_01",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 69,
+    "name": "重型箭_0.25高度",
+    "desc": "",
+    "model": "arrow_alter",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 70,
+    "name": "冰箭_0.25高度",
+    "desc": "",
+    "model": "arrow_ice_01",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 71,
+    "name": "毒箭_0.25高度",
+    "desc": "",
+    "model": "arrow_poison_01",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 72,
+    "name": "诅咒箭_0.25高度",
+    "desc": "",
+    "model": "arrow_curse_01",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 73,
+    "name": "箭_0.4高度",
+    "desc": "",
+    "model": "arrow_p",
+    "position": "0|0.4|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 74,
+    "name": "重型箭_0.4高度",
+    "desc": "",
+    "model": "arrow_alter",
+    "position": "0|0.4|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 75,
+    "name": "火箭_0.4高度",
+    "desc": "",
+    "model": "arrow_fire_01",
+    "position": "0|0.4|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 76,
+    "name": "毒箭_0.4高度",
+    "desc": "",
+    "model": "arrow_poison_01",
+    "position": "0|0.4|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 77,
+    "name": "冰箭_0.4高度",
+    "desc": "",
+    "model": "arrow_ice_01",
+    "position": "0|0.4|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 78,
+    "name": "便宜投枪_教皇国投枪兵",
+    "desc": "",
+    "model": "fx_flyspear_02",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 79,
+    "name": "（废弃）)冰箭_高度0.25",
+    "desc": "",
+    "model": "arrow_ice_01",
+    "position": "0|0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 80,
+    "name": "飞盾_老骑士",
+    "desc": "",
+    "model": "fx_laoqishi_feidun",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 81,
+    "name": "飞剑_骑士团团长",
+    "desc": "",
+    "model": "fx_tuanzhang_feijian",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 82,
+    "name": "晶石弹_黑暗之光教主",
+    "desc": "",
+    "model": "fx_jiaozhu_jingshi",
+    "position": "0|1.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 83,
+    "name": "飞盾_小红",
+    "desc": "",
+    "model": "fx_xiaohong_feidun",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 84,
+    "name": "箭_鸟_顶起点_01",
+    "desc": "",
+    "model": "fx_bangguowangzi_niao",
+    "position": "0|1|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 85,
+    "name": "empty_透明箭矢_塔罗战车",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "0|0.7|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 86,
+    "name": "empty_透明箭矢_塔罗战车合体",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "0|0.8|0",
+    "isfollow_direct": true,
+    "sound_id": 0
+  },
+  {
+    "id": 87,
+    "name": "箭_法皇之手",
+    "desc": "",
+    "model": "fx_fhzs_feixing",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 88,
+    "name": "蛋糕_草莓",
+    "desc": "",
+    "model": "arrow_cake_01",
+    "position": "0|0.5|0",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 89,
+    "name": "爱心_飘忽",
+    "desc": "",
+    "model": "arrow_love",
+    "position": "0|0.15|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 90,
+    "name": "黑猫箭矢_01",
+    "desc": "",
+    "model": "arrow_blackcat_01",
+    "position": "0|0.45|0",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 91,
+    "name": "飞剑_女骑士",
+    "desc": "",
+    "model": "fx_nvqishi_jianqi",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 92,
+    "name": "旋转飞刀_01_绿",
+    "desc": "",
+    "model": "fx_arrow_rotateknife_01",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 93,
+    "name": "（太亮了）匕首_黑暗之光刺客_暗",
+    "desc": "",
+    "model": "fx_slmr_feibiao",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 94,
+    "name": "暗影法弹0.2",
+    "desc": "",
+    "model": "magic_darkball_01",
+    "position": "0|0.2|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 95,
+    "name": "混血少女蘑菇",
+    "desc": "",
+    "model": "fx_hunxueshaonv_mogudandao",
+    "position": "0|0.5|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 96,
+    "name": "empty_透明箭矢0.5高度",
+    "desc": "",
+    "model": "empty_flying",
+    "position": "0|0.5|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 97,
+    "name": "匕首_鹦鹉人",
+    "desc": "",
+    "model": "fx_ywr_bishou",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 99,
+    "name": "暗影法弹_蜘蛛用",
+    "desc": "",
+    "model": "magic_darkball_01",
+    "position": "0|-0.4|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 102,
+    "name": "大火球",
+    "desc": "",
+    "model": "fireballbig_flying",
+    "position": "0|0|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 103,
+    "name": "晶石炸弹",
+    "desc": "",
+    "model": "fx_heibanglv_jingshi",
+    "position": "0|0.3|0",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 104,
+    "name": "苦无（红）",
+    "desc": "",
+    "model": "fxtl_arrow_knife_04",
+    "position": "arrow",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 105,
+    "name": "净化之果",
+    "desc": "",
+    "model": "arrow_apple_01",
+    "position": "0|0.5|0",
+    "isfollow_direct": false,
+    "sound_id": 1844
+  },
+  {
+    "id": 106,
+    "name": "魔法飞弹_青蛙",
+    "desc": "",
+    "model": "magic_lightball_01",
+    "position": "0|-0.25|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "type": "fade_in",
+    "name": "渐现"
+  },
+  {
+    "id": 2,
+    "type": "unit_effect",
+    "name": "单位对应特效"
+  }
+]

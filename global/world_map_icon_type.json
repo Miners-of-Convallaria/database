@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "Common",
+    "name": "通用",
+    "desc": ""
+  },
+  {
+    "id": 2,
+    "type": "Disaster",
+    "name": "灾难",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "type": "War",
+    "name": "战争",
+    "desc": ""
+  },
+  {
+    "id": 4,
+    "type": "Important",
+    "name": "大事件",
+    "desc": ""
+  }
+]

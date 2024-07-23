@@ -1,0 +1,162 @@
+[
+  {
+    "id": 2,
+    "name": "网游随机经验本-伊利亚力量",
+    "editor_name": "网游随机经验本-伊利亚力量",
+    "profession_category": 1,
+    "weight": 1,
+    "unit_mission_mod_group_id": 19
+  },
+  {
+    "id": 3,
+    "name": "网游随机经验本-伊利亚技巧",
+    "editor_name": "网游随机经验本-伊利亚技巧",
+    "profession_category": 2,
+    "weight": 1,
+    "unit_mission_mod_group_id": 20
+  },
+  {
+    "id": 4,
+    "name": "网游随机经验本-伊利亚异能",
+    "editor_name": "网游随机经验本-伊利亚异能",
+    "profession_category": 3,
+    "weight": 1,
+    "unit_mission_mod_group_id": 21
+  },
+  {
+    "id": 5,
+    "name": "网游随机经验本-力量剑兵单位合集",
+    "editor_name": "网游随机经验本-力量剑兵单位合集",
+    "profession_category": 1,
+    "weight": 1,
+    "unit_mission_mod_group_id": 45
+  },
+  {
+    "id": 6,
+    "name": "网游随机经验本-力量单位合集",
+    "editor_name": "网游随机经验本-力量单位合集",
+    "profession_category": 1,
+    "weight": 1,
+    "unit_mission_mod_group_id": 41
+  },
+  {
+    "id": 7,
+    "name": "网游随机经验本-力量斧兵单位合集",
+    "editor_name": "网游随机经验本-力量斧兵单位合集",
+    "profession_category": 1,
+    "weight": 1,
+    "unit_mission_mod_group_id": 47
+  },
+  {
+    "id": 8,
+    "name": "网游随机经验本-力量枪兵单位合集",
+    "editor_name": "网游随机经验本-力量枪兵单位合集",
+    "profession_category": 1,
+    "weight": 1,
+    "unit_mission_mod_group_id": 46
+  },
+  {
+    "id": 9,
+    "name": "网游随机经验本-技巧刺客单位合集",
+    "editor_name": "网游随机经验本-技巧刺客单位合集",
+    "profession_category": 2,
+    "weight": 1,
+    "unit_mission_mod_group_id": 59
+  },
+  {
+    "id": 10,
+    "name": "网游随机经验本-技巧单位合集",
+    "editor_name": "网游随机经验本-技巧单位合集",
+    "profession_category": 2,
+    "weight": 1,
+    "unit_mission_mod_group_id": 42
+  },
+  {
+    "id": 11,
+    "name": "网游随机经验本-技巧弓兵单位合集",
+    "editor_name": "网游随机经验本-技巧弓兵单位合集",
+    "profession_category": 2,
+    "weight": 1,
+    "unit_mission_mod_group_id": 48
+  },
+  {
+    "id": 12,
+    "name": "网游随机经验本-技巧弩兵单位合集",
+    "editor_name": "网游随机经验本-技巧弩兵单位合集",
+    "profession_category": 2,
+    "weight": 1,
+    "unit_mission_mod_group_id": 49
+  },
+  {
+    "id": 13,
+    "name": "网游随机经验本-教皇国异能",
+    "editor_name": "网游随机经验本-教皇国异能",
+    "profession_category": 3,
+    "weight": 1,
+    "unit_mission_mod_group_id": 37
+  },
+  {
+    "id": 14,
+    "name": "网游随机经验本-教皇国技巧",
+    "editor_name": "网游随机经验本-教皇国技巧",
+    "profession_category": 2,
+    "weight": 1,
+    "unit_mission_mod_group_id": 38
+  },
+  {
+    "id": 15,
+    "name": "网游随机经验本-无属性单位合集",
+    "editor_name": "网游随机经验本-无属性单位合集",
+    "profession_category": 4,
+    "weight": 1,
+    "unit_mission_mod_group_id": 60
+  },
+  {
+    "id": 16,
+    "name": "网游随机经验本-无法者力量",
+    "editor_name": "网游随机经验本-无法者力量",
+    "profession_category": 1,
+    "weight": 1,
+    "unit_mission_mod_group_id": 39
+  },
+  {
+    "id": 17,
+    "name": "网游随机经验本-无法者技巧",
+    "editor_name": "网游随机经验本-无法者技巧",
+    "profession_category": 2,
+    "weight": 1,
+    "unit_mission_mod_group_id": 40
+  },
+  {
+    "id": 18,
+    "name": "网游随机经验本-智力单位合集",
+    "editor_name": "网游随机经验本-智力单位合集",
+    "profession_category": 3,
+    "weight": 1,
+    "unit_mission_mod_group_id": 43
+  },
+  {
+    "id": 19,
+    "name": "网游随机经验本-骑士团力量",
+    "editor_name": "网游随机经验本-骑士团力量",
+    "profession_category": 1,
+    "weight": 1,
+    "unit_mission_mod_group_id": 22
+  },
+  {
+    "id": 20,
+    "name": "网游随机经验本-骑士团异能",
+    "editor_name": "网游随机经验本-骑士团异能",
+    "profession_category": 3,
+    "weight": 1,
+    "unit_mission_mod_group_id": 23
+  },
+  {
+    "id": 21,
+    "name": "网游随机经验本-黑暗之光智力单位",
+    "editor_name": "网游随机经验本-黑暗之光智力单位",
+    "profession_category": 3,
+    "weight": 1,
+    "unit_mission_mod_group_id": 44
+  }
+]

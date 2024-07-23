@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "type": "Poison",
+    "name": "中毒",
+    "idbuff_category": 0
+  },
+  {
+    "id": 2,
+    "type": "Dizzy",
+    "name": "眩晕",
+    "idbuff_category": 0
+  },
+  {
+    "id": 3,
+    "type": "Seal",
+    "name": "封技",
+    "idbuff_category": 0
+  },
+  {
+    "id": 4,
+    "type": "Forget",
+    "name": "遗忘",
+    "idbuff_category": 0
+  },
+  {
+    "id": 5,
+    "type": "Frozen",
+    "name": "冻结",
+    "idbuff_category": 0
+  },
+  {
+    "id": 6,
+    "type": "Fire",
+    "name": "灼烧",
+    "idbuff_category": 0
+  },
+  {
+    "id": 7,
+    "type": "Dot",
+    "name": "生命流失",
+    "idbuff_category": 0
+  },
+  {
+    "id": 8,
+    "type": "AttackUp",
+    "name": "攻击强化",
+    "idbuff_category": 0
+  },
+  {
+    "id": 9,
+    "type": "DefenceUp",
+    "name": "防御强化",
+    "idbuff_category": 0
+  },
+  {
+    "id": 10,
+    "type": "Slow",
+    "name": "减速度",
+    "idbuff_category": 0
+  },
+  {
+    "id": 11,
+    "type": "Immobilize",
+    "name": "定身",
+    "idbuff_category": 0
+  },
+  {
+    "id": 12,
+    "type": "DefenceDown",
+    "name": "防御弱化",
+    "idbuff_category": 0
+  },
+  {
+    "id": 13,
+    "type": "AttackDown",
+    "name": "攻击弱化",
+    "idbuff_category": 0
+  },
+  {
+    "id": 14,
+    "type": "Hot",
+    "name": "持续治疗",
+    "idbuff_category": 0
+  },
+  {
+    "id": 15,
+    "type": "Haste",
+    "name": "加速度",
+    "idbuff_category": 0
+  },
+  {
+    "id": 16,
+    "type": "Stance",
+    "name": "姿态",
+    "idbuff_category": 0
+  },
+  {
+    "id": 17,
+    "type": "MoveUp",
+    "name": "加移动",
+    "idbuff_category": 0
+  },
+  {
+    "id": 18,
+    "type": "MoveDown",
+    "name": "减移动",
+    "idbuff_category": 0
+  },
+  {
+    "id": 19,
+    "type": "Alert",
+    "name": "警戒",
+    "idbuff_category": 13
+  },
+  {
+    "id": 20,
+    "type": "Guanghui",
+    "name": "光辉卫士长个性buff",
+    "idbuff_category": 55
+  },
+  {
+    "id": 22,
+    "type": "BlackMud",
+    "name": "黑泥",
+    "idbuff_category": 0
+  },
+  {
+    "id": 23,
+    "type": "Charm",
+    "name": "魅惑",
+    "idbuff_category": 0
+  }
+]

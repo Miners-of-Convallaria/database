@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "seat_count": 1,
+    "ratio": 1.5
+  },
+  {
+    "id": 2,
+    "seat_count": 2,
+    "ratio": 2
+  },
+  {
+    "id": 3,
+    "seat_count": 3,
+    "ratio": 2.5
+  },
+  {
+    "id": 4,
+    "seat_count": 4,
+    "ratio": 3
+  },
+  {
+    "id": 5,
+    "seat_count": 5,
+    "ratio": 3.5
+  }
+]

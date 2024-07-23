@@ -1,0 +1,2389 @@
+[
+  {
+    "id": 1,
+    "m_unit_personality_skills": [],
+    "name": "铃兰之盾",
+    "editor_name": "[英雄个性]-麦莎-元气少女",
+    "icon": "unitpersonality_linglanzhidong"
+  },
+  {
+    "id": 2,
+    "m_unit_personality_skills": [],
+    "name": "法卡尔的执念",
+    "editor_name": "[英雄个性]-法卡尔-战争孤儿",
+    "icon": "unitpersonality_fakadongdezhinian"
+  },
+  {
+    "id": 3,
+    "m_unit_personality_skills": [],
+    "name": "圣剑武士",
+    "editor_name": "（废弃）英雄个性-奥古斯特-圣剑觉醒",
+    "icon": "unitpersonality_auguste"
+  },
+  {
+    "id": 4,
+    "m_unit_personality_skills": [],
+    "name": "豪饮",
+    "editor_name": "[英雄个性]-拉维耶-豪饮",
+    "icon": "unitpersonality_haoyin"
+  },
+  {
+    "id": 5,
+    "m_unit_personality_skills": [],
+    "name": "测试佣兵个性2",
+    "editor_name": "测试佣兵个性2",
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "m_unit_personality_skills": [],
+    "name": "百战之盾",
+    "editor_name": "[英雄个性]-泰登",
+    "icon": "unitpersonality_teadon"
+  },
+  {
+    "id": 7,
+    "m_unit_personality_skills": [],
+    "name": "宝剑的耀光",
+    "editor_name": "塔罗怪个性-附魔本塔罗BOSS-夺命光球·风",
+    "icon": "unitpersonality_magnus"
+  },
+  {
+    "id": 8,
+    "m_unit_personality_skills": [],
+    "name": "一骑当千",
+    "editor_name": "[英雄个性]-泽维尔-一骑当千",
+    "icon": "unitpersonality_yiqidangqian"
+  },
+  {
+    "id": 9,
+    "m_unit_personality_skills": [],
+    "name": "测试佣兵个性1",
+    "editor_name": "测试佣兵个性1",
+    "icon": ""
+  },
+  {
+    "id": 10,
+    "m_unit_personality_skills": [],
+    "name": "测试佣兵个性3",
+    "editor_name": "测试佣兵个性3",
+    "icon": ""
+  },
+  {
+    "id": 11,
+    "m_unit_personality_skills": [],
+    "name": "真实之眼",
+    "editor_name": "（废弃）英雄个性-审判者少女",
+    "icon": "unitpersonality_samantha"
+  },
+  {
+    "id": 12,
+    "m_unit_personality_skills": [],
+    "name": "庇护之剑",
+    "editor_name": "（废弃）英雄个性-歌洛莉亚-庇护之剑",
+    "icon": "unitpersonality_gloria"
+  },
+  {
+    "id": 13,
+    "m_unit_personality_skills": [],
+    "name": "微笑假面",
+    "editor_name": "[英雄个性]-二王子-微笑假面",
+    "icon": "unitpersonality_weixiaojiamian"
+  },
+  {
+    "id": 14,
+    "m_unit_personality_skills": [],
+    "name": "带刺玫瑰",
+    "editor_name": "[英雄个性]-索菲亚-带刺玫瑰",
+    "icon": "unitpersonality_daicimeigui"
+  },
+  {
+    "id": 15,
+    "m_unit_personality_skills": [],
+    "name": "胆小",
+    "editor_name": "通用随机佣兵个性胆小",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 16,
+    "m_unit_personality_skills": [],
+    "name": "魔法残像",
+    "editor_name": "[网游主线第五章]-魔女诺拉召唤物个性",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 20,
+    "m_unit_personality_skills": [],
+    "name": "烛之武",
+    "editor_name": "[网游主线第十章]-倒吊人烛火个性",
+    "icon": "unitpersonality_common016"
+  },
+  {
+    "id": 21,
+    "m_unit_personality_skills": [],
+    "name": "鲁莽",
+    "editor_name": "通用随机佣兵个性鲁莽",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 22,
+    "m_unit_personality_skills": [],
+    "name": "骑士指挥官",
+    "editor_name": "[网游主线第七章]-泰登个性骑士指挥官",
+    "icon": "unitpersonality_gloria"
+  },
+  {
+    "id": 35,
+    "m_unit_personality_skills": [],
+    "name": "后发制人",
+    "editor_name": "通用随机佣兵个性后发制人",
+    "icon": "unitpersonality_common005"
+  },
+  {
+    "id": 42,
+    "m_unit_personality_skills": [],
+    "name": "剑刃辩驳",
+    "editor_name": "[网游主线第十章]-逃跑的倒吊人个性：剑刃辩驳",
+    "icon": "unitpersonality_common040"
+  },
+  {
+    "id": 43,
+    "m_unit_personality_skills": [],
+    "name": "进退维谷",
+    "editor_name": "[网游主线第十章]-弗兰克个性：进退维谷",
+    "icon": "unitpersonality_enemy002"
+  },
+  {
+    "id": 44,
+    "m_unit_personality_skills": [],
+    "name": "权杖的威严",
+    "editor_name": "塔罗怪个性-附魔本塔罗BOSS-夺命光球·火",
+    "icon": "unitpersonality_magnus"
+  },
+  {
+    "id": 45,
+    "m_unit_personality_skills": [],
+    "name": "圣杯的滋养",
+    "editor_name": "塔罗怪个性-附魔本塔罗BOSS-夺命光球·水",
+    "icon": "unitpersonality_magnus"
+  },
+  {
+    "id": 46,
+    "m_unit_personality_skills": [],
+    "name": "星币的守护",
+    "editor_name": "塔罗怪个性-附魔本塔罗BOSS-夺命光球·地",
+    "icon": "unitpersonality_magnus"
+  },
+  {
+    "id": 47,
+    "m_unit_personality_skills": [],
+    "name": "邪恶",
+    "editor_name": "通用随机佣兵个性邪恶",
+    "icon": "unitpersonality_common003"
+  },
+  {
+    "id": 48,
+    "m_unit_personality_skills": [],
+    "name": "鹰眼",
+    "editor_name": "通用随机佣兵个性鹰眼",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 49,
+    "m_unit_personality_skills": [],
+    "name": "以力破巧",
+    "editor_name": "通用随机佣兵个性以力破巧",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 50,
+    "m_unit_personality_skills": [],
+    "name": "以智破力",
+    "editor_name": "通用随机佣兵个性以智破力",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 51,
+    "m_unit_personality_skills": [],
+    "name": "以速破智",
+    "editor_name": "通用随机佣兵个性以速破智",
+    "icon": "unitpersonality_common005"
+  },
+  {
+    "id": 52,
+    "m_unit_personality_skills": [],
+    "name": "阴谋家",
+    "editor_name": "通用随机佣兵个性阴谋家",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 53,
+    "m_unit_personality_skills": [],
+    "name": "趁其不备",
+    "editor_name": "通用随机佣兵个性趁其不备",
+    "icon": "unitpersonality_common005"
+  },
+  {
+    "id": 54,
+    "m_unit_personality_skills": [],
+    "name": "无懈可击",
+    "editor_name": "通用随机佣兵个性无懈可击",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 55,
+    "m_unit_personality_skills": [],
+    "name": "伤口保护",
+    "editor_name": "通用随机佣兵个性伤口保护",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 56,
+    "m_unit_personality_skills": [],
+    "name": "坚韧不屈",
+    "editor_name": "通用随机佣兵个性坚韧不屈",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 57,
+    "m_unit_personality_skills": [],
+    "name": "盔甲强化",
+    "editor_name": "通用随机佣兵个性盔甲强化",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 58,
+    "m_unit_personality_skills": [],
+    "name": "强能利刃",
+    "editor_name": "通用随机佣兵个性强能利刃",
+    "icon": "unitpersonality_common005"
+  },
+  {
+    "id": 59,
+    "m_unit_personality_skills": [],
+    "name": "神怒剑",
+    "editor_name": "敌方BOSS个性-奥古斯特",
+    "icon": "unitpersonality_auguste"
+  },
+  {
+    "id": 60,
+    "m_unit_personality_skills": [],
+    "name": "伤口保护",
+    "editor_name": "通用随机佣兵个性伤口保护",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 61,
+    "m_unit_personality_skills": [],
+    "name": "无懈可击",
+    "editor_name": "通用随机佣兵个性无懈可击",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 62,
+    "m_unit_personality_skills": [],
+    "name": "热忱之盾",
+    "editor_name": "民兵剑盾兵个性",
+    "icon": "unitpersonality_common006"
+  },
+  {
+    "id": 63,
+    "m_unit_personality_skills": [],
+    "name": "热忱之斧",
+    "editor_name": "民兵巨斧兵个性",
+    "icon": "unitpersonality_common013"
+  },
+  {
+    "id": 64,
+    "m_unit_personality_skills": [],
+    "name": "热忱之弩",
+    "editor_name": "民兵弩手个性",
+    "icon": "unitpersonality_common017"
+  },
+  {
+    "id": 65,
+    "m_unit_personality_skills": [],
+    "name": "燃烧的引信",
+    "editor_name": "民兵爆破手个性",
+    "icon": "unitpersonality_common021"
+  },
+  {
+    "id": 66,
+    "m_unit_personality_skills": [],
+    "name": "袭掠之枪",
+    "editor_name": "无法者枪兵个性",
+    "icon": "unitpersonality_common028"
+  },
+  {
+    "id": 67,
+    "m_unit_personality_skills": [],
+    "name": "袭掠之盾",
+    "editor_name": "无法者斧盾兵个性",
+    "icon": "unitpersonality_common009"
+  },
+  {
+    "id": 68,
+    "m_unit_personality_skills": [],
+    "name": "豪迈之斧",
+    "editor_name": "无法者巨斧兵个性",
+    "icon": "unitpersonality_common015"
+  },
+  {
+    "id": 69,
+    "m_unit_personality_skills": [],
+    "name": "牵制射击",
+    "editor_name": "无法者弓兵个性",
+    "icon": "unitpersonality_common018"
+  },
+  {
+    "id": 70,
+    "m_unit_personality_skills": [],
+    "name": "弱点狙击",
+    "editor_name": "无法者弩兵个性",
+    "icon": "unitpersonality_common016"
+  },
+  {
+    "id": 71,
+    "m_unit_personality_skills": [],
+    "name": "袭掠之刃",
+    "editor_name": "无法者刺客个性",
+    "icon": "unitpersonality_common022"
+  },
+  {
+    "id": 72,
+    "m_unit_personality_skills": [],
+    "name": "伏击之箭",
+    "editor_name": "雇佣兵弓箭手个性",
+    "icon": "unitpersonality_common018"
+  },
+  {
+    "id": 73,
+    "m_unit_personality_skills": [],
+    "name": "伏击之刃",
+    "editor_name": "雇佣兵刺客个性",
+    "icon": "unitpersonality_common022"
+  },
+  {
+    "id": 74,
+    "m_unit_personality_skills": [],
+    "name": "刚毅之枪",
+    "editor_name": "雇佣兵枪兵个性",
+    "icon": "unitpersonality_common030"
+  },
+  {
+    "id": 75,
+    "m_unit_personality_skills": [],
+    "name": "刚毅之盾",
+    "editor_name": "雇佣兵盾兵个性",
+    "icon": "unitpersonality_common006"
+  },
+  {
+    "id": 76,
+    "m_unit_personality_skills": [],
+    "name": "同袍之盾",
+    "editor_name": "伊利亚剑盾兵个性",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 77,
+    "m_unit_personality_skills": [],
+    "name": "专注射击",
+    "editor_name": "伊利亚弓兵个性",
+    "icon": "unitpersonality_common019"
+  },
+  {
+    "id": 78,
+    "m_unit_personality_skills": [],
+    "name": "同袍炽焰",
+    "editor_name": "伊利亚火法个性",
+    "icon": "unitpersonality_common036"
+  },
+  {
+    "id": 79,
+    "m_unit_personality_skills": [],
+    "name": "同袍之枪",
+    "editor_name": "伊利亚枪兵个性",
+    "icon": "unitpersonality_common030"
+  },
+  {
+    "id": 80,
+    "m_unit_personality_skills": [],
+    "name": "神秘意志",
+    "editor_name": "伊利亚秘警暗法个性",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 81,
+    "m_unit_personality_skills": [],
+    "name": "顽强意志",
+    "editor_name": "伊利亚秘警剑士个性",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 82,
+    "m_unit_personality_skills": [],
+    "name": "神威",
+    "editor_name": "骑士团巨斧兵个性",
+    "icon": "unitpersonality_common012"
+  },
+  {
+    "id": 83,
+    "m_unit_personality_skills": [],
+    "name": "冲阵之枪",
+    "editor_name": "骑士团枪兵个性",
+    "icon": "unitpersonality_common030"
+  },
+  {
+    "id": 84,
+    "m_unit_personality_skills": [],
+    "name": "专注防御",
+    "editor_name": "骑士团剑盾兵天赋",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 85,
+    "m_unit_personality_skills": [],
+    "name": "耀光",
+    "editor_name": "骑士团牧师个性",
+    "icon": "unitpersonality_common041"
+  },
+  {
+    "id": 86,
+    "m_unit_personality_skills": [],
+    "name": "祝福之弩",
+    "editor_name": "教皇国弩兵个性",
+    "icon": "unitpersonality_common017"
+  },
+  {
+    "id": 87,
+    "m_unit_personality_skills": [],
+    "name": "天使",
+    "editor_name": "教皇国牧师个性",
+    "icon": "unitpersonality_common037"
+  },
+  {
+    "id": 88,
+    "m_unit_personality_skills": [],
+    "name": "庇护之冰",
+    "editor_name": "教皇国冰法个性",
+    "icon": "unitpersonality_common033"
+  },
+  {
+    "id": 89,
+    "m_unit_personality_skills": [],
+    "name": "绝望之刃",
+    "editor_name": "黑暗之光刺客个性",
+    "icon": "unitpersonality_common023"
+  },
+  {
+    "id": 90,
+    "m_unit_personality_skills": [],
+    "name": "绝望之盾",
+    "editor_name": "黑暗之光剑盾兵个性",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 91,
+    "m_unit_personality_skills": [],
+    "name": "绝望之枪",
+    "editor_name": "黑暗之光枪兵个性",
+    "icon": "unitpersonality_common028"
+  },
+  {
+    "id": 92,
+    "m_unit_personality_skills": [],
+    "name": "绝望之弩",
+    "editor_name": "黑暗之光弩兵个性",
+    "icon": "unitpersonality_common016"
+  },
+  {
+    "id": 93,
+    "m_unit_personality_skills": [],
+    "name": "绝望之斧",
+    "editor_name": "黑暗之光斧兵个性",
+    "icon": "unitpersonality_common012"
+  },
+  {
+    "id": 94,
+    "m_unit_personality_skills": [],
+    "name": "绝望的引信",
+    "editor_name": "黑暗之光爆破手个性",
+    "icon": "unitpersonality_common021"
+  },
+  {
+    "id": 95,
+    "m_unit_personality_skills": [],
+    "name": "黯心",
+    "editor_name": "黑暗之光暗法个性",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 96,
+    "m_unit_personality_skills": [],
+    "name": "绝望之炎",
+    "editor_name": "黑暗之光火法个性",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 97,
+    "m_unit_personality_skills": [],
+    "name": "绝望之冰",
+    "editor_name": "黑暗之光冰法个性",
+    "icon": "unitpersonality_common033"
+  },
+  {
+    "id": 98,
+    "m_unit_personality_skills": [],
+    "name": "空中突袭",
+    "editor_name": "薇尔德刺客个性",
+    "icon": "unitpersonality_common024"
+  },
+  {
+    "id": 99,
+    "m_unit_personality_skills": [],
+    "name": "高地射手",
+    "editor_name": "薇尔德弓兵个性",
+    "icon": "unitpersonality_common019"
+  },
+  {
+    "id": 100,
+    "m_unit_personality_skills": [],
+    "name": "利爪",
+    "editor_name": "森林狼个性",
+    "icon": "unitpersonality_enemy027"
+  },
+  {
+    "id": 101,
+    "m_unit_personality_skills": [],
+    "name": "追猎",
+    "editor_name": "[英雄个性]-米格尔-追猎",
+    "icon": "unitpersonality_shimingbida"
+  },
+  {
+    "id": 102,
+    "m_unit_personality_skills": [],
+    "name": "蛮熊血脉",
+    "editor_name": "[英雄个性]-阿力克塞-狂战",
+    "icon": "unitpersonality_manxiongxuemai"
+  },
+  {
+    "id": 103,
+    "m_unit_personality_skills": [],
+    "name": "构造体",
+    "editor_name": "塔罗怪个性-杂兵塔罗-塔罗聚态",
+    "icon": "unitpersonality_enemy005"
+  },
+  {
+    "id": 104,
+    "m_unit_personality_skills": [],
+    "name": "硬质表面",
+    "editor_name": "塔罗怪个性-重型塔罗-重型护甲",
+    "icon": "unitpersonality_enemy006"
+  },
+  {
+    "id": 105,
+    "m_unit_personality_skills": [],
+    "name": "增压",
+    "editor_name": "塔罗怪个性-战士塔罗-灵巧行进",
+    "icon": "unitpersonality_enemy007"
+  },
+  {
+    "id": 106,
+    "m_unit_personality_skills": [],
+    "name": "动能",
+    "editor_name": "塔罗怪个性-冲锋塔罗-惯性冲撞",
+    "icon": "unitpersonality_enemy008"
+  },
+  {
+    "id": 107,
+    "m_unit_personality_skills": [],
+    "name": "湮灭",
+    "editor_name": "塔罗怪个性-激光塔罗-偏光镜",
+    "icon": "unitpersonality_enemy011"
+  },
+  {
+    "id": 108,
+    "m_unit_personality_skills": [],
+    "name": "正位预兆",
+    "editor_name": "塔罗怪个性-光·法师塔罗-正位预兆",
+    "icon": "unitpersonality_enemy009"
+  },
+  {
+    "id": 109,
+    "m_unit_personality_skills": [],
+    "name": "逆位预兆",
+    "editor_name": "塔罗怪个性-暗·法师塔罗-逆位预兆",
+    "icon": "unitpersonality_enemy010"
+  },
+  {
+    "id": 110,
+    "m_unit_personality_skills": [],
+    "name": "庇护",
+    "editor_name": "塔罗怪个性-光·光环塔罗·坚守光环",
+    "icon": "unitpersonality_enemy012"
+  },
+  {
+    "id": 111,
+    "m_unit_personality_skills": [],
+    "name": "崩溃",
+    "editor_name": "塔罗怪个性-暗·光环塔罗·压制光环",
+    "icon": "unitpersonality_enemy013"
+  },
+  {
+    "id": 112,
+    "m_unit_personality_skills": [],
+    "name": "魔术师的戏法",
+    "editor_name": "塔罗怪个性-武器本魔术师个性-近战型",
+    "icon": "unitpersonality_enemy017"
+  },
+  {
+    "id": 113,
+    "m_unit_personality_skills": [],
+    "name": "虔诚祈祷",
+    "editor_name": "[英雄个性]-萨曼莎修女",
+    "icon": "unitpersonality_qianchengqidao"
+  },
+  {
+    "id": 114,
+    "m_unit_personality_skills": [],
+    "name": "薇尔塔守护者",
+    "editor_name": "[英雄个性]-薇尔德姐姐-高原血统",
+    "icon": "unitpersonality_weidongdeshouhuzhe"
+  },
+  {
+    "id": 115,
+    "m_unit_personality_skills": [],
+    "name": "成王之路",
+    "editor_name": "[英雄个性]-大王子-成王之路",
+    "icon": "unitpersonality_chengwangzhilu"
+  },
+  {
+    "id": 117,
+    "m_unit_personality_skills": [],
+    "name": "神秘歌姬",
+    "editor_name": "[英雄个性]-薇尔德妹妹-灵狐面纱",
+    "icon": "unitpersonality_shenmigeji"
+  },
+  {
+    "id": 118,
+    "m_unit_personality_skills": [],
+    "name": "战术对决",
+    "editor_name": "[塔罗BOSS特性]大眼星星",
+    "icon": "unitpersonality_enemy023"
+  },
+  {
+    "id": 119,
+    "m_unit_personality_skills": [],
+    "name": "异变者",
+    "editor_name": "黑暗之光魔人个性",
+    "icon": "unitpersonality_enemy003"
+  },
+  {
+    "id": 120,
+    "m_unit_personality_skills": [],
+    "name": "暗异变生物",
+    "editor_name": "晶石软泥怪个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 121,
+    "m_unit_personality_skills": [],
+    "name": "不死形骸",
+    "editor_name": "[英雄个性]-古兹曼-战争机器",
+    "icon": "unitpersonality_guzman"
+  },
+  {
+    "id": 122,
+    "m_unit_personality_skills": [],
+    "name": "正义的旗帜",
+    "editor_name": "[英雄个性]-歌洛莉亚-扬旗进军",
+    "icon": "unitpersonality_zhengyideqizhi"
+  },
+  {
+    "id": 123,
+    "m_unit_personality_skills": [],
+    "name": "英雄登场",
+    "editor_name": "英雄角色",
+    "icon": "unitpersonality_gloria"
+  },
+  {
+    "id": 124,
+    "m_unit_personality_skills": [],
+    "name": "狼群领袖",
+    "editor_name": "狼王个性-狼群领袖",
+    "icon": "unitpersonality_enemy014"
+  },
+  {
+    "id": 125,
+    "m_unit_personality_skills": [],
+    "name": "刚正的力量",
+    "editor_name": "塔罗怪个性-护石本塔罗狮子-战士型",
+    "icon": "unitpersonality_enemy018"
+  },
+  {
+    "id": 126,
+    "m_unit_personality_skills": [],
+    "name": "力量的祝福",
+    "editor_name": "塔罗怪个性-护石本塔罗女神-战士本守望型",
+    "icon": "unitpersonality_enemy021"
+  },
+  {
+    "id": 127,
+    "m_unit_personality_skills": [],
+    "name": "凝聚的力量",
+    "editor_name": "塔罗怪个性-护石本塔罗狮子-防御型",
+    "icon": "unitpersonality_enemy019"
+  },
+  {
+    "id": 128,
+    "m_unit_personality_skills": [],
+    "name": "力量的屏障",
+    "editor_name": "塔罗怪个性-护石本塔罗女神-防御本毁灭型",
+    "icon": "unitpersonality_enemy022"
+  },
+  {
+    "id": 129,
+    "m_unit_personality_skills": [],
+    "name": "进击的力量",
+    "editor_name": "塔罗怪个性-护石本塔罗狮子-突袭型",
+    "icon": "unitpersonality_enemy020"
+  },
+  {
+    "id": 130,
+    "m_unit_personality_skills": [],
+    "name": "力量的启示",
+    "editor_name": "塔罗怪个性-护石本塔罗女神-突袭本守望型",
+    "icon": "unitpersonality_enemy021"
+  },
+  {
+    "id": 131,
+    "m_unit_personality_skills": [],
+    "name": "咱是天才！",
+    "editor_name": "[英雄个性]-小魔女-天才少女",
+    "icon": "unitpersonality_zanshitiancai"
+  },
+  {
+    "id": 132,
+    "m_unit_personality_skills": [],
+    "name": "杀手本能",
+    "editor_name": "[英雄个性]-面具刺客-杀手本能",
+    "icon": "unitpersonality_shashoubenneng"
+  },
+  {
+    "id": 133,
+    "m_unit_personality_skills": [],
+    "name": "烛火",
+    "editor_name": "[英雄个性]-倒吊人参谋官-战场洞悉",
+    "icon": "unitpersonality_samantha"
+  },
+  {
+    "id": 134,
+    "m_unit_personality_skills": [],
+    "name": "蝴蝶之舞",
+    "editor_name": "[英雄个性]-薇尔德舞娘-即兴表演",
+    "icon": "unitpersonality_common040"
+  },
+  {
+    "id": 135,
+    "m_unit_personality_skills": [],
+    "name": "志愿者",
+    "editor_name": "[英雄个性]-无国界医生-急救",
+    "icon": "unitpersonality_safiyyah"
+  },
+  {
+    "id": 136,
+    "m_unit_personality_skills": [],
+    "name": "风暴神斧",
+    "editor_name": "[英雄个性]-雇佣兵巨斧兵-战斗旋风",
+    "icon": "unitpersonality_rawiyah"
+  },
+  {
+    "id": 137,
+    "m_unit_personality_skills": [],
+    "name": "炎之魔女",
+    "editor_name": "[英雄个性]- 雇佣兵精英火法-熊熊烈火",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 140,
+    "m_unit_personality_skills": [],
+    "name": "魔禁",
+    "editor_name": "[英雄个性]- 教皇国魔战士-魔力破坏",
+    "icon": "unitpersonality_common036"
+  },
+  {
+    "id": 141,
+    "m_unit_personality_skills": [],
+    "name": "鞭笞",
+    "editor_name": "[英雄个性]-教皇国主教-心灵震爆",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 142,
+    "m_unit_personality_skills": [],
+    "name": "怒风",
+    "editor_name": "[英雄个性]-骑士团枪骑士-狂风之力",
+    "icon": "unitpersonality_common032"
+  },
+  {
+    "id": 143,
+    "m_unit_personality_skills": [],
+    "name": "蓄能",
+    "editor_name": "[英雄个性]-骑士团弩骑士-蓄能动力",
+    "icon": "unitpersonality_common017"
+  },
+  {
+    "id": 144,
+    "m_unit_personality_skills": [],
+    "name": "魔术师的创造",
+    "editor_name": "塔罗怪个性-武器本魔术师个性-魔法型",
+    "icon": "unitpersonality_enemy016"
+  },
+  {
+    "id": 145,
+    "m_unit_personality_skills": [],
+    "name": "军事建筑",
+    "editor_name": "竞技场-通用建筑个性",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 146,
+    "m_unit_personality_skills": [],
+    "name": "魔术师的愤怒",
+    "editor_name": "塔罗怪个性-武器本魔术师个性-射手型",
+    "icon": "unitpersonality_enemy015"
+  },
+  {
+    "id": 147,
+    "m_unit_personality_skills": [],
+    "name": "战场鬼影",
+    "editor_name": "伊利亚刺客个性",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 149,
+    "m_unit_personality_skills": [],
+    "name": "爱心羽翼",
+    "editor_name": "伊利亚牧师个性",
+    "icon": "unitpersonality_common038"
+  },
+  {
+    "id": 150,
+    "m_unit_personality_skills": [],
+    "name": "猎杀意志",
+    "editor_name": "伊利亚秘警弩刺个性",
+    "icon": "unitpersonality_common016"
+  },
+  {
+    "id": 151,
+    "m_unit_personality_skills": [],
+    "name": "伊利亚的明珠",
+    "editor_name": "英雄个性-三王女-王国的明珠",
+    "icon": "unitpersonality_wangguodewangguodemingzhu"
+  },
+  {
+    "id": 152,
+    "m_unit_personality_skills": [],
+    "name": "厄运共鸣",
+    "editor_name": "英雄个性-晶石少女-晶石屏障",
+    "icon": "unitpersonality_jingshihuti"
+  },
+  {
+    "id": 153,
+    "m_unit_personality_skills": [],
+    "name": "灰狼",
+    "editor_name": "英雄个性-灰狼-高原适应",
+    "icon": "unitpersonality_huilang"
+  },
+  {
+    "id": 154,
+    "m_unit_personality_skills": [],
+    "name": "星火燎原",
+    "editor_name": "英雄个性-难民少女-支援射击",
+    "icon": "unitpersonality_zhiyuanduiyou"
+  },
+  {
+    "id": 155,
+    "m_unit_personality_skills": [],
+    "name": "祝福之枪",
+    "editor_name": "教皇国投枪兵个性",
+    "icon": "unitpersonality_common005"
+  },
+  {
+    "id": 156,
+    "m_unit_personality_skills": [],
+    "name": "祝福之盾",
+    "editor_name": "教皇国剑盾兵个性",
+    "icon": "unitpersonality_common009"
+  },
+  {
+    "id": 157,
+    "m_unit_personality_skills": [],
+    "name": "祝福之矢",
+    "editor_name": "教皇国弩刺个性",
+    "icon": "unitpersonality_common016"
+  },
+  {
+    "id": 158,
+    "m_unit_personality_skills": [],
+    "name": "冰原守卫",
+    "editor_name": "露西亚斧盾兵个性",
+    "icon": "unitpersonality_common007"
+  },
+  {
+    "id": 159,
+    "m_unit_personality_skills": [],
+    "name": "凛冬战士",
+    "editor_name": "露西亚巨斧兵个性",
+    "icon": "unitpersonality_common014"
+  },
+  {
+    "id": 160,
+    "m_unit_personality_skills": [],
+    "name": "冰原射手",
+    "editor_name": "露西亚弓兵个性",
+    "icon": "unitpersonality_common019"
+  },
+  {
+    "id": 161,
+    "m_unit_personality_skills": [],
+    "name": "寒狼弓",
+    "editor_name": "露西亚狼人 弓兵版",
+    "icon": "unitpersonality_common019"
+  },
+  {
+    "id": 162,
+    "m_unit_personality_skills": [],
+    "name": "冰原熊守卫",
+    "editor_name": "露西亚熊人 斧盾兵版",
+    "icon": "unitpersonality_common007"
+  },
+  {
+    "id": 163,
+    "m_unit_personality_skills": [],
+    "name": "凛冬熊战士",
+    "editor_name": "露西亚熊人 巨斧兵版",
+    "icon": "unitpersonality_common014"
+  },
+  {
+    "id": 164,
+    "m_unit_personality_skills": [],
+    "name": "历战的猛将",
+    "editor_name": "[英雄个性]-马格努斯-威压",
+    "icon": "unitpersonality_weiya"
+  },
+  {
+    "id": 165,
+    "m_unit_personality_skills": [],
+    "name": "处决者",
+    "editor_name": "[英雄个性]-审判者C-附魔圣物",
+    "icon": "unitpersonality_fumo"
+  },
+  {
+    "id": 166,
+    "m_unit_personality_skills": [],
+    "name": "凛冬将至",
+    "editor_name": "英雄个性-骑士团法师-寒冰血脉",
+    "icon": "unitpersonality_hanbingxuemai"
+  },
+  {
+    "id": 167,
+    "m_unit_personality_skills": [],
+    "name": "银狼女王",
+    "editor_name": "[英雄个性]-银狼-利爪",
+    "icon": "unitpersonality_lizhua"
+  },
+  {
+    "id": 168,
+    "m_unit_personality_skills": [],
+    "name": "凶恶匪首",
+    "editor_name": "[网游主线第七章BOSS]-穿着骑士团装备的无法者首领",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 169,
+    "m_unit_personality_skills": [],
+    "name": "晶能增程弩",
+    "editor_name": "[英雄个性]-双子妹妹-让子弹飞",
+    "icon": "unitpersonality_rangzidanfei"
+  },
+  {
+    "id": 170,
+    "m_unit_personality_skills": [],
+    "name": "充能战术臂盾",
+    "editor_name": "[英雄个性]-双子哥哥-拳盾精通",
+    "icon": "unitpersonality_quandunjingtong"
+  },
+  {
+    "id": 171,
+    "m_unit_personality_skills": [],
+    "name": "烈阳护卫",
+    "editor_name": "苏莱曼盾兵个性",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 172,
+    "m_unit_personality_skills": [],
+    "name": "金沙之刃",
+    "editor_name": "苏莱曼刺客个性",
+    "icon": "unitpersonality_common004"
+  },
+  {
+    "id": 173,
+    "m_unit_personality_skills": [],
+    "name": "神怒剑",
+    "editor_name": "[英雄个性]-奥古斯特-神怒之剑",
+    "icon": "unitpersonality_shengnuzhijian"
+  },
+  {
+    "id": 174,
+    "m_unit_personality_skills": [],
+    "name": "无畏冲阵",
+    "editor_name": "[英雄个性]-光辉卫士长-破阵",
+    "icon": "unitpersonality_chongzheng"
+  },
+  {
+    "id": 175,
+    "m_unit_personality_skills": [],
+    "name": "豪放神斧",
+    "editor_name": "[网游主线特性]豪放神斧",
+    "icon": "unitpersonality_gloria"
+  },
+  {
+    "id": 176,
+    "m_unit_personality_skills": [],
+    "name": "傲视",
+    "editor_name": "[英雄个性]- 骑士团突击-御剑姿态",
+    "icon": "unitpersonality_auguste"
+  },
+  {
+    "id": 177,
+    "m_unit_personality_skills": [],
+    "name": "第一灾厄",
+    "editor_name": "[网游主线特性]第一灾厄",
+    "icon": "unitpersonality_enemy015"
+  },
+  {
+    "id": 178,
+    "m_unit_personality_skills": [],
+    "name": "试验型秘术傀儡",
+    "editor_name": "黑暗之光魔人个性（第六章BOSS战特殊机制）",
+    "icon": "unitpersonality_enemy003"
+  },
+  {
+    "id": 179,
+    "m_unit_personality_skills": [],
+    "name": "银狼女王",
+    "editor_name": "[英雄个性]-银狼-利爪-默认狼",
+    "icon": "unitpersonality_xavier"
+  },
+  {
+    "id": 180,
+    "m_unit_personality_skills": [],
+    "name": "光辉审判",
+    "editor_name": "[英雄个性]-审判者萨曼莎-悲悯",
+    "icon": "unitpersonality_zhengyishengpan"
+  },
+  {
+    "id": 182,
+    "m_unit_personality_skills": [],
+    "name": "光谕",
+    "editor_name": "英雄个性-法皇之手-晶能汇聚",
+    "icon": "unitpersonality_shenyu"
+  },
+  {
+    "id": 183,
+    "m_unit_personality_skills": [],
+    "name": "刚正的力量·改",
+    "editor_name": "活动-中型1期-塔罗怪个性-护石本塔罗狮子-战士型（挑战1） ",
+    "icon": "unitpersonality_enemy018"
+  },
+  {
+    "id": 184,
+    "m_unit_personality_skills": [],
+    "name": "进击的力量",
+    "editor_name": "活动-中型-塔罗怪个性-护石本塔罗狮子-突袭型（挑战5） ",
+    "icon": "unitpersonality_enemy020"
+  },
+  {
+    "id": 185,
+    "m_unit_personality_skills": [],
+    "name": "凝聚的力量·改",
+    "editor_name": "活动-中型1期-塔罗怪个性-护石本塔罗狮子-防御型（挑战1） ",
+    "icon": "unitpersonality_enemy019"
+  },
+  {
+    "id": 186,
+    "m_unit_personality_skills": [],
+    "name": "军犬的野性",
+    "editor_name": "网游主线-军犬的野性",
+    "icon": "unitpersonality_magnus"
+  },
+  {
+    "id": 187,
+    "m_unit_personality_skills": [],
+    "name": "不死形骸",
+    "editor_name": "[英雄个性]-古兹曼-战争机器-主线-决战矿坑城用",
+    "icon": "unitpersonality_guzman"
+  },
+  {
+    "id": 188,
+    "m_unit_personality_skills": [],
+    "name": "藏器于身",
+    "editor_name": "[网游通用个性]藏器于身",
+    "icon": "unitpersonality_common026"
+  },
+  {
+    "id": 189,
+    "m_unit_personality_skills": [],
+    "name": "裙下的杀意",
+    "editor_name": "[英雄个性]-舞团舞娘-蜂刺长裙",
+    "icon": "unitpersonality_common027"
+  },
+  {
+    "id": 190,
+    "m_unit_personality_skills": [],
+    "name": "稻草人",
+    "editor_name": "假人用个性",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 191,
+    "m_unit_personality_skills": [],
+    "name": "历史学者",
+    "editor_name": "[英雄个性]- 邦国王子-历史与自由",
+    "icon": "unitpersonality_lishiyuziyou"
+  },
+  {
+    "id": 192,
+    "m_unit_personality_skills": [],
+    "name": "中枢",
+    "editor_name": "[网游主线特性]战车-驾驶座",
+    "icon": "unitpersonality_common036"
+  },
+  {
+    "id": 193,
+    "m_unit_personality_skills": [],
+    "name": "使徒·本能",
+    "editor_name": "[网游主线特性]战车-本能",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 194,
+    "m_unit_personality_skills": [],
+    "name": "使徒·意志",
+    "editor_name": "[网游主线特性]战车-意志",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 195,
+    "m_unit_personality_skills": [],
+    "name": "战车",
+    "editor_name": "[网游主线特性]战车-战车",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 196,
+    "m_unit_personality_skills": [],
+    "name": "处决者",
+    "editor_name": "[英雄个性]-审判者C-附魔圣物-主线炸矿表线用",
+    "icon": "unitpersonality_fumo"
+  },
+  {
+    "id": 197,
+    "m_unit_personality_skills": [],
+    "name": "光谕",
+    "editor_name": "英雄个性-法皇之手-晶能汇聚-法皇国主线用",
+    "icon": "unitpersonality_common005"
+  },
+  {
+    "id": 198,
+    "m_unit_personality_skills": [],
+    "name": "虔诚祈祷",
+    "editor_name": "[英雄个性]-萨曼莎修女-小型活动用",
+    "icon": "unitpersonality_qianchengqidao"
+  },
+  {
+    "id": 199,
+    "m_unit_personality_skills": [],
+    "name": "国家商人",
+    "editor_name": "[英雄个性]-苏莱曼商人-聚敛财富",
+    "icon": "unitpersonality_shangren"
+  },
+  {
+    "id": 200,
+    "m_unit_personality_skills": [],
+    "name": "不死形骸",
+    "editor_name": "[日常本]-古兹曼-战争机器-特殊版本-不含一血不死和复活",
+    "icon": "unitpersonality_guzman"
+  },
+  {
+    "id": 201,
+    "m_unit_personality_skills": [],
+    "name": "首领之斧",
+    "editor_name": "[网游主线]土匪首领个性-首领之斧",
+    "icon": "unitpersonality_common015"
+  },
+  {
+    "id": 202,
+    "m_unit_personality_skills": [],
+    "name": "冰霜之心",
+    "editor_name": "[冰法头目]-冰霜之心",
+    "icon": "unitpersonality_jingshihuti"
+  },
+  {
+    "id": 203,
+    "m_unit_personality_skills": [],
+    "name": "夜幕之刃",
+    "editor_name": "[刺客头目]-夜行",
+    "icon": "unitpersonality_xavier"
+  },
+  {
+    "id": 204,
+    "m_unit_personality_skills": [],
+    "name": "蛮力",
+    "editor_name": "[斧盾头目]-蛮牛",
+    "icon": "unitpersonality_rawiyah"
+  },
+  {
+    "id": 205,
+    "m_unit_personality_skills": [],
+    "name": "箭在弦上",
+    "editor_name": "[射手头目]-警惕",
+    "icon": "unitpersonality_common020"
+  },
+  {
+    "id": 206,
+    "m_unit_personality_skills": [],
+    "name": "暗影",
+    "editor_name": "[英雄个性]-暗影蛰伏",
+    "icon": "unitpersonality_shashoubenneng"
+  },
+  {
+    "id": 207,
+    "m_unit_personality_skills": [],
+    "name": "坚定的觉悟",
+    "editor_name": "[三王女平民]-坚定的觉悟",
+    "icon": "unitpersonality_gloria"
+  },
+  {
+    "id": 208,
+    "m_unit_personality_skills": [],
+    "name": "铃兰指挥者",
+    "editor_name": "[英雄个性]-拉维耶-豪饮-活动-大型2期",
+    "icon": "unitpersonality_haoyin"
+  },
+  {
+    "id": 209,
+    "m_unit_personality_skills": [],
+    "name": "铃兰守护者",
+    "editor_name": "[英雄个性]-麦莎-元气少女-活动-大型",
+    "icon": "unitpersonality_linglanzhidong"
+  },
+  {
+    "id": 211,
+    "m_unit_personality_skills": [],
+    "name": "倒吊人指挥者",
+    "editor_name": "[英雄个性]-索菲亚-带刺玫瑰-活动-大型2期",
+    "icon": "unitpersonality_daicimeigui"
+  },
+  {
+    "id": 212,
+    "m_unit_personality_skills": [],
+    "name": "铃兰神箭手",
+    "editor_name": "[英雄个性]-法卡尔-战争孤儿-活动-大型",
+    "icon": "unitpersonality_fakadongdezhinian"
+  },
+  {
+    "id": 215,
+    "m_unit_personality_skills": [],
+    "name": "倒吊人强弩",
+    "editor_name": "[英雄个性]-双子妹妹-让子弹飞-活动-大型",
+    "icon": "unitpersonality_rangzidanfei"
+  },
+  {
+    "id": 216,
+    "m_unit_personality_skills": [],
+    "name": "倒吊人臂盾",
+    "editor_name": "[英雄个性]-双子哥哥-拳盾精通-活动-大型",
+    "icon": "unitpersonality_quandunjingtong"
+  },
+  {
+    "id": 217,
+    "m_unit_personality_skills": [],
+    "name": "支援单元",
+    "editor_name": "[网游主线]-支援单元",
+    "icon": "unitpersonality_common009"
+  },
+  {
+    "id": 218,
+    "m_unit_personality_skills": [],
+    "name": "战车",
+    "editor_name": "[工会战特性]战车-战车",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 219,
+    "m_unit_personality_skills": [],
+    "name": "黯心",
+    "editor_name": "黑暗之光二把手个性",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 220,
+    "m_unit_personality_skills": [],
+    "name": "暗香萦绕",
+    "editor_name": "[英雄个性]- 盲女侍卫-暗香流动",
+    "icon": "unitpersonality_anxiangliudong"
+  },
+  {
+    "id": 221,
+    "m_unit_personality_skills": [],
+    "name": "伊利亚之弓",
+    "editor_name": "[网游主线11章]-伊利亚弓兵天赋",
+    "icon": "unitpersonality_common020"
+  },
+  {
+    "id": 222,
+    "m_unit_personality_skills": [],
+    "name": "伊利亚之刃",
+    "editor_name": "[网游主线11章]-伊利亚刺客天赋",
+    "icon": "unitpersonality_common026"
+  },
+  {
+    "id": 223,
+    "m_unit_personality_skills": [],
+    "name": "伊利亚之杖",
+    "editor_name": "[网游主线11章]-伊利亚牧师天赋",
+    "icon": "unitpersonality_common039"
+  },
+  {
+    "id": 224,
+    "m_unit_personality_skills": [],
+    "name": "早餐的幸福感",
+    "editor_name": "[英雄个性]-蔻蔻娜-早餐的幸福感",
+    "icon": "unitpersonality_zaocan"
+  },
+  {
+    "id": 225,
+    "m_unit_personality_skills": [],
+    "name": "嫉妒",
+    "editor_name": "[网游主线11章]-辅助心魔个性",
+    "icon": "unitpersonality_common033"
+  },
+  {
+    "id": 226,
+    "m_unit_personality_skills": [],
+    "name": "贪婪",
+    "editor_name": "[网游主线11章]-远程心魔个性",
+    "icon": "unitpersonality_common017"
+  },
+  {
+    "id": 227,
+    "m_unit_personality_skills": [],
+    "name": "愤怒",
+    "editor_name": "[网游主线11章]-近战心魔个性",
+    "icon": "unitpersonality_common012"
+  },
+  {
+    "id": 228,
+    "m_unit_personality_skills": [],
+    "name": "炽沙",
+    "editor_name": "苏莱曼奴隶巨斧兵个性",
+    "icon": "unitpersonality_common015"
+  },
+  {
+    "id": 229,
+    "m_unit_personality_skills": [],
+    "name": "沙舞",
+    "editor_name": "苏莱曼奴隶舞娘个性",
+    "icon": "unitpersonality_common040"
+  },
+  {
+    "id": 230,
+    "m_unit_personality_skills": [],
+    "name": "沙之守护",
+    "editor_name": "苏莱曼暗法个性",
+    "icon": "unitpersonality_common033"
+  },
+  {
+    "id": 231,
+    "m_unit_personality_skills": [],
+    "name": "不朽之刺",
+    "editor_name": "苏莱曼精英刺客个性",
+    "icon": "unitpersonality_common025"
+  },
+  {
+    "id": 232,
+    "m_unit_personality_skills": [],
+    "name": "不朽之盾",
+    "editor_name": "苏莱曼精英剑盾兵个性",
+    "icon": "unitpersonality_common007"
+  },
+  {
+    "id": 233,
+    "m_unit_personality_skills": [],
+    "name": "不朽者",
+    "editor_name": "苏莱曼精英双刀兵个性",
+    "icon": "unitpersonality_common028"
+  },
+  {
+    "id": 234,
+    "m_unit_personality_skills": [],
+    "name": "战术对决",
+    "editor_name": "[塔罗BOSS特性]大眼星星-教学",
+    "icon": "unitpersonality_enemy023"
+  },
+  {
+    "id": 235,
+    "m_unit_personality_skills": [],
+    "name": "最佳拍档",
+    "editor_name": "[英雄个性]-鹦鹉人-最佳拍档",
+    "icon": "unitpersonality_zuijiapaidang"
+  },
+  {
+    "id": 236,
+    "m_unit_personality_skills": [],
+    "name": "无限不死形骸",
+    "editor_name": "[英雄个性]-古兹曼（费尔南多退兵·不死型）",
+    "icon": "unitpersonality_guzman"
+  },
+  {
+    "id": 237,
+    "m_unit_personality_skills": [],
+    "name": "后期刺客天赋（暂未使用）",
+    "editor_name": "[网游主线11章]-后期刺客天赋",
+    "icon": "unitpersonality_common026"
+  },
+  {
+    "id": 238,
+    "m_unit_personality_skills": [],
+    "name": "后期再动天赋（暂未使用）",
+    "editor_name": "[网游主线11章]-后期再动天赋",
+    "icon": "unitpersonality_common020"
+  },
+  {
+    "id": 239,
+    "m_unit_personality_skills": [],
+    "name": "后期近战个性（暂未使用）",
+    "editor_name": "[网游主线11章]-后期近战个性",
+    "icon": "unitpersonality_common012"
+  },
+  {
+    "id": 240,
+    "m_unit_personality_skills": [],
+    "name": "后期辅助个性（暂未使用）",
+    "editor_name": "[网游主线11章]-后期辅助个性",
+    "icon": "unitpersonality_common033"
+  },
+  {
+    "id": 241,
+    "m_unit_personality_skills": [],
+    "name": "光辉充能",
+    "editor_name": "骑士团光法个性",
+    "icon": "unitpersonality_enemy015"
+  },
+  {
+    "id": 242,
+    "m_unit_personality_skills": [],
+    "name": "冰刺充能",
+    "editor_name": "骑士团冰法个性",
+    "icon": "unitpersonality_enemy016"
+  },
+  {
+    "id": 243,
+    "m_unit_personality_skills": [],
+    "name": "火焰屏障·改",
+    "editor_name": "活动-大型1期- 雇佣兵精英火法-个性-熊熊烈火",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 244,
+    "m_unit_personality_skills": [],
+    "name": "燃烧的引信",
+    "editor_name": "活动-大型1期-民兵爆破手个性",
+    "icon": "unitpersonality_common021"
+  },
+  {
+    "id": 245,
+    "m_unit_personality_skills": [],
+    "name": "倒吊人塔防",
+    "editor_name": "倒吊人塔防",
+    "icon": "unitpersonality_chengwangzhilu"
+  },
+  {
+    "id": 246,
+    "m_unit_personality_skills": [],
+    "name": "寒冰术士",
+    "editor_name": "露西亚冰法个性",
+    "icon": "unitpersonality_enemy014"
+  },
+  {
+    "id": 247,
+    "m_unit_personality_skills": [],
+    "name": "亲信部队",
+    "editor_name": "[网游主线11章]-亲信部队",
+    "icon": "unitpersonality_common009"
+  },
+  {
+    "id": 248,
+    "m_unit_personality_skills": [],
+    "name": "原野冰狼",
+    "editor_name": "露西亚冰法变身个性",
+    "icon": "unitpersonality_enemy014"
+  },
+  {
+    "id": 249,
+    "m_unit_personality_skills": [],
+    "name": "利爪",
+    "editor_name": "活动-大型1期-森林狼个性",
+    "icon": "unitpersonality_enemy027"
+  },
+  {
+    "id": 250,
+    "m_unit_personality_skills": [],
+    "name": "狼群领袖",
+    "editor_name": "活动-大型1期-狼王个性-狼群领袖",
+    "icon": "unitpersonality_enemy014"
+  },
+  {
+    "id": 251,
+    "m_unit_personality_skills": [],
+    "name": "百战之盾·改",
+    "editor_name": "活动-大型1期-[英雄个性]-泰登",
+    "icon": "unitpersonality_teadon"
+  },
+  {
+    "id": 252,
+    "m_unit_personality_skills": [],
+    "name": "正义的旗帜·改",
+    "editor_name": "活动-大型1期-[英雄个性]-歌洛莉亚-扬旗进军",
+    "icon": "unitpersonality_zhengyideqizhi"
+  },
+  {
+    "id": 253,
+    "m_unit_personality_skills": [],
+    "name": "假人移动力为0",
+    "editor_name": "假人移动力为0",
+    "icon": "unitpersonality_common006"
+  },
+  {
+    "id": 254,
+    "m_unit_personality_skills": [],
+    "name": "蛮牛",
+    "editor_name": "活动-大型1期-[斧盾头目]-蛮牛（挑战3）",
+    "icon": "unitpersonality_rawiyah"
+  },
+  {
+    "id": 255,
+    "m_unit_personality_skills": [],
+    "name": "夜幕之刃",
+    "editor_name": "活动-大型1期-[刺客头目]-夜行（挑战3）",
+    "icon": "unitpersonality_xavier"
+  },
+  {
+    "id": 256,
+    "m_unit_personality_skills": [],
+    "name": "箭在弦上",
+    "editor_name": "活动-大型1期-[射手头目]-警惕（挑战3）",
+    "icon": "unitpersonality_common020"
+  },
+  {
+    "id": 257,
+    "m_unit_personality_skills": [],
+    "name": "冰霜之心",
+    "editor_name": "活动-大型1期-[冰法头目]-冰霜之心（挑战3）",
+    "icon": "unitpersonality_jingshihuti"
+  },
+  {
+    "id": 258,
+    "m_unit_personality_skills": [],
+    "name": "蓄能",
+    "editor_name": "活动-大型1期-[英雄个性]-骑士团弩骑士-蓄能动力（挑战4）",
+    "icon": "unitpersonality_common017"
+  },
+  {
+    "id": 259,
+    "m_unit_personality_skills": [],
+    "name": "傲视",
+    "editor_name": "活动-大型1期-[英雄个性]- 骑士团突击-御剑姿态（挑战4）",
+    "icon": "unitpersonality_auguste"
+  },
+  {
+    "id": 260,
+    "m_unit_personality_skills": [],
+    "name": "怒风",
+    "editor_name": "活动-大型1期-[英雄个性]-骑士团枪骑士-狂风之力（挑战4）",
+    "icon": "unitpersonality_common032"
+  },
+  {
+    "id": 261,
+    "m_unit_personality_skills": [],
+    "name": "永恒之冰",
+    "editor_name": "[网游主线11章]-永恒之冰",
+    "icon": "unitpersonality_jingshihuti"
+  },
+  {
+    "id": 262,
+    "m_unit_personality_skills": [],
+    "name": "冰刺充能·改",
+    "editor_name": "活动-大型1期-骑士团冰法个性（挑战5）",
+    "icon": "unitpersonality_enemy016"
+  },
+  {
+    "id": 263,
+    "m_unit_personality_skills": [],
+    "name": "光辉充能·改",
+    "editor_name": "活动-大型1期-骑士团光法个性（挑战5）",
+    "icon": "unitpersonality_enemy015"
+  },
+  {
+    "id": 264,
+    "m_unit_personality_skills": [],
+    "name": "凛冬将至·改",
+    "editor_name": "活动-大型1期-英雄个性-骑士团法师-寒冰血脉（挑战5）",
+    "icon": "unitpersonality_hanbingxuemai"
+  },
+  {
+    "id": 265,
+    "m_unit_personality_skills": [],
+    "name": "蓄能·改",
+    "editor_name": "活动-大型1期-[英雄个性]-骑士团弩骑士-蓄能动力（挑战5）",
+    "icon": "unitpersonality_common017"
+  },
+  {
+    "id": 266,
+    "m_unit_personality_skills": [],
+    "name": "傲视·改",
+    "editor_name": "活动-大型1期-[英雄个性]- 骑士团突击-御剑姿态（挑战5）",
+    "icon": "unitpersonality_auguste"
+  },
+  {
+    "id": 267,
+    "m_unit_personality_skills": [],
+    "name": "怒风·改",
+    "editor_name": "活动-大型1期-[英雄个性]-骑士团枪骑士-狂风之力（挑战5）",
+    "icon": "unitpersonality_common032"
+  },
+  {
+    "id": 268,
+    "m_unit_personality_skills": [],
+    "name": "薇尔塔守护者·改",
+    "editor_name": "活动-大型1期-[英雄个性]-薇尔德姐姐-高原血统（挑战5）",
+    "icon": "unitpersonality_weidongdeshouhuzhe"
+  },
+  {
+    "id": 269,
+    "m_unit_personality_skills": [],
+    "name": "银狼女王·改",
+    "editor_name": "活动-大型1期-[英雄个性]-银狼-利爪1（挑战6）",
+    "icon": "unitpersonality_xavier"
+  },
+  {
+    "id": 270,
+    "m_unit_personality_skills": [],
+    "name": "银狼女王·怒意",
+    "editor_name": "活动-大型1期-[英雄个性]-银狼-利爪3（挑战6）",
+    "icon": "unitpersonality_xavier"
+  },
+  {
+    "id": 271,
+    "m_unit_personality_skills": [],
+    "name": "薇尔塔守护者·改",
+    "editor_name": "活动-大型1期-[英雄个性]-薇尔德姐姐-高原血统（挑战6）",
+    "icon": "unitpersonality_weidongdeshouhuzhe"
+  },
+  {
+    "id": 272,
+    "m_unit_personality_skills": [],
+    "name": "蛮熊血脉·改",
+    "editor_name": "活动-大型1期-[英雄个性]-阿力克塞-狂战（挑战6）",
+    "icon": "unitpersonality_manxiongxuemai"
+  },
+  {
+    "id": 273,
+    "m_unit_personality_skills": [],
+    "name": "银狼女王·积蓄",
+    "editor_name": "活动-大型1期-[英雄个性]-银狼-利爪2（挑战6）",
+    "icon": "unitpersonality_xavier"
+  },
+  {
+    "id": 274,
+    "m_unit_personality_skills": [],
+    "name": "热血少女",
+    "editor_name": "[英雄个性]- SP拉维耶-热血少女",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 275,
+    "m_unit_personality_skills": [],
+    "name": "结网",
+    "editor_name": "蜘蛛个性",
+    "icon": "unitpersonality_magnus"
+  },
+  {
+    "id": 276,
+    "m_unit_personality_skills": [],
+    "name": "猪突猛进",
+    "editor_name": "野猪个性",
+    "icon": "unitpersonality_common003"
+  },
+  {
+    "id": 278,
+    "m_unit_personality_skills": [],
+    "name": "愤怒的力量",
+    "editor_name": "活动-中型-塔罗怪个性-护石本塔罗狮子-突袭型（挑战5）",
+    "icon": "unitpersonality_enemy020"
+  },
+  {
+    "id": 279,
+    "m_unit_personality_skills": [],
+    "name": "进击的力量·改",
+    "editor_name": "活动-中型-塔罗怪个性-护石本塔罗狮子-突袭型（挑战6）",
+    "icon": "unitpersonality_enemy020"
+  },
+  {
+    "id": 280,
+    "m_unit_personality_skills": [],
+    "name": "进击的力量·改",
+    "editor_name": "活动-中型-塔罗怪个性-护石本塔罗狮子·分身-突袭型（挑战7）",
+    "icon": "unitpersonality_enemy020"
+  },
+  {
+    "id": 281,
+    "m_unit_personality_skills": [],
+    "name": "女神的庇护",
+    "editor_name": "活动-中型1期-塔罗狮子-个性-战士型（挑战7）",
+    "icon": "unitpersonality_enemy018"
+  },
+  {
+    "id": 282,
+    "m_unit_personality_skills": [],
+    "name": "女神的赐福",
+    "editor_name": "活动-中型1期-塔罗狮子-个性-防御型（挑战7）",
+    "icon": "unitpersonality_enemy019"
+  },
+  {
+    "id": 283,
+    "m_unit_personality_skills": [],
+    "name": "女神的怜悯",
+    "editor_name": "活动-中型1期-塔罗狮子-个性-突袭型（挑战7）",
+    "icon": "unitpersonality_enemy020"
+  },
+  {
+    "id": 284,
+    "m_unit_personality_skills": [],
+    "name": "力量的祝福",
+    "editor_name": "活动-中型1期-塔罗怪个性-护石本塔罗女神-战士本守望型（挑战7）",
+    "icon": "unitpersonality_enemy021"
+  },
+  {
+    "id": 286,
+    "m_unit_personality_skills": [],
+    "name": "力量的屏障",
+    "editor_name": "活动-中型1期-塔罗怪个性-护石本塔罗女神-防御本毁灭型（挑战7）",
+    "icon": "unitpersonality_enemy022"
+  },
+  {
+    "id": 287,
+    "m_unit_personality_skills": [],
+    "name": "逆位预兆·改",
+    "editor_name": "活动-中型1期-塔罗个性-暗·法师塔罗-逆位预兆（挑战6）",
+    "icon": "unitpersonality_enemy010"
+  },
+  {
+    "id": 288,
+    "m_unit_personality_skills": [],
+    "name": "增压·改",
+    "editor_name": "活动-中型1期-塔罗个性-战士塔罗-灵巧行进（挑战6）",
+    "icon": "unitpersonality_enemy007"
+  },
+  {
+    "id": 289,
+    "m_unit_personality_skills": [],
+    "name": "湮灭·改",
+    "editor_name": "活动-中型1期-塔罗个性-激光塔罗-偏光镜（挑战4）",
+    "icon": "unitpersonality_enemy011"
+  },
+  {
+    "id": 290,
+    "m_unit_personality_skills": [],
+    "name": "军事建筑·改",
+    "editor_name": "活动-中型1期-通用建筑个性-治疗（挑战4）",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 291,
+    "m_unit_personality_skills": [],
+    "name": "军事建筑·改",
+    "editor_name": "活动-中型1期-通用建筑个性-强袭（挑战4）",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 292,
+    "m_unit_personality_skills": [],
+    "name": "军事建筑·改",
+    "editor_name": "活动-中型1期-通用建筑个性-守护（挑战4）",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 293,
+    "m_unit_personality_skills": [],
+    "name": "军事建筑",
+    "editor_name": "活动-中型1期-竞技场-通用建筑个性-未激活",
+    "icon": "unitpersonality_common008"
+  },
+  {
+    "id": 294,
+    "m_unit_personality_skills": [],
+    "name": "逆位预兆·改",
+    "editor_name": "活动-中型1期-塔罗怪个性-暗·法师塔罗-逆位预兆（挑战3）",
+    "icon": "unitpersonality_enemy010"
+  },
+  {
+    "id": 295,
+    "m_unit_personality_skills": [],
+    "name": "风异变生物",
+    "editor_name": "晶石软泥怪绿个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 296,
+    "m_unit_personality_skills": [],
+    "name": "火异变生物",
+    "editor_name": "晶石软泥怪红个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 297,
+    "m_unit_personality_skills": [],
+    "name": "冰异变生物",
+    "editor_name": "晶石软泥怪白个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 298,
+    "m_unit_personality_skills": [],
+    "name": "土异变生物",
+    "editor_name": "晶石软泥怪黄个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 299,
+    "m_unit_personality_skills": [],
+    "name": "从容不迫",
+    "editor_name": "[英雄个性]- 学姐-从容不迫",
+    "icon": "unitpersonality_common036"
+  },
+  {
+    "id": 300,
+    "m_unit_personality_skills": [],
+    "name": "构造体·厚重",
+    "editor_name": "活动-中型1期-塔罗怪个性-杂兵塔罗·物理（挑战7）",
+    "icon": "unitpersonality_enemy005"
+  },
+  {
+    "id": 301,
+    "m_unit_personality_skills": [],
+    "name": "构造体·神秘",
+    "editor_name": "活动-中型1期-塔罗怪个性-杂兵塔罗·魔法（挑战7）",
+    "icon": "unitpersonality_enemy005"
+  },
+  {
+    "id": 302,
+    "m_unit_personality_skills": [],
+    "name": "凝聚的力量·改",
+    "editor_name": "活动-中型1期-塔罗怪个性-护石本塔罗狮子-防御型（挑战6）",
+    "icon": "unitpersonality_enemy019"
+  },
+  {
+    "id": 303,
+    "m_unit_personality_skills": [],
+    "name": "小型冰异变生物",
+    "editor_name": "小晶石软泥怪白个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 304,
+    "m_unit_personality_skills": [],
+    "name": "小型火异变生物",
+    "editor_name": "小晶石软泥怪红个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 306,
+    "m_unit_personality_skills": [],
+    "name": "进击的力量·改",
+    "editor_name": "活动-中型-塔罗怪个性-护石本塔罗狮子-分身-突袭型（挑战6）",
+    "icon": "unitpersonality_enemy020"
+  },
+  {
+    "id": 307,
+    "m_unit_personality_skills": [],
+    "name": "渴求力量",
+    "editor_name": "活动-中型-塔罗狮子初始-通用个性（挑战7）",
+    "icon": "unitpersonality_enemy002"
+  },
+  {
+    "id": 308,
+    "m_unit_personality_skills": [],
+    "name": "偏执",
+    "editor_name": "[英雄个性]-女仆-偏执",
+    "icon": "unitpersonality_common027"
+  },
+  {
+    "id": 309,
+    "m_unit_personality_skills": [],
+    "name": "蝴蝶之舞·改",
+    "editor_name": "活动-大型1期-[英雄个性]-薇尔德舞娘-即兴表演 （解谜2）",
+    "icon": "unitpersonality_common040"
+  },
+  {
+    "id": 310,
+    "m_unit_personality_skills": [],
+    "name": "晶石领域",
+    "editor_name": "活动-大型1期-骑士团火把兵-个性（敌方）",
+    "icon": "unitpersonality_enemy036"
+  },
+  {
+    "id": 311,
+    "m_unit_personality_skills": [],
+    "name": "觉醒的居民",
+    "editor_name": "[网游主线章]—觉醒的居民",
+    "icon": "unitpersonality_enemy029"
+  },
+  {
+    "id": 312,
+    "m_unit_personality_skills": [],
+    "name": "晶石领域",
+    "editor_name": "活动-大型1期-骑士团火把兵-个性（己方）",
+    "icon": "unitpersonality_enemy036"
+  },
+  {
+    "id": 313,
+    "m_unit_personality_skills": [],
+    "name": "热血少女",
+    "editor_name": "[英雄个性]- SP拉维耶-热血少女-方案2",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 314,
+    "m_unit_personality_skills": [],
+    "name": "卫兵队长",
+    "editor_name": "卫兵队长",
+    "icon": "unitpersonality_gloria"
+  },
+  {
+    "id": 315,
+    "m_unit_personality_skills": [],
+    "name": "致命准心 ",
+    "editor_name": "[英雄个性]- 考尔-致命准心 ",
+    "icon": "unitpersonality_common035"
+  },
+  {
+    "id": 316,
+    "m_unit_personality_skills": [],
+    "name": "医药管理",
+    "editor_name": "[英雄个性]-机动部队-希孜-医药管理",
+    "icon": "unitpersonality_common037"
+  },
+  {
+    "id": 317,
+    "m_unit_personality_skills": [],
+    "name": "致命准心",
+    "editor_name": "[英雄个性]-机动部队-考尔-致命准心",
+    "icon": "unitpersonality_common016"
+  },
+  {
+    "id": 318,
+    "m_unit_personality_skills": [],
+    "name": "增压·改",
+    "editor_name": "活动-中型2期-塔罗怪个性-战士塔罗-灵巧行进",
+    "icon": "unitpersonality_enemy007"
+  },
+  {
+    "id": 319,
+    "m_unit_personality_skills": [],
+    "name": "硬质表面·改",
+    "editor_name": "活动-中型2期-塔罗怪个性-重型塔罗-重型护甲",
+    "icon": "unitpersonality_enemy006"
+  },
+  {
+    "id": 320,
+    "m_unit_personality_skills": [],
+    "name": "订单完成",
+    "editor_name": "活动-中型3期-个性-订单完成",
+    "icon": "unitpersonality_weixiaojiamian"
+  },
+  {
+    "id": 321,
+    "m_unit_personality_skills": [],
+    "name": "使徒·意志·改",
+    "editor_name": "活动-中型2期-敌方-[网游主线特性]战车-意志",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 322,
+    "m_unit_personality_skills": [],
+    "name": "保费追加",
+    "editor_name": "活动-中型3期-个性-保费追加",
+    "icon": "unitpersonality_lishiyuziyou"
+  },
+  {
+    "id": 323,
+    "m_unit_personality_skills": [],
+    "name": "动能·改",
+    "editor_name": "活动-中型2期-塔罗怪个性-冲锋塔罗-惯性冲撞",
+    "icon": "unitpersonality_enemy008"
+  },
+  {
+    "id": 325,
+    "m_unit_personality_skills": [],
+    "name": "崩溃·改",
+    "editor_name": "活动-中型2期-敌方-黑-光环塔罗·压制光环",
+    "icon": "unitpersonality_enemy013"
+  },
+  {
+    "id": 326,
+    "m_unit_personality_skills": [],
+    "name": "使徒·本能·改",
+    "editor_name": "活动-中型2期-敌方-[网游主线特性]战车-本能",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 327,
+    "m_unit_personality_skills": [],
+    "name": "百战之枪",
+    "editor_name": "[英雄个性]-女将军-百战之枪",
+    "icon": "unitpersonality_chongzheng"
+  },
+  {
+    "id": 328,
+    "m_unit_personality_skills": [],
+    "name": "硬质表面·意志",
+    "editor_name": "中型活动2期前瞻-重型塔罗",
+    "icon": "unitpersonality_enemy006"
+  },
+  {
+    "id": 329,
+    "m_unit_personality_skills": [],
+    "name": "湮灭·改",
+    "editor_name": "活动-中型2期-塔罗怪个性-激光塔罗-偏光镜",
+    "icon": "unitpersonality_enemy011"
+  },
+  {
+    "id": 330,
+    "m_unit_personality_skills": [],
+    "name": "庇护·改",
+    "editor_name": "活动-中型2期-塔罗怪个性-光·光环塔罗·坚守光环",
+    "icon": "unitpersonality_enemy012"
+  },
+  {
+    "id": 332,
+    "m_unit_personality_skills": [],
+    "name": "意志·显现",
+    "editor_name": "[中型活动2前瞻]战车-意志",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 333,
+    "m_unit_personality_skills": [],
+    "name": "硬质表面·意志",
+    "editor_name": "中型活动2期前瞻-重型塔罗（召唤）",
+    "icon": "unitpersonality_enemy006"
+  },
+  {
+    "id": 334,
+    "m_unit_personality_skills": [],
+    "name": "增压",
+    "editor_name": "塔罗怪个性-战士塔罗-灵巧行进（召唤）",
+    "icon": "unitpersonality_enemy007"
+  },
+  {
+    "id": 335,
+    "m_unit_personality_skills": [],
+    "name": "使徒·意志·改",
+    "editor_name": "活动-中型2期-敌方-[网游主线特性]战车-意志（主线8）",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 336,
+    "m_unit_personality_skills": [],
+    "name": "使徒·本能·改",
+    "editor_name": "活动-中型2期-敌方-[网游主线特性]战车-本能（主线8）",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 337,
+    "m_unit_personality_skills": [],
+    "name": "本能显现",
+    "editor_name": "[中型活动2期前瞻]战车-本能",
+    "icon": "unitpersonality_common002"
+  },
+  {
+    "id": 338,
+    "m_unit_personality_skills": [],
+    "name": "金钱帝国",
+    "editor_name": "活动-中型3期-个性-金钱帝国",
+    "icon": "unitpersonality_lutfi"
+  },
+  {
+    "id": 339,
+    "m_unit_personality_skills": [],
+    "name": "支援单元",
+    "editor_name": "[中型活动2]-支援单元",
+    "icon": "unitpersonality_common009"
+  },
+  {
+    "id": 346,
+    "m_unit_personality_skills": [],
+    "name": "蚀炎之环",
+    "editor_name": "中型活动2前瞻-中枢个性",
+    "icon": "unitpersonality_common036"
+  },
+  {
+    "id": 353,
+    "m_unit_personality_skills": [],
+    "name": "构造体·改",
+    "editor_name": "活动-大型3期-敌方-塔罗怪个性-杂兵塔罗-塔罗聚态",
+    "icon": "unitpersonality_enemy005"
+  },
+  {
+    "id": 354,
+    "m_unit_personality_skills": [],
+    "name": "动能·改",
+    "editor_name": "活动-大型3期-塔罗怪个性-冲锋塔罗-惯性冲撞",
+    "icon": "unitpersonality_enemy008"
+  },
+  {
+    "id": 355,
+    "m_unit_personality_skills": [],
+    "name": "深渊的低语",
+    "editor_name": "活动-大型3期-敌方-突袭狮子个性（主线5）",
+    "icon": "unitpersonality_common001"
+  },
+  {
+    "id": 359,
+    "m_unit_personality_skills": [],
+    "name": "旅行青蛙",
+    "editor_name": "青蛙个性",
+    "icon": "unitpersonality_common003"
+  },
+  {
+    "id": 360,
+    "m_unit_personality_skills": [],
+    "name": "无解之毒",
+    "editor_name": "蝎子个性",
+    "icon": "unitpersonality_common003"
+  },
+  {
+    "id": 361,
+    "m_unit_personality_skills": [],
+    "name": "敌法天性",
+    "editor_name": "浣熊个性",
+    "icon": "unitpersonality_common003"
+  },
+  {
+    "id": 362,
+    "m_unit_personality_skills": [],
+    "name": "繁星的守护",
+    "editor_name": "活动-大型3期-解谜关卡6-无敌护甲",
+    "icon": "unitpersonality_common010"
+  },
+  {
+    "id": 363,
+    "m_unit_personality_skills": [],
+    "name": "星辰聚集",
+    "editor_name": "活动-大型3期-敌方-[塔罗BOSS特性]大眼星星-星辰之力·伪",
+    "icon": "unitpersonality_enemy023"
+  },
+  {
+    "id": 364,
+    "m_unit_personality_skills": [],
+    "name": "虔诚祈祷·改",
+    "editor_name": "活动-大型3期-己方-[英雄个性]-萨曼莎修女·改",
+    "icon": "unitpersonality_qianchengqidao"
+  },
+  {
+    "id": 365,
+    "m_unit_personality_skills": [],
+    "name": "魔术师的复仇",
+    "editor_name": "塔罗怪个性-周常PVP-魔术师塔罗",
+    "icon": "unitpersonality_common024"
+  },
+  {
+    "id": 366,
+    "m_unit_personality_skills": [],
+    "name": "结网·改",
+    "editor_name": "活动-大型3期-敌方-蜘蛛个性",
+    "icon": "unitpersonality_magnus"
+  },
+  {
+    "id": 367,
+    "m_unit_personality_skills": [],
+    "name": "暗异变生物·改",
+    "editor_name": "活动-大型3期-敌方-晶石软泥怪个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 368,
+    "m_unit_personality_skills": [],
+    "name": "风异变生物·改",
+    "editor_name": "活动-大型3期-敌方-晶石软泥怪绿个性",
+    "icon": "unitpersonality_enemy004"
+  },
+  {
+    "id": 369,
+    "m_unit_personality_skills": [],
+    "name": "坚硬外壳",
+    "editor_name": "活动-大型3期-敌方-野猪个性（挑战1）",
+    "icon": "unitpersonality_common006"
+  },
+  {
+    "id": 370,
+    "m_unit_personality_skills": [],
+    "name": "利爪·改",
+    "editor_name": "活动-大型3期-敌方-森林狼个性（挑战1）",
+    "icon": "unitpersonality_enemy027"
+  },
+  {
+    "id": 371,
+    "m_unit_personality_skills": [],
+    "name": "狼群领袖·改",
+    "editor_name": "活动-大型3期-敌方-狼王个性-狼群领袖·改",
+    "icon": "unitpersonality_enemy014"
+  },
+  {
+    "id": 372,
+    "m_unit_personality_skills": [],
+    "name": "生命的伊甸园",
+    "editor_name": "[网游主线12章]恋人（生命/物理）",
+    "icon": "unitpersonality_enemy021"
+  },
+  {
+    "id": 373,
+    "m_unit_personality_skills": [],
+    "name": "国家商人·改",
+    "editor_name": "活动-大型3期-敌方-苏莱曼商人个性-聚敛财富",
+    "icon": "unitpersonality_safiyyah"
+  },
+  {
+    "id": 374,
+    "m_unit_personality_skills": [],
+    "name": "虔诚祈祷·改",
+    "editor_name": "活动-大型3期-敌方-萨曼莎修女个性（挑战2）",
+    "icon": "unitpersonality_qianchengqidao"
+  },
+  {
+    "id": 375,
+    "m_unit_personality_skills": [],
+    "name": "处决者·改",
+    "editor_name": "活动-大型3期-敌方-审判者C个性（挑战2）",
+    "icon": "unitpersonality_fumo"
+  },
+  {
+    "id": 376,
+    "m_unit_personality_skills": [],
+    "name": "咱是天才！·改",
+    "editor_name": "活动-大型3期-敌方-小魔女个性（挑战2）",
+    "icon": "unitpersonality_zanshitiancai"
+  },
+  {
+    "id": 377,
+    "m_unit_personality_skills": [],
+    "name": "知识的伊甸园",
+    "editor_name": "[网游主线12章]恋人（知识/魔法）",
+    "icon": "unitpersonality_enemy022"
+  },
+  {
+    "id": 378,
+    "m_unit_personality_skills": [],
+    "name": "星辰聚集",
+    "editor_name": "活动-大型3期-敌方-[塔罗BOSS特性]大眼星星-星辰之力·真（挑战3）",
+    "icon": "unitpersonality_enemy023"
+  },
+  {
+    "id": 379,
+    "m_unit_personality_skills": [],
+    "name": "硬质表面·改",
+    "editor_name": "活动-大型3期-敌方-塔罗怪个性-重型塔罗-重型护甲（挑战3）",
+    "icon": "unitpersonality_enemy006"
+  },
+  {
+    "id": 380,
+    "m_unit_personality_skills": [],
+    "name": "藏器于身",
+    "editor_name": "[网游通用个性]藏器于身（猫专用）",
+    "icon": "unitpersonality_common026"
+  },
+  {
+    "id": 381,
+    "m_unit_personality_skills": [],
+    "name": "拿钱办事",
+    "editor_name": "活动-大型3期-敌方-拿钱办事（挑战2）",
+    "icon": "unitpersonality_common040"
+  },
+  {
+    "id": 382,
+    "m_unit_personality_skills": [],
+    "name": "刚正的力量·改",
+    "editor_name": "活动-大型3期-敌方-塔罗怪个性-护石本塔罗狮子-战士型·改（刷分）",
+    "icon": "unitpersonality_enemy018"
+  },
+  {
+    "id": 383,
+    "m_unit_personality_skills": [],
+    "name": "凝聚的力量·改",
+    "editor_name": "活动-大型3期-敌方-塔罗怪个性-护石本塔罗狮子-防御型·改（刷分）",
+    "icon": "unitpersonality_enemy019"
+  },
+  {
+    "id": 386,
+    "m_unit_personality_skills": [],
+    "name": "守护之力",
+    "editor_name": "周常PVP-护石本塔罗女神",
+    "icon": "unitpersonality_enemy021"
+  },
+  {
+    "id": 387,
+    "m_unit_personality_skills": [],
+    "name": "女神的庇护",
+    "editor_name": "周常PVP-塔罗狮子",
+    "icon": "unitpersonality_enemy018"
+  },
+  {
+    "id": 414,
+    "m_unit_personality_skills": [],
+    "name": "凝聚的力量",
+    "editor_name": "塔罗怪个性-护石本塔罗狮子-防御型 （S3）",
+    "icon": "unitpersonality_enemy019"
+  },
+  {
+    "id": 434,
+    "m_unit_personality_skills": [],
+    "name": "星辰爆裂·光",
+    "editor_name": "活动-大型3期-敌方-图腾·白个性（挑战3）",
+    "icon": "unitpersonality_enemy011"
+  },
+  {
+    "id": 435,
+    "m_unit_personality_skills": [],
+    "name": "星辰涌动·暗",
+    "editor_name": "活动-大型3期-敌方-图腾·黑个性（挑战3）",
+    "icon": "unitpersonality_common034"
+  },
+  {
+    "id": 439,
+    "m_unit_personality_skills": [],
+    "name": "成王之路",
+    "editor_name": "[英雄个性]-大王子-成王之路（周常PVP用）",
+    "icon": "unitpersonality_chengwangzhilu"
+  },
+  {
+    "id": 441,
+    "m_unit_personality_skills": [],
+    "name": "暗影",
+    "editor_name": "活动-大型3期-[英雄个性]-暗影蛰伏（挑战2）",
+    "icon": "unitpersonality_shashoubenneng"
+  }
+]

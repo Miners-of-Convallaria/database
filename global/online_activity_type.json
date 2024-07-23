@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "type": "exp",
+    "name": "经验本",
+    "desc": ""
+  },
+  {
+    "id": 2,
+    "type": "unit_rank_material",
+    "name": "进阶素材本",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "type": "unit_piece",
+    "name": "角色资源碎片本",
+    "desc": ""
+  },
+  {
+    "id": 4,
+    "type": "weapon",
+    "name": "武器资源本",
+    "desc": ""
+  },
+  {
+    "id": 5,
+    "type": "armor",
+    "name": "防具资源本",
+    "desc": ""
+  },
+  {
+    "id": 6,
+    "type": "forge",
+    "name": "锻造本",
+    "desc": ""
+  },
+  {
+    "id": 7,
+    "type": "tech",
+    "name": "科技本",
+    "desc": ""
+  },
+  {
+    "id": 8,
+    "type": "charm",
+    "name": "护石本",
+    "desc": ""
+  },
+  {
+    "id": 9,
+    "type": "tower",
+    "name": "周常本",
+    "desc": ""
+  },
+  {
+    "id": 10,
+    "type": "contract_activity",
+    "name": "合约活动本",
+    "desc": ""
+  },
+  {
+    "id": 11,
+    "type": "abyss",
+    "name": "深渊",
+    "desc": ""
+  }
+]

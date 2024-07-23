@@ -1,0 +1,524 @@
+[
+  {
+    "id": 101,
+    "type": 1,
+    "name": "名字",
+    "sort_id": 1086101,
+    "stage_name": "愚者的旅程0-8",
+    "scenario_type": 1,
+    "scenario_id": 112
+  },
+  {
+    "id": 102,
+    "type": 1,
+    "name": "发现灾厄",
+    "sort_id": 1086102,
+    "stage_name": "愚者的旅程0-8",
+    "scenario_type": 1,
+    "scenario_id": 113
+  },
+  {
+    "id": 103,
+    "type": 1,
+    "name": "命运的螺旋",
+    "sort_id": 1076103,
+    "stage_name": "愚者的旅程0-7",
+    "scenario_type": 1,
+    "scenario_id": 80
+  },
+  {
+    "id": 104,
+    "type": 1,
+    "name": "重逢",
+    "sort_id": 1106104,
+    "stage_name": "愚者的旅程0-10",
+    "scenario_type": 1,
+    "scenario_id": 114
+  },
+  {
+    "id": 201,
+    "type": 3,
+    "name": "微小的声音",
+    "sort_id": 4016201,
+    "stage_name": "愚者的旅程3-1",
+    "scenario_type": 1,
+    "scenario_id": 116
+  },
+  {
+    "id": 202,
+    "type": 3,
+    "name": "箭与弦的火种",
+    "sort_id": 4066202,
+    "stage_name": "愚者的旅程3-6",
+    "scenario_type": 1,
+    "scenario_id": 117
+  },
+  {
+    "id": 203,
+    "type": 3,
+    "name": "机会",
+    "sort_id": 3016203,
+    "stage_name": "愚者的旅程2-1",
+    "scenario_type": 1,
+    "scenario_id": 107
+  },
+  {
+    "id": 204,
+    "type": 3,
+    "name": "光辉的庇护",
+    "sort_id": 6016204,
+    "stage_name": "愚者的旅程5-1",
+    "scenario_type": 1,
+    "scenario_id": 146
+  },
+  {
+    "id": 205,
+    "type": 3,
+    "name": "佣兵",
+    "sort_id": 7016205,
+    "stage_name": "愚者的旅程6-1",
+    "scenario_type": 1,
+    "scenario_id": 149
+  },
+  {
+    "id": 206,
+    "type": 3,
+    "name": "圣枪的重量",
+    "sort_id": 8016206,
+    "stage_name": "愚者的旅程7-1",
+    "scenario_type": 1,
+    "scenario_id": 154
+  },
+  {
+    "id": 207,
+    "type": 3,
+    "name": "谏言",
+    "sort_id": 3066207,
+    "stage_name": "愚者的旅程2-6",
+    "scenario_type": 1,
+    "scenario_id": 108
+  },
+  {
+    "id": 208,
+    "type": 1,
+    "name": "不期而遇",
+    "sort_id": 5066208,
+    "stage_name": "愚者的旅程4-6",
+    "scenario_type": 1,
+    "scenario_id": 234
+  },
+  {
+    "id": 209,
+    "type": 3,
+    "name": "名为铃兰之剑（上）",
+    "sort_id": 2186209,
+    "stage_name": "愚者的旅程1-18",
+    "scenario_type": 1,
+    "scenario_id": 106
+  },
+  {
+    "id": 210,
+    "type": 3,
+    "name": "被抛弃者",
+    "sort_id": 2126210,
+    "stage_name": "愚者的旅程1-12",
+    "scenario_type": 1,
+    "scenario_id": 105
+  },
+  {
+    "id": 211,
+    "type": 3,
+    "name": "被拯救者",
+    "sort_id": 2066211,
+    "stage_name": "愚者的旅程1-6",
+    "scenario_type": 1,
+    "scenario_id": 104
+  },
+  {
+    "id": 212,
+    "type": 3,
+    "name": "亲离",
+    "sort_id": 3126212,
+    "stage_name": "愚者的旅程2-12",
+    "scenario_type": 1,
+    "scenario_id": 109
+  },
+  {
+    "id": 213,
+    "type": 3,
+    "name": "心灵的束缚",
+    "sort_id": 4126213,
+    "stage_name": "愚者的旅程3-12",
+    "scenario_type": 1,
+    "scenario_id": 118
+  },
+  {
+    "id": 214,
+    "type": 3,
+    "name": "变革之风 心之远行",
+    "sort_id": 4176214,
+    "stage_name": "愚者的旅程3-17",
+    "scenario_type": 1,
+    "scenario_id": 119
+  },
+  {
+    "id": 215,
+    "type": 3,
+    "name": "种子（上）",
+    "sort_id": 3186215,
+    "stage_name": "愚者的旅程2-18",
+    "scenario_type": 1,
+    "scenario_id": 110
+  },
+  {
+    "id": 216,
+    "type": 1,
+    "name": "秘密基地",
+    "sort_id": 5126216,
+    "stage_name": "愚者的旅程4-12",
+    "scenario_type": 1,
+    "scenario_id": 235
+  },
+  {
+    "id": 217,
+    "type": 1,
+    "name": "意外之获（上）",
+    "sort_id": 5186217,
+    "stage_name": "愚者的旅程4-18",
+    "scenario_type": 1,
+    "scenario_id": 236
+  },
+  {
+    "id": 218,
+    "type": 3,
+    "name": "污浊之手",
+    "sort_id": 6066218,
+    "stage_name": "愚者的旅程5-6",
+    "scenario_type": 1,
+    "scenario_id": 150
+  },
+  {
+    "id": 219,
+    "type": 3,
+    "name": "痛苦与职责",
+    "sort_id": 6126219,
+    "stage_name": "愚者的旅程5-12",
+    "scenario_type": 1,
+    "scenario_id": 152
+  },
+  {
+    "id": 220,
+    "type": 3,
+    "name": "寻索",
+    "sort_id": 6186220,
+    "stage_name": "愚者的旅程5-18",
+    "scenario_type": 1,
+    "scenario_id": 153
+  },
+  {
+    "id": 221,
+    "type": 3,
+    "name": "出头之日",
+    "sort_id": 7066221,
+    "stage_name": "愚者的旅程6-6",
+    "scenario_type": 1,
+    "scenario_id": 147
+  },
+  {
+    "id": 222,
+    "type": 3,
+    "name": "不散的阴影",
+    "sort_id": 7126222,
+    "stage_name": "愚者的旅程6-12",
+    "scenario_type": 1,
+    "scenario_id": 181
+  },
+  {
+    "id": 223,
+    "type": 3,
+    "name": "生还者（上）",
+    "sort_id": 7186223,
+    "stage_name": "愚者的旅程6-18",
+    "scenario_type": 1,
+    "scenario_id": 183
+  },
+  {
+    "id": 224,
+    "type": 3,
+    "name": "牺牲者",
+    "sort_id": 8066224,
+    "stage_name": "愚者的旅程7-6",
+    "scenario_type": 1,
+    "scenario_id": 155
+  },
+  {
+    "id": 225,
+    "type": 3,
+    "name": "无畏者",
+    "sort_id": 8126225,
+    "stage_name": "愚者的旅程7-12",
+    "scenario_type": 1,
+    "scenario_id": 156
+  },
+  {
+    "id": 226,
+    "type": 3,
+    "name": "先驱者（上）",
+    "sort_id": 8186226,
+    "stage_name": "愚者的旅程7-18",
+    "scenario_type": 1,
+    "scenario_id": 157
+  },
+  {
+    "id": 227,
+    "type": 1,
+    "name": "突变与抉择",
+    "sort_id": 9066227,
+    "stage_name": "愚者的旅程8-6",
+    "scenario_type": 1,
+    "scenario_id": 148
+  },
+  {
+    "id": 228,
+    "type": 1,
+    "name": "尘埃落定（上）",
+    "sort_id": 9176228,
+    "stage_name": "愚者的旅程8-17",
+    "scenario_type": 1,
+    "scenario_id": 151
+  },
+  {
+    "id": 229,
+    "type": 3,
+    "name": "界限",
+    "sort_id": 11066229,
+    "stage_name": "愚者的旅程10-6",
+    "scenario_type": 1,
+    "scenario_id": 249
+  },
+  {
+    "id": 230,
+    "type": 3,
+    "name": "使命",
+    "sort_id": 11126230,
+    "stage_name": "愚者的旅程10-12",
+    "scenario_type": 1,
+    "scenario_id": 250
+  },
+  {
+    "id": 231,
+    "type": 3,
+    "name": "不归",
+    "sort_id": 11186231,
+    "stage_name": "愚者的旅程10-18",
+    "scenario_type": 1,
+    "scenario_id": 251
+  },
+  {
+    "id": 232,
+    "type": 3,
+    "name": "撕裂",
+    "sort_id": 12056232,
+    "stage_name": "愚者的旅程11-5",
+    "scenario_type": 1,
+    "scenario_id": 247
+  },
+  {
+    "id": 233,
+    "type": 3,
+    "name": "穿刺",
+    "sort_id": 12106233,
+    "stage_name": "愚者的旅程11-10",
+    "scenario_type": 1,
+    "scenario_id": 245
+  },
+  {
+    "id": 234,
+    "type": 3,
+    "name": "埋葬",
+    "sort_id": 12186234,
+    "stage_name": "愚者的旅程11-18",
+    "scenario_type": 1,
+    "scenario_id": 246
+  },
+  {
+    "id": 235,
+    "type": 3,
+    "name": "被扭曲的历史",
+    "sort_id": 10066235,
+    "stage_name": "愚者的旅程9-6",
+    "scenario_type": 1,
+    "scenario_id": 260
+  },
+  {
+    "id": 236,
+    "type": 3,
+    "name": "抗争与决意",
+    "sort_id": 10126236,
+    "stage_name": "愚者的旅程9-12",
+    "scenario_type": 1,
+    "scenario_id": 261
+  },
+  {
+    "id": 237,
+    "type": 3,
+    "name": "傀儡的自由",
+    "sort_id": 10186237,
+    "stage_name": "愚者的旅程9-18",
+    "scenario_type": 1,
+    "scenario_id": 262
+  },
+  {
+    "id": 241,
+    "type": 3,
+    "name": "独行的往事",
+    "sort_id": 2016241,
+    "stage_name": "愚者的旅程1-1",
+    "scenario_type": 1,
+    "scenario_id": 103
+  },
+  {
+    "id": 242,
+    "type": 1,
+    "name": "意外之获（下）",
+    "sort_id": 5186242,
+    "stage_name": "愚者的旅程4-18",
+    "scenario_type": 1,
+    "scenario_id": 237
+  },
+  {
+    "id": 243,
+    "type": 1,
+    "name": "尘埃落定（下）",
+    "sort_id": 9176243,
+    "stage_name": "愚者的旅程8-17",
+    "scenario_type": 1,
+    "scenario_id": 238
+  },
+  {
+    "id": 244,
+    "type": 1,
+    "name": "启示未至之时（1）",
+    "sort_id": 5186244,
+    "stage_name": "愚者的旅程4-18",
+    "scenario_type": 1,
+    "scenario_id": 254
+  },
+  {
+    "id": 245,
+    "type": 1,
+    "name": "启示未至之时（2）",
+    "sort_id": 9176245,
+    "stage_name": "愚者的旅程8-17",
+    "scenario_type": 1,
+    "scenario_id": 256
+  },
+  {
+    "id": 246,
+    "type": 3,
+    "name": "名为铃兰之剑（下）",
+    "sort_id": 2186246,
+    "stage_name": "愚者的旅程1-18",
+    "scenario_type": 1,
+    "scenario_id": 240
+  },
+  {
+    "id": 247,
+    "type": 3,
+    "name": "种子（下）",
+    "sort_id": 3186247,
+    "stage_name": "愚者的旅程2-18",
+    "scenario_type": 1,
+    "scenario_id": 241
+  },
+  {
+    "id": 248,
+    "type": 3,
+    "name": "生还者（下）",
+    "sort_id": 7186248,
+    "stage_name": "愚者的旅程6-18",
+    "scenario_type": 1,
+    "scenario_id": 242
+  },
+  {
+    "id": 249,
+    "type": 3,
+    "name": "先驱者（下）",
+    "sort_id": 8186249,
+    "stage_name": "愚者的旅程7-18",
+    "scenario_type": 1,
+    "scenario_id": 243
+  },
+  {
+    "id": 250,
+    "type": 3,
+    "name": "笼中的山河",
+    "sort_id": 10016250,
+    "stage_name": "愚者的旅程9-1",
+    "scenario_type": 1,
+    "scenario_id": 259
+  },
+  {
+    "id": 251,
+    "type": 3,
+    "name": "志愿",
+    "sort_id": 11016251,
+    "stage_name": "愚者的旅程10-1",
+    "scenario_type": 1,
+    "scenario_id": 248
+  },
+  {
+    "id": 252,
+    "type": 3,
+    "name": "深梦",
+    "sort_id": 12016252,
+    "stage_name": "愚者的旅程11-1",
+    "scenario_type": 1,
+    "scenario_id": 244
+  },
+  {
+    "id": 253,
+    "type": 1,
+    "name": "启示的预兆",
+    "sort_id": 13016253,
+    "stage_name": "愚者的旅程12-1",
+    "scenario_type": 1,
+    "scenario_id": 307
+  },
+  {
+    "id": 254,
+    "type": 1,
+    "name": "清晰的愿望（上）",
+    "sort_id": 13076254,
+    "stage_name": "愚者的旅程12-7",
+    "scenario_type": 1,
+    "scenario_id": 308
+  },
+  {
+    "id": 255,
+    "type": 1,
+    "name": "清晰的愿望（下）",
+    "sort_id": 13076255,
+    "stage_name": "愚者的旅程12-7",
+    "scenario_type": 1,
+    "scenario_id": 309
+  },
+  {
+    "id": 256,
+    "type": 1,
+    "name": "重塑的羁绊",
+    "sort_id": 13166256,
+    "stage_name": "愚者的旅程12-16",
+    "scenario_type": 1,
+    "scenario_id": 310
+  },
+  {
+    "id": 257,
+    "type": 1,
+    "name": "启示之声",
+    "sort_id": 13186257,
+    "stage_name": "愚者的旅程12-18",
+    "scenario_type": 1,
+    "scenario_id": 311
+  }
+]

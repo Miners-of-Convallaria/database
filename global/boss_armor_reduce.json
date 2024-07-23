@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "idboss_armor": 1,
+    "skill_tag": 11,
+    "reduce": 1
+  },
+  {
+    "id": 2,
+    "idboss_armor": 1,
+    "skill_tag": 12,
+    "reduce": 1
+  },
+  {
+    "id": 4,
+    "idboss_armor": 2,
+    "skill_tag": 11,
+    "reduce": 1
+  },
+  {
+    "id": 5,
+    "idboss_armor": 2,
+    "skill_tag": 2,
+    "reduce": 1
+  },
+  {
+    "id": 6,
+    "idboss_armor": 1,
+    "skill_tag": 8,
+    "reduce": 1
+  },
+  {
+    "id": 8,
+    "idboss_armor": 3,
+    "skill_tag": 10,
+    "reduce": 2
+  },
+  {
+    "id": 13,
+    "idboss_armor": 4,
+    "skill_tag": 11,
+    "reduce": 1
+  }
+]

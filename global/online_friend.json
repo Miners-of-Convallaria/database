@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "max_friend_count": 100,
+    "max_apply_count": 50,
+    "max_daily_apply_count": 30,
+    "max_block_count": 50,
+    "daily_receive_count": 10,
+    "send_treasure_type": 149,
+    "send_treasure_param0": 0,
+    "send_treasure_param1": 100
+  }
+]

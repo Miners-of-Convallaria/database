@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "max_member_count": 30,
+    "max_apply_count": 200,
+    "create_treasure_type": 101,
+    "create_treasure_param0": 0,
+    "create_treasure_param1": 120,
+    "leave_cd_hour": 3,
+    "impeach_hour": 168,
+    "inspect_hour": 48
+  }
+]

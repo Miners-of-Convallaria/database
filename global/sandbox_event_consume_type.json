@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2,
+    "type": "money",
+    "name": "游戏币",
+    "template_type": "",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 3,
+    "type": "unit",
+    "name": "角色",
+    "template_type": "unit",
+    "param0_name": "稀有度",
+    "param0_type": "unit_rarity",
+    "param1_name": "职业大类",
+    "param1_type": "profession_category",
+    "param2_name": "职业",
+    "param2_type": "profession"
+  },
+  {
+    "id": 4,
+    "type": "weapon",
+    "name": "武器",
+    "template_type": "weapon",
+    "param0_name": "稀有度",
+    "param0_type": "rarity",
+    "param1_name": "类型",
+    "param1_type": "weapon_type",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 5,
+    "type": "material",
+    "name": "通用材料",
+    "template_type": "material",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 6,
+    "type": "blueprint",
+    "name": "锻造蓝图",
+    "template_type": "blueprint",
+    "param0_name": "稀有度",
+    "param0_type": "rarity",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  }
+]

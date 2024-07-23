@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "type": "PhysicAttack",
+    "name": "物理攻击",
+    "desc": "物理",
+    "recover_tp": true
+  },
+  {
+    "id": 2,
+    "type": "SpellAttack",
+    "name": "魔法攻击",
+    "desc": "魔法",
+    "recover_tp": true
+  },
+  {
+    "id": 3,
+    "type": "Heal",
+    "name": "治疗",
+    "desc": "治疗",
+    "recover_tp": false
+  },
+  {
+    "id": 4,
+    "type": "FixedDamage",
+    "name": "固定伤害",
+    "desc": "固伤",
+    "recover_tp": true
+  },
+  {
+    "id": 5,
+    "type": "Status",
+    "name": "状态",
+    "desc": "状态",
+    "recover_tp": false
+  }
+]

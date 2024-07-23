@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "m_system_redirects": [],
+    "m_online_monthly_card_specialitys": [],
+    "name": "希望的祝福",
+    "editor_name": "月卡",
+    "desc": "获得一份希望的祝福，为期{day}天。",
+    "icon": "online_shop_gift_0001",
+    "rarity": 1,
+    "duration": 30,
+    "max_duration": 180,
+    "is_unique": false,
+    "is_battle_pass": false,
+    "is_battle_pass_platinum": false,
+    "system_redirect_ids": ""
+  },
+  {
+    "id": 2,
+    "m_system_redirects": [],
+    "m_online_monthly_card_specialitys": [],
+    "name": "丰收的祝词",
+    "editor_name": "战令月卡",
+    "desc": "丰收的祝词",
+    "icon": "",
+    "rarity": 1,
+    "duration": 0,
+    "max_duration": 0,
+    "is_unique": true,
+    "is_battle_pass": true,
+    "is_battle_pass_platinum": false,
+    "system_redirect_ids": ""
+  },
+  {
+    "id": 3,
+    "m_system_redirects": [],
+    "m_online_monthly_card_specialitys": [],
+    "name": "丰收的赞歌",
+    "editor_name": "高级战令月卡",
+    "desc": "丰收的赞歌",
+    "icon": "",
+    "rarity": 1,
+    "duration": 0,
+    "max_duration": 0,
+    "is_unique": true,
+    "is_battle_pass": true,
+    "is_battle_pass_platinum": true,
+    "system_redirect_ids": ""
+  }
+]

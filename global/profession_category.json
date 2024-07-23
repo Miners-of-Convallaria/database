@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "m_profession_restrains": [],
+    "type": "Defender",
+    "name": "防御者",
+    "desc": "",
+    "icon": "smallflag_bg_1"
+  },
+  {
+    "id": 2,
+    "m_profession_restrains": [],
+    "type": "Assaulter",
+    "name": "突袭者",
+    "desc": "",
+    "icon": "smallflag_bg_2"
+  },
+  {
+    "id": 3,
+    "m_profession_restrains": [],
+    "type": "Destoryer",
+    "name": "毁灭者",
+    "desc": "",
+    "icon": "smallflag_bg_3"
+  },
+  {
+    "id": 4,
+    "m_profession_restrains": [],
+    "type": "Breaker",
+    "name": "粉碎者",
+    "desc": "",
+    "icon": "smallflag_bg_4"
+  },
+  {
+    "id": 5,
+    "m_profession_restrains": [],
+    "type": "Watcher",
+    "name": "守望者",
+    "desc": "",
+    "icon": "smallflag_bg_5"
+  },
+  {
+    "id": 6,
+    "m_profession_restrains": [],
+    "type": "Void",
+    "name": "无属性",
+    "desc": "",
+    "icon": "smallflag_bg_6"
+  }
+]

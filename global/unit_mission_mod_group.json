@@ -1,0 +1,656 @@
+[
+  {
+    "id": 1,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": ""
+  },
+  {
+    "id": 2,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "若某一阵营没有对应单位，则用其他相似站位的单位代替，确保所有每个组都有全部阵营覆盖。",
+    "name": "暂停使用"
+  },
+  {
+    "id": 3,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-民兵杂兵合集"
+  },
+  {
+    "id": 6,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-天龙人单位合集"
+  },
+  {
+    "id": 7,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-粉碎者斧兵单位合集"
+  },
+  {
+    "id": 8,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-防御者单位合集"
+  },
+  {
+    "id": 9,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-突袭者单位合集"
+  },
+  {
+    "id": 10,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-粉碎者枪兵单位合集"
+  },
+  {
+    "id": 11,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-守望者弓兵单位合集"
+  },
+  {
+    "id": 12,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-守望者弩兵单位合集"
+  },
+  {
+    "id": 13,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-毁灭者法师单位合集"
+  },
+  {
+    "id": 14,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用，需要谨慎使用！",
+    "name": "(CB1)敌初级-近战单位合集"
+  },
+  {
+    "id": 15,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-弓弩单位合集"
+  },
+  {
+    "id": 16,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-守望者法师单位合集"
+  },
+  {
+    "id": 17,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-毁灭者近战单位合集"
+  },
+  {
+    "id": 18,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-杂兵塔罗单位"
+  },
+  {
+    "id": 19,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-粉碎者战士塔罗单位"
+  },
+  {
+    "id": 20,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-防御者重型塔罗单位"
+  },
+  {
+    "id": 21,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-突袭者冲锋塔罗单位"
+  },
+  {
+    "id": 22,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-远程塔罗单位"
+  },
+  {
+    "id": 23,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌初级-光环塔罗单位"
+  },
+  {
+    "id": 24,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "不可使用"
+  },
+  {
+    "id": 25,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-天龙人单位合集"
+  },
+  {
+    "id": 26,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-粉碎者斧兵单位合集"
+  },
+  {
+    "id": 27,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-防御者单位合集"
+  },
+  {
+    "id": 28,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-突袭者单位合集"
+  },
+  {
+    "id": 29,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-粉碎者枪兵单位合集"
+  },
+  {
+    "id": 30,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-守望者弓兵单位合集"
+  },
+  {
+    "id": 31,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-守望者弩兵单位合集"
+  },
+  {
+    "id": 32,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-毁灭者法师单位合集"
+  },
+  {
+    "id": 33,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-近战单位合集"
+  },
+  {
+    "id": 34,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-弓弩单位合集"
+  },
+  {
+    "id": 35,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-守望者法师单位合集"
+  },
+  {
+    "id": 36,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-毁灭者近战单位合集"
+  },
+  {
+    "id": 37,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-杂兵塔罗单位"
+  },
+  {
+    "id": 38,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-粉碎者战士塔罗单位"
+  },
+  {
+    "id": 39,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-防御者重型塔罗单位"
+  },
+  {
+    "id": 40,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-突袭者冲锋塔罗单位"
+  },
+  {
+    "id": 41,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-远程塔罗单位"
+  },
+  {
+    "id": 42,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-光环塔罗单位"
+  },
+  {
+    "id": 43,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌高级-民兵杂兵合集"
+  },
+  {
+    "id": 44,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-黑暗之光智力单位",
+    "name": "不可使用"
+  },
+  {
+    "id": 45,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-力量剑兵单位合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 46,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-枪兵单位合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 47,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-力量斧兵单位合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 48,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-技巧弓兵单位合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 49,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-技巧弩兵单位合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 59,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-技巧刺客单位合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 60,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机经验本-无属性单位合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 61,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-杂兵塔罗怪-难度1",
+    "name": "网游随机碎片本-杂兵塔罗怪-难度1"
+  },
+  {
+    "id": 62,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-前排塔罗怪-难度1",
+    "name": "网游随机碎片本-前排塔罗怪-难度1"
+  },
+  {
+    "id": 63,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-后排塔罗怪-难度1",
+    "name": "网游随机碎片本-后排塔罗怪-难度1"
+  },
+  {
+    "id": 64,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-前排塔罗怪难度2",
+    "name": "网游随机碎片本-前排塔罗怪难度2"
+  },
+  {
+    "id": 78,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-后排塔罗怪难度2",
+    "name": "网游随机碎片本-后排塔罗怪难度2"
+  },
+  {
+    "id": 79,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-前排塔罗怪难度3",
+    "name": "网游随机碎片本-前排塔罗怪难度3"
+  },
+  {
+    "id": 80,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-后排塔罗怪难度3",
+    "name": "网游随机碎片本-后排塔罗怪难度3"
+  },
+  {
+    "id": 81,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-近战塔罗怪难度3",
+    "name": "网游随机碎片本-近战塔罗怪难度3"
+  },
+  {
+    "id": 82,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-远程塔罗怪难度3",
+    "name": "网游随机碎片本-远程塔罗怪难度3"
+  },
+  {
+    "id": 83,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-杂兵塔罗怪-难度2",
+    "name": "网游随机碎片本-杂兵塔罗怪-难度2"
+  },
+  {
+    "id": 84,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "网游随机碎片本-杂兵塔罗怪-难度3",
+    "name": "网游随机碎片本-杂兵塔罗怪-难度3"
+  },
+  {
+    "id": 85,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": ""
+  },
+  {
+    "id": 86,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": ""
+  },
+  {
+    "id": 87,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组1-前排近战1"
+  },
+  {
+    "id": 88,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组2-前排近战2"
+  },
+  {
+    "id": 89,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组3-前排近战3"
+  },
+  {
+    "id": 90,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组4-中排远程"
+  },
+  {
+    "id": 91,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组5-中排刺客"
+  },
+  {
+    "id": 92,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组6-后排法师"
+  },
+  {
+    "id": 93,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组7-后排牧师"
+  },
+  {
+    "id": 94,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "（CB1）敌中级-天龙人单位合集"
+  },
+  {
+    "id": 95,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": "竞技场专用敌人组8-后排法师"
+  },
+  {
+    "id": 96,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "面具刺客-精英版合集",
+    "name": "不可使用"
+  },
+  {
+    "id": 97,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-粉碎者斧兵单位合集"
+  },
+  {
+    "id": 99,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-防御者单位合集"
+  },
+  {
+    "id": 100,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-突袭者单位合集"
+  },
+  {
+    "id": 101,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-粉碎者枪兵单位合集"
+  },
+  {
+    "id": 102,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-守望者弓兵单位合集"
+  },
+  {
+    "id": 103,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-守望者弩兵单位合集"
+  },
+  {
+    "id": 104,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-毁灭者法师单位合集"
+  },
+  {
+    "id": 105,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-近战单位合集"
+  },
+  {
+    "id": 106,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-弓弩单位合集"
+  },
+  {
+    "id": 107,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-守望者法师单位合集"
+  },
+  {
+    "id": 108,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-毁灭者近战单位合集"
+  },
+  {
+    "id": 109,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-杂兵塔罗单位"
+  },
+  {
+    "id": 110,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-粉碎者战士塔罗单位"
+  },
+  {
+    "id": 111,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-防御者战士塔罗单位"
+  },
+  {
+    "id": 112,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-突袭者冲锋塔罗单位"
+  },
+  {
+    "id": 114,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-远程塔罗单位"
+  },
+  {
+    "id": 115,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-光环塔罗单位"
+  },
+  {
+    "id": 116,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "√可用",
+    "name": "(CB1)敌中级-民兵杂兵合集"
+  },
+  {
+    "id": 117,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "暂停使用",
+    "name": "暂停使用"
+  },
+  {
+    "id": 118,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "暂停使用",
+    "name": "暂停使用"
+  },
+  {
+    "id": 119,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "暂停使用",
+    "name": "暂停使用"
+  },
+  {
+    "id": 120,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "暂停使用",
+    "name": "暂停使用"
+  },
+  {
+    "id": 121,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "暂停使用",
+    "name": "暂停使用"
+  },
+  {
+    "id": 122,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "暂停使用",
+    "name": "暂停使用"
+  },
+  {
+    "id": 123,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-盗贼团枪兵",
+    "name": "不可使用"
+  },
+  {
+    "id": 124,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-盗贼团狂战",
+    "name": "不可使用"
+  },
+  {
+    "id": 125,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-薇尔德刺客",
+    "name": "不可使用"
+  },
+  {
+    "id": 126,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-薇尔德弓手",
+    "name": "不可使用"
+  },
+  {
+    "id": 127,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-薇尔德舞娘",
+    "name": "不可使用"
+  },
+  {
+    "id": 128,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-雇佣兵刺客",
+    "name": "不可使用"
+  },
+  {
+    "id": 129,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-骑士团剑盾兵",
+    "name": "不可使用"
+  },
+  {
+    "id": 130,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-骑士团巨斧兵",
+    "name": "不可使用"
+  },
+  {
+    "id": 131,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-骑士团枪兵",
+    "name": "不可使用"
+  },
+  {
+    "id": 132,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-黑暗之光冰法",
+    "name": "不可使用"
+  },
+  {
+    "id": 133,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "通用-敌中级-黑暗之光暗法",
+    "name": "不可使用"
+  },
+  {
+    "id": 134,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "阵营测试用",
+    "name": "阵营测试用"
+  },
+  {
+    "id": 135,
+    "m_unit_mission_mod_group_units": [],
+    "desc": "",
+    "name": ""
+  }
+]

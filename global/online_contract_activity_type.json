@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "type": "MainQuest",
+    "name": "主线关卡",
+    "param0_name": "主线关卡ID",
+    "param0_type": "online_main_quest",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 2,
+    "type": "Activity",
+    "name": "活动关卡",
+    "param0_name": "活动关卡ID",
+    "param0_type": "online_activity",
+    "param1_name": "是否直接开启",
+    "param1_type": "bool"
+  },
+  {
+    "id": 3,
+    "type": "Quest",
+    "name": "任务",
+    "param0_name": "任务组ID",
+    "param0_type": "online_contract_activity_quest_group",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 4,
+    "type": "PointTreasure",
+    "name": "积分累计奖励",
+    "param0_name": "积分累计奖励ID",
+    "param0_type": "online_contract_activity_point_treasure",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 5,
+    "type": "Shop",
+    "name": "商店",
+    "param0_name": "商店ID",
+    "param0_type": "online_shop",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 6,
+    "type": "Tech",
+    "name": "天赋觉醒",
+    "param0_name": "觉醒技能组",
+    "param0_type": "online_contract_activity_tech_group",
+    "param1_name": "",
+    "param1_type": ""
+  }
+]

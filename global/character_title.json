@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "黑铁",
+    "editor_name": "01E（黑铁级佣兵团)",
+    "icon": "01",
+    "desc": "第八周以后，评分达到70时将解锁【行会试炼：青铜】，完成后可提升至青铜评级",
+    "reputation_reference_value": 70,
+    "ratio": 1,
+    "online_sandbox_tech_point": 0
+  },
+  {
+    "id": 2,
+    "name": "青铜",
+    "editor_name": "02D（青铜级佣兵团）",
+    "icon": "02",
+    "desc": "评分达到160时将解锁【行会试炼：白银】，完成后可提升至白银评级",
+    "reputation_reference_value": 160,
+    "ratio": 1.0499999523163,
+    "online_sandbox_tech_point": 0
+  },
+  {
+    "id": 3,
+    "name": "白银",
+    "editor_name": "03C（白银级佣兵团）",
+    "icon": "03",
+    "desc": "评分达到320时将解锁【行会试炼：黄金】，完成后可提升至黄金评级",
+    "reputation_reference_value": 320,
+    "ratio": 1.1000000238419,
+    "online_sandbox_tech_point": 0
+  },
+  {
+    "id": 4,
+    "name": "黄金",
+    "editor_name": "04B（黄金级佣兵团）",
+    "icon": "04",
+    "desc": "评分达到480时将解锁【行会试炼：白金】，完成后可提升至白金评级",
+    "reputation_reference_value": 480,
+    "ratio": 1.1499999761581,
+    "online_sandbox_tech_point": 1
+  },
+  {
+    "id": 5,
+    "name": "白金",
+    "editor_name": "05A（白金级佣兵团）",
+    "icon": "05",
+    "desc": "评分达到600时将解锁【行会试炼：光辉】，完成后可提升至光辉评级",
+    "reputation_reference_value": 600,
+    "ratio": 1.2000000476837,
+    "online_sandbox_tech_point": 2
+  },
+  {
+    "id": 6,
+    "name": "光辉",
+    "editor_name": "06S（光辉级佣兵团）",
+    "icon": "06",
+    "desc": "已到达当前最高评级",
+    "reputation_reference_value": 600,
+    "ratio": 1.2999999523163,
+    "online_sandbox_tech_point": 3
+  }
+]

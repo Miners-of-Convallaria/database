@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "m_effects": [],
+    "type": 1,
+    "name": "sun",
+    "editor_name": "sun",
+    "aura_speciality": 0,
+    "icon": "",
+    "effects": ""
+  },
+  {
+    "id": 2,
+    "m_effects": [],
+    "type": 1,
+    "name": "rain",
+    "editor_name": "rain",
+    "aura_speciality": 0,
+    "icon": "",
+    "effects": "1899"
+  },
+  {
+    "id": 3,
+    "m_effects": [],
+    "type": 1,
+    "name": "snow",
+    "editor_name": "snow",
+    "aura_speciality": 0,
+    "icon": "",
+    "effects": "1900"
+  },
+  {
+    "id": 5,
+    "m_effects": [],
+    "type": 2,
+    "name": "blizzard（开始）",
+    "editor_name": "blizzard（开始，关闭需对应特殊天气）",
+    "aura_speciality": 0,
+    "icon": "",
+    "effects": "1901"
+  },
+  {
+    "id": 6,
+    "m_effects": [],
+    "type": 1,
+    "name": "snow（不带效果）",
+    "editor_name": "snow（不带效果）",
+    "aura_speciality": 0,
+    "icon": "",
+    "effects": "1900"
+  },
+  {
+    "id": 7,
+    "m_effects": [],
+    "type": 2,
+    "name": "dustStorm_day（开始）",
+    "editor_name": "dustStorm_day（开始，关闭需对应特殊天气）",
+    "aura_speciality": 9746,
+    "icon": "",
+    "effects": "2054"
+  },
+  {
+    "id": 8,
+    "m_effects": [],
+    "type": 2,
+    "name": "dustStorm_night（开始）",
+    "editor_name": "dustStorm_night（开始，关闭需对应特殊天气）",
+    "aura_speciality": 9746,
+    "icon": "",
+    "effects": "2055"
+  }
+]

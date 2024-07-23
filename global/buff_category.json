@@ -1,0 +1,1184 @@
+[
+  {
+    "id": 1,
+    "type": "Heal",
+    "name": "再生",
+    "mutex_type": 2
+  },
+  {
+    "id": 2,
+    "type": "Immune",
+    "name": "附魔本-风-同类互斥魔法护甲",
+    "mutex_type": 2
+  },
+  {
+    "id": 3,
+    "type": "Control",
+    "name": "附魔本-风-同类互斥物理护甲",
+    "mutex_type": 2
+  },
+  {
+    "id": 4,
+    "type": "Displacement",
+    "name": "提灯与瘴气",
+    "mutex_type": 2
+  },
+  {
+    "id": 5,
+    "type": "States",
+    "name": "（废弃）战斗数值",
+    "mutex_type": 2
+  },
+  {
+    "id": 6,
+    "type": "Move",
+    "name": "（废弃）移动力",
+    "mutex_type": 2
+  },
+  {
+    "id": 7,
+    "type": "Shield",
+    "name": "防护罩",
+    "mutex_type": 1
+  },
+  {
+    "id": 8,
+    "type": "Fortify",
+    "name": "特殊强化",
+    "mutex_type": 4
+  },
+  {
+    "id": 9,
+    "type": "Field",
+    "name": "场地效果",
+    "mutex_type": 5
+  },
+  {
+    "id": 10,
+    "type": "Dot",
+    "name": "持续伤害",
+    "mutex_type": 5
+  },
+  {
+    "id": 11,
+    "type": "Life",
+    "name": "总生命",
+    "mutex_type": 2
+  },
+  {
+    "id": 12,
+    "type": "Speed",
+    "name": "（废弃）速度",
+    "mutex_type": 2
+  },
+  {
+    "id": 13,
+    "type": "Pose",
+    "name": "姿态",
+    "mutex_type": 3
+  },
+  {
+    "id": 14,
+    "type": "AmbientDot",
+    "name": "环境伤害",
+    "mutex_type": 4
+  },
+  {
+    "id": 15,
+    "type": "PDefenceDown",
+    "name": "物防降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 16,
+    "type": "MDefenceDown",
+    "name": "魔防降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 17,
+    "type": "PAttackDown",
+    "name": "物攻降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 18,
+    "type": "MAttackDown",
+    "name": "魔攻降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 19,
+    "type": "MoveDown",
+    "name": "移动降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 20,
+    "type": "SpeedDown",
+    "name": "速度降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 21,
+    "type": "Immobilize",
+    "name": "定身",
+    "mutex_type": 2
+  },
+  {
+    "id": 22,
+    "type": "FallenHeal",
+    "name": "治疗反转",
+    "mutex_type": 2
+  },
+  {
+    "id": 23,
+    "type": "Curse",
+    "name": "伤口诅咒",
+    "mutex_type": 2
+  },
+  {
+    "id": 24,
+    "type": "DisHeal",
+    "name": "无法治疗",
+    "mutex_type": 2
+  },
+  {
+    "id": 25,
+    "type": "DamageDown",
+    "name": "伤害降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 26,
+    "type": "ProtectionDown",
+    "name": "受伤提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 27,
+    "type": "DisSkill",
+    "name": "封技",
+    "mutex_type": 2
+  },
+  {
+    "id": 28,
+    "type": "DisPassive",
+    "name": "被动失效",
+    "mutex_type": 2
+  },
+  {
+    "id": 29,
+    "type": "Stun",
+    "name": "晕眩",
+    "mutex_type": 2
+  },
+  {
+    "id": 30,
+    "type": "ImmuneBuff",
+    "name": "免疫增益",
+    "mutex_type": 2
+  },
+  {
+    "id": 31,
+    "type": "DisReact",
+    "name": "禁反应",
+    "mutex_type": 2
+  },
+  {
+    "id": 32,
+    "type": "DisRevive",
+    "name": "禁复活",
+    "mutex_type": 2
+  },
+  {
+    "id": 33,
+    "type": "PDefenceUp",
+    "name": "物防提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 34,
+    "type": "MDefenceUp",
+    "name": "魔防提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 35,
+    "type": "PAttackUp",
+    "name": "物攻提高\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 36,
+    "type": "MAttackUp",
+    "name": "魔攻提高\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 37,
+    "type": "MoveUp",
+    "name": "移动提高\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 38,
+    "type": "SpeedUp",
+    "name": "速度提高\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 39,
+    "type": "DamageUp",
+    "name": "伤害提高\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 40,
+    "type": "ProtectionUp",
+    "name": "受伤降低\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 41,
+    "type": "ImmuneDebuff",
+    "name": "免疫有害\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 42,
+    "type": "ImmuneControl",
+    "name": "免疫控制\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 43,
+    "type": "ImmuneSlow",
+    "name": "免疫减速\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 44,
+    "type": "ImmuneWeaken",
+    "name": "免疫弱化\n",
+    "mutex_type": 5
+  },
+  {
+    "id": 45,
+    "type": "ImmuneCurse",
+    "name": "免疫禁疗\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 46,
+    "type": "ImmuneMove",
+    "name": "免疫位移\n",
+    "mutex_type": 2
+  },
+  {
+    "id": 47,
+    "type": "NoType",
+    "name": "通用",
+    "mutex_type": 5
+  },
+  {
+    "id": 48,
+    "type": "CriticalUp",
+    "name": "暴击提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 49,
+    "type": "CriticalDown",
+    "name": "暴击降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 50,
+    "type": "CriticalDamageUp",
+    "name": "暴伤提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 51,
+    "type": "CriticalDamageDown",
+    "name": "暴伤降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 52,
+    "type": "ImmuneDot",
+    "name": "免疫持续伤害",
+    "mutex_type": 2
+  },
+  {
+    "id": 54,
+    "type": "Field",
+    "name": "场地持续伤害",
+    "mutex_type": 2
+  },
+  {
+    "id": 55,
+    "type": "",
+    "name": "英雄个性-计数叠加",
+    "mutex_type": 4
+  },
+  {
+    "id": 56,
+    "type": "",
+    "name": "加速施法1级",
+    "mutex_type": 1
+  },
+  {
+    "id": 57,
+    "type": "",
+    "name": "加速施法2级",
+    "mutex_type": 1
+  },
+  {
+    "id": 58,
+    "type": "DamageDown",
+    "name": "光环-受伤降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 59,
+    "type": "DamageUp",
+    "name": "光环-伤害提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 60,
+    "type": "",
+    "name": "灼烧",
+    "mutex_type": 3
+  },
+  {
+    "id": 61,
+    "type": "ImmuneSlow",
+    "name": "免疫减移动",
+    "mutex_type": 2
+  },
+  {
+    "id": 62,
+    "type": "",
+    "name": "光环-受到治疗",
+    "mutex_type": 2
+  },
+  {
+    "id": 63,
+    "type": "",
+    "name": "反击",
+    "mutex_type": 2
+  },
+  {
+    "id": 64,
+    "type": "",
+    "name": "受治疗",
+    "mutex_type": 2
+  },
+  {
+    "id": 65,
+    "type": "",
+    "name": "伤害反射",
+    "mutex_type": 2
+  },
+  {
+    "id": 66,
+    "type": "",
+    "name": "破盾",
+    "mutex_type": 2
+  },
+  {
+    "id": 67,
+    "type": "",
+    "name": "领袖光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 68,
+    "type": "",
+    "name": "小魔女-翻看存货",
+    "mutex_type": 3
+  },
+  {
+    "id": 69,
+    "type": "",
+    "name": "萨曼莎-虔诚祈求",
+    "mutex_type": 3
+  },
+  {
+    "id": 70,
+    "type": "",
+    "name": "护石用-审判",
+    "mutex_type": 2
+  },
+  {
+    "id": 71,
+    "type": "",
+    "name": "护石用-世界",
+    "mutex_type": 2
+  },
+  {
+    "id": 72,
+    "type": "",
+    "name": "护石用-皇后",
+    "mutex_type": 2
+  },
+  {
+    "id": 73,
+    "type": "",
+    "name": "微醺",
+    "mutex_type": 4
+  },
+  {
+    "id": 74,
+    "type": "DamageUp",
+    "name": "光环-攻击提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 76,
+    "type": "DamageUp",
+    "name": "光环-物防提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 77,
+    "type": "DamageUp",
+    "name": "光环-魔防提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 78,
+    "type": "DamageUp",
+    "name": "光环-暴击提高",
+    "mutex_type": 2
+  },
+  {
+    "id": 79,
+    "type": "DamageUp",
+    "name": "光环-范围减伤",
+    "mutex_type": 2
+  },
+  {
+    "id": 80,
+    "type": "Fortify",
+    "name": "狼王光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 81,
+    "type": "",
+    "name": "法卡尔-流星射击",
+    "mutex_type": 3
+  },
+  {
+    "id": 82,
+    "type": "",
+    "name": "军旗",
+    "mutex_type": 4
+  },
+  {
+    "id": 83,
+    "type": "",
+    "name": "护甲",
+    "mutex_type": 5
+  },
+  {
+    "id": 84,
+    "type": "",
+    "name": "光环-吸血",
+    "mutex_type": 2
+  },
+  {
+    "id": 85,
+    "type": "",
+    "name": "风怒",
+    "mutex_type": 3
+  },
+  {
+    "id": 86,
+    "type": "",
+    "name": "风甲",
+    "mutex_type": 3
+  },
+  {
+    "id": 87,
+    "type": "",
+    "name": "跳跃",
+    "mutex_type": 2
+  },
+  {
+    "id": 88,
+    "type": "",
+    "name": "叠加计数",
+    "mutex_type": 4
+  },
+  {
+    "id": 89,
+    "type": "",
+    "name": "治疗提升",
+    "mutex_type": 2
+  },
+  {
+    "id": 90,
+    "type": "",
+    "name": "先祖之力",
+    "mutex_type": 2
+  },
+  {
+    "id": 91,
+    "type": "",
+    "name": "格挡",
+    "mutex_type": 1
+  },
+  {
+    "id": 92,
+    "type": "",
+    "name": "冰封",
+    "mutex_type": 2
+  },
+  {
+    "id": 93,
+    "type": "",
+    "name": "催眠",
+    "mutex_type": 2
+  },
+  {
+    "id": 94,
+    "type": "",
+    "name": "致盲",
+    "mutex_type": 2
+  },
+  {
+    "id": 95,
+    "type": "",
+    "name": "隐身",
+    "mutex_type": 2
+  },
+  {
+    "id": 96,
+    "type": "",
+    "name": "×援护",
+    "mutex_type": 2
+  },
+  {
+    "id": 97,
+    "type": "",
+    "name": "无视援护",
+    "mutex_type": 2
+  },
+  {
+    "id": 98,
+    "type": "",
+    "name": "攀爬",
+    "mutex_type": 2
+  },
+  {
+    "id": 99,
+    "type": "",
+    "name": "无视闪避",
+    "mutex_type": 2
+  },
+  {
+    "id": 100,
+    "type": "",
+    "name": "穿甲",
+    "mutex_type": 2
+  },
+  {
+    "id": 101,
+    "type": "",
+    "name": "孤立",
+    "mutex_type": 2
+  },
+  {
+    "id": 102,
+    "type": "",
+    "name": "面纱",
+    "mutex_type": 2
+  },
+  {
+    "id": 103,
+    "type": "",
+    "name": "歌洛莉亚-扬旗光环",
+    "mutex_type": 3
+  },
+  {
+    "id": 104,
+    "type": "",
+    "name": "三王女-战场历练",
+    "mutex_type": 4
+  },
+  {
+    "id": 105,
+    "type": "",
+    "name": "晶石屏障",
+    "mutex_type": 5
+  },
+  {
+    "id": 106,
+    "type": "",
+    "name": "严寒",
+    "mutex_type": 5
+  },
+  {
+    "id": 107,
+    "type": "DamageUp",
+    "name": "光环-防御降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 108,
+    "type": "DamageUp",
+    "name": "光环-攻击降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 109,
+    "type": "",
+    "name": "秘警标记",
+    "mutex_type": 2
+  },
+  {
+    "id": 110,
+    "type": "",
+    "name": "奥古斯特-重剑切换",
+    "mutex_type": 2
+  },
+  {
+    "id": 111,
+    "type": "",
+    "name": "护主",
+    "mutex_type": 2
+  },
+  {
+    "id": 112,
+    "type": "",
+    "name": "骑士团法师-冰铠",
+    "mutex_type": 4
+  },
+  {
+    "id": 113,
+    "type": "",
+    "name": "御剑",
+    "mutex_type": 2
+  },
+  {
+    "id": 114,
+    "type": "",
+    "name": "黑泥",
+    "mutex_type": 3
+  },
+  {
+    "id": 115,
+    "type": "",
+    "name": "二王子-利刃华尔兹",
+    "mutex_type": 3
+  },
+  {
+    "id": 116,
+    "type": "",
+    "name": "同类叠加",
+    "mutex_type": 4
+  },
+  {
+    "id": 117,
+    "type": "",
+    "name": "法术帷幕",
+    "mutex_type": 5
+  },
+  {
+    "id": 118,
+    "type": "",
+    "name": "光盾-叠加计数",
+    "mutex_type": 4
+  },
+  {
+    "id": 119,
+    "type": "",
+    "name": "虚无",
+    "mutex_type": 5
+  },
+  {
+    "id": 120,
+    "type": "",
+    "name": "活动",
+    "mutex_type": 3
+  },
+  {
+    "id": 121,
+    "type": "",
+    "name": "活动-中型-伤害互斥不可叠加",
+    "mutex_type": 3
+  },
+  {
+    "id": 122,
+    "type": "",
+    "name": "护石用-命运之轮",
+    "mutex_type": 2
+  },
+  {
+    "id": 123,
+    "type": "",
+    "name": "建筑",
+    "mutex_type": 5
+  },
+  {
+    "id": 124,
+    "type": "",
+    "name": "活动-中型-全属性（攻防）",
+    "mutex_type": 2
+  },
+  {
+    "id": 125,
+    "type": "",
+    "name": "光辉卫士长-冲阵",
+    "mutex_type": 2
+  },
+  {
+    "id": 126,
+    "type": "",
+    "name": "参谋官光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 127,
+    "type": "",
+    "name": "绝对互斥",
+    "mutex_type": 3
+  },
+  {
+    "id": 128,
+    "type": "",
+    "name": "战斗兴奋",
+    "mutex_type": 2
+  },
+  {
+    "id": 129,
+    "type": "",
+    "name": "烈酒",
+    "mutex_type": 3
+  },
+  {
+    "id": 130,
+    "type": "",
+    "name": "超能光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 131,
+    "type": "",
+    "name": "铁血光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 132,
+    "type": "",
+    "name": "隐匿光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 133,
+    "type": "",
+    "name": "战略光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 134,
+    "type": "",
+    "name": "舞团舞娘-蜂刺",
+    "mutex_type": 2
+  },
+  {
+    "id": 135,
+    "type": "",
+    "name": "同类互斥",
+    "mutex_type": 2
+  },
+  {
+    "id": 136,
+    "type": "PAttackUp",
+    "name": "协攻",
+    "mutex_type": 2
+  },
+  {
+    "id": 137,
+    "type": "PAttackUp",
+    "name": "协防",
+    "mutex_type": 2
+  },
+  {
+    "id": 138,
+    "type": "",
+    "name": "法皇之手光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 139,
+    "type": "",
+    "name": "莉莉薇儿光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 140,
+    "type": "",
+    "name": "马格努斯光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 141,
+    "type": "",
+    "name": "大王子光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 142,
+    "type": "",
+    "name": "拉维耶光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 143,
+    "type": "",
+    "name": "狼群战术",
+    "mutex_type": 2
+  },
+  {
+    "id": 144,
+    "type": "",
+    "name": "面具刺客光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 145,
+    "type": "",
+    "name": "赏罚有度",
+    "mutex_type": 2
+  },
+  {
+    "id": 146,
+    "type": "",
+    "name": "暗香",
+    "mutex_type": 4
+  },
+  {
+    "id": 147,
+    "type": "",
+    "name": "完全叠加",
+    "mutex_type": 5
+  },
+  {
+    "id": 148,
+    "type": "",
+    "name": "怒意显现",
+    "mutex_type": 2
+  },
+  {
+    "id": 149,
+    "type": "",
+    "name": "诅咒",
+    "mutex_type": 2
+  },
+  {
+    "id": 150,
+    "type": "",
+    "name": "网游主线第十章-各类驳斥",
+    "mutex_type": 2
+  },
+  {
+    "id": 151,
+    "type": "",
+    "name": "持盾特训",
+    "mutex_type": 4
+  },
+  {
+    "id": 152,
+    "type": "Fortify",
+    "name": "移花接木标记",
+    "mutex_type": 4
+  },
+  {
+    "id": 153,
+    "type": "",
+    "name": "高级审判",
+    "mutex_type": 2
+  },
+  {
+    "id": 154,
+    "type": "MoveDown",
+    "name": "移动降低-活动",
+    "mutex_type": 2
+  },
+  {
+    "id": 155,
+    "type": "",
+    "name": "活动-免疫寒冷-互斥",
+    "mutex_type": 2
+  },
+  {
+    "id": 156,
+    "type": "Fortify",
+    "name": "魅惑",
+    "mutex_type": 2
+  },
+  {
+    "id": 157,
+    "type": "Fortify",
+    "name": "铃兰战旗",
+    "mutex_type": 2
+  },
+  {
+    "id": 164,
+    "type": "",
+    "name": "活动-免疫效果-互斥",
+    "mutex_type": 2
+  },
+  {
+    "id": 165,
+    "type": "",
+    "name": "活动-光环-互斥",
+    "mutex_type": 2
+  },
+  {
+    "id": 166,
+    "type": "Fortify",
+    "name": "SP拉维耶-减伤标记",
+    "mutex_type": 2
+  },
+  {
+    "id": 167,
+    "type": "Dot",
+    "name": "感染",
+    "mutex_type": 5
+  },
+  {
+    "id": 171,
+    "type": "",
+    "name": "绯红之夜光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 172,
+    "type": "",
+    "name": "光辉卫士长列阵buff",
+    "mutex_type": 2
+  },
+  {
+    "id": 173,
+    "type": "",
+    "name": "物理护盾-不可驱散",
+    "mutex_type": 4
+  },
+  {
+    "id": 174,
+    "type": "",
+    "name": "混血儿-早餐",
+    "mutex_type": 2
+  },
+  {
+    "id": 175,
+    "type": "",
+    "name": "混血儿-便当",
+    "mutex_type": 2
+  },
+  {
+    "id": 176,
+    "type": "",
+    "name": "混血儿-幸福感",
+    "mutex_type": 4
+  },
+  {
+    "id": 177,
+    "type": "",
+    "name": "冰碎",
+    "mutex_type": 2
+  },
+  {
+    "id": 178,
+    "type": "",
+    "name": "书卷",
+    "mutex_type": 2
+  },
+  {
+    "id": 179,
+    "type": "",
+    "name": "萨曼莎-信仰",
+    "mutex_type": 2
+  },
+  {
+    "id": 180,
+    "type": "",
+    "name": "不互斥不叠加",
+    "mutex_type": 1
+  },
+  {
+    "id": 181,
+    "type": "",
+    "name": "火风附魔",
+    "mutex_type": 2
+  },
+  {
+    "id": 182,
+    "type": "Fortify",
+    "name": "强力不屈",
+    "mutex_type": 3
+  },
+  {
+    "id": 183,
+    "type": "",
+    "name": "恨意",
+    "mutex_type": 3
+  },
+  {
+    "id": 184,
+    "type": "",
+    "name": "剑刃乱舞-行动计数",
+    "mutex_type": 5
+  },
+  {
+    "id": 185,
+    "type": "MoveUp",
+    "name": "热血少女-移动力",
+    "mutex_type": 4
+  },
+  {
+    "id": 186,
+    "type": "",
+    "name": "热身完毕-行动计数",
+    "mutex_type": 4
+  },
+  {
+    "id": 187,
+    "type": "",
+    "name": "大活1-攻防降低",
+    "mutex_type": 2
+  },
+  {
+    "id": 188,
+    "type": "",
+    "name": "大活1-冻伤",
+    "mutex_type": 2
+  },
+  {
+    "id": 189,
+    "type": "",
+    "name": "大活1-减速",
+    "mutex_type": 2
+  },
+  {
+    "id": 190,
+    "type": "MoveUp",
+    "name": "热血少女-行动点",
+    "mutex_type": 4
+  },
+  {
+    "id": 191,
+    "type": "MoveUp",
+    "name": "射程增加",
+    "mutex_type": 2
+  },
+  {
+    "id": 192,
+    "type": "MoveUp",
+    "name": "应急药丸",
+    "mutex_type": 5
+  },
+  {
+    "id": 193,
+    "type": "MoveUp",
+    "name": "光环-受到持续伤害增加",
+    "mutex_type": 2
+  },
+  {
+    "id": 194,
+    "type": "",
+    "name": "天气",
+    "mutex_type": 2
+  },
+  {
+    "id": 195,
+    "type": "",
+    "name": "火盆光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 196,
+    "type": "MoveUp",
+    "name": "禁锢",
+    "mutex_type": 2
+  },
+  {
+    "id": 197,
+    "type": "",
+    "name": "中活3-异国武器",
+    "mutex_type": 1
+  },
+  {
+    "id": 198,
+    "type": "MoveUp",
+    "name": "boss甲常规",
+    "mutex_type": 4
+  },
+  {
+    "id": 199,
+    "type": "",
+    "name": "活动-寒冷-互斥",
+    "mutex_type": 2
+  },
+  {
+    "id": 200,
+    "type": "MoveDown",
+    "name": "活动-大型3期-减速药水（主线2）",
+    "mutex_type": 2
+  },
+  {
+    "id": 201,
+    "type": "MoveDown",
+    "name": "活动-大型3期-加速药水（主线2）",
+    "mutex_type": 2
+  },
+  {
+    "id": 202,
+    "type": "",
+    "name": "狂战",
+    "mutex_type": 2
+  },
+  {
+    "id": 204,
+    "type": "Fortify",
+    "name": "喧闹",
+    "mutex_type": 5
+  },
+  {
+    "id": 205,
+    "type": "DamageUp",
+    "name": "光环-受到治疗提升",
+    "mutex_type": 2
+  },
+  {
+    "id": 206,
+    "type": "DamageDown",
+    "name": "光环-受到暴击提升",
+    "mutex_type": 2
+  },
+  {
+    "id": 207,
+    "type": "",
+    "name": "暗影卫队",
+    "mutex_type": 4
+  },
+  {
+    "id": 208,
+    "type": "",
+    "name": "战略光环",
+    "mutex_type": 2
+  },
+  {
+    "id": 209,
+    "type": "",
+    "name": "隐身类",
+    "mutex_type": 4
+  }
+]

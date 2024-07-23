@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "idsandbox_note_selection": 1,
+    "name": "测试1",
+    "text": "他们看上去值得信任",
+    "note_text": "→我相信骑士团。\n→但这不代表我会信任他们，即使就短暂的接触来看，不管是歌洛莉亚还是泰登，都是值得信赖的正直骑士，但他们终究是外国势力。\n→他们远道而来绝对是有所图谋，我不能相信他们。如果拉维耶在的话，一定也会抱有同样的怀疑。\n→基于生存的压力，我们需要一个强大的盟友，我们会紧密的合作一段时间——比如他们正准备修筑一个据点，我们可以帮上忙以换取暂时的骑士团庇护。\n→<#0000FF>但我也要留好后手，毕竟他们不远万里坐船来伊利亚，绝对不是为了做好人好事的。\n",
+    "next_selection": 2,
+    "sort_id": 0
+  },
+  {
+    "id": 2,
+    "idsandbox_note_selection": 1,
+    "name": "测试2",
+    "text": "他们远道而来可不是搞慈善的",
+    "note_text": "→我不相信骑士团。\n→但这不代表我会信任他们，即使就短暂的接触来看，不管是歌洛莉亚还是泰登，都是值得信赖的正直骑士，但他们终究是外国势力。\n→他们远道而来绝对是有所图谋，我不能相信他们。如果拉维耶在的话，一定也会抱有同样的怀疑。\n→基于生存的压力，我们需要一个强大的盟友，我们会紧密的合作一段时间——比如他们正准备修筑一个据点，我们可以帮上忙以换取暂时的骑士团庇护。\n→但我也要留好后手，毕竟他们不远万里坐船来伊利亚，绝对不是为了做好人好事的。\n",
+    "next_selection": 3,
+    "sort_id": 1
+  },
+  {
+    "id": 3,
+    "idsandbox_note_selection": 2,
+    "name": "测试3",
+    "text": "相信原因1",
+    "note_text": "相信原因1。→我们1一直都有所怀疑骑士团在筹划</b>些什么见不派遣的事情，现在是时候进一步展开调查了，掌握骑士团的肮脏秘密对我们一定会有很大的帮助……不论我们是否依然继续帮助他们。我们1一直都有所怀疑骑士团在筹划</b>些什么见不派遣的事情，现在是时候进一步展开调查了，掌握骑士团的肮脏秘密对我们一定会有很大的帮助……不论我们是否依然继续帮助他们。\n",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 4,
+    "idsandbox_note_selection": 2,
+    "name": "测试4",
+    "text": "相信原因2",
+    "note_text": "相信原因2。",
+    "next_selection": 0,
+    "sort_id": 1
+  },
+  {
+    "id": 5,
+    "idsandbox_note_selection": 3,
+    "name": "测试5",
+    "text": "不相信原因1",
+    "note_text": "不相信原因1。→我们1一直都有所怀疑骑士团在筹划</b>些什么见不派遣的事情，现在是时候进一步展开调查了，掌握骑士团的肮脏秘密对我们一定会有很大的帮助……不论我们是否依然继续帮助他们。\n",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 6,
+    "idsandbox_note_selection": 3,
+    "name": "测试6",
+    "text": "不相信原因2",
+    "note_text": "不相信原因2。",
+    "next_selection": 0,
+    "sort_id": 1
+  },
+  {
+    "id": 7,
+    "idsandbox_note_selection": 4,
+    "name": "zhm测试选项1-A",
+    "text": "我选A。",
+    "note_text": "这是选A之后的笔记文本。这是选A之后的笔记文本。这是选A之后的笔记文本。这是选A之后的笔记文本。这是选A之后的笔记文本。",
+    "next_selection": 12,
+    "sort_id": 0
+  },
+  {
+    "id": 8,
+    "idsandbox_note_selection": 4,
+    "name": "zhm测试选项1-B",
+    "text": "我选B。",
+    "note_text": "这是选B之后的笔记文本。这是选B之后的笔记文本。这是选B之后的笔记文本。这是选B之后的笔记文本。这是选B之后的笔记文本。",
+    "next_selection": 13,
+    "sort_id": 1
+  },
+  {
+    "id": 9,
+    "idsandbox_note_selection": 5,
+    "name": "QV3-P3-参与十字路口要塞攻城战前-选择1-选项1",
+    "text": "趁早同战争中的一方绑定是理智的选择",
+    "note_text": "越早选择战争中的某一个阵营对我们越有益处。\n相比帝国和王国军，骑士同盟的强大是有目共睹的，他们的战斗意志和信念也十分强大。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 10,
+    "idsandbox_note_selection": 5,
+    "name": "QV3-P3-参与十字路口要塞攻城战前-选择1-选项2",
+    "text": "同骑士同盟合作只是权宜之计",
+    "note_text": "但无论怎么说，同骑士同盟缔结契约都只是权宜之计。\n我们必须为自己，为小镇负责才行。\n此外，似乎……鲁特菲也有同样的想法。",
+    "next_selection": 0,
+    "sort_id": 1
+  },
+  {
+    "id": 11,
+    "idsandbox_note_selection": 6,
+    "name": "QV3-P4-十字路口会战后的反思（无信物）-选择1-选项1",
+    "text": "他是一个可以信赖的好人",
+    "note_text": "一直以来，他都在想办法帮助铃兰小镇和佣兵团，\n为我们提供粮食，有利润的订单，调和我们和骑士同盟的关系。\n他肯定不是一个天生的烂好人，但他对我们足够友善和真诚。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 12,
+    "idsandbox_note_selection": 6,
+    "name": "QV3-P4-十字路口会战后的反思（无信物）-选择1-选项2",
+    "text": "他一定在酝酿着什么阴谋",
+    "note_text": "一位王子，不可能是一个天生的烂好人。\n他如此拉拢铃兰之剑，一定是有自己的盘算……我们该相信他吗？\n又或者我们应该和圣骑士歌洛莉亚走得更近？",
+    "next_selection": 0,
+    "sort_id": 1
+  },
+  {
+    "id": 13,
+    "idsandbox_note_selection": 7,
+    "name": "QV3-P4-十字路口会战后的反思（歌洛莉亚信物）-选择1-选项1",
+    "text": "我们可以信任她",
+    "note_text": "她是一个善良且正直的人。\n为了拯救我们这些佣兵，她不惜折返回来，战斗到了最后。\n这足以让我信任她是一个高洁的人，是真的想要为和平而战。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 14,
+    "idsandbox_note_selection": 7,
+    "name": "QV3-P4-十字路口会战后的反思（歌洛莉亚信物）-选择1-选项2",
+    "text": "她太过天真了",
+    "note_text": "我很感谢她救了我们，我也敬佩她的人格和品行。\n但我害怕她会因为一个同样正确但天真的理由牺牲小镇。\n我绝不会做出危害她的事情，但如果想要结束这场战争……\n也许鲁特菲更加务实。",
+    "next_selection": 0,
+    "sort_id": 1
+  },
+  {
+    "id": 15,
+    "idsandbox_note_selection": 8,
+    "name": "QV3-P4-关于二王子的计划-选择1-选项1 ",
+    "text": "鲁特菲追求的恐怕不是真相",
+    "note_text": "鲁特菲并不是真心实意地同骑士团合作。\n他似乎想要利用完骑士同盟，再摆脱它。\n我不确定具体的方法，但这其中的关键，恐怕就是浪涌城事件。\n也就是说……他追求的并不一定是浪涌城事件的真相……",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 16,
+    "idsandbox_note_selection": 8,
+    "name": "QV3-P4-关于二王子的计划-选择1-选项2",
+    "text": "鲁特菲的计划或许能带来和平的曙光",
+    "note_text": "鲁特菲并不是真心实意地同骑士同盟合作。\n他似乎想要利用完骑士同盟，再摆脱它。\n如果他真的能做到，那毫无疑问，这可以让和平尽早到来。\n我觉得可以相信他，铃兰之剑将给予配合。\n为了伊利亚，也为了我们自己。",
+    "next_selection": 0,
+    "sort_id": 1
+  },
+  {
+    "id": 17,
+    "idsandbox_note_selection": 9,
+    "name": "QV3-P5-二王子的来信-选择1-选项1",
+    "text": "我应该帮助歌洛莉亚",
+    "note_text": "没有什么比真相更重要，而如果说整个伊利亚有谁最有可能找到那个真相，我相信只有歌洛莉亚。\n我应该帮助她。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 18,
+    "idsandbox_note_selection": 9,
+    "name": "QV3-P5-二王子的来信-选择1-选项2",
+    "text": "我应该相信鲁特菲",
+    "note_text": "鲁特菲说得对，只有伊利亚人才能为伊利亚带来和平，比起天真的骑士，他更能结束这场战争。\n我会按照他说的做。",
+    "next_selection": 0,
+    "sort_id": 1
+  },
+  {
+    "id": 19,
+    "idsandbox_note_selection": 10,
+    "name": "",
+    "text": "",
+    "note_text": "",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 20,
+    "idsandbox_note_selection": 11,
+    "name": "",
+    "text": "",
+    "note_text": "",
+    "next_selection": 1,
+    "sort_id": 0
+  },
+  {
+    "id": 21,
+    "idsandbox_note_selection": 12,
+    "name": "zhm测试选项1-A-A",
+    "text": "zhm测试选项1-A-A",
+    "note_text": "zhm测试选项1-A-A的笔记文本。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 22,
+    "idsandbox_note_selection": 12,
+    "name": "zhm测试选项1-A-B",
+    "text": "zhm测试选项1-A-B",
+    "note_text": "zhm测试选项1-A-B的笔记文本。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 23,
+    "idsandbox_note_selection": 13,
+    "name": "zhm测试选项1-B-A",
+    "text": "zhm测试选项1-B-A",
+    "note_text": "zhm测试选项1-B-A的笔记文本。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 24,
+    "idsandbox_note_selection": 13,
+    "name": "zhm测试选项1-B-B",
+    "text": "zhm测试选项1-B-B",
+    "note_text": "zhm测试选项1-B-B的笔记文本。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 25,
+    "idsandbox_note_selection": 14,
+    "name": "和谈失败后的笔记-抉择1-选择1",
+    "text": "法皇国的做法没错，只是太过激进。",
+    "note_text": "法皇国想要一场快速的和平，尽管他们采用了一种激进的形式。两国之间的信任需要时间来化解，但至少，双方都有和谈的意向。\n萨曼莎与我一起追求的目标虽然不能立刻达到，但和平之路并非一条，我们还有很多时间和机会。",
+    "next_selection": 0,
+    "sort_id": 0
+  },
+  {
+    "id": 26,
+    "idsandbox_note_selection": 14,
+    "name": "和谈失败后的笔记-抉择1-选择2",
+    "text": "法皇国的做法不合理",
+    "note_text": "法皇国在这场和谈中明显没有诚意，他们根本不关注伊利亚的利益，这只会加剧双方的仇隙，让和平变得更遥远。\n萨曼莎也因此遭受到了打击。战争又快来临，我们必须做点什么来扭转这种局势。只是站在当下，方向还未见清晰。",
+    "next_selection": 0,
+    "sort_id": 0
+  }
+]

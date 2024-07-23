@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 10,
+    "m_scenario_options": [],
+    "name": "0周目_S2_1_牢房",
+    "desc": "",
+    "scenario": "scenario_interior-ug-ni00201",
+    "playable": "scenario_interior-ug-ni_rd00_s2-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 11,
+    "m_scenario_options": [],
+    "name": "1周目_S2_1_牢房",
+    "desc": "",
+    "scenario": "scenario_interior-ug-ni00201",
+    "playable": "scenario_interior-ug-ni_rd01_s2-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 12,
+    "m_scenario_options": [],
+    "name": "0周目_S2_2_牢房2楼",
+    "desc": "",
+    "scenario": "scenario_interior-ug-ni00301",
+    "playable": "scenario_interior-ug-ni_rd00_s2-2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 13,
+    "m_scenario_options": [],
+    "name": "1周目_S1_2_牢房",
+    "desc": "",
+    "scenario": "scenario_interior-ug-ni00101",
+    "playable": "scenario_interior-ug-ni_rd01_s1-2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 15,
+    "m_scenario_options": [],
+    "name": "0周目_S1_1_牢房",
+    "desc": "",
+    "scenario": "scenario_interior-ug-ni00101",
+    "playable": "scenario_interior-ug-ni_rd00_s1-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 16,
+    "m_scenario_options": [],
+    "name": "0周目_S2_3_小巷",
+    "desc": "",
+    "scenario": "scenario_city-os-duco00305",
+    "playable": "scenario_city-os-duco_rd00_s2-3",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 17,
+    "m_scenario_options": [],
+    "name": "0周目_S3_2_小巷",
+    "desc": "",
+    "scenario": "scenario_city-os-duco00305",
+    "playable": "scenario_city-os-duco_rd00_s3-2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 18,
+    "m_scenario_options": [],
+    "name": "0周目_S3_1_街道",
+    "desc": "",
+    "scenario": "scenario_city-os-duco00105",
+    "playable": "scenario_city-os-duco_rd00_s3-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 19,
+    "m_scenario_options": [],
+    "name": "0周目_S4_1_ 城门",
+    "desc": "",
+    "scenario": "scenario_city-os-duco00205",
+    "playable": "scenario_city-os-duco_rd00_s4-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 20,
+    "m_scenario_options": [],
+    "name": "1周目_S1_1_街道",
+    "desc": "",
+    "scenario": "scenario_city-os-da00401",
+    "playable": "scenario_city-os-da_rd01_s1-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 21,
+    "m_scenario_options": [],
+    "name": "1周目_S3_1_街道",
+    "desc": "",
+    "scenario": "scenario_city-os-ni00108",
+    "playable": "scenario_city-os-ni_rd01_s3-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 22,
+    "m_scenario_options": [],
+    "name": "共通线-庆功宴p1_0020",
+    "desc": "",
+    "scenario": "scenario_home-pb-ni00109",
+    "playable": "scenario_home-pb-ni_qgy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 23,
+    "m_scenario_options": [],
+    "name": "共通线-庆功宴p2_0020",
+    "desc": "",
+    "scenario": "scenario_home-mh-da00101",
+    "playable": "scenario_home-mh-da_qgy_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 24,
+    "m_scenario_options": [],
+    "name": "1周目_S4_1_街道",
+    "desc": "",
+    "scenario": "scenario_city-os-ni00108",
+    "playable": "scenario_city-os-ni_rd01_s4-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 25,
+    "m_scenario_options": [],
+    "name": "1周目_S4_2_城门晚",
+    "desc": "",
+    "scenario": "scenario_city-os-ni00208",
+    "playable": "scenario_city-os-ni_rd01_s4-2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 26,
+    "m_scenario_options": [],
+    "name": "共通线-铃兰小镇_0019",
+    "desc": "",
+    "scenario": "scenario_home-fh-da00301",
+    "playable": "scenario_home-fh-da_llxz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 27,
+    "m_scenario_options": [],
+    "name": "0周目_S3_3_街道",
+    "desc": "",
+    "scenario": "scenario_city-os-duco00105",
+    "playable": "scenario_city-os-duco_rd00_s3-3",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 32,
+    "m_scenario_options": [],
+    "name": "骑士团通用路线-拉维耶之死_0018",
+    "desc": "",
+    "scenario": "scenario_home-os-da00101",
+    "playable": "scenario_home-os-da_lwyzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 34,
+    "m_scenario_options": [],
+    "name": "结局永不到来的黎明-黑屏0034",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0034",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 36,
+    "m_scenario_options": [],
+    "name": "结局轻如鸿毛-黑屏0035",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0035",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 44,
+    "m_scenario_options": [],
+    "name": "骑士团表线_把酒言欢_0003",
+    "desc": "",
+    "scenario": "scenario_home-pb-ni00105",
+    "playable": "scenario_home-pb-ni_ewzbjyh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 45,
+    "m_scenario_options": [],
+    "name": "骑士团表线_真正计划_0002_p1",
+    "desc": "",
+    "scenario": "scenario_home-fh-da00201",
+    "playable": "scenario_home-fh-da_ewzzzjh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 46,
+    "m_scenario_options": [],
+    "name": "骑士团表线_真正计划_0002_p2",
+    "desc": "",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_ewzzzjh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 47,
+    "m_scenario_options": [],
+    "name": "骑士团表线_真情流露_0004_p1",
+    "desc": "",
+    "scenario": "scenario_city-os-nisn00601",
+    "playable": "scenario_city-os-nisn_erwzzqll",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 48,
+    "m_scenario_options": [],
+    "name": "骑士团表线_真情流露_0004_p2",
+    "desc": "",
+    "scenario": "scenario_interior-ug-ni00401",
+    "playable": "scenario_interior-ug-ni_erwzzqll",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 49,
+    "m_scenario_options": [],
+    "name": "骑士团表线_歌洛莉亚的崩溃_0005",
+    "desc": "",
+    "scenario": "scenario_home-fh-niri00301",
+    "playable": "scenario_home-fh-niri_gllybk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 50,
+    "m_scenario_options": [],
+    "name": "骑士团里线_生命的重量_0009",
+    "desc": "",
+    "scenario": "scenario_home-fh-niri00201",
+    "playable": "scenario_home-fh-ni_smdzl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 51,
+    "m_scenario_options": [],
+    "name": "骑士团里线_泰登之死_0010",
+    "desc": "",
+    "scenario": "scenario_city-os-niri00801",
+    "playable": "scenario_city-os-niri_tdzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 52,
+    "m_scenario_options": [],
+    "name": "骑士团里线_歌洛莉亚的救赎1_0011",
+    "desc": "",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_gllydjs01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 53,
+    "m_scenario_options": [],
+    "name": "骑士团里线_歌洛莉亚的救赎2_0012",
+    "desc": "",
+    "scenario": "scenario_home-os-da00101",
+    "playable": "scenario_home-os-da_gllydjs02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 54,
+    "m_scenario_options": [],
+    "name": "骑士团里线_歌洛莉亚的救赎3_0013",
+    "desc": "",
+    "scenario": "scenario_home-os-da00301",
+    "playable": "scenario_home-os-da_gllydjs03",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 55,
+    "m_scenario_options": [],
+    "name": "骑士团通用路线-思辨_0001",
+    "desc": "",
+    "scenario": "scenario_home-mh-da00101",
+    "playable": "scenario_home-mh-da_qstsb",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 58,
+    "m_scenario_options": [],
+    "name": "1周目_S4_3_城门晚",
+    "desc": "",
+    "scenario": "scenario_city-os-ni00208",
+    "playable": "scenario_city-os-ni_rd01_s4-3",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 59,
+    "m_scenario_options": [],
+    "name": "共通线-新闻：港都惨剧_0025",
+    "desc": "",
+    "scenario": "scenario_home-mh-da00101",
+    "playable": "scenario_home-mh-da_gdcj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 60,
+    "m_scenario_options": [],
+    "name": "共通线-忙碌的麦莎_0029",
+    "desc": "",
+    "scenario": "scenario_home-mh-ni00101",
+    "playable": "scenario_home-mh-ni_mldms",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 61,
+    "m_scenario_options": [],
+    "name": "共通线-在铃兰中告别_0026",
+    "desc": "",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_llzgb",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 62,
+    "m_scenario_options": [],
+    "name": "共通线-落难王子_0030",
+    "desc": "",
+    "scenario": "scenario_s_plain-os-da00201",
+    "playable": "scenario_s_plain-os-da_lnwz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 63,
+    "m_scenario_options": [],
+    "name": "共通线-护送商人模样的男子_0031",
+    "desc": "",
+    "scenario": "scenario_home-mh-da00101",
+    "playable": "scenario_home-mh-da_hssrmydnz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 65,
+    "m_scenario_options": [],
+    "name": "骑士团通用路线-三王女的离开_0032",
+    "desc": "",
+    "scenario": "scenario_home-os-da00201",
+    "playable": "scenario_home-os-da_swndlk01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 66,
+    "m_scenario_options": [],
+    "name": "骑士团通用路线-三王女的离开_0033",
+    "desc": "",
+    "scenario": "scenario_home-os-da00201",
+    "playable": "scenario_home-os-da_swndlk02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 67,
+    "m_scenario_options": [],
+    "name": "骑士团表线_最终审判_0008_1",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0008-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 68,
+    "m_scenario_options": [],
+    "name": "骑士团表线_最终审判_0008_2",
+    "desc": "",
+    "scenario": "scenario_interior-ug-ni00401",
+    "playable": "end_0008-2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 69,
+    "m_scenario_options": [],
+    "name": "骑士团表线_最终审判_0007",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0007",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 70,
+    "m_scenario_options": [],
+    "name": "骑士团表线_最终审判_0006_2",
+    "desc": "",
+    "scenario": "scenario_city-os-da00701",
+    "playable": "scenario_city-os-da_zzsp",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 71,
+    "m_scenario_options": [],
+    "name": "骑士团表线_最终审判_0006_1",
+    "desc": "",
+    "scenario": "scenario_home-mh-daco00101",
+    "playable": "scenario_home-mh-daco_zzsp",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 72,
+    "m_scenario_options": [],
+    "name": "骑士团里线_奥古斯特的末路_0014_1",
+    "desc": "",
+    "scenario": "scenario_city-os-du00701",
+    "playable": "scenario_city-os-du_agstml01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 73,
+    "m_scenario_options": [],
+    "name": "骑士团里线_奥古斯特的末路_0014_2",
+    "desc": "",
+    "scenario": "scenario_city-os-du00701",
+    "playable": "scenario_city-os-du_agstml02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 74,
+    "m_scenario_options": [],
+    "name": "骑士团里线_奥古斯特的末路_0014_3",
+    "desc": "",
+    "scenario": "scenario_city-os-du00501",
+    "playable": "scenario_city-os-du_agstdml",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 75,
+    "m_scenario_options": [],
+    "name": "骑士团里线_奥古斯特的末路_0015_1",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0015_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 76,
+    "m_scenario_options": [],
+    "name": "骑士团里线_奥古斯特的末路_0015_3",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0015",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 77,
+    "m_scenario_options": [],
+    "name": "骑士团里线_奥古斯特的末路_0015_2",
+    "desc": "",
+    "scenario": "scenario_city-os-da00501",
+    "playable": "scenario_city-os-da-agstml",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 78,
+    "m_scenario_options": [],
+    "name": "0周目接1周目谜之声",
+    "desc": "测试",
+    "scenario": "scenario_voice_ep0_1",
+    "playable": "scenario_voice_0046",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 80,
+    "m_scenario_options": [],
+    "name": "获得命运之轮牌",
+    "desc": "",
+    "scenario": "scenario_voice_ep0_1",
+    "playable": "scenario_voice_0047_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 82,
+    "m_scenario_options": [],
+    "name": "历史的注脚-黑屏0048",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0048",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 83,
+    "m_scenario_options": [],
+    "name": "铃兰摇曳于风中-黑屏0049",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0049",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 87,
+    "m_scenario_options": [],
+    "name": "王国军线-惨烈胜利",
+    "desc": "",
+    "scenario": "scenario_s_city-ca-du00101",
+    "playable": "scenario_s_city-ca-du_clsl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 88,
+    "m_scenario_options": [],
+    "name": "共通线-大王子送行三王女",
+    "desc": "",
+    "scenario": "scenario_interior-ca-da00301",
+    "playable": "scenario_interior-ca-da_dwzsxswn",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 89,
+    "m_scenario_options": [],
+    "name": "共通线-上台前的状况",
+    "desc": "",
+    "scenario": "scenario_city-os-da00801",
+    "playable": "scenario_city-os-da_gdyjq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 90,
+    "m_scenario_options": [],
+    "name": "共通线-港都演讲",
+    "desc": "",
+    "scenario": "scenario_city-os-da00801",
+    "playable": "scenario_city-os-da_gdyj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 91,
+    "m_scenario_options": [],
+    "name": "共通线-创建角色选择性别",
+    "desc": "",
+    "scenario": "scenario_createchar",
+    "playable": "scenario_createchar",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 92,
+    "m_scenario_options": [],
+    "name": "共通线-诺诺薇儿蜜月期",
+    "desc": "",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_nnwemyq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 93,
+    "m_scenario_options": [],
+    "name": "共通线-三王女的努力终",
+    "desc": "",
+    "scenario": "scenario_home-os-da00301",
+    "playable": "scenario_home-os-da_swnnlend",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 94,
+    "m_scenario_options": [],
+    "name": "共通线-诺诺薇儿献歌",
+    "desc": "",
+    "scenario": "scenario_home-pb-ni00101",
+    "playable": "scenario_home-pb-ni_nnwexg",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 95,
+    "m_scenario_options": [],
+    "name": "共通线-救治失败",
+    "desc": "",
+    "scenario": "scenario_home-ch-ni00101",
+    "playable": "scenario_home-os-ch-ni_jzsb",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 96,
+    "m_scenario_options": [],
+    "name": "共通线-高谈阔论\n\n有信物",
+    "desc": "",
+    "scenario": "scenario_home-pb-ni00101",
+    "playable": "scenario_home-pb-ni_gtkl_A",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 97,
+    "m_scenario_options": [],
+    "name": "共通线-高谈阔论",
+    "desc": "",
+    "scenario": "scenario_home-pb-ni00101",
+    "playable": "scenario_home-pb-ni_gtkl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 98,
+    "m_scenario_options": [],
+    "name": "共通线-魔药或圣光",
+    "desc": "",
+    "scenario": "scenario_home-ch-ni00101",
+    "playable": "scenario_home-os-ch-ni_mysg",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 99,
+    "m_scenario_options": [],
+    "name": "共通线-三王女的努力2",
+    "desc": "",
+    "scenario": "scenario_home-os-da00201",
+    "playable": "scenario_home-os-da_swnnl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 100,
+    "m_scenario_options": [],
+    "name": "在乐土码头醒来",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00301",
+    "playable": "scenario_dls_003_ep0",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 101,
+    "m_scenario_options": [],
+    "name": "引导去0-1",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00301",
+    "playable": "scenario_dls_003_ep1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 102,
+    "m_scenario_options": [],
+    "name": "结局孤立无援-黑屏0036",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_0036",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 103,
+    "m_scenario_options": [],
+    "name": "舞台演出1-1",
+    "desc": "scenario_innerstage_1-1",
+    "scenario": "scenario_innerstage01",
+    "playable": "scenario_innerstage_1-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 104,
+    "m_scenario_options": [],
+    "name": "舞台演出1-6",
+    "desc": "",
+    "scenario": "scenario_innerstage01",
+    "playable": "scenario_innerstage_1-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 105,
+    "m_scenario_options": [],
+    "name": "舞台演出1-12",
+    "desc": "",
+    "scenario": "scenario_innerstage01",
+    "playable": "scenario_innerstage_1-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 106,
+    "m_scenario_options": [],
+    "name": "舞台演出1-18",
+    "desc": "",
+    "scenario": "scenario_innerstage01",
+    "playable": "scenario_innerstage_1-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 107,
+    "m_scenario_options": [],
+    "name": "舞台演出2-1",
+    "desc": "",
+    "scenario": "scenario_innerstage02",
+    "playable": "scenario_innerstage_2-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 108,
+    "m_scenario_options": [],
+    "name": "舞台演出2-6",
+    "desc": "",
+    "scenario": "scenario_innerstage02",
+    "playable": "scenario_innerstage_2-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 109,
+    "m_scenario_options": [],
+    "name": "舞台演出2-12",
+    "desc": "",
+    "scenario": "scenario_innerstage02",
+    "playable": "scenario_innerstage_2-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 110,
+    "m_scenario_options": [],
+    "name": "舞台演出2-18",
+    "desc": "",
+    "scenario": "scenario_innerstage02",
+    "playable": "scenario_innerstage_2-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 111,
+    "m_scenario_options": [],
+    "name": "零周目结束黑屏进字",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "ep_bl_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 112,
+    "m_scenario_options": [],
+    "name": "给黑猫起名",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00301",
+    "playable": "scenario_dls_003_hmqm",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 113,
+    "m_scenario_options": [],
+    "name": "在混沌之海里发现灾厄",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00301",
+    "playable": "scenario_dls_003_fxze",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 114,
+    "m_scenario_options": [],
+    "name": "大姐头入伙",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00201",
+    "playable": "scenario_dls_da002_djtrh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 115,
+    "m_scenario_options": [],
+    "name": "沙盒黑洞穿越",
+    "desc": "",
+    "scenario": "scenario_blackhole",
+    "playable": "scenario_blackhole",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 116,
+    "m_scenario_options": [],
+    "name": "舞台演出3-1",
+    "desc": "",
+    "scenario": "scenario_innerstage03",
+    "playable": "scenario_innerstage_3-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 117,
+    "m_scenario_options": [],
+    "name": "舞台演出3-6",
+    "desc": "",
+    "scenario": "scenario_innerstage03",
+    "playable": "scenario_innerstage_3-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 118,
+    "m_scenario_options": [],
+    "name": "舞台演出3-12",
+    "desc": "",
+    "scenario": "scenario_innerstage03",
+    "playable": "scenario_innerstage_3-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 119,
+    "m_scenario_options": [],
+    "name": "舞台演出3-17",
+    "desc": "",
+    "scenario": "scenario_innerstage03",
+    "playable": "scenario_innerstage_3-17",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 120,
+    "m_scenario_options": [],
+    "name": "王国军线-共乘马车",
+    "desc": "",
+    "scenario": "scenario_interior-spcl-da00101",
+    "playable": "scenario_interior-spcl-da_gcmc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 121,
+    "m_scenario_options": [],
+    "name": "王国军线-杀法里斯",
+    "desc": "",
+    "scenario": "scenario_interior-ca-ni00401",
+    "playable": "scenario_interior-ca-ni_sfls",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 122,
+    "m_scenario_options": [],
+    "name": "王国军线-玩家和三王女举旗",
+    "desc": "",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_wjyswnjq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 123,
+    "m_scenario_options": [],
+    "name": "王国军线-和谈",
+    "desc": "",
+    "scenario": "scenario_interior-ca-da00601",
+    "playable": "scenario_interior-ca-da-ht",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 124,
+    "m_scenario_options": [],
+    "name": "王国军线-大王子邀约逼宫",
+    "desc": "",
+    "scenario": "scenario_city-spcl-ni00201",
+    "playable": "scenario_city-spcl-ni_dwzyybg",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 125,
+    "m_scenario_options": [],
+    "name": "王国军线-索菲亚杀大王子a",
+    "desc": "",
+    "scenario": "scenario_city-spcl-ni00201",
+    "playable": "scenario_city-spcl-ni_sdwz-a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 126,
+    "m_scenario_options": [],
+    "name": "王国军线-索菲亚杀大王子b",
+    "desc": "",
+    "scenario": "scenario_interior-ca-ni00501",
+    "playable": "scenario_interior-ca-ni_sdwz-b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 127,
+    "m_scenario_options": [],
+    "name": "王国军线-索菲亚杀大王子c",
+    "desc": "",
+    "scenario": "scenario_interior-ca-ni00101",
+    "playable": "scenario_interior-ca-ni_sdwz-c",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 128,
+    "m_scenario_options": [],
+    "name": "王国军线-奥古斯特白门楼",
+    "desc": "",
+    "scenario": "scenario_city-os-da00901",
+    "playable": "scenario_city-os-da_ogstbml",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 129,
+    "m_scenario_options": [],
+    "name": "王国军线-三王女来到矿坑城",
+    "desc": "",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_swnlkkc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 130,
+    "m_scenario_options": [],
+    "name": "王国军线-潜入矿坑城",
+    "desc": "",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_qrkkc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 131,
+    "m_scenario_options": [],
+    "name": "王国军线-大王子的召见2",
+    "desc": "",
+    "scenario": "scenario_interior-ca-da00301",
+    "playable": "scenario_interior-ca-da_zj2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 132,
+    "m_scenario_options": [],
+    "name": "王国军线-三王女的去留",
+    "desc": "",
+    "scenario": "scenario_home-fh-da00301",
+    "playable": "scenario_home-fh-da_swnql",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 133,
+    "m_scenario_options": [],
+    "name": "王国军线-觐见大王子",
+    "desc": "",
+    "scenario": "scenario_interior-ca-da00301",
+    "playable": "scenario_interior-ca-da_jjdwz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 134,
+    "m_scenario_options": [],
+    "name": "王国军线-大王子召见",
+    "desc": "",
+    "scenario": "scenario_interior-ca-du00301",
+    "playable": "scenario_interior-ca-du_dwzzj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 135,
+    "m_scenario_options": [],
+    "name": "王国军线-鸿门宴",
+    "desc": "",
+    "scenario": "scenario_interior-ca-ni00801",
+    "playable": "scenario_interior-ca-ni_hmy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 136,
+    "m_scenario_options": [],
+    "name": "王国军线-赎买薇尔德人",
+    "desc": "",
+    "scenario": "scenario_interior-in-ni00201",
+    "playable": "scenario_interior-in-ni_smwedr",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 137,
+    "m_scenario_options": [],
+    "name": "王国军线-矿坑城演讲",
+    "desc": "",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_kkcyj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 138,
+    "m_scenario_options": [],
+    "name": "王国军线-演讲结果a",
+    "desc": "",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_yjend_a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 139,
+    "m_scenario_options": [],
+    "name": "王国军线-演讲结果b",
+    "desc": "",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_yjend_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 140,
+    "m_scenario_options": [],
+    "name": "王国军线-殉情",
+    "desc": "",
+    "scenario": "scenario_interior-ca-ni00301",
+    "playable": "scenario_interior-ca-ni_xq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 141,
+    "m_scenario_options": [],
+    "name": "王国军线-不跑路结局",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_pl_bpl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 142,
+    "m_scenario_options": [],
+    "name": "王国军线-跑路结局",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_pl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 143,
+    "m_scenario_options": [],
+    "name": "王国军线-仁君治国",
+    "desc": "",
+    "scenario": "scenario_end",
+    "playable": "end_pl_rj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 144,
+    "m_scenario_options": [],
+    "name": "王国军线-墓前解说",
+    "desc": "",
+    "scenario": "scenario_home-fh-da00201",
+    "playable": "scenario_home-fh-da_mqjs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 145,
+    "m_scenario_options": [],
+    "name": "王国军线-索菲亚悼念鲁特菲",
+    "desc": "",
+    "scenario": "scenario_home-fh-da00201",
+    "playable": "scenario_home-fh-da_sfydnltf",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 146,
+    "m_scenario_options": [],
+    "name": "舞台演出5-1",
+    "desc": "scenario_innerstage_5-1",
+    "scenario": "scenario_innerstage05",
+    "playable": "scenario_innerstage_5-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 147,
+    "m_scenario_options": [],
+    "name": "舞台演出6-6",
+    "desc": "scenario_innerstage_6-6",
+    "scenario": "scenario_innerstage06",
+    "playable": "scenario_innerstage_6-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 148,
+    "m_scenario_options": [],
+    "name": "舞台演出8-6",
+    "desc": "scenario_innerstage_8-6",
+    "scenario": "scenario_innerstage08",
+    "playable": "scenario_innerstage_8-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 149,
+    "m_scenario_options": [],
+    "name": "舞台演出6-1",
+    "desc": "scenario_innerstage_6-1",
+    "scenario": "scenario_innerstage06",
+    "playable": "scenario_innerstage_6-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 150,
+    "m_scenario_options": [],
+    "name": "舞台演出5-6",
+    "desc": "scenario_innerstage_5-6",
+    "scenario": "scenario_innerstage05",
+    "playable": "scenario_innerstage_5-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 151,
+    "m_scenario_options": [],
+    "name": "舞台演出8-17",
+    "desc": "scenario_innerstage_8-17",
+    "scenario": "scenario_innerstage08",
+    "playable": "scenario_innerstage_8-17",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 152,
+    "m_scenario_options": [],
+    "name": "舞台演出5-12",
+    "desc": "scenario_innerstage_5-12",
+    "scenario": "scenario_innerstage05",
+    "playable": "scenario_innerstage_5-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 153,
+    "m_scenario_options": [],
+    "name": "舞台演出5-18",
+    "desc": "scenario_innerstage_5-18",
+    "scenario": "scenario_innerstage05",
+    "playable": "scenario_innerstage_5-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 154,
+    "m_scenario_options": [],
+    "name": "舞台演出7-1",
+    "desc": "scenario_innerstage_7-1",
+    "scenario": "scenario_innerstage07",
+    "playable": "scenario_innerstage_7-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 155,
+    "m_scenario_options": [],
+    "name": "舞台演出7-6",
+    "desc": "scenario_innerstage_7-6",
+    "scenario": "scenario_innerstage07",
+    "playable": "scenario_innerstage_7-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 156,
+    "m_scenario_options": [],
+    "name": "舞台演出7-12",
+    "desc": "scenario_innerstage_7-12",
+    "scenario": "scenario_innerstage07",
+    "playable": "scenario_innerstage_7-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 157,
+    "m_scenario_options": [],
+    "name": "舞台演出7-18",
+    "desc": "scenario_innerstage_7-18",
+    "scenario": "scenario_innerstage07",
+    "playable": "scenario_innerstage_7-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 169,
+    "m_scenario_options": [],
+    "name": "泰登羁绊2",
+    "desc": "scenario_friendship_hknightsoldknight_02",
+    "scenario": "scenario_friendship_hknightsoldknight",
+    "playable": "scenario_friendship_hknightsoldknight_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 171,
+    "m_scenario_options": [],
+    "name": "泰登羁绊1",
+    "desc": "scenario_friendship_hknightsoldknight_01",
+    "scenario": "scenario_friendship_hknightsoldknight",
+    "playable": "scenario_friendship_hknightsoldknight_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 174,
+    "m_scenario_options": [],
+    "name": "晶石少女羁绊2",
+    "desc": "scenario_friendship_hvilderwitchf_02",
+    "scenario": "scenario_friendship_hvilderwitchf",
+    "playable": "scenario_friendship_hvilderwitchf_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 175,
+    "m_scenario_options": [],
+    "name": "晶石少女羁绊3",
+    "desc": "scenario_friendship_hvilderwitchf_03",
+    "scenario": "scenario_friendship_hvilderwitchf",
+    "playable": "scenario_friendship_hvilderwitchf_03",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 181,
+    "m_scenario_options": [],
+    "name": "舞台演出6-12",
+    "desc": "scenario_innerstage_6-12",
+    "scenario": "scenario_innerstage06",
+    "playable": "scenario_innerstage_6-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 183,
+    "m_scenario_options": [],
+    "name": "舞台演出6-18",
+    "desc": "scenario_innerstage_6-18",
+    "scenario": "scenario_innerstage06",
+    "playable": "scenario_innerstage_6-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 187,
+    "m_scenario_options": [],
+    "name": "歌洛莉亚羁绊2",
+    "desc": "scenario_friendship_hknightspaladinf_02",
+    "scenario": "scenario_friendship_hknightspaladinf",
+    "playable": "scenario_friendship_hknightspaladinf_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 188,
+    "m_scenario_options": [],
+    "name": "歌洛莉亚羁绊1",
+    "desc": "scenario_friendship_hknightspaladinf_01",
+    "scenario": "scenario_friendship_hknightspaladinf",
+    "playable": "scenario_friendship_hknightspaladinf_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 189,
+    "m_scenario_options": [],
+    "name": "晶石少女羁绊1",
+    "desc": "scenario_friendship_hvilderwitchf_01",
+    "scenario": "scenario_friendship_hvilderwitchf",
+    "playable": "scenario_friendship_hvilderwitchf_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 192,
+    "m_scenario_options": [],
+    "name": "法皇国线-矿坑城的局势",
+    "desc": "矿坑城的局势",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_kkcdjs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 193,
+    "m_scenario_options": [],
+    "name": "法皇国线-达成一致",
+    "desc": "达成一致",
+    "scenario": "scenario_city-pit-da00201",
+    "playable": "scenario_city-pit-da_dcyz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 194,
+    "m_scenario_options": [],
+    "name": "法皇国线-矿坑城的小女孩",
+    "desc": "矿坑城的小女孩",
+    "scenario": "scenario_city-spcl-da00101",
+    "playable": "scenario_city-spcl-da_kkcdxnh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 195,
+    "m_scenario_options": [],
+    "name": "法皇国线-米格尔登场",
+    "desc": "米格尔登场",
+    "scenario": "scenario_home-mh-ni00101",
+    "playable": "scenario_home-mh-ni_mgedc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 196,
+    "m_scenario_options": [],
+    "name": "法皇国线-谈判破裂",
+    "desc": "谈判破裂",
+    "scenario": "scenario_interior-ca-ni00401",
+    "playable": "scenario_interior-ca-ni_tppl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 197,
+    "m_scenario_options": [],
+    "name": "法皇国线-邦国王子真情流露",
+    "desc": "邦国王子真情流露",
+    "scenario": "scenario_home-mh-daco00101",
+    "playable": "scenario_home-mh-daco_bgwzzqll",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 198,
+    "m_scenario_options": [],
+    "name": "法皇国线-揭开面具",
+    "desc": "揭开面具",
+    "scenario": "scenario_home-os-da00301",
+    "playable": "scenario_home-os-da_jkmj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 199,
+    "m_scenario_options": [],
+    "name": "法皇国线-苍凉战场",
+    "desc": "苍凉战场",
+    "scenario": "scenario_end_fhg",
+    "playable": "scenario_blw_fhg_clzc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 200,
+    "m_scenario_options": [],
+    "name": "法皇国线-拉维耶之死",
+    "desc": "拉维耶之死",
+    "scenario": "scenario_home-fh-da00301",
+    "playable": "scenario_home-fh-da_lwyzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 201,
+    "m_scenario_options": [],
+    "name": "法皇国线-鹰隼绝路（里）",
+    "desc": "鹰隼绝路（里）",
+    "scenario": "scenario_plain-cp-ni00401",
+    "playable": "scenario_plain-cp-ni_ysjl_l",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 202,
+    "m_scenario_options": [],
+    "name": "法皇国线-邦国王子之死",
+    "desc": "邦国王子之死",
+    "scenario": "scenario_interior-pa-ni00101",
+    "playable": "scenario_interior-pa-ni00101_bgwzzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 203,
+    "m_scenario_options": [],
+    "name": "法皇国线-鹰隼绝路",
+    "desc": "鹰隼绝路",
+    "scenario": "scenario_plain-cp-ni00401",
+    "playable": "scenario_plain-cp-ni_ysjl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 204,
+    "m_scenario_options": [],
+    "name": "法皇国线-理念之争",
+    "desc": "理念之争",
+    "scenario": "scenario_interior-pa-ni00201",
+    "playable": "scenario_interior-pa-ni_lnzz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 205,
+    "m_scenario_options": [],
+    "name": "法皇国线-法卡尔与麦莎的祈祷",
+    "desc": "法卡尔与麦莎的祈祷",
+    "scenario": "scenario_home-ch-da00101",
+    "playable": "scenario_home-ch-da_fkeymsdqd",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 206,
+    "m_scenario_options": [],
+    "name": "法皇国线-萨曼莎的革新",
+    "desc": "萨曼莎的革新",
+    "scenario": "scenario_home-fh-da00301",
+    "playable": "scenario_home-fh-da_smsdgx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 207,
+    "m_scenario_options": [],
+    "name": "法皇国线-禅让",
+    "desc": "禅让前半段",
+    "scenario": "scenario_city-ca-da01901",
+    "playable": "scenario_city-ca-da_sr",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 208,
+    "m_scenario_options": [],
+    "name": "法皇国线-嘉西娅的愤怒",
+    "desc": "嘉西娅的愤怒",
+    "scenario": "scenario_interior-pa-ni00201",
+    "playable": "scenario_interior-pa-ni_jxydfn",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 209,
+    "m_scenario_options": [],
+    "name": "法皇国线-萨曼莎道别",
+    "desc": "萨曼莎道别",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_smsdb",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 210,
+    "m_scenario_options": [],
+    "name": "法皇国线-小绿之死",
+    "desc": "小绿之死",
+    "scenario": "scenario_plain-spcl-nith00101",
+    "playable": "scenario_plain-spcl-nith_xlzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 211,
+    "m_scenario_options": [],
+    "name": "法皇国线-王都之乱",
+    "desc": "王都之乱",
+    "scenario": "scenario_interior-ca-ni00101",
+    "playable": "scenario_interior-ca-ni_wdzl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 212,
+    "m_scenario_options": [],
+    "name": "法皇国线-初见法皇之手",
+    "desc": "初见法皇之手",
+    "scenario": "scenario_interior-pa-da00201",
+    "playable": "scenario_interior-pa-da_cjfhzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 213,
+    "m_scenario_options": [],
+    "name": "法皇国线-如果当初",
+    "desc": "如果当初",
+    "scenario": "scenario_end_fhg",
+    "playable": "end_rgdc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 214,
+    "m_scenario_options": [],
+    "name": "法皇国线-宗教改革",
+    "desc": "宗教改革",
+    "scenario": "scenario_end_fhg",
+    "playable": "end_zjgg",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 215,
+    "m_scenario_options": [],
+    "name": "法皇国线-刺杀之前",
+    "desc": "刺杀之前",
+    "scenario": "scenario_s_plain-cp-ni00201",
+    "playable": "scenario_s_plain-cp-ni_cszq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 217,
+    "m_scenario_options": [],
+    "name": "法皇国线-与萨曼莎启程",
+    "desc": "与萨曼莎启程",
+    "scenario": "scenario_home-fh-da00301",
+    "playable": "scenario_home-fh-da_ysmsqc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 218,
+    "m_scenario_options": [],
+    "name": "法皇国线-与萨曼莎启程2",
+    "desc": "与萨曼莎启程endingcard部分",
+    "scenario": "scenario_end_fhg",
+    "playable": "scenario_blw_fhg_ysmsqc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 219,
+    "m_scenario_options": [],
+    "name": "法皇国线-关键抉择（里）",
+    "desc": "关键抉择（里）",
+    "scenario": "scenario_home-ch-ni00101",
+    "playable": "scenario_home-ch-ni_gjjzl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 221,
+    "m_scenario_options": [],
+    "name": "法皇国线-关键抉择（里）2",
+    "desc": "关键抉择（里）2",
+    "scenario": "scenario_home-fh-niri00201",
+    "playable": "scenario_home-fh-niri_gjjzl_c",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 222,
+    "m_scenario_options": [],
+    "name": "法皇国线-米格尔的计划1",
+    "desc": "米格尔的计划1",
+    "scenario": "scenario_home-mh-ni00101",
+    "playable": "scenario_home-mh-ni_mgejh1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 226,
+    "m_scenario_options": [],
+    "name": "法皇国线-愿天堂无痛苦",
+    "desc": "愿天堂无痛苦",
+    "scenario": "scenario_interior-in-ni00201",
+    "playable": "scenario_interior-in-ni_yttwtk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 227,
+    "m_scenario_options": [],
+    "name": "法皇国线-愿天堂无痛苦2",
+    "desc": "愿天堂无痛苦2",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_yttwtk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 228,
+    "m_scenario_options": [],
+    "name": "法皇国线-战争之外的片刻",
+    "desc": "战争之外的片刻",
+    "scenario": "scenario_cave-spcl-co00101",
+    "playable": "scenario_cave-spcl-co_zzzwdpk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 229,
+    "m_scenario_options": [],
+    "name": "法皇国线-战争之外的片刻2",
+    "desc": "战争之外的片刻2",
+    "scenario": "scenario_cave-spcl-ni00101",
+    "playable": "scenario_cave-spcl-ni_zzzwdpk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 230,
+    "m_scenario_options": [],
+    "name": "法皇国线-战争之外的片刻3",
+    "desc": "战争之外的片刻3",
+    "scenario": "scenario_cave-spcl-da00101",
+    "playable": "scenario_cave-spcl-da_zzzwdpk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 231,
+    "m_scenario_options": [],
+    "name": "法皇国线-矿坑城的小女孩2",
+    "desc": "矿坑城的小女孩2",
+    "scenario": "scenario_interior-in-da00201",
+    "playable": "scenario_interior-in-da_kkcdxnh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 233,
+    "m_scenario_options": [],
+    "name": "法皇国线-三王女告别",
+    "desc": "三王女告别",
+    "scenario": "scenario_home-fh-da00301",
+    "playable": "scenario_home-fh-da_swngb",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 234,
+    "m_scenario_options": [],
+    "name": "4-6演出",
+    "desc": "网游timeline4-6演出",
+    "scenario": "scenario_s_battle017",
+    "playable": "scenario_cb1_4-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 235,
+    "m_scenario_options": [],
+    "name": "4-12演出",
+    "desc": "网游timeline4-12演出",
+    "scenario": "scenario_battle000_012",
+    "playable": "scenario_cb1_4-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 236,
+    "m_scenario_options": [],
+    "name": "4-18演出a",
+    "desc": "网游timeline4-18演出a",
+    "scenario": "scenario_s_battle011",
+    "playable": "scenario_cb1_4-18_a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 237,
+    "m_scenario_options": [],
+    "name": "4-18演出b",
+    "desc": "网游timeline4-18演出b",
+    "scenario": "scenario_dls_virtual-sky-da00201",
+    "playable": "scenario_dls_da002_4-18_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 238,
+    "m_scenario_options": [],
+    "name": "8-17演出下",
+    "desc": "8-17演出下",
+    "scenario": "scenario_dls_virtual-sky-da00201",
+    "playable": "scenario_dls_da002_8-17",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 239,
+    "m_scenario_options": [],
+    "name": "法皇国线-禅让2",
+    "desc": "禅让后半段",
+    "scenario": "scenario_interior-pa-ni00201",
+    "playable": "scenario_interior-pa-ni_sr",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 240,
+    "m_scenario_options": [],
+    "name": "第1章获得塔罗牌",
+    "desc": "第1章获得塔罗牌舞台演出",
+    "scenario": "scenario_innerstage_tlp",
+    "playable": "scenario_innerstage_tlp01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 241,
+    "m_scenario_options": [],
+    "name": "第2章获得塔罗牌",
+    "desc": "第2章获得塔罗牌舞台演出",
+    "scenario": "scenario_innerstage_tlp",
+    "playable": "scenario_innerstage_tlp02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 242,
+    "m_scenario_options": [],
+    "name": "第6章获得塔罗牌",
+    "desc": "第6章获得塔罗牌舞台演出",
+    "scenario": "scenario_innerstage_tlp",
+    "playable": "scenario_innerstage_tlp06",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 243,
+    "m_scenario_options": [],
+    "name": "第7章获得塔罗牌",
+    "desc": "第7章获得塔罗牌舞台演出",
+    "scenario": "scenario_innerstage_tlp",
+    "playable": "scenario_innerstage_tlp07",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 244,
+    "m_scenario_options": [],
+    "name": "舞台演出11-1",
+    "desc": "scenario_innerstage_11-1",
+    "scenario": "scenario_innerstage11",
+    "playable": "scenario_innerstage_11-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 245,
+    "m_scenario_options": [],
+    "name": "舞台演出11-10",
+    "desc": "scenario_innerstage_11-10",
+    "scenario": "scenario_innerstage11",
+    "playable": "scenario_innerstage_11-10",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 246,
+    "m_scenario_options": [],
+    "name": "舞台演出11-18",
+    "desc": "scenario_innerstage_11-18",
+    "scenario": "scenario_innerstage11",
+    "playable": "scenario_innerstage_11-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 247,
+    "m_scenario_options": [],
+    "name": "舞台演出11-5",
+    "desc": "scenario_innerstage_11-5",
+    "scenario": "scenario_innerstage11",
+    "playable": "scenario_innerstage_11-5",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 248,
+    "m_scenario_options": [],
+    "name": "舞台演出10-1",
+    "desc": "scenario_innerstage_10-1",
+    "scenario": "scenario_innerstage10",
+    "playable": "scenario_innerstage_10-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 249,
+    "m_scenario_options": [],
+    "name": "舞台演出10-6",
+    "desc": "scenario_innerstage_10-6",
+    "scenario": "scenario_innerstage10",
+    "playable": "scenario_innerstage_10-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 250,
+    "m_scenario_options": [],
+    "name": "舞台演出10-12",
+    "desc": "scenario_innerstage_10-12",
+    "scenario": "scenario_innerstage10",
+    "playable": "scenario_innerstage_10-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 251,
+    "m_scenario_options": [],
+    "name": "舞台演出10-18",
+    "desc": "scenario_innerstage_10-18",
+    "scenario": "scenario_innerstage10",
+    "playable": "scenario_innerstage_10-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 252,
+    "m_scenario_options": [],
+    "name": "塔罗牌1获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 1
+  },
+  {
+    "id": 254,
+    "m_scenario_options": [],
+    "name": "第4章插卡（魔术师）",
+    "desc": "第4章插卡（魔术师）",
+    "scenario": "scenario_dls_virtual-sky-da00301",
+    "playable": "scenario_dls_003_04ck",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 255,
+    "m_scenario_options": [],
+    "name": "解锁启示录",
+    "desc": "解锁启示录",
+    "scenario": "scenario_dls_virtual-sky-da00301",
+    "playable": "scenario_dls_003_jsqsl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 256,
+    "m_scenario_options": [],
+    "name": "第8章插卡（战车）",
+    "desc": "第8章插卡（战车）",
+    "scenario": "scenario_dls_virtual-sky-da00301",
+    "playable": "scenario_dls_003_08ck",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 257,
+    "m_scenario_options": [],
+    "name": "诺诺薇儿羁绊1",
+    "desc": "scenario_friendship_hvildersistersinger_01",
+    "scenario": "scenario_friendship_hvildersistersinger",
+    "playable": "scenario_friendship_hvildersistersinger_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 258,
+    "m_scenario_options": [],
+    "name": "诺诺薇儿羁绊2",
+    "desc": "scenario_friendship_hvildersistersinger_02",
+    "scenario": "scenario_friendship_hvildersistersinger",
+    "playable": "scenario_friendship_hvildersistersinger_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 259,
+    "m_scenario_options": [],
+    "name": "舞台演出9-1",
+    "desc": "scenario_innerstage_9-1",
+    "scenario": "scenario_innerstage09",
+    "playable": "scenario_innerstage_9-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 260,
+    "m_scenario_options": [],
+    "name": "舞台演出9-6",
+    "desc": "scenario_innerstage_9-6",
+    "scenario": "scenario_innerstage09",
+    "playable": "scenario_innerstage_9-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 261,
+    "m_scenario_options": [],
+    "name": "舞台演出9-12",
+    "desc": "scenario_innerstage_9-12",
+    "scenario": "scenario_innerstage09",
+    "playable": "scenario_innerstage_9-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 262,
+    "m_scenario_options": [],
+    "name": "舞台演出9-18",
+    "desc": "scenario_innerstage_9-18",
+    "scenario": "scenario_innerstage09",
+    "playable": "scenario_innerstage_9-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 264,
+    "m_scenario_options": [],
+    "name": "cg_二王子下棋",
+    "desc": "cg_二王子下棋cg",
+    "scenario": "scenario_cg",
+    "playable": "scenario_cg_002",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 265,
+    "m_scenario_options": [],
+    "name": "cg_歌洛莉亚到达",
+    "desc": "cg_歌洛莉亚到达",
+    "scenario": "scenario_cg",
+    "playable": "scenario_cg_003",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 266,
+    "m_scenario_options": [],
+    "name": "cg_三王女演讲",
+    "desc": "cg_三王女演讲",
+    "scenario": "scenario_cg",
+    "playable": "scenario_cg_001",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 267,
+    "m_scenario_options": [],
+    "name": "cg_大王子演讲",
+    "desc": "cg_大王子演讲",
+    "scenario": "scenario_cg",
+    "playable": "scenario_cg_004",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 268,
+    "m_scenario_options": [],
+    "name": "cg_萨曼莎面具",
+    "desc": "cg_萨曼莎面具",
+    "scenario": "scenario_cg",
+    "playable": "scenario_cg_005",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 269,
+    "m_scenario_options": [],
+    "name": "cg_op过场动画",
+    "desc": "",
+    "scenario": "scenario_cg",
+    "playable": "scenario_cg_op",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 270,
+    "m_scenario_options": [],
+    "name": "塔罗牌2获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 2
+  },
+  {
+    "id": 271,
+    "m_scenario_options": [],
+    "name": "塔罗牌3获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 3
+  },
+  {
+    "id": 272,
+    "m_scenario_options": [],
+    "name": "塔罗牌4获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 4
+  },
+  {
+    "id": 273,
+    "m_scenario_options": [],
+    "name": "塔罗牌5获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 5
+  },
+  {
+    "id": 274,
+    "m_scenario_options": [],
+    "name": "塔罗牌6获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 6
+  },
+  {
+    "id": 275,
+    "m_scenario_options": [],
+    "name": "塔罗牌7获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 7
+  },
+  {
+    "id": 276,
+    "m_scenario_options": [],
+    "name": "塔罗牌8获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 8
+  },
+  {
+    "id": 277,
+    "m_scenario_options": [],
+    "name": "塔罗牌9获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 9
+  },
+  {
+    "id": 278,
+    "m_scenario_options": [],
+    "name": "塔罗牌10获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 10
+  },
+  {
+    "id": 279,
+    "m_scenario_options": [],
+    "name": "塔罗牌11获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 11
+  },
+  {
+    "id": 280,
+    "m_scenario_options": [],
+    "name": "塔罗牌12获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 12
+  },
+  {
+    "id": 281,
+    "m_scenario_options": [],
+    "name": "塔罗牌13获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 13
+  },
+  {
+    "id": 282,
+    "m_scenario_options": [],
+    "name": "塔罗牌14获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 14
+  },
+  {
+    "id": 283,
+    "m_scenario_options": [],
+    "name": "塔罗牌15获得",
+    "desc": "塔罗牌获得",
+    "scenario": "scenario_tarot_get",
+    "playable": "scenario_tarot_get",
+    "ambient": 0,
+    "tarot_id": 15
+  },
+  {
+    "id": 284,
+    "m_scenario_options": [],
+    "name": "席梦娜羁绊1",
+    "desc": "scenario_friendship_hknightsicemagefset_01席梦娜羁绊1",
+    "scenario": "scenario_friendship_hknightsicemagefset",
+    "playable": "scenario_friendship_hknightsicemagefset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 285,
+    "m_scenario_options": [],
+    "name": "席梦娜羁绊2",
+    "desc": "scenario_friendship_hknightsicemagefset_02席梦娜羁绊2、席梦娜羁绊2_b",
+    "scenario": "scenario_friendship_hknightsicemagefset",
+    "playable": "scenario_friendship_hknightsicemagefset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 286,
+    "m_scenario_options": [],
+    "name": "阿列克谢羁绊1",
+    "desc": "scenario_friendship_hluciayoungcolonelm_01阿列克谢羁绊1含分支_b",
+    "scenario": "scenario_friendship_hluciayoungcolonelm",
+    "playable": "scenario_friendship_hluciayoungcolonelm_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 287,
+    "m_scenario_options": [],
+    "name": "卡丽丝羁绊1",
+    "desc": "卡丽丝羁绊01",
+    "scenario": "scenario_friendship_hpapalbishopf",
+    "playable": "scenario_friendship_hpapalbishopf_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 288,
+    "m_scenario_options": [],
+    "name": "卡丽丝羁绊2",
+    "desc": "卡丽丝羁绊02、卡丽丝羁绊02_b",
+    "scenario": "scenario_friendship_hpapalbishopf",
+    "playable": "scenario_friendship_hpapalbishopf_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 289,
+    "m_scenario_options": [],
+    "name": "夏可露露羁绊1",
+    "desc": "scenario_friendship_hvilderdancerf_01夏可露露羁绊1",
+    "scenario": "scenario_friendship_hvilderdancerf",
+    "playable": "scenario_friendship_hvilderdancerf_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 290,
+    "m_scenario_options": [],
+    "name": "夏可露露羁绊2",
+    "desc": "scenario_friendship_hvilderdancerf_02夏可露露羁绊2",
+    "scenario": "scenario_friendship_hvilderdancerf",
+    "playable": "scenario_friendship_hvilderdancerf_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 291,
+    "m_scenario_options": [],
+    "name": "塔埃尔羁绊1",
+    "desc": "scenario_friendship_hpapalprincem_01塔埃尔羁绊1",
+    "scenario": "scenario_friendship_hpapalprincem",
+    "playable": "scenario_friendship_hpapalprincem_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 292,
+    "m_scenario_options": [],
+    "name": "大型活动2_第一次宴会",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00202",
+    "playable": "scenario_dls_virtual-sky-da_actdycyh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 293,
+    "m_scenario_options": [],
+    "name": "大型活动2_挚友的对决",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00203",
+    "playable": "scenario_dls_virtual-sky-da_actzyddj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 294,
+    "m_scenario_options": [],
+    "name": "大型活动2_消失的嫌隙",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00202",
+    "playable": "scenario_dls_virtual-sky-da_actxsdxx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 295,
+    "m_scenario_options": [],
+    "name": "大型活动2_加入战斗吧",
+    "desc": "",
+    "scenario": "scenario_dls_virtual-sky-da00202",
+    "playable": "scenario_dls_virtual-sky-da_actjrzdb",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 296,
+    "m_scenario_options": [],
+    "name": "大型活动1_敌之声",
+    "desc": "",
+    "scenario": "scenario_s_plain-os-ni00501",
+    "playable": "scenario_s_plain-os-ni_actdzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 297,
+    "m_scenario_options": [],
+    "name": "大型活动1_入局",
+    "desc": "",
+    "scenario": "scenario_city-ca-du00301",
+    "playable": "scenario_city-ca-du_actrj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 298,
+    "m_scenario_options": [],
+    "name": "大型活动1_入局2",
+    "desc": "",
+    "scenario": "scenario_s_city-ca-du00201",
+    "playable": "scenario_city-ca-du_actrj2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 299,
+    "m_scenario_options": [],
+    "name": "大型活动1_于焦土之上",
+    "desc": "",
+    "scenario": "scenario_s_city-ca-du00201",
+    "playable": "scenario_city-ca-du_actyjtzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 300,
+    "m_scenario_options": [],
+    "name": "大型活动1_各自的决意",
+    "desc": "",
+    "scenario": "scenario_s_city-ca-da00101",
+    "playable": "scenario_city-ca-da_actgzdjy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 301,
+    "m_scenario_options": [],
+    "name": "舞台演出13-1",
+    "desc": "scenario_innerstage_13-1",
+    "scenario": "scenario_innerstage13",
+    "playable": "scenario_innerstage_13-1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 302,
+    "m_scenario_options": [],
+    "name": "舞台演出13-6",
+    "desc": "scenario_innerstage_13-6",
+    "scenario": "scenario_innerstage13",
+    "playable": "scenario_innerstage_13-6",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 303,
+    "m_scenario_options": [],
+    "name": "舞台演出13-18",
+    "desc": "scenario_innerstage_13-18",
+    "scenario": "scenario_innerstage13",
+    "playable": "scenario_innerstage_13-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 304,
+    "m_scenario_options": [],
+    "name": "舞台演出13-12",
+    "desc": "scenario_innerstage_13-12",
+    "scenario": "scenario_innerstage13",
+    "playable": "scenario_innerstage_13-12",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 305,
+    "m_scenario_options": [],
+    "name": "第12章开启演出2",
+    "desc": "第12章开启演出",
+    "scenario": "scenario_dls_virtual-sky-da00302",
+    "playable": "scenario_dls_003_12kq-b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 306,
+    "m_scenario_options": [],
+    "name": "第11章插卡",
+    "desc": "第11章插卡",
+    "scenario": "scenario_dls_virtual-sky-da00302",
+    "playable": "scenario_dls_003_11ck",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 307,
+    "m_scenario_options": [],
+    "name": "第12章开启演出",
+    "desc": "第12章开启演出",
+    "scenario": "scenario_dls_virtual-sky-da00201",
+    "playable": "scenario_dls_da002_12kq-a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 308,
+    "m_scenario_options": [],
+    "name": "12-7演出",
+    "desc": "12-7演出",
+    "scenario": "scenario_s_battle018",
+    "playable": "scenario_cb1_12-7",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 309,
+    "m_scenario_options": [],
+    "name": "12-7演出2",
+    "desc": "12-7演出2",
+    "scenario": "scenario_dls_virtual-sky-da00302",
+    "playable": "scenario_dls_003_12-7-b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 310,
+    "m_scenario_options": [],
+    "name": "12-16演出",
+    "desc": "12-16演出",
+    "scenario": "scenario_battle000_019",
+    "playable": "scenario_wy_12-16",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 311,
+    "m_scenario_options": [],
+    "name": "12-18演出",
+    "desc": "12-18演出",
+    "scenario": "scenario_dls_virtual-sky-da00303",
+    "playable": "scenario_dls_003_12-18",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 312,
+    "m_scenario_options": [],
+    "name": "拉维耶羁绊1",
+    "desc": "scenario_friendship_hplayersisterlavier_01拉维耶羁绊1",
+    "scenario": "scenario_friendship_hplayersisterlavier",
+    "playable": "scenario_friendship_hplayersisterlavier_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 313,
+    "m_scenario_options": [],
+    "name": "法卡尔羁绊1",
+    "desc": "scenario_friendship_hplayermercenaryboy_01法卡尔羁绊1",
+    "scenario": "scenario_friendship_hplayermercenaryboy",
+    "playable": "scenario_friendship_hplayermercenaryboy_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 314,
+    "m_scenario_options": [],
+    "name": "麦莎羁绊1",
+    "desc": "scenario_friendship_hplayermercenarygirl_01麦莎羁绊1",
+    "scenario": "scenario_friendship_hplayermercenarygirl",
+    "playable": "scenario_friendship_hplayermercenarygirl_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 315,
+    "m_scenario_options": [],
+    "name": "蔻蔻娜羁绊1",
+    "desc": "scenario_friendship_hsolomonhalfblood_01蔻蔻娜羁绊1",
+    "scenario": "scenario_friendship_hsolomonhalfblood",
+    "playable": "scenario_friendship_hsolomonhalfblood_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 316,
+    "m_scenario_options": [],
+    "name": "阿坎贝羁绊1",
+    "desc": "scenario_friendship_hsolomonbusinessman_01阿坎贝羁绊1",
+    "scenario": "scenario_friendship_hsolomonbusinessman",
+    "playable": "scenario_friendship_hsolomonbusinessman_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 317,
+    "m_scenario_options": [],
+    "name": "霍玛羁绊1",
+    "desc": "scenario_friendship_hsolomonparrotgirl霍玛羁绊1",
+    "scenario": "scenario_friendship_hsolomonparrotgirl",
+    "playable": "scenario_friendship_hsolomonparrotgirl_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 318,
+    "m_scenario_options": [],
+    "name": "哈斯娜羁绊1",
+    "desc": "scenario_friendship_hsolomonblind_01哈斯娜羁绊1",
+    "scenario": "scenario_friendship_hsolomonblind",
+    "playable": "scenario_friendship_hsolomonblind_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 319,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-奇怪的少女",
+    "desc": "埃拉曼线-奇怪的少女",
+    "scenario": "scenario_home-pb-da00101",
+    "playable": "scenario_home-pb-da_qgdsn",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 320,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-无声的告别2",
+    "desc": "埃拉曼线-无声的告别2",
+    "scenario": "scenario_home-pb-da00101",
+    "playable": "scenario_home-pb-da_wsdgb_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 321,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-无声的告别1",
+    "desc": "埃拉曼线-无声的告别1",
+    "scenario": "scenario_home-pb-ni00101",
+    "playable": "scenario_home-pb-ni_wsdgb_a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 322,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-无声的告别3",
+    "desc": "埃拉曼线-无声的告别3",
+    "scenario": "scenario_home-pb-ni00101",
+    "playable": "scenario_home-pb-ni_wsdgb_c",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 323,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-庆祝商会建成2",
+    "desc": "埃拉曼线-庆祝商会建成2",
+    "scenario": "scenario_home-pb-ni00101",
+    "playable": "scenario_home-pb-ni_qzshjc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 324,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-藏不住心事的耳朵",
+    "desc": "埃拉曼线-藏不住心事的耳朵",
+    "scenario": "scenario_home-pb-ni00101",
+    "playable": "scenario_home-pb-ni_cbzxsded",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 325,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-旅行的见闻",
+    "desc": "埃拉曼线-旅行的见闻",
+    "scenario": "scenario_home-mh-da00101",
+    "playable": "scenario_home-mh-da_lxdjw",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 326,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-意料之外的故事",
+    "desc": "埃拉曼线-意料之外的故事",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_ylzwdgs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 327,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-三王女加入商会",
+    "desc": "埃拉曼线-三王女加入商会",
+    "scenario": "scenario_home-mk-du00101",
+    "playable": "scenario_home-mk-du_swnjrsh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 328,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-无法合作",
+    "desc": "埃拉曼线-无法合作",
+    "scenario": "scenario_home-mk-du00101",
+    "playable": "scenario_home-mk-du_wfhz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 329,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-混血少女的反应",
+    "desc": "埃拉曼线-混血少女的反应",
+    "scenario": "scenario_home-fh-ni00301",
+    "playable": "scenario_home-fh-ni_hxsndfy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 330,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-歌洛莉亚三王女对手戏",
+    "desc": "埃拉曼线-歌洛莉亚三王女对手戏",
+    "scenario": "scenario_home-mk-ni00101",
+    "playable": "scenario_home-mk-ni_gllyswndsx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 331,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-鹦鹉人解救困境",
+    "desc": "埃拉曼线-鹦鹉人解救困境",
+    "scenario": "scenario_home-mk-ni00101",
+    "playable": "scenario_home-mk-ni_ywrjjkj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 332,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-怀念混血少女",
+    "desc": "埃拉曼线-怀念混血少女",
+    "scenario": "scenario_home-mh-da00101",
+    "playable": "scenario_home-mh-da_hnhxsn",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 333,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-原形毕露",
+    "desc": "埃拉曼线-原形毕露",
+    "scenario": "scenario_home-os-ni00101",
+    "playable": "scenario_home-os-da_yxbl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 334,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-置身事内",
+    "desc": "埃拉曼线-置身事内",
+    "scenario": "scenario_home-os-ni00101",
+    "playable": "scenario_home-os-ni_zssn",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 335,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-鹦鹉人碰瓷",
+    "desc": "埃拉曼线-鹦鹉人碰瓷",
+    "scenario": "scenario_s_plain-os-da00701",
+    "playable": "scenario_s_plain-os-da_ywrpc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 336,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-鹦鹉人解围",
+    "desc": "埃拉曼线-鹦鹉人解围",
+    "scenario": "scenario_interior-dzt-da00101",
+    "playable": "scenario_interior-dzt-da_ywrjw",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 337,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-阿坎贝提议大办铃兰节",
+    "desc": "埃拉曼线-阿坎贝提议大办铃兰节",
+    "scenario": "scenario_home-mk-da00101",
+    "playable": "scenario_home-mk-da_dbllj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 338,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-庆祝商会建成1",
+    "desc": "埃拉曼线-庆祝商会建成",
+    "scenario": "scenario_home-mk-da00101",
+    "playable": "scenario_home-mk-da_qzshjc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 339,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-与阿坎贝产生分歧",
+    "desc": "埃拉曼线-与阿坎贝产生分歧",
+    "scenario": "scenario_home-mh-daco00101",
+    "playable": "scenario_home-mh-daco_yakbcsfq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 340,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-想象中的父亲",
+    "desc": "埃拉曼线-想象中的父亲",
+    "scenario": "scenario_s_mountain-os-da01201",
+    "playable": "scenario_s_mountain-os-da_xxzdfq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 341,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-谎言与真相",
+    "desc": "埃拉曼线-谎言与真相",
+    "scenario": "scenario_home-os-da00301",
+    "playable": "scenario_home-os-da_hyyzx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 342,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-抵达绿洲小镇",
+    "desc": "埃拉曼线-抵达绿洲小镇",
+    "scenario": "scenario_desert-os-da01101",
+    "playable": "scenario_desert-os-da_ddlzxz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 343,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-再遇鹦鹉人",
+    "desc": "埃拉曼线-再遇鹦鹉人",
+    "scenario": "scenario_desert-os-da01101",
+    "playable": "scenario_desert-os-da_zyywr",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 344,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-揭发与忏悔",
+    "desc": "埃拉曼线-揭发与忏悔",
+    "scenario": "scenario_city-ca-da02001",
+    "playable": "scenario_city-ca-da_jfych",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 345,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-第二次和谈a1",
+    "desc": "埃拉曼线-第二次和谈a",
+    "scenario": "scenario_city-ca-da02001",
+    "playable": "scenario_city-ca-da_decht1",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 346,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-第二次和谈a2",
+    "desc": "埃拉曼线-第二次和谈a2",
+    "scenario": "scenario_city-ca-da02001",
+    "playable": "scenario_city-ca-da_decht2",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 347,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-第二次和谈b1",
+    "desc": "埃拉曼线-第二次和谈b1",
+    "scenario": "scenario_city-ca-da02001",
+    "playable": "scenario_city-ca-da_decht3",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 348,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-第二次和谈b2",
+    "desc": "埃拉曼线-第二次和谈b2",
+    "scenario": "scenario_city-ca-da02001",
+    "playable": "scenario_city-ca-da_decht4",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 349,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-阿坎贝救急",
+    "desc": "埃拉曼线-阿坎贝救急",
+    "scenario": "scenario_home-os-da00301",
+    "playable": "scenario_home-os-da_akbjj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 350,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-绿洲邂逅",
+    "desc": "埃拉曼线-绿洲邂逅",
+    "scenario": "scenario_desert-os-da01201",
+    "playable": "scenario_desert-os-da_lzxh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 351,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-尾声",
+    "desc": "埃拉曼线-尾声",
+    "scenario": "scenario_interior-pa-da00601",
+    "playable": "scenario_interior-pa-da_ws",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 352,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-非主席结局",
+    "desc": "埃拉曼线-非主席结局",
+    "scenario": "scenario_end_alm",
+    "playable": "end_fzxjj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 353,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-非全票结局",
+    "desc": "埃拉曼线-非全票结局",
+    "scenario": "scenario_end_alm",
+    "playable": "end_fqpjj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 354,
+    "m_scenario_options": [],
+    "name": "埃拉曼线-全票结局",
+    "desc": "埃拉曼线-全票结局",
+    "scenario": "scenario_end_alm",
+    "playable": "end_qpjj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 355,
+    "m_scenario_options": [],
+    "name": "索菲亚离开cg",
+    "desc": "cg_索菲亚离开",
+    "scenario": "scenario_cg",
+    "playable": "scenario_cg_006",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 356,
+    "m_scenario_options": [],
+    "name": "艾达羁绊1",
+    "desc": "scenario_friendship_hplayerleaderada_01艾达羁绊1",
+    "scenario": "scenario_friendship_hplayerleaderada",
+    "playable": "scenario_friendship_hplayerleaderada_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 357,
+    "m_scenario_options": [],
+    "name": "骑士团制作名单",
+    "desc": "",
+    "scenario": "scenario_staff_qst",
+    "playable": "scenario_staff_qst",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 358,
+    "m_scenario_options": [],
+    "name": "王国军制作名单",
+    "desc": "",
+    "scenario": "scenario_staff_wgj",
+    "playable": "scenario_staff_wqj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 359,
+    "m_scenario_options": [],
+    "name": "法皇国制作名单",
+    "desc": "",
+    "scenario": "scenario_staff_fhg",
+    "playable": "scenario_staff_fhg",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 361,
+    "m_scenario_options": [],
+    "name": "贝拉羁绊1",
+    "desc": "scenario_friendship_hplayerlittlewitch_01贝拉羁绊1",
+    "scenario": "scenario_friendship_hplayerlittlewitch",
+    "playable": "scenario_friendship_hplayerlittlewitch_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 362,
+    "m_scenario_options": [],
+    "name": "索菲亚羁绊1",
+    "desc": "索菲亚羁绊1",
+    "scenario": "scenario_friendship_hcrimsonsophiafset",
+    "playable": "scenario_friendship_hcrimsonsophiafset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 363,
+    "m_scenario_options": [],
+    "name": "索菲亚羁绊2",
+    "desc": "索菲亚羁绊2",
+    "scenario": "scenario_friendship_hcrimsonsophiafset",
+    "playable": "scenario_friendship_hcrimsonsophiafset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 364,
+    "m_scenario_options": [],
+    "name": "前传线-毕业考试",
+    "desc": "前传线-毕业考试",
+    "scenario": "scenario_interior-ca-da01301",
+    "playable": "scenario_interior-ca-da_byks",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 365,
+    "m_scenario_options": [],
+    "name": "前传线-索菲亚的心机",
+    "desc": "前传线-索菲亚的心机",
+    "scenario": "scenario_interior-ca-da01301",
+    "playable": "scenario_interior-ca-da_sfydxj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 366,
+    "m_scenario_options": [],
+    "name": "前传线-翠斯坦出场",
+    "desc": "前传线-翠斯坦出场",
+    "scenario": "scenario_city-os-du01601",
+    "playable": "scenario_city-os-du_cstcc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 367,
+    "m_scenario_options": [],
+    "name": "前传线-拔剑一刻",
+    "desc": "前传线-拔剑一刻",
+    "scenario": "scenario_city-spcl-ni00301",
+    "playable": "scenario_city-spcl-ni_bjyk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 368,
+    "m_scenario_options": [],
+    "name": "前传线-翠斯坦之死",
+    "desc": "前传线-拔剑一刻",
+    "scenario": "scenario_city-os-da01702",
+    "playable": "scenario_city-os-da_cstzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 369,
+    "m_scenario_options": [],
+    "name": "前传线-对峙翠斯坦",
+    "desc": "前传线-对峙翠斯坦",
+    "scenario": "scenario_city-os-ni01601",
+    "playable": "scenario_city-os-ni_dzcst",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 370,
+    "m_scenario_options": [],
+    "name": "前传线-试探柯瓦雷",
+    "desc": "前传线-试探柯瓦雷",
+    "scenario": "scenario_interior-ca-du01401",
+    "playable": "scenario_interior-ca-du_stkwl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 371,
+    "m_scenario_options": [],
+    "name": "前传线-父女对话",
+    "desc": "前传线-父女对话",
+    "scenario": "scenario_city-os-da01501",
+    "playable": "scenario_city-os-da_fndh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 372,
+    "m_scenario_options": [],
+    "name": "前传线-竞技场找科塔",
+    "desc": "前传线-竞技场找科塔",
+    "scenario": "scenario_lyc-pb-da00101",
+    "playable": "scenario_lyc-pb-da_jjczkt",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 373,
+    "m_scenario_options": [],
+    "name": "前传线-竞技场找科塔b",
+    "desc": "前传线-竞技场找科塔b",
+    "scenario": "scenario_lyc-arena-da00101",
+    "playable": "scenario_lyc-arena-da_jjczkt_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 374,
+    "m_scenario_options": [],
+    "name": "前传线-乔装计划",
+    "desc": "前传线-乔装计划",
+    "scenario": "scenario_lyc-mh-du00101",
+    "playable": "scenario_lyc-mh-du_qzjh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 375,
+    "m_scenario_options": [],
+    "name": "前传线-莉拉的计策",
+    "desc": "前传线-莉拉的计策",
+    "scenario": "scenario_lyc-mh-da00101",
+    "playable": "scenario_lyc-mh-da_lldjc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 376,
+    "m_scenario_options": [],
+    "name": "前传线-睡前试探拉维耶",
+    "desc": "前传线-睡前-试探拉维耶",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_stlwy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 377,
+    "m_scenario_options": [],
+    "name": "前传线-睡前沉默",
+    "desc": "前传线-睡前-沉默",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_sqcm",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 378,
+    "m_scenario_options": [],
+    "name": "前传线-睡前索菲亚的演绎推理",
+    "desc": "前传线-睡前索菲亚的演绎推理",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_sfydyytl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 379,
+    "m_scenario_options": [],
+    "name": "前传线-睡前轮流吃醋",
+    "desc": "前传线-睡前轮流吃醋",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_llcc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 380,
+    "m_scenario_options": [],
+    "name": "前传线-睡前诀别一眼",
+    "desc": "前传线-睡前-诀别一眼",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_jbyy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 381,
+    "m_scenario_options": [],
+    "name": "前传线-睡前索菲亚的噩梦",
+    "desc": "前传线-睡前-索菲亚的噩梦",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_sfydem",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 382,
+    "m_scenario_options": [],
+    "name": "前传线-睡前因莉拉而振奋",
+    "desc": "前传线-睡前因莉拉而振奋",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_yllezf",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 383,
+    "m_scenario_options": [],
+    "name": "前传线-初次报道",
+    "desc": "前传线-初次报道",
+    "scenario": "scenario_lyc-mh-da00101",
+    "playable": "scenario_lyc-mh-da_ccbd",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 384,
+    "m_scenario_options": [],
+    "name": "前传线-莉拉上名单a",
+    "desc": "前传线-莉拉上名单a",
+    "scenario": "scenario_lyc-mh-da00101",
+    "playable": "scenario_lyc-mh-da_llsmd-a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 386,
+    "m_scenario_options": [],
+    "name": "前传线-莉拉上名单b",
+    "desc": "前传线-莉拉上名单b",
+    "scenario": "scenario_interior-in-da00501",
+    "playable": "scenario_interior-in-da_llsmd-b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 387,
+    "m_scenario_options": [],
+    "name": "前传线-遥远的身边人a",
+    "desc": "前传线-遥远的身边人a",
+    "scenario": "scenario_lyc-dm-da00101",
+    "playable": "scenario_lyc-dm-da_yydsbr",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 388,
+    "m_scenario_options": [],
+    "name": "前传线-遥远的身边人b",
+    "desc": "前传线-遥远的身边人b",
+    "scenario": "scenario_lyc-mh-da00101",
+    "playable": "scenario_lyc-mh-da_yydsbr_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 389,
+    "m_scenario_options": [],
+    "name": "拉维耶羁绊2",
+    "desc": "scenario_friendship_hcrimsonlavierfset_01拉维耶羁绊2",
+    "scenario": "scenario_friendship_hcrimsonlavierfset",
+    "playable": "scenario_friendship_hcrimsonlavierfset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 390,
+    "m_scenario_options": [],
+    "name": "迪塔利奥羁绊1",
+    "desc": "scenario_friendship_hiriafprince_01迪塔利奥羁绊1",
+    "scenario": "scenario_friendship_hiriafprince",
+    "playable": "scenario_friendship_hiriafprince_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 391,
+    "m_scenario_options": [],
+    "name": "帕米娜羁绊1",
+    "desc": "帕米娜羁绊1",
+    "scenario": "scenario_friendship_hcrimsongeneralfset",
+    "playable": "scenario_friendship_hcrimsongeneralfset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 392,
+    "m_scenario_options": [],
+    "name": "前传线-大王子的橄榄枝",
+    "desc": "大王子的橄榄枝",
+    "scenario": "scenario_lyc-os-ni00101",
+    "playable": "scenario_lyc-os-ni_dwzdglz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 393,
+    "m_scenario_options": [],
+    "name": "前传线-大王子的计划",
+    "desc": "大王子的计划",
+    "scenario": "scenario_lyc-os-ni00101",
+    "playable": "scenario_lyc-os-ni_dwzdjh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 394,
+    "m_scenario_options": [],
+    "name": "前传线-父女对峙",
+    "desc": "前传线-父女对峙",
+    "scenario": "scenario_city-spcl-du00301",
+    "playable": "scenario_city-spcl-du_fndz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 395,
+    "m_scenario_options": [],
+    "name": "前传线-从奇亚处得知索罗斯的善举",
+    "desc": "前传线-从奇亚处得知索罗斯的善举",
+    "scenario": "scenario_city-spcl-da00501",
+    "playable": "scenario_city-spcl-da_dzslssj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 396,
+    "m_scenario_options": [],
+    "name": "前传线-酒桶中的护身符",
+    "desc": "前传线-酒桶中的护身符",
+    "scenario": "scenario_city-os-du01801",
+    "playable": "scenario_city-os-du_jtzdhsf",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 397,
+    "m_scenario_options": [],
+    "name": "前传线-拉维耶拦着索菲亚",
+    "desc": "前传线-拉维耶拦着索菲亚",
+    "scenario": "scenario_lyc-dm-niri00101",
+    "playable": "scenario_lyc-dm-niri_lwylzsfy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 398,
+    "m_scenario_options": [],
+    "name": "前传线-莉拉之死",
+    "desc": "前传线-莉拉之死",
+    "scenario": "scenario_city-ca-ni02201",
+    "playable": "scenario_city-ca-ni_llzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 399,
+    "m_scenario_options": [],
+    "name": "前传线-两种消沉a",
+    "desc": "前传线-两种消沉a",
+    "scenario": "scenario_lyc-dm-niri00101",
+    "playable": "scenario_lyc-dm-niri_lzxc-a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 400,
+    "m_scenario_options": [],
+    "name": "前传线-两种消沉b",
+    "desc": "前传线-两种消沉b",
+    "scenario": "scenario_lyc-dm-da00101",
+    "playable": "scenario_lyc-dm-da_lzxc-b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 401,
+    "m_scenario_options": [],
+    "name": "前传线-名单案真相",
+    "desc": "前传线-名单案真相",
+    "scenario": "scenario_lyc-os-ni00101",
+    "playable": "scenario_lyc-os-ni_mdazx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 402,
+    "m_scenario_options": [],
+    "name": "前传线-帕米娜出场",
+    "desc": "前传线-帕米娜出场",
+    "scenario": "scenario_interior-ca-du01401",
+    "playable": "scenario_interior-ca-du_pmncc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 403,
+    "m_scenario_options": [],
+    "name": "前传线-帕米娜之死",
+    "desc": "前传线-帕米娜之死",
+    "scenario": "scenario_city-spcl-ni00401",
+    "playable": "scenario_city-spcl-ni-pmnzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 404,
+    "m_scenario_options": [],
+    "name": "前传线-贴贴蒙太奇",
+    "desc": "前传线-贴贴蒙太奇",
+    "scenario": "scenario_end_qzx",
+    "playable": "scenario_blw_qzx_ttmtq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 405,
+    "m_scenario_options": [],
+    "name": "前传线-质问翠斯坦",
+    "desc": "前传线-质问翠斯坦",
+    "scenario": "scenario_city-os-du00501",
+    "playable": "scenario_city-os-du_zwcst",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 406,
+    "m_scenario_options": [],
+    "name": "前传线-索菲亚的崩溃",
+    "desc": "前传线-索菲亚的崩溃",
+    "scenario": "scenario_lyc-dm-da00101",
+    "playable": "scenario_lyc-dm-da_sfydbk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 407,
+    "m_scenario_options": [],
+    "name": "前传线-睡前安然入眠",
+    "desc": "前传线-睡前安然入眠",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_arrm",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 408,
+    "m_scenario_options": [],
+    "name": "前传线-睡前烘焙太难了",
+    "desc": "前传线-睡前烘焙太难了",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_hbtnl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 409,
+    "m_scenario_options": [],
+    "name": "前传线-睡前杀手太快了",
+    "desc": "前传线-睡前杀手太快了",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_sstkl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 410,
+    "m_scenario_options": [],
+    "name": "前传线-睡前无声的和好",
+    "desc": "前传线-睡前无声的和好",
+    "scenario": "scenario_lyc-dm-ni00101",
+    "playable": "scenario_lyc_dm_ni_wsdhh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 411,
+    "m_scenario_options": [],
+    "name": "前传线-毕业畅想",
+    "desc": "前传线-毕业畅想",
+    "scenario": "scenario_lyc-os-da00101",
+    "playable": "scenario_lyc-os-da_bycx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 412,
+    "m_scenario_options": [],
+    "name": "前传线-冲进厅堂",
+    "desc": "前传线-冲进厅堂",
+    "scenario": "scenario_city-spcl-nith00301",
+    "playable": "scenario_city-spcl-nith_cjtt",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 413,
+    "m_scenario_options": [],
+    "name": "前传线-赶回帕米娜现场",
+    "desc": "前传线-赶回帕米娜现场",
+    "scenario": "scenario_city-spcl-dawn00401",
+    "playable": "scenario_city-spcl-dawn-ghpnmxc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 414,
+    "m_scenario_options": [],
+    "name": "前传线-科塔供出港务局局长",
+    "desc": "前传线-科塔供出港务局局长",
+    "scenario": "scenario_lyc-pb-ni00101",
+    "playable": "scenario_lyc-pb-ni_ktgcgwjjz",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 415,
+    "m_scenario_options": [],
+    "name": "前传线-睡前真绯红之夜",
+    "desc": "前传线-睡前真绯红之夜",
+    "scenario": "scenario_lyc-dm-nico00102",
+    "playable": "scenario_lyc-dm-nico_zfhzy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 417,
+    "m_scenario_options": [],
+    "name": "翠斯坦羁绊1",
+    "desc": "翠斯坦羁绊1",
+    "scenario": "scenario_fs_hcrimsonmafialeaderfset",
+    "playable": "scenario_fs_hcrimsonmafialeaderfset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 418,
+    "m_scenario_options": [],
+    "name": "翠斯坦羁绊2",
+    "desc": "翠斯坦羁绊2",
+    "scenario": "scenario_fs_hcrimsonmafialeaderfset",
+    "playable": "scenario_fs_hcrimsonmafialeaderfset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 419,
+    "m_scenario_options": [],
+    "name": "奇亚羁绊1",
+    "desc": "奇亚羁绊1",
+    "scenario": "scenario_fs_hcrimsonhousemaidkiller",
+    "playable": "scenario_fs_hcrimsonhousemaidkiller_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 420,
+    "m_scenario_options": [],
+    "name": "奇亚羁绊2",
+    "desc": "奇亚羁绊2",
+    "scenario": "scenario_fs_hcrimsonhousemaidkiller",
+    "playable": "scenario_fs_hcrimsonhousemaidkiller_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 421,
+    "m_scenario_options": [],
+    "name": "莉拉羁绊1",
+    "desc": "莉拉羁绊1",
+    "scenario": "scenario_friendship_hcrimsondetectivefset",
+    "playable": "scenario_friendship_hcrimsondetectivefset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 422,
+    "m_scenario_options": [],
+    "name": "莉拉羁绊2",
+    "desc": "莉拉羁绊2",
+    "scenario": "scenario_friendship_hcrimsondetectivefset",
+    "playable": "scenario_friendship_hcrimsondetectivefset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 423,
+    "m_scenario_options": [],
+    "name": "前传线-睡前不眠之夜",
+    "desc": "前传线-睡前不眠之夜",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_bmzy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 424,
+    "m_scenario_options": [],
+    "name": "前传线-睡前翠斯坦的反常",
+    "desc": "前传线-睡前翠斯坦的反常",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_cstfc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 425,
+    "m_scenario_options": [],
+    "name": "前传线-睡前海关总管就该上名单",
+    "desc": "前传线-睡前海关总管就该上名单",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_hgzg",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 426,
+    "m_scenario_options": [],
+    "name": "前传线-睡前愧对奇亚",
+    "desc": "前传线-睡前愧对奇亚",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_kdqy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 427,
+    "m_scenario_options": [],
+    "name": "前传线-睡前拉维耶的试探",
+    "desc": "前传线-睡前拉维耶的试探",
+    "scenario": "scenario_lyc-dm-niri00102",
+    "playable": "scenario_lyc-dm-niri_lwyst",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 428,
+    "m_scenario_options": [],
+    "name": "前传线-睡前拉维耶拍手称快",
+    "desc": "前传线-睡前拉维耶拍手称快",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_psck",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 429,
+    "m_scenario_options": [],
+    "name": "前传线-睡前令人吃醋的梦话",
+    "desc": "前传线-睡前令人吃醋的梦话",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_ccdmh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 430,
+    "m_scenario_options": [],
+    "name": "前传线-睡前对名单的态度分歧",
+    "desc": "前传线-睡前对名单的态度分歧",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_mdfq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 431,
+    "m_scenario_options": [],
+    "name": "前传线-睡前如何保护莉拉",
+    "desc": "前传线-睡前如何保护莉拉",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_rhbhll",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 432,
+    "m_scenario_options": [],
+    "name": "前传线-睡前山雨欲来",
+    "desc": "前传线-睡前山雨欲来",
+    "scenario": "scenario_lyc-dm-nico00102",
+    "playable": "scenario_lyc-dm-nico_fyyl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 433,
+    "m_scenario_options": [],
+    "name": "前传线-睡前睡吧",
+    "desc": "前传线-睡前睡吧",
+    "scenario": "scenario_lyc-dm-niri00101",
+    "playable": "scenario_lyc-dm-niri_sb",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 434,
+    "m_scenario_options": [],
+    "name": "前传线-睡前吐槽迷信的科塔",
+    "desc": "前传线-睡前吐槽迷信的科塔",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_tckt",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 435,
+    "m_scenario_options": [],
+    "name": "前传线-睡前幸福的同居生活",
+    "desc": "前传线-睡前幸福的同居生活",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_xfdtjsh",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 436,
+    "m_scenario_options": [],
+    "name": "前传线-吃饭反馈01",
+    "desc": "前传线-吃饭反馈01",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_cf_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 437,
+    "m_scenario_options": [],
+    "name": "前传线-奇亚出场",
+    "desc": "前传线-奇亚出场",
+    "scenario": "scenario_city-os-du01401",
+    "playable": "scenario_city-os-du_qycc",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 438,
+    "m_scenario_options": [],
+    "name": "前传线-贸易司司长之死",
+    "desc": "前传线-贸易司司长之死",
+    "scenario": "scenario_interior-pa-ni00701",
+    "playable": "scenario_interior-pa-ni_mysszzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 439,
+    "m_scenario_options": [],
+    "name": "前传线-立誓的决心",
+    "desc": "前传线-立誓的决心",
+    "scenario": "scenario_lyc-pb-ni00101",
+    "playable": "scenario_lyc-pb-ni_lsdjx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 440,
+    "m_scenario_options": [],
+    "name": "前传线-索菲亚卸下防御",
+    "desc": "前传线-二人把话说开",
+    "scenario": "scenario_lyc-pb-ni00101",
+    "playable": "scenario_lyc-pb-ni_sfyxxfy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 441,
+    "m_scenario_options": [],
+    "name": "前传线-二人把话说开",
+    "desc": "前传线-二人把话说开",
+    "scenario": "scenario_lyc-os-ni00101",
+    "playable": "scenario_lyc-os-ni_lrbhsk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 442,
+    "m_scenario_options": [],
+    "name": "前传线-奇亚之死",
+    "desc": "前传线-奇亚之死",
+    "scenario": "scenario_city-os-ni01401",
+    "playable": "scenario_city-os-ni_qyzs",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 443,
+    "m_scenario_options": [],
+    "name": "前传线-动员演说",
+    "desc": "前传线-动员演说",
+    "scenario": "scenario_lyc-os-niri00101",
+    "playable": "scenario_lyc-os-niri_dyys",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 444,
+    "m_scenario_options": [],
+    "name": "前传线-寻找索菲亚a",
+    "desc": "前传线-寻找索菲亚a",
+    "scenario": "scenario_lyc-dm-niri00101",
+    "playable": "scenario_lyc-dm-niri_xzsfy",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 445,
+    "m_scenario_options": [],
+    "name": "前传线-寻找索菲亚b",
+    "desc": "前传线-寻找索菲亚b",
+    "scenario": "scenario_lyc-os-niri00101",
+    "playable": "scenario_lyc-os-niri_xzsfy-b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 446,
+    "m_scenario_options": [],
+    "name": "前传线-寻找索菲亚c",
+    "desc": "前传线-寻找索菲亚c",
+    "scenario": "scenario_city-spcl-ni00301",
+    "playable": "scenario_city-spcl-ni_xzsfy-c",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 447,
+    "m_scenario_options": [],
+    "name": "前传线-遥远的身边人",
+    "desc": "前传线-遥远的身边人",
+    "scenario": "scenario_lyc-dm-da00101",
+    "playable": "scenario_lyc-dm-da_yydsbr",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 448,
+    "m_scenario_options": [],
+    "name": "前传线-遥远的身边人b",
+    "desc": "前传线-遥远的身边人b",
+    "scenario": "scenario_lyc-mh-da00101",
+    "playable": "scenario_lyc-mh-da_yydsbr_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 449,
+    "m_scenario_options": [],
+    "name": "前传线-睡前受害者的创痛",
+    "desc": "前传线-睡前受害者的创痛",
+    "scenario": "scenario_lyc-dm-nico00101",
+    "playable": "scenario_lyc_dm_nico_shzdct",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 450,
+    "m_scenario_options": [],
+    "name": "前传线-睡前放走科塔的事后讨论",
+    "desc": "前传线-睡前放走科塔的事后讨论",
+    "scenario": "scenario_lyc-dm-nico00101",
+    "playable": "scenario_lyc_dm_nico_fzktdshtl",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 451,
+    "m_scenario_options": [],
+    "name": "前传线-睡前失格的父亲",
+    "desc": "前传线-睡前失格的父亲",
+    "scenario": "scenario_lyc-dm-nico00101",
+    "playable": "scenario_lyc_dm_nico_sgdfq",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 452,
+    "m_scenario_options": [],
+    "name": "前传线-吃饭反馈02",
+    "desc": "前传线-吃饭反馈02",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_cf_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 453,
+    "m_scenario_options": [],
+    "name": "前传线-吃饭反馈03",
+    "desc": "前传线-吃饭反馈03",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_cf_03",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 454,
+    "m_scenario_options": [],
+    "name": "前传线-吃饭反馈04",
+    "desc": "前传线-吃饭反馈04",
+    "scenario": "scenario_lyc-dm-ni00102",
+    "playable": "scenario_lyc-dm-ni_cf_04",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 455,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程01",
+    "desc": "前传线-做饭过程01",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 456,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程02",
+    "desc": "前传线-做饭过程02",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 457,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程03_a",
+    "desc": "前传线-做饭过程03_a\n",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_03_a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 458,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程03_b",
+    "desc": "前传线-做饭过程03_b\n",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_03_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 459,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程04",
+    "desc": "前传线-做饭过程04\n",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_04",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 460,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程06",
+    "desc": "前传线-做饭过程06\n",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_06",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 461,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程07",
+    "desc": "前传线-做饭过程07\n",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_07",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 462,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程08_a",
+    "desc": "前传线-做饭过程08_a",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_08_a",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 463,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程08_b",
+    "desc": "前传线-做饭过程08_b",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_08_b",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 464,
+    "m_scenario_options": [],
+    "name": "前传线-做饭过程05",
+    "desc": "前传线-做饭过程05\n",
+    "scenario": "scenario_cook_2",
+    "playable": "scenario_cook_2_05",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 465,
+    "m_scenario_options": [],
+    "name": "米格尔羁绊1",
+    "desc": "米格尔羁绊01",
+    "scenario": "scenario_friendship_hpapalmercenaryleader",
+    "playable": "scenario_friendship_hpapalmercenaryleader_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 466,
+    "m_scenario_options": [],
+    "name": "米格尔羁绊2",
+    "desc": "米格尔羁绊02",
+    "scenario": "scenario_friendship_hpapalmercenaryleader",
+    "playable": "scenario_friendship_hpapalmercenaryleader_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 467,
+    "m_scenario_options": [],
+    "name": "嘉西娅羁绊1",
+    "desc": "嘉西娅羁绊1",
+    "scenario": "scenario_friendship_hpapaljudgercfset",
+    "playable": "scenario_friendship_hpapaljudgercfset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 468,
+    "m_scenario_options": [],
+    "name": "嘉西娅羁绊2",
+    "desc": "嘉西娅羁绊2",
+    "scenario": "scenario_friendship_hpapaljudgercfset",
+    "playable": "scenario_friendship_hpapaljudgercfset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 469,
+    "m_scenario_options": [],
+    "name": "萨曼莎羁绊1",
+    "desc": "萨曼莎羁绊1",
+    "scenario": "scenario_fs_hpapalsamanthafset",
+    "playable": "scenario_fs_hpapalsamanthafset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 470,
+    "m_scenario_options": [],
+    "name": "萨曼莎羁绊2",
+    "desc": "萨曼莎羁绊2",
+    "scenario": "scenario_fs_hpapalsamanthafset",
+    "playable": "scenario_fs_hpapalsamanthafset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 471,
+    "m_scenario_options": [],
+    "name": "伊奇羁绊1",
+    "desc": "伊奇羁绊1",
+    "scenario": "scenario_fs_hvildergraywolfmset",
+    "playable": "scenario_fs_hvildergraywolfmset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 472,
+    "m_scenario_options": [],
+    "name": "伊奇羁绊2",
+    "desc": "伊奇羁绊2",
+    "scenario": "scenario_fs_hvildergraywolfmset",
+    "playable": "scenario_fs_hvildergraywolfmset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 473,
+    "m_scenario_options": [],
+    "name": "科尔羁绊2",
+    "desc": "科尔羁绊2",
+    "scenario": "scenario_fs_hbanditthemaskmset",
+    "playable": "scenario_fs_hbanditthemaskmset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 474,
+    "m_scenario_options": [],
+    "name": "科尔羁绊1",
+    "desc": "科尔羁绊1",
+    "scenario": "scenario_fs_hbanditthemaskmset",
+    "playable": "scenario_fs_hbanditthemaskmset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 475,
+    "m_scenario_options": [],
+    "name": "莉莉薇儿羁绊1",
+    "desc": "莉莉薇儿羁绊1",
+    "scenario": "scenario_fs_hvildersisterchieffset",
+    "playable": "scenario_fs_hvildersisterchieffset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 476,
+    "m_scenario_options": [],
+    "name": "莉莉薇儿羁绊2",
+    "desc": "莉莉薇儿羁绊2",
+    "scenario": "scenario_fs_hvildersisterchieffset",
+    "playable": "scenario_fs_hvildersisterchieffset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 477,
+    "m_scenario_options": [],
+    "name": "埃拉曼制作名单",
+    "desc": "埃拉曼制作名单",
+    "scenario": "scenario_staff_alm",
+    "playable": "scenario_staff_alm",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 478,
+    "m_scenario_options": [],
+    "name": "古兹曼羁绊1",
+    "desc": "古兹曼羁绊1",
+    "scenario": "scenario_friendship_hdarklightdarkknight",
+    "playable": "scenario_friendship_hdarklightdarkknight_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 479,
+    "m_scenario_options": [],
+    "name": "古兹曼羁绊2",
+    "desc": "古兹曼羁绊2",
+    "scenario": "scenario_friendship_hdarklightdarkknight",
+    "playable": "scenario_friendship_hdarklightdarkknight_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 480,
+    "m_scenario_options": [],
+    "name": "大活3-许愿冰箱",
+    "desc": "",
+    "scenario": "scenario_s_battle000_012-spcl_a",
+    "playable": "scenario_s_battle000_012_xybx",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 481,
+    "m_scenario_options": [],
+    "name": "大活3-冰箱失窃案",
+    "desc": "",
+    "scenario": "scenario_s_battle000_012-spcl_a",
+    "playable": "scenario_s_battle000_012_bxsqa",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 482,
+    "m_scenario_options": [],
+    "name": "大活3-乐园大危机",
+    "desc": "",
+    "scenario": "scenario_battle000_012-spcl",
+    "playable": "scenario_battle000_actlydwj",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 483,
+    "m_scenario_options": [],
+    "name": "大活3-愿望实现的不完美时空",
+    "desc": "",
+    "scenario": "scenario_battle000_012-spcl",
+    "playable": "scenario_battle000_actbwmsk",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 495,
+    "m_scenario_options": [],
+    "name": "伦伽勒羁绊1",
+    "desc": "伦伽勒羁绊1",
+    "scenario": "scenario_fs_hpolicetwinsfset",
+    "playable": "scenario_fs_hpolicetwinsfset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 496,
+    "m_scenario_options": [],
+    "name": "内尔伽勒羁绊1",
+    "desc": "内尔伽勒羁绊1",
+    "scenario": "scenario_fs_hpolicetwinsmset",
+    "playable": "scenario_fs_hpolicetwinsmset_01",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 497,
+    "m_scenario_options": [],
+    "name": "伦伽勒羁绊2",
+    "desc": "伦伽勒羁绊2",
+    "scenario": "scenario_fs_hpolicetwinsfset",
+    "playable": "scenario_fs_hpolicetwinsfset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  },
+  {
+    "id": 498,
+    "m_scenario_options": [],
+    "name": "内尔伽勒羁绊2",
+    "desc": "内尔伽勒羁绊2",
+    "scenario": "scenario_fs_hpolicetwinsmset",
+    "playable": "scenario_fs_hpolicetwinsmset_02",
+    "ambient": 0,
+    "tarot_id": 0
+  }
+]

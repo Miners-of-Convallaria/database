@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "idonline_guild_challenge": 1,
+    "min_score": 0,
+    "max_score": 10,
+    "treasure_type": 21,
+    "treasure_param0": 0,
+    "treasure_param1": 10,
+    "treasure_sparam": ""
+  },
+  {
+    "id": 2,
+    "idonline_guild_challenge": 1,
+    "min_score": 11,
+    "max_score": 12,
+    "treasure_type": 22,
+    "treasure_param0": 0,
+    "treasure_param1": 10,
+    "treasure_sparam": ""
+  }
+]

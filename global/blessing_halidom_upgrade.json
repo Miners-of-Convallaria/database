@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 1,
+    "idlevel": 1,
+    "desc": "集体赐福仪式晶能回复+5，晶能上限+15。",
+    "system_tech_upgrade_ids": "2363|2364"
+  },
+  {
+    "id": 2,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 1,
+    "idlevel": 2,
+    "desc": "集体赐福仪式晶能回复+10，晶能上限+30。",
+    "system_tech_upgrade_ids": "2365|2366"
+  },
+  {
+    "id": 3,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 1,
+    "idlevel": 3,
+    "desc": "集体赐福仪式晶能回复+15，晶能上限+45。",
+    "system_tech_upgrade_ids": "2367|2368"
+  },
+  {
+    "id": 4,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 1,
+    "idlevel": 4,
+    "desc": "集体赐福仪式晶能回复+30，晶能上限+90。",
+    "system_tech_upgrade_ids": "2369|2370"
+  },
+  {
+    "id": 5,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 2,
+    "idlevel": 1,
+    "desc": "集体赐福仪式赐福强度+1。",
+    "system_tech_upgrade_ids": "2371"
+  },
+  {
+    "id": 6,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 2,
+    "idlevel": 2,
+    "desc": "集体赐福仪式赐福强度突破至最高级。",
+    "system_tech_upgrade_ids": "2372"
+  },
+  {
+    "id": 7,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 3,
+    "idlevel": 1,
+    "desc": "至诚庇护仪式晶能回复+5。",
+    "system_tech_upgrade_ids": "2373"
+  },
+  {
+    "id": 8,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 3,
+    "idlevel": 2,
+    "desc": "至诚庇护仪式晶能回复+10。",
+    "system_tech_upgrade_ids": "2374"
+  },
+  {
+    "id": 9,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 3,
+    "idlevel": 3,
+    "desc": "至诚庇护仪式晶能回复+15。",
+    "system_tech_upgrade_ids": "2375"
+  },
+  {
+    "id": 10,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 3,
+    "idlevel": 4,
+    "desc": "至诚庇护仪式晶能回复+20。",
+    "system_tech_upgrade_ids": "2376"
+  },
+  {
+    "id": 11,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 3,
+    "idlevel": 5,
+    "desc": "至诚庇护仪式晶能回复+30。",
+    "system_tech_upgrade_ids": "2377"
+  },
+  {
+    "id": 12,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 4,
+    "idlevel": 1,
+    "desc": "至诚庇护仪式晶能上限+15。",
+    "system_tech_upgrade_ids": "2378"
+  },
+  {
+    "id": 13,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 4,
+    "idlevel": 2,
+    "desc": "至诚庇护仪式晶能上限+30。",
+    "system_tech_upgrade_ids": "2379"
+  },
+  {
+    "id": 14,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 4,
+    "idlevel": 3,
+    "desc": "至诚庇护仪式晶能上限+45。",
+    "system_tech_upgrade_ids": "2380"
+  },
+  {
+    "id": 15,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 4,
+    "idlevel": 4,
+    "desc": "至诚庇护仪式晶能上限+60。",
+    "system_tech_upgrade_ids": "2381"
+  },
+  {
+    "id": 16,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 4,
+    "idlevel": 5,
+    "desc": "至诚庇护仪式晶能上限+90。",
+    "system_tech_upgrade_ids": "2382"
+  },
+  {
+    "id": 17,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 5,
+    "idlevel": 1,
+    "desc": "至诚庇护仪式的赐福持续周数+1。",
+    "system_tech_upgrade_ids": "2386"
+  },
+  {
+    "id": 18,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 5,
+    "idlevel": 2,
+    "desc": "至诚庇护仪式赐福强度+1，获取的赐福持续周数+1。",
+    "system_tech_upgrade_ids": "2384"
+  },
+  {
+    "id": 19,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 5,
+    "idlevel": 3,
+    "desc": "至诚庇护仪式赐福强度+2，获取的赐福持续周数+1。",
+    "system_tech_upgrade_ids": "2385"
+  },
+  {
+    "id": 20,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 6,
+    "idlevel": 1,
+    "desc": "至诚庇护仪式准备周数-1。",
+    "system_tech_upgrade_ids": "2387"
+  },
+  {
+    "id": 21,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 6,
+    "idlevel": 2,
+    "desc": "至诚庇护仪式准备周数-2。",
+    "system_tech_upgrade_ids": "2388"
+  },
+  {
+    "id": 22,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 6,
+    "idlevel": 3,
+    "desc": "至诚庇护仪式准备周数-3。",
+    "system_tech_upgrade_ids": "2389"
+  },
+  {
+    "id": 23,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 7,
+    "idlevel": 1,
+    "desc": "至诚庇护仪式光辉的眷顾几率+5%。",
+    "system_tech_upgrade_ids": "2390"
+  },
+  {
+    "id": 24,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 7,
+    "idlevel": 2,
+    "desc": "至诚庇护仪式光辉的眷顾几率+15%。",
+    "system_tech_upgrade_ids": "2391"
+  },
+  {
+    "id": 25,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 7,
+    "idlevel": 3,
+    "desc": "至诚庇护仪式光辉的眷顾几率+25%。",
+    "system_tech_upgrade_ids": "2392"
+  },
+  {
+    "id": 26,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 7,
+    "idlevel": 4,
+    "desc": "至诚庇护仪式光辉的眷顾几率+35%。",
+    "system_tech_upgrade_ids": "2393"
+  },
+  {
+    "id": 27,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 7,
+    "idlevel": 5,
+    "desc": "至诚庇护仪式光辉的眷顾几率+50%。",
+    "system_tech_upgrade_ids": "2394"
+  },
+  {
+    "id": 28,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 8,
+    "idlevel": 1,
+    "desc": "至诚庇护仪式晶能消耗-5%。",
+    "system_tech_upgrade_ids": "2395"
+  },
+  {
+    "id": 29,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 8,
+    "idlevel": 2,
+    "desc": "至诚庇护仪式晶能消耗-15%。",
+    "system_tech_upgrade_ids": "2396"
+  },
+  {
+    "id": 30,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 8,
+    "idlevel": 3,
+    "desc": "至诚庇护仪式晶能消耗-25%。",
+    "system_tech_upgrade_ids": "2397"
+  },
+  {
+    "id": 31,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 8,
+    "idlevel": 4,
+    "desc": "至诚庇护仪式晶能消耗-35%。",
+    "system_tech_upgrade_ids": "2398"
+  },
+  {
+    "id": 32,
+    "m_blessing_halidom_upgrade_consumes": [],
+    "m_system_tech_upgrades": [],
+    "idblessing_halidom": 8,
+    "idlevel": 5,
+    "desc": "至诚庇护仪式晶能消耗-50%。",
+    "system_tech_upgrade_ids": "2399"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "type": "Normal",
+    "name": "普通"
+  },
+  {
+    "id": 1,
+    "type": "Extra",
+    "name": "额外"
+  },
+  {
+    "id": 2,
+    "type": "First",
+    "name": "首通"
+  },
+  {
+    "id": 3,
+    "type": "Star",
+    "name": "星级"
+  },
+  {
+    "id": 4,
+    "type": "Challenge",
+    "name": "挑战"
+  },
+  {
+    "id": 5,
+    "type": "High",
+    "name": "高倍"
+  },
+  {
+    "id": 6,
+    "type": "Difference",
+    "name": "周常本差值奖励"
+  },
+  {
+    "id": 7,
+    "type": "CharacterTitle",
+    "name": "佣兵团评级"
+  },
+  {
+    "id": 8,
+    "type": "MonthlyCard",
+    "name": "月卡奖励"
+  },
+  {
+    "id": 9,
+    "type": "CommerceOpportunity",
+    "name": "贸易机会"
+  },
+  {
+    "id": 10,
+    "type": "Commerce",
+    "name": "商会"
+  },
+  {
+    "id": 11,
+    "type": "Mercenary",
+    "name": "佣兵团"
+  },
+  {
+    "id": 12,
+    "type": "CommerceGrading",
+    "name": "商会评级"
+  }
+]

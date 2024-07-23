@@ -1,0 +1,222 @@
+[
+  {
+    "id": 34,
+    "m_system_redirects": [],
+    "name": "白金粉碎勋章",
+    "editor_name": "进阶材料SSR_1",
+    "desc": "用于粉碎者角色升阶的最高级材料。",
+    "rarity": 4,
+    "order_id": 6101,
+    "system_redirect_ids": "2402",
+    "icon": "fensui_ssr"
+  },
+  {
+    "id": 35,
+    "m_system_redirects": [],
+    "name": "黄金粉碎勋章",
+    "editor_name": "进阶材料SR_1",
+    "desc": "用于粉碎者角色升阶的高级材料。",
+    "rarity": 3,
+    "order_id": 6201,
+    "system_redirect_ids": "2402",
+    "icon": "fensui_sr"
+  },
+  {
+    "id": 36,
+    "m_system_redirects": [],
+    "name": "白银粉碎勋章",
+    "editor_name": "进阶材料R_1",
+    "desc": "用于粉碎者角色升阶的中级材料。",
+    "rarity": 2,
+    "order_id": 6301,
+    "system_redirect_ids": "2402",
+    "icon": "fensui_r"
+  },
+  {
+    "id": 37,
+    "m_system_redirects": [],
+    "name": "青铜粉碎勋章",
+    "editor_name": "进阶材料N_1",
+    "desc": "用于粉碎者角色升阶的低级材料。",
+    "rarity": 1,
+    "order_id": 6401,
+    "system_redirect_ids": "2402",
+    "icon": "fensui_n"
+  },
+  {
+    "id": 38,
+    "m_system_redirects": [],
+    "name": "白金防御勋章",
+    "editor_name": "进阶材料SSR_3",
+    "desc": "用于防御者角色升阶的最高级材料。",
+    "rarity": 4,
+    "order_id": 6102,
+    "system_redirect_ids": "2404",
+    "icon": "fangyu_ssr"
+  },
+  {
+    "id": 40,
+    "m_system_redirects": [],
+    "name": "黄金防御勋章",
+    "editor_name": "进阶材料SR_3",
+    "desc": "用于防御者角色升阶的高级材料。",
+    "rarity": 3,
+    "order_id": 6202,
+    "system_redirect_ids": "2404",
+    "icon": "fangyu_sr"
+  },
+  {
+    "id": 41,
+    "m_system_redirects": [],
+    "name": "白银防御勋章",
+    "editor_name": "进阶材料R_3",
+    "desc": "用于防御者角色升阶的中级材料。",
+    "rarity": 2,
+    "order_id": 6302,
+    "system_redirect_ids": "2404",
+    "icon": "fangyu_r"
+  },
+  {
+    "id": 43,
+    "m_system_redirects": [],
+    "name": "青铜防御勋章",
+    "editor_name": "进阶材料N_3",
+    "desc": "用于防御者角色升阶的低级材料。",
+    "rarity": 1,
+    "order_id": 6402,
+    "system_redirect_ids": "2404",
+    "icon": "fangyu_n"
+  },
+  {
+    "id": 44,
+    "m_system_redirects": [],
+    "name": "白金突袭勋章",
+    "editor_name": "进阶材料SSR_2",
+    "desc": "用于突袭者角色升阶的最高级材料。",
+    "rarity": 4,
+    "order_id": 6103,
+    "system_redirect_ids": "2403",
+    "icon": "tuxi_ssr"
+  },
+  {
+    "id": 45,
+    "m_system_redirects": [],
+    "name": "黄金突袭勋章",
+    "editor_name": "进阶材料SR_2",
+    "desc": "用于突袭者角色升阶的高级材料。",
+    "rarity": 3,
+    "order_id": 6203,
+    "system_redirect_ids": "2403",
+    "icon": "tuxi_sr"
+  },
+  {
+    "id": 46,
+    "m_system_redirects": [],
+    "name": "白银突袭勋章",
+    "editor_name": "进阶材料R_2",
+    "desc": "用于突袭者角色升阶的中级材料。",
+    "rarity": 2,
+    "order_id": 6303,
+    "system_redirect_ids": "2403",
+    "icon": "tuxi_r"
+  },
+  {
+    "id": 47,
+    "m_system_redirects": [],
+    "name": "青铜突袭勋章",
+    "editor_name": "进阶材料N_2",
+    "desc": "用于突袭者角色升阶的低级材料。",
+    "rarity": 1,
+    "order_id": 6403,
+    "system_redirect_ids": "2403",
+    "icon": "tuxi_n"
+  },
+  {
+    "id": 48,
+    "m_system_redirects": [],
+    "name": "白金毁灭勋章",
+    "editor_name": "进阶材料SSR_4",
+    "desc": "用于毁灭者角色升阶的最高级材料。",
+    "rarity": 4,
+    "order_id": 6104,
+    "system_redirect_ids": "2405",
+    "icon": "huimie_ssr"
+  },
+  {
+    "id": 49,
+    "m_system_redirects": [],
+    "name": "黄金毁灭勋章",
+    "editor_name": "进阶材料SR_4",
+    "desc": "用于毁灭者角色升阶的高级材料。",
+    "rarity": 3,
+    "order_id": 6204,
+    "system_redirect_ids": "2405",
+    "icon": "huimie_sr"
+  },
+  {
+    "id": 50,
+    "m_system_redirects": [],
+    "name": "白银毁灭勋章",
+    "editor_name": "进阶材料R_4",
+    "desc": "用于毁灭者角色升阶的中级材料。",
+    "rarity": 2,
+    "order_id": 6304,
+    "system_redirect_ids": "2405",
+    "icon": "huimie_r"
+  },
+  {
+    "id": 51,
+    "m_system_redirects": [],
+    "name": "青铜毁灭勋章",
+    "editor_name": "进阶材料N_4",
+    "desc": "用于毁灭者角色升阶的低级材料。",
+    "rarity": 1,
+    "order_id": 6404,
+    "system_redirect_ids": "2405",
+    "icon": "huimie_n"
+  },
+  {
+    "id": 52,
+    "m_system_redirects": [],
+    "name": "白金守望勋章",
+    "editor_name": "进阶材料SSR_5",
+    "desc": "用于守望者角色升阶的最高级材料。",
+    "rarity": 4,
+    "order_id": 6105,
+    "system_redirect_ids": "2406",
+    "icon": "shouwang_ssr"
+  },
+  {
+    "id": 53,
+    "m_system_redirects": [],
+    "name": "黄金守望勋章",
+    "editor_name": "进阶材料SR_5",
+    "desc": "用于守望者角色升阶的高级材料。",
+    "rarity": 3,
+    "order_id": 6205,
+    "system_redirect_ids": "2406",
+    "icon": "shouwang_sr"
+  },
+  {
+    "id": 54,
+    "m_system_redirects": [],
+    "name": "白银守望勋章",
+    "editor_name": "进阶材料R_5",
+    "desc": "用于守望者角色升阶的中级材料。",
+    "rarity": 2,
+    "order_id": 6305,
+    "system_redirect_ids": "2406",
+    "icon": "shouwang_r"
+  },
+  {
+    "id": 55,
+    "m_system_redirects": [],
+    "name": "青铜守望勋章",
+    "editor_name": "进阶材料N_5",
+    "desc": "用于守望者角色升阶的低级材料。",
+    "rarity": 1,
+    "order_id": 6405,
+    "system_redirect_ids": "2406",
+    "icon": "shouwang_n"
+  }
+]
