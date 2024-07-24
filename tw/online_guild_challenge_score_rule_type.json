@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "EveryOne",
+    "name": "参与积分",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 2,
+    "type": "PowerRange",
+    "name": "战力范围积分",
+    "param0_name": "最低战力范围百分比",
+    "param0_type": "",
+    "param1_name": "最高战力范围百分比",
+    "param1_type": ""
+  }
+]

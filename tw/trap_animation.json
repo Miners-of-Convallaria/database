@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "idtrap": 1,
+    "name": "attack1",
+    "idanimation": 38
+  },
+  {
+    "id": 2,
+    "idtrap": 3,
+    "name": "attack1",
+    "idanimation": 38
+  },
+  {
+    "id": 3,
+    "idtrap": 11,
+    "name": "attack1",
+    "idanimation": 4117
+  },
+  {
+    "id": 4,
+    "idtrap": 12,
+    "name": "attck1",
+    "idanimation": 4130
+  },
+  {
+    "id": 5,
+    "idtrap": 19,
+    "name": "attack1",
+    "idanimation": 4117
+  },
+  {
+    "id": 6,
+    "idtrap": 26,
+    "name": "attack1",
+    "idanimation": 4705
+  },
+  {
+    "id": 7,
+    "idtrap": 27,
+    "name": "attack1",
+    "idanimation": 4705
+  },
+  {
+    "id": 8,
+    "idtrap": 28,
+    "name": "attack1",
+    "idanimation": 4705
+  },
+  {
+    "id": 9,
+    "idtrap": 23,
+    "name": "attack1",
+    "idanimation": 4694
+  },
+  {
+    "id": 10,
+    "idtrap": 24,
+    "name": "attack1",
+    "idanimation": 4694
+  },
+  {
+    "id": 11,
+    "idtrap": 25,
+    "name": "attack1",
+    "idanimation": 4694
+  },
+  {
+    "id": 12,
+    "idtrap": 13,
+    "name": "attack1",
+    "idanimation": 4696
+  },
+  {
+    "id": 13,
+    "idtrap": 14,
+    "name": "attack1",
+    "idanimation": 4696
+  },
+  {
+    "id": 14,
+    "idtrap": 15,
+    "name": "attack1",
+    "idanimation": 4696
+  },
+  {
+    "id": 15,
+    "idtrap": 30,
+    "name": "attack1",
+    "idanimation": 4694
+  },
+  {
+    "id": 16,
+    "idtrap": 17,
+    "name": "attack1",
+    "idanimation": 4694
+  },
+  {
+    "id": 18,
+    "idtrap": 33,
+    "name": "attack",
+    "idanimation": 38
+  },
+  {
+    "id": 19,
+    "idtrap": 31,
+    "name": "attack1",
+    "idanimation": 5026
+  },
+  {
+    "id": 22,
+    "idtrap": 36,
+    "name": "attack1",
+    "idanimation": 38
+  },
+  {
+    "id": 23,
+    "idtrap": 37,
+    "name": "attack1",
+    "idanimation": 38
+  },
+  {
+    "id": 24,
+    "idtrap": 41,
+    "name": "attack1",
+    "idanimation": 5877
+  },
+  {
+    "id": 25,
+    "idtrap": 32,
+    "name": "attack1",
+    "idanimation": 5652
+  },
+  {
+    "id": 26,
+    "idtrap": 50,
+    "name": "attack1",
+    "idanimation": 5877
+  },
+  {
+    "id": 27,
+    "idtrap": 54,
+    "name": "attack1",
+    "idanimation": 5877
+  },
+  {
+    "id": 28,
+    "idtrap": 56,
+    "name": "attack1",
+    "idanimation": 5871
+  },
+  {
+    "id": 29,
+    "idtrap": 51,
+    "name": "attack1",
+    "idanimation": 5878
+  },
+  {
+    "id": 30,
+    "idtrap": 52,
+    "name": "attack1",
+    "idanimation": 5878
+  },
+  {
+    "id": 31,
+    "idtrap": 53,
+    "name": "attack1",
+    "idanimation": 5878
+  },
+  {
+    "id": 32,
+    "idtrap": 33,
+    "name": "appear",
+    "idanimation": 5221
+  },
+  {
+    "id": 33,
+    "idtrap": 66,
+    "name": "attack1",
+    "idanimation": 4118
+  },
+  {
+    "id": 35,
+    "idtrap": 1,
+    "name": "attack1",
+    "idanimation": 5871
+  },
+  {
+    "id": 36,
+    "idtrap": 36,
+    "name": "attack1",
+    "idanimation": 5871
+  },
+  {
+    "id": 52,
+    "idtrap": 18,
+    "name": "attack1",
+    "idanimation": 5871
+  },
+  {
+    "id": 53,
+    "idtrap": 68,
+    "name": "attack1",
+    "idanimation": 4117
+  },
+  {
+    "id": 54,
+    "idtrap": 70,
+    "name": "attack1",
+    "idanimation": 4117
+  },
+  {
+    "id": 55,
+    "idtrap": 74,
+    "name": "attack1",
+    "idanimation": 4696
+  },
+  {
+    "id": 56,
+    "idtrap": 76,
+    "name": "attack1",
+    "idanimation": 5877
+  },
+  {
+    "id": 57,
+    "idtrap": 75,
+    "name": "attack1",
+    "idanimation": 4694
+  },
+  {
+    "id": 58,
+    "idtrap": 84,
+    "name": "attack1",
+    "idanimation": 4118
+  },
+  {
+    "id": 59,
+    "idtrap": 86,
+    "name": "attack1",
+    "idanimation": 4694
+  },
+  {
+    "id": 60,
+    "idtrap": 86,
+    "name": "appear",
+    "idanimation": 2208
+  }
+]

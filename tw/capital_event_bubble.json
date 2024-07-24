@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "烹饪",
+    "prefab_name": "Event_Cook",
+    "editor_name": "前传线-烹饪"
+  },
+  {
+    "id": 2,
+    "name": "调查",
+    "prefab_name": "Event_Check",
+    "editor_name": "前传线-调查"
+  }
+]

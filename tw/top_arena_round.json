@@ -1,0 +1,202 @@
+[
+  {
+    "id": 78,
+    "name": "回合1",
+    "round": 1,
+    "player_pos": 1,
+    "round_type": 2,
+    "unit_count": 1,
+    "desc": "ban对手1人",
+    "unitTotal": 1
+  },
+  {
+    "id": 79,
+    "name": "回合2",
+    "round": 2,
+    "player_pos": 2,
+    "round_type": 2,
+    "unit_count": 1,
+    "desc": "ban对手1人",
+    "unitTotal": 2
+  },
+  {
+    "id": 80,
+    "name": "回合3",
+    "round": 3,
+    "player_pos": 1,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 3
+  },
+  {
+    "id": 81,
+    "name": "回合4",
+    "round": 4,
+    "player_pos": 2,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 5
+  },
+  {
+    "id": 82,
+    "name": "回合5",
+    "round": 5,
+    "player_pos": 2,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 6
+  },
+  {
+    "id": 83,
+    "name": "回合6",
+    "round": 6,
+    "player_pos": 1,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 8
+  },
+  {
+    "id": 84,
+    "name": "回合7",
+    "round": 7,
+    "player_pos": 1,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 9
+  },
+  {
+    "id": 85,
+    "name": "回合8",
+    "round": 8,
+    "player_pos": 2,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 11
+  },
+  {
+    "id": 86,
+    "name": "回合9",
+    "round": 9,
+    "player_pos": 2,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 12
+  },
+  {
+    "id": 87,
+    "name": "回合10",
+    "round": 10,
+    "player_pos": 1,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 14
+  },
+  {
+    "id": 88,
+    "name": "回合11",
+    "round": 11,
+    "player_pos": 1,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 15
+  },
+  {
+    "id": 89,
+    "name": "回合12",
+    "round": 12,
+    "player_pos": 2,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 17
+  },
+  {
+    "id": 90,
+    "name": "回合13",
+    "round": 13,
+    "player_pos": 2,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 18
+  },
+  {
+    "id": 91,
+    "name": "回合14",
+    "round": 14,
+    "player_pos": 1,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 20
+  },
+  {
+    "id": 92,
+    "name": "回合15",
+    "round": 15,
+    "player_pos": 1,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 21
+  },
+  {
+    "id": 93,
+    "name": "回合16",
+    "round": 16,
+    "player_pos": 2,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 23
+  },
+  {
+    "id": 94,
+    "name": "回合17",
+    "round": 17,
+    "player_pos": 2,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 24
+  },
+  {
+    "id": 95,
+    "name": "回合18",
+    "round": 18,
+    "player_pos": 1,
+    "round_type": 2,
+    "unit_count": 2,
+    "desc": "ban对手2人",
+    "unitTotal": 26
+  },
+  {
+    "id": 96,
+    "name": "回合19",
+    "round": 19,
+    "player_pos": 1,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 27
+  },
+  {
+    "id": 97,
+    "name": "回合20",
+    "round": 20,
+    "player_pos": 2,
+    "round_type": 1,
+    "unit_count": 1,
+    "desc": "选择上阵角色1人",
+    "unitTotal": 28
+  }
+]

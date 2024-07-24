@@ -1,0 +1,322 @@
+[
+  {
+    "id": 3,
+    "name": "被击退辅助特效",
+    "idunit_model": 0,
+    "type": 3,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 59
+  },
+  {
+    "id": 4,
+    "name": "跳劈专用专用烟雾",
+    "idunit_model": 0,
+    "type": 4,
+    "start_effect": 62,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 5,
+    "name": "守卫冲锋",
+    "idunit_model": 15,
+    "type": 5,
+    "start_effect": 70,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 28,
+    "name": "冲锋过程烟雾",
+    "idunit_model": 0,
+    "type": 5,
+    "start_effect": 70,
+    "end_effect": 0,
+    "step_effect": 455,
+    "unit_effect": 0
+  },
+  {
+    "id": 30,
+    "name": "副团长冲锋",
+    "idunit_model": 18,
+    "type": 5,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 46,
+    "name": "狂战跳劈",
+    "idunit_model": 44,
+    "type": 4,
+    "start_effect": 62,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 63,
+    "name": "飞索自己",
+    "idunit_model": 0,
+    "type": 1,
+    "start_effect": 39,
+    "end_effect": 40,
+    "step_effect": 455,
+    "unit_effect": 39
+  },
+  {
+    "id": 64,
+    "name": "飞索他人",
+    "idunit_model": 0,
+    "type": 2,
+    "start_effect": 39,
+    "end_effect": 40,
+    "step_effect": 39,
+    "unit_effect": 39
+  },
+  {
+    "id": 67,
+    "name": "冲锋",
+    "idunit_model": 42,
+    "type": 5,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 455,
+    "unit_effect": 0
+  },
+  {
+    "id": 69,
+    "name": "冲锋",
+    "idunit_model": 46,
+    "type": 5,
+    "start_effect": 70,
+    "end_effect": 0,
+    "step_effect": 455,
+    "unit_effect": 0
+  },
+  {
+    "id": 70,
+    "name": "飞索-自己",
+    "idunit_model": 46,
+    "type": 1,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 455,
+    "unit_effect": 0
+  },
+  {
+    "id": 71,
+    "name": "飞索-他人",
+    "idunit_model": 46,
+    "type": 2,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 455,
+    "unit_effect": 0
+  },
+  {
+    "id": 72,
+    "name": "击退",
+    "idunit_model": 46,
+    "type": 3,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 59
+  },
+  {
+    "id": 73,
+    "name": "出屏起跳烟雾",
+    "idunit_model": 0,
+    "type": 6,
+    "start_effect": 62,
+    "end_effect": 468,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 74,
+    "name": "普通起跳烟雾",
+    "idunit_model": 0,
+    "type": 7,
+    "start_effect": 39,
+    "end_effect": 468,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 75,
+    "name": "出屏幕起跳烟雾",
+    "idunit_model": 0,
+    "type": 8,
+    "start_effect": 62,
+    "end_effect": 468,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 76,
+    "name": "普通起跳烟雾",
+    "idunit_model": 0,
+    "type": 9,
+    "start_effect": 39,
+    "end_effect": 468,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 78,
+    "name": "冲锋都是烟",
+    "idunit_model": 51,
+    "type": 5,
+    "start_effect": 455,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 79,
+    "name": "火焰冲锋",
+    "idunit_model": 11,
+    "type": 5,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 294,
+    "unit_effect": 0
+  },
+  {
+    "id": 80,
+    "name": "火焰冲锋",
+    "idunit_model": 20,
+    "type": 5,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 294,
+    "unit_effect": 0
+  },
+  {
+    "id": 93,
+    "name": "塔罗轮子怪冲锋过程烟雾",
+    "idunit_model": 95,
+    "type": 5,
+    "start_effect": 70,
+    "end_effect": 0,
+    "step_effect": 730,
+    "unit_effect": 0
+  },
+  {
+    "id": 94,
+    "name": "通用烟雾弹出场",
+    "idunit_model": 0,
+    "type": 10,
+    "start_effect": 44,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 95,
+    "name": "通用烟雾弹退场",
+    "idunit_model": 0,
+    "type": 11,
+    "start_effect": 44,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 100,
+    "name": "伊利亚火法特殊出场",
+    "idunit_model": 20,
+    "type": 10,
+    "start_effect": 502,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 101,
+    "name": "伊利亚火法特殊退场",
+    "idunit_model": 20,
+    "type": 11,
+    "start_effect": 21,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 104,
+    "name": "图腾出现",
+    "idunit_model": 147,
+    "type": 10,
+    "start_effect": 786,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 108,
+    "name": "审判者C飞索",
+    "idunit_model": 164,
+    "type": 2,
+    "start_effect": 0,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 109,
+    "name": "冲锋过程烟雾_光辉卫士长",
+    "idunit_model": 184,
+    "type": 5,
+    "start_effect": 1422,
+    "end_effect": 0,
+    "step_effect": 455,
+    "unit_effect": 0
+  },
+  {
+    "id": 110,
+    "name": "星星特殊出场",
+    "idunit_model": 130,
+    "type": 10,
+    "start_effect": 403,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 111,
+    "name": "图腾出现",
+    "idunit_model": 212,
+    "type": 10,
+    "start_effect": 786,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  },
+  {
+    "id": 112,
+    "name": "舞团舞娘冲锋过程烟雾",
+    "idunit_model": 158,
+    "type": 5,
+    "start_effect": 70,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 1672
+  },
+  {
+    "id": 114,
+    "name": "火球出场",
+    "idunit_model": 278,
+    "type": 10,
+    "start_effect": 502,
+    "end_effect": 0,
+    "step_effect": 0,
+    "unit_effect": 0
+  }
+]

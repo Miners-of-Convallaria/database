@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "m_sandbox_show_treasures": [233, 227, 230],
+    "editor_name": "前传线阶段目标P1",
+    "title": "维护浪涌城的秩序",
+    "desc_before": "从小规模的案件入手，是重新认识这座城市最好的方式。去看见我们约定要保护的那一个个人，去听见他们真实的愿望吧， 无论前路是阳光还是风雨，我都会和你们并肩同行。",
+    "desc_after": "虽然失窃的血晶石还没有找到，但走私势力已经浮出水面。继续加油吧，我们一定可以改变这座城市。",
+    "target_value": 6,
+    "sandbox_show_treasure_ids": "233|227|230",
+    "treasure_type": 20,
+    "treasure_param0": 28,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P1"
+  },
+  {
+    "id": 2,
+    "m_sandbox_show_treasures": [233, 228, 230],
+    "editor_name": "前传线阶段目标P2",
+    "title": "找出血晶石的去向",
+    "desc_before": "虽然失窃的血晶石还没有找到，但走私势力已经浮出水面。继续加油吧，我们一定可以改变这座城市。",
+    "desc_after": "我知道你们不会被一点风浪轻易吓退，这艘“小破船”有了你们，一定能驶向更远的地方。",
+    "target_value": 6,
+    "sandbox_show_treasure_ids": "233|228|230",
+    "treasure_type": 20,
+    "treasure_param0": 29,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P2"
+  },
+  {
+    "id": 3,
+    "m_sandbox_show_treasures": [234, 229, 230],
+    "editor_name": "前传线阶段目标P3",
+    "title": "追查名单揭示的罪恶",
+    "desc_before": "我知道你们不会被一点风浪轻易吓退，这艘“小破船”有了你们，一定能驶向更远的地方。",
+    "desc_after": "不要气馁哦，我们的战斗不是为了一时的胜负，而是为了浪涌城的光明。",
+    "target_value": 6,
+    "sandbox_show_treasure_ids": "234|229|230",
+    "treasure_type": 20,
+    "treasure_param0": 30,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P3"
+  },
+  {
+    "id": 4,
+    "m_sandbox_show_treasures": [234, 229, 230],
+    "editor_name": "前传线阶段目标P4",
+    "title": "查清名单案的真相",
+    "desc_before": "不要气馁哦，我们的战斗不是为了一时的胜负，而是为了浪涌城的光明。",
+    "desc_after": "继续战斗吧，就当是替我；我相信终有一天，老幼妇孺都能行走在浪涌城的夜晚，而心中没有恐惧。",
+    "target_value": 6,
+    "sandbox_show_treasure_ids": "234|229|230",
+    "treasure_type": 20,
+    "treasure_param0": 31,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P4"
+  },
+  {
+    "id": 5,
+    "m_sandbox_show_treasures": [],
+    "editor_name": "前传线阶段目标P5",
+    "title": "继续查清名单案的真相",
+    "desc_before": "继续战斗吧，就当是替我；我相信终有一天，老幼妇孺都能行走在浪涌城的夜晚，而心中没有恐惧。",
+    "desc_after": "",
+    "target_value": 1,
+    "sandbox_show_treasure_ids": "",
+    "treasure_type": 20,
+    "treasure_param0": 32,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P5"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "type": "Auto",
+    "name": "自动"
+  },
+  {
+    "id": 2,
+    "type": "Switch",
+    "name": "开关关联"
+  },
+  {
+    "id": 3,
+    "type": "Stay",
+    "name": "停留"
+  }
+]

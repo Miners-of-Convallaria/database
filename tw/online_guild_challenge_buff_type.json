@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "type": "UnitTag",
+    "name": "阵营条件",
+    "param0_name": "数量",
+    "param0_type": "int",
+    "param1_name": "阵营",
+    "param1_type": "unit_tag"
+  },
+  {
+    "id": 2,
+    "type": "ProfessionCategory",
+    "name": "职业条件",
+    "param0_name": "数量",
+    "param0_type": "int",
+    "param1_name": "职业",
+    "param1_type": "profession_category"
+  },
+  {
+    "id": 3,
+    "type": "OnlineRoleUnit",
+    "name": "固定角色条件",
+    "param0_name": "数量",
+    "param0_type": "int",
+    "param1_name": "角色",
+    "param1_type": "online_role_unit"
+  }
+]

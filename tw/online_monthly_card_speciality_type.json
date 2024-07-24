@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "增加回溯次数",
+    "type": "AddBattleUndoCount",
+    "param0_name": "次数",
+    "param0_type": "int",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 2,
+    "name": "额外获得",
+    "type": "ExtraTreasure",
+    "param0_name": "类型",
+    "param0_type": "treasure_type",
+    "param1_name": "参数0",
+    "param1_type": "int",
+    "param2_name": "参数1",
+    "param2_type": "int"
+  },
+  {
+    "id": 3,
+    "name": "每日获得",
+    "type": "DailyTreasure",
+    "param0_name": "类型",
+    "param0_type": "treasure_type",
+    "param1_name": "参数0",
+    "param1_type": "int",
+    "param2_name": "参数1",
+    "param2_type": "int"
+  },
+  {
+    "id": 4,
+    "name": "解锁战令付费奖励",
+    "type": "UnlockBattlePassPurchaseTreasure",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 5,
+    "name": "战令等级提升",
+    "type": "BattlePassLevelUp",
+    "param0_name": "数量",
+    "param0_type": "int",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 6,
+    "name": "重复转换成",
+    "type": "ChangeToTreasure",
+    "param0_name": "类型",
+    "param0_type": "treasure_type",
+    "param1_name": "参数0",
+    "param1_type": "int",
+    "param2_name": "参数1",
+    "param2_type": "int"
+  }
+]

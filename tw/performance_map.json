@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1,
+    "name": "scene_city-os-duco00205",
+    "desc": "港都-城门-黄昏（战损）",
+    "type": 0
+  },
+  {
+    "id": 2,
+    "name": "scene_city-os-ni00208",
+    "desc": "港都-城门-夜晚（灰烬）",
+    "type": 0
+  },
+  {
+    "id": 3,
+    "name": "scene_home-fh-da00301",
+    "desc": "铃兰之丘 （眺望点+走道）白天",
+    "type": 0
+  },
+  {
+    "id": 4,
+    "name": "scene_home-fh-ni00201",
+    "desc": "铃兰之丘（墓园＋教堂）晚上",
+    "type": 0
+  },
+  {
+    "id": 5,
+    "name": "scene_home-fh-da00201",
+    "desc": "铃兰之丘（墓园＋教堂）白天",
+    "type": 0
+  },
+  {
+    "id": 6,
+    "name": "scene_home-fh-niri00201",
+    "desc": "铃兰之丘（墓园＋教堂）阴天",
+    "type": 0
+  },
+  {
+    "id": 7,
+    "name": "scene_home-fh-ni00301",
+    "desc": "铃兰之丘 （眺望点+走道）晚上",
+    "type": 0
+  },
+  {
+    "id": 8,
+    "name": "scene_home-fh-nico00301",
+    "desc": "铃兰之丘 （眺望点+走道）晚上阴天",
+    "type": 0
+  },
+  {
+    "id": 9,
+    "name": "scene_city-os-ni00108",
+    "desc": "港都-街道-夜晚（灰烬）",
+    "type": 0
+  },
+  {
+    "id": 10,
+    "name": "scene_home-pb-ni00109",
+    "desc": "铃兰小镇 -酒馆（庆功宴）",
+    "type": 0
+  },
+  {
+    "id": 11,
+    "name": "scene_home-pb-da00101",
+    "desc": "铃兰小镇 -酒馆-白天",
+    "type": 0
+  },
+  {
+    "id": 12,
+    "name": "scene_home-pb-ni00101",
+    "desc": "铃兰小镇-酒馆-夜晚",
+    "type": 0
+  },
+  {
+    "id": 13,
+    "name": "scene_home-pb-ni00105",
+    "desc": "铃兰小镇-酒馆（阴暗密谈）",
+    "type": 0
+  },
+  {
+    "id": 14,
+    "name": "scene_interior-ug-ni00101",
+    "desc": "空间-地牢",
+    "type": 0
+  },
+  {
+    "id": 15,
+    "name": "scene_interior-ug-ni00301",
+    "desc": "空间-地牢通道",
+    "type": 0
+  },
+  {
+    "id": 16,
+    "name": "scene_city-os-duco00305",
+    "desc": "港都-小巷-黄昏",
+    "type": 0
+  },
+  {
+    "id": 17,
+    "name": "scene_city-os-duco00105",
+    "desc": "港都-街道-黄昏(战损)",
+    "type": 0
+  },
+  {
+    "id": 18,
+    "name": "scene_city-os-da00401",
+    "desc": "港都-街道-白天（004）",
+    "type": 0
+  },
+  {
+    "id": 19,
+    "name": "scene_home-mh-da00101",
+    "desc": "铃兰小镇-佣兵大厅-白天",
+    "type": 0
+  },
+  {
+    "id": 20,
+    "name": "scene_home-mh-ni00101",
+    "desc": "铃兰小镇-佣兵大厅-夜晚",
+    "type": 0
+  },
+  {
+    "id": 21,
+    "name": "scene_home-mh-daco00101",
+    "desc": "铃兰小镇 -佣兵大厅-阴天",
+    "type": 0
+  },
+  {
+    "id": 22,
+    "name": "scene_home-os-da00101",
+    "desc": "铃兰小镇-小镇市场-白天",
+    "type": 0
+  },
+  {
+    "id": 23,
+    "name": "scene_home-os-da00201",
+    "desc": "铃兰小镇-喷泉广场-白天",
+    "type": 0
+  },
+  {
+    "id": 24,
+    "name": "scene_city-os-nisn00601",
+    "desc": "皇家庄园-晚上（小雪）",
+    "type": 0
+  },
+  {
+    "id": 25,
+    "name": "scene_interior-ug-ni00401",
+    "desc": "空间-皇家庄园密室",
+    "type": 0
+  },
+  {
+    "id": 26,
+    "name": "scene_city-os-da00701",
+    "desc": "刑场-白天（凡尔赛天台）",
+    "type": 0
+  },
+  {
+    "id": 27,
+    "name": "scene_city-os-niri00801",
+    "desc": "港口-大船-晚上（大雨）",
+    "type": 0
+  },
+  {
+    "id": 28,
+    "name": "scene_city-os-da00501",
+    "desc": "港口-白天（清晨）",
+    "type": 0
+  },
+  {
+    "id": 29,
+    "name": "scene_city-os-du00501",
+    "desc": "港口-黄昏",
+    "type": 0
+  },
+  {
+    "id": 30,
+    "name": "scene_city-os-niri00501",
+    "desc": "港口-夜晚（大雨）",
+    "type": 0
+  },
+  {
+    "id": 31,
+    "name": "scene_city-os-du00701",
+    "desc": "刑场-黄昏",
+    "type": 0
+  },
+  {
+    "id": 32,
+    "name": "scene_home-th-da00101",
+    "desc": "铃兰小镇-训练场",
+    "type": 0
+  },
+  {
+    "id": 33,
+    "name": "scene_home-os-da00301",
+    "desc": "铃兰小镇-小镇门口-白天",
+    "type": 0
+  },
+  {
+    "id": 34,
+    "name": "stage_cave-in-ni00101",
+    "desc": "战斗-晶石洞窟",
+    "type": 0
+  },
+  {
+    "id": 35,
+    "name": "stage_cave-in-ni00201",
+    "desc": "战斗-矿车矿场洞窟",
+    "type": 0
+  },
+  {
+    "id": 36,
+    "name": "stage_city-ca-da00101",
+    "desc": "战斗-要塞城墙之外（白天版）",
+    "type": 0
+  },
+  {
+    "id": 37,
+    "name": "stage_city-ca-du00101",
+    "desc": "战斗-要塞城墙之外（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 38,
+    "name": "stage_city-ca-ni00101",
+    "desc": "战斗-要塞城墙之外（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 39,
+    "name": "stage_city-ca-da00201",
+    "desc": "战斗-要塞城墙之内（白天版）",
+    "type": 0
+  },
+  {
+    "id": 40,
+    "name": "stage_city-ca-du00201",
+    "desc": "战斗-要塞城墙之内（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 41,
+    "name": "stage_city-ca-ni00201",
+    "desc": "战斗-要塞城墙之内（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 42,
+    "name": "stage_city-ca-da00301",
+    "desc": "战斗-要塞城墙之上（白天版）",
+    "type": 0
+  },
+  {
+    "id": 43,
+    "name": "stage_city-ca-du00301",
+    "desc": "战斗-要塞城墙之上（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 44,
+    "name": "stage_city-ca-ni00301",
+    "desc": "战斗-要塞城墙之上（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 45,
+    "name": "stage_city-ca-da00401",
+    "desc": "战斗-王都街道主题场景样板房",
+    "type": 0
+  },
+  {
+    "id": 46,
+    "name": "stage_city-os-da00101",
+    "desc": "战斗-普通城镇",
+    "type": 0
+  },
+  {
+    "id": 47,
+    "name": "stage_city-os-ni00101",
+    "desc": "战斗-港都-港口（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 48,
+    "name": "stage_city-os-da00201",
+    "desc": "战斗-普通港都城镇-1（白天版）",
+    "type": 0
+  },
+  {
+    "id": 49,
+    "name": "stage_city-os-du00201",
+    "desc": "战斗-普通港都城镇-1（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 50,
+    "name": "stage_city-os-ni00201",
+    "desc": "战斗-普通港都城镇-1（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 51,
+    "name": "stage_city-os-da00301",
+    "desc": "战斗-普通港都城镇-2（白天版）",
+    "type": 0
+  },
+  {
+    "id": 52,
+    "name": "stage_city-os-du00301",
+    "desc": "战斗-普通港都城镇-2（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 53,
+    "name": "stage_city-os-ni00301",
+    "desc": "战斗-普通港都城镇-2（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 54,
+    "name": "stage_city-os-da00401",
+    "desc": "战斗-普通港都城镇-3（白天版）",
+    "type": 0
+  },
+  {
+    "id": 55,
+    "name": "stage_city-os-du00401",
+    "desc": "战斗-普通港都城镇-3（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 56,
+    "name": "stage_city-os-ni00401",
+    "desc": "战斗-普通港都城镇-3（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 57,
+    "name": "stage_city-os-ni00501",
+    "desc": "战斗-普通城镇老版本（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 58,
+    "name": "stage_city-os-da00601",
+    "desc": "战斗-普通港都城镇-4（白天版）",
+    "type": 0
+  },
+  {
+    "id": 59,
+    "name": "stage_city-os-du00601",
+    "desc": "战斗-普通港都城镇-4（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 60,
+    "name": "stage_city-os-ni00601",
+    "desc": "战斗-普通港都城镇-4（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 61,
+    "name": "stage_city-os-da00701",
+    "desc": "战斗-港都码头城镇（白天版）",
+    "type": 0
+  },
+  {
+    "id": 62,
+    "name": "stage_city-os-du00701",
+    "desc": "战斗-港都码头城镇（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 63,
+    "name": "stage_city-os-ni00701",
+    "desc": "战斗-港都码头城镇（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 64,
+    "name": "stage_city-os-duco00802",
+    "desc": "战斗-港都-街道小巷（战损）（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 65,
+    "name": "stage_city-os-duco00902",
+    "desc": "战斗-港都-街道（战损）（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 66,
+    "name": "stage_city-os-ni00902",
+    "desc": "战斗-港都-街道（战损）（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 67,
+    "name": "stage_city-os-ni01002",
+    "desc": "战斗-港都-街道城门口（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 68,
+    "name": "stage_city-os-du01101",
+    "desc": "战斗-港都-刑场（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 69,
+    "name": "stage_city-os-da01101",
+    "desc": "战斗-港都-刑场（白天版）",
+    "type": 0
+  },
+  {
+    "id": 70,
+    "name": "stage_home-pb-ni00101",
+    "desc": "战斗-主城酒馆（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 71,
+    "name": "stage_home-th-da00101",
+    "desc": "战斗-主城训练场（白天版）",
+    "type": 0
+  },
+  {
+    "id": 72,
+    "name": "stage_interior-ca-da00101",
+    "desc": "战斗-王都王殿-样板房（室内）（白天版）",
+    "type": 0
+  },
+  {
+    "id": 73,
+    "name": "stage_interior-ca-da00201",
+    "desc": "战斗-王都议事大厅-样板房（室内）（白天版）",
+    "type": 0
+  },
+  {
+    "id": 74,
+    "name": "stage_interior-ug-ni00101",
+    "desc": "战斗-地牢",
+    "type": 0
+  },
+  {
+    "id": 75,
+    "name": "stage_interior-ug-ni00201",
+    "desc": "战斗-地牢通道",
+    "type": 0
+  },
+  {
+    "id": 76,
+    "name": "stage_mountain-os-da00101",
+    "desc": "战斗-普通山地1（白天版）",
+    "type": 0
+  },
+  {
+    "id": 77,
+    "name": "stage_mountain-os-da00201",
+    "desc": "战斗-普通山地2（白天版）",
+    "type": 0
+  },
+  {
+    "id": 78,
+    "name": "stage_mountain-os-du00301",
+    "desc": "战斗-普通山地3（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 79,
+    "name": "stage_plain-cp-da00101",
+    "desc": " 战斗-平原营地1（白天版）",
+    "type": 0
+  },
+  {
+    "id": 80,
+    "name": "stage_plain-cp-du00101",
+    "desc": "战斗-平原营地1（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 81,
+    "name": "stage_plain-cp-ni00102",
+    "desc": "战斗-平原营地1（夜晚战损版）",
+    "type": 0
+  },
+  {
+    "id": 82,
+    "name": "stage_plain-cp-da00201",
+    "desc": "战斗-平原营地2（白天版）",
+    "type": 0
+  },
+  {
+    "id": 83,
+    "name": "stage_plain-cp-du00201",
+    "desc": "战斗-平原营地2（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 84,
+    "name": "stage_plain-cp-ni00201",
+    "desc": "战斗-平原营地2（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 85,
+    "name": "stage_plain-cp-ni00301",
+    "desc": "战斗-平原营地3（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 86,
+    "name": "stage_plain-cp-ni00302",
+    "desc": "战斗-平原营地3（夜晚战损版）",
+    "type": 0
+  },
+  {
+    "id": 87,
+    "name": "stage_plain-cp-da00401",
+    "desc": "战斗-平原营地4（白天版）",
+    "type": 0
+  },
+  {
+    "id": 88,
+    "name": "stage_plain-cp-du00401",
+    "desc": "战斗-平原营地4（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 89,
+    "name": "stage_plain-cp-ni00401",
+    "desc": "战斗-平原营地4（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 90,
+    "name": "stage_plain-cp-da00501",
+    "desc": "战斗-平原营地5（白天版）",
+    "type": 0
+  },
+  {
+    "id": 91,
+    "name": "stage_plain-cp-du00501",
+    "desc": "战斗-平原营地5（黄昏版）",
+    "type": 0
+  },
+  {
+    "id": 92,
+    "name": "stage_plain-cp-ni00501",
+    "desc": "战斗-平原营地5（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 93,
+    "name": "stage_plain-os-da00101",
+    "desc": "QV1版本boss战使用场景",
+    "type": 0
+  },
+  {
+    "id": 94,
+    "name": "stage_plain-os-da00201",
+    "desc": "战斗-普通平原2（白天版）\n",
+    "type": 0
+  },
+  {
+    "id": 95,
+    "name": "stage_plain-os-ni00201",
+    "desc": "战斗-普通平原2（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 96,
+    "name": "stage_plain-os-da00301 ",
+    "desc": "战斗-普通平原3（白天版）",
+    "type": 0
+  },
+  {
+    "id": 97,
+    "name": "stage_plain-os-ni00401",
+    "desc": "普通平原（夜晚版）",
+    "type": 0
+  },
+  {
+    "id": 98,
+    "name": "stage_plain-os-niri00401",
+    "desc": "普通平原（雨夜版）",
+    "type": 0
+  },
+  {
+    "id": 99,
+    "name": "scene_home-mg-da00101",
+    "desc": "铃兰小镇-魔女之家-白天",
+    "type": 0
+  },
+  {
+    "id": 100,
+    "name": "scene_home-mg-ni00101",
+    "desc": "铃兰小镇 -魔女之家-夜晚",
+    "type": 0
+  },
+  {
+    "id": 101,
+    "name": "scene_home-mg-du00101",
+    "desc": "铃兰小镇 -魔女之家-黄昏",
+    "type": 0
+  },
+  {
+    "id": 102,
+    "name": "scene_home-os-du00101",
+    "desc": "铃兰小镇-小镇市场-黄昏",
+    "type": 0
+  },
+  {
+    "id": 103,
+    "name": "scene_home-os-ni00101",
+    "desc": "铃兰小镇-小镇市场-夜晚",
+    "type": 0
+  },
+  {
+    "id": 104,
+    "name": "scene_home-os-du00201",
+    "desc": "铃兰小镇-喷泉广场-黄昏",
+    "type": 0
+  },
+  {
+    "id": 105,
+    "name": "scene_home-os-du00201",
+    "desc": "铃兰小镇-喷泉广场-夜晚",
+    "type": 0
+  },
+  {
+    "id": 106,
+    "name": "scene_home-os-du00301",
+    "desc": "铃兰小镇-小镇门口-黄昏",
+    "type": 0
+  },
+  {
+    "id": 107,
+    "name": "scene_home-os-ni00301",
+    "desc": "铃兰小镇-小镇门口-夜晚",
+    "type": 0
+  },
+  {
+    "id": 108,
+    "name": "scene_home-bs-du00101",
+    "desc": "铃兰小镇-铁匠铺-黄昏",
+    "type": 0
+  },
+  {
+    "id": 109,
+    "name": "scene_home-bs-da00101",
+    "desc": "铃兰小镇-铁匠铺-白天",
+    "type": 0
+  },
+  {
+    "id": 110,
+    "name": "scene_home-bs-ni00101",
+    "desc": "铃兰小镇-铁匠铺-夜晚",
+    "type": 0
+  },
+  {
+    "id": 111,
+    "name": "scene_interior-pa-da00201",
+    "desc": "旧都大圣堂大厅白天",
+    "type": 0
+  },
+  {
+    "id": 112,
+    "name": "stage_cave-in-ni00601",
+    "desc": "战斗-黑暗之光矿洞-决战嘉西亚",
+    "type": 0
+  }
+]

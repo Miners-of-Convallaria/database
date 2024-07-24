@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "type": "BattlePower",
+    "name": "战力",
+    "param_name": "Top人数(0为所有)",
+    "param_type": "int"
+  },
+  {
+    "id": 2,
+    "type": "Achievement",
+    "name": "成就完成数",
+    "param_name": "",
+    "param_type": ""
+  },
+  {
+    "id": 3,
+    "type": "SandboxPhoto",
+    "name": "沙盒收集册照片完成数",
+    "param_name": "",
+    "param_type": ""
+  },
+  {
+    "id": 4,
+    "type": "Arena",
+    "name": "竞技场",
+    "param_name": "",
+    "param_type": ""
+  },
+  {
+    "id": 5,
+    "type": "TourLevel",
+    "name": "见闻等级",
+    "param_name": "",
+    "param_type": ""
+  },
+  {
+    "id": 6,
+    "type": "Abyss",
+    "name": "深渊讨伐值",
+    "param_name": "",
+    "param_type": ""
+  },
+  {
+    "id": 7,
+    "type": "ContractActivityChallenge",
+    "name": "合约活动挑战关",
+    "param_name": "",
+    "param_type": ""
+  }
+]

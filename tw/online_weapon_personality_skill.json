@@ -1,0 +1,7772 @@
+[
+  {
+    "id": 1,
+    "idonline_weapon_personality": 1,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 1440,
+    "skill_group_id": 1,
+    "skill_strength": 0
+  },
+  {
+    "id": 2,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 3,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 4,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 5,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 6,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 7,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 8,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 9,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 10,
+    "idonline_weapon_personality": 1,
+    "star": 0,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 12,
+    "idonline_weapon_personality": 2,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3086,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 13,
+    "idonline_weapon_personality": 2,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3091,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 14,
+    "idonline_weapon_personality": 2,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3092,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 15,
+    "idonline_weapon_personality": 2,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3093,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 16,
+    "idonline_weapon_personality": 4,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3099,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 17,
+    "idonline_weapon_personality": 4,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3104,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 18,
+    "idonline_weapon_personality": 4,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3105,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 19,
+    "idonline_weapon_personality": 4,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3106,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 20,
+    "idonline_weapon_personality": 4,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3107,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 21,
+    "idonline_weapon_personality": 5,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3356,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 22,
+    "idonline_weapon_personality": 5,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3357,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 23,
+    "idonline_weapon_personality": 5,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3358,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 24,
+    "idonline_weapon_personality": 5,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3359,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 25,
+    "idonline_weapon_personality": 5,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3360,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 31,
+    "idonline_weapon_personality": 6,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3348,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 32,
+    "idonline_weapon_personality": 6,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3349,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 33,
+    "idonline_weapon_personality": 6,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3350,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 34,
+    "idonline_weapon_personality": 6,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3351,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 39,
+    "idonline_weapon_personality": 7,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3136,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 40,
+    "idonline_weapon_personality": 7,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3138,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 41,
+    "idonline_weapon_personality": 7,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3139,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 42,
+    "idonline_weapon_personality": 7,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3140,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 43,
+    "idonline_weapon_personality": 8,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3141,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 44,
+    "idonline_weapon_personality": 8,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3142,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 45,
+    "idonline_weapon_personality": 8,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3143,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 46,
+    "idonline_weapon_personality": 8,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3144,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 47,
+    "idonline_weapon_personality": 8,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3145,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 48,
+    "idonline_weapon_personality": 9,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3366,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 49,
+    "idonline_weapon_personality": 9,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3367,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 50,
+    "idonline_weapon_personality": 9,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3368,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 51,
+    "idonline_weapon_personality": 9,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3369,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 52,
+    "idonline_weapon_personality": 9,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3370,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 58,
+    "idonline_weapon_personality": 10,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3149,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 59,
+    "idonline_weapon_personality": 10,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3150,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 60,
+    "idonline_weapon_personality": 10,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3151,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 61,
+    "idonline_weapon_personality": 10,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3152,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 63,
+    "idonline_weapon_personality": 11,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3153,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 64,
+    "idonline_weapon_personality": 11,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3154,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 65,
+    "idonline_weapon_personality": 11,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3155,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 66,
+    "idonline_weapon_personality": 11,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3156,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 67,
+    "idonline_weapon_personality": 11,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3157,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 68,
+    "idonline_weapon_personality": 12,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3120,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 69,
+    "idonline_weapon_personality": 12,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3123,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 70,
+    "idonline_weapon_personality": 12,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3161,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 71,
+    "idonline_weapon_personality": 12,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3162,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 72,
+    "idonline_weapon_personality": 12,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3163,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 73,
+    "idonline_weapon_personality": 15,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3111,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 74,
+    "idonline_weapon_personality": 15,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3113,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 75,
+    "idonline_weapon_personality": 15,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3115,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 76,
+    "idonline_weapon_personality": 15,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3116,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 77,
+    "idonline_weapon_personality": 15,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3126,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 78,
+    "idonline_weapon_personality": 16,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3165,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 79,
+    "idonline_weapon_personality": 16,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3166,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 80,
+    "idonline_weapon_personality": 16,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3167,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 81,
+    "idonline_weapon_personality": 16,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3168,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 83,
+    "idonline_weapon_personality": 17,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3169,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 84,
+    "idonline_weapon_personality": 18,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3170,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 85,
+    "idonline_weapon_personality": 18,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3171,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 86,
+    "idonline_weapon_personality": 18,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3172,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 87,
+    "idonline_weapon_personality": 18,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3173,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 88,
+    "idonline_weapon_personality": 18,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3174,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 89,
+    "idonline_weapon_personality": 19,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3176,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 90,
+    "idonline_weapon_personality": 20,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3086,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 91,
+    "idonline_weapon_personality": 20,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3091,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 92,
+    "idonline_weapon_personality": 20,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3092,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 93,
+    "idonline_weapon_personality": 20,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3093,
+    "skill_group_id": 2,
+    "skill_strength": 4
+  },
+  {
+    "id": 94,
+    "idonline_weapon_personality": 20,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3111,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 95,
+    "idonline_weapon_personality": 20,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3113,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 96,
+    "idonline_weapon_personality": 20,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3115,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 97,
+    "idonline_weapon_personality": 20,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3116,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 98,
+    "idonline_weapon_personality": 20,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3126,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 99,
+    "idonline_weapon_personality": 21,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3099,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 100,
+    "idonline_weapon_personality": 21,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3104,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 101,
+    "idonline_weapon_personality": 21,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3105,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 102,
+    "idonline_weapon_personality": 21,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3106,
+    "skill_group_id": 2,
+    "skill_strength": 4
+  },
+  {
+    "id": 103,
+    "idonline_weapon_personality": 21,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3107,
+    "skill_group_id": 2,
+    "skill_strength": 5
+  },
+  {
+    "id": 104,
+    "idonline_weapon_personality": 21,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3348,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 105,
+    "idonline_weapon_personality": 21,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3349,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 106,
+    "idonline_weapon_personality": 21,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3350,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 107,
+    "idonline_weapon_personality": 21,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3351,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 114,
+    "idonline_weapon_personality": 24,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3170,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 115,
+    "idonline_weapon_personality": 24,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3171,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 116,
+    "idonline_weapon_personality": 24,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3172,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 117,
+    "idonline_weapon_personality": 24,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3173,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 118,
+    "idonline_weapon_personality": 24,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3174,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 119,
+    "idonline_weapon_personality": 24,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3176,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 120,
+    "idonline_weapon_personality": 25,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3169,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 121,
+    "idonline_weapon_personality": 25,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3356,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 122,
+    "idonline_weapon_personality": 25,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3357,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 123,
+    "idonline_weapon_personality": 25,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3358,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 124,
+    "idonline_weapon_personality": 25,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3359,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 125,
+    "idonline_weapon_personality": 25,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3360,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 131,
+    "idonline_weapon_personality": 26,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3149,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 132,
+    "idonline_weapon_personality": 26,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3150,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 133,
+    "idonline_weapon_personality": 26,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3151,
+    "skill_group_id": 2,
+    "skill_strength": 4
+  },
+  {
+    "id": 134,
+    "idonline_weapon_personality": 26,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3152,
+    "skill_group_id": 2,
+    "skill_strength": 5
+  },
+  {
+    "id": 135,
+    "idonline_weapon_personality": 26,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3111,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 136,
+    "idonline_weapon_personality": 26,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3113,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 137,
+    "idonline_weapon_personality": 26,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3115,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 138,
+    "idonline_weapon_personality": 26,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3116,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 139,
+    "idonline_weapon_personality": 26,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3126,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 146,
+    "idonline_weapon_personality": 28,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3356,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 147,
+    "idonline_weapon_personality": 28,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3357,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 148,
+    "idonline_weapon_personality": 28,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3358,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 149,
+    "idonline_weapon_personality": 28,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3359,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 150,
+    "idonline_weapon_personality": 28,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3360,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 156,
+    "idonline_weapon_personality": 28,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 688,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 157,
+    "idonline_weapon_personality": 29,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3165,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 158,
+    "idonline_weapon_personality": 29,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3166,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 159,
+    "idonline_weapon_personality": 29,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3167,
+    "skill_group_id": 2,
+    "skill_strength": 4
+  },
+  {
+    "id": 160,
+    "idonline_weapon_personality": 29,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3168,
+    "skill_group_id": 2,
+    "skill_strength": 5
+  },
+  {
+    "id": 161,
+    "idonline_weapon_personality": 29,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3111,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 162,
+    "idonline_weapon_personality": 29,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3113,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 163,
+    "idonline_weapon_personality": 29,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3115,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 164,
+    "idonline_weapon_personality": 29,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3116,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 165,
+    "idonline_weapon_personality": 29,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3126,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 181,
+    "idonline_weapon_personality": 31,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 753,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 182,
+    "idonline_weapon_personality": 32,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3197,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 183,
+    "idonline_weapon_personality": 32,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3198,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 184,
+    "idonline_weapon_personality": 32,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3199,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 185,
+    "idonline_weapon_personality": 32,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3200,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 186,
+    "idonline_weapon_personality": 32,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3787,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 187,
+    "idonline_weapon_personality": 32,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 690,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 188,
+    "idonline_weapon_personality": 33,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3136,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 189,
+    "idonline_weapon_personality": 33,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3138,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 190,
+    "idonline_weapon_personality": 33,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3139,
+    "skill_group_id": 2,
+    "skill_strength": 4
+  },
+  {
+    "id": 191,
+    "idonline_weapon_personality": 33,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3140,
+    "skill_group_id": 2,
+    "skill_strength": 5
+  },
+  {
+    "id": 192,
+    "idonline_weapon_personality": 33,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3366,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 193,
+    "idonline_weapon_personality": 33,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3367,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 194,
+    "idonline_weapon_personality": 33,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3368,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 195,
+    "idonline_weapon_personality": 33,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3369,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 196,
+    "idonline_weapon_personality": 33,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3370,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 202,
+    "idonline_weapon_personality": 34,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3186,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 203,
+    "idonline_weapon_personality": 34,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3188,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 204,
+    "idonline_weapon_personality": 34,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3190,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 205,
+    "idonline_weapon_personality": 34,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3191,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 206,
+    "idonline_weapon_personality": 34,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3192,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 207,
+    "idonline_weapon_personality": 34,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3205,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 208,
+    "idonline_weapon_personality": 34,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3206,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 209,
+    "idonline_weapon_personality": 34,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3207,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 210,
+    "idonline_weapon_personality": 34,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3208,
+    "skill_group_id": 2,
+    "skill_strength": 4
+  },
+  {
+    "id": 211,
+    "idonline_weapon_personality": 34,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3209,
+    "skill_group_id": 2,
+    "skill_strength": 5
+  },
+  {
+    "id": 217,
+    "idonline_weapon_personality": 36,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3356,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 218,
+    "idonline_weapon_personality": 36,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3357,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 219,
+    "idonline_weapon_personality": 36,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3358,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 220,
+    "idonline_weapon_personality": 36,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3359,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 221,
+    "idonline_weapon_personality": 36,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3360,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 227,
+    "idonline_weapon_personality": 36,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3210,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 228,
+    "idonline_weapon_personality": 36,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3211,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 229,
+    "idonline_weapon_personality": 36,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3212,
+    "skill_group_id": 2,
+    "skill_strength": 4
+  },
+  {
+    "id": 230,
+    "idonline_weapon_personality": 36,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3213,
+    "skill_group_id": 2,
+    "skill_strength": 5
+  },
+  {
+    "id": 232,
+    "idonline_weapon_personality": 37,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3203,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 233,
+    "idonline_weapon_personality": 37,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3202,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 234,
+    "idonline_weapon_personality": 37,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3197,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 235,
+    "idonline_weapon_personality": 37,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3198,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 236,
+    "idonline_weapon_personality": 37,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3199,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 237,
+    "idonline_weapon_personality": 37,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3204,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 241,
+    "idonline_weapon_personality": 38,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3244,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 243,
+    "idonline_weapon_personality": 40,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3245,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 244,
+    "idonline_weapon_personality": 41,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3246,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 245,
+    "idonline_weapon_personality": 42,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3247,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 246,
+    "idonline_weapon_personality": 43,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3248,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 247,
+    "idonline_weapon_personality": 44,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3249,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 248,
+    "idonline_weapon_personality": 45,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3250,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 249,
+    "idonline_weapon_personality": 46,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3251,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 250,
+    "idonline_weapon_personality": 47,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3252,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 251,
+    "idonline_weapon_personality": 48,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3256,
+    "skill_group_id": 2,
+    "skill_strength": 3
+  },
+  {
+    "id": 252,
+    "idonline_weapon_personality": 49,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3254,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 253,
+    "idonline_weapon_personality": 50,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3255,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 254,
+    "idonline_weapon_personality": 51,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3253,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 255,
+    "idonline_weapon_personality": 52,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3257,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 256,
+    "idonline_weapon_personality": 53,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3267,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 257,
+    "idonline_weapon_personality": 54,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3263,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 258,
+    "idonline_weapon_personality": 55,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3264,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 259,
+    "idonline_weapon_personality": 56,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3266,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 260,
+    "idonline_weapon_personality": 57,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3265,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 261,
+    "idonline_weapon_personality": 38,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3361,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 262,
+    "idonline_weapon_personality": 38,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3362,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 263,
+    "idonline_weapon_personality": 38,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3363,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 264,
+    "idonline_weapon_personality": 38,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3364,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 265,
+    "idonline_weapon_personality": 38,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3365,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 276,
+    "idonline_weapon_personality": 41,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3361,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 277,
+    "idonline_weapon_personality": 41,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3362,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 278,
+    "idonline_weapon_personality": 41,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3363,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 279,
+    "idonline_weapon_personality": 41,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3364,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 280,
+    "idonline_weapon_personality": 41,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3365,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 291,
+    "idonline_weapon_personality": 42,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3361,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 292,
+    "idonline_weapon_personality": 42,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3362,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 293,
+    "idonline_weapon_personality": 42,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3363,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 294,
+    "idonline_weapon_personality": 42,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3364,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 295,
+    "idonline_weapon_personality": 42,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3365,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 306,
+    "idonline_weapon_personality": 40,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3361,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 307,
+    "idonline_weapon_personality": 40,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3362,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 308,
+    "idonline_weapon_personality": 40,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3363,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 309,
+    "idonline_weapon_personality": 40,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3364,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 310,
+    "idonline_weapon_personality": 40,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3365,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 321,
+    "idonline_weapon_personality": 44,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3348,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 322,
+    "idonline_weapon_personality": 44,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3349,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 323,
+    "idonline_weapon_personality": 44,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3350,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 324,
+    "idonline_weapon_personality": 44,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3351,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 329,
+    "idonline_weapon_personality": 46,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3352,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 330,
+    "idonline_weapon_personality": 46,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3353,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 331,
+    "idonline_weapon_personality": 46,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3354,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 332,
+    "idonline_weapon_personality": 46,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3355,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 337,
+    "idonline_weapon_personality": 47,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3352,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 338,
+    "idonline_weapon_personality": 47,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3353,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 339,
+    "idonline_weapon_personality": 47,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3354,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 340,
+    "idonline_weapon_personality": 47,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3355,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 345,
+    "idonline_weapon_personality": 51,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3352,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 346,
+    "idonline_weapon_personality": 51,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3353,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 347,
+    "idonline_weapon_personality": 51,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3354,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 348,
+    "idonline_weapon_personality": 51,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3355,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 353,
+    "idonline_weapon_personality": 49,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3372,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 354,
+    "idonline_weapon_personality": 49,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3375,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 355,
+    "idonline_weapon_personality": 49,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3377,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 356,
+    "idonline_weapon_personality": 49,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3378,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 357,
+    "idonline_weapon_personality": 49,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3379,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 363,
+    "idonline_weapon_personality": 50,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3372,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 364,
+    "idonline_weapon_personality": 50,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3375,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 365,
+    "idonline_weapon_personality": 50,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3377,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 366,
+    "idonline_weapon_personality": 50,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3378,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 367,
+    "idonline_weapon_personality": 50,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3379,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 373,
+    "idonline_weapon_personality": 48,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3372,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 374,
+    "idonline_weapon_personality": 48,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3375,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 375,
+    "idonline_weapon_personality": 48,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3377,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 376,
+    "idonline_weapon_personality": 48,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3378,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 377,
+    "idonline_weapon_personality": 48,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3379,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 383,
+    "idonline_weapon_personality": 52,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3120,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 384,
+    "idonline_weapon_personality": 52,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3123,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 385,
+    "idonline_weapon_personality": 52,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3161,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 386,
+    "idonline_weapon_personality": 52,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3162,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 387,
+    "idonline_weapon_personality": 53,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3120,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 388,
+    "idonline_weapon_personality": 53,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3123,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 389,
+    "idonline_weapon_personality": 53,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3161,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 390,
+    "idonline_weapon_personality": 53,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3162,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 391,
+    "idonline_weapon_personality": 56,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3381,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 392,
+    "idonline_weapon_personality": 56,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3382,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 393,
+    "idonline_weapon_personality": 56,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3383,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 394,
+    "idonline_weapon_personality": 56,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3384,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 395,
+    "idonline_weapon_personality": 56,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3385,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 401,
+    "idonline_weapon_personality": 54,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3381,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 402,
+    "idonline_weapon_personality": 54,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3382,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 403,
+    "idonline_weapon_personality": 54,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3383,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 404,
+    "idonline_weapon_personality": 54,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3384,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 405,
+    "idonline_weapon_personality": 54,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3385,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 411,
+    "idonline_weapon_personality": 57,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3371,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 412,
+    "idonline_weapon_personality": 57,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3373,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 413,
+    "idonline_weapon_personality": 57,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3374,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 414,
+    "idonline_weapon_personality": 57,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3376,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 415,
+    "idonline_weapon_personality": 57,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3380,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 421,
+    "idonline_weapon_personality": 55,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3371,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 422,
+    "idonline_weapon_personality": 55,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3373,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 423,
+    "idonline_weapon_personality": 55,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3374,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 424,
+    "idonline_weapon_personality": 55,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3376,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 425,
+    "idonline_weapon_personality": 55,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3380,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 431,
+    "idonline_weapon_personality": 31,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3343,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 432,
+    "idonline_weapon_personality": 31,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3344,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 433,
+    "idonline_weapon_personality": 31,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3345,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 434,
+    "idonline_weapon_personality": 31,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3346,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 435,
+    "idonline_weapon_personality": 31,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3347,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 436,
+    "idonline_weapon_personality": 43,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3348,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 437,
+    "idonline_weapon_personality": 43,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3349,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 438,
+    "idonline_weapon_personality": 43,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3350,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 439,
+    "idonline_weapon_personality": 43,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3351,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 440,
+    "idonline_weapon_personality": 58,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3388,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 441,
+    "idonline_weapon_personality": 59,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3389,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 442,
+    "idonline_weapon_personality": 60,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3391,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 443,
+    "idonline_weapon_personality": 61,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3390,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 445,
+    "idonline_weapon_personality": 62,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3393,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 446,
+    "idonline_weapon_personality": 63,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3392,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 447,
+    "idonline_weapon_personality": 64,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3394,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 448,
+    "idonline_weapon_personality": 65,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 3395,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 449,
+    "idonline_weapon_personality": 66,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3726,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 450,
+    "idonline_weapon_personality": 66,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3727,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 451,
+    "idonline_weapon_personality": 66,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3728,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 452,
+    "idonline_weapon_personality": 66,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3729,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 453,
+    "idonline_weapon_personality": 66,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 3730,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 454,
+    "idonline_weapon_personality": 67,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 455,
+    "idonline_weapon_personality": 67,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 456,
+    "idonline_weapon_personality": 67,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 457,
+    "idonline_weapon_personality": 67,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 458,
+    "idonline_weapon_personality": 67,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 459,
+    "idonline_weapon_personality": 68,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 460,
+    "idonline_weapon_personality": 68,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 461,
+    "idonline_weapon_personality": 68,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 462,
+    "idonline_weapon_personality": 68,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 463,
+    "idonline_weapon_personality": 68,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 464,
+    "idonline_weapon_personality": 69,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 465,
+    "idonline_weapon_personality": 69,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 466,
+    "idonline_weapon_personality": 69,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 467,
+    "idonline_weapon_personality": 69,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 468,
+    "idonline_weapon_personality": 69,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 469,
+    "idonline_weapon_personality": 70,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 470,
+    "idonline_weapon_personality": 70,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 471,
+    "idonline_weapon_personality": 70,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 472,
+    "idonline_weapon_personality": 70,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 473,
+    "idonline_weapon_personality": 70,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 474,
+    "idonline_weapon_personality": 71,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 475,
+    "idonline_weapon_personality": 71,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 476,
+    "idonline_weapon_personality": 71,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 477,
+    "idonline_weapon_personality": 71,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 478,
+    "idonline_weapon_personality": 71,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 479,
+    "idonline_weapon_personality": 72,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 480,
+    "idonline_weapon_personality": 72,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 481,
+    "idonline_weapon_personality": 72,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 482,
+    "idonline_weapon_personality": 72,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 483,
+    "idonline_weapon_personality": 72,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 484,
+    "idonline_weapon_personality": 73,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 485,
+    "idonline_weapon_personality": 73,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 486,
+    "idonline_weapon_personality": 73,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 487,
+    "idonline_weapon_personality": 73,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 488,
+    "idonline_weapon_personality": 73,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 489,
+    "idonline_weapon_personality": 74,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 490,
+    "idonline_weapon_personality": 74,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 491,
+    "idonline_weapon_personality": 74,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 492,
+    "idonline_weapon_personality": 74,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 493,
+    "idonline_weapon_personality": 74,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 494,
+    "idonline_weapon_personality": 75,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5434,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 495,
+    "idonline_weapon_personality": 75,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5435,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 496,
+    "idonline_weapon_personality": 75,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5436,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 497,
+    "idonline_weapon_personality": 75,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5433,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 498,
+    "idonline_weapon_personality": 75,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5437,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 499,
+    "idonline_weapon_personality": 76,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 500,
+    "idonline_weapon_personality": 76,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 501,
+    "idonline_weapon_personality": 76,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 502,
+    "idonline_weapon_personality": 76,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 503,
+    "idonline_weapon_personality": 76,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 504,
+    "idonline_weapon_personality": 77,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5439,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 505,
+    "idonline_weapon_personality": 77,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5440,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 506,
+    "idonline_weapon_personality": 77,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5441,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 507,
+    "idonline_weapon_personality": 77,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5442,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 508,
+    "idonline_weapon_personality": 77,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5438,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 509,
+    "idonline_weapon_personality": 78,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 510,
+    "idonline_weapon_personality": 78,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 511,
+    "idonline_weapon_personality": 78,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 512,
+    "idonline_weapon_personality": 78,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 513,
+    "idonline_weapon_personality": 78,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 514,
+    "idonline_weapon_personality": 79,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5444,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 515,
+    "idonline_weapon_personality": 79,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5445,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 516,
+    "idonline_weapon_personality": 79,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5446,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 517,
+    "idonline_weapon_personality": 79,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5443,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 518,
+    "idonline_weapon_personality": 79,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5447,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 519,
+    "idonline_weapon_personality": 80,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 520,
+    "idonline_weapon_personality": 80,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 521,
+    "idonline_weapon_personality": 80,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 522,
+    "idonline_weapon_personality": 80,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 523,
+    "idonline_weapon_personality": 80,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 524,
+    "idonline_weapon_personality": 81,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5449,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 525,
+    "idonline_weapon_personality": 81,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5450,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 526,
+    "idonline_weapon_personality": 81,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5451,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 527,
+    "idonline_weapon_personality": 81,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5448,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 528,
+    "idonline_weapon_personality": 81,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5452,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 529,
+    "idonline_weapon_personality": 82,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 530,
+    "idonline_weapon_personality": 82,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 531,
+    "idonline_weapon_personality": 82,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 532,
+    "idonline_weapon_personality": 82,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 533,
+    "idonline_weapon_personality": 82,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 534,
+    "idonline_weapon_personality": 83,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5454,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 535,
+    "idonline_weapon_personality": 83,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5455,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 536,
+    "idonline_weapon_personality": 83,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5456,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 537,
+    "idonline_weapon_personality": 83,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5453,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 538,
+    "idonline_weapon_personality": 83,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5457,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 539,
+    "idonline_weapon_personality": 84,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 540,
+    "idonline_weapon_personality": 84,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 541,
+    "idonline_weapon_personality": 84,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 542,
+    "idonline_weapon_personality": 84,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 543,
+    "idonline_weapon_personality": 84,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 544,
+    "idonline_weapon_personality": 85,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 545,
+    "idonline_weapon_personality": 85,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 546,
+    "idonline_weapon_personality": 85,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 547,
+    "idonline_weapon_personality": 85,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 548,
+    "idonline_weapon_personality": 85,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 0,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 549,
+    "idonline_weapon_personality": 86,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5459,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 550,
+    "idonline_weapon_personality": 86,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5460,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 551,
+    "idonline_weapon_personality": 86,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5461,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 552,
+    "idonline_weapon_personality": 86,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5462,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 553,
+    "idonline_weapon_personality": 86,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5463,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 554,
+    "idonline_weapon_personality": 87,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5465,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 555,
+    "idonline_weapon_personality": 87,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5466,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 556,
+    "idonline_weapon_personality": 87,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5467,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 557,
+    "idonline_weapon_personality": 87,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5468,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 558,
+    "idonline_weapon_personality": 87,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5464,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 559,
+    "idonline_weapon_personality": 88,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5469,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 560,
+    "idonline_weapon_personality": 88,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5470,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 561,
+    "idonline_weapon_personality": 88,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5472,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 562,
+    "idonline_weapon_personality": 88,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5471,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 563,
+    "idonline_weapon_personality": 88,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5473,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 564,
+    "idonline_weapon_personality": 89,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5474,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 565,
+    "idonline_weapon_personality": 89,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5475,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 566,
+    "idonline_weapon_personality": 89,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5476,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 567,
+    "idonline_weapon_personality": 89,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5477,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 568,
+    "idonline_weapon_personality": 89,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5478,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 569,
+    "idonline_weapon_personality": 90,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5479,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 570,
+    "idonline_weapon_personality": 90,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5480,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 571,
+    "idonline_weapon_personality": 90,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5481,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 572,
+    "idonline_weapon_personality": 90,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5482,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 573,
+    "idonline_weapon_personality": 90,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5483,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 574,
+    "idonline_weapon_personality": 91,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5484,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 575,
+    "idonline_weapon_personality": 91,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5485,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 576,
+    "idonline_weapon_personality": 91,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5486,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 577,
+    "idonline_weapon_personality": 91,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5487,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 578,
+    "idonline_weapon_personality": 91,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5488,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 579,
+    "idonline_weapon_personality": 92,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5489,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 580,
+    "idonline_weapon_personality": 92,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5490,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 581,
+    "idonline_weapon_personality": 92,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5494,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 582,
+    "idonline_weapon_personality": 92,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5493,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 583,
+    "idonline_weapon_personality": 92,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5492,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 584,
+    "idonline_weapon_personality": 93,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5495,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 585,
+    "idonline_weapon_personality": 93,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5496,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 586,
+    "idonline_weapon_personality": 93,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5497,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 587,
+    "idonline_weapon_personality": 93,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5498,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 588,
+    "idonline_weapon_personality": 93,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5499,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 589,
+    "idonline_weapon_personality": 94,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5500,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 590,
+    "idonline_weapon_personality": 94,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5501,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 591,
+    "idonline_weapon_personality": 94,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5502,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 592,
+    "idonline_weapon_personality": 94,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5503,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 593,
+    "idonline_weapon_personality": 94,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5504,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 594,
+    "idonline_weapon_personality": 95,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5505,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 595,
+    "idonline_weapon_personality": 95,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5506,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 596,
+    "idonline_weapon_personality": 95,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5507,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 597,
+    "idonline_weapon_personality": 95,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5508,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 598,
+    "idonline_weapon_personality": 95,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5509,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 599,
+    "idonline_weapon_personality": 96,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5510,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 600,
+    "idonline_weapon_personality": 96,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5511,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 601,
+    "idonline_weapon_personality": 96,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5512,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 602,
+    "idonline_weapon_personality": 96,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5513,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 603,
+    "idonline_weapon_personality": 96,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5514,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 604,
+    "idonline_weapon_personality": 97,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5515,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 605,
+    "idonline_weapon_personality": 97,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5516,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 606,
+    "idonline_weapon_personality": 97,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5517,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 607,
+    "idonline_weapon_personality": 97,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5518,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 608,
+    "idonline_weapon_personality": 97,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5519,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 609,
+    "idonline_weapon_personality": 98,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5520,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 610,
+    "idonline_weapon_personality": 98,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5521,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 611,
+    "idonline_weapon_personality": 98,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5522,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 612,
+    "idonline_weapon_personality": 98,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5523,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 613,
+    "idonline_weapon_personality": 98,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5524,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 614,
+    "idonline_weapon_personality": 99,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5525,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 615,
+    "idonline_weapon_personality": 99,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5526,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 616,
+    "idonline_weapon_personality": 99,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5527,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 617,
+    "idonline_weapon_personality": 99,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5528,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 618,
+    "idonline_weapon_personality": 99,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5529,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 619,
+    "idonline_weapon_personality": 100,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5530,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 620,
+    "idonline_weapon_personality": 100,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5531,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 621,
+    "idonline_weapon_personality": 100,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5532,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 622,
+    "idonline_weapon_personality": 100,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5533,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 623,
+    "idonline_weapon_personality": 100,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5534,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 624,
+    "idonline_weapon_personality": 101,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5535,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 625,
+    "idonline_weapon_personality": 101,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5536,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 626,
+    "idonline_weapon_personality": 101,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5537,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 627,
+    "idonline_weapon_personality": 101,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5538,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 628,
+    "idonline_weapon_personality": 101,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5539,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 629,
+    "idonline_weapon_personality": 102,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5540,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 630,
+    "idonline_weapon_personality": 102,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5541,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 631,
+    "idonline_weapon_personality": 102,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5542,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 632,
+    "idonline_weapon_personality": 102,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5543,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 633,
+    "idonline_weapon_personality": 102,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5544,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 634,
+    "idonline_weapon_personality": 103,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5546,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 635,
+    "idonline_weapon_personality": 103,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5547,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 636,
+    "idonline_weapon_personality": 103,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5548,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 637,
+    "idonline_weapon_personality": 103,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5549,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 638,
+    "idonline_weapon_personality": 103,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5550,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 639,
+    "idonline_weapon_personality": 104,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5551,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 640,
+    "idonline_weapon_personality": 104,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5552,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 641,
+    "idonline_weapon_personality": 104,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5553,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 642,
+    "idonline_weapon_personality": 104,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5554,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 643,
+    "idonline_weapon_personality": 104,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5555,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 644,
+    "idonline_weapon_personality": 105,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5556,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 645,
+    "idonline_weapon_personality": 105,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5557,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 646,
+    "idonline_weapon_personality": 105,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5558,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 647,
+    "idonline_weapon_personality": 105,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5559,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 648,
+    "idonline_weapon_personality": 105,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5560,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 649,
+    "idonline_weapon_personality": 106,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5561,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 650,
+    "idonline_weapon_personality": 106,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5562,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 651,
+    "idonline_weapon_personality": 106,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5563,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 652,
+    "idonline_weapon_personality": 106,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5564,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 653,
+    "idonline_weapon_personality": 106,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5565,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 654,
+    "idonline_weapon_personality": 107,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5566,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 655,
+    "idonline_weapon_personality": 107,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5567,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 656,
+    "idonline_weapon_personality": 107,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5568,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 657,
+    "idonline_weapon_personality": 107,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5569,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 658,
+    "idonline_weapon_personality": 107,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5570,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 659,
+    "idonline_weapon_personality": 108,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5573,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 660,
+    "idonline_weapon_personality": 108,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5574,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 661,
+    "idonline_weapon_personality": 108,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5575,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 662,
+    "idonline_weapon_personality": 108,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5576,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 663,
+    "idonline_weapon_personality": 108,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5577,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 664,
+    "idonline_weapon_personality": 109,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5579,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 665,
+    "idonline_weapon_personality": 109,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5580,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 666,
+    "idonline_weapon_personality": 109,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5581,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 667,
+    "idonline_weapon_personality": 109,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5582,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 668,
+    "idonline_weapon_personality": 109,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5583,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 669,
+    "idonline_weapon_personality": 110,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5584,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 670,
+    "idonline_weapon_personality": 110,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5585,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 671,
+    "idonline_weapon_personality": 110,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5586,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 672,
+    "idonline_weapon_personality": 110,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5587,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 673,
+    "idonline_weapon_personality": 110,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5588,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 674,
+    "idonline_weapon_personality": 111,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5589,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 675,
+    "idonline_weapon_personality": 111,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5590,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 676,
+    "idonline_weapon_personality": 111,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5591,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 677,
+    "idonline_weapon_personality": 111,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5592,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 678,
+    "idonline_weapon_personality": 111,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5593,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 679,
+    "idonline_weapon_personality": 112,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5594,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 680,
+    "idonline_weapon_personality": 112,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5595,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 681,
+    "idonline_weapon_personality": 112,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5596,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 682,
+    "idonline_weapon_personality": 112,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5597,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 683,
+    "idonline_weapon_personality": 112,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5598,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 684,
+    "idonline_weapon_personality": 113,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5599,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 685,
+    "idonline_weapon_personality": 113,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5600,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 686,
+    "idonline_weapon_personality": 113,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5601,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 687,
+    "idonline_weapon_personality": 113,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5602,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 688,
+    "idonline_weapon_personality": 113,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5603,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 689,
+    "idonline_weapon_personality": 114,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5604,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 690,
+    "idonline_weapon_personality": 114,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5605,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 691,
+    "idonline_weapon_personality": 114,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5606,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 692,
+    "idonline_weapon_personality": 114,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5607,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 693,
+    "idonline_weapon_personality": 114,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5608,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 694,
+    "idonline_weapon_personality": 115,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5609,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 695,
+    "idonline_weapon_personality": 115,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5610,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 696,
+    "idonline_weapon_personality": 115,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5611,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 697,
+    "idonline_weapon_personality": 115,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5612,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 698,
+    "idonline_weapon_personality": 115,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5613,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 699,
+    "idonline_weapon_personality": 116,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5614,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 700,
+    "idonline_weapon_personality": 116,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5615,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 701,
+    "idonline_weapon_personality": 116,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5616,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 702,
+    "idonline_weapon_personality": 116,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5617,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 703,
+    "idonline_weapon_personality": 116,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5618,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 704,
+    "idonline_weapon_personality": 117,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5619,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 705,
+    "idonline_weapon_personality": 117,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5620,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 706,
+    "idonline_weapon_personality": 117,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5621,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 707,
+    "idonline_weapon_personality": 117,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5622,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 708,
+    "idonline_weapon_personality": 117,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5623,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 709,
+    "idonline_weapon_personality": 118,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5624,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 710,
+    "idonline_weapon_personality": 118,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5625,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 711,
+    "idonline_weapon_personality": 118,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5626,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 712,
+    "idonline_weapon_personality": 118,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5627,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 713,
+    "idonline_weapon_personality": 118,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5628,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 714,
+    "idonline_weapon_personality": 119,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5629,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 715,
+    "idonline_weapon_personality": 119,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5630,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 716,
+    "idonline_weapon_personality": 119,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5631,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 717,
+    "idonline_weapon_personality": 119,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5632,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 718,
+    "idonline_weapon_personality": 119,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5633,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 719,
+    "idonline_weapon_personality": 120,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5635,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 720,
+    "idonline_weapon_personality": 120,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5636,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 721,
+    "idonline_weapon_personality": 120,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5637,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 722,
+    "idonline_weapon_personality": 120,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5638,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 723,
+    "idonline_weapon_personality": 120,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5639,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 724,
+    "idonline_weapon_personality": 121,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5640,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 725,
+    "idonline_weapon_personality": 121,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5641,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 726,
+    "idonline_weapon_personality": 121,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5642,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 727,
+    "idonline_weapon_personality": 121,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5643,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 728,
+    "idonline_weapon_personality": 121,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5644,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 729,
+    "idonline_weapon_personality": 122,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5645,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 730,
+    "idonline_weapon_personality": 122,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5646,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 731,
+    "idonline_weapon_personality": 122,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5647,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 732,
+    "idonline_weapon_personality": 122,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5648,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 733,
+    "idonline_weapon_personality": 122,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5649,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 734,
+    "idonline_weapon_personality": 123,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5650,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 735,
+    "idonline_weapon_personality": 123,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5651,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 736,
+    "idonline_weapon_personality": 123,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5652,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 737,
+    "idonline_weapon_personality": 123,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5653,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 738,
+    "idonline_weapon_personality": 123,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5654,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 739,
+    "idonline_weapon_personality": 124,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5655,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 740,
+    "idonline_weapon_personality": 124,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5656,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 741,
+    "idonline_weapon_personality": 124,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5657,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 742,
+    "idonline_weapon_personality": 124,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5658,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 743,
+    "idonline_weapon_personality": 124,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5659,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 744,
+    "idonline_weapon_personality": 125,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5661,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 745,
+    "idonline_weapon_personality": 125,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5662,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 746,
+    "idonline_weapon_personality": 125,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5663,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 747,
+    "idonline_weapon_personality": 125,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5664,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 748,
+    "idonline_weapon_personality": 125,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5665,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 749,
+    "idonline_weapon_personality": 126,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5666,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 750,
+    "idonline_weapon_personality": 126,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5667,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 751,
+    "idonline_weapon_personality": 126,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5668,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 752,
+    "idonline_weapon_personality": 126,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5669,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 753,
+    "idonline_weapon_personality": 126,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5670,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 754,
+    "idonline_weapon_personality": 127,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5671,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 755,
+    "idonline_weapon_personality": 127,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5672,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 756,
+    "idonline_weapon_personality": 127,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5673,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 757,
+    "idonline_weapon_personality": 127,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5674,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 758,
+    "idonline_weapon_personality": 127,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5675,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 759,
+    "idonline_weapon_personality": 128,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5678,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 760,
+    "idonline_weapon_personality": 128,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5679,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 761,
+    "idonline_weapon_personality": 128,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5680,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 762,
+    "idonline_weapon_personality": 128,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5681,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 763,
+    "idonline_weapon_personality": 128,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5682,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 764,
+    "idonline_weapon_personality": 129,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5683,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 765,
+    "idonline_weapon_personality": 129,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5684,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 766,
+    "idonline_weapon_personality": 129,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5685,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 767,
+    "idonline_weapon_personality": 129,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5686,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 768,
+    "idonline_weapon_personality": 129,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5687,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 769,
+    "idonline_weapon_personality": 130,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5688,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 770,
+    "idonline_weapon_personality": 130,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5689,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 771,
+    "idonline_weapon_personality": 130,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5690,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 772,
+    "idonline_weapon_personality": 130,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5691,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 773,
+    "idonline_weapon_personality": 130,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5692,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 774,
+    "idonline_weapon_personality": 131,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5693,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 775,
+    "idonline_weapon_personality": 131,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5694,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 776,
+    "idonline_weapon_personality": 131,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5695,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 777,
+    "idonline_weapon_personality": 131,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5696,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 778,
+    "idonline_weapon_personality": 131,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5697,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 779,
+    "idonline_weapon_personality": 132,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5698,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 780,
+    "idonline_weapon_personality": 132,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5699,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 781,
+    "idonline_weapon_personality": 132,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5700,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 782,
+    "idonline_weapon_personality": 132,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5701,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 783,
+    "idonline_weapon_personality": 132,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5702,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 784,
+    "idonline_weapon_personality": 133,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5706,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 785,
+    "idonline_weapon_personality": 133,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5707,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 786,
+    "idonline_weapon_personality": 133,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5708,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 787,
+    "idonline_weapon_personality": 133,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5709,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 788,
+    "idonline_weapon_personality": 133,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5710,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 789,
+    "idonline_weapon_personality": 134,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5711,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 790,
+    "idonline_weapon_personality": 134,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5712,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 791,
+    "idonline_weapon_personality": 134,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5713,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 792,
+    "idonline_weapon_personality": 134,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5714,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 793,
+    "idonline_weapon_personality": 134,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5715,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 794,
+    "idonline_weapon_personality": 135,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5716,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 795,
+    "idonline_weapon_personality": 135,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5717,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 796,
+    "idonline_weapon_personality": 135,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5718,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 797,
+    "idonline_weapon_personality": 135,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5719,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 798,
+    "idonline_weapon_personality": 135,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5720,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 799,
+    "idonline_weapon_personality": 136,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5721,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 800,
+    "idonline_weapon_personality": 136,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5723,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 801,
+    "idonline_weapon_personality": 136,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5724,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 802,
+    "idonline_weapon_personality": 136,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5725,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 803,
+    "idonline_weapon_personality": 136,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5726,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 804,
+    "idonline_weapon_personality": 137,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5785,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 805,
+    "idonline_weapon_personality": 137,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5786,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 806,
+    "idonline_weapon_personality": 137,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5787,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 807,
+    "idonline_weapon_personality": 137,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5788,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 808,
+    "idonline_weapon_personality": 137,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5789,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 809,
+    "idonline_weapon_personality": 138,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5729,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 810,
+    "idonline_weapon_personality": 138,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5730,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 811,
+    "idonline_weapon_personality": 138,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5731,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 812,
+    "idonline_weapon_personality": 138,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5732,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 813,
+    "idonline_weapon_personality": 138,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5733,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 814,
+    "idonline_weapon_personality": 139,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5940,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 815,
+    "idonline_weapon_personality": 139,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5941,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 816,
+    "idonline_weapon_personality": 139,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5942,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 817,
+    "idonline_weapon_personality": 139,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5943,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 818,
+    "idonline_weapon_personality": 139,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5944,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 819,
+    "idonline_weapon_personality": 140,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5736,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 820,
+    "idonline_weapon_personality": 140,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5737,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 821,
+    "idonline_weapon_personality": 140,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5738,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 822,
+    "idonline_weapon_personality": 140,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5739,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 823,
+    "idonline_weapon_personality": 140,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5740,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 824,
+    "idonline_weapon_personality": 141,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5741,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 825,
+    "idonline_weapon_personality": 141,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5744,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 826,
+    "idonline_weapon_personality": 141,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5745,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 827,
+    "idonline_weapon_personality": 141,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5746,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 828,
+    "idonline_weapon_personality": 141,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5747,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 829,
+    "idonline_weapon_personality": 142,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5750,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 830,
+    "idonline_weapon_personality": 142,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5751,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 831,
+    "idonline_weapon_personality": 142,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5752,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 832,
+    "idonline_weapon_personality": 142,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5753,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 833,
+    "idonline_weapon_personality": 142,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 5754,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 834,
+    "idonline_weapon_personality": 143,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5762,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 835,
+    "idonline_weapon_personality": 143,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5763,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 836,
+    "idonline_weapon_personality": 143,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5764,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 837,
+    "idonline_weapon_personality": 143,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5765,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 838,
+    "idonline_weapon_personality": 143,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5766,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 839,
+    "idonline_weapon_personality": 144,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5767,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 840,
+    "idonline_weapon_personality": 144,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5768,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 841,
+    "idonline_weapon_personality": 144,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5769,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 842,
+    "idonline_weapon_personality": 144,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5770,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 843,
+    "idonline_weapon_personality": 144,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5771,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 844,
+    "idonline_weapon_personality": 145,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5772,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 845,
+    "idonline_weapon_personality": 145,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5773,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 846,
+    "idonline_weapon_personality": 145,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5774,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 847,
+    "idonline_weapon_personality": 145,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5775,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 848,
+    "idonline_weapon_personality": 145,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5776,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 849,
+    "idonline_weapon_personality": 146,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5777,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 850,
+    "idonline_weapon_personality": 146,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5778,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 851,
+    "idonline_weapon_personality": 146,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5779,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 852,
+    "idonline_weapon_personality": 146,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5780,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 853,
+    "idonline_weapon_personality": 146,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5781,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 854,
+    "idonline_weapon_personality": 147,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5792,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 855,
+    "idonline_weapon_personality": 147,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5793,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 856,
+    "idonline_weapon_personality": 147,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5794,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 857,
+    "idonline_weapon_personality": 147,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5795,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 858,
+    "idonline_weapon_personality": 147,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5796,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 859,
+    "idonline_weapon_personality": 148,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5756,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 860,
+    "idonline_weapon_personality": 148,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5757,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 861,
+    "idonline_weapon_personality": 148,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5758,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 862,
+    "idonline_weapon_personality": 148,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5759,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 863,
+    "idonline_weapon_personality": 148,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 5760,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 864,
+    "idonline_weapon_personality": 149,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6905,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 865,
+    "idonline_weapon_personality": 149,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6906,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 866,
+    "idonline_weapon_personality": 149,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6907,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 867,
+    "idonline_weapon_personality": 149,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6908,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 868,
+    "idonline_weapon_personality": 149,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6909,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 869,
+    "idonline_weapon_personality": 154,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 7013,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 870,
+    "idonline_weapon_personality": 154,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 7014,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 871,
+    "idonline_weapon_personality": 154,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 7015,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 872,
+    "idonline_weapon_personality": 154,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 7016,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 873,
+    "idonline_weapon_personality": 154,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 7017,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 874,
+    "idonline_weapon_personality": 159,
+    "star": 1,
+    "desc": "",
+    "type": 1,
+    "skill_id": 7008,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 875,
+    "idonline_weapon_personality": 159,
+    "star": 2,
+    "desc": "",
+    "type": 1,
+    "skill_id": 7009,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 876,
+    "idonline_weapon_personality": 159,
+    "star": 3,
+    "desc": "",
+    "type": 1,
+    "skill_id": 7010,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 877,
+    "idonline_weapon_personality": 159,
+    "star": 4,
+    "desc": "",
+    "type": 1,
+    "skill_id": 7011,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 878,
+    "idonline_weapon_personality": 159,
+    "star": 5,
+    "desc": "",
+    "type": 1,
+    "skill_id": 7012,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 879,
+    "idonline_weapon_personality": 160,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9299,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 880,
+    "idonline_weapon_personality": 160,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9303,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 881,
+    "idonline_weapon_personality": 160,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9302,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 882,
+    "idonline_weapon_personality": 160,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9301,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 883,
+    "idonline_weapon_personality": 160,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9300,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 884,
+    "idonline_weapon_personality": 161,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9294,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 885,
+    "idonline_weapon_personality": 161,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9298,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 886,
+    "idonline_weapon_personality": 161,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9297,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 887,
+    "idonline_weapon_personality": 161,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9296,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 888,
+    "idonline_weapon_personality": 161,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9295,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 889,
+    "idonline_weapon_personality": 162,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9310,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 890,
+    "idonline_weapon_personality": 162,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9311,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 891,
+    "idonline_weapon_personality": 162,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9312,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 892,
+    "idonline_weapon_personality": 162,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9313,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 893,
+    "idonline_weapon_personality": 162,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9314,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 894,
+    "idonline_weapon_personality": 163,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9305,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 895,
+    "idonline_weapon_personality": 163,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9306,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 896,
+    "idonline_weapon_personality": 163,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9307,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 897,
+    "idonline_weapon_personality": 163,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9308,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 898,
+    "idonline_weapon_personality": 163,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9309,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 899,
+    "idonline_weapon_personality": 164,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9325,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 900,
+    "idonline_weapon_personality": 164,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9326,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 901,
+    "idonline_weapon_personality": 164,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9327,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 902,
+    "idonline_weapon_personality": 164,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9328,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 903,
+    "idonline_weapon_personality": 164,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9329,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 904,
+    "idonline_weapon_personality": 165,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9362,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 905,
+    "idonline_weapon_personality": 165,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9363,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 906,
+    "idonline_weapon_personality": 165,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9364,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 907,
+    "idonline_weapon_personality": 165,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9365,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 908,
+    "idonline_weapon_personality": 165,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9366,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 909,
+    "idonline_weapon_personality": 166,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11221,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 910,
+    "idonline_weapon_personality": 166,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11225,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 911,
+    "idonline_weapon_personality": 166,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11226,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 912,
+    "idonline_weapon_personality": 166,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11227,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 913,
+    "idonline_weapon_personality": 166,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11228,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 914,
+    "idonline_weapon_personality": 167,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11233,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 915,
+    "idonline_weapon_personality": 167,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11236,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 916,
+    "idonline_weapon_personality": 167,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11237,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 917,
+    "idonline_weapon_personality": 167,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11238,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 918,
+    "idonline_weapon_personality": 167,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11239,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 919,
+    "idonline_weapon_personality": 168,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11240,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 920,
+    "idonline_weapon_personality": 168,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11241,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 921,
+    "idonline_weapon_personality": 168,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11242,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 922,
+    "idonline_weapon_personality": 168,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11243,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 923,
+    "idonline_weapon_personality": 168,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11244,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 924,
+    "idonline_weapon_personality": 169,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11261,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 925,
+    "idonline_weapon_personality": 169,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11262,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 926,
+    "idonline_weapon_personality": 169,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11263,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 927,
+    "idonline_weapon_personality": 169,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11264,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 928,
+    "idonline_weapon_personality": 169,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11265,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 929,
+    "idonline_weapon_personality": 170,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11273,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 930,
+    "idonline_weapon_personality": 170,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11288,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 931,
+    "idonline_weapon_personality": 170,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11289,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 932,
+    "idonline_weapon_personality": 170,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11290,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 933,
+    "idonline_weapon_personality": 170,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11291,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 934,
+    "idonline_weapon_personality": 171,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11293,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 935,
+    "idonline_weapon_personality": 171,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11294,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 936,
+    "idonline_weapon_personality": 171,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11295,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 937,
+    "idonline_weapon_personality": 171,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11296,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 938,
+    "idonline_weapon_personality": 171,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11297,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 939,
+    "idonline_weapon_personality": 172,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11511,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 940,
+    "idonline_weapon_personality": 172,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11512,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 941,
+    "idonline_weapon_personality": 172,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11513,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 942,
+    "idonline_weapon_personality": 172,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11514,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 943,
+    "idonline_weapon_personality": 172,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11515,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  }
+]

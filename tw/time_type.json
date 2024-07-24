@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type": "None",
+    "name": "不开启",
+    "remark": "start_at,end_at无效"
+  },
+  {
+    "id": 2,
+    "type": "Once",
+    "name": "根据时间戳限时",
+    "remark": "start_at,end_at可能指向timestamp表,也可能直接是时间戳,支持运营数据"
+  },
+  {
+    "id": 3,
+    "type": "Create",
+    "name": "根据账号创建时间限时",
+    "remark": "start_at,end_at分别表示账号创建第n天"
+  },
+  {
+    "id": 4,
+    "type": "Reunion",
+    "name": "根据账号离线时间限时",
+    "remark": "start_at表示离线第n天,end_at无效"
+  },
+  {
+    "id": 5,
+    "type": "CareerReplace",
+    "name": "生涯替换",
+    "remark": "用于生涯活动替换, 如果实例数据开启, 则开启"
+  },
+  {
+    "id": 255,
+    "type": "Permanent",
+    "name": "永久开启",
+    "remark": "start_at,end_at无效"
+  }
+]

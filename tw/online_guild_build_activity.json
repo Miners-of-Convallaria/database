@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "m_online_guild_build_activity_daily_beacons": [1, 2, 3, 4, 5, 6, 7],
+    "start_at": 1707062400,
+    "play_end_at": 1707667200,
+    "end_at": 1707926400,
+    "share_treasure_type": 102,
+    "share_treasure_param0": 0,
+    "share_treasure_param1": 20,
+    "name": "第1期"
+  },
+  {
+    "id": 2,
+    "m_online_guild_build_activity_daily_beacons": [8, 9, 10, 11, 12, 13, 14],
+    "start_at": 1714060800,
+    "play_end_at": 1714665599,
+    "end_at": 1715270399,
+    "share_treasure_type": 102,
+    "share_treasure_param0": 0,
+    "share_treasure_param1": 20,
+    "name": "第2期"
+  },
+  {
+    "id": 3,
+    "m_online_guild_build_activity_daily_beacons": [15, 16, 17, 18, 19, 20, 21],
+    "start_at": 1717084800,
+    "play_end_at": 1717689599,
+    "end_at": 1718294399,
+    "share_treasure_type": 102,
+    "share_treasure_param0": 0,
+    "share_treasure_param1": 20,
+    "name": "第3期"
+  },
+  {
+    "id": 4,
+    "m_online_guild_build_activity_daily_beacons": [22, 23, 24, 25, 26, 27, 28],
+    "start_at": 1724342400,
+    "play_end_at": 1724947199,
+    "end_at": 1725551999,
+    "share_treasure_type": 102,
+    "share_treasure_param0": 0,
+    "share_treasure_param1": 20,
+    "name": "OBT1"
+  },
+  {
+    "id": 5,
+    "m_online_guild_build_activity_daily_beacons": [29, 30, 31, 32, 33, 34, 35],
+    "start_at": 1727366400,
+    "play_end_at": 1727971199,
+    "end_at": 1728575999,
+    "share_treasure_type": 102,
+    "share_treasure_param0": 0,
+    "share_treasure_param1": 20,
+    "name": "OBT2"
+  }
+]

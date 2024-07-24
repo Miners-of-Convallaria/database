@@ -1,0 +1,3532 @@
+[
+  {
+    "id": 1011,
+    "idelysium_secondary_perform": 101,
+    "sort_id": 1,
+    "lines": "111",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1012,
+    "idelysium_secondary_perform": 101,
+    "sort_id": 2,
+    "lines": "121",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1021,
+    "idelysium_secondary_perform": 102,
+    "sort_id": 1,
+    "lines": "131",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1022,
+    "idelysium_secondary_perform": 102,
+    "sort_id": 2,
+    "lines": "141",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1031,
+    "idelysium_secondary_perform": 103,
+    "sort_id": 1,
+    "lines": "151",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1032,
+    "idelysium_secondary_perform": 103,
+    "sort_id": 2,
+    "lines": "161",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1041,
+    "idelysium_secondary_perform": 104,
+    "sort_id": 1,
+    "lines": "171",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1042,
+    "idelysium_secondary_perform": 104,
+    "sort_id": 2,
+    "lines": "181",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1051,
+    "idelysium_secondary_perform": 105,
+    "sort_id": 1,
+    "lines": "301",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1052,
+    "idelysium_secondary_perform": 105,
+    "sort_id": 2,
+    "lines": "311",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1061,
+    "idelysium_secondary_perform": 106,
+    "sort_id": 1,
+    "lines": "321",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1062,
+    "idelysium_secondary_perform": 106,
+    "sort_id": 2,
+    "lines": "331",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1071,
+    "idelysium_secondary_perform": 107,
+    "sort_id": 1,
+    "lines": "341",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1072,
+    "idelysium_secondary_perform": 107,
+    "sort_id": 2,
+    "lines": "351",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1073,
+    "idelysium_secondary_perform": 107,
+    "sort_id": 3,
+    "lines": "361",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1074,
+    "idelysium_secondary_perform": 107,
+    "sort_id": 4,
+    "lines": "371",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1081,
+    "idelysium_secondary_perform": 108,
+    "sort_id": 1,
+    "lines": "381",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1082,
+    "idelysium_secondary_perform": 108,
+    "sort_id": 2,
+    "lines": "391",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1083,
+    "idelysium_secondary_perform": 108,
+    "sort_id": 3,
+    "lines": "401",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1091,
+    "idelysium_secondary_perform": 109,
+    "sort_id": 1,
+    "lines": "411",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1092,
+    "idelysium_secondary_perform": 109,
+    "sort_id": 2,
+    "lines": "421",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1101,
+    "idelysium_secondary_perform": 110,
+    "sort_id": 1,
+    "lines": "431",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1102,
+    "idelysium_secondary_perform": 110,
+    "sort_id": 2,
+    "lines": "441",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1103,
+    "idelysium_secondary_perform": 110,
+    "sort_id": 3,
+    "lines": "451",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1111,
+    "idelysium_secondary_perform": 111,
+    "sort_id": 1,
+    "lines": "461",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1112,
+    "idelysium_secondary_perform": 111,
+    "sort_id": 2,
+    "lines": "471",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1113,
+    "idelysium_secondary_perform": 111,
+    "sort_id": 3,
+    "lines": "481",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1114,
+    "idelysium_secondary_perform": 111,
+    "sort_id": 4,
+    "lines": "491",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1121,
+    "idelysium_secondary_perform": 112,
+    "sort_id": 1,
+    "lines": "501",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1122,
+    "idelysium_secondary_perform": 112,
+    "sort_id": 2,
+    "lines": "511",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1131,
+    "idelysium_secondary_perform": 113,
+    "sort_id": 1,
+    "lines": "521",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1132,
+    "idelysium_secondary_perform": 113,
+    "sort_id": 2,
+    "lines": "531",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1141,
+    "idelysium_secondary_perform": 114,
+    "sort_id": 1,
+    "lines": "541",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1142,
+    "idelysium_secondary_perform": 114,
+    "sort_id": 2,
+    "lines": "551",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1143,
+    "idelysium_secondary_perform": 114,
+    "sort_id": 3,
+    "lines": "561",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1151,
+    "idelysium_secondary_perform": 115,
+    "sort_id": 1,
+    "lines": "571",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1152,
+    "idelysium_secondary_perform": 115,
+    "sort_id": 2,
+    "lines": "581",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1153,
+    "idelysium_secondary_perform": 115,
+    "sort_id": 3,
+    "lines": "591",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1161,
+    "idelysium_secondary_perform": 116,
+    "sort_id": 1,
+    "lines": "1001",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1162,
+    "idelysium_secondary_perform": 116,
+    "sort_id": 2,
+    "lines": "1002",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1163,
+    "idelysium_secondary_perform": 116,
+    "sort_id": 3,
+    "lines": "1003",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1171,
+    "idelysium_secondary_perform": 117,
+    "sort_id": 1,
+    "lines": "1004",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1172,
+    "idelysium_secondary_perform": 117,
+    "sort_id": 2,
+    "lines": "1005",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1181,
+    "idelysium_secondary_perform": 118,
+    "sort_id": 1,
+    "lines": "1006",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1182,
+    "idelysium_secondary_perform": 118,
+    "sort_id": 2,
+    "lines": "1007",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1191,
+    "idelysium_secondary_perform": 119,
+    "sort_id": 1,
+    "lines": "1008",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1192,
+    "idelysium_secondary_perform": 119,
+    "sort_id": 2,
+    "lines": "1009",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1201,
+    "idelysium_secondary_perform": 120,
+    "sort_id": 1,
+    "lines": "1010",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1202,
+    "idelysium_secondary_perform": 120,
+    "sort_id": 2,
+    "lines": "1011",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1211,
+    "idelysium_secondary_perform": 121,
+    "sort_id": 1,
+    "lines": "1012",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1212,
+    "idelysium_secondary_perform": 121,
+    "sort_id": 2,
+    "lines": "1013",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1213,
+    "idelysium_secondary_perform": 121,
+    "sort_id": 3,
+    "lines": "1014",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1221,
+    "idelysium_secondary_perform": 122,
+    "sort_id": 1,
+    "lines": "1015",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1222,
+    "idelysium_secondary_perform": 122,
+    "sort_id": 2,
+    "lines": "1016",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1231,
+    "idelysium_secondary_perform": 123,
+    "sort_id": 1,
+    "lines": "1017",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1232,
+    "idelysium_secondary_perform": 123,
+    "sort_id": 2,
+    "lines": "1018",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1233,
+    "idelysium_secondary_perform": 123,
+    "sort_id": 3,
+    "lines": "1019",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1241,
+    "idelysium_secondary_perform": 124,
+    "sort_id": 1,
+    "lines": "1020",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1242,
+    "idelysium_secondary_perform": 124,
+    "sort_id": 2,
+    "lines": "1021",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1251,
+    "idelysium_secondary_perform": 125,
+    "sort_id": 1,
+    "lines": "1022",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1252,
+    "idelysium_secondary_perform": 125,
+    "sort_id": 2,
+    "lines": "1023",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1261,
+    "idelysium_secondary_perform": 126,
+    "sort_id": 1,
+    "lines": "1024",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1262,
+    "idelysium_secondary_perform": 126,
+    "sort_id": 2,
+    "lines": "1025",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1271,
+    "idelysium_secondary_perform": 127,
+    "sort_id": 1,
+    "lines": "1026",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1272,
+    "idelysium_secondary_perform": 127,
+    "sort_id": 2,
+    "lines": "1027",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1281,
+    "idelysium_secondary_perform": 128,
+    "sort_id": 1,
+    "lines": "1028",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1282,
+    "idelysium_secondary_perform": 128,
+    "sort_id": 2,
+    "lines": "1029",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1291,
+    "idelysium_secondary_perform": 129,
+    "sort_id": 1,
+    "lines": "1030",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1292,
+    "idelysium_secondary_perform": 129,
+    "sort_id": 2,
+    "lines": "1031",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1293,
+    "idelysium_secondary_perform": 129,
+    "sort_id": 3,
+    "lines": "1032",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1301,
+    "idelysium_secondary_perform": 130,
+    "sort_id": 1,
+    "lines": "1033",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1302,
+    "idelysium_secondary_perform": 130,
+    "sort_id": 2,
+    "lines": "1034",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1311,
+    "idelysium_secondary_perform": 131,
+    "sort_id": 1,
+    "lines": "1035",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1312,
+    "idelysium_secondary_perform": 131,
+    "sort_id": 2,
+    "lines": "1036",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1313,
+    "idelysium_secondary_perform": 131,
+    "sort_id": 3,
+    "lines": "1037",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1321,
+    "idelysium_secondary_perform": 132,
+    "sort_id": 1,
+    "lines": "1038",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1322,
+    "idelysium_secondary_perform": 132,
+    "sort_id": 2,
+    "lines": "1039",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1331,
+    "idelysium_secondary_perform": 133,
+    "sort_id": 1,
+    "lines": "1040",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1332,
+    "idelysium_secondary_perform": 133,
+    "sort_id": 2,
+    "lines": "1041",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1341,
+    "idelysium_secondary_perform": 134,
+    "sort_id": 1,
+    "lines": "1042",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1342,
+    "idelysium_secondary_perform": 134,
+    "sort_id": 2,
+    "lines": "1043",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1351,
+    "idelysium_secondary_perform": 135,
+    "sort_id": 1,
+    "lines": "1044",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1352,
+    "idelysium_secondary_perform": 135,
+    "sort_id": 2,
+    "lines": "1045",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1361,
+    "idelysium_secondary_perform": 136,
+    "sort_id": 1,
+    "lines": "1046",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1362,
+    "idelysium_secondary_perform": 136,
+    "sort_id": 2,
+    "lines": "1047",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1371,
+    "idelysium_secondary_perform": 137,
+    "sort_id": 1,
+    "lines": "1048",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1372,
+    "idelysium_secondary_perform": 137,
+    "sort_id": 2,
+    "lines": "1049",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1381,
+    "idelysium_secondary_perform": 138,
+    "sort_id": 1,
+    "lines": "1050",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1382,
+    "idelysium_secondary_perform": 138,
+    "sort_id": 2,
+    "lines": "1051",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1391,
+    "idelysium_secondary_perform": 139,
+    "sort_id": 1,
+    "lines": "1052",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1392,
+    "idelysium_secondary_perform": 139,
+    "sort_id": 2,
+    "lines": "1053",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1401,
+    "idelysium_secondary_perform": 140,
+    "sort_id": 1,
+    "lines": "1054",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1402,
+    "idelysium_secondary_perform": 140,
+    "sort_id": 2,
+    "lines": "1055",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1411,
+    "idelysium_secondary_perform": 141,
+    "sort_id": 1,
+    "lines": "1056",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1412,
+    "idelysium_secondary_perform": 141,
+    "sort_id": 2,
+    "lines": "1057",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1421,
+    "idelysium_secondary_perform": 142,
+    "sort_id": 1,
+    "lines": "1058",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1422,
+    "idelysium_secondary_perform": 142,
+    "sort_id": 2,
+    "lines": "1059",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1431,
+    "idelysium_secondary_perform": 143,
+    "sort_id": 1,
+    "lines": "1060",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1432,
+    "idelysium_secondary_perform": 143,
+    "sort_id": 2,
+    "lines": "1061",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1441,
+    "idelysium_secondary_perform": 144,
+    "sort_id": 1,
+    "lines": "1062",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1442,
+    "idelysium_secondary_perform": 144,
+    "sort_id": 2,
+    "lines": "1063",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1451,
+    "idelysium_secondary_perform": 145,
+    "sort_id": 1,
+    "lines": "1064",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1452,
+    "idelysium_secondary_perform": 145,
+    "sort_id": 2,
+    "lines": "1065",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1461,
+    "idelysium_secondary_perform": 146,
+    "sort_id": 1,
+    "lines": "1066",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1471,
+    "idelysium_secondary_perform": 147,
+    "sort_id": 1,
+    "lines": "1067",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1472,
+    "idelysium_secondary_perform": 147,
+    "sort_id": 2,
+    "lines": "1068",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1481,
+    "idelysium_secondary_perform": 148,
+    "sort_id": 1,
+    "lines": "1069",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1482,
+    "idelysium_secondary_perform": 148,
+    "sort_id": 2,
+    "lines": "1070",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1483,
+    "idelysium_secondary_perform": 148,
+    "sort_id": 3,
+    "lines": "1071",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1491,
+    "idelysium_secondary_perform": 149,
+    "sort_id": 1,
+    "lines": "1072",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1492,
+    "idelysium_secondary_perform": 149,
+    "sort_id": 2,
+    "lines": "1073",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1501,
+    "idelysium_secondary_perform": 150,
+    "sort_id": 1,
+    "lines": "1074",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1502,
+    "idelysium_secondary_perform": 150,
+    "sort_id": 2,
+    "lines": "1075",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1511,
+    "idelysium_secondary_perform": 151,
+    "sort_id": 1,
+    "lines": "1076",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1512,
+    "idelysium_secondary_perform": 151,
+    "sort_id": 2,
+    "lines": "1077",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1521,
+    "idelysium_secondary_perform": 152,
+    "sort_id": 1,
+    "lines": "1078",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1522,
+    "idelysium_secondary_perform": 152,
+    "sort_id": 2,
+    "lines": "1079",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1523,
+    "idelysium_secondary_perform": 152,
+    "sort_id": 3,
+    "lines": "1080",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1531,
+    "idelysium_secondary_perform": 153,
+    "sort_id": 1,
+    "lines": "1081",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1532,
+    "idelysium_secondary_perform": 153,
+    "sort_id": 2,
+    "lines": "1082",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1541,
+    "idelysium_secondary_perform": 154,
+    "sort_id": 1,
+    "lines": "1083",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1542,
+    "idelysium_secondary_perform": 154,
+    "sort_id": 2,
+    "lines": "1084",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1551,
+    "idelysium_secondary_perform": 155,
+    "sort_id": 1,
+    "lines": "1085",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1552,
+    "idelysium_secondary_perform": 155,
+    "sort_id": 2,
+    "lines": "1086",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1561,
+    "idelysium_secondary_perform": 156,
+    "sort_id": 1,
+    "lines": "1087",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1571,
+    "idelysium_secondary_perform": 157,
+    "sort_id": 1,
+    "lines": "1088",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1572,
+    "idelysium_secondary_perform": 157,
+    "sort_id": 2,
+    "lines": "1089",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1581,
+    "idelysium_secondary_perform": 158,
+    "sort_id": 1,
+    "lines": "1090",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1582,
+    "idelysium_secondary_perform": 158,
+    "sort_id": 2,
+    "lines": "1091",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1583,
+    "idelysium_secondary_perform": 158,
+    "sort_id": 3,
+    "lines": "1092",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1591,
+    "idelysium_secondary_perform": 159,
+    "sort_id": 1,
+    "lines": "1093",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1592,
+    "idelysium_secondary_perform": 159,
+    "sort_id": 2,
+    "lines": "1094",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1601,
+    "idelysium_secondary_perform": 160,
+    "sort_id": 1,
+    "lines": "1095",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1602,
+    "idelysium_secondary_perform": 160,
+    "sort_id": 2,
+    "lines": "1096",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1611,
+    "idelysium_secondary_perform": 161,
+    "sort_id": 1,
+    "lines": "1097",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1612,
+    "idelysium_secondary_perform": 161,
+    "sort_id": 2,
+    "lines": "1098",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1613,
+    "idelysium_secondary_perform": 161,
+    "sort_id": 3,
+    "lines": "1099",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1621,
+    "idelysium_secondary_perform": 162,
+    "sort_id": 1,
+    "lines": "1100",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1622,
+    "idelysium_secondary_perform": 162,
+    "sort_id": 2,
+    "lines": "1101",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1623,
+    "idelysium_secondary_perform": 162,
+    "sort_id": 3,
+    "lines": "1102",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1631,
+    "idelysium_secondary_perform": 163,
+    "sort_id": 1,
+    "lines": "1103",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1632,
+    "idelysium_secondary_perform": 163,
+    "sort_id": 2,
+    "lines": "1104",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1641,
+    "idelysium_secondary_perform": 164,
+    "sort_id": 1,
+    "lines": "1105",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1642,
+    "idelysium_secondary_perform": 164,
+    "sort_id": 2,
+    "lines": "1106",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1651,
+    "idelysium_secondary_perform": 165,
+    "sort_id": 1,
+    "lines": "1107",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1652,
+    "idelysium_secondary_perform": 165,
+    "sort_id": 2,
+    "lines": "1108",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1661,
+    "idelysium_secondary_perform": 166,
+    "sort_id": 1,
+    "lines": "1109",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1662,
+    "idelysium_secondary_perform": 166,
+    "sort_id": 2,
+    "lines": "1110",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1671,
+    "idelysium_secondary_perform": 167,
+    "sort_id": 1,
+    "lines": "1111",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1672,
+    "idelysium_secondary_perform": 167,
+    "sort_id": 2,
+    "lines": "1112",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1681,
+    "idelysium_secondary_perform": 168,
+    "sort_id": 1,
+    "lines": "1113",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1682,
+    "idelysium_secondary_perform": 168,
+    "sort_id": 2,
+    "lines": "1114",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1683,
+    "idelysium_secondary_perform": 168,
+    "sort_id": 3,
+    "lines": "1115",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1691,
+    "idelysium_secondary_perform": 169,
+    "sort_id": 1,
+    "lines": "1116",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1692,
+    "idelysium_secondary_perform": 169,
+    "sort_id": 2,
+    "lines": "1117",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1701,
+    "idelysium_secondary_perform": 170,
+    "sort_id": 1,
+    "lines": "1118",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1702,
+    "idelysium_secondary_perform": 170,
+    "sort_id": 2,
+    "lines": "1119",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1711,
+    "idelysium_secondary_perform": 171,
+    "sort_id": 1,
+    "lines": "1120",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1712,
+    "idelysium_secondary_perform": 171,
+    "sort_id": 2,
+    "lines": "1121",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1713,
+    "idelysium_secondary_perform": 171,
+    "sort_id": 3,
+    "lines": "1122",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1721,
+    "idelysium_secondary_perform": 172,
+    "sort_id": 1,
+    "lines": "1123",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1722,
+    "idelysium_secondary_perform": 172,
+    "sort_id": 2,
+    "lines": "1124",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1723,
+    "idelysium_secondary_perform": 172,
+    "sort_id": 3,
+    "lines": "1125",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1731,
+    "idelysium_secondary_perform": 173,
+    "sort_id": 1,
+    "lines": "1126",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1732,
+    "idelysium_secondary_perform": 173,
+    "sort_id": 2,
+    "lines": "1127",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 1741,
+    "idelysium_secondary_perform": 174,
+    "sort_id": 1,
+    "lines": "1128",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1742,
+    "idelysium_secondary_perform": 174,
+    "sort_id": 2,
+    "lines": "1129",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1751,
+    "idelysium_secondary_perform": 175,
+    "sort_id": 1,
+    "lines": "1130",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1752,
+    "idelysium_secondary_perform": 175,
+    "sort_id": 2,
+    "lines": "1131",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1761,
+    "idelysium_secondary_perform": 176,
+    "sort_id": 1,
+    "lines": "1132",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1762,
+    "idelysium_secondary_perform": 176,
+    "sort_id": 2,
+    "lines": "1133",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1763,
+    "idelysium_secondary_perform": 176,
+    "sort_id": 3,
+    "lines": "1134",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1771,
+    "idelysium_secondary_perform": 177,
+    "sort_id": 1,
+    "lines": "1135",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1772,
+    "idelysium_secondary_perform": 177,
+    "sort_id": 2,
+    "lines": "1136",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1781,
+    "idelysium_secondary_perform": 178,
+    "sort_id": 1,
+    "lines": "1137",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1782,
+    "idelysium_secondary_perform": 178,
+    "sort_id": 2,
+    "lines": "1138",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1783,
+    "idelysium_secondary_perform": 178,
+    "sort_id": 3,
+    "lines": "1139",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1791,
+    "idelysium_secondary_perform": 179,
+    "sort_id": 1,
+    "lines": "1140",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1792,
+    "idelysium_secondary_perform": 179,
+    "sort_id": 2,
+    "lines": "1141",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1801,
+    "idelysium_secondary_perform": 180,
+    "sort_id": 1,
+    "lines": "1142",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1802,
+    "idelysium_secondary_perform": 180,
+    "sort_id": 2,
+    "lines": "1143",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1811,
+    "idelysium_secondary_perform": 181,
+    "sort_id": 1,
+    "lines": "1144",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1812,
+    "idelysium_secondary_perform": 181,
+    "sort_id": 2,
+    "lines": "1145",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1821,
+    "idelysium_secondary_perform": 182,
+    "sort_id": 1,
+    "lines": "1146",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1822,
+    "idelysium_secondary_perform": 182,
+    "sort_id": 2,
+    "lines": "1147",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1831,
+    "idelysium_secondary_perform": 183,
+    "sort_id": 1,
+    "lines": "1148",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1832,
+    "idelysium_secondary_perform": 183,
+    "sort_id": 2,
+    "lines": "1149",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1841,
+    "idelysium_secondary_perform": 184,
+    "sort_id": 1,
+    "lines": "1150",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1842,
+    "idelysium_secondary_perform": 184,
+    "sort_id": 2,
+    "lines": "1151",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1851,
+    "idelysium_secondary_perform": 185,
+    "sort_id": 1,
+    "lines": "1152",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1852,
+    "idelysium_secondary_perform": 185,
+    "sort_id": 2,
+    "lines": "1153",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1861,
+    "idelysium_secondary_perform": 186,
+    "sort_id": 1,
+    "lines": "1154",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1862,
+    "idelysium_secondary_perform": 186,
+    "sort_id": 2,
+    "lines": "1155",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1871,
+    "idelysium_secondary_perform": 187,
+    "sort_id": 1,
+    "lines": "1156",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1872,
+    "idelysium_secondary_perform": 187,
+    "sort_id": 2,
+    "lines": "1157",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1881,
+    "idelysium_secondary_perform": 188,
+    "sort_id": 1,
+    "lines": "1158",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1882,
+    "idelysium_secondary_perform": 188,
+    "sort_id": 2,
+    "lines": "1159",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1891,
+    "idelysium_secondary_perform": 189,
+    "sort_id": 1,
+    "lines": "1160",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1892,
+    "idelysium_secondary_perform": 189,
+    "sort_id": 2,
+    "lines": "1161",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1901,
+    "idelysium_secondary_perform": 190,
+    "sort_id": 1,
+    "lines": "1162",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1902,
+    "idelysium_secondary_perform": 190,
+    "sort_id": 2,
+    "lines": "1163",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1911,
+    "idelysium_secondary_perform": 191,
+    "sort_id": 1,
+    "lines": "1164",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1912,
+    "idelysium_secondary_perform": 191,
+    "sort_id": 2,
+    "lines": "1165",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1921,
+    "idelysium_secondary_perform": 192,
+    "sort_id": 1,
+    "lines": "1166",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1931,
+    "idelysium_secondary_perform": 193,
+    "sort_id": 1,
+    "lines": "1167",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1932,
+    "idelysium_secondary_perform": 193,
+    "sort_id": 2,
+    "lines": "1168",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1941,
+    "idelysium_secondary_perform": 194,
+    "sort_id": 1,
+    "lines": "1169",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1942,
+    "idelysium_secondary_perform": 194,
+    "sort_id": 2,
+    "lines": "1170",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1951,
+    "idelysium_secondary_perform": 195,
+    "sort_id": 1,
+    "lines": "1171",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1952,
+    "idelysium_secondary_perform": 195,
+    "sort_id": 2,
+    "lines": "1172",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1961,
+    "idelysium_secondary_perform": 196,
+    "sort_id": 1,
+    "lines": "1173",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1962,
+    "idelysium_secondary_perform": 196,
+    "sort_id": 2,
+    "lines": "1174",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1963,
+    "idelysium_secondary_perform": 196,
+    "sort_id": 3,
+    "lines": "1175",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1971,
+    "idelysium_secondary_perform": 197,
+    "sort_id": 1,
+    "lines": "1176",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1972,
+    "idelysium_secondary_perform": 197,
+    "sort_id": 2,
+    "lines": "1177",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 3,
+    "speaker_id": 0
+  },
+  {
+    "id": 1981,
+    "idelysium_secondary_perform": 198,
+    "sort_id": 1,
+    "lines": "1178",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1982,
+    "idelysium_secondary_perform": 198,
+    "sort_id": 2,
+    "lines": "1179",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1991,
+    "idelysium_secondary_perform": 199,
+    "sort_id": 1,
+    "lines": "1180",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 1992,
+    "idelysium_secondary_perform": 199,
+    "sort_id": 2,
+    "lines": "1181",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2001,
+    "idelysium_secondary_perform": 200,
+    "sort_id": 1,
+    "lines": "1182",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2002,
+    "idelysium_secondary_perform": 200,
+    "sort_id": 2,
+    "lines": "1183",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2011,
+    "idelysium_secondary_perform": 201,
+    "sort_id": 1,
+    "lines": "1184",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2012,
+    "idelysium_secondary_perform": 201,
+    "sort_id": 2,
+    "lines": "1185",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2021,
+    "idelysium_secondary_perform": 202,
+    "sort_id": 1,
+    "lines": "1186",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2022,
+    "idelysium_secondary_perform": 202,
+    "sort_id": 2,
+    "lines": "1187",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2031,
+    "idelysium_secondary_perform": 203,
+    "sort_id": 1,
+    "lines": "1188",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2032,
+    "idelysium_secondary_perform": 203,
+    "sort_id": 2,
+    "lines": "1189",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2041,
+    "idelysium_secondary_perform": 204,
+    "sort_id": 1,
+    "lines": "1190",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2042,
+    "idelysium_secondary_perform": 204,
+    "sort_id": 2,
+    "lines": "1191",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2051,
+    "idelysium_secondary_perform": 205,
+    "sort_id": 1,
+    "lines": "1192",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2052,
+    "idelysium_secondary_perform": 205,
+    "sort_id": 2,
+    "lines": "1193",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2061,
+    "idelysium_secondary_perform": 206,
+    "sort_id": 1,
+    "lines": "1194",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2062,
+    "idelysium_secondary_perform": 206,
+    "sort_id": 2,
+    "lines": "1195",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2071,
+    "idelysium_secondary_perform": 207,
+    "sort_id": 1,
+    "lines": "1196",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2072,
+    "idelysium_secondary_perform": 207,
+    "sort_id": 2,
+    "lines": "1197",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2081,
+    "idelysium_secondary_perform": 208,
+    "sort_id": 1,
+    "lines": "1198",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2082,
+    "idelysium_secondary_perform": 208,
+    "sort_id": 2,
+    "lines": "1199",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2091,
+    "idelysium_secondary_perform": 209,
+    "sort_id": 1,
+    "lines": "1200",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2092,
+    "idelysium_secondary_perform": 209,
+    "sort_id": 2,
+    "lines": "1201",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2101,
+    "idelysium_secondary_perform": 210,
+    "sort_id": 1,
+    "lines": "1202",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2102,
+    "idelysium_secondary_perform": 210,
+    "sort_id": 2,
+    "lines": "1203",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2103,
+    "idelysium_secondary_perform": 210,
+    "sort_id": 3,
+    "lines": "1204",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2111,
+    "idelysium_secondary_perform": 211,
+    "sort_id": 1,
+    "lines": "1205",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2112,
+    "idelysium_secondary_perform": 211,
+    "sort_id": 2,
+    "lines": "1206",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2121,
+    "idelysium_secondary_perform": 212,
+    "sort_id": 1,
+    "lines": "1207",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2122,
+    "idelysium_secondary_perform": 212,
+    "sort_id": 2,
+    "lines": "1208",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2123,
+    "idelysium_secondary_perform": 212,
+    "sort_id": 3,
+    "lines": "1209",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2131,
+    "idelysium_secondary_perform": 213,
+    "sort_id": 1,
+    "lines": "1210",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 2132,
+    "idelysium_secondary_perform": 213,
+    "sort_id": 2,
+    "lines": "1211",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2133,
+    "idelysium_secondary_perform": 213,
+    "sort_id": 3,
+    "lines": "1212",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2134,
+    "idelysium_secondary_perform": 213,
+    "sort_id": 4,
+    "lines": "1213",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2141,
+    "idelysium_secondary_perform": 214,
+    "sort_id": 1,
+    "lines": "1214",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2142,
+    "idelysium_secondary_perform": 214,
+    "sort_id": 2,
+    "lines": "1215",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2143,
+    "idelysium_secondary_perform": 214,
+    "sort_id": 3,
+    "lines": "1216",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2151,
+    "idelysium_secondary_perform": 215,
+    "sort_id": 1,
+    "lines": "1217",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2152,
+    "idelysium_secondary_perform": 215,
+    "sort_id": 2,
+    "lines": "1218",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2161,
+    "idelysium_secondary_perform": 216,
+    "sort_id": 1,
+    "lines": "1219",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2162,
+    "idelysium_secondary_perform": 216,
+    "sort_id": 2,
+    "lines": "1220",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2163,
+    "idelysium_secondary_perform": 216,
+    "sort_id": 3,
+    "lines": "1221",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2171,
+    "idelysium_secondary_perform": 217,
+    "sort_id": 1,
+    "lines": "1222",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2172,
+    "idelysium_secondary_perform": 217,
+    "sort_id": 2,
+    "lines": "1223",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2173,
+    "idelysium_secondary_perform": 217,
+    "sort_id": 3,
+    "lines": "1224",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2181,
+    "idelysium_secondary_perform": 218,
+    "sort_id": 1,
+    "lines": "1225",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2182,
+    "idelysium_secondary_perform": 218,
+    "sort_id": 2,
+    "lines": "1226",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2191,
+    "idelysium_secondary_perform": 219,
+    "sort_id": 1,
+    "lines": "1227",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2192,
+    "idelysium_secondary_perform": 219,
+    "sort_id": 2,
+    "lines": "1228",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2193,
+    "idelysium_secondary_perform": 219,
+    "sort_id": 3,
+    "lines": "1229",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2201,
+    "idelysium_secondary_perform": 220,
+    "sort_id": 1,
+    "lines": "1230",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2202,
+    "idelysium_secondary_perform": 220,
+    "sort_id": 2,
+    "lines": "1231",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2211,
+    "idelysium_secondary_perform": 221,
+    "sort_id": 1,
+    "lines": "1232",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2212,
+    "idelysium_secondary_perform": 221,
+    "sort_id": 2,
+    "lines": "1233",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2221,
+    "idelysium_secondary_perform": 222,
+    "sort_id": 1,
+    "lines": "1234",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2231,
+    "idelysium_secondary_perform": 223,
+    "sort_id": 1,
+    "lines": "1235",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2241,
+    "idelysium_secondary_perform": 224,
+    "sort_id": 1,
+    "lines": "1236",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2242,
+    "idelysium_secondary_perform": 224,
+    "sort_id": 2,
+    "lines": "1237",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2251,
+    "idelysium_secondary_perform": 225,
+    "sort_id": 1,
+    "lines": "1238",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2252,
+    "idelysium_secondary_perform": 225,
+    "sort_id": 2,
+    "lines": "1239",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2261,
+    "idelysium_secondary_perform": 226,
+    "sort_id": 1,
+    "lines": "1240",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2262,
+    "idelysium_secondary_perform": 226,
+    "sort_id": 2,
+    "lines": "1241",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2263,
+    "idelysium_secondary_perform": 226,
+    "sort_id": 3,
+    "lines": "1242",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2271,
+    "idelysium_secondary_perform": 227,
+    "sort_id": 1,
+    "lines": "1243",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2281,
+    "idelysium_secondary_perform": 228,
+    "sort_id": 1,
+    "lines": "1244",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2282,
+    "idelysium_secondary_perform": 228,
+    "sort_id": 2,
+    "lines": "1245",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2291,
+    "idelysium_secondary_perform": 229,
+    "sort_id": 1,
+    "lines": "1246",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2292,
+    "idelysium_secondary_perform": 229,
+    "sort_id": 2,
+    "lines": "1247",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2301,
+    "idelysium_secondary_perform": 230,
+    "sort_id": 1,
+    "lines": "1248",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2302,
+    "idelysium_secondary_perform": 230,
+    "sort_id": 2,
+    "lines": "1249",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2311,
+    "idelysium_secondary_perform": 231,
+    "sort_id": 1,
+    "lines": "1250",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2312,
+    "idelysium_secondary_perform": 231,
+    "sort_id": 2,
+    "lines": "1251",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2321,
+    "idelysium_secondary_perform": 232,
+    "sort_id": 1,
+    "lines": "1252",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2331,
+    "idelysium_secondary_perform": 233,
+    "sort_id": 1,
+    "lines": "1253",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2332,
+    "idelysium_secondary_perform": 233,
+    "sort_id": 2,
+    "lines": "1254",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2341,
+    "idelysium_secondary_perform": 234,
+    "sort_id": 1,
+    "lines": "1255",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2351,
+    "idelysium_secondary_perform": 235,
+    "sort_id": 1,
+    "lines": "1256",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2352,
+    "idelysium_secondary_perform": 235,
+    "sort_id": 2,
+    "lines": "1257",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2361,
+    "idelysium_secondary_perform": 236,
+    "sort_id": 1,
+    "lines": "1258",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2362,
+    "idelysium_secondary_perform": 236,
+    "sort_id": 2,
+    "lines": "1259",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2371,
+    "idelysium_secondary_perform": 237,
+    "sort_id": 1,
+    "lines": "1260",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 2,
+    "speaker_id": 0
+  },
+  {
+    "id": 2372,
+    "idelysium_secondary_perform": 237,
+    "sort_id": 2,
+    "lines": "1261",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2381,
+    "idelysium_secondary_perform": 238,
+    "sort_id": 1,
+    "lines": "1262",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2382,
+    "idelysium_secondary_perform": 238,
+    "sort_id": 2,
+    "lines": "1263",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2383,
+    "idelysium_secondary_perform": 238,
+    "sort_id": 3,
+    "lines": "1264",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2391,
+    "idelysium_secondary_perform": 239,
+    "sort_id": 1,
+    "lines": "1265",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2392,
+    "idelysium_secondary_perform": 239,
+    "sort_id": 2,
+    "lines": "1266",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2401,
+    "idelysium_secondary_perform": 240,
+    "sort_id": 1,
+    "lines": "1267",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2402,
+    "idelysium_secondary_perform": 240,
+    "sort_id": 2,
+    "lines": "1268",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2403,
+    "idelysium_secondary_perform": 240,
+    "sort_id": 3,
+    "lines": "1269",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2411,
+    "idelysium_secondary_perform": 241,
+    "sort_id": 1,
+    "lines": "1270",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2412,
+    "idelysium_secondary_perform": 241,
+    "sort_id": 2,
+    "lines": "1271",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2421,
+    "idelysium_secondary_perform": 242,
+    "sort_id": 1,
+    "lines": "1272",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2422,
+    "idelysium_secondary_perform": 242,
+    "sort_id": 2,
+    "lines": "1273",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2431,
+    "idelysium_secondary_perform": 243,
+    "sort_id": 1,
+    "lines": "1274",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2432,
+    "idelysium_secondary_perform": 243,
+    "sort_id": 2,
+    "lines": "1275",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2441,
+    "idelysium_secondary_perform": 244,
+    "sort_id": 1,
+    "lines": "1276",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2442,
+    "idelysium_secondary_perform": 244,
+    "sort_id": 2,
+    "lines": "1277",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2451,
+    "idelysium_secondary_perform": 245,
+    "sort_id": 1,
+    "lines": "1278",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2452,
+    "idelysium_secondary_perform": 245,
+    "sort_id": 2,
+    "lines": "1279",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2461,
+    "idelysium_secondary_perform": 246,
+    "sort_id": 1,
+    "lines": "1280",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2471,
+    "idelysium_secondary_perform": 247,
+    "sort_id": 1,
+    "lines": "1281",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2472,
+    "idelysium_secondary_perform": 247,
+    "sort_id": 2,
+    "lines": "1282",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2481,
+    "idelysium_secondary_perform": 248,
+    "sort_id": 1,
+    "lines": "1283",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2482,
+    "idelysium_secondary_perform": 248,
+    "sort_id": 2,
+    "lines": "1284",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2491,
+    "idelysium_secondary_perform": 249,
+    "sort_id": 1,
+    "lines": "1285",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2492,
+    "idelysium_secondary_perform": 249,
+    "sort_id": 2,
+    "lines": "1286",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2501,
+    "idelysium_secondary_perform": 250,
+    "sort_id": 1,
+    "lines": "1287",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2502,
+    "idelysium_secondary_perform": 250,
+    "sort_id": 2,
+    "lines": "1288",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2511,
+    "idelysium_secondary_perform": 251,
+    "sort_id": 1,
+    "lines": "1289",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2512,
+    "idelysium_secondary_perform": 251,
+    "sort_id": 2,
+    "lines": "1290",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2521,
+    "idelysium_secondary_perform": 252,
+    "sort_id": 1,
+    "lines": "1291",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2522,
+    "idelysium_secondary_perform": 252,
+    "sort_id": 2,
+    "lines": "1292",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2531,
+    "idelysium_secondary_perform": 253,
+    "sort_id": 1,
+    "lines": "1293",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2532,
+    "idelysium_secondary_perform": 253,
+    "sort_id": 2,
+    "lines": "1294",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2541,
+    "idelysium_secondary_perform": 254,
+    "sort_id": 1,
+    "lines": "1295",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2542,
+    "idelysium_secondary_perform": 254,
+    "sort_id": 2,
+    "lines": "1296",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2551,
+    "idelysium_secondary_perform": 255,
+    "sort_id": 1,
+    "lines": "1297",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2552,
+    "idelysium_secondary_perform": 255,
+    "sort_id": 2,
+    "lines": "1298",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2553,
+    "idelysium_secondary_perform": 255,
+    "sort_id": 3,
+    "lines": "1299",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2561,
+    "idelysium_secondary_perform": 256,
+    "sort_id": 1,
+    "lines": "1300",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2562,
+    "idelysium_secondary_perform": 256,
+    "sort_id": 2,
+    "lines": "1301",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2571,
+    "idelysium_secondary_perform": 257,
+    "sort_id": 1,
+    "lines": "1302",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2572,
+    "idelysium_secondary_perform": 257,
+    "sort_id": 2,
+    "lines": "1303",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2573,
+    "idelysium_secondary_perform": 257,
+    "sort_id": 3,
+    "lines": "1304",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2581,
+    "idelysium_secondary_perform": 258,
+    "sort_id": 1,
+    "lines": "1305",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2582,
+    "idelysium_secondary_perform": 258,
+    "sort_id": 2,
+    "lines": "1306",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2591,
+    "idelysium_secondary_perform": 259,
+    "sort_id": 1,
+    "lines": "1307",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2592,
+    "idelysium_secondary_perform": 259,
+    "sort_id": 2,
+    "lines": "1308",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2593,
+    "idelysium_secondary_perform": 259,
+    "sort_id": 3,
+    "lines": "1309",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2601,
+    "idelysium_secondary_perform": 260,
+    "sort_id": 1,
+    "lines": "1310",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2602,
+    "idelysium_secondary_perform": 260,
+    "sort_id": 2,
+    "lines": "1311",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2611,
+    "idelysium_secondary_perform": 261,
+    "sort_id": 1,
+    "lines": "1312",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2612,
+    "idelysium_secondary_perform": 261,
+    "sort_id": 2,
+    "lines": "1313",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2613,
+    "idelysium_secondary_perform": 261,
+    "sort_id": 3,
+    "lines": "1314",
+    "speed": 12,
+    "hole_time": 800,
+    "bubble_type": 1,
+    "speaker_id": 0
+  },
+  {
+    "id": 2614,
+    "idelysium_secondary_perform": 261,
+    "sort_id": 4,
+    "lines": "1315",
+    "speed": 12,
+    "hole_time": 1200,
+    "bubble_type": 1,
+    "speaker_id": 0
+  }
+]

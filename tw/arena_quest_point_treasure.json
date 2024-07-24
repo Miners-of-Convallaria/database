@@ -1,0 +1,254 @@
+[
+  {
+    "id": 11,
+    "name": "活跃度10奖励",
+    "target_point": 10,
+    "treasure_type": 103,
+    "treasure_param0": 0,
+    "treasure_param1": 3000,
+    "is_big": false
+  },
+  {
+    "id": 21,
+    "name": "活跃度20奖励",
+    "target_point": 20,
+    "treasure_type": 115,
+    "treasure_param0": 0,
+    "treasure_param1": 1000,
+    "is_big": false
+  },
+  {
+    "id": 31,
+    "name": "活跃度30奖励",
+    "target_point": 30,
+    "treasure_type": 102,
+    "treasure_param0": 0,
+    "treasure_param1": 50,
+    "is_big": true
+  },
+  {
+    "id": 41,
+    "name": "活跃度40奖励",
+    "target_point": 40,
+    "treasure_type": 137,
+    "treasure_param0": 1,
+    "treasure_param1": 1,
+    "is_big": false
+  },
+  {
+    "id": 51,
+    "name": "活跃度50奖励",
+    "target_point": 50,
+    "treasure_type": 117,
+    "treasure_param0": 2,
+    "treasure_param1": 8,
+    "is_big": false
+  },
+  {
+    "id": 61,
+    "name": "活跃度60奖励",
+    "target_point": 60,
+    "treasure_type": 102,
+    "treasure_param0": 0,
+    "treasure_param1": 50,
+    "is_big": true
+  },
+  {
+    "id": 81,
+    "name": "活跃度80奖励",
+    "target_point": 80,
+    "treasure_type": 112,
+    "treasure_param0": 0,
+    "treasure_param1": 2000,
+    "is_big": false
+  },
+  {
+    "id": 101,
+    "name": "活跃度100奖励",
+    "target_point": 100,
+    "treasure_type": 137,
+    "treasure_param0": 2,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 102,
+    "name": "活跃度100奖励_v2",
+    "target_point": 100,
+    "treasure_type": 137,
+    "treasure_param0": 171,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 121,
+    "name": "活跃度120奖励",
+    "target_point": 120,
+    "treasure_type": 117,
+    "treasure_param0": 3,
+    "treasure_param1": 8,
+    "is_big": false
+  },
+  {
+    "id": 141,
+    "name": "活跃度140奖励",
+    "target_point": 140,
+    "treasure_type": 102,
+    "treasure_param0": 0,
+    "treasure_param1": 50,
+    "is_big": true
+  },
+  {
+    "id": 161,
+    "name": "活跃度160奖励",
+    "target_point": 160,
+    "treasure_type": 103,
+    "treasure_param0": 0,
+    "treasure_param1": 10000,
+    "is_big": false
+  },
+  {
+    "id": 181,
+    "name": "活跃度180奖励",
+    "target_point": 180,
+    "treasure_type": 137,
+    "treasure_param0": 4,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 182,
+    "name": "活跃度180奖励_v2",
+    "target_point": 180,
+    "treasure_type": 137,
+    "treasure_param0": 173,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 201,
+    "name": "活跃度200奖励",
+    "target_point": 200,
+    "treasure_type": 115,
+    "treasure_param0": 0,
+    "treasure_param1": 10000,
+    "is_big": false
+  },
+  {
+    "id": 221,
+    "name": "活跃度220奖励",
+    "target_point": 220,
+    "treasure_type": 137,
+    "treasure_param0": 4,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 222,
+    "name": "活跃度220奖励_v2",
+    "target_point": 220,
+    "treasure_type": 137,
+    "treasure_param0": 173,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 241,
+    "name": "活跃度240奖励",
+    "target_point": 240,
+    "treasure_type": 129,
+    "treasure_param0": 0,
+    "treasure_param1": 2000,
+    "is_big": false
+  },
+  {
+    "id": 261,
+    "name": "活跃度260奖励",
+    "target_point": 260,
+    "treasure_type": 121,
+    "treasure_param0": 1,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 281,
+    "name": "活跃度280奖励",
+    "target_point": 280,
+    "treasure_type": 117,
+    "treasure_param0": 4,
+    "treasure_param1": 5,
+    "is_big": false
+  },
+  {
+    "id": 301,
+    "name": "活跃度300奖励",
+    "target_point": 300,
+    "treasure_type": 137,
+    "treasure_param0": 4,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 302,
+    "name": "活跃度300奖励_v2",
+    "target_point": 300,
+    "treasure_type": 137,
+    "treasure_param0": 173,
+    "treasure_param1": 1,
+    "is_big": true
+  },
+  {
+    "id": 351,
+    "name": "活跃度350奖励",
+    "target_point": 350,
+    "treasure_type": 103,
+    "treasure_param0": 0,
+    "treasure_param1": 10000,
+    "is_big": false
+  },
+  {
+    "id": 401,
+    "name": "活跃度400奖励",
+    "target_point": 400,
+    "treasure_type": 137,
+    "treasure_param0": 16,
+    "treasure_param1": 3,
+    "is_big": false
+  },
+  {
+    "id": 451,
+    "name": "活跃度450奖励",
+    "target_point": 450,
+    "treasure_type": 117,
+    "treasure_param0": 4,
+    "treasure_param1": 3,
+    "is_big": false
+  },
+  {
+    "id": 501,
+    "name": "活跃度500奖励",
+    "target_point": 500,
+    "treasure_type": 115,
+    "treasure_param0": 0,
+    "treasure_param1": 15000,
+    "is_big": false
+  },
+  {
+    "id": 551,
+    "name": "活跃度550奖励",
+    "target_point": 550,
+    "treasure_type": 103,
+    "treasure_param0": 0,
+    "treasure_param1": 15000,
+    "is_big": false
+  },
+  {
+    "id": 601,
+    "name": "活跃度600奖励",
+    "target_point": 600,
+    "treasure_type": 103,
+    "treasure_param0": 0,
+    "treasure_param1": 15000,
+    "is_big": false
+  }
+]

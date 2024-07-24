@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "春",
+    "prefab": "OnlineBattlePass_01"
+  },
+  {
+    "id": 2,
+    "name": "夏",
+    "prefab": "OnlineBattlePass_02"
+  },
+  {
+    "id": 3,
+    "name": "庄严秋日",
+    "prefab": "OnlineBattlePass_03"
+  },
+  {
+    "id": 4,
+    "name": "冬之协奏曲",
+    "prefab": "OnlineBattlePass_04"
+  }
+]

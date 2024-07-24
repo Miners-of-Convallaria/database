@@ -1,0 +1,4282 @@
+[
+  {
+    "id": 10001,
+    "idsandbox_event": 10,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "事件战斗测试1-可重试可认输",
+    "consume_ids": "1|2|3",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 10002,
+    "idsandbox_event": 10,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "事件战斗测试2-可重试不可认输",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 10003,
+    "idsandbox_event": 10,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "事件战斗测试3-不可重试可认输",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 10004,
+    "idsandbox_event": 10,
+    "option_id": 4,
+    "group_id": 0,
+    "text": "无事发生",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 4
+  },
+  {
+    "id": 10005,
+    "idsandbox_event": 10,
+    "option_id": 5,
+    "group_id": 0,
+    "text": "发一个定制派遣委托",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 5
+  },
+  {
+    "id": 10006,
+    "idsandbox_event": 10,
+    "option_id": 6,
+    "group_id": 0,
+    "text": "刷三个测重试认输的事件战斗（也可以去debug菜单里找它们）",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 6
+  },
+  {
+    "id": 19001,
+    "idsandbox_event": 19,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 19002,
+    "idsandbox_event": 19,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 33001,
+    "idsandbox_event": 33,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 33002,
+    "idsandbox_event": 33,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 35001,
+    "idsandbox_event": 35,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 35002,
+    "idsandbox_event": 35,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 36001,
+    "idsandbox_event": 36,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 36002,
+    "idsandbox_event": 36,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 55001,
+    "idsandbox_event": 55,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 55002,
+    "idsandbox_event": 55,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 59001,
+    "idsandbox_event": 59,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 59002,
+    "idsandbox_event": 59,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 61001,
+    "idsandbox_event": 61,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 61002,
+    "idsandbox_event": 61,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 71001,
+    "idsandbox_event": 71,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 71002,
+    "idsandbox_event": 71,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 74001,
+    "idsandbox_event": 74,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 74002,
+    "idsandbox_event": 74,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 77001,
+    "idsandbox_event": 77,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "调用一个简单演出+解锁档案系统",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 77002,
+    "idsandbox_event": 77,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "无事发生",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 77003,
+    "idsandbox_event": 77,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "调用一个图文简报选择事件+解锁档案系统",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 77004,
+    "idsandbox_event": 77,
+    "option_id": 4,
+    "group_id": 0,
+    "text": "开始写测试笔记+解锁档案系统",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 4
+  },
+  {
+    "id": 77005,
+    "idsandbox_event": 77,
+    "option_id": 5,
+    "group_id": 0,
+    "text": "调用一个地图演出+解锁档案系统",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 5
+  },
+  {
+    "id": 77006,
+    "idsandbox_event": 77,
+    "option_id": 6,
+    "group_id": 0,
+    "text": "调用一个timeline演出+解锁档案系统",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 6
+  },
+  {
+    "id": 77007,
+    "idsandbox_event": 77,
+    "option_id": 7,
+    "group_id": 0,
+    "text": "获得骑士团势力声望与影响力",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 7
+  },
+  {
+    "id": 96001,
+    "idsandbox_event": 96,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 98001,
+    "idsandbox_event": 98,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 98002,
+    "idsandbox_event": 98,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 170001,
+    "idsandbox_event": 170,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": false,
+    "result_id": 0
+  },
+  {
+    "id": 198001,
+    "idsandbox_event": 198,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开启阶段目标6",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 198002,
+    "idsandbox_event": 198,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "获得一个情报【伊利亚王国】",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 198003,
+    "idsandbox_event": 198,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "开启产出阶段目标值的委托",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 198004,
+    "idsandbox_event": 198,
+    "option_id": 4,
+    "group_id": 0,
+    "text": "关闭阶段目标",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 4
+  },
+  {
+    "id": 198005,
+    "idsandbox_event": 198,
+    "option_id": 5,
+    "group_id": 0,
+    "text": "无事发生",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 5
+  },
+  {
+    "id": 198006,
+    "idsandbox_event": 198,
+    "option_id": 6,
+    "group_id": 0,
+    "text": "地图上插一个钉子在王都，并且加50点阶段目标值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 6
+  },
+  {
+    "id": 198007,
+    "idsandbox_event": 198,
+    "option_id": 7,
+    "group_id": 0,
+    "text": "开启情报系统和派遣委托系统",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 7
+  },
+  {
+    "id": 220001,
+    "idsandbox_event": 220,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 220002,
+    "idsandbox_event": 220,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 221001,
+    "idsandbox_event": 221,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "轻如鸿毛结局数值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 221002,
+    "idsandbox_event": 221,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "未完的命运结局数值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 221003,
+    "idsandbox_event": 221,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "永别了结局1数值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 221004,
+    "idsandbox_event": 221,
+    "option_id": 4,
+    "group_id": 0,
+    "text": "永别了结局2数值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 4
+  },
+  {
+    "id": 223001,
+    "idsandbox_event": 223,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "缴纳1个R稀有度的蓝图",
+    "consume_ids": "5",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 223002,
+    "idsandbox_event": 223,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "缴纳100游戏币，然后酒馆里刷一个强制主城事件",
+    "consume_ids": "7",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 223003,
+    "idsandbox_event": 223,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "缴纳1个史诗武器",
+    "consume_ids": "6",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 223004,
+    "idsandbox_event": 223,
+    "option_id": 4,
+    "group_id": 0,
+    "text": "缴纳1个N稀有度防御者角色",
+    "consume_ids": "3",
+    "is_selectable": true,
+    "result_id": 4
+  },
+  {
+    "id": 223005,
+    "idsandbox_event": 223,
+    "option_id": 5,
+    "group_id": 0,
+    "text": "缴纳10个木材",
+    "consume_ids": "4",
+    "is_selectable": true,
+    "result_id": 5
+  },
+  {
+    "id": 223006,
+    "idsandbox_event": 223,
+    "option_id": 6,
+    "group_id": 0,
+    "text": "不可选的选项",
+    "consume_ids": "",
+    "is_selectable": false,
+    "result_id": 0
+  },
+  {
+    "id": 223007,
+    "idsandbox_event": 223,
+    "option_id": 7,
+    "group_id": 0,
+    "text": "条件不满足的选项",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 237001,
+    "idsandbox_event": 237,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 237002,
+    "idsandbox_event": 237,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 239001,
+    "idsandbox_event": 239,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 239002,
+    "idsandbox_event": 239,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 248001,
+    "idsandbox_event": 248,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 248002,
+    "idsandbox_event": 248,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 266001,
+    "idsandbox_event": 266,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 266002,
+    "idsandbox_event": 266,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 268001,
+    "idsandbox_event": 268,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 268002,
+    "idsandbox_event": 268,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 275001,
+    "idsandbox_event": 275,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 275002,
+    "idsandbox_event": 275,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 277001,
+    "idsandbox_event": 277,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 277002,
+    "idsandbox_event": 277,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 280001,
+    "idsandbox_event": 280,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 280002,
+    "idsandbox_event": 280,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 281001,
+    "idsandbox_event": 281,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 281002,
+    "idsandbox_event": 281,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 284001,
+    "idsandbox_event": 284,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 284002,
+    "idsandbox_event": 284,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 285001,
+    "idsandbox_event": 285,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 285002,
+    "idsandbox_event": 285,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 286001,
+    "idsandbox_event": 286,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 286002,
+    "idsandbox_event": 286,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 288001,
+    "idsandbox_event": 288,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 288002,
+    "idsandbox_event": 288,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 289001,
+    "idsandbox_event": 289,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 289002,
+    "idsandbox_event": 289,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 294001,
+    "idsandbox_event": 294,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开启阶段目标6",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 294002,
+    "idsandbox_event": 294,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "调用发放阶段目标值的事件",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 294003,
+    "idsandbox_event": 294,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "开启产出阶段目标值的委托",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 294004,
+    "idsandbox_event": 294,
+    "option_id": 4,
+    "group_id": 0,
+    "text": "关闭阶段目标",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 4
+  },
+  {
+    "id": 294005,
+    "idsandbox_event": 294,
+    "option_id": 5,
+    "group_id": 0,
+    "text": "无事发生",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 5
+  },
+  {
+    "id": 294006,
+    "idsandbox_event": 294,
+    "option_id": 6,
+    "group_id": 0,
+    "text": "地图上插一个钉子在王都，并且加50点阶段目标值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 6
+  },
+  {
+    "id": 297001,
+    "idsandbox_event": 297,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "无事发生",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 297002,
+    "idsandbox_event": 297,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "小镇评价点数上升到200",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 313001,
+    "idsandbox_event": 313,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 323001,
+    "idsandbox_event": 323,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 323002,
+    "idsandbox_event": 323,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 354001,
+    "idsandbox_event": 354,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 354002,
+    "idsandbox_event": 354,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 367001,
+    "idsandbox_event": 367,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 367002,
+    "idsandbox_event": 367,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 370001,
+    "idsandbox_event": 370,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 370002,
+    "idsandbox_event": 370,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 394001,
+    "idsandbox_event": 394,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 394002,
+    "idsandbox_event": 394,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 397001,
+    "idsandbox_event": 397,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 397002,
+    "idsandbox_event": 397,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 399001,
+    "idsandbox_event": 399,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 399002,
+    "idsandbox_event": 399,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 408001,
+    "idsandbox_event": 408,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 408002,
+    "idsandbox_event": 408,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 420001,
+    "idsandbox_event": 420,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 420002,
+    "idsandbox_event": 420,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 431001,
+    "idsandbox_event": 431,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 431002,
+    "idsandbox_event": 431,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 455001,
+    "idsandbox_event": 455,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 455002,
+    "idsandbox_event": 455,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 456001,
+    "idsandbox_event": 456,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 456002,
+    "idsandbox_event": 456,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 457001,
+    "idsandbox_event": 457,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 457002,
+    "idsandbox_event": 457,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 459001,
+    "idsandbox_event": 459,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 459002,
+    "idsandbox_event": 459,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 466001,
+    "idsandbox_event": 466,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 466002,
+    "idsandbox_event": 466,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 467001,
+    "idsandbox_event": 467,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 467002,
+    "idsandbox_event": 467,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 481001,
+    "idsandbox_event": 481,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 481002,
+    "idsandbox_event": 481,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 494001,
+    "idsandbox_event": 494,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "求助骑士团",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 494002,
+    "idsandbox_event": 494,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "求助教皇国",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 494003,
+    "idsandbox_event": 494,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "求助王国军",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 524001,
+    "idsandbox_event": 524,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "进入歌洛莉亚线",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 524002,
+    "idsandbox_event": 524,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "进入二王子线",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 574001,
+    "idsandbox_event": 574,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 574002,
+    "idsandbox_event": 574,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 584001,
+    "idsandbox_event": 584,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "测试分支沙盒战斗asdf",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 584002,
+    "idsandbox_event": 584,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "测试必败沙盒战斗",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 661001,
+    "idsandbox_event": 661,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 661002,
+    "idsandbox_event": 661,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 670001,
+    "idsandbox_event": 670,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 670002,
+    "idsandbox_event": 670,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 674001,
+    "idsandbox_event": 674,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "用金币换材料",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 674002,
+    "idsandbox_event": 674,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "没什么事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 685001,
+    "idsandbox_event": 685,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 685002,
+    "idsandbox_event": 685,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 687001,
+    "idsandbox_event": 687,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 687002,
+    "idsandbox_event": 687,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 688001,
+    "idsandbox_event": 688,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 688002,
+    "idsandbox_event": 688,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 689001,
+    "idsandbox_event": 689,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 689002,
+    "idsandbox_event": 689,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 690001,
+    "idsandbox_event": 690,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 690002,
+    "idsandbox_event": 690,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 691001,
+    "idsandbox_event": 691,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 691002,
+    "idsandbox_event": 691,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 693001,
+    "idsandbox_event": 693,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 693002,
+    "idsandbox_event": 693,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 694001,
+    "idsandbox_event": 694,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 694002,
+    "idsandbox_event": 694,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 695001,
+    "idsandbox_event": 695,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 695002,
+    "idsandbox_event": 695,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 699001,
+    "idsandbox_event": 699,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 699002,
+    "idsandbox_event": 699,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 702001,
+    "idsandbox_event": 702,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 702002,
+    "idsandbox_event": 702,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 718001,
+    "idsandbox_event": 718,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 718002,
+    "idsandbox_event": 718,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 738001,
+    "idsandbox_event": 738,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 740001,
+    "idsandbox_event": 740,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 741001,
+    "idsandbox_event": 741,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 742001,
+    "idsandbox_event": 742,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 743001,
+    "idsandbox_event": 743,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 744001,
+    "idsandbox_event": 744,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 745001,
+    "idsandbox_event": 745,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 746001,
+    "idsandbox_event": 746,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 747001,
+    "idsandbox_event": 747,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 748001,
+    "idsandbox_event": 748,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 749001,
+    "idsandbox_event": 749,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 750001,
+    "idsandbox_event": 750,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 753001,
+    "idsandbox_event": 753,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 754001,
+    "idsandbox_event": 754,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 755001,
+    "idsandbox_event": 755,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 756001,
+    "idsandbox_event": 756,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 757001,
+    "idsandbox_event": 757,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 786001,
+    "idsandbox_event": 786,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "帮助歌洛莉亚",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 786002,
+    "idsandbox_event": 786,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "不帮助歌洛莉亚",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 800001,
+    "idsandbox_event": 800,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "用金币换材料",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 800002,
+    "idsandbox_event": 800,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "没什么事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 801001,
+    "idsandbox_event": 801,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "用金币换材料",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 801002,
+    "idsandbox_event": 801,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "没什么事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 814001,
+    "idsandbox_event": 814,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 814002,
+    "idsandbox_event": 814,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 815001,
+    "idsandbox_event": 815,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 815002,
+    "idsandbox_event": 815,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 816001,
+    "idsandbox_event": 816,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 816002,
+    "idsandbox_event": 816,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 817001,
+    "idsandbox_event": 817,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 817002,
+    "idsandbox_event": 817,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 825001,
+    "idsandbox_event": 825,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "加阶段目标值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 825002,
+    "idsandbox_event": 825,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "减阶段目标值",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 825003,
+    "idsandbox_event": 825,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "开启阶段目标",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 888001,
+    "idsandbox_event": 888,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 888002,
+    "idsandbox_event": 888,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 890001,
+    "idsandbox_event": 890,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 890002,
+    "idsandbox_event": 890,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 892001,
+    "idsandbox_event": 892,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 892002,
+    "idsandbox_event": 892,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 897001,
+    "idsandbox_event": 897,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 897002,
+    "idsandbox_event": 897,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 902001,
+    "idsandbox_event": 902,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 902002,
+    "idsandbox_event": 902,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 906001,
+    "idsandbox_event": 906,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "求助骑士团",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 906002,
+    "idsandbox_event": 906,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "求助教皇国",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 906003,
+    "idsandbox_event": 906,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "求助王国军",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 1127001,
+    "idsandbox_event": 1127,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1127002,
+    "idsandbox_event": 1127,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1127003,
+    "idsandbox_event": 1127,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 1151001,
+    "idsandbox_event": 1151,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1151002,
+    "idsandbox_event": 1151,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1158001,
+    "idsandbox_event": 1158,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1158002,
+    "idsandbox_event": 1158,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1162001,
+    "idsandbox_event": 1162,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1162002,
+    "idsandbox_event": 1162,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1168001,
+    "idsandbox_event": 1168,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1168002,
+    "idsandbox_event": 1168,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1206001,
+    "idsandbox_event": 1206,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1206002,
+    "idsandbox_event": 1206,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1222001,
+    "idsandbox_event": 1222,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "进入歌洛莉亚线",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1222002,
+    "idsandbox_event": 1222,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "进入二王子线",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1394001,
+    "idsandbox_event": 1394,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1395001,
+    "idsandbox_event": 1395,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1396001,
+    "idsandbox_event": 1396,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1396002,
+    "idsandbox_event": 1396,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1396003,
+    "idsandbox_event": 1396,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 1396004,
+    "idsandbox_event": 1396,
+    "option_id": 4,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 4
+  },
+  {
+    "id": 1407001,
+    "idsandbox_event": 1407,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1407002,
+    "idsandbox_event": 1407,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1408001,
+    "idsandbox_event": 1408,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "宣扬",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1408002,
+    "idsandbox_event": 1408,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "不宣扬",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1521001,
+    "idsandbox_event": 1521,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1521002,
+    "idsandbox_event": 1521,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1522001,
+    "idsandbox_event": 1522,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1522002,
+    "idsandbox_event": 1522,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1523001,
+    "idsandbox_event": 1523,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1523002,
+    "idsandbox_event": 1523,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1524001,
+    "idsandbox_event": 1524,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1524002,
+    "idsandbox_event": 1524,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1525001,
+    "idsandbox_event": 1525,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1525002,
+    "idsandbox_event": 1525,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1526001,
+    "idsandbox_event": 1526,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1526002,
+    "idsandbox_event": 1526,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1527001,
+    "idsandbox_event": 1527,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1527002,
+    "idsandbox_event": 1527,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1528001,
+    "idsandbox_event": 1528,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1528002,
+    "idsandbox_event": 1528,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1529001,
+    "idsandbox_event": 1529,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1529002,
+    "idsandbox_event": 1529,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1530001,
+    "idsandbox_event": 1530,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1530002,
+    "idsandbox_event": 1530,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1531001,
+    "idsandbox_event": 1531,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1531002,
+    "idsandbox_event": 1531,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1532001,
+    "idsandbox_event": 1532,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1532002,
+    "idsandbox_event": 1532,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1546001,
+    "idsandbox_event": 1546,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1546002,
+    "idsandbox_event": 1546,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1547001,
+    "idsandbox_event": 1547,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1547002,
+    "idsandbox_event": 1547,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1548001,
+    "idsandbox_event": 1548,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1548002,
+    "idsandbox_event": 1548,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1549001,
+    "idsandbox_event": 1549,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1549002,
+    "idsandbox_event": 1549,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1550001,
+    "idsandbox_event": 1550,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1550002,
+    "idsandbox_event": 1550,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1551001,
+    "idsandbox_event": 1551,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1551002,
+    "idsandbox_event": 1551,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1566001,
+    "idsandbox_event": 1566,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1566002,
+    "idsandbox_event": 1566,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1567001,
+    "idsandbox_event": 1567,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1567002,
+    "idsandbox_event": 1567,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1568001,
+    "idsandbox_event": 1568,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1568002,
+    "idsandbox_event": 1568,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1615001,
+    "idsandbox_event": 1615,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "同情家属",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1615002,
+    "idsandbox_event": 1615,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "不同情家属",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1616001,
+    "idsandbox_event": 1616,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "接受贿赂",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1616002,
+    "idsandbox_event": 1616,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "坚持抄家",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1622001,
+    "idsandbox_event": 1622,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1622002,
+    "idsandbox_event": 1622,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1623001,
+    "idsandbox_event": 1623,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1623002,
+    "idsandbox_event": 1623,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1624001,
+    "idsandbox_event": 1624,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1624002,
+    "idsandbox_event": 1624,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1625001,
+    "idsandbox_event": 1625,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1625002,
+    "idsandbox_event": 1625,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1626001,
+    "idsandbox_event": 1626,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1626002,
+    "idsandbox_event": 1626,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1627001,
+    "idsandbox_event": 1627,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1627002,
+    "idsandbox_event": 1627,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1637001,
+    "idsandbox_event": 1637,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1637002,
+    "idsandbox_event": 1637,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1638001,
+    "idsandbox_event": 1638,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1638002,
+    "idsandbox_event": 1638,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1639001,
+    "idsandbox_event": 1639,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1639002,
+    "idsandbox_event": 1639,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1641001,
+    "idsandbox_event": 1641,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1641002,
+    "idsandbox_event": 1641,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1642001,
+    "idsandbox_event": 1642,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1642002,
+    "idsandbox_event": 1642,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1643001,
+    "idsandbox_event": 1643,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1643002,
+    "idsandbox_event": 1643,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1777001,
+    "idsandbox_event": 1777,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1777002,
+    "idsandbox_event": 1777,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1923001,
+    "idsandbox_event": 1923,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1923002,
+    "idsandbox_event": 1923,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1924001,
+    "idsandbox_event": 1924,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1924002,
+    "idsandbox_event": 1924,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1925001,
+    "idsandbox_event": 1925,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1925002,
+    "idsandbox_event": 1925,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1930001,
+    "idsandbox_event": 1930,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1930002,
+    "idsandbox_event": 1930,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1931001,
+    "idsandbox_event": 1931,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1931002,
+    "idsandbox_event": 1931,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1933001,
+    "idsandbox_event": 1933,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1933002,
+    "idsandbox_event": 1933,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1934001,
+    "idsandbox_event": 1934,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1934002,
+    "idsandbox_event": 1934,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1936001,
+    "idsandbox_event": 1936,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1936002,
+    "idsandbox_event": 1936,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1937001,
+    "idsandbox_event": 1937,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1937002,
+    "idsandbox_event": 1937,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1975001,
+    "idsandbox_event": 1975,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1975002,
+    "idsandbox_event": 1975,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 1977001,
+    "idsandbox_event": 1977,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 1977002,
+    "idsandbox_event": 1977,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2002001,
+    "idsandbox_event": 2002,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2002002,
+    "idsandbox_event": 2002,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2011001,
+    "idsandbox_event": 2011,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2011002,
+    "idsandbox_event": 2011,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2020001,
+    "idsandbox_event": 2020,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2020002,
+    "idsandbox_event": 2020,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2039001,
+    "idsandbox_event": 2039,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2039002,
+    "idsandbox_event": 2039,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2043001,
+    "idsandbox_event": 2043,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2043002,
+    "idsandbox_event": 2043,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2044001,
+    "idsandbox_event": 2044,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2044002,
+    "idsandbox_event": 2044,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2048001,
+    "idsandbox_event": 2048,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2048002,
+    "idsandbox_event": 2048,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2049001,
+    "idsandbox_event": 2049,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2049002,
+    "idsandbox_event": 2049,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2050001,
+    "idsandbox_event": 2050,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2050002,
+    "idsandbox_event": 2050,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2051001,
+    "idsandbox_event": 2051,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2051002,
+    "idsandbox_event": 2051,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2052001,
+    "idsandbox_event": 2052,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2052002,
+    "idsandbox_event": 2052,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2053001,
+    "idsandbox_event": 2053,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2053002,
+    "idsandbox_event": 2053,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2057001,
+    "idsandbox_event": 2057,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2057002,
+    "idsandbox_event": 2057,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2058001,
+    "idsandbox_event": 2058,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2058002,
+    "idsandbox_event": 2058,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2059001,
+    "idsandbox_event": 2059,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2059002,
+    "idsandbox_event": 2059,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2060001,
+    "idsandbox_event": 2060,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2060002,
+    "idsandbox_event": 2060,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2060003,
+    "idsandbox_event": 2060,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 2061001,
+    "idsandbox_event": 2061,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2061002,
+    "idsandbox_event": 2061,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2061003,
+    "idsandbox_event": 2061,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 2062001,
+    "idsandbox_event": 2062,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2062002,
+    "idsandbox_event": 2062,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2062003,
+    "idsandbox_event": 2062,
+    "option_id": 3,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 3
+  },
+  {
+    "id": 2063001,
+    "idsandbox_event": 2063,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2063002,
+    "idsandbox_event": 2063,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2064001,
+    "idsandbox_event": 2064,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2064002,
+    "idsandbox_event": 2064,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2065001,
+    "idsandbox_event": 2065,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2065002,
+    "idsandbox_event": 2065,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2066001,
+    "idsandbox_event": 2066,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2066002,
+    "idsandbox_event": 2066,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2067001,
+    "idsandbox_event": 2067,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2067002,
+    "idsandbox_event": 2067,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2068001,
+    "idsandbox_event": 2068,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2068002,
+    "idsandbox_event": 2068,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2069001,
+    "idsandbox_event": 2069,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2069002,
+    "idsandbox_event": 2069,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2070001,
+    "idsandbox_event": 2070,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2070002,
+    "idsandbox_event": 2070,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2071001,
+    "idsandbox_event": 2071,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2071002,
+    "idsandbox_event": 2071,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2269001,
+    "idsandbox_event": 2269,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2269002,
+    "idsandbox_event": 2269,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2291001,
+    "idsandbox_event": 2291,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2291002,
+    "idsandbox_event": 2291,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2310001,
+    "idsandbox_event": 2310,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2310002,
+    "idsandbox_event": 2310,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2318001,
+    "idsandbox_event": 2318,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "宣扬",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2318002,
+    "idsandbox_event": 2318,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "不宣扬",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2373001,
+    "idsandbox_event": 2373,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2373002,
+    "idsandbox_event": 2373,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2382001,
+    "idsandbox_event": 2382,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2382002,
+    "idsandbox_event": 2382,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2402001,
+    "idsandbox_event": 2402,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2402002,
+    "idsandbox_event": 2402,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2416001,
+    "idsandbox_event": 2416,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2416002,
+    "idsandbox_event": 2416,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2417001,
+    "idsandbox_event": 2417,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2417002,
+    "idsandbox_event": 2417,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2419001,
+    "idsandbox_event": 2419,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2419002,
+    "idsandbox_event": 2419,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2471001,
+    "idsandbox_event": 2471,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2471002,
+    "idsandbox_event": 2471,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2472001,
+    "idsandbox_event": 2472,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2472002,
+    "idsandbox_event": 2472,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2507001,
+    "idsandbox_event": 2507,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2507002,
+    "idsandbox_event": 2507,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2508001,
+    "idsandbox_event": 2508,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2508002,
+    "idsandbox_event": 2508,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2509001,
+    "idsandbox_event": 2509,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2509002,
+    "idsandbox_event": 2509,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2510001,
+    "idsandbox_event": 2510,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2510002,
+    "idsandbox_event": 2510,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2511001,
+    "idsandbox_event": 2511,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2511002,
+    "idsandbox_event": 2511,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2512001,
+    "idsandbox_event": 2512,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2512002,
+    "idsandbox_event": 2512,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2517001,
+    "idsandbox_event": 2517,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2517002,
+    "idsandbox_event": 2517,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 2529001,
+    "idsandbox_event": 2529,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 2529002,
+    "idsandbox_event": 2529,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  }
+]

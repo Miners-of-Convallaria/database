@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "type": "All",
+    "name": "所有",
+    "system": 0
+  },
+  {
+    "id": 11,
+    "type": "SmithyBlueprint",
+    "name": "蓝图锻造",
+    "system": 1
+  },
+  {
+    "id": 12,
+    "type": "SmithyPermanent",
+    "name": "常规锻造",
+    "system": 1
+  },
+  {
+    "id": 13,
+    "type": "SmithyPlan",
+    "name": "方案锻造",
+    "system": 1
+  },
+  {
+    "id": 181,
+    "type": "TrainingExp",
+    "name": "经验训练",
+    "system": 18
+  },
+  {
+    "id": 182,
+    "type": "TrainingSkill",
+    "name": "职业技能训练",
+    "system": 18
+  },
+  {
+    "id": 183,
+    "type": "TrainingFactionSkill",
+    "name": "被动技能训练",
+    "system": 18
+  },
+  {
+    "id": 781,
+    "type": "BlessingPrayer",
+    "name": "祝福-集体祈祷",
+    "system": 78
+  },
+  {
+    "id": 782,
+    "type": "BlessingBaptism",
+    "name": "祝福-特殊洗礼",
+    "system": 78
+  }
+]

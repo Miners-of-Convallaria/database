@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "Currency",
+    "name": "货币"
+  },
+  {
+    "id": 2,
+    "type": "GeneralResources",
+    "name": "一般资源"
+  },
+  {
+    "id": 3,
+    "type": "SpecialResources",
+    "name": "特殊资源"
+  },
+  {
+    "id": 4,
+    "type": "DevelopmentResources",
+    "name": "养成资源"
+  }
+]

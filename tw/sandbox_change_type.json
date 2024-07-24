@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "type": "FactionReputation",
+    "name": "势力声望数值变更",
+    "order": 8,
+    "use_ids": false,
+    "style": 1
+  },
+  {
+    "id": 2,
+    "type": "FactionReputationLevel",
+    "name": "势力声望等级数值变更",
+    "order": 9,
+    "use_ids": false,
+    "style": 1
+  },
+  {
+    "id": 3,
+    "type": "FactionInfluence",
+    "name": "势力影响力数值变更",
+    "order": 10,
+    "use_ids": false,
+    "style": 1
+  },
+  {
+    "id": 4,
+    "type": "FactionDepend",
+    "name": "契约势力变更",
+    "order": 7,
+    "use_ids": false,
+    "style": 1
+  },
+  {
+    "id": 5,
+    "type": "FactionRecentDevelopment",
+    "name": "势力近况变更",
+    "order": 3,
+    "use_ids": false,
+    "style": 2
+  },
+  {
+    "id": 6,
+    "type": "CountryStability",
+    "name": "国家安定度数值变更",
+    "order": 11,
+    "use_ids": false,
+    "style": 1
+  },
+  {
+    "id": 7,
+    "type": "Milestone",
+    "name": "阶段目标数值变更",
+    "order": 14,
+    "use_ids": false,
+    "style": 1
+  },
+  {
+    "id": 8,
+    "type": "Title",
+    "name": "佣兵团评级变更",
+    "order": 6,
+    "use_ids": false,
+    "style": 1
+  },
+  {
+    "id": 9,
+    "type": "SystemUnlock",
+    "name": "系统解锁",
+    "order": 5,
+    "use_ids": true,
+    "style": 1
+  },
+  {
+    "id": 10,
+    "type": "AddSandboxEffect",
+    "name": "添加沙盒效果",
+    "order": 12,
+    "use_ids": true,
+    "style": 1
+  },
+  {
+    "id": 11,
+    "type": "RemoveSandboxEffect",
+    "name": "移除沙盒效果",
+    "order": 13,
+    "use_ids": true,
+    "style": 1
+  },
+  {
+    "id": 12,
+    "type": "AddEntrustBattle",
+    "name": "新战斗委托",
+    "order": 2,
+    "use_ids": true,
+    "style": 2
+  },
+  {
+    "id": 13,
+    "type": "TokenUnlock",
+    "name": "信物解锁",
+    "order": 1,
+    "use_ids": true,
+    "style": 2
+  },
+  {
+    "id": 14,
+    "type": "AddIntelligence",
+    "name": "新百科",
+    "order": 4,
+    "use_ids": true,
+    "style": 2
+  },
+  {
+    "id": 15,
+    "type": "CapitalAreaUnlock",
+    "name": "主城区域解锁",
+    "order": 0,
+    "use_ids": true,
+    "style": 3
+  },
+  {
+    "id": 16,
+    "type": "AddCommerceOrder",
+    "name": "新商会订单",
+    "order": 15,
+    "use_ids": true,
+    "style": 2
+  },
+  {
+    "id": 17,
+    "type": "AddCommerceTradePoint",
+    "name": "新商会据点",
+    "order": 16,
+    "use_ids": true,
+    "style": 1
+  },
+  {
+    "id": 18,
+    "type": "ChangeCommercePropensityForWarValue",
+    "name": "变更战争倾向值",
+    "order": 17,
+    "use_ids": true,
+    "style": 1
+  },
+  {
+    "id": 19,
+    "type": "AddCommerceOpportunity",
+    "name": "商会添加新的贸易机会",
+    "order": 18,
+    "use_ids": true,
+    "style": 2
+  },
+  {
+    "id": 20,
+    "type": "CommerceTradePointLevelUp",
+    "name": "商会贸易点升级",
+    "order": 19,
+    "use_ids": true,
+    "style": 1
+  },
+  {
+    "id": 21,
+    "type": "CommerceGrading",
+    "name": "商会评级变更",
+    "order": 20,
+    "use_ids": false,
+    "style": 1
+  }
+]

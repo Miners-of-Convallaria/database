@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "idcapital": 3,
+    "time_slot": 1,
+    "name": "前传线地图白天",
+    "editor_name": "前传线地图白天",
+    "music_setting": 59
+  },
+  {
+    "id": 2,
+    "idcapital": 3,
+    "time_slot": 2,
+    "name": "前传线地图夜晚",
+    "editor_name": "前传线地图夜晚",
+    "music_setting": 60
+  }
+]

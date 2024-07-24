@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "player_level": 1,
+    "level_cap": 10
+  },
+  {
+    "id": 2,
+    "player_level": 10,
+    "level_cap": 20
+  },
+  {
+    "id": 3,
+    "player_level": 20,
+    "level_cap": 30
+  },
+  {
+    "id": 4,
+    "player_level": 30,
+    "level_cap": 40
+  },
+  {
+    "id": 5,
+    "player_level": 40,
+    "level_cap": 50
+  },
+  {
+    "id": 6,
+    "player_level": 50,
+    "level_cap": 60
+  }
+]

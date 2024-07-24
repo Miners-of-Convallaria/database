@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "m_online_main_quest_chapters": [8, 2, 3, 4, 5, 10, 11, 12, 13, 14, 15, 16, 23, 28, 31],
+    "name": "网游主线",
+    "version": 1,
+    "online_main_quest_chapter_ids": "8|2|3|4|5|10|11|12|13|14|15|16|23|28|31",
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 3,
+    "m_online_main_quest_chapters": [17],
+    "name": "大型活动2期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "17",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 4,
+    "m_online_main_quest_chapters": [19],
+    "name": "中型活动1期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "19",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 5,
+    "m_online_main_quest_chapters": [20],
+    "name": "大型活动1期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "20",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 6,
+    "m_online_main_quest_chapters": [22],
+    "name": "小型活动1期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "22",
+    "category": 2,
+    "difficulty_tips": false,
+    "difficulty_thousand_times": 0,
+    "fail_tip": false
+  },
+  {
+    "id": 7,
+    "m_online_main_quest_chapters": [24],
+    "name": "中型活动2期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "24",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 8,
+    "m_online_main_quest_chapters": [25],
+    "name": "大型活动3期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "25",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 9,
+    "m_online_main_quest_chapters": [26],
+    "name": "中型活动3期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "26",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 10,
+    "m_online_main_quest_chapters": [29],
+    "name": "大型活动3.5期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "29",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 11,
+    "m_online_main_quest_chapters": [30],
+    "name": "中型活动4期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "30",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  },
+  {
+    "id": 12,
+    "m_online_main_quest_chapters": [33],
+    "name": "小型活动2期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "33",
+    "category": 2,
+    "difficulty_tips": false,
+    "difficulty_thousand_times": 0,
+    "fail_tip": false
+  },
+  {
+    "id": 13,
+    "m_online_main_quest_chapters": [34, 35, 36, 37, 38, 39, 40],
+    "name": "大型活动4期",
+    "version": 1,
+    "online_main_quest_chapter_ids": "34|35|36|37|38|39|40",
+    "category": 2,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
+  }
+]

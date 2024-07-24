@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "资金",
+    "desc": "用于日常开支与工作需要。可以通过完成任务等多种渠道获取。",
+    "rarity": 1,
+    "icon": "material_money"
+  },
+  {
+    "id": 2,
+    "name": "木材",
+    "desc": "前传线测试木材",
+    "rarity": 1,
+    "icon": "material_wood"
+  },
+  {
+    "id": 3,
+    "name": "石材",
+    "desc": "前传线测试石材",
+    "rarity": 1,
+    "icon": "material_stone"
+  },
+  {
+    "id": 4,
+    "name": "训练场特别入场券",
+    "desc": "用于角色获取额外的战斗技能。可以通过购买、完成任务等多种渠道获取。",
+    "rarity": 3,
+    "icon": "material_prequeltraining_ticket"
+  },
+  {
+    "id": 5,
+    "name": "灵感",
+    "desc": "用于索菲亚领悟各式战术。通过提升索菲亚等级自动获取。",
+    "rarity": 3,
+    "icon": "material_prequeltraining_note"
+  }
+]

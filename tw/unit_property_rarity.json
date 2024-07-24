@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "D",
+    "name": "D",
+    "icon": "d"
+  },
+  {
+    "id": 2,
+    "type": "C",
+    "name": "C",
+    "icon": "c"
+  },
+  {
+    "id": 3,
+    "type": "B",
+    "name": "B",
+    "icon": "b"
+  },
+  {
+    "id": 4,
+    "type": "A",
+    "name": "A",
+    "icon": "a"
+  },
+  {
+    "id": 5,
+    "type": "S",
+    "name": "S",
+    "icon": "s"
+  }
+]

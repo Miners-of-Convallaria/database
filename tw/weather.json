@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "m_effects": [],
+    "type": 1,
+    "name": "晴",
+    "editor_name": "sun",
+    "aura_speciality": 0,
+    "icon": "weather_sunny",
+    "effects": "2468",
+    "desc": "晴空万里，但无实质的影响。"
+  },
+  {
+    "id": 2,
+    "m_effects": [],
+    "type": 1,
+    "name": "雨",
+    "editor_name": "rain",
+    "aura_speciality": 0,
+    "icon": "weather_rain",
+    "effects": "1899",
+    "desc": "阴雨连绵，但无实质的影响。"
+  },
+  {
+    "id": 3,
+    "m_effects": [],
+    "type": 1,
+    "name": "雪",
+    "editor_name": "snow",
+    "aura_speciality": 0,
+    "icon": "weather_snow",
+    "effects": "1900",
+    "desc": "白雪皑皑，但无实质的影响。"
+  },
+  {
+    "id": 5,
+    "m_effects": [],
+    "type": 2,
+    "name": "暴风雪",
+    "editor_name": "blizzard（开始，关闭需对应特殊天气）",
+    "aura_speciality": 0,
+    "icon": "weather_blizzard",
+    "effects": "1901",
+    "desc": "狂风暴雪，但无实质的影响。"
+  },
+  {
+    "id": 6,
+    "m_effects": [],
+    "type": 1,
+    "name": "雪",
+    "editor_name": "snow（不带效果）",
+    "aura_speciality": 0,
+    "icon": "weather_snow",
+    "effects": "1900",
+    "desc": "白雪皑皑，但无实质的影响。"
+  },
+  {
+    "id": 7,
+    "m_effects": [],
+    "type": 2,
+    "name": "沙尘暴",
+    "editor_name": "dustStorm_day（开始，关闭需对应特殊天气）",
+    "aura_speciality": 9746,
+    "icon": "weather_sandstorm",
+    "effects": "2054",
+    "desc": "狂沙席卷，近战造成伤害后，击退目标<style=red>2</style>格。目标产生[碰撞]则[晕眩]，持续1回合。"
+  },
+  {
+    "id": 8,
+    "m_effects": [],
+    "type": 2,
+    "name": "沙尘暴",
+    "editor_name": "dustStorm_night（开始，关闭需对应特殊天气）",
+    "aura_speciality": 9746,
+    "icon": "weather_sandstorm",
+    "effects": "2055",
+    "desc": "狂沙席卷，近战造成伤害后，击退目标<style=red>2</style>格。目标产生[碰撞]则[晕眩]，持续1回合。"
+  },
+  {
+    "id": 9,
+    "m_effects": [],
+    "type": 2,
+    "name": "暴雨",
+    "editor_name": "storm（开始，关闭需对应特殊天气）",
+    "aura_speciality": 0,
+    "icon": "weather_rainstorm",
+    "effects": "2109",
+    "desc": "狂风暴雨，但无实质的影响。"
+  },
+  {
+    "id": 10,
+    "m_effects": [],
+    "type": 1,
+    "name": "晨雾",
+    "editor_name": "fog_day",
+    "aura_speciality": 0,
+    "icon": "weather_fog",
+    "effects": "1873",
+    "desc": "雾气氤氲，但无实质的影响。"
+  },
+  {
+    "id": 11,
+    "m_effects": [],
+    "type": 1,
+    "name": "夜雾",
+    "editor_name": "fog_night",
+    "aura_speciality": 0,
+    "icon": "weather_fog",
+    "effects": "1877",
+    "desc": "雾气氤氲，但无实质的影响。"
+  },
+  {
+    "id": 14,
+    "m_effects": [],
+    "type": 1,
+    "name": "雨（白天）",
+    "editor_name": "rain_day",
+    "aura_speciality": 0,
+    "icon": "weather_rain",
+    "effects": "2470",
+    "desc": "阴雨连绵，但无实质的影响。雨（白天）"
+  },
+  {
+    "id": 15,
+    "m_effects": [],
+    "type": 1,
+    "name": "暴雨（黑夜）",
+    "editor_name": "heavyrain_night",
+    "aura_speciality": 0,
+    "icon": "weather_rain",
+    "effects": "2473",
+    "desc": "阴雨连绵，但无实质的影响。"
+  },
+  {
+    "id": 16,
+    "m_effects": [],
+    "type": 1,
+    "name": "暴雨（白天）",
+    "editor_name": "heavyrain_day",
+    "aura_speciality": 0,
+    "icon": "weather_rain",
+    "effects": "2472",
+    "desc": "白天暴雨"
+  },
+  {
+    "id": 17,
+    "m_effects": [],
+    "type": 1,
+    "name": "雨（黑夜）",
+    "editor_name": "rain_night",
+    "aura_speciality": 0,
+    "icon": "weather_rain",
+    "effects": "2471",
+    "desc": "阴雨连绵，但无实质的影响。雨（黑夜）"
+  },
+  {
+    "id": 18,
+    "m_effects": [],
+    "type": 1,
+    "name": "黑暗效果（白天）",
+    "editor_name": "dark_day",
+    "aura_speciality": 0,
+    "icon": "weather_rain",
+    "effects": "2475",
+    "desc": "黑暗效果（白天）"
+  }
+]

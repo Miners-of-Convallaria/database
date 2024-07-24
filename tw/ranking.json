@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "idranking_group": 1,
+    "name": "15人战力总和",
+    "editor_name": "15人战力排行榜",
+    "type": 1,
+    "type_param": 15,
+    "has_extra_id": false,
+    "score_name": "15人战力总和"
+  },
+  {
+    "id": 2,
+    "idranking_group": 1,
+    "name": "所有角色战力总和",
+    "editor_name": "所有角色战力排行榜",
+    "type": 1,
+    "type_param": 0,
+    "has_extra_id": false,
+    "score_name": "所有角色战力总和"
+  },
+  {
+    "id": 3,
+    "idranking_group": 1,
+    "name": "5人战力总和",
+    "editor_name": "5人战力排行榜",
+    "type": 1,
+    "type_param": 5,
+    "has_extra_id": false,
+    "score_name": "5人战力总和"
+  },
+  {
+    "id": 4,
+    "idranking_group": 2,
+    "name": "成就排行榜",
+    "editor_name": "成就排行榜",
+    "type": 2,
+    "type_param": 0,
+    "has_extra_id": false,
+    "score_name": "成就完成数"
+  },
+  {
+    "id": 5,
+    "idranking_group": 3,
+    "name": "见闻等级榜",
+    "editor_name": "见闻等级排行榜",
+    "type": 5,
+    "type_param": 0,
+    "has_extra_id": false,
+    "score_name": "见闻等级"
+  },
+  {
+    "id": 6,
+    "idranking_group": 3,
+    "name": "照片收集榜",
+    "editor_name": "沙盒收集册照片排行榜",
+    "type": 3,
+    "type_param": 0,
+    "has_extra_id": false,
+    "score_name": "照片收集数"
+  },
+  {
+    "id": 7,
+    "idranking_group": 4,
+    "name": "赛季排行榜",
+    "editor_name": "赛季排行榜",
+    "type": 4,
+    "type_param": 0,
+    "has_extra_id": true,
+    "score_name": "积分"
+  },
+  {
+    "id": 8,
+    "idranking_group": 5,
+    "name": "逆境之塔排行榜",
+    "editor_name": "逆境之塔排行榜",
+    "type": 6,
+    "type_param": 0,
+    "has_extra_id": true,
+    "score_name": "讨伐值"
+  },
+  {
+    "id": 9,
+    "idranking_group": 6,
+    "name": "合约活动挑战排行榜",
+    "editor_name": "合约活动挑战排行榜",
+    "type": 7,
+    "type_param": 0,
+    "has_extra_id": true,
+    "score_name": "挑战关最高分"
+  }
+]

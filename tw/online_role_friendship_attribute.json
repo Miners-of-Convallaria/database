@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "friendship_level": 1,
+    "attribute_type": 5,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 2,
+    "friendship_level": 2,
+    "attribute_type": 5,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 3,
+    "friendship_level": 3,
+    "attribute_type": 5,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 4,
+    "friendship_level": 4,
+    "attribute_type": 5,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 5,
+    "friendship_level": 5,
+    "attribute_type": 5,
+    "attribute_permillage": 10
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "normal",
+    "name": "普通",
+    "desc": "单场战斗",
+    "param0_name": ""
+  },
+  {
+    "id": 2,
+    "type": "chain",
+    "name": "连战",
+    "desc": "连战",
+    "param0_name": ""
+  },
+  {
+    "id": 3,
+    "type": "choose",
+    "name": "N选1",
+    "desc": "N选1",
+    "param0_name": "可选择个数"
+  }
+]

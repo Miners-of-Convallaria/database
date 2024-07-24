@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "type": "Formation",
+    "name": "上阵",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 2,
+    "type": "Standby",
+    "name": "待机",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 3,
+    "type": "NormalKill",
+    "name": "常规击杀",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 4,
+    "type": "SpecialKill",
+    "name": "特殊击杀",
+    "priority": 2,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 5,
+    "type": "TripleKill",
+    "name": "三连杀",
+    "priority": 3,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 6,
+    "type": "FiveKill",
+    "name": "五连杀",
+    "priority": 4,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 7,
+    "type": "FirstHit",
+    "name": "先制",
+    "priority": 2,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 8,
+    "type": "Counter",
+    "name": "反击",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 9,
+    "type": "Melee",
+    "name": "普攻",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 10,
+    "type": "Damage",
+    "name": "伤害",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 11,
+    "type": "DelayCast",
+    "name": "延时释放（废弃）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 12,
+    "type": "Debuff",
+    "name": "妨害（未实装）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 13,
+    "type": "SelfBuff",
+    "name": "自身增益",
+    "priority": 2,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 14,
+    "type": "FriendBuff",
+    "name": "友方增益",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 15,
+    "type": "Crit",
+    "name": "造成暴击",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 16,
+    "type": "PerfectWin",
+    "name": "完胜",
+    "priority": 2,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 17,
+    "type": "Win",
+    "name": "非完胜",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 18,
+    "type": "Evade",
+    "name": "闪避",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 19,
+    "type": "BeBuff",
+    "name": "被友方增益",
+    "priority": 3,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 20,
+    "type": "BeHitNoDamage",
+    "name": "格挡",
+    "priority": 2,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 21,
+    "type": "BeDamaged",
+    "name": "被伤害（濒死）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 22,
+    "type": "BeControl",
+    "name": "行动开始（被控）",
+    "priority": 4,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 23,
+    "type": "Healthy",
+    "name": "行动开始（健康）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 24,
+    "type": "Injured",
+    "name": "行动开始（受伤）",
+    "priority": 2,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 25,
+    "type": "Dying",
+    "name": "行动开始（濒死）",
+    "priority": 3,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 26,
+    "type": "AssistDefence",
+    "name": "援护防御",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 27,
+    "type": "AssistAttack",
+    "name": "援护攻击",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 28,
+    "type": "DelaySkill",
+    "name": "延时伤害起手（废弃）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 29,
+    "type": "Dead",
+    "name": "自身死亡",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 31,
+    "type": "Alert",
+    "name": "警戒攻击",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 32,
+    "type": "role_interact",
+    "name": "补魔反馈",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 37,
+    "type": "role_say_hi_1",
+    "name": "角色问好（心境1）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 38,
+    "type": "role_say_hi_2",
+    "name": "角色问好（心境2）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 39,
+    "type": "role_say_hi_3",
+    "name": "角色问好（心境3）",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 40,
+    "type": "role_say_hi_4",
+    "name": "人物问候_心境4",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 41,
+    "type": "role_say_hi_5",
+    "name": "人物问候_心境5",
+    "priority": 1,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 44,
+    "type": "GetCharacter",
+    "name": "角色获得",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 45,
+    "type": "LevelUp",
+    "name": "升级",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 46,
+    "type": "GetSkill",
+    "name": "技能获得",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 47,
+    "type": "StarUp",
+    "name": "升星",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 48,
+    "type": "Assistance",
+    "name": "设置助手",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 49,
+    "type": "Mail",
+    "name": "邮件提醒",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 50,
+    "type": "Event",
+    "name": "活动提醒",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 51,
+    "type": "interact_standby",
+    "name": "补魔准备",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 52,
+    "type": "AnswerCmd",
+    "name": "执行命令",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 53,
+    "type": "Greeting",
+    "name": "打招呼",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 54,
+    "type": "Idle",
+    "name": "闲置",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 55,
+    "type": "role_say_hi_global",
+    "name": "角色问好（全局）",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 56,
+    "type": "VendingMachine",
+    "name": "自贩机",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 57,
+    "type": "SignIn",
+    "name": "签到",
+    "priority": 0,
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  }
+]

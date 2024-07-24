@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "祝福",
+    "type": "Blessing",
+    "desc": ""
+  },
+  {
+    "id": 2,
+    "name": "诅咒",
+    "type": "Curse",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "name": "小怪",
+    "type": "Enemy",
+    "desc": ""
+  },
+  {
+    "id": 4,
+    "name": "首领",
+    "type": "Boss",
+    "desc": ""
+  }
+]

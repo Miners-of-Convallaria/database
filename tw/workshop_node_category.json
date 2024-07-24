@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "LowTacticsSkillNode",
+    "name": "低级战术技能节点"
+  },
+  {
+    "id": 2,
+    "type": "MidTacticsSkillNode",
+    "name": "中级战术技能节点"
+  },
+  {
+    "id": 3,
+    "type": "SuperTacticsSkillNode",
+    "name": "超级战术技能节点"
+  },
+  {
+    "id": 4,
+    "type": "TacticsTechNode",
+    "name": "战术科技节点"
+  }
+]

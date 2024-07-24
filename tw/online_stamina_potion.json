@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "m_system_redirects": [],
+    "name": "存在之力的结晶",
+    "editor_name": "体力药",
+    "desc": "使用后可以恢复100点存在之力。",
+    "rarity": 3,
+    "stamina": 100,
+    "system_redirect_ids": "14",
+    "icon": "stamina_potion",
+    "duration": 0
+  },
+  {
+    "id": 2,
+    "m_system_redirects": [],
+    "name": "存在之力的结晶（限时）",
+    "editor_name": "体力药(限时14天)",
+    "desc": "使用后可以恢复100点存在之力，有使用期限。\n将在入手的<style=red>第2周的星期日结束时</style>过期。请注意在有效期内使用。",
+    "rarity": 3,
+    "stamina": 100,
+    "system_redirect_ids": "14",
+    "icon": "stamina_potion",
+    "duration": 14
+  }
+]

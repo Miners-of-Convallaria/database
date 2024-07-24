@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "unit_morale": 100,
+    "mission_morale": 9,
+    "practice_morale": 6,
+    "mission_exp": 150,
+    "practice_exp": 90,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 2,
+    "unit_morale": 100,
+    "mission_morale": 10,
+    "practice_morale": 6,
+    "mission_exp": 165,
+    "practice_exp": 99,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 3,
+    "unit_morale": 100,
+    "mission_morale": 12,
+    "practice_morale": 7,
+    "mission_exp": 182,
+    "practice_exp": 109,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 4,
+    "unit_morale": 100,
+    "mission_morale": 13,
+    "practice_morale": 8,
+    "mission_exp": 200,
+    "practice_exp": 120,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 5,
+    "unit_morale": 100,
+    "mission_morale": 14,
+    "practice_morale": 9,
+    "mission_exp": 220,
+    "practice_exp": 132,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 6,
+    "unit_morale": 100,
+    "mission_morale": 15,
+    "practice_morale": 9,
+    "mission_exp": 242,
+    "practice_exp": 145,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 7,
+    "unit_morale": 100,
+    "mission_morale": 17,
+    "practice_morale": 10,
+    "mission_exp": 266,
+    "practice_exp": 159,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 8,
+    "unit_morale": 100,
+    "mission_morale": 18,
+    "practice_morale": 11,
+    "mission_exp": 292,
+    "practice_exp": 175,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 9,
+    "unit_morale": 100,
+    "mission_morale": 19,
+    "practice_morale": 11,
+    "mission_exp": 322,
+    "practice_exp": 193,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 10,
+    "unit_morale": 100,
+    "mission_morale": 20,
+    "practice_morale": 12,
+    "mission_exp": 354,
+    "practice_exp": 212,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 11,
+    "unit_morale": 100,
+    "mission_morale": 21,
+    "practice_morale": 12,
+    "mission_exp": 389,
+    "practice_exp": 233,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 12,
+    "unit_morale": 100,
+    "mission_morale": 22,
+    "practice_morale": 13,
+    "mission_exp": 428,
+    "practice_exp": 257,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 13,
+    "unit_morale": 100,
+    "mission_morale": 23,
+    "practice_morale": 14,
+    "mission_exp": 471,
+    "practice_exp": 282,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 14,
+    "unit_morale": 100,
+    "mission_morale": 24,
+    "practice_morale": 14,
+    "mission_exp": 518,
+    "practice_exp": 311,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 15,
+    "unit_morale": 100,
+    "mission_morale": 25,
+    "practice_morale": 15,
+    "mission_exp": 570,
+    "practice_exp": 342,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 16,
+    "unit_morale": 100,
+    "mission_morale": 25,
+    "practice_morale": 15,
+    "mission_exp": 627,
+    "practice_exp": 376,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 17,
+    "unit_morale": 100,
+    "mission_morale": 26,
+    "practice_morale": 16,
+    "mission_exp": 689,
+    "practice_exp": 414,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 18,
+    "unit_morale": 100,
+    "mission_morale": 27,
+    "practice_morale": 16,
+    "mission_exp": 758,
+    "practice_exp": 455,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 19,
+    "unit_morale": 100,
+    "mission_morale": 28,
+    "practice_morale": 17,
+    "mission_exp": 834,
+    "practice_exp": 500,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 20,
+    "unit_morale": 100,
+    "mission_morale": 29,
+    "practice_morale": 17,
+    "mission_exp": 917,
+    "practice_exp": 550,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 21,
+    "unit_morale": 100,
+    "mission_morale": 29,
+    "practice_morale": 18,
+    "mission_exp": 1009,
+    "practice_exp": 605,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 22,
+    "unit_morale": 100,
+    "mission_morale": 30,
+    "practice_morale": 18,
+    "mission_exp": 1075,
+    "practice_exp": 645,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 23,
+    "unit_morale": 100,
+    "mission_morale": 31,
+    "practice_morale": 19,
+    "mission_exp": 1128,
+    "practice_exp": 677,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 24,
+    "unit_morale": 100,
+    "mission_morale": 32,
+    "practice_morale": 19,
+    "mission_exp": 1185,
+    "practice_exp": 711,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 25,
+    "unit_morale": 100,
+    "mission_morale": 32,
+    "practice_morale": 19,
+    "mission_exp": 1244,
+    "practice_exp": 746,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 26,
+    "unit_morale": 100,
+    "mission_morale": 33,
+    "practice_morale": 20,
+    "mission_exp": 1306,
+    "practice_exp": 784,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 27,
+    "unit_morale": 100,
+    "mission_morale": 34,
+    "practice_morale": 20,
+    "mission_exp": 1372,
+    "practice_exp": 823,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 28,
+    "unit_morale": 100,
+    "mission_morale": 34,
+    "practice_morale": 21,
+    "mission_exp": 1440,
+    "practice_exp": 864,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 29,
+    "unit_morale": 100,
+    "mission_morale": 35,
+    "practice_morale": 21,
+    "mission_exp": 1512,
+    "practice_exp": 907,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 30,
+    "unit_morale": 100,
+    "mission_morale": 36,
+    "practice_morale": 21,
+    "mission_exp": 1588,
+    "practice_exp": 953,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 31,
+    "unit_morale": 100,
+    "mission_morale": 36,
+    "practice_morale": 22,
+    "mission_exp": 1667,
+    "practice_exp": 1000,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 32,
+    "unit_morale": 100,
+    "mission_morale": 37,
+    "practice_morale": 22,
+    "mission_exp": 1751,
+    "practice_exp": 1050,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 33,
+    "unit_morale": 100,
+    "mission_morale": 37,
+    "practice_morale": 22,
+    "mission_exp": 1838,
+    "practice_exp": 1103,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 34,
+    "unit_morale": 100,
+    "mission_morale": 38,
+    "practice_morale": 23,
+    "mission_exp": 1930,
+    "practice_exp": 1158,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 35,
+    "unit_morale": 100,
+    "mission_morale": 39,
+    "practice_morale": 23,
+    "mission_exp": 2027,
+    "practice_exp": 1216,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 36,
+    "unit_morale": 100,
+    "mission_morale": 39,
+    "practice_morale": 23,
+    "mission_exp": 2128,
+    "practice_exp": 1277,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 37,
+    "unit_morale": 100,
+    "mission_morale": 40,
+    "practice_morale": 24,
+    "mission_exp": 2234,
+    "practice_exp": 1341,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 38,
+    "unit_morale": 100,
+    "mission_morale": 40,
+    "practice_morale": 24,
+    "mission_exp": 2346,
+    "practice_exp": 1408,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 39,
+    "unit_morale": 100,
+    "mission_morale": 41,
+    "practice_morale": 24,
+    "mission_exp": 2463,
+    "practice_exp": 1478,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 40,
+    "unit_morale": 100,
+    "mission_morale": 41,
+    "practice_morale": 25,
+    "mission_exp": 2586,
+    "practice_exp": 1552,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 41,
+    "unit_morale": 100,
+    "mission_morale": 42,
+    "practice_morale": 25,
+    "mission_exp": 2716,
+    "practice_exp": 1629,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 42,
+    "unit_morale": 100,
+    "mission_morale": 42,
+    "practice_morale": 25,
+    "mission_exp": 2852,
+    "practice_exp": 1711,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 43,
+    "unit_morale": 100,
+    "mission_morale": 43,
+    "practice_morale": 26,
+    "mission_exp": 2994,
+    "practice_exp": 1796,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 44,
+    "unit_morale": 100,
+    "mission_morale": 43,
+    "practice_morale": 26,
+    "mission_exp": 3144,
+    "practice_exp": 1886,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 45,
+    "unit_morale": 100,
+    "mission_morale": 44,
+    "practice_morale": 26,
+    "mission_exp": 3301,
+    "practice_exp": 1981,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 46,
+    "unit_morale": 100,
+    "mission_morale": 44,
+    "practice_morale": 27,
+    "mission_exp": 3466,
+    "practice_exp": 2080,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 47,
+    "unit_morale": 100,
+    "mission_morale": 45,
+    "practice_morale": 27,
+    "mission_exp": 3639,
+    "practice_exp": 2184,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 48,
+    "unit_morale": 100,
+    "mission_morale": 45,
+    "practice_morale": 27,
+    "mission_exp": 3821,
+    "practice_exp": 2293,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 49,
+    "unit_morale": 100,
+    "mission_morale": 46,
+    "practice_morale": 27,
+    "mission_exp": 4012,
+    "practice_exp": 2407,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 50,
+    "unit_morale": 100,
+    "mission_morale": 46,
+    "practice_morale": 28,
+    "mission_exp": 4213,
+    "practice_exp": 2528,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 51,
+    "unit_morale": 100,
+    "mission_morale": 47,
+    "practice_morale": 28,
+    "mission_exp": 4424,
+    "practice_exp": 2654,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 52,
+    "unit_morale": 100,
+    "mission_morale": 47,
+    "practice_morale": 28,
+    "mission_exp": 4645,
+    "practice_exp": 2787,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 53,
+    "unit_morale": 100,
+    "mission_morale": 47,
+    "practice_morale": 28,
+    "mission_exp": 4877,
+    "practice_exp": 2926,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 54,
+    "unit_morale": 100,
+    "mission_morale": 48,
+    "practice_morale": 29,
+    "mission_exp": 5121,
+    "practice_exp": 3073,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 55,
+    "unit_morale": 100,
+    "mission_morale": 48,
+    "practice_morale": 29,
+    "mission_exp": 5377,
+    "practice_exp": 3226,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 56,
+    "unit_morale": 100,
+    "mission_morale": 49,
+    "practice_morale": 29,
+    "mission_exp": 5646,
+    "practice_exp": 3388,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 57,
+    "unit_morale": 100,
+    "mission_morale": 49,
+    "practice_morale": 30,
+    "mission_exp": 5928,
+    "practice_exp": 3557,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 58,
+    "unit_morale": 100,
+    "mission_morale": 50,
+    "practice_morale": 30,
+    "mission_exp": 6225,
+    "practice_exp": 3735,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 59,
+    "unit_morale": 100,
+    "mission_morale": 50,
+    "practice_morale": 30,
+    "mission_exp": 6536,
+    "practice_exp": 3921,
+    "complex_factor": 0.0049999998882413
+  },
+  {
+    "id": 60,
+    "unit_morale": 100,
+    "mission_morale": 50,
+    "practice_morale": 30,
+    "mission_exp": 6863,
+    "practice_exp": 4118,
+    "complex_factor": 0.0049999998882413
+  }
+]

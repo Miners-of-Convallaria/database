@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "m_online_global_quests": [1, 2],
+    "online_global_quest_ids": "1|2",
+    "name": ""
+  },
+  {
+    "id": 2,
+    "m_online_global_quests": [3, 4, 5],
+    "online_global_quest_ids": "3|4|5",
+    "name": "中型活动4期"
+  },
+  {
+    "id": 3,
+    "m_online_global_quests": [7, 8, 9],
+    "online_global_quest_ids": "7|8|9",
+    "name": "大型活动4期"
+  }
+]

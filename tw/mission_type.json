@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "type": "NORMAL",
+    "name": "普通",
+    "require_level": 999,
+    "enemy_count": 8
+  },
+  {
+    "id": 2,
+    "type": "BOSS_HUNT",
+    "name": "猎首",
+    "require_level": 5,
+    "enemy_count": 1
+  },
+  {
+    "id": 3,
+    "type": "RUN",
+    "name": "到达",
+    "require_level": 4,
+    "enemy_count": 1
+  },
+  {
+    "id": 4,
+    "type": "ESCORT",
+    "name": "护送",
+    "require_level": 7,
+    "enemy_count": 1
+  },
+  {
+    "id": 5,
+    "type": "KILL_ALL",
+    "name": "全歼",
+    "require_level": 1,
+    "enemy_count": 1
+  },
+  {
+    "id": 6,
+    "type": "GUARD",
+    "name": "保护",
+    "require_level": 10,
+    "enemy_count": 1
+  },
+  {
+    "id": 7,
+    "type": "DESTROY",
+    "name": "破坏",
+    "require_level": 12,
+    "enemy_count": 1
+  },
+  {
+    "id": 8,
+    "type": "SURVIVE",
+    "name": "生存",
+    "require_level": 999,
+    "enemy_count": 1
+  },
+  {
+    "id": 9,
+    "type": "CAPTURE",
+    "name": "占领",
+    "require_level": 999,
+    "enemy_count": 1
+  }
+]

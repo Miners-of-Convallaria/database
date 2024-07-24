@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "type": "Normal",
+    "name": "普通"
+  },
+  {
+    "id": 2,
+    "type": "PassiveAllPlayer",
+    "name": "被动友方全体"
+  },
+  {
+    "id": 3,
+    "type": "PassiveAllEnemy",
+    "name": "被动敌方全体"
+  }
+]

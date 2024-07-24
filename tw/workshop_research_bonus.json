@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "name": "工坊坏1",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 502,
+    "weight": 950
+  },
+  {
+    "id": 2,
+    "name": "工坊奇怪1",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 503,
+    "weight": 50
+  },
+  {
+    "id": 3,
+    "name": "工坊坏2",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 504,
+    "weight": 710
+  },
+  {
+    "id": 4,
+    "name": "工坊好2",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 505,
+    "weight": 50
+  },
+  {
+    "id": 5,
+    "name": "工坊奇怪2",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 506,
+    "weight": 40
+  },
+  {
+    "id": 6,
+    "name": "工坊坏3",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 507,
+    "weight": 450
+  },
+  {
+    "id": 7,
+    "name": "工坊好3",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 508,
+    "weight": 120
+  },
+  {
+    "id": 8,
+    "name": "工坊奇怪3",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 509,
+    "weight": 30
+  },
+  {
+    "id": 9,
+    "name": "工坊坏4",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 510,
+    "weight": 220
+  },
+  {
+    "id": 10,
+    "name": "工坊好4",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 511,
+    "weight": 160
+  },
+  {
+    "id": 11,
+    "name": "工坊奇怪4",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 512,
+    "weight": 20
+  },
+  {
+    "id": 12,
+    "name": "工坊坏5",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 513,
+    "weight": 30
+  },
+  {
+    "id": 13,
+    "name": "工坊好5",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 514,
+    "weight": 65
+  },
+  {
+    "id": 14,
+    "name": "工坊奇怪5",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 515,
+    "weight": 5
+  },
+  {
+    "id": 15,
+    "name": "工坊坏6",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 516,
+    "weight": 20
+  },
+  {
+    "id": 16,
+    "name": "工坊好6",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 517,
+    "weight": 75
+  },
+  {
+    "id": 17,
+    "name": "工坊奇怪6",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 518,
+    "weight": 5
+  },
+  {
+    "id": 18,
+    "name": "CB1-工坊萃取物附加",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 519,
+    "weight": 50
+  },
+  {
+    "id": 19,
+    "name": "CB1-工坊晶尘附加",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 520,
+    "weight": 50
+  },
+  {
+    "id": 20,
+    "name": "CB1-工坊垃圾附加",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 521,
+    "weight": 30
+  },
+  {
+    "id": 21,
+    "name": "CB1-工坊王国军晶石附加",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 522,
+    "weight": 60
+  },
+  {
+    "id": 22,
+    "name": "CB1-工坊高品质晶石附加",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 523,
+    "weight": 10
+  },
+  {
+    "id": 23,
+    "name": "CB1-工坊好统一",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 912,
+    "weight": 550
+  },
+  {
+    "id": 24,
+    "name": "CB1-工坊坏统一",
+    "animation": "anime2",
+    "desc": "",
+    "treasure_group_id": 911,
+    "weight": 300
+  },
+  {
+    "id": 25,
+    "name": "CB1-工坊奇怪统一",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 914,
+    "weight": 50
+  },
+  {
+    "id": 26,
+    "name": "CB1-工坊极好",
+    "animation": "anime1",
+    "desc": "",
+    "treasure_group_id": 913,
+    "weight": 50
+  }
+]

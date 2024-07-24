@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "m_online_adventure_quest_types": [1],
+    "name": "祝福",
+    "editor_name": "正塔小活第一期-祝福池B",
+    "online_adventure_quest_type_ids": "1",
+    "online_adventure_enemy_pool_id": 1,
+    "online_adventure_boss_pool_id": 1,
+    "online_adventure_blessing_pool_id": 1,
+    "online_adventure_curse_pool_id": 1
+  },
+  {
+    "id": 2,
+    "m_online_adventure_quest_types": [2],
+    "name": "诅咒",
+    "editor_name": "正塔小活第一期-诅咒池",
+    "online_adventure_quest_type_ids": "2",
+    "online_adventure_enemy_pool_id": 1,
+    "online_adventure_boss_pool_id": 1,
+    "online_adventure_blessing_pool_id": 1,
+    "online_adventure_curse_pool_id": 1
+  },
+  {
+    "id": 3,
+    "m_online_adventure_quest_types": [3],
+    "name": "正塔小活第一期-小怪池",
+    "editor_name": "正塔小活第一期-小怪池",
+    "online_adventure_quest_type_ids": "3",
+    "online_adventure_enemy_pool_id": 1,
+    "online_adventure_boss_pool_id": 1,
+    "online_adventure_blessing_pool_id": 1,
+    "online_adventure_curse_pool_id": 1
+  },
+  {
+    "id": 4,
+    "m_online_adventure_quest_types": [4],
+    "name": "正塔小活第一期-BOSS池",
+    "editor_name": "正塔小活第一期-BOSS池-中",
+    "online_adventure_quest_type_ids": "4",
+    "online_adventure_enemy_pool_id": 1,
+    "online_adventure_boss_pool_id": 2,
+    "online_adventure_blessing_pool_id": 1,
+    "online_adventure_curse_pool_id": 1
+  },
+  {
+    "id": 5,
+    "m_online_adventure_quest_types": [3],
+    "name": "正塔小活第一期-小怪池-中",
+    "editor_name": "正塔小活第一期-小怪池-中",
+    "online_adventure_quest_type_ids": "3",
+    "online_adventure_enemy_pool_id": 2,
+    "online_adventure_boss_pool_id": 1,
+    "online_adventure_blessing_pool_id": 1,
+    "online_adventure_curse_pool_id": 1
+  },
+  {
+    "id": 6,
+    "m_online_adventure_quest_types": [4],
+    "name": "正塔小活第一期-BOSS池",
+    "editor_name": "正塔小活第一期-BOSS池-强",
+    "online_adventure_quest_type_ids": "4",
+    "online_adventure_enemy_pool_id": 1,
+    "online_adventure_boss_pool_id": 1,
+    "online_adventure_blessing_pool_id": 1,
+    "online_adventure_curse_pool_id": 1
+  },
+  {
+    "id": 7,
+    "m_online_adventure_quest_types": [1],
+    "name": "祝福",
+    "editor_name": "正塔小活第一期-祝福池S",
+    "online_adventure_quest_type_ids": "1",
+    "online_adventure_enemy_pool_id": 1,
+    "online_adventure_boss_pool_id": 1,
+    "online_adventure_blessing_pool_id": 2,
+    "online_adventure_curse_pool_id": 1
+  }
+]

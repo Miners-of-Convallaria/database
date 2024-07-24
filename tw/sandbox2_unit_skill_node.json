@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "idunit_rarity": 1,
+    "node_id": 1,
+    "skill1_rarity": 1,
+    "skill2_rarity": 1
+  },
+  {
+    "id": 2,
+    "idunit_rarity": 1,
+    "node_id": 2,
+    "skill1_rarity": 2,
+    "skill2_rarity": 2
+  },
+  {
+    "id": 3,
+    "idunit_rarity": 1,
+    "node_id": 3,
+    "skill1_rarity": 3,
+    "skill2_rarity": 3
+  },
+  {
+    "id": 4,
+    "idunit_rarity": 2,
+    "node_id": 1,
+    "skill1_rarity": 1,
+    "skill2_rarity": 1
+  },
+  {
+    "id": 5,
+    "idunit_rarity": 2,
+    "node_id": 2,
+    "skill1_rarity": 2,
+    "skill2_rarity": 2
+  },
+  {
+    "id": 6,
+    "idunit_rarity": 2,
+    "node_id": 3,
+    "skill1_rarity": 3,
+    "skill2_rarity": 3
+  },
+  {
+    "id": 7,
+    "idunit_rarity": 2,
+    "node_id": 4,
+    "skill1_rarity": 4,
+    "skill2_rarity": 4
+  },
+  {
+    "id": 8,
+    "idunit_rarity": 3,
+    "node_id": 1,
+    "skill1_rarity": 1,
+    "skill2_rarity": 1
+  },
+  {
+    "id": 9,
+    "idunit_rarity": 3,
+    "node_id": 2,
+    "skill1_rarity": 2,
+    "skill2_rarity": 2
+  },
+  {
+    "id": 10,
+    "idunit_rarity": 3,
+    "node_id": 3,
+    "skill1_rarity": 3,
+    "skill2_rarity": 3
+  },
+  {
+    "id": 11,
+    "idunit_rarity": 3,
+    "node_id": 4,
+    "skill1_rarity": 4,
+    "skill2_rarity": 4
+  },
+  {
+    "id": 12,
+    "idunit_rarity": 3,
+    "node_id": 5,
+    "skill1_rarity": 3,
+    "skill2_rarity": 3
+  },
+  {
+    "id": 13,
+    "idunit_rarity": 4,
+    "node_id": 1,
+    "skill1_rarity": 1,
+    "skill2_rarity": 1
+  },
+  {
+    "id": 14,
+    "idunit_rarity": 4,
+    "node_id": 2,
+    "skill1_rarity": 2,
+    "skill2_rarity": 2
+  },
+  {
+    "id": 15,
+    "idunit_rarity": 4,
+    "node_id": 3,
+    "skill1_rarity": 3,
+    "skill2_rarity": 3
+  },
+  {
+    "id": 16,
+    "idunit_rarity": 4,
+    "node_id": 4,
+    "skill1_rarity": 4,
+    "skill2_rarity": 4
+  },
+  {
+    "id": 17,
+    "idunit_rarity": 4,
+    "node_id": 5,
+    "skill1_rarity": 3,
+    "skill2_rarity": 3
+  },
+  {
+    "id": 18,
+    "idunit_rarity": 4,
+    "node_id": 6,
+    "skill1_rarity": 4,
+    "skill2_rarity": 4
+  }
+]

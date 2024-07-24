@@ -1,0 +1,3252 @@
+[
+  {
+    "id": 1,
+    "m_capital_npc_forms": [1],
+    "name": "酒店老板",
+    "editor_name": "酒店老板",
+    "idsystem": 3,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 2,
+    "m_capital_npc_forms": [2],
+    "name": "铁匠（无法者弩兵）",
+    "editor_name": "铁匠（无法者弩兵）",
+    "idsystem": 1,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 3,
+    "m_capital_npc_forms": [3],
+    "name": "训练场教官（伊利亚火法）",
+    "editor_name": "训练场教官（伊利亚火法）",
+    "idsystem": 18,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 4,
+    "m_capital_npc_forms": [4],
+    "name": "医生",
+    "editor_name": "医生（教皇国牧师02）",
+    "idsystem": 8,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 9,
+    "m_capital_npc_forms": [9],
+    "name": "助手",
+    "editor_name": "助手（教皇国牧师）",
+    "idsystem": 3,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 10,
+    "m_capital_npc_forms": [10],
+    "name": "镇民小姐姐01（npc05）",
+    "editor_name": "镇民小姐姐01（npc05）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 11,
+    "m_capital_npc_forms": [11],
+    "name": "镇民小女孩01（npc08）",
+    "editor_name": "镇民小女孩01（npc08）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 12,
+    "m_capital_npc_forms": [12],
+    "name": "戴帽子的老妇人（npc07）",
+    "editor_name": "戴帽子老妇人（npc07）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 13,
+    "m_capital_npc_forms": [13],
+    "name": "镇民老爷爷01（npc06）",
+    "editor_name": "镇民老爷爷01（npc06）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 14,
+    "m_capital_npc_forms": [14],
+    "name": "伊利亚火法01（伊利亚火法）",
+    "editor_name": "伊利亚火法01（伊利亚火法）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 15,
+    "m_capital_npc_forms": [15],
+    "name": "麦莎（麦莎）",
+    "editor_name": "麦莎（麦莎）",
+    "idsystem": 0,
+    "idunit": 284,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 16,
+    "m_capital_npc_forms": [16],
+    "name": "法卡尔（法卡尔）",
+    "editor_name": "法卡尔（法卡尔）",
+    "idsystem": 0,
+    "idunit": 285,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 17,
+    "m_capital_npc_forms": [17],
+    "name": "商店组测试",
+    "editor_name": "商店组测试",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 18,
+    "m_capital_npc_forms": [18],
+    "name": "商店测试",
+    "editor_name": "商店测试",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 19,
+    "m_capital_npc_forms": [19],
+    "name": "拉维耶（拉维耶）",
+    "editor_name": "拉维耶（拉维耶）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 20,
+    "m_capital_npc_forms": [20],
+    "name": "阿莱克斯（萨曼莎审判者少女）",
+    "editor_name": "阿莱克斯（萨曼莎审判者少女）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 21,
+    "m_capital_npc_forms": [21],
+    "name": "难民小偷（无法者刺客）",
+    "editor_name": "难民小偷（无法者刺客）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 22,
+    "m_capital_npc_forms": [22],
+    "name": "镇民青年男01（npc11）",
+    "editor_name": "镇民青年男01（npc11）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 23,
+    "m_capital_npc_forms": [23],
+    "name": "镇民戴帽大妈01（npc10）",
+    "editor_name": "镇民戴帽大妈01（npc10）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 24,
+    "m_capital_npc_forms": [24],
+    "name": "教皇国冰法（教皇国冰法）",
+    "editor_name": "教皇国冰法（教皇国冰法）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 25,
+    "m_capital_npc_forms": [25],
+    "name": "骑士团牧师02（骑士团牧师）",
+    "editor_name": "骑士团牧师02（骑士团牧师）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 26,
+    "m_capital_npc_forms": [26],
+    "name": "伊利亚弓箭手01（伊利亚弓兵）",
+    "editor_name": "伊利亚弓箭手01（伊利亚弓兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 27,
+    "m_capital_npc_forms": [27],
+    "name": "雇佣兵（绿头巾）",
+    "editor_name": "雇佣兵（绿头巾）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 28,
+    "m_capital_npc_forms": [28],
+    "name": "骑士团剑盾兵01（骑士团剑盾兵）",
+    "editor_name": "骑士团剑盾兵01（骑士团剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 29,
+    "m_capital_npc_forms": [29],
+    "name": "薇尔德舞娘01（薇尔德舞娘）",
+    "editor_name": "薇尔德舞娘01（薇尔德舞娘）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 30,
+    "m_capital_npc_forms": [107],
+    "name": "薇尔德刺客01（薇尔德刺客）",
+    "editor_name": "薇尔德刺客01（薇尔德刺客）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 31,
+    "m_capital_npc_forms": [31],
+    "name": "薇尔德弓箭手01（薇尔德弓兵）",
+    "editor_name": "薇尔德弓箭手01（薇尔德弓兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 32,
+    "m_capital_npc_forms": [32],
+    "name": "占位角色",
+    "editor_name": "占位角色",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 33,
+    "m_capital_npc_forms": [33],
+    "name": "歌洛莉亚（歌洛莉亚持剑）",
+    "editor_name": "歌洛莉亚（歌洛莉亚持剑）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 34,
+    "m_capital_npc_forms": [34],
+    "name": "伊利亚剑盾兵01（伊利亚剑盾兵）",
+    "editor_name": "伊利亚剑盾兵01（伊利亚剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 35,
+    "m_capital_npc_forms": [35],
+    "name": "骑士团剑盾兵02（骑士团剑盾兵）",
+    "editor_name": "骑士团剑盾兵02（骑士团剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 36,
+    "m_capital_npc_forms": [36],
+    "name": "骑士团长枪兵05（骑士团长枪兵）",
+    "editor_name": "骑士团长枪兵05（骑士团长枪兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 37,
+    "m_capital_npc_forms": [37],
+    "name": "镇民修女01（npc10）",
+    "editor_name": "镇民修女01（npc10）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 38,
+    "m_capital_npc_forms": [38],
+    "name": "系统商店商人：阿莱克斯",
+    "editor_name": "系统商店商人：阿莱克斯",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 39,
+    "m_capital_npc_forms": [39],
+    "name": "鲁特菲殿下（二王子）",
+    "editor_name": "鲁特菲殿下（二王子）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 40,
+    "m_capital_npc_forms": [40, 154],
+    "name": "王女",
+    "editor_name": "三王女",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 42,
+    "m_capital_npc_forms": [42],
+    "name": "无法者弩兵01（无法者弩兵）",
+    "editor_name": "无法者弩兵01（无法者弩兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 43,
+    "m_capital_npc_forms": [43],
+    "name": "索菲亚（索菲亚）",
+    "editor_name": "索菲亚（索菲亚）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 44,
+    "m_capital_npc_forms": [44],
+    "name": "倒吊人剑士",
+    "editor_name": "秘密警察剑士（秘密警察剑士）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 45,
+    "m_capital_npc_forms": [45],
+    "name": "奥古斯特（骑士团团长）",
+    "editor_name": "奥古斯特（骑士团团长）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 48,
+    "m_capital_npc_forms": [48],
+    "name": "黑暗之光冰法（黑暗之光冰法）",
+    "editor_name": "黑暗之光冰法（黑暗之光冰法）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 49,
+    "m_capital_npc_forms": [49],
+    "name": "法皇国光辉侍者",
+    "editor_name": "教皇国牧师（教皇国牧师）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 50,
+    "m_capital_npc_forms": [50],
+    "name": "酒吧老板（演出用）",
+    "editor_name": "酒吧老板（演出用）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 51,
+    "m_capital_npc_forms": [51],
+    "name": "鲍勃（npc06）",
+    "editor_name": "自由对话-鲍勃（npc06）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 52,
+    "m_capital_npc_forms": [52],
+    "name": "利亚姆（npc11）",
+    "editor_name": "自由对话-利亚姆（npc11）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 53,
+    "m_capital_npc_forms": [53],
+    "name": "诺埃尔(npc12)",
+    "editor_name": "自由对话-诺埃尔（npc12）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 54,
+    "m_capital_npc_forms": [54],
+    "name": "蒂姆（npc11）",
+    "editor_name": "次级对话04-蒂姆（npc11）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 55,
+    "m_capital_npc_forms": [55],
+    "name": "难民青年（暴民巨斧兵）",
+    "editor_name": "自由对话-难民青年（暴民巨斧兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 56,
+    "m_capital_npc_forms": [56],
+    "name": "杰克（npc11）",
+    "editor_name": "自由对话-杰克（npc11）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 57,
+    "m_capital_npc_forms": [57],
+    "name": "汤米（暴民剑盾兵）",
+    "editor_name": "自由对话-汤米（暴民剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 58,
+    "m_capital_npc_forms": [58],
+    "name": "小孩（npc08）",
+    "editor_name": "次级对话08-小孩（npc08）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 59,
+    "m_capital_npc_forms": [85],
+    "name": "小孩的父亲（npc12）",
+    "editor_name": "次级对话09-小孩的父亲（npc12）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 60,
+    "m_capital_npc_forms": [60],
+    "name": "骑士山姆（骑士团长枪兵01）",
+    "editor_name": "自由对话-骑士山姆（骑士团长枪兵01）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 61,
+    "m_capital_npc_forms": [61],
+    "name": "骑士托德（骑士团长枪兵02）",
+    "editor_name": "自由对话-骑士托德（骑士团长枪兵02）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 62,
+    "m_capital_npc_forms": [62],
+    "name": "骑士贡特拉尔（骑士团长枪兵03）",
+    "editor_name": "次级对话12-骑士贡特拉尔（骑士团长枪兵03）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 63,
+    "m_capital_npc_forms": [63],
+    "name": "骑士克莱德（骑士团长枪兵04）",
+    "editor_name": "次级对话13-骑士克莱德（骑士团长枪兵04）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 64,
+    "m_capital_npc_forms": [64],
+    "name": "吉姆（暴民剑盾兵）",
+    "editor_name": "次级对话14-吉姆（暴民剑盾兵）",
+    "idsystem": 0,
+    "idunit": 319,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 65,
+    "m_capital_npc_forms": [65],
+    "name": "拉尔夫（npc11）",
+    "editor_name": "自由对话-拉尔夫（npc11）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 66,
+    "m_capital_npc_forms": [66],
+    "name": "霍利（暴民剑盾兵）",
+    "editor_name": "自由对话-霍利（暴民剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 67,
+    "m_capital_npc_forms": [67],
+    "name": "尼克（npc11）",
+    "editor_name": "自由对话-尼克（npc11）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 68,
+    "m_capital_npc_forms": [68],
+    "name": "神秘人",
+    "editor_name": "神秘人（训练事件用NPC)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 70,
+    "m_capital_npc_forms": [70],
+    "name": "记者拉尔（npc11）",
+    "editor_name": "记者拉尔（npc11）",
+    "idsystem": 0,
+    "idunit": 104,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 83,
+    "m_capital_npc_forms": [82],
+    "name": "萨曼莎（审判者少女）",
+    "editor_name": "萨曼莎（审判者少女）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 84,
+    "m_capital_npc_forms": [81],
+    "name": "白头盔(骑士团剑盾兵)",
+    "editor_name": "白头盔(骑士团剑盾兵)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 85,
+    "m_capital_npc_forms": [83],
+    "name": "老骑士里斯坦夫（骑士团剑盾兵04）",
+    "editor_name": "老骑士里斯坦夫（骑士团剑盾兵04）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 86,
+    "m_capital_npc_forms": [84],
+    "name": "女骑士克莱尔（骑士团牧师01）",
+    "editor_name": "女骑士克莱尔（骑士团牧师01）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 87,
+    "m_capital_npc_forms": [86],
+    "name": "王国军士兵（伊利亚剑盾兵）",
+    "editor_name": "王国军士兵（伊利亚剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 88,
+    "m_capital_npc_forms": [87],
+    "name": "泰登·阿尔弗雷德·伊格纳提伍兹（泰登）",
+    "editor_name": "泰登",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 91,
+    "m_capital_npc_forms": [93],
+    "name": "暴民巨斧兵（暴民巨斧兵）",
+    "editor_name": "暴民巨斧兵（暴民巨斧兵）",
+    "idsystem": 0,
+    "idunit": 315,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 92,
+    "m_capital_npc_forms": [94],
+    "name": "暴民剑盾兵（暴民剑盾兵）",
+    "editor_name": "暴民剑盾兵（暴民剑盾兵）",
+    "idsystem": 0,
+    "idunit": 319,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 93,
+    "m_capital_npc_forms": [96],
+    "name": "斯科（黑暗之光刺客）",
+    "editor_name": "斯科（黑暗之光刺客）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 94,
+    "m_capital_npc_forms": [97],
+    "name": "暴民掷弹手（黑暗之光爆破手）",
+    "editor_name": "暴民掷弹手（黑暗之光爆破手）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 95,
+    "m_capital_npc_forms": [139],
+    "name": "萨曼莎（修女）",
+    "editor_name": "萨曼莎（修女）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 96,
+    "m_capital_npc_forms": [100],
+    "name": "雇佣兵刺客01（雇佣兵刺客）",
+    "editor_name": "雇佣兵刺客01 （雇佣兵刺客）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 97,
+    "m_capital_npc_forms": [157],
+    "name": "雇佣兵长枪兵01",
+    "editor_name": "雇佣兵长枪兵01",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 98,
+    "m_capital_npc_forms": [102],
+    "name": "难民（暴民爆破手）",
+    "editor_name": "难民（暴民爆破手）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 99,
+    "m_capital_npc_forms": [103],
+    "name": "黑暗之光士兵（黑暗之光火法）",
+    "editor_name": "黑暗之光士兵（黑暗之光火法）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 100,
+    "m_capital_npc_forms": [104],
+    "name": "雇佣兵弓兵01（雇佣兵弓兵）",
+    "editor_name": "雇佣兵弓兵01（雇佣兵弓兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 101,
+    "m_capital_npc_forms": [105],
+    "name": "教皇国弩兵（教皇国弩兵）",
+    "editor_name": "教皇国弩兵（教皇国弩兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 103,
+    "m_capital_npc_forms": [111],
+    "name": "开场居民-定制瘸腿商人01（npc16）",
+    "editor_name": "开场居民-定制瘸腿商人01（npc16）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 104,
+    "m_capital_npc_forms": [113],
+    "name": "平民05（镇民少女）",
+    "editor_name": "平民05（镇民少女）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 105,
+    "m_capital_npc_forms": [114],
+    "name": "平民06（镇民老大爷）",
+    "editor_name": "平民06（镇民老大爷）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 106,
+    "m_capital_npc_forms": [115],
+    "name": "平民07（镇民大妈）",
+    "editor_name": "平民07（镇民大妈）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 107,
+    "m_capital_npc_forms": [116],
+    "name": "平民08（黄毛小孩）",
+    "editor_name": "平民08（黄毛小孩）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 108,
+    "m_capital_npc_forms": [117],
+    "name": "平民09（黑毛小孩）",
+    "editor_name": "平民09（黑毛小孩）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 109,
+    "m_capital_npc_forms": [118],
+    "name": "平民010（普通修女）",
+    "editor_name": "平民010（普通修女）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 110,
+    "m_capital_npc_forms": [119, 143, 144, 145],
+    "name": "平民011（绿衣普通青年）",
+    "editor_name": "平民011（绿衣普通青年）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 111,
+    "m_capital_npc_forms": [120],
+    "name": "平民013（绿衣贵族）",
+    "editor_name": "平民013（绿衣贵族）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 112,
+    "m_capital_npc_forms": [121],
+    "name": "平民012（黑衣普通青年）",
+    "editor_name": "平民012（黑衣普通青年）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 113,
+    "m_capital_npc_forms": [122],
+    "name": "平民014（黄毛贵族）",
+    "editor_name": "平民014（黄毛贵族）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 114,
+    "m_capital_npc_forms": [123],
+    "name": "平民015（中分贵族）",
+    "editor_name": "平民015（中分贵族）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 115,
+    "m_capital_npc_forms": [124],
+    "name": "平民016（瘸腿商人）",
+    "editor_name": "平民016（瘸腿商人）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 116,
+    "m_capital_npc_forms": [125],
+    "name": "拉维耶之墓（拉维耶剑冢）",
+    "editor_name": "拉维耶之墓（拉维耶剑冢）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 117,
+    "m_capital_npc_forms": [126],
+    "name": "骑士团剑盾兵03（骑士团剑盾兵）",
+    "editor_name": "骑士团剑盾兵03（骑士团剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 118,
+    "m_capital_npc_forms": [127],
+    "name": "马格努斯（马格努斯）",
+    "editor_name": "马格努斯（马格努斯）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 119,
+    "m_capital_npc_forms": [128],
+    "name": "铁匠（未开启系统）",
+    "editor_name": "铁匠（未开启系统）（无法者弩兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 120,
+    "m_capital_npc_forms": [130],
+    "name": "自由军爆破手（暴民爆破手）",
+    "editor_name": "自由军爆破手（暴民爆破手）",
+    "idsystem": 0,
+    "idunit": 320,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 122,
+    "m_capital_npc_forms": [131],
+    "name": "骑士同盟商人",
+    "editor_name": "系统商店商人：骑士团商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 123,
+    "m_capital_npc_forms": [133],
+    "name": "铁匠铺商人",
+    "editor_name": "系统商店商人：铁匠铺商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 124,
+    "m_capital_npc_forms": [134],
+    "name": "训练达人",
+    "editor_name": "系统商店商人：训练达人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 125,
+    "m_capital_npc_forms": [135],
+    "name": "神秘建筑师",
+    "editor_name": "系统商店商人：神秘建筑师",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 126,
+    "m_capital_npc_forms": [160],
+    "name": "伊奇（灰狼）",
+    "editor_name": "伊奇（灰狼）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 127,
+    "m_capital_npc_forms": [137],
+    "name": "莉莉薇儿",
+    "editor_name": "莉莉薇儿",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 128,
+    "m_capital_npc_forms": [140],
+    "name": "诺诺薇儿",
+    "editor_name": "诺诺薇儿",
+    "idsystem": 0,
+    "idunit": 351,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 129,
+    "m_capital_npc_forms": [141],
+    "name": "演出用贝拉（小魔女）",
+    "editor_name": "演出用贝拉（小魔女）",
+    "idsystem": 0,
+    "idunit": 343,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 130,
+    "m_capital_npc_forms": [142],
+    "name": "骑士同盟巨斧兵01",
+    "editor_name": "骑士团巨斧兵01",
+    "idsystem": 0,
+    "idunit": 54,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 133,
+    "m_capital_npc_forms": [148],
+    "name": "迪塔利奥",
+    "editor_name": "大王子",
+    "idsystem": 0,
+    "idunit": 349,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 134,
+    "m_capital_npc_forms": [150],
+    "name": "拉维耶剑冢",
+    "editor_name": "拉维耶剑冢",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 135,
+    "m_capital_npc_forms": [151],
+    "name": "拉维耶剑冢",
+    "editor_name": "拉维耶剑冢",
+    "idsystem": 0,
+    "idunit": 312,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 136,
+    "m_capital_npc_forms": [152],
+    "name": "倒吊人弩刺",
+    "editor_name": "秘密警察弩刺",
+    "idsystem": 0,
+    "idunit": 317,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 137,
+    "m_capital_npc_forms": [153],
+    "name": "艾达",
+    "editor_name": "艾达",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 139,
+    "m_capital_npc_forms": [155],
+    "name": "演出用阿列克谢",
+    "editor_name": "演出用阿列克谢",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 140,
+    "m_capital_npc_forms": [156],
+    "name": "泽维尔",
+    "editor_name": "泽维尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 141,
+    "m_capital_npc_forms": [158, 159],
+    "name": "闹事的商人（NPC19)",
+    "editor_name": "闹事的商人（NPC19)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 142,
+    "m_capital_npc_forms": [161],
+    "name": "小魔女的背包",
+    "editor_name": "小魔女的背包",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 143,
+    "m_capital_npc_forms": [162],
+    "name": "贝拉（小魔女）-晶石工坊用NPC",
+    "editor_name": "贝拉（小魔女）-晶石工坊用NPC",
+    "idsystem": 0,
+    "idunit": 343,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 144,
+    "m_capital_npc_forms": [163, 337],
+    "name": "（废弃）诺诺薇儿",
+    "editor_name": "（废弃）诺诺薇儿",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 145,
+    "m_capital_npc_forms": [164],
+    "name": "演出用银狼",
+    "editor_name": "演出用银狼",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 146,
+    "m_capital_npc_forms": [165],
+    "name": "阿坎贝",
+    "editor_name": "阿坎贝",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 147,
+    "m_capital_npc_forms": [166],
+    "name": "黑道商人",
+    "editor_name": "系统商店商人：黑道商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 148,
+    "m_capital_npc_forms": [167],
+    "name": "异域商人",
+    "editor_name": "系统商店商人：异域商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 149,
+    "m_capital_npc_forms": [168],
+    "name": "骑士团枪骑士（首领级）",
+    "editor_name": "骑士团枪骑士（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 150,
+    "m_capital_npc_forms": [169],
+    "name": "骑士同盟巨斧兵02",
+    "editor_name": "骑士团巨斧兵02",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 151,
+    "m_capital_npc_forms": [170],
+    "name": "骑士同盟牧师01",
+    "editor_name": "骑士团牧师01",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 152,
+    "m_capital_npc_forms": [171],
+    "name": "伊利亚弓箭手02",
+    "editor_name": "伊利亚弓箭手02",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 153,
+    "m_capital_npc_forms": [172],
+    "name": "伊利亚长枪兵01",
+    "editor_name": "伊利亚长枪兵01",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 154,
+    "m_capital_npc_forms": [173],
+    "name": "伊利亚牧师01（首领级）",
+    "editor_name": "伊利亚牧师01（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 155,
+    "m_capital_npc_forms": [174, 177],
+    "name": "佣兵之家女佣",
+    "editor_name": "佣兵之家女佣",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 156,
+    "m_capital_npc_forms": [175],
+    "name": "教皇国长枪兵01（首领级）",
+    "editor_name": "教皇国长枪兵01（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 157,
+    "m_capital_npc_forms": [176],
+    "name": "教皇国暗法（首领级）",
+    "editor_name": "教皇国暗法（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 158,
+    "m_capital_npc_forms": [178],
+    "name": "秘密继子",
+    "editor_name": "秘密继子",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 159,
+    "m_capital_npc_forms": [179],
+    "name": "苏莱曼监视者",
+    "editor_name": "苏莱曼监视者",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 160,
+    "m_capital_npc_forms": [180, 181],
+    "name": "苏莱曼普通商人",
+    "editor_name": "苏莱曼普通商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 161,
+    "m_capital_npc_forms": [182, 183],
+    "name": "派普（商人）",
+    "editor_name": "派普（商人）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 162,
+    "m_capital_npc_forms": [184],
+    "name": "教皇国暗法（首领级）2",
+    "editor_name": "教皇国暗法（首领级）2",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 163,
+    "m_capital_npc_forms": [185],
+    "name": "{黑猫昵称}",
+    "editor_name": "{黑猫昵称}",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": true
+  },
+  {
+    "id": 164,
+    "m_capital_npc_forms": [186],
+    "name": "夏可露露（英雄舞娘）",
+    "editor_name": "夏可露露（英雄舞娘）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 165,
+    "m_capital_npc_forms": [194],
+    "name": "次级对话：黑毛小孩NPC09",
+    "editor_name": "次级对话：黑毛小孩NPC09",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 168,
+    "m_capital_npc_forms": [197],
+    "name": "演出用倒吊人双子（兄）",
+    "editor_name": "演出用倒吊人双子（兄）内尔伽勒",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 169,
+    "m_capital_npc_forms": [198],
+    "name": "演出用倒吊人双子（妹）仑伽勒",
+    "editor_name": "演出用倒吊人双子（妹）仑伽勒",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 170,
+    "m_capital_npc_forms": [199],
+    "name": "次级对话用雇佣兵（雇佣兵刺客）",
+    "editor_name": "次级对话用雇佣兵（雇佣兵刺客）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 186,
+    "m_capital_npc_forms": [230],
+    "name": "次级对话用雇佣兵（雇佣兵剑盾兵）",
+    "editor_name": "次级对话用雇佣兵（雇佣兵剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 187,
+    "m_capital_npc_forms": [231],
+    "name": "次级对话用雇佣兵（雇佣兵巨斧兵）",
+    "editor_name": "次级对话用雇佣兵（雇佣兵巨斧兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 188,
+    "m_capital_npc_forms": [232],
+    "name": "次级对话用雇佣兵（雇佣兵弓兵）",
+    "editor_name": "次级对话用雇佣兵（雇佣兵弓兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 189,
+    "m_capital_npc_forms": [233],
+    "name": "次级对话用雇佣兵（雇佣兵精英火法）",
+    "editor_name": "次级对话用雇佣兵（雇佣兵精英火法）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 190,
+    "m_capital_npc_forms": [234],
+    "name": "次级对话用雇佣兵（雇佣兵长枪兵）",
+    "editor_name": "次级对话用雇佣兵（雇佣兵长枪兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 191,
+    "m_capital_npc_forms": [235],
+    "name": "次级对话用雇佣兵（无法者刺客）",
+    "editor_name": "次级对话用雇佣兵（无法者刺客）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 192,
+    "m_capital_npc_forms": [236],
+    "name": "次级对话用雇佣兵（无法者刺客）",
+    "editor_name": "次级对话用雇佣兵（无法者剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 193,
+    "m_capital_npc_forms": [237],
+    "name": "次级对话用雇佣兵（无法者巨斧兵）",
+    "editor_name": "次级对话用雇佣兵（无法者巨斧兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 194,
+    "m_capital_npc_forms": [238],
+    "name": "次级对话用雇佣兵（无法者弓兵）",
+    "editor_name": "次级对话用雇佣兵（无法者弓兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 195,
+    "m_capital_npc_forms": [239],
+    "name": "次级对话用雇佣兵（无法者弩兵）",
+    "editor_name": "次级对话用雇佣兵（无法者弩兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 196,
+    "m_capital_npc_forms": [240],
+    "name": "次级对话用雇佣兵（无法者长枪兵）",
+    "editor_name": "次级对话用雇佣兵（无法者长枪兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 197,
+    "m_capital_npc_forms": [241],
+    "name": "次级对话用雇佣兵（民兵剑盾兵）",
+    "editor_name": "次级对话用雇佣兵（民兵剑盾兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 198,
+    "m_capital_npc_forms": [242],
+    "name": "次级对话用雇佣兵（民兵巨斧兵）",
+    "editor_name": "次级对话用雇佣兵（民兵巨斧兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 199,
+    "m_capital_npc_forms": [243],
+    "name": "次级对话用雇佣兵（民兵弩兵）",
+    "editor_name": "次级对话用雇佣兵（民兵弩兵）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 200,
+    "m_capital_npc_forms": [244],
+    "name": "次级对话用雇佣兵（民兵爆破手）",
+    "editor_name": "次级对话用雇佣兵（民兵爆破手）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 201,
+    "m_capital_npc_forms": [245],
+    "name": "次级对话用阿列克谢",
+    "editor_name": "次级对话用阿列克谢",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 202,
+    "m_capital_npc_forms": [246],
+    "name": "次级对话用苏莱曼商人(棕头巾）",
+    "editor_name": "次级对话用苏莱曼商人(棕头巾）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 203,
+    "m_capital_npc_forms": [247],
+    "name": "次级对话用苏莱曼商人(紫头巾）",
+    "editor_name": "次级对话用苏莱曼商人(紫头巾）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 204,
+    "m_capital_npc_forms": [248],
+    "name": "次级对话用伊利亚商人（绿衣)",
+    "editor_name": "级对话用伊利亚商人（绿衣)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 205,
+    "m_capital_npc_forms": [249, 250],
+    "name": "演出用伊利亚商人",
+    "editor_name": "演出用伊利亚商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 206,
+    "m_capital_npc_forms": [251],
+    "name": "演出用茉茉",
+    "editor_name": "演出用茉茉",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 207,
+    "m_capital_npc_forms": [252],
+    "name": "次级对话用茉茉",
+    "editor_name": "次级对话用茉茉",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 208,
+    "m_capital_npc_forms": [253],
+    "name": "次级对话用银狼",
+    "editor_name": "次级对话用银狼",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 209,
+    "m_capital_npc_forms": [254],
+    "name": "演出用费尔南多",
+    "editor_name": "演出用费尔南多",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 210,
+    "m_capital_npc_forms": [255],
+    "name": "次级对话用费尔南多",
+    "editor_name": "次级对话用费尔南多",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 211,
+    "m_capital_npc_forms": [256],
+    "name": "演出用嘉西娅",
+    "editor_name": "演出用嘉西娅",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 212,
+    "m_capital_npc_forms": [257],
+    "name": "次级对话用嘉西娅",
+    "editor_name": "次级对话用嘉西娅",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 213,
+    "m_capital_npc_forms": [258],
+    "name": "骑士同盟特殊商人",
+    "editor_name": "系统商店商人：骑士团特殊商人（骑士团将军）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 214,
+    "m_capital_npc_forms": [259],
+    "name": "王国军商人",
+    "editor_name": "系统商店商人：王国军商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 215,
+    "m_capital_npc_forms": [260],
+    "name": "王国军特殊商人",
+    "editor_name": "系统商店商人：王国军特殊商人（王国军将军）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 216,
+    "m_capital_npc_forms": [261],
+    "name": "小魔女商人",
+    "editor_name": "系统商店商人：小魔女商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 217,
+    "m_capital_npc_forms": [262],
+    "name": "次级对话用贝拉（小魔女）",
+    "editor_name": "次级对话用贝拉（小魔女）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 218,
+    "m_capital_npc_forms": [263],
+    "name": "演出用薇尔德舞娘",
+    "editor_name": "演出用薇尔德舞娘",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 219,
+    "m_capital_npc_forms": [264],
+    "name": "次级对话用薇尔德舞娘",
+    "editor_name": "次级对话用薇尔德舞娘",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 220,
+    "m_capital_npc_forms": [265],
+    "name": "演出用薇尔德弓箭手",
+    "editor_name": "演出用薇尔德弓箭手",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 221,
+    "m_capital_npc_forms": [266],
+    "name": "次级对话用薇尔弓箭手",
+    "editor_name": "次级对话用薇尔弓箭手",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 222,
+    "m_capital_npc_forms": [267],
+    "name": "次级对话用伊利亚牧师（首领级）",
+    "editor_name": "次级对话用伊利亚牧师（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 223,
+    "m_capital_npc_forms": [268],
+    "name": "演出用伊利亚牧师（首领级）",
+    "editor_name": "演出用伊利亚牧师（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 224,
+    "m_capital_npc_forms": [269],
+    "name": "演出用伊利亚枪兵",
+    "editor_name": "演出用伊利亚枪兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 225,
+    "m_capital_npc_forms": [270],
+    "name": "次级对话用伊利亚枪兵",
+    "editor_name": "次级对话用伊利亚枪兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 226,
+    "m_capital_npc_forms": [271],
+    "name": "次级对话用伊利亚弓箭兵",
+    "editor_name": "次级对话用伊利亚弓箭兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 227,
+    "m_capital_npc_forms": [272],
+    "name": "演出用伊利亚弓箭兵",
+    "editor_name": "演出用伊利亚弓箭兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 228,
+    "m_capital_npc_forms": [273],
+    "name": "演出用伊利亚剑盾兵",
+    "editor_name": "演出用伊利亚剑盾兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 229,
+    "m_capital_npc_forms": [276],
+    "name": "次级对话用伊利亚弓剑盾兵",
+    "editor_name": "次级对话用伊利亚弓剑盾兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 230,
+    "m_capital_npc_forms": [277],
+    "name": "次级对话用伊利亚火法（首领级）",
+    "editor_name": "次级对话用伊利亚火法（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 231,
+    "m_capital_npc_forms": [278],
+    "name": "演出用伊利亚火法（首领级）",
+    "editor_name": "演出用伊利亚火法（首领级）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 232,
+    "m_capital_npc_forms": [279],
+    "name": "演出用骑士同盟精英剑士B",
+    "editor_name": "演出用骑士团精英剑士B",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 233,
+    "m_capital_npc_forms": [280],
+    "name": "次级对话用骑士同盟精英剑士A",
+    "editor_name": "次级对话用骑士团精英剑士A",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 234,
+    "m_capital_npc_forms": [281],
+    "name": "次级对话用骑士同盟精英剑士B",
+    "editor_name": "次级对话用骑士团精英剑士B",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 235,
+    "m_capital_npc_forms": [282],
+    "name": "演出用骑士同盟精英剑士A",
+    "editor_name": "演出用骑士团精英剑士A",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 236,
+    "m_capital_npc_forms": [283],
+    "name": "演出用邦国王子塔埃尔",
+    "editor_name": "演出用邦国王子塔埃尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 237,
+    "m_capital_npc_forms": [284],
+    "name": "次级对话用邦国王子塔埃尔",
+    "editor_name": "次级对话用邦国王子塔埃尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 238,
+    "m_capital_npc_forms": [285],
+    "name": "历史书",
+    "editor_name": "历史书",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 239,
+    "m_capital_npc_forms": [286],
+    "name": "演出用科尔",
+    "editor_name": "演出用科尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 240,
+    "m_capital_npc_forms": [287],
+    "name": "次级对话用科尔",
+    "editor_name": "次级对话用科尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 241,
+    "m_capital_npc_forms": [289],
+    "name": "次级对话用小屁孩A",
+    "editor_name": "次级对话用小屁孩A",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 242,
+    "m_capital_npc_forms": [290],
+    "name": "次级对话用小屁孩B",
+    "editor_name": "次级对话用小屁孩B",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 243,
+    "m_capital_npc_forms": [291],
+    "name": "次级对话用小屁孩C",
+    "editor_name": "次级对话用小屁孩C",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 244,
+    "m_capital_npc_forms": [292],
+    "name": "演出用小屁孩C",
+    "editor_name": "演出用小屁孩C",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 245,
+    "m_capital_npc_forms": [293],
+    "name": "演出用小屁孩B",
+    "editor_name": "演出用小屁孩B",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 246,
+    "m_capital_npc_forms": [294],
+    "name": "演出用小屁孩A",
+    "editor_name": "演出用小屁孩A",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 247,
+    "m_capital_npc_forms": [295],
+    "name": "次级对话用伊南娜（公主）",
+    "editor_name": "次级对话用伊南娜（公主）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 248,
+    "m_capital_npc_forms": [296],
+    "name": "次级对话用伊南娜（难民）",
+    "editor_name": "次级对话用伊南娜（难民）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 250,
+    "m_capital_npc_forms": [298],
+    "name": "演出用枢机主教卡丽丝",
+    "editor_name": "演出用枢机主教卡丽丝",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 251,
+    "m_capital_npc_forms": [300],
+    "name": "演出用光辉卫士长列奥尼德",
+    "editor_name": "演出用光辉卫士长列奥尼德",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 252,
+    "m_capital_npc_forms": [301],
+    "name": "教皇国剑盾兵",
+    "editor_name": "教皇国剑盾兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 253,
+    "m_capital_npc_forms": [302],
+    "name": "教皇国弩刺",
+    "editor_name": "教皇国弩刺",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 254,
+    "m_capital_npc_forms": [303],
+    "name": "教皇国投枪兵",
+    "editor_name": "教皇国投枪兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 255,
+    "m_capital_npc_forms": [304],
+    "name": "教皇国魔战士",
+    "editor_name": "教皇国魔战士",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 256,
+    "m_capital_npc_forms": [305],
+    "name": "次级对话用教皇国佣兵头子",
+    "editor_name": "次级对话用教皇国佣兵头子",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 257,
+    "m_capital_npc_forms": [306],
+    "name": "演出用教皇国佣兵头子",
+    "editor_name": "演出用教皇国佣兵头子",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 258,
+    "m_capital_npc_forms": [307],
+    "name": "庇护所常驻NPC-教皇国牧师（教皇国牧师）",
+    "editor_name": "庇护所常驻NPC-教皇国牧师（教皇国牧师）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 259,
+    "m_capital_npc_forms": [308],
+    "name": "{黑猫昵称}",
+    "editor_name": "乐土重要事件专用的真黑猫",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": true
+  },
+  {
+    "id": 260,
+    "m_capital_npc_forms": [309],
+    "name": "演出用黑暗之光冰法",
+    "editor_name": "演出用黑暗之光冰法",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 261,
+    "m_capital_npc_forms": [310],
+    "name": "演出用伊利亚修女",
+    "editor_name": "演出用伊利亚修女",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 262,
+    "m_capital_npc_forms": [311],
+    "name": "演出用黑暗之光暗法",
+    "editor_name": "演出用黑暗之光暗法",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 263,
+    "m_capital_npc_forms": [313],
+    "name": "次级对话用黑暗之光暗法",
+    "editor_name": "次级对话用黑暗之光暗法",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 264,
+    "m_capital_npc_forms": [314],
+    "name": "演出用黑暗之光火法",
+    "editor_name": "演出用黑暗之光火法",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 265,
+    "m_capital_npc_forms": [315],
+    "name": "次级对话用黑暗之光火法",
+    "editor_name": "次级对话用黑暗之光火法",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 266,
+    "m_capital_npc_forms": [316],
+    "name": "演出用雇佣兵精英巨斧兵",
+    "editor_name": "演出用雇佣兵精英巨斧兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 267,
+    "m_capital_npc_forms": [317],
+    "name": "蔻蔻娜的日记本",
+    "editor_name": "蔻蔻娜的日记本",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 268,
+    "m_capital_npc_forms": [318],
+    "name": "法皇国商人",
+    "editor_name": "系统商店商人：法皇国商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 269,
+    "m_capital_npc_forms": [319],
+    "name": "演出用科尔（正太装备）",
+    "editor_name": "演出用科尔（正太装备）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 270,
+    "m_capital_npc_forms": [320],
+    "name": "次级对话用科尔（正太装备）",
+    "editor_name": "次级对话用科尔（正太装备）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 271,
+    "m_capital_npc_forms": [321],
+    "name": "次级对话用科尔（面具装备）",
+    "editor_name": "次级对话用科尔（面具装备）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 272,
+    "m_capital_npc_forms": [322],
+    "name": "演出用科尔（面具装备）",
+    "editor_name": "演出用科尔（面具装备）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 273,
+    "m_capital_npc_forms": [323],
+    "name": "演出用特兰奎洛",
+    "editor_name": "演出用特兰奎洛",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 274,
+    "m_capital_npc_forms": [324],
+    "name": "演出用古兹曼",
+    "editor_name": "演出用古兹曼",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 275,
+    "m_capital_npc_forms": [325],
+    "name": "次级对话用古兹曼",
+    "editor_name": "次级对话用古兹曼",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 276,
+    "m_capital_npc_forms": [326],
+    "name": "演出用席梦娜",
+    "editor_name": "演出用席梦娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 277,
+    "m_capital_npc_forms": [327],
+    "name": "次级对话用席梦娜",
+    "editor_name": "次级对话用席梦娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 278,
+    "m_capital_npc_forms": [328],
+    "name": "演出用监视者",
+    "editor_name": "演出用监视者",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 279,
+    "m_capital_npc_forms": [329],
+    "name": "次级对话用监视者",
+    "editor_name": "次级对话用监视者",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 280,
+    "m_capital_npc_forms": [330],
+    "name": "演出用蔻蔻娜",
+    "editor_name": "演出用蔻蔻娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 281,
+    "m_capital_npc_forms": [331],
+    "name": "次级对话用蔻蔻娜",
+    "editor_name": "次级对话用蔻蔻娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 282,
+    "m_capital_npc_forms": [336],
+    "name": "演出用蔻蔻娜（背包装备）",
+    "editor_name": "演出用蔻蔻娜（背包装备）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 283,
+    "m_capital_npc_forms": [335],
+    "name": "次级对话用蔻蔻娜（背包装备）",
+    "editor_name": "次级对话用蔻蔻娜（背包装备）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 284,
+    "m_capital_npc_forms": [338],
+    "name": "演出用监视者",
+    "editor_name": "演出用监视者",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 285,
+    "m_capital_npc_forms": [339],
+    "name": "次级对话用监视者",
+    "editor_name": "次级对话用监视者",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 286,
+    "m_capital_npc_forms": [340],
+    "name": "演出用爱国商人卡达尔",
+    "editor_name": "演出用爱国商人卡达尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 287,
+    "m_capital_npc_forms": [341],
+    "name": "商会-浪涌城商人",
+    "editor_name": "商会-浪涌城商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 288,
+    "m_capital_npc_forms": [342],
+    "name": "商会-南方小镇商人",
+    "editor_name": "商会-南方小镇商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 289,
+    "m_capital_npc_forms": [343],
+    "name": "商会-矿坑城商人",
+    "editor_name": "商会-矿坑城商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 290,
+    "m_capital_npc_forms": [344],
+    "name": "商会-晨曦堡商人",
+    "editor_name": "商会-晨曦堡商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 291,
+    "m_capital_npc_forms": [345],
+    "name": "商会-薇尔德商人",
+    "editor_name": "商会-薇尔德商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 292,
+    "m_capital_npc_forms": [346],
+    "name": "系统NPC-商会系统入口",
+    "editor_name": "系统NPC-商会系统入口（缺系统ID配置）",
+    "idsystem": 91,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 293,
+    "m_capital_npc_forms": [347],
+    "name": "系统NPC-订单系统入口",
+    "editor_name": "系统NPC-订单系统入口（缺系统ID配置）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 294,
+    "m_capital_npc_forms": [348],
+    "name": "次级对话用爱国商人",
+    "editor_name": "次级对话用爱国商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 295,
+    "m_capital_npc_forms": [349],
+    "name": "演出用爱国商人",
+    "editor_name": "演出用爱国商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 296,
+    "m_capital_npc_forms": [350],
+    "name": "次级对话用鹦鹉人",
+    "editor_name": "次级对话用鹦鹉人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 297,
+    "m_capital_npc_forms": [351],
+    "name": "演出用鹦鹉人",
+    "editor_name": "演出用鹦鹉人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 298,
+    "m_capital_npc_forms": [352],
+    "name": "演出用埃拉曼双刀兵",
+    "editor_name": "演出用埃拉曼双刀兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 299,
+    "m_capital_npc_forms": [353],
+    "name": "演出用埃拉曼剑盾兵",
+    "editor_name": "演出用埃拉曼剑盾兵",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 300,
+    "m_capital_npc_forms": [354],
+    "name": "演出用埃拉曼刺客",
+    "editor_name": "演出用埃拉曼刺客",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 301,
+    "m_capital_npc_forms": [355],
+    "name": "演出用SP拉维耶",
+    "editor_name": "演出用SP拉维耶",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 302,
+    "m_capital_npc_forms": [356],
+    "name": "演出用SP索菲娅",
+    "editor_name": "演出用SP索菲娅",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 303,
+    "m_capital_npc_forms": [357],
+    "name": "演出用埃拉曼斥候",
+    "editor_name": "演出用埃拉曼斥候",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 304,
+    "m_capital_npc_forms": [358],
+    "name": "演出用学姐莉拉",
+    "editor_name": "演出用学姐莉拉",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 305,
+    "m_capital_npc_forms": [359],
+    "name": "演出用女仆杀手奇亚",
+    "editor_name": "演出用女仆杀手奇亚",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 306,
+    "m_capital_npc_forms": [360],
+    "name": "演出用财政部长柯瓦雷",
+    "editor_name": "演出用财政部长柯瓦雷",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 307,
+    "m_capital_npc_forms": [361],
+    "name": "演出用港务局局长哈立德",
+    "editor_name": "演出用港务局局长哈立德",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 308,
+    "m_capital_npc_forms": [362],
+    "name": "演出用科塔",
+    "editor_name": "演出用科塔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 309,
+    "m_capital_npc_forms": [363],
+    "name": "演出用机动部队弩兵考尔",
+    "editor_name": "演出用机动部队弩兵考尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 310,
+    "m_capital_npc_forms": [364],
+    "name": "演出用机动部队光法希孜",
+    "editor_name": "演出用机动部队光法希孜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 311,
+    "m_capital_npc_forms": [365],
+    "name": "演出用伊利亚长枪兵玛利克",
+    "editor_name": "演出用伊利亚长枪兵玛利克",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 312,
+    "m_capital_npc_forms": [366],
+    "name": "演出用伊利亚剑盾兵埃利斯",
+    "editor_name": "演出用伊利亚剑盾兵埃利斯",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 313,
+    "m_capital_npc_forms": [367],
+    "name": "次级对话用SP拉维耶",
+    "editor_name": "次级对话用SP拉维耶",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 314,
+    "m_capital_npc_forms": [368],
+    "name": "次级对话用SP索菲娅",
+    "editor_name": "次级对话用SP索菲娅",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 315,
+    "m_capital_npc_forms": [369],
+    "name": "次级对话用学姐莉拉",
+    "editor_name": "次级对话用学姐莉拉",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 316,
+    "m_capital_npc_forms": [370],
+    "name": "次级对话用女仆杀手奇亚",
+    "editor_name": "次级对话用女仆杀手奇亚",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 317,
+    "m_capital_npc_forms": [371],
+    "name": "次级对话用财政部长柯瓦雷",
+    "editor_name": "次级对话用财政部长柯瓦雷",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 318,
+    "m_capital_npc_forms": [372],
+    "name": "次级对话用港务局局长哈立德",
+    "editor_name": "次级对话用港务局局长哈立德",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 319,
+    "m_capital_npc_forms": [373],
+    "name": "次级对话用科塔",
+    "editor_name": "次级对话用科塔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 320,
+    "m_capital_npc_forms": [374],
+    "name": "次级对话用机动部队弩兵考尔",
+    "editor_name": "次级对话用机动部队弩兵考尔",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 321,
+    "m_capital_npc_forms": [375],
+    "name": "次级对话用机动部队光法希孜",
+    "editor_name": "次级对话用机动部队光法希孜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 322,
+    "m_capital_npc_forms": [376],
+    "name": "次级对话用伊利亚长枪兵玛利克",
+    "editor_name": "次级对话用伊利亚长枪兵玛利克",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 323,
+    "m_capital_npc_forms": [377],
+    "name": "次级对话用伊利亚剑盾兵埃利斯",
+    "editor_name": "次级对话用伊利亚剑盾兵埃利斯",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 324,
+    "m_capital_npc_forms": [378],
+    "name": "演出用盲女哈斯娜",
+    "editor_name": "演出用盲女哈斯娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 325,
+    "m_capital_npc_forms": [379],
+    "name": "次级对话用盲女哈斯娜",
+    "editor_name": "次级对话用盲女哈斯娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 326,
+    "m_capital_npc_forms": [380],
+    "name": "演出用老皮绳（NPC39)",
+    "editor_name": "演出用老皮绳（NPC39)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 327,
+    "m_capital_npc_forms": [381],
+    "name": "次级对话用老皮绳（NPC39)",
+    "editor_name": "次级对话用老皮绳（NPC39)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 328,
+    "m_capital_npc_forms": [382],
+    "name": "演出用伤员NPC21",
+    "editor_name": "演出用伤员NPC21",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 329,
+    "m_capital_npc_forms": [383],
+    "name": "演出用伤员NPC22",
+    "editor_name": "演出用伤员NPC22",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 330,
+    "m_capital_npc_forms": [384],
+    "name": "次级对话用伤员NPC22",
+    "editor_name": "次级对话用伤员NPC22",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 331,
+    "m_capital_npc_forms": [385],
+    "name": "次级对话用伤员NPC21",
+    "editor_name": "次级对话用伤员NPC21",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 332,
+    "m_capital_npc_forms": [386],
+    "name": "次级对话用伤员NPC17",
+    "editor_name": "次级对话用伤员NPC17",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 333,
+    "m_capital_npc_forms": [387],
+    "name": "演出用伤员NPC17",
+    "editor_name": "演出用伤员NPC17",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 334,
+    "m_capital_npc_forms": [388],
+    "name": "演出用弗雷奇",
+    "editor_name": "演出用弗雷奇",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 335,
+    "m_capital_npc_forms": [389],
+    "name": "次级对话用弗雷奇",
+    "editor_name": "次级对话用弗雷奇",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 336,
+    "m_capital_npc_forms": [390],
+    "name": "演出用水鬼帮翠斯坦",
+    "editor_name": "演出用水鬼帮翠斯坦",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 337,
+    "m_capital_npc_forms": [391],
+    "name": "次级对话用水鬼帮翠斯坦",
+    "editor_name": "次级对话用水鬼帮翠斯坦",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 339,
+    "m_capital_npc_forms": [393],
+    "name": "演出用依米（NPC36)",
+    "editor_name": "演出用依米（NPC36)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 340,
+    "m_capital_npc_forms": [394],
+    "name": "次级对话用依米（NPC36)",
+    "editor_name": "次级对话用依米（NPC36)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 341,
+    "m_capital_npc_forms": [395],
+    "name": "演出用伊利亚女将军帕米娜",
+    "editor_name": "演出用伊利亚女将军帕米娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 342,
+    "m_capital_npc_forms": [396],
+    "name": "次级对话用伊利亚女将军帕米娜",
+    "editor_name": "次级对话用伊利亚女将军帕米娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 343,
+    "m_capital_npc_forms": [397],
+    "name": "装备商人",
+    "editor_name": "前传线-系统商店商人：装备商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 344,
+    "m_capital_npc_forms": [398],
+    "name": "随身物小贩",
+    "editor_name": "前传线-系统商店商人：随身物小贩",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 345,
+    "m_capital_npc_forms": [399],
+    "name": "技能书商人",
+    "editor_name": "前传线-系统商店商人：技能书商人",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 346,
+    "m_capital_npc_forms": [400],
+    "name": "演出用“鱼佬”",
+    "editor_name": "演出用“鱼佬”",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 347,
+    "m_capital_npc_forms": [401],
+    "name": "演出用小黄猫",
+    "editor_name": "演出用小黄猫",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 348,
+    "m_capital_npc_forms": [402],
+    "name": "次级对话用女性居民",
+    "editor_name": "次级对话用女性居民",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 349,
+    "m_capital_npc_forms": [403],
+    "name": "次级对话用男性居民（绿）",
+    "editor_name": "次级对话用男性居民（绿）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 350,
+    "m_capital_npc_forms": [404],
+    "name": "次级对话用男性居民（黑）",
+    "editor_name": "次级对话用男性居民（黑）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 351,
+    "m_capital_npc_forms": [405],
+    "name": "次级对话用老头居民",
+    "editor_name": "次级对话用老头居民",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 352,
+    "m_capital_npc_forms": [406],
+    "name": "次级对话用老太太居民",
+    "editor_name": "次级对话用老太太居民",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 353,
+    "m_capital_npc_forms": [407],
+    "name": "次级对话用男性居民（民弩）",
+    "editor_name": "次级对话用男性居民（民弩）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 354,
+    "m_capital_npc_forms": [408],
+    "name": "次级对话用女性居民（雇斧）",
+    "editor_name": "次级对话用女性居民（雇斧）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 355,
+    "m_capital_npc_forms": [409],
+    "name": "次级对话用白头巾女性居民",
+    "editor_name": "次级对话用白头巾女性居民",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 356,
+    "m_capital_npc_forms": [410],
+    "name": "次级对话用蓝衣棕发贵族",
+    "editor_name": "次级对话用蓝衣棕发贵族",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 357,
+    "m_capital_npc_forms": [411],
+    "name": "次级对话用金发棕衣贵族",
+    "editor_name": "次级对话用金发棕衣贵族",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 358,
+    "m_capital_npc_forms": [413],
+    "name": "次级对话用黄发栗色贵族",
+    "editor_name": "次级对话用黄发栗色贵族",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 359,
+    "m_capital_npc_forms": [414],
+    "name": "浪涌城训练NPC（金发小妹）",
+    "editor_name": "浪涌城训练NPC（金发小妹）",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 360,
+    "m_capital_npc_forms": [415],
+    "name": "次级对话用平民二期绿衣",
+    "editor_name": "次级对话用平民二期绿衣",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 361,
+    "m_capital_npc_forms": [416],
+    "name": "次级对话用平民二期黑衣",
+    "editor_name": "次级对话用平民二期黑衣",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 362,
+    "m_capital_npc_forms": [417],
+    "name": "次级对话用平民二期暴爆",
+    "editor_name": "次级对话用平民二期暴爆",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 363,
+    "m_capital_npc_forms": [418],
+    "name": "次级对话用平民二期民弩",
+    "editor_name": "次级对话用平民二期民弩",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 364,
+    "m_capital_npc_forms": [419],
+    "name": "次级对话用平民二期老头NPC48",
+    "editor_name": "次级对话用平民二期老头NPC48",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 365,
+    "m_capital_npc_forms": [420],
+    "name": "次级对话用平民二期眼神锐利的小哥NPC55",
+    "editor_name": "次级对话用平民二期眼神锐利的小哥NPC55",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 366,
+    "m_capital_npc_forms": [421],
+    "name": "次级对话用平民二期蓝衣爆炸头npc56",
+    "editor_name": "次级对话用平民二期蓝衣爆炸头npc56",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 367,
+    "m_capital_npc_forms": [422],
+    "name": "次级对话用平民二期蓝衣老太npc51",
+    "editor_name": "次级对话用平民二期蓝衣老太npc51",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 368,
+    "m_capital_npc_forms": [423],
+    "name": "次级对话三期平民雇佣斧",
+    "editor_name": "次级对话三期平民雇佣斧",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 369,
+    "m_capital_npc_forms": [424],
+    "name": "次级对话三期平民民弩",
+    "editor_name": "次级对话三期平民民弩",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 370,
+    "m_capital_npc_forms": [425],
+    "name": "次级对话三期平民贵族NPC14",
+    "editor_name": "次级对话三期平民贵族NPC14",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 371,
+    "m_capital_npc_forms": [426],
+    "name": "次级对话三期平民贵族NPC15",
+    "editor_name": "次级对话三期平民贵族NPC15",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  }
+]

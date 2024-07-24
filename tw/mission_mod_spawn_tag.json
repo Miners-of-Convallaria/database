@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "玩家",
+    "type": "PLAYER"
+  },
+  {
+    "id": 2,
+    "name": "敌方1",
+    "type": "ENEMY1"
+  },
+  {
+    "id": 3,
+    "name": "敌方2",
+    "type": "ENEMY2"
+  },
+  {
+    "id": 4,
+    "name": "敌方3",
+    "type": "ENEMY3"
+  },
+  {
+    "id": 5,
+    "name": "玩家逃跑目标",
+    "type": "PLAYER_RUN_TARGET"
+  },
+  {
+    "id": 6,
+    "name": "护送队友",
+    "type": "ESCORT_NPC"
+  },
+  {
+    "id": 7,
+    "name": "保护目标",
+    "type": "GUARD_PROPS"
+  },
+  {
+    "id": 8,
+    "name": "摧毁目标",
+    "type": "DESTROY_PROPS"
+  },
+  {
+    "id": 9,
+    "name": "猎首目标",
+    "type": "BOSSHUNT_TARGET"
+  },
+  {
+    "id": 10,
+    "name": "派遣队伍",
+    "type": "DISPATCHED_UNIT"
+  }
+]

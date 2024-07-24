@@ -1,0 +1,968 @@
+[
+  {
+    "id": 101,
+    "m_elysium_secondary_perform_dialogues": [1011, 1012],
+    "name": "黑猫让玩家别摸鱼",
+    "trigger_size": 5
+  },
+  {
+    "id": 102,
+    "m_elysium_secondary_perform_dialogues": [1021, 1022],
+    "name": "似曾相识的猫猫",
+    "trigger_size": 5
+  },
+  {
+    "id": 103,
+    "m_elysium_secondary_perform_dialogues": [1031, 1032],
+    "name": "放哨的法卡尔",
+    "trigger_size": 5
+  },
+  {
+    "id": 104,
+    "m_elysium_secondary_perform_dialogues": [1041, 1042],
+    "name": "神奇的售货机",
+    "trigger_size": 5
+  },
+  {
+    "id": 105,
+    "m_elysium_secondary_perform_dialogues": [1051, 1052],
+    "name": "麦莎心境1",
+    "trigger_size": 5
+  },
+  {
+    "id": 106,
+    "m_elysium_secondary_perform_dialogues": [1061, 1062],
+    "name": "麦莎心境2",
+    "trigger_size": 5
+  },
+  {
+    "id": 107,
+    "m_elysium_secondary_perform_dialogues": [1071, 1072, 1073, 1074],
+    "name": "麦莎心境3",
+    "trigger_size": 5
+  },
+  {
+    "id": 108,
+    "m_elysium_secondary_perform_dialogues": [1081, 1082, 1083],
+    "name": "麦莎心境4",
+    "trigger_size": 5
+  },
+  {
+    "id": 109,
+    "m_elysium_secondary_perform_dialogues": [1091, 1092],
+    "name": "拉维耶心境1",
+    "trigger_size": 5
+  },
+  {
+    "id": 110,
+    "m_elysium_secondary_perform_dialogues": [1101, 1102, 1103],
+    "name": "拉维耶心境2",
+    "trigger_size": 5
+  },
+  {
+    "id": 111,
+    "m_elysium_secondary_perform_dialogues": [1111, 1112, 1113, 1114],
+    "name": "拉维耶心境3",
+    "trigger_size": 5
+  },
+  {
+    "id": 112,
+    "m_elysium_secondary_perform_dialogues": [1121, 1122],
+    "name": "法卡尔心境1",
+    "trigger_size": 5
+  },
+  {
+    "id": 113,
+    "m_elysium_secondary_perform_dialogues": [1131, 1132],
+    "name": "法卡尔心境2",
+    "trigger_size": 5
+  },
+  {
+    "id": 114,
+    "m_elysium_secondary_perform_dialogues": [1141, 1142, 1143],
+    "name": "法卡尔心境3",
+    "trigger_size": 5
+  },
+  {
+    "id": 115,
+    "m_elysium_secondary_perform_dialogues": [1151, 1152, 1153],
+    "name": "法卡尔心境4",
+    "trigger_size": 5
+  },
+  {
+    "id": 116,
+    "m_elysium_secondary_perform_dialogues": [1161, 1162, 1163],
+    "name": "伊奇心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 117,
+    "m_elysium_secondary_perform_dialogues": [1171, 1172],
+    "name": "伊奇心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 118,
+    "m_elysium_secondary_perform_dialogues": [1181, 1182],
+    "name": "伊奇心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 119,
+    "m_elysium_secondary_perform_dialogues": [1191, 1192],
+    "name": "米格尔心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 120,
+    "m_elysium_secondary_perform_dialogues": [1201, 1202],
+    "name": "米格尔心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 121,
+    "m_elysium_secondary_perform_dialogues": [1211, 1212, 1213],
+    "name": "米格尔心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 122,
+    "m_elysium_secondary_perform_dialogues": [1221, 1222],
+    "name": "泽维尔心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 123,
+    "m_elysium_secondary_perform_dialogues": [1231, 1232, 1233],
+    "name": "泽维尔心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 124,
+    "m_elysium_secondary_perform_dialogues": [1241, 1242],
+    "name": "泽维尔心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 125,
+    "m_elysium_secondary_perform_dialogues": [1251, 1252],
+    "name": "席梦娜心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 126,
+    "m_elysium_secondary_perform_dialogues": [1261, 1262],
+    "name": "席梦娜心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 127,
+    "m_elysium_secondary_perform_dialogues": [1271, 1272],
+    "name": "席梦娜心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 128,
+    "m_elysium_secondary_perform_dialogues": [1281, 1282],
+    "name": "萨曼莎心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 129,
+    "m_elysium_secondary_perform_dialogues": [1291, 1292, 1293],
+    "name": "萨曼莎心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 130,
+    "m_elysium_secondary_perform_dialogues": [1301, 1302],
+    "name": "萨曼莎心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 131,
+    "m_elysium_secondary_perform_dialogues": [1311, 1312, 1313],
+    "name": "萨曼莎心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 132,
+    "m_elysium_secondary_perform_dialogues": [1321, 1322],
+    "name": "艾达心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 133,
+    "m_elysium_secondary_perform_dialogues": [1331, 1332],
+    "name": "艾达心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 134,
+    "m_elysium_secondary_perform_dialogues": [1341, 1342],
+    "name": "艾达心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 135,
+    "m_elysium_secondary_perform_dialogues": [1351, 1352],
+    "name": "艾达心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 136,
+    "m_elysium_secondary_perform_dialogues": [1361, 1362],
+    "name": "马格努斯心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 137,
+    "m_elysium_secondary_perform_dialogues": [1371, 1372],
+    "name": "马格努斯心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 138,
+    "m_elysium_secondary_perform_dialogues": [1381, 1382],
+    "name": "马格努斯心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 139,
+    "m_elysium_secondary_perform_dialogues": [1391, 1392],
+    "name": "马格努斯心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 140,
+    "m_elysium_secondary_perform_dialogues": [1401, 1402],
+    "name": "茉茉心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 141,
+    "m_elysium_secondary_perform_dialogues": [1411, 1412],
+    "name": "茉茉心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 142,
+    "m_elysium_secondary_perform_dialogues": [1421, 1422],
+    "name": "茉茉心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 143,
+    "m_elysium_secondary_perform_dialogues": [1431, 1432],
+    "name": "茉茉心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 144,
+    "m_elysium_secondary_perform_dialogues": [1441, 1442],
+    "name": "茉茉心境等级3时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 145,
+    "m_elysium_secondary_perform_dialogues": [1451, 1452],
+    "name": "列奥尼德心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 146,
+    "m_elysium_secondary_perform_dialogues": [1461],
+    "name": "列奥尼德心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 147,
+    "m_elysium_secondary_perform_dialogues": [1471, 1472],
+    "name": "列奥尼德心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 148,
+    "m_elysium_secondary_perform_dialogues": [1481, 1482, 1483],
+    "name": "伦伽勒心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 149,
+    "m_elysium_secondary_perform_dialogues": [1491, 1492],
+    "name": "伦伽勒心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 150,
+    "m_elysium_secondary_perform_dialogues": [1501, 1502],
+    "name": "伦伽勒心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 151,
+    "m_elysium_secondary_perform_dialogues": [1511, 1512],
+    "name": "伦伽勒心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 152,
+    "m_elysium_secondary_perform_dialogues": [1521, 1522, 1523],
+    "name": "贝拉心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 153,
+    "m_elysium_secondary_perform_dialogues": [1531, 1532],
+    "name": "贝拉心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 154,
+    "m_elysium_secondary_perform_dialogues": [1541, 1542],
+    "name": "贝拉心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 155,
+    "m_elysium_secondary_perform_dialogues": [1551, 1552],
+    "name": "贝拉心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 156,
+    "m_elysium_secondary_perform_dialogues": [1561],
+    "name": "迪塔利奥心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 157,
+    "m_elysium_secondary_perform_dialogues": [1571, 1572],
+    "name": "迪塔利奥心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 158,
+    "m_elysium_secondary_perform_dialogues": [1581, 1582, 1583],
+    "name": "迪塔利奥心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 159,
+    "m_elysium_secondary_perform_dialogues": [1591, 1592],
+    "name": "迪塔利奥心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 160,
+    "m_elysium_secondary_perform_dialogues": [1601, 1602],
+    "name": "嘉西娅心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 161,
+    "m_elysium_secondary_perform_dialogues": [1611, 1612, 1613],
+    "name": "嘉西娅心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 162,
+    "m_elysium_secondary_perform_dialogues": [1621, 1622, 1623],
+    "name": "嘉西娅心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 163,
+    "m_elysium_secondary_perform_dialogues": [1631, 1632],
+    "name": "嘉西娅心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 164,
+    "m_elysium_secondary_perform_dialogues": [1641, 1642],
+    "name": "莉莉薇儿心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 165,
+    "m_elysium_secondary_perform_dialogues": [1651, 1652],
+    "name": "莉莉薇儿心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 166,
+    "m_elysium_secondary_perform_dialogues": [1661, 1662],
+    "name": "莉莉薇儿心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 167,
+    "m_elysium_secondary_perform_dialogues": [1671, 1672],
+    "name": "莉莉薇儿心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 168,
+    "m_elysium_secondary_perform_dialogues": [1681, 1682, 1683],
+    "name": "莉莉薇儿心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 169,
+    "m_elysium_secondary_perform_dialogues": [1691, 1692],
+    "name": "歌洛莉亚心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 170,
+    "m_elysium_secondary_perform_dialogues": [1701, 1702],
+    "name": "歌洛莉亚心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 171,
+    "m_elysium_secondary_perform_dialogues": [1711, 1712, 1713],
+    "name": "歌洛莉亚心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 172,
+    "m_elysium_secondary_perform_dialogues": [1721, 1722, 1723],
+    "name": "歌洛莉亚心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 173,
+    "m_elysium_secondary_perform_dialogues": [1731, 1732],
+    "name": "科尔心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 174,
+    "m_elysium_secondary_perform_dialogues": [1741, 1742],
+    "name": "科尔心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 175,
+    "m_elysium_secondary_perform_dialogues": [1751, 1752],
+    "name": "科尔心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 176,
+    "m_elysium_secondary_perform_dialogues": [1761, 1762, 1763],
+    "name": "科尔心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 177,
+    "m_elysium_secondary_perform_dialogues": [1771, 1772],
+    "name": "阿列克谢心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 178,
+    "m_elysium_secondary_perform_dialogues": [1781, 1782, 1783],
+    "name": "阿列克谢心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 179,
+    "m_elysium_secondary_perform_dialogues": [1791, 1792],
+    "name": "阿列克谢心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 180,
+    "m_elysium_secondary_perform_dialogues": [1801, 1802],
+    "name": "阿列克谢心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 181,
+    "m_elysium_secondary_perform_dialogues": [1811, 1812],
+    "name": "伊南娜心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 182,
+    "m_elysium_secondary_perform_dialogues": [1821, 1822],
+    "name": "伊南娜心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 183,
+    "m_elysium_secondary_perform_dialogues": [1831, 1832],
+    "name": "伊南娜心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 184,
+    "m_elysium_secondary_perform_dialogues": [1841, 1842],
+    "name": "伊南娜心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 185,
+    "m_elysium_secondary_perform_dialogues": [1851, 1852],
+    "name": "伊南娜心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 186,
+    "m_elysium_secondary_perform_dialogues": [1861, 1862],
+    "name": "泰登心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 187,
+    "m_elysium_secondary_perform_dialogues": [1871, 1872],
+    "name": "泰登心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 188,
+    "m_elysium_secondary_perform_dialogues": [1881, 1882],
+    "name": "泰登心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 189,
+    "m_elysium_secondary_perform_dialogues": [1891, 1892],
+    "name": "泰登心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 190,
+    "m_elysium_secondary_perform_dialogues": [1901, 1902],
+    "name": "诺诺薇儿心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 191,
+    "m_elysium_secondary_perform_dialogues": [1911, 1912],
+    "name": "诺诺薇儿心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 192,
+    "m_elysium_secondary_perform_dialogues": [1921],
+    "name": "诺诺薇儿心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 193,
+    "m_elysium_secondary_perform_dialogues": [1931, 1932],
+    "name": "诺诺薇儿心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 194,
+    "m_elysium_secondary_perform_dialogues": [1941, 1942],
+    "name": "诺诺薇儿心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 195,
+    "m_elysium_secondary_perform_dialogues": [1951, 1952],
+    "name": "内尔伽勒心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 196,
+    "m_elysium_secondary_perform_dialogues": [1961, 1962, 1963],
+    "name": "内尔伽勒心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 197,
+    "m_elysium_secondary_perform_dialogues": [1971, 1972],
+    "name": "内尔伽勒心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 198,
+    "m_elysium_secondary_perform_dialogues": [1981, 1982],
+    "name": "内尔伽勒心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 199,
+    "m_elysium_secondary_perform_dialogues": [1991, 1992],
+    "name": "古兹曼心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 200,
+    "m_elysium_secondary_perform_dialogues": [2001, 2002],
+    "name": "古兹曼心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 201,
+    "m_elysium_secondary_perform_dialogues": [2011, 2012],
+    "name": "古兹曼心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 202,
+    "m_elysium_secondary_perform_dialogues": [2021, 2022],
+    "name": "古兹曼心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 203,
+    "m_elysium_secondary_perform_dialogues": [2031, 2032],
+    "name": "奥古斯特心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 204,
+    "m_elysium_secondary_perform_dialogues": [2041, 2042],
+    "name": "奥古斯特心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 205,
+    "m_elysium_secondary_perform_dialogues": [2051, 2052],
+    "name": "奥古斯特心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 206,
+    "m_elysium_secondary_perform_dialogues": [2061, 2062],
+    "name": "奥古斯特心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 207,
+    "m_elysium_secondary_perform_dialogues": [2071, 2072],
+    "name": "索菲亚心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 208,
+    "m_elysium_secondary_perform_dialogues": [2081, 2082],
+    "name": "索菲亚心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 209,
+    "m_elysium_secondary_perform_dialogues": [2091, 2092],
+    "name": "索菲亚心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 210,
+    "m_elysium_secondary_perform_dialogues": [2101, 2102, 2103],
+    "name": "索菲亚心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 211,
+    "m_elysium_secondary_perform_dialogues": [2111, 2112],
+    "name": "索菲亚心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 212,
+    "m_elysium_secondary_perform_dialogues": [2121, 2122, 2123],
+    "name": "索菲亚心境等级3时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 213,
+    "m_elysium_secondary_perform_dialogues": [2131, 2132, 2133, 2134],
+    "name": "蔻蔻娜心境等级1时A",
+    "trigger_size": 5
+  },
+  {
+    "id": 214,
+    "m_elysium_secondary_perform_dialogues": [2141, 2142, 2143],
+    "name": "蔻蔻娜心境等级1时B",
+    "trigger_size": 5
+  },
+  {
+    "id": 215,
+    "m_elysium_secondary_perform_dialogues": [2151, 2152],
+    "name": "蔻蔻娜心境等级2时A",
+    "trigger_size": 5
+  },
+  {
+    "id": 216,
+    "m_elysium_secondary_perform_dialogues": [2161, 2162, 2163],
+    "name": "蔻蔻娜心境等级2时B",
+    "trigger_size": 5
+  },
+  {
+    "id": 217,
+    "m_elysium_secondary_perform_dialogues": [2171, 2172, 2173],
+    "name": "阿坎贝心境等级1时",
+    "trigger_size": 5
+  },
+  {
+    "id": 218,
+    "m_elysium_secondary_perform_dialogues": [2181, 2182],
+    "name": "阿坎贝心境等级2时A",
+    "trigger_size": 5
+  },
+  {
+    "id": 219,
+    "m_elysium_secondary_perform_dialogues": [2191, 2192, 2193],
+    "name": "阿坎贝心境等级2时B",
+    "trigger_size": 5
+  },
+  {
+    "id": 220,
+    "m_elysium_secondary_perform_dialogues": [2201, 2202],
+    "name": "哈斯娜心境等级1时A",
+    "trigger_size": 5
+  },
+  {
+    "id": 221,
+    "m_elysium_secondary_perform_dialogues": [2211, 2212],
+    "name": "哈斯娜心境等级1时B",
+    "trigger_size": 5
+  },
+  {
+    "id": 222,
+    "m_elysium_secondary_perform_dialogues": [2221],
+    "name": "哈斯娜心境等级2时A",
+    "trigger_size": 5
+  },
+  {
+    "id": 223,
+    "m_elysium_secondary_perform_dialogues": [2231],
+    "name": "哈斯娜心境等级2时B",
+    "trigger_size": 5
+  },
+  {
+    "id": 224,
+    "m_elysium_secondary_perform_dialogues": [2241, 2242],
+    "name": "霍玛心境等级1时A",
+    "trigger_size": 5
+  },
+  {
+    "id": 225,
+    "m_elysium_secondary_perform_dialogues": [2251, 2252],
+    "name": "霍玛心境等级1时B",
+    "trigger_size": 5
+  },
+  {
+    "id": 226,
+    "m_elysium_secondary_perform_dialogues": [2261, 2262, 2263],
+    "name": "霍玛心境等级2时A",
+    "trigger_size": 5
+  },
+  {
+    "id": 227,
+    "m_elysium_secondary_perform_dialogues": [2271],
+    "name": "霍玛心境等级2时B",
+    "trigger_size": 5
+  },
+  {
+    "id": 228,
+    "m_elysium_secondary_perform_dialogues": [2281, 2282],
+    "name": "夏可露露心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 229,
+    "m_elysium_secondary_perform_dialogues": [2291, 2292],
+    "name": "夏可露露心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 230,
+    "m_elysium_secondary_perform_dialogues": [2301, 2302],
+    "name": "夏可露露心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 231,
+    "m_elysium_secondary_perform_dialogues": [2311, 2312],
+    "name": "夏可露露心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 232,
+    "m_elysium_secondary_perform_dialogues": [2321],
+    "name": "夏可露露心境等级3时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 233,
+    "m_elysium_secondary_perform_dialogues": [2331, 2332],
+    "name": "卡丽丝心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 234,
+    "m_elysium_secondary_perform_dialogues": [2341],
+    "name": "卡丽丝心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 235,
+    "m_elysium_secondary_perform_dialogues": [2351, 2352],
+    "name": "卡丽丝心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 236,
+    "m_elysium_secondary_perform_dialogues": [2361, 2362],
+    "name": "卡丽丝心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 237,
+    "m_elysium_secondary_perform_dialogues": [2371, 2372],
+    "name": "塔埃尔心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 238,
+    "m_elysium_secondary_perform_dialogues": [2381, 2382, 2383],
+    "name": "塔埃尔心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 239,
+    "m_elysium_secondary_perform_dialogues": [2391, 2392],
+    "name": "塔埃尔心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 240,
+    "m_elysium_secondary_perform_dialogues": [2401, 2402, 2403],
+    "name": "塔埃尔心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 241,
+    "m_elysium_secondary_perform_dialogues": [2411, 2412],
+    "name": "阿加塔心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 242,
+    "m_elysium_secondary_perform_dialogues": [2421, 2422],
+    "name": "阿加塔心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 243,
+    "m_elysium_secondary_perform_dialogues": [2431, 2432],
+    "name": "阿加塔心境等级1时-其3",
+    "trigger_size": 5
+  },
+  {
+    "id": 244,
+    "m_elysium_secondary_perform_dialogues": [2441, 2442],
+    "name": "阿加塔心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 245,
+    "m_elysium_secondary_perform_dialogues": [2451, 2452],
+    "name": "帕米娜心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 246,
+    "m_elysium_secondary_perform_dialogues": [2461],
+    "name": "帕米娜心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 247,
+    "m_elysium_secondary_perform_dialogues": [2471, 2472],
+    "name": "帕米娜心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 248,
+    "m_elysium_secondary_perform_dialogues": [2481, 2482],
+    "name": "帕米娜心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 249,
+    "m_elysium_secondary_perform_dialogues": [2491, 2492],
+    "name": "SP拉维耶预留事件",
+    "trigger_size": 5
+  },
+  {
+    "id": 250,
+    "m_elysium_secondary_perform_dialogues": [2501, 2502],
+    "name": "SP拉维耶预留事件",
+    "trigger_size": 5
+  },
+  {
+    "id": 251,
+    "m_elysium_secondary_perform_dialogues": [2511, 2512],
+    "name": "SP拉维耶预留事件",
+    "trigger_size": 5
+  },
+  {
+    "id": 252,
+    "m_elysium_secondary_perform_dialogues": [2521, 2522],
+    "name": "SP拉维耶预留事件",
+    "trigger_size": 5
+  },
+  {
+    "id": 253,
+    "m_elysium_secondary_perform_dialogues": [2531, 2532],
+    "name": "SP拉维耶预留事件",
+    "trigger_size": 5
+  },
+  {
+    "id": 254,
+    "m_elysium_secondary_perform_dialogues": [2541, 2542],
+    "name": "SP拉维耶预留事件",
+    "trigger_size": 5
+  },
+  {
+    "id": 255,
+    "m_elysium_secondary_perform_dialogues": [2551, 2552, 2553],
+    "name": "乐土角色事件：莉拉心境1-1",
+    "trigger_size": 5
+  },
+  {
+    "id": 256,
+    "m_elysium_secondary_perform_dialogues": [2561, 2562],
+    "name": "乐土角色事件：莉拉心境1-2",
+    "trigger_size": 5
+  },
+  {
+    "id": 257,
+    "m_elysium_secondary_perform_dialogues": [2571, 2572, 2573],
+    "name": "乐土角色事件：莉拉心境2-2",
+    "trigger_size": 5
+  },
+  {
+    "id": 258,
+    "m_elysium_secondary_perform_dialogues": [2581, 2582],
+    "name": "乐土角色事件：莉拉心境3-1",
+    "trigger_size": 5
+  },
+  {
+    "id": 259,
+    "m_elysium_secondary_perform_dialogues": [2591, 2592, 2593],
+    "name": "乐土角色事件：翠斯坦心境1-1",
+    "trigger_size": 5
+  },
+  {
+    "id": 260,
+    "m_elysium_secondary_perform_dialogues": [2601, 2602],
+    "name": "乐土角色事件：翠斯坦心境1-1",
+    "trigger_size": 5
+  },
+  {
+    "id": 261,
+    "m_elysium_secondary_perform_dialogues": [2611, 2612, 2613, 2614],
+    "name": "乐土角色事件：翠斯坦心境2-1",
+    "trigger_size": 5
+  }
+]

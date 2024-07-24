@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "type": "Normal",
+    "name": "普通聊天",
+    "message_type": 1,
+    "filter": true
+  },
+  {
+    "id": 2,
+    "type": "ShareGacha",
+    "name": "分享抽卡结果",
+    "message_type": 2,
+    "filter": false
+  },
+  {
+    "id": 3,
+    "type": "ShareBattleReport",
+    "name": "分享战报",
+    "message_type": 2,
+    "filter": false
+  },
+  {
+    "id": 4,
+    "type": "Sticker",
+    "name": "发送表情",
+    "message_type": 1,
+    "filter": false
+  },
+  {
+    "id": 5,
+    "type": "ShareGuildBuildPassword",
+    "name": "公会建设密码",
+    "message_type": 2,
+    "filter": false
+  },
+  {
+    "id": 6,
+    "type": "ShareGuildBuildReward",
+    "name": "公会建设奖励",
+    "message_type": 2,
+    "filter": false
+  },
+  {
+    "id": 7,
+    "type": "ShareEquipment",
+    "name": "网游武器分享",
+    "message_type": 2,
+    "filter": false
+  },
+  {
+    "id": 8,
+    "type": "ShareCharm",
+    "name": "网游护石分享",
+    "message_type": 2,
+    "filter": false
+  }
+]

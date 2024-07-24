@@ -1,0 +1,932 @@
+[
+  {
+    "id": 1,
+    "m_online_weapon_personality_skills": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "name": "测试个性",
+    "editor_name": "测试个性"
+  },
+  {
+    "id": 2,
+    "m_online_weapon_personality_skills": [12, 13, 14, 15],
+    "name": "破甲剑",
+    "editor_name": "破甲剑"
+  },
+  {
+    "id": 4,
+    "m_online_weapon_personality_skills": [16, 17, 18, 19, 20],
+    "name": "镜面剑",
+    "editor_name": "镜面剑"
+  },
+  {
+    "id": 5,
+    "m_online_weapon_personality_skills": [21, 22, 23, 24, 25],
+    "name": "铸晶剑",
+    "editor_name": "铸晶剑"
+  },
+  {
+    "id": 6,
+    "m_online_weapon_personality_skills": [31, 32, 33, 34],
+    "name": "铸铁剑",
+    "editor_name": "铸铁剑"
+  },
+  {
+    "id": 7,
+    "m_online_weapon_personality_skills": [39, 40, 41, 42],
+    "name": "秘银枪",
+    "editor_name": "秘银枪"
+  },
+  {
+    "id": 8,
+    "m_online_weapon_personality_skills": [43, 44, 45, 46, 47],
+    "name": "金刚枪",
+    "editor_name": "金刚枪"
+  },
+  {
+    "id": 9,
+    "m_online_weapon_personality_skills": [48, 49, 50, 51, 52],
+    "name": "铸铁枪",
+    "editor_name": "铸铁枪"
+  },
+  {
+    "id": 10,
+    "m_online_weapon_personality_skills": [58, 59, 60, 61],
+    "name": "战斧",
+    "editor_name": "战斧"
+  },
+  {
+    "id": 11,
+    "m_online_weapon_personality_skills": [63, 64, 65, 66, 67],
+    "name": "大斧",
+    "editor_name": "大斧"
+  },
+  {
+    "id": 12,
+    "m_online_weapon_personality_skills": [68, 69, 70, 71, 72],
+    "name": "石斧",
+    "editor_name": "石斧"
+  },
+  {
+    "id": 15,
+    "m_online_weapon_personality_skills": [73, 74, 75, 76, 77],
+    "name": "钢斧",
+    "editor_name": "钢斧"
+  },
+  {
+    "id": 16,
+    "m_online_weapon_personality_skills": [78, 79, 80, 81],
+    "name": "软木弓",
+    "editor_name": "软木弓"
+  },
+  {
+    "id": 17,
+    "m_online_weapon_personality_skills": [83],
+    "name": "硬木弓",
+    "editor_name": "硬木弓"
+  },
+  {
+    "id": 18,
+    "m_online_weapon_personality_skills": [84, 85, 86, 87, 88],
+    "name": "治愈之杖",
+    "editor_name": "治愈之杖"
+  },
+  {
+    "id": 19,
+    "m_online_weapon_personality_skills": [89],
+    "name": "祝福之杖",
+    "editor_name": "祝福之杖"
+  },
+  {
+    "id": 20,
+    "m_online_weapon_personality_skills": [90, 91, 92, 93, 94, 95, 96, 97, 98],
+    "name": "破甲+剑",
+    "editor_name": "破甲+剑"
+  },
+  {
+    "id": 21,
+    "m_online_weapon_personality_skills": [99, 100, 101, 102, 103, 104, 105, 106, 107],
+    "name": "镜面+剑",
+    "editor_name": "镜面+剑"
+  },
+  {
+    "id": 24,
+    "m_online_weapon_personality_skills": [114, 115, 116, 117, 118, 119],
+    "name": "治愈祝福之杖",
+    "editor_name": "治愈祝福之杖"
+  },
+  {
+    "id": 25,
+    "m_online_weapon_personality_skills": [120, 121, 122, 123, 124, 125],
+    "name": "硬木+弓",
+    "editor_name": "硬木+弓"
+  },
+  {
+    "id": 26,
+    "m_online_weapon_personality_skills": [131, 132, 133, 134, 135, 136, 137, 138, 139],
+    "name": "战斧+",
+    "editor_name": "战斧+"
+  },
+  {
+    "id": 28,
+    "m_online_weapon_personality_skills": [146, 147, 148, 149, 150, 156],
+    "name": "溅射斧",
+    "editor_name": "溅射斧"
+  },
+  {
+    "id": 29,
+    "m_online_weapon_personality_skills": [157, 158, 159, 160, 161, 162, 163, 164, 165],
+    "name": "软木+弓",
+    "editor_name": "软木+弓"
+  },
+  {
+    "id": 31,
+    "m_online_weapon_personality_skills": [181, 431, 432, 433, 434, 435],
+    "name": "暗之法杖",
+    "editor_name": "暗之法杖"
+  },
+  {
+    "id": 32,
+    "m_online_weapon_personality_skills": [182, 183, 184, 185, 186, 187],
+    "name": "神射弓",
+    "editor_name": "神射弓"
+  },
+  {
+    "id": 33,
+    "m_online_weapon_personality_skills": [188, 189, 190, 191, 192, 193, 194, 195, 196],
+    "name": "秘银+枪",
+    "editor_name": "秘银+枪"
+  },
+  {
+    "id": 34,
+    "m_online_weapon_personality_skills": [202, 203, 204, 205, 206, 207, 208, 209, 210, 211],
+    "name": "爆裂魔杖",
+    "editor_name": "爆裂魔杖"
+  },
+  {
+    "id": 36,
+    "m_online_weapon_personality_skills": [217, 218, 219, 220, 221, 227, 228, 229, 230],
+    "name": "饮血剑",
+    "editor_name": "饮血剑"
+  },
+  {
+    "id": 37,
+    "m_online_weapon_personality_skills": [232, 233, 234, 235, 236, 237],
+    "name": "驻足枪",
+    "editor_name": "驻足枪"
+  },
+  {
+    "id": 38,
+    "m_online_weapon_personality_skills": [241, 261, 262, 263, 264, 265],
+    "name": "教皇国圣光之石",
+    "editor_name": "教皇国圣光之石"
+  },
+  {
+    "id": 40,
+    "m_online_weapon_personality_skills": [243, 306, 307, 308, 309, 310],
+    "name": "伊利亚民间秘方",
+    "editor_name": "伊利亚民间秘方"
+  },
+  {
+    "id": 41,
+    "m_online_weapon_personality_skills": [244, 276, 277, 278, 279, 280],
+    "name": "美利亚疗伤激素",
+    "editor_name": "美利亚疗伤激素"
+  },
+  {
+    "id": 42,
+    "m_online_weapon_personality_skills": [245, 291, 292, 293, 294, 295],
+    "name": "薇尔德特产草药",
+    "editor_name": "薇尔德特产草药"
+  },
+  {
+    "id": 43,
+    "m_online_weapon_personality_skills": [246, 436, 437, 438, 439],
+    "name": "全能激素",
+    "editor_name": "全能激素"
+  },
+  {
+    "id": 44,
+    "m_online_weapon_personality_skills": [247, 321, 322, 323, 324],
+    "name": "加速激素",
+    "editor_name": "加速激素"
+  },
+  {
+    "id": 45,
+    "m_online_weapon_personality_skills": [248],
+    "name": "肾上腺素",
+    "editor_name": "肾上腺素"
+  },
+  {
+    "id": 46,
+    "m_online_weapon_personality_skills": [249, 329, 330, 331, 332],
+    "name": "强化药",
+    "editor_name": "强化药"
+  },
+  {
+    "id": 47,
+    "m_online_weapon_personality_skills": [250, 337, 338, 339, 340],
+    "name": "加速药",
+    "editor_name": "加速药"
+  },
+  {
+    "id": 48,
+    "m_online_weapon_personality_skills": [251, 373, 374, 375, 376, 377],
+    "name": "扒皮药",
+    "editor_name": "扒皮药"
+  },
+  {
+    "id": 49,
+    "m_online_weapon_personality_skills": [252, 353, 354, 355, 356, 357],
+    "name": "无力药",
+    "editor_name": "无力药"
+  },
+  {
+    "id": 50,
+    "m_online_weapon_personality_skills": [253, 363, 364, 365, 366, 367],
+    "name": "虚弱药",
+    "editor_name": "虚弱药"
+  },
+  {
+    "id": 51,
+    "m_online_weapon_personality_skills": [254, 345, 346, 347, 348],
+    "name": "随机药",
+    "editor_name": "随机药"
+  },
+  {
+    "id": 52,
+    "m_online_weapon_personality_skills": [255, 383, 384, 385, 386],
+    "name": "火魔晶瓶",
+    "editor_name": "火魔晶瓶"
+  },
+  {
+    "id": 53,
+    "m_online_weapon_personality_skills": [256, 387, 388, 389, 390],
+    "name": "冰魔晶瓶",
+    "editor_name": "冰魔晶瓶"
+  },
+  {
+    "id": 54,
+    "m_online_weapon_personality_skills": [257, 401, 402, 403, 404, 405],
+    "name": "飞刀",
+    "editor_name": "飞刀"
+  },
+  {
+    "id": 55,
+    "m_online_weapon_personality_skills": [258, 421, 422, 423, 424, 425],
+    "name": "魔法飞刀",
+    "editor_name": "魔法飞刀"
+  },
+  {
+    "id": 56,
+    "m_online_weapon_personality_skills": [259, 391, 392, 393, 394, 395],
+    "name": "匕首",
+    "editor_name": "匕首"
+  },
+  {
+    "id": 57,
+    "m_online_weapon_personality_skills": [260, 411, 412, 413, 414, 415],
+    "name": "魔法匕首",
+    "editor_name": "魔法匕首"
+  },
+  {
+    "id": 58,
+    "m_online_weapon_personality_skills": [440],
+    "name": "祝福石",
+    "editor_name": "祝福石"
+  },
+  {
+    "id": 59,
+    "m_online_weapon_personality_skills": [441],
+    "name": "草药",
+    "editor_name": "草药"
+  },
+  {
+    "id": 60,
+    "m_online_weapon_personality_skills": [442],
+    "name": "劣质激素",
+    "editor_name": "劣质激素"
+  },
+  {
+    "id": 61,
+    "m_online_weapon_personality_skills": [443],
+    "name": "低效激素",
+    "editor_name": "低效激素"
+  },
+  {
+    "id": 62,
+    "m_online_weapon_personality_skills": [445],
+    "name": "劣质药",
+    "editor_name": "劣质药"
+  },
+  {
+    "id": 63,
+    "m_online_weapon_personality_skills": [446],
+    "name": "低效药",
+    "editor_name": "低效药"
+  },
+  {
+    "id": 64,
+    "m_online_weapon_personality_skills": [447],
+    "name": "小火魔晶瓶",
+    "editor_name": "小火魔晶瓶"
+  },
+  {
+    "id": 65,
+    "m_online_weapon_personality_skills": [448],
+    "name": "小冰魔晶瓶",
+    "editor_name": "小冰魔晶瓶"
+  },
+  {
+    "id": 66,
+    "m_online_weapon_personality_skills": [449, 450, 451, 452, 453],
+    "name": "永不遗忘的爱",
+    "editor_name": "永不遗忘的爱"
+  },
+  {
+    "id": 67,
+    "m_online_weapon_personality_skills": [454, 455, 456, 457, 458],
+    "name": "普通铁剑",
+    "editor_name": "AT2网游1-剑-N-武器1_N剑1_技能组"
+  },
+  {
+    "id": 68,
+    "m_online_weapon_personality_skills": [459, 460, 461, 462, 463],
+    "name": "普通长枪",
+    "editor_name": "AT2网游2-枪-N-武器2_N枪2_技能组"
+  },
+  {
+    "id": 69,
+    "m_online_weapon_personality_skills": [464, 465, 466, 467, 468],
+    "name": "普通斧子",
+    "editor_name": "AT2网游3-斧-N-武器3_N斧3_技能组"
+  },
+  {
+    "id": 70,
+    "m_online_weapon_personality_skills": [469, 470, 471, 472, 473],
+    "name": "普通弓箭",
+    "editor_name": "AT2网游4-弓-N-武器4_N弓4_技能组"
+  },
+  {
+    "id": 71,
+    "m_online_weapon_personality_skills": [474, 475, 476, 477, 478],
+    "name": "普通法杖",
+    "editor_name": "AT2网游5-杖-N-武器5_N杖5_技能组"
+  },
+  {
+    "id": 72,
+    "m_online_weapon_personality_skills": [479, 480, 481, 482, 483],
+    "name": "铁皮项链",
+    "editor_name": "AT2网游56-饰品-N-武器56_N饰品56_技能组"
+  },
+  {
+    "id": 73,
+    "m_online_weapon_personality_skills": [484, 485, 486, 487, 488],
+    "name": "铁皮护手",
+    "editor_name": "AT2网游57-饰品-N-武器57_N饰品57_技能组"
+  },
+  {
+    "id": 74,
+    "m_online_weapon_personality_skills": [489, 490, 491, 492, 493],
+    "name": "锋锐之剑",
+    "editor_name": "AT2网游6-剑-R-武器6_R剑6_技能组"
+  },
+  {
+    "id": 75,
+    "m_online_weapon_personality_skills": [494, 495, 496, 497, 498],
+    "name": "寒光之剑",
+    "editor_name": "AT2网游7-剑-R-武器7_R剑7_技能组"
+  },
+  {
+    "id": 76,
+    "m_online_weapon_personality_skills": [499, 500, 501, 502, 503],
+    "name": "尖锐之枪",
+    "editor_name": "AT2网游8-枪-R-武器8_R枪8_技能组"
+  },
+  {
+    "id": 77,
+    "m_online_weapon_personality_skills": [504, 505, 506, 507, 508],
+    "name": "防护之枪",
+    "editor_name": "AT2网游9-枪-R-武器9_R枪9_技能组"
+  },
+  {
+    "id": 78,
+    "m_online_weapon_personality_skills": [509, 510, 511, 512, 513],
+    "name": "锋利之斧",
+    "editor_name": "AT2网游10-斧-R-武器10_R斧10_技能组"
+  },
+  {
+    "id": 79,
+    "m_online_weapon_personality_skills": [514, 515, 516, 517, 518],
+    "name": "护身之斧",
+    "editor_name": "AT2网游11-斧-R-武器11_R斧11_技能组"
+  },
+  {
+    "id": 80,
+    "m_online_weapon_personality_skills": [519, 520, 521, 522, 523],
+    "name": "凌厉之弓",
+    "editor_name": "AT2网游12-弓-R-武器12_R弓12_技能组"
+  },
+  {
+    "id": 81,
+    "m_online_weapon_personality_skills": [524, 525, 526, 527, 528],
+    "name": "呼啸之弓",
+    "editor_name": "AT2网游13-弓-R-武器13_R弓13_技能组"
+  },
+  {
+    "id": 82,
+    "m_online_weapon_personality_skills": [529, 530, 531, 532, 533],
+    "name": "坚韧之杖",
+    "editor_name": "AT2网游14-杖-R-武器14_R杖14_技能组"
+  },
+  {
+    "id": 83,
+    "m_online_weapon_personality_skills": [534, 535, 536, 537, 538],
+    "name": "魔力之杖",
+    "editor_name": "AT2网游15-杖-R-武器15_R杖15_技能组"
+  },
+  {
+    "id": 84,
+    "m_online_weapon_personality_skills": [539, 540, 541, 542, 543],
+    "name": "青铜项链",
+    "editor_name": "AT2网游58-饰品-R-武器58_R饰品58_技能组"
+  },
+  {
+    "id": 85,
+    "m_online_weapon_personality_skills": [544, 545, 546, 547, 548],
+    "name": "钢制护手",
+    "editor_name": "AT2网游59-饰品-R-武器59_R饰品59_技能组"
+  },
+  {
+    "id": 86,
+    "m_online_weapon_personality_skills": [549, 550, 551, 552, 553],
+    "name": "狼牙项链",
+    "editor_name": "AT2网游60-饰品-R-武器60_R饰品60_技能组"
+  },
+  {
+    "id": 87,
+    "m_online_weapon_personality_skills": [554, 555, 556, 557, 558],
+    "name": "优质兜帽_技能组",
+    "editor_name": "AT2网游61-饰品-R-武器61_R饰品61_技能组"
+  },
+  {
+    "id": 88,
+    "m_online_weapon_personality_skills": [559, 560, 561, 562, 563],
+    "name": "万仞名剑",
+    "editor_name": "AT2网游16-剑-SR-武器16_SR剑16_技能组"
+  },
+  {
+    "id": 89,
+    "m_online_weapon_personality_skills": [564, 565, 566, 567, 568],
+    "name": "誓约名剑",
+    "editor_name": "AT2网游17-剑-SR-武器17_SR剑17_技能组"
+  },
+  {
+    "id": 90,
+    "m_online_weapon_personality_skills": [569, 570, 571, 572, 573],
+    "name": "如芒短刀",
+    "editor_name": "AT2网游18-剑-SR-武器18_SR剑18_技能组"
+  },
+  {
+    "id": 91,
+    "m_online_weapon_personality_skills": [574, 575, 576, 577, 578],
+    "name": "凛冽银枪",
+    "editor_name": "AT2网游19-枪-SR-武器19_SR枪19_技能组"
+  },
+  {
+    "id": 92,
+    "m_online_weapon_personality_skills": [579, 580, 581, 582, 583],
+    "name": "禁卫长枪",
+    "editor_name": "AT2网游20-枪-SR-武器20_SR枪20_技能组"
+  },
+  {
+    "id": 93,
+    "m_online_weapon_personality_skills": [584, 585, 586, 587, 588],
+    "name": "穿甲之矛",
+    "editor_name": "AT2网游21-枪-SR-武器21_SR枪21_技能组"
+  },
+  {
+    "id": 94,
+    "m_online_weapon_personality_skills": [589, 590, 591, 592, 593],
+    "name": "破势利斧",
+    "editor_name": "AT2网游22-斧-SR-武器22_SR斧22_技能组"
+  },
+  {
+    "id": 95,
+    "m_online_weapon_personality_skills": [594, 595, 596, 597, 598],
+    "name": "镇魔利斧",
+    "editor_name": "AT2网游23-斧-SR-武器23_SR斧23_技能组"
+  },
+  {
+    "id": 96,
+    "m_online_weapon_personality_skills": [599, 600, 601, 602, 603],
+    "name": "同心利斧",
+    "editor_name": "AT2网游24-斧-SR-武器24_SR斧24_技能组"
+  },
+  {
+    "id": 97,
+    "m_online_weapon_personality_skills": [604, 605, 606, 607, 608],
+    "name": "破风之箭",
+    "editor_name": "AT2网游25-弓-SR-武器25_SR弓25_技能组"
+  },
+  {
+    "id": 98,
+    "m_online_weapon_personality_skills": [609, 610, 611, 612, 613],
+    "name": "无阻劲弩",
+    "editor_name": "AT2网游26-弓-SR-武器26_SR弓26_技能组"
+  },
+  {
+    "id": 99,
+    "m_online_weapon_personality_skills": [614, 615, 616, 617, 618],
+    "name": "寒霜手弩",
+    "editor_name": "AT2网游27-弓-SR-武器27_SR弓27_技能组"
+  },
+  {
+    "id": 100,
+    "m_online_weapon_personality_skills": [619, 620, 621, 622, 623],
+    "name": "聚能法球",
+    "editor_name": "AT2网游28-杖-SR-武器28_SR杖28_技能组"
+  },
+  {
+    "id": 101,
+    "m_online_weapon_personality_skills": [624, 625, 626, 627, 628],
+    "name": "爆裂之杖",
+    "editor_name": "AT2网游29-杖-SR-武器29_SR杖29_技能组"
+  },
+  {
+    "id": 102,
+    "m_online_weapon_personality_skills": [629, 630, 631, 632, 633],
+    "name": "贤者之杖",
+    "editor_name": "AT2网游30-杖-SR-武器30_SR杖30_技能组"
+  },
+  {
+    "id": 103,
+    "m_online_weapon_personality_skills": [634, 635, 636, 637, 638],
+    "name": "铁皮臂甲",
+    "editor_name": "AT2网游62-饰品-SR-武器62_SR饰品62_技能组"
+  },
+  {
+    "id": 104,
+    "m_online_weapon_personality_skills": [639, 640, 641, 642, 643],
+    "name": "魔女的面纱",
+    "editor_name": "AT2网游63-饰品-SR-武器63_SR饰品63_技能组"
+  },
+  {
+    "id": 105,
+    "m_online_weapon_personality_skills": [644, 645, 646, 647, 648],
+    "name": "长青之坠",
+    "editor_name": "AT2网游64-饰品-SR-武器64_SR饰品64_技能组"
+  },
+  {
+    "id": 106,
+    "m_online_weapon_personality_skills": [649, 650, 651, 652, 653],
+    "name": "钢铁铠甲",
+    "editor_name": "AT2网游65-饰品-SR-武器65_SR饰品65_技能组"
+  },
+  {
+    "id": 107,
+    "m_online_weapon_personality_skills": [654, 655, 656, 657, 658],
+    "name": "愤怒头巾",
+    "editor_name": "AT2网游66-饰品-SR-武器66_SR饰品66_技能组"
+  },
+  {
+    "id": 108,
+    "m_online_weapon_personality_skills": [659, 660, 661, 662, 663],
+    "name": "灵草药",
+    "editor_name": "AT2网游67-饰品-SR-武器67_SR饰品67_技能组"
+  },
+  {
+    "id": 109,
+    "m_online_weapon_personality_skills": [664, 665, 666, 667, 668],
+    "name": "王者的蔑视",
+    "editor_name": "AT2网游33-剑-SSR1-武器33_SSR1剑33_技能组"
+  },
+  {
+    "id": 110,
+    "m_online_weapon_personality_skills": [669, 670, 671, 672, 673],
+    "name": "末日短枪",
+    "editor_name": "AT2网游36-枪-SSR1-武器36_SSR1枪36_技能组"
+  },
+  {
+    "id": 111,
+    "m_online_weapon_personality_skills": [674, 675, 676, 677, 678],
+    "name": "暴戾大锤",
+    "editor_name": "AT2网游39-斧-SSR1-武器39_SSR1斧39_技能组"
+  },
+  {
+    "id": 112,
+    "m_online_weapon_personality_skills": [679, 680, 681, 682, 683],
+    "name": "猎者的无情",
+    "editor_name": "AT2网游42-弓-SSR1-武器42_SSR1弓42_技能组"
+  },
+  {
+    "id": 113,
+    "m_online_weapon_personality_skills": [684, 685, 686, 687, 688],
+    "name": "魔王的权杖",
+    "editor_name": "AT2网游45-杖-SSR1-武器45_SSR1杖45_技能组"
+  },
+  {
+    "id": 114,
+    "m_online_weapon_personality_skills": [689, 690, 691, 692, 693],
+    "name": "钢铁护盾",
+    "editor_name": "AT2网游68-饰品-SSR1-武器68_SSR1饰品68_技能组"
+  },
+  {
+    "id": 115,
+    "m_online_weapon_personality_skills": [694, 695, 696, 697, 698],
+    "name": "针线包_技能组",
+    "editor_name": "AT2网游69-饰品-SSR1-武器69_SSR1饰品69_技能组"
+  },
+  {
+    "id": 116,
+    "m_online_weapon_personality_skills": [699, 700, 701, 702, 703],
+    "name": "光辉之冕",
+    "editor_name": "AT2网游70-饰品-SSR1-武器70_SSR1饰品70_技能组"
+  },
+  {
+    "id": 117,
+    "m_online_weapon_personality_skills": [704, 705, 706, 707, 708],
+    "name": "金刚刺刀",
+    "editor_name": "AT2网游31-剑-SSR2-武器31_SSR2剑31_技能组"
+  },
+  {
+    "id": 118,
+    "m_online_weapon_personality_skills": [709, 710, 711, 712, 713],
+    "name": "狂热匕首",
+    "editor_name": "AT2网游32-剑-SSR2-武器32_SSR2剑32_技能组"
+  },
+  {
+    "id": 119,
+    "m_online_weapon_personality_skills": [714, 715, 716, 717, 718],
+    "name": "铁血长枪",
+    "editor_name": "AT2网游34-枪-SSR2-武器34_SSR2枪34_技能组"
+  },
+  {
+    "id": 120,
+    "m_online_weapon_personality_skills": [719, 720, 721, 722, 723],
+    "name": "血虐长枪",
+    "editor_name": "AT2网游35-枪-SSR2-武器35_SSR2枪35_技能组"
+  },
+  {
+    "id": 121,
+    "m_online_weapon_personality_skills": [724, 725, 726, 727, 728],
+    "name": "残暴巨斧",
+    "editor_name": "AT2网游37-斧-SSR2-武器37_SSR2斧37_技能组"
+  },
+  {
+    "id": 122,
+    "m_online_weapon_personality_skills": [729, 730, 731, 732, 733],
+    "name": "深渊巨斧",
+    "editor_name": "AT2网游38-斧-SSR2-武器38_SSR2斧38_技能组"
+  },
+  {
+    "id": 123,
+    "m_online_weapon_personality_skills": [734, 735, 736, 737, 738],
+    "name": "悲鸣长弓",
+    "editor_name": "AT2网游40-弓-SSR2-武器40_SSR2弓40_技能组"
+  },
+  {
+    "id": 124,
+    "m_online_weapon_personality_skills": [739, 740, 741, 742, 743],
+    "name": "葬身之箭",
+    "editor_name": "AT2网游41-弓-SSR2-武器41_SSR2弓41_技能组"
+  },
+  {
+    "id": 125,
+    "m_online_weapon_personality_skills": [744, 745, 746, 747, 748],
+    "name": "魔术法杖",
+    "editor_name": "AT2网游43-杖-SSR2-武器43_SSR2杖43_技能组"
+  },
+  {
+    "id": 126,
+    "m_online_weapon_personality_skills": [749, 750, 751, 752, 753],
+    "name": "光翼法杖",
+    "editor_name": "AT2网游44-杖-SSR2-武器44_SSR2杖44_技能组"
+  },
+  {
+    "id": 127,
+    "m_online_weapon_personality_skills": [754, 755, 756, 757, 758],
+    "name": "孤胆枭雄",
+    "editor_name": "AT2网游71-饰品-SSR2-武器71_SSR2饰品71_技能组"
+  },
+  {
+    "id": 128,
+    "m_online_weapon_personality_skills": [759, 760, 761, 762, 763],
+    "name": "恶灵的复仇",
+    "editor_name": "AT2网游72-饰品-SSR2-武器72_SSR2饰品72_技能组"
+  },
+  {
+    "id": 129,
+    "m_online_weapon_personality_skills": [764, 765, 766, 767, 768],
+    "name": "斗神箭托",
+    "editor_name": "AT2网游73-饰品-SSR2-武器73_SSR2饰品73_技能组"
+  },
+  {
+    "id": 130,
+    "m_online_weapon_personality_skills": [769, 770, 771, 772, 773],
+    "name": "回天之心",
+    "editor_name": "AT2网游74-饰品-SSR2-武器74_SSR2饰品74_技能组"
+  },
+  {
+    "id": 131,
+    "m_online_weapon_personality_skills": [774, 775, 776, 777, 778],
+    "name": "神之刺",
+    "editor_name": "AT2网游75-饰品-SSR2-武器75_SSR2饰品75_技能组"
+  },
+  {
+    "id": 132,
+    "m_online_weapon_personality_skills": [779, 780, 781, 782, 783],
+    "name": "春之妙丸",
+    "editor_name": "AT2网游76-饰品-SSR2-武器76_SSR2饰品76_技能组"
+  },
+  {
+    "id": 133,
+    "m_online_weapon_personality_skills": [784, 785, 786, 787, 788],
+    "name": "烈焰之刃",
+    "editor_name": "AT2网游46-剑-SSR3-武器46_SSR3剑46_技能组"
+  },
+  {
+    "id": 134,
+    "m_online_weapon_personality_skills": [789, 790, 791, 792, 793],
+    "name": "时机之刃",
+    "editor_name": "AT2网游47-剑-SSR3-武器47_SSR3剑47_技能组"
+  },
+  {
+    "id": 135,
+    "m_online_weapon_personality_skills": [794, 795, 796, 797, 798],
+    "name": "枯骨之枪",
+    "editor_name": "AT2网游48-枪-SSR3-武器48_SSR3枪48_技能组"
+  },
+  {
+    "id": 136,
+    "m_online_weapon_personality_skills": [799, 800, 801, 802, 803],
+    "name": "机警之棍",
+    "editor_name": "AT2网游49-枪-SSR3-武器49_SSR3枪49_技能组"
+  },
+  {
+    "id": 137,
+    "m_online_weapon_personality_skills": [804, 805, 806, 807, 808],
+    "name": "摄魂巨斧",
+    "editor_name": "AT2网游50-斧-SSR3-武器50_SSR3斧50_技能组"
+  },
+  {
+    "id": 138,
+    "m_online_weapon_personality_skills": [809, 810, 811, 812, 813],
+    "name": "裁决之锤",
+    "editor_name": "AT2网游51-斧-SSR3-武器51_SSR3斧51_技能组"
+  },
+  {
+    "id": 139,
+    "m_online_weapon_personality_skills": [814, 815, 816, 817, 818],
+    "name": "英灵之弓",
+    "editor_name": "AT2网游52-弓-SSR3-武器52_SSR3弓52_技能组"
+  },
+  {
+    "id": 140,
+    "m_online_weapon_personality_skills": [819, 820, 821, 822, 823],
+    "name": "亡魂之弓",
+    "editor_name": "AT2网游53-弓-SSR3-武器53_SSR3弓53_技能组"
+  },
+  {
+    "id": 141,
+    "m_online_weapon_personality_skills": [824, 825, 826, 827, 828],
+    "name": "信仰之杖",
+    "editor_name": "AT2网游54-杖-SSR3-武器54_SSR3杖54_技能组"
+  },
+  {
+    "id": 142,
+    "m_online_weapon_personality_skills": [829, 830, 831, 832, 833],
+    "name": "怨恨之杖",
+    "editor_name": "AT2网游55-杖-SSR3-武器55_SSR3杖55_技能组"
+  },
+  {
+    "id": 143,
+    "m_online_weapon_personality_skills": [834, 835, 836, 837, 838],
+    "name": "亢奋合剂",
+    "editor_name": "AT2网游77-饰品-SSR3-武器77_SSR3饰品77_技能组"
+  },
+  {
+    "id": 144,
+    "m_online_weapon_personality_skills": [839, 840, 841, 842, 843],
+    "name": "希望的礼物",
+    "editor_name": "AT2网游78-饰品-SSR3-武器78_SSR3饰品78_技能组"
+  },
+  {
+    "id": 145,
+    "m_online_weapon_personality_skills": [844, 845, 846, 847, 848],
+    "name": "法王之冠",
+    "editor_name": "AT2网游79-饰品-SSR3-武器79_SSR3饰品79_技能组"
+  },
+  {
+    "id": 146,
+    "m_online_weapon_personality_skills": [849, 850, 851, 852, 853],
+    "name": "金石护盾",
+    "editor_name": "AT2网游80-饰品-SSR3-武器80_SSR3饰品80_技能组"
+  },
+  {
+    "id": 147,
+    "m_online_weapon_personality_skills": [854, 855, 856, 857, 858],
+    "name": "时空魔戒",
+    "editor_name": "AT2网游81-饰品-SSR3-武器81_SSR3饰品81_技能组"
+  },
+  {
+    "id": 148,
+    "m_online_weapon_personality_skills": [859, 860, 861, 862, 863],
+    "name": "灼心火石",
+    "editor_name": "AT2网游82-饰品-SSR3-武器82_SSR3饰品82_技能组"
+  },
+  {
+    "id": 149,
+    "m_online_weapon_personality_skills": [864, 865, 866, 867, 868],
+    "name": "丰饶武器",
+    "editor_name": "AT2网游83-87-_丰饶武器_技能组"
+  },
+  {
+    "id": 154,
+    "m_online_weapon_personality_skills": [869, 870, 871, 872, 873],
+    "name": "灰雾项链",
+    "editor_name": "AT2网游88-饰品-SR-武器88_SR饰品88_技能组"
+  },
+  {
+    "id": 159,
+    "m_online_weapon_personality_skills": [874, 875, 876, 877, 878],
+    "name": "灾害瓶_给你尝尝",
+    "editor_name": "AT2网游89-饰品-SR-武器89_SR饰品89_技能组"
+  },
+  {
+    "id": 160,
+    "m_online_weapon_personality_skills": [879, 880, 881, 882, 883],
+    "name": "守护的决意",
+    "editor_name": "AT2网游90-剑-SSR1-武器90_SSR1剑90"
+  },
+  {
+    "id": 161,
+    "m_online_weapon_personality_skills": [884, 885, 886, 887, 888],
+    "name": "短射超重弩",
+    "editor_name": "AT2网游91-弓-SSR1-武器91_SSR1弓91"
+  },
+  {
+    "id": 162,
+    "m_online_weapon_personality_skills": [889, 890, 891, 892, 893],
+    "name": "沉默的戍卫",
+    "editor_name": "AT2网游92-枪-SSR1-武器92_SSR1枪92"
+  },
+  {
+    "id": 163,
+    "m_online_weapon_personality_skills": [894, 895, 896, 897, 898],
+    "name": "聚焦棱镜",
+    "editor_name": "AT2网游93-杖-SSR1-武器93_SSR1杖93"
+  },
+  {
+    "id": 164,
+    "m_online_weapon_personality_skills": [899, 900, 901, 902, 903],
+    "name": "原时沙漏",
+    "editor_name": "AT2网游94-饰品-SSR1-武器94_SSR1饰品94"
+  },
+  {
+    "id": 165,
+    "m_online_weapon_personality_skills": [904, 905, 906, 907, 908],
+    "name": "猎手的直觉",
+    "editor_name": "AT2网游95-饰品-SSR1-武器95_SSR1饰品95"
+  },
+  {
+    "id": 166,
+    "m_online_weapon_personality_skills": [909, 910, 911, 912, 913],
+    "name": "千军破阵枪",
+    "editor_name": "AT2网游武器_SSR枪96_冲锋之枪"
+  },
+  {
+    "id": 167,
+    "m_online_weapon_personality_skills": [914, 915, 916, 917, 918],
+    "name": "长夜流光",
+    "editor_name": "AT2网游武器_SSR剑97_仪式之剑"
+  },
+  {
+    "id": 168,
+    "m_online_weapon_personality_skills": [919, 920, 921, 922, 923],
+    "name": "诡诈之影",
+    "editor_name": "AT2网游武器_SSR饰品98_秘银头盔"
+  },
+  {
+    "id": 169,
+    "m_online_weapon_personality_skills": [924, 925, 926, 927, 928],
+    "name": "血晶石护身符",
+    "editor_name": "AT2网游武器_SSR饰品99_大法师吊坠"
+  },
+  {
+    "id": 170,
+    "m_online_weapon_personality_skills": [929, 930, 931, 932, 933],
+    "name": "守护正义之盾",
+    "editor_name": "AT2网游武器_SSR饰品100_荣耀徽记"
+  },
+  {
+    "id": 171,
+    "m_online_weapon_personality_skills": [934, 935, 936, 937, 938],
+    "name": "黯魇傀儡",
+    "editor_name": "AT2网游武器_SSR杖101_巫术之杖"
+  },
+  {
+    "id": 172,
+    "m_online_weapon_personality_skills": [939, 940, 941, 942, 943],
+    "name": "疾风天烈剑",
+    "editor_name": "AT2网游武器_SSR斧102_送的斧"
+  }
+]

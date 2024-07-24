@@ -1,0 +1,4838 @@
+[
+  {
+    "id": 1,
+    "m_perform_sequence_datas": [1, 2, 4, 62],
+    "name": "alert",
+    "desc": ""
+  },
+  {
+    "id": 2,
+    "m_perform_sequence_datas": [5, 6, 7, 8, 9, 10, 14, 15, 85],
+    "name": "alert_attack",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "m_perform_sequence_datas": [11, 12, 13, 17],
+    "name": "first_hit",
+    "desc": ""
+  },
+  {
+    "id": 4,
+    "m_perform_sequence_datas": [30, 31],
+    "name": "火焰冲击地面效果",
+    "desc": ""
+  },
+  {
+    "id": 5,
+    "m_perform_sequence_datas": [18, 19],
+    "name": "贯通震动",
+    "desc": ""
+  },
+  {
+    "id": 7,
+    "m_perform_sequence_datas": [20, 21],
+    "name": "body_replace",
+    "desc": ""
+  },
+  {
+    "id": 8,
+    "m_perform_sequence_datas": [22],
+    "name": "爆裂弹",
+    "desc": ""
+  },
+  {
+    "id": 9,
+    "m_perform_sequence_datas": [29, 228, 229],
+    "name": "火焰冲击",
+    "desc": ""
+  },
+  {
+    "id": 11,
+    "m_perform_sequence_datas": [32, 34, 35, 88, 246, 247],
+    "name": "旧背刺",
+    "desc": ""
+  },
+  {
+    "id": 12,
+    "m_perform_sequence_datas": [37, 61],
+    "name": "火焰imapct地面效果",
+    "desc": ""
+  },
+  {
+    "id": 13,
+    "m_perform_sequence_datas": [40, 41],
+    "name": "shadow_step_appear",
+    "desc": ""
+  },
+  {
+    "id": 14,
+    "m_perform_sequence_datas": [42, 60],
+    "name": "飞索",
+    "desc": ""
+  },
+  {
+    "id": 15,
+    "m_perform_sequence_datas": [45, 315],
+    "name": "盾破",
+    "desc": ""
+  },
+  {
+    "id": 16,
+    "m_perform_sequence_datas": [46, 47, 48],
+    "name": "旋风斩_追杀",
+    "desc": ""
+  },
+  {
+    "id": 17,
+    "m_perform_sequence_datas": [57, 93],
+    "name": "800震动",
+    "desc": ""
+  },
+  {
+    "id": 18,
+    "m_perform_sequence_datas": [51, 53, 54, 55, 56],
+    "name": "跳劈",
+    "desc": ""
+  },
+  {
+    "id": 19,
+    "m_perform_sequence_datas": [59],
+    "name": "强曲射",
+    "desc": ""
+  },
+  {
+    "id": 21,
+    "m_perform_sequence_datas": [65],
+    "name": "die",
+    "desc": ""
+  },
+  {
+    "id": 23,
+    "m_perform_sequence_datas": [70, 71],
+    "name": "旋风斩命中",
+    "desc": ""
+  },
+  {
+    "id": 24,
+    "m_perform_sequence_datas": [72, 73],
+    "name": "盾击",
+    "desc": ""
+  },
+  {
+    "id": 26,
+    "m_perform_sequence_datas": [],
+    "name": "attackback",
+    "desc": ""
+  },
+  {
+    "id": 27,
+    "m_perform_sequence_datas": [89, 90],
+    "name": "地块_箭雨地面效果",
+    "desc": ""
+  },
+  {
+    "id": 28,
+    "m_perform_sequence_datas": [91],
+    "name": "1200震动",
+    "desc": ""
+  },
+  {
+    "id": 29,
+    "m_perform_sequence_datas": [92],
+    "name": "400震动",
+    "desc": ""
+  },
+  {
+    "id": 30,
+    "m_perform_sequence_datas": [94, 293, 294, 295],
+    "name": "万箭齐发cast",
+    "desc": ""
+  },
+  {
+    "id": 32,
+    "m_perform_sequence_datas": [101],
+    "name": "火焰点燃地面效果",
+    "desc": ""
+  },
+  {
+    "id": 34,
+    "m_perform_sequence_datas": [105],
+    "name": "飞斧地面裂痕效果",
+    "desc": ""
+  },
+  {
+    "id": 35,
+    "m_perform_sequence_datas": [106, 107],
+    "name": "刺客苦无地面效果",
+    "desc": ""
+  },
+  {
+    "id": 36,
+    "m_perform_sequence_datas": [109],
+    "name": "旋风斩封技",
+    "desc": ""
+  },
+  {
+    "id": 37,
+    "m_perform_sequence_datas": [110],
+    "name": "800震动once",
+    "desc": ""
+  },
+  {
+    "id": 38,
+    "m_perform_sequence_datas": [112],
+    "name": "治疗地面效果_提前700",
+    "desc": ""
+  },
+  {
+    "id": 39,
+    "m_perform_sequence_datas": [114, 115],
+    "name": "600震动",
+    "desc": ""
+  },
+  {
+    "id": 40,
+    "m_perform_sequence_datas": [116],
+    "name": "600震动once",
+    "desc": ""
+  },
+  {
+    "id": 41,
+    "m_perform_sequence_datas": [166],
+    "name": "800震动300",
+    "desc": ""
+  },
+  {
+    "id": 42,
+    "m_perform_sequence_datas": [120, 121, 232, 233],
+    "name": "周身自爆",
+    "desc": ""
+  },
+  {
+    "id": 43,
+    "m_perform_sequence_datas": [122],
+    "name": "弩散射地面效果",
+    "desc": ""
+  },
+  {
+    "id": 44,
+    "m_perform_sequence_datas": [126],
+    "name": "1000震动",
+    "desc": ""
+  },
+  {
+    "id": 45,
+    "m_perform_sequence_datas": [127, 128],
+    "name": "演出序列_光法通用目标传送",
+    "desc": ""
+  },
+  {
+    "id": 46,
+    "m_perform_sequence_datas": [129, 130, 131, 132, 133, 134, 135, 137, 141, 142],
+    "name": "面具割喉",
+    "desc": "ExskillEnd （5366——》5100）\nExskill_end_effect（"
+  },
+  {
+    "id": 47,
+    "m_perform_sequence_datas": [138, 139, 230, 231],
+    "name": "蓄力直线1500",
+    "desc": ""
+  },
+  {
+    "id": 48,
+    "m_perform_sequence_datas": [143, 144],
+    "name": "冰块冲击演出序列",
+    "desc": ""
+  },
+  {
+    "id": 49,
+    "m_perform_sequence_datas": [281],
+    "name": "演出序列_冰投射_天01",
+    "desc": ""
+  },
+  {
+    "id": 50,
+    "m_perform_sequence_datas": [148, 756, 757],
+    "name": "副团长-大招",
+    "desc": ""
+  },
+  {
+    "id": 51,
+    "m_perform_sequence_datas": [150, 153],
+    "name": "副团长_气刃斩击aoe",
+    "desc": ""
+  },
+  {
+    "id": 53,
+    "m_perform_sequence_datas": [156, 157],
+    "name": "演出序列_舞娘主动瞬移",
+    "desc": "在主动瞬移动画命中的基础上\n额外+500"
+  },
+  {
+    "id": 54,
+    "m_perform_sequence_datas": [471],
+    "name": "副团长冲锋突刺",
+    "desc": "原本有一个attack1_camera_shake4\n延迟200持续500\n但是会和徐"
+  },
+  {
+    "id": 55,
+    "m_perform_sequence_datas": [161, 163, 164, 1620],
+    "name": "副团长扬旗_有黑幕",
+    "desc": ""
+  },
+  {
+    "id": 61,
+    "m_perform_sequence_datas": [170],
+    "name": "123123",
+    "desc": ""
+  },
+  {
+    "id": 63,
+    "m_perform_sequence_datas": [],
+    "name": "测试",
+    "desc": ""
+  },
+  {
+    "id": 64,
+    "m_perform_sequence_datas": [173, 174],
+    "name": "演出序列_屏幕变暗",
+    "desc": ""
+  },
+  {
+    "id": 65,
+    "m_perform_sequence_datas": [175, 176],
+    "name": "演出序列_屏幕变红",
+    "desc": ""
+  },
+  {
+    "id": 66,
+    "m_perform_sequence_datas": [188, 189],
+    "name": "演出序列_屏幕快速变暗",
+    "desc": ""
+  },
+  {
+    "id": 67,
+    "m_perform_sequence_datas": [191, 192, 209, 210, 212, 226],
+    "name": "肾击",
+    "desc": ""
+  },
+  {
+    "id": 68,
+    "m_perform_sequence_datas": [197, 567],
+    "name": "变暗变色测试_变蓝",
+    "desc": ""
+  },
+  {
+    "id": 69,
+    "m_perform_sequence_datas": [203, 204, 205],
+    "name": "演出序列_屏幕变暗+震动",
+    "desc": ""
+  },
+  {
+    "id": 70,
+    "m_perform_sequence_datas": [213, 214, 217, 218],
+    "name": "（废弃）肾击",
+    "desc": ""
+  },
+  {
+    "id": 71,
+    "m_perform_sequence_datas": [255],
+    "name": "远程打击感",
+    "desc": ""
+  },
+  {
+    "id": 72,
+    "m_perform_sequence_datas": [227],
+    "name": "地块_暗法地块效果",
+    "desc": ""
+  },
+  {
+    "id": 73,
+    "m_perform_sequence_datas": [240, 241, 245],
+    "name": "（废弃）演出序列_TP上升",
+    "desc": ""
+  },
+  {
+    "id": 74,
+    "m_perform_sequence_datas": [244],
+    "name": "演出序列_再动",
+    "desc": "？？？"
+  },
+  {
+    "id": 75,
+    "m_perform_sequence_datas": [248, 250, 251, 252, 253, 254],
+    "name": "背刺",
+    "desc": ""
+  },
+  {
+    "id": 76,
+    "m_perform_sequence_datas": [256],
+    "name": "演出序列_受击震动",
+    "desc": ""
+  },
+  {
+    "id": 77,
+    "m_perform_sequence_datas": [259, 260, 261],
+    "name": "远程打击感+变暗",
+    "desc": ""
+  },
+  {
+    "id": 78,
+    "m_perform_sequence_datas": [263, 264, 265],
+    "name": "抛射物落地变慢+变暗",
+    "desc": ""
+  },
+  {
+    "id": 79,
+    "m_perform_sequence_datas": [267, 273, 274, 275, 276],
+    "name": "周身自爆_冰法",
+    "desc": ""
+  },
+  {
+    "id": 80,
+    "m_perform_sequence_datas": [271, 272],
+    "name": "变蓝",
+    "desc": ""
+  },
+  {
+    "id": 81,
+    "m_perform_sequence_datas": [278, 279],
+    "name": "冰块冲击演出序列_天",
+    "desc": ""
+  },
+  {
+    "id": 82,
+    "m_perform_sequence_datas": [284, 285],
+    "name": "近战打击感",
+    "desc": ""
+  },
+  {
+    "id": 84,
+    "m_perform_sequence_datas": [289, 290, 291, 292],
+    "name": "近战打击感+略拉近",
+    "desc": ""
+  },
+  {
+    "id": 85,
+    "m_perform_sequence_datas": [296, 297],
+    "name": "shadow_step_appear_attack",
+    "desc": ""
+  },
+  {
+    "id": 86,
+    "m_perform_sequence_datas": [298],
+    "name": "叮_快速_01",
+    "desc": ""
+  },
+  {
+    "id": 87,
+    "m_perform_sequence_datas": [301],
+    "name": "演出序列_冰投射_地01",
+    "desc": "去掉了attack1_camera_shake2（持续时间170）"
+  },
+  {
+    "id": 88,
+    "m_perform_sequence_datas": [302, 303],
+    "name": "背景变色_白",
+    "desc": ""
+  },
+  {
+    "id": 89,
+    "m_perform_sequence_datas": [305, 306, 541],
+    "name": "地块_圣罚_雷",
+    "desc": ""
+  },
+  {
+    "id": 90,
+    "m_perform_sequence_datas": [308, 309],
+    "name": "圣光冲击演出序列_天",
+    "desc": ""
+  },
+  {
+    "id": 92,
+    "m_perform_sequence_datas": [311, 314],
+    "name": "地块_副团长斜刺地面效果",
+    "desc": ""
+  },
+  {
+    "id": 93,
+    "m_perform_sequence_datas": [316],
+    "name": "地块_神圣星星_延迟1200",
+    "desc": ""
+  },
+  {
+    "id": 94,
+    "m_perform_sequence_datas": [317, 318],
+    "name": "演出序列_全体鼓舞",
+    "desc": ""
+  },
+  {
+    "id": 95,
+    "m_perform_sequence_datas": [326, 327, 328],
+    "name": "（废弃）副团长BOSS-大招",
+    "desc": "已经不需要了"
+  },
+  {
+    "id": 96,
+    "m_perform_sequence_datas": [334],
+    "name": "滚石死亡（棕）",
+    "desc": ""
+  },
+  {
+    "id": 97,
+    "m_perform_sequence_datas": [335],
+    "name": "滚石死亡（灰）",
+    "desc": ""
+  },
+  {
+    "id": 98,
+    "m_perform_sequence_datas": [337],
+    "name": "演出序列_冰投射_地02",
+    "desc": ""
+  },
+  {
+    "id": 99,
+    "m_perform_sequence_datas": [338, 339, 342, 344, 351, 353],
+    "name": "（废弃）副团长-大招_优化",
+    "desc": "负优化"
+  },
+  {
+    "id": 100,
+    "m_perform_sequence_datas": [348, 350],
+    "name": "副团长BOSS落地烟",
+    "desc": ""
+  },
+  {
+    "id": 101,
+    "m_perform_sequence_datas": [354, 355],
+    "name": "演出序列_时间节点测试",
+    "desc": ""
+  },
+  {
+    "id": 104,
+    "m_perform_sequence_datas": [364, 365, 1302],
+    "name": "演出序列_小红助威",
+    "desc": ""
+  },
+  {
+    "id": 105,
+    "m_perform_sequence_datas": [370],
+    "name": "（旧）演出序列_近战打击感",
+    "desc": ""
+  },
+  {
+    "id": 106,
+    "m_perform_sequence_datas": [372],
+    "name": "演出序列_屏幕变暗开启",
+    "desc": ""
+  },
+  {
+    "id": 107,
+    "m_perform_sequence_datas": [373],
+    "name": "演出序列_屏幕变暗结束",
+    "desc": ""
+  },
+  {
+    "id": 108,
+    "m_perform_sequence_datas": [374],
+    "name": "（废弃）天降冰刺",
+    "desc": ""
+  },
+  {
+    "id": 110,
+    "m_perform_sequence_datas": [378],
+    "name": "地块_天降冰刺_演出序列",
+    "desc": ""
+  },
+  {
+    "id": 111,
+    "m_perform_sequence_datas": [380],
+    "name": "击退子弹时间test",
+    "desc": ""
+  },
+  {
+    "id": 112,
+    "m_perform_sequence_datas": [384, 1298],
+    "name": "演出序列_麦莎连击03",
+    "desc": ""
+  },
+  {
+    "id": 113,
+    "m_perform_sequence_datas": [390],
+    "name": "first_hit_2",
+    "desc": ""
+  },
+  {
+    "id": 114,
+    "m_perform_sequence_datas": [393, 394, 395, 396, 397, 398, 399, 400, 401],
+    "name": "演出序列_警戒射击_射击",
+    "desc": ""
+  },
+  {
+    "id": 115,
+    "m_perform_sequence_datas": [402, 403, 404, 405],
+    "name": "演出序列_启动警戒射击",
+    "desc": ""
+  },
+  {
+    "id": 117,
+    "m_perform_sequence_datas": [410, 412, 413, 414, 416, 418, 427, 449],
+    "name": "（废弃）（大概）演出序列_复仇之眼",
+    "desc": ""
+  },
+  {
+    "id": 118,
+    "m_perform_sequence_datas": [422],
+    "name": "演出序列_复仇之眼后续动作",
+    "desc": ""
+  },
+  {
+    "id": 121,
+    "m_perform_sequence_datas": [438, 1294, 1296],
+    "name": "演出序列_麦莎连击01",
+    "desc": ""
+  },
+  {
+    "id": 122,
+    "m_perform_sequence_datas": [439, 440],
+    "name": "演出序列_屏幕变暗结束+震动",
+    "desc": ""
+  },
+  {
+    "id": 124,
+    "m_perform_sequence_datas": [444, 446, 1299],
+    "name": "演出序列_麦莎连击04",
+    "desc": ""
+  },
+  {
+    "id": 125,
+    "m_perform_sequence_datas": [452, 453, 455],
+    "name": "摄像机BUG测试",
+    "desc": ""
+  },
+  {
+    "id": 126,
+    "m_perform_sequence_datas": [456, 457, 458],
+    "name": "（废弃）演出序列_索菲亚超级拔刀斩",
+    "desc": "通用技能动效最好还是不要喷变暗"
+  },
+  {
+    "id": 127,
+    "m_perform_sequence_datas": [463],
+    "name": "（测试）演出序列_影分身攻击回收01",
+    "desc": ""
+  },
+  {
+    "id": 128,
+    "m_perform_sequence_datas": [464],
+    "name": "地块_重武器砸地地块黑尘",
+    "desc": ""
+  },
+  {
+    "id": 129,
+    "m_perform_sequence_datas": [466, 467],
+    "name": "演出序列_透明遮罩_旧版",
+    "desc": ""
+  },
+  {
+    "id": 130,
+    "m_perform_sequence_datas": [470],
+    "name": "演出序列_新震动测试",
+    "desc": ""
+  },
+  {
+    "id": 131,
+    "m_perform_sequence_datas": [473],
+    "name": "地块_重武器砸地地块尖尘",
+    "desc": ""
+  },
+  {
+    "id": 132,
+    "m_perform_sequence_datas": [474],
+    "name": "地块_重武器砸地地块黑尘_骑士团巨斧兵旋风斩",
+    "desc": ""
+  },
+  {
+    "id": 133,
+    "m_perform_sequence_datas": [476],
+    "name": "地块_地刃斩地面效果",
+    "desc": ""
+  },
+  {
+    "id": 134,
+    "m_perform_sequence_datas": [480, 482],
+    "name": "演出序列_神怒变身",
+    "desc": ""
+  },
+  {
+    "id": 135,
+    "m_perform_sequence_datas": [485],
+    "name": "地块_地刺斩地面效果",
+    "desc": ""
+  },
+  {
+    "id": 136,
+    "m_perform_sequence_datas": [490, 491, 2600],
+    "name": "演出序列_刺客主动瞬移",
+    "desc": ""
+  },
+  {
+    "id": 137,
+    "m_perform_sequence_datas": [493, 494],
+    "name": "代身术_通用",
+    "desc": "通过代身后攻击技能触发，反推时间出特效"
+  },
+  {
+    "id": 138,
+    "m_perform_sequence_datas": [497, 499],
+    "name": "演出序列_开关残像",
+    "desc": ""
+  },
+  {
+    "id": 139,
+    "m_perform_sequence_datas": [500, 502],
+    "name": "演出序列_全透明遮罩",
+    "desc": ""
+  },
+  {
+    "id": 141,
+    "m_perform_sequence_datas": [504, 505, 507, 509],
+    "name": "（废弃）演出序列_全透明遮罩+近战打击感",
+    "desc": ""
+  },
+  {
+    "id": 142,
+    "m_perform_sequence_datas": [510, 2037],
+    "name": "单格砸地烟_拉维耶",
+    "desc": ""
+  },
+  {
+    "id": 143,
+    "m_perform_sequence_datas": [1568, 1637],
+    "name": "演出序列_通用物品死亡",
+    "desc": ""
+  },
+  {
+    "id": 144,
+    "m_perform_sequence_datas": [519, 520],
+    "name": "演出序列_火法通用主动瞬移 ",
+    "desc": ""
+  },
+  {
+    "id": 145,
+    "m_perform_sequence_datas": [523, 524],
+    "name": "演出序列_火法通用目标传送",
+    "desc": ""
+  },
+  {
+    "id": 146,
+    "m_perform_sequence_datas": [528, 531],
+    "name": "地块_强力火柱",
+    "desc": ""
+  },
+  {
+    "id": 147,
+    "m_perform_sequence_datas": [529, 530],
+    "name": "地块_火柱",
+    "desc": ""
+  },
+  {
+    "id": 149,
+    "m_perform_sequence_datas": [538],
+    "name": "演出序列_冰墙爆裂死亡",
+    "desc": ""
+  },
+  {
+    "id": 150,
+    "m_perform_sequence_datas": [542, 543, 544],
+    "name": "地块_圣罚_波",
+    "desc": ""
+  },
+  {
+    "id": 151,
+    "m_perform_sequence_datas": [546, 547],
+    "name": "演出序列_光法通用主动瞬移 ",
+    "desc": ""
+  },
+  {
+    "id": 152,
+    "m_perform_sequence_datas": [549],
+    "name": "地块_光属性打击",
+    "desc": ""
+  },
+  {
+    "id": 153,
+    "m_perform_sequence_datas": [551],
+    "name": "地块_光buff受击",
+    "desc": ""
+  },
+  {
+    "id": 154,
+    "m_perform_sequence_datas": [552],
+    "name": "地块_舞蹈buff命中",
+    "desc": ""
+  },
+  {
+    "id": 155,
+    "m_perform_sequence_datas": [553],
+    "name": "地块_神圣星星",
+    "desc": ""
+  },
+  {
+    "id": 157,
+    "m_perform_sequence_datas": [560, 561],
+    "name": "演出序列_冰法通用主动瞬移",
+    "desc": ""
+  },
+  {
+    "id": 158,
+    "m_perform_sequence_datas": [564, 566],
+    "name": "演出序列_冰法通用目标传送",
+    "desc": ""
+  },
+  {
+    "id": 159,
+    "m_perform_sequence_datas": [568, 569],
+    "name": "演出序列_战术技能_通用屏幕变暗",
+    "desc": ""
+  },
+  {
+    "id": 160,
+    "m_perform_sequence_datas": [572, 573],
+    "name": "演出序列_特技用_神怒变身动画特效",
+    "desc": ""
+  },
+  {
+    "id": 161,
+    "m_perform_sequence_datas": [574, 575, 576],
+    "name": "地块_大团长能量冲击",
+    "desc": ""
+  },
+  {
+    "id": 162,
+    "m_perform_sequence_datas": [578, 580],
+    "name": "（废弃）演出序列_冰爪术",
+    "desc": ""
+  },
+  {
+    "id": 163,
+    "m_perform_sequence_datas": [583],
+    "name": "演出序列_集火",
+    "desc": ""
+  },
+  {
+    "id": 164,
+    "m_perform_sequence_datas": [584, 585],
+    "name": "演出序列_雪之舞",
+    "desc": ""
+  },
+  {
+    "id": 165,
+    "m_perform_sequence_datas": [586, 588, 589, 590],
+    "name": "演出序列_火之舞",
+    "desc": ""
+  },
+  {
+    "id": 166,
+    "m_perform_sequence_datas": [591],
+    "name": "演出序列_重打击感",
+    "desc": ""
+  },
+  {
+    "id": 167,
+    "m_perform_sequence_datas": [592],
+    "name": "演出序列_轻打击感",
+    "desc": ""
+  },
+  {
+    "id": 168,
+    "m_perform_sequence_datas": [593],
+    "name": "演出序列_打击感",
+    "desc": ""
+  },
+  {
+    "id": 170,
+    "m_perform_sequence_datas": [595, 596, 597],
+    "name": "演出序列_通用红幕",
+    "desc": ""
+  },
+  {
+    "id": 171,
+    "m_perform_sequence_datas": [598, 599],
+    "name": "演出序列_通用黑幕",
+    "desc": ""
+  },
+  {
+    "id": 172,
+    "m_perform_sequence_datas": [600, 601, 603],
+    "name": "演出序列_通用白幕",
+    "desc": ""
+  },
+  {
+    "id": 173,
+    "m_perform_sequence_datas": [605],
+    "name": "演出序列_通用hit卡顿",
+    "desc": ""
+  },
+  {
+    "id": 174,
+    "m_perform_sequence_datas": [],
+    "name": "演出序列_通用格挡",
+    "desc": "原本有个演出“time_scale_5”时点“hit”延迟100持续时间80\n现在去掉变"
+  },
+  {
+    "id": 175,
+    "m_perform_sequence_datas": [607],
+    "name": "演出序列_通用破盾",
+    "desc": ""
+  },
+  {
+    "id": 176,
+    "m_perform_sequence_datas": [661],
+    "name": "演出序列_震地",
+    "desc": ""
+  },
+  {
+    "id": 177,
+    "m_perform_sequence_datas": [662],
+    "name": "演出序列_大震地",
+    "desc": ""
+  },
+  {
+    "id": 178,
+    "m_perform_sequence_datas": [610, 611],
+    "name": "演出序列_通用变暖",
+    "desc": ""
+  },
+  {
+    "id": 179,
+    "m_perform_sequence_datas": [612, 613],
+    "name": "演出序列_通用变冷",
+    "desc": ""
+  },
+  {
+    "id": 180,
+    "m_perform_sequence_datas": [614],
+    "name": "演出序列_通用hit慢放",
+    "desc": ""
+  },
+  {
+    "id": 182,
+    "m_perform_sequence_datas": [624, 626],
+    "name": "特写",
+    "desc": ""
+  },
+  {
+    "id": 183,
+    "m_perform_sequence_datas": [629, 630],
+    "name": "镜头测试_特写",
+    "desc": ""
+  },
+  {
+    "id": 186,
+    "m_perform_sequence_datas": [645, 647, 649],
+    "name": "镜头测试_聚焦+特写",
+    "desc": ""
+  },
+  {
+    "id": 187,
+    "m_perform_sequence_datas": [791],
+    "name": "镜头测试_快速聚焦",
+    "desc": ""
+  },
+  {
+    "id": 188,
+    "m_perform_sequence_datas": [655, 660],
+    "name": "(废弃)镜头测试_聚焦特效",
+    "desc": ""
+  },
+  {
+    "id": 189,
+    "m_perform_sequence_datas": [664],
+    "name": "工具演出序列_图形_循环扑克方块",
+    "desc": ""
+  },
+  {
+    "id": 190,
+    "m_perform_sequence_datas": [665],
+    "name": "工具演出序列_图形_循环扑克红桃",
+    "desc": ""
+  },
+  {
+    "id": 191,
+    "m_perform_sequence_datas": [666],
+    "name": "工具演出序列_图形_循环扑克草花",
+    "desc": ""
+  },
+  {
+    "id": 192,
+    "m_perform_sequence_datas": [667],
+    "name": "工具演出序列_图形_循环扑克黑桃",
+    "desc": ""
+  },
+  {
+    "id": 193,
+    "m_perform_sequence_datas": [668],
+    "name": "工具演出序列_图形_扑克方块",
+    "desc": ""
+  },
+  {
+    "id": 194,
+    "m_perform_sequence_datas": [669],
+    "name": "工具演出序列_图形_扑克红桃",
+    "desc": ""
+  },
+  {
+    "id": 195,
+    "m_perform_sequence_datas": [670],
+    "name": "工具演出序列_图形_扑克草花",
+    "desc": ""
+  },
+  {
+    "id": 196,
+    "m_perform_sequence_datas": [671],
+    "name": "工具演出序列_图形_扑克黑桃",
+    "desc": ""
+  },
+  {
+    "id": 197,
+    "m_perform_sequence_datas": [672],
+    "name": "工具演出序列_图形_按钮三角",
+    "desc": ""
+  },
+  {
+    "id": 198,
+    "m_perform_sequence_datas": [673],
+    "name": "工具演出序列_图形_按钮圆圈",
+    "desc": ""
+  },
+  {
+    "id": 199,
+    "m_perform_sequence_datas": [674],
+    "name": "工具演出序列_图形_按钮大叉",
+    "desc": ""
+  },
+  {
+    "id": 200,
+    "m_perform_sequence_datas": [675],
+    "name": "工具演出序列_图形_按钮方框",
+    "desc": ""
+  },
+  {
+    "id": 201,
+    "m_perform_sequence_datas": [676],
+    "name": "工具演出序列_图形_红三角",
+    "desc": ""
+  },
+  {
+    "id": 202,
+    "m_perform_sequence_datas": [677],
+    "name": "工具演出序列_图形_红圆",
+    "desc": ""
+  },
+  {
+    "id": 203,
+    "m_perform_sequence_datas": [678],
+    "name": "工具演出序列_图形_红方",
+    "desc": ""
+  },
+  {
+    "id": 204,
+    "m_perform_sequence_datas": [679],
+    "name": "工具演出序列_图形_绿三角",
+    "desc": ""
+  },
+  {
+    "id": 205,
+    "m_perform_sequence_datas": [680],
+    "name": "工具演出序列_图形_绿圆",
+    "desc": ""
+  },
+  {
+    "id": 206,
+    "m_perform_sequence_datas": [681],
+    "name": "工具演出序列_图形_绿方",
+    "desc": ""
+  },
+  {
+    "id": 207,
+    "m_perform_sequence_datas": [682],
+    "name": "工具演出序列_图形_蓝圆",
+    "desc": ""
+  },
+  {
+    "id": 208,
+    "m_perform_sequence_datas": [683],
+    "name": "工具演出序列_图形_蓝方",
+    "desc": ""
+  },
+  {
+    "id": 209,
+    "m_perform_sequence_datas": [684],
+    "name": "工具演出序列_图形_左箭头",
+    "desc": ""
+  },
+  {
+    "id": 210,
+    "m_perform_sequence_datas": [685],
+    "name": "工具演出序列_图形_右箭头",
+    "desc": ""
+  },
+  {
+    "id": 211,
+    "m_perform_sequence_datas": [686],
+    "name": "工具演出序列_图形_下箭头",
+    "desc": ""
+  },
+  {
+    "id": 212,
+    "m_perform_sequence_datas": [687],
+    "name": "工具演出序列_图形_上箭头",
+    "desc": ""
+  },
+  {
+    "id": 213,
+    "m_perform_sequence_datas": [688],
+    "name": "工具演出序列_图形_计时5秒",
+    "desc": ""
+  },
+  {
+    "id": 214,
+    "m_perform_sequence_datas": [689],
+    "name": "工具演出序列_图形_计时3秒",
+    "desc": ""
+  },
+  {
+    "id": 215,
+    "m_perform_sequence_datas": [690],
+    "name": "工具演出序列_图形_计时1秒",
+    "desc": ""
+  },
+  {
+    "id": 216,
+    "m_perform_sequence_datas": [691],
+    "name": "工具演出序列_图形_计时半秒",
+    "desc": ""
+  },
+  {
+    "id": 217,
+    "m_perform_sequence_datas": [692],
+    "name": "工具演出序列_图形_镂空方框",
+    "desc": ""
+  },
+  {
+    "id": 221,
+    "m_perform_sequence_datas": [696],
+    "name": "工具演出序列_图形_蓝三角",
+    "desc": ""
+  },
+  {
+    "id": 222,
+    "m_perform_sequence_datas": [697],
+    "name": "工具演出序列_图形_镂空大叉",
+    "desc": ""
+  },
+  {
+    "id": 223,
+    "m_perform_sequence_datas": [698],
+    "name": "工具演出序列_图形_镂空圆圈",
+    "desc": ""
+  },
+  {
+    "id": 224,
+    "m_perform_sequence_datas": [699],
+    "name": "工具演出序列_图形_镂空三角",
+    "desc": ""
+  },
+  {
+    "id": 225,
+    "m_perform_sequence_datas": [700],
+    "name": "工具演出序列_图形_黄方",
+    "desc": ""
+  },
+  {
+    "id": 226,
+    "m_perform_sequence_datas": [701],
+    "name": "工具演出序列_图形_黄圆",
+    "desc": ""
+  },
+  {
+    "id": 227,
+    "m_perform_sequence_datas": [702],
+    "name": "工具演出序列_图形_黄三角",
+    "desc": ""
+  },
+  {
+    "id": 228,
+    "m_perform_sequence_datas": [703],
+    "name": "工具演出序列_图形_hit上箭头",
+    "desc": ""
+  },
+  {
+    "id": 229,
+    "m_perform_sequence_datas": [704],
+    "name": "工具演出序列_图形_hit下箭头",
+    "desc": ""
+  },
+  {
+    "id": 230,
+    "m_perform_sequence_datas": [705],
+    "name": "工具演出序列_图形_hit右箭头",
+    "desc": ""
+  },
+  {
+    "id": 231,
+    "m_perform_sequence_datas": [706],
+    "name": "工具演出序列_图形_hit左箭头",
+    "desc": ""
+  },
+  {
+    "id": 232,
+    "m_perform_sequence_datas": [707],
+    "name": "工具演出序列_图形_hit循环扑克方块",
+    "desc": ""
+  },
+  {
+    "id": 233,
+    "m_perform_sequence_datas": [708],
+    "name": "工具演出序列_图形_hit循环扑克红桃",
+    "desc": ""
+  },
+  {
+    "id": 234,
+    "m_perform_sequence_datas": [709],
+    "name": "工具演出序列_图形_hit循环扑克草花",
+    "desc": ""
+  },
+  {
+    "id": 235,
+    "m_perform_sequence_datas": [710],
+    "name": "工具演出序列_图形_hit循环扑克黑桃",
+    "desc": ""
+  },
+  {
+    "id": 236,
+    "m_perform_sequence_datas": [711],
+    "name": "工具演出序列_图形_hit扑克方块",
+    "desc": ""
+  },
+  {
+    "id": 237,
+    "m_perform_sequence_datas": [712],
+    "name": "工具演出序列_图形_hit扑克红桃",
+    "desc": ""
+  },
+  {
+    "id": 238,
+    "m_perform_sequence_datas": [713],
+    "name": "工具演出序列_图形_hit扑克草花",
+    "desc": ""
+  },
+  {
+    "id": 239,
+    "m_perform_sequence_datas": [714],
+    "name": "工具演出序列_图形_hit扑克黑桃",
+    "desc": ""
+  },
+  {
+    "id": 240,
+    "m_perform_sequence_datas": [715],
+    "name": "工具演出序列_图形_hit按钮三角",
+    "desc": ""
+  },
+  {
+    "id": 241,
+    "m_perform_sequence_datas": [716],
+    "name": "工具演出序列_图形_hit按钮圆圈",
+    "desc": ""
+  },
+  {
+    "id": 242,
+    "m_perform_sequence_datas": [717],
+    "name": "工具演出序列_图形_hit按钮大叉",
+    "desc": ""
+  },
+  {
+    "id": 243,
+    "m_perform_sequence_datas": [718],
+    "name": "工具演出序列_图形_hit按钮方框",
+    "desc": ""
+  },
+  {
+    "id": 244,
+    "m_perform_sequence_datas": [719],
+    "name": "工具演出序列_图形_hit红三角",
+    "desc": ""
+  },
+  {
+    "id": 245,
+    "m_perform_sequence_datas": [720],
+    "name": "工具演出序列_图形_hit红圆",
+    "desc": ""
+  },
+  {
+    "id": 246,
+    "m_perform_sequence_datas": [721],
+    "name": "工具演出序列_图形_hit红方",
+    "desc": ""
+  },
+  {
+    "id": 247,
+    "m_perform_sequence_datas": [722],
+    "name": "工具演出序列_图形_hit绿三角",
+    "desc": ""
+  },
+  {
+    "id": 248,
+    "m_perform_sequence_datas": [723],
+    "name": "工具演出序列_图形_hit绿圆",
+    "desc": ""
+  },
+  {
+    "id": 249,
+    "m_perform_sequence_datas": [724],
+    "name": "工具演出序列_图形_hit绿方",
+    "desc": ""
+  },
+  {
+    "id": 250,
+    "m_perform_sequence_datas": [725],
+    "name": "工具演出序列_图形_hit蓝三角",
+    "desc": ""
+  },
+  {
+    "id": 251,
+    "m_perform_sequence_datas": [726],
+    "name": "工具演出序列_图形_hit蓝圆",
+    "desc": ""
+  },
+  {
+    "id": 252,
+    "m_perform_sequence_datas": [727],
+    "name": "工具演出序列_图形_hit蓝方",
+    "desc": ""
+  },
+  {
+    "id": 253,
+    "m_perform_sequence_datas": [728],
+    "name": "女将军_命中后强制返回待机_等待500",
+    "desc": ""
+  },
+  {
+    "id": 254,
+    "m_perform_sequence_datas": [729],
+    "name": "工具演出序列_图形_hit计时3秒",
+    "desc": ""
+  },
+  {
+    "id": 255,
+    "m_perform_sequence_datas": [730],
+    "name": "工具演出序列_图形_hit计时5秒",
+    "desc": ""
+  },
+  {
+    "id": 256,
+    "m_perform_sequence_datas": [731],
+    "name": "工具演出序列_图形_hit计时半秒",
+    "desc": ""
+  },
+  {
+    "id": 257,
+    "m_perform_sequence_datas": [732],
+    "name": "工具演出序列_图形_hit镂空三角",
+    "desc": ""
+  },
+  {
+    "id": 258,
+    "m_perform_sequence_datas": [733],
+    "name": "工具演出序列_图形_hit镂空圆圈",
+    "desc": ""
+  },
+  {
+    "id": 259,
+    "m_perform_sequence_datas": [734],
+    "name": "工具演出序列_图形_hit镂空大叉",
+    "desc": ""
+  },
+  {
+    "id": 260,
+    "m_perform_sequence_datas": [735],
+    "name": "工具演出序列_图形_hit镂空方框",
+    "desc": ""
+  },
+  {
+    "id": 261,
+    "m_perform_sequence_datas": [736],
+    "name": "工具演出序列_图形_hit黄三角",
+    "desc": ""
+  },
+  {
+    "id": 262,
+    "m_perform_sequence_datas": [737],
+    "name": "工具演出序列_图形_hit黄圆",
+    "desc": ""
+  },
+  {
+    "id": 263,
+    "m_perform_sequence_datas": [738],
+    "name": "工具演出序列_图形_hit黄方",
+    "desc": ""
+  },
+  {
+    "id": 264,
+    "m_perform_sequence_datas": [740, 741, 743],
+    "name": "地块_光属beam地面尖刺_短刺",
+    "desc": ""
+  },
+  {
+    "id": 266,
+    "m_perform_sequence_datas": [745, 746, 748],
+    "name": "地块_光属beam地面尖刺_长刺",
+    "desc": "无焦横"
+  },
+  {
+    "id": 267,
+    "m_perform_sequence_datas": [755, 758],
+    "name": "特殊受击测试_01",
+    "desc": ""
+  },
+  {
+    "id": 268,
+    "m_perform_sequence_datas": [760, 761, 767, 768],
+    "name": "演出序列_瘦身版警戒射击",
+    "desc": ""
+  },
+  {
+    "id": 269,
+    "m_perform_sequence_datas": [842],
+    "name": "地块_AOE范围提示_框",
+    "desc": ""
+  },
+  {
+    "id": 270,
+    "m_perform_sequence_datas": [778, 780],
+    "name": "演出序列_冲锋无双残像测试",
+    "desc": ""
+  },
+  {
+    "id": 271,
+    "m_perform_sequence_datas": [787],
+    "name": "（废弃）地块_单体浮游炮_光",
+    "desc": ""
+  },
+  {
+    "id": 272,
+    "m_perform_sequence_datas": [789],
+    "name": "萨曼莎cut测试_延迟300",
+    "desc": ""
+  },
+  {
+    "id": 273,
+    "m_perform_sequence_datas": [790],
+    "name": "（废弃）审判者法杖回收",
+    "desc": "旧版，新版动作和特效都有"
+  },
+  {
+    "id": 274,
+    "m_perform_sequence_datas": [792],
+    "name": "（废弃）审判者光线技环绕测试",
+    "desc": ""
+  },
+  {
+    "id": 275,
+    "m_perform_sequence_datas": [794],
+    "name": "地块_群体浮游炮_光",
+    "desc": ""
+  },
+  {
+    "id": 276,
+    "m_perform_sequence_datas": [795, 796],
+    "name": "演出序列_通用移动残像",
+    "desc": ""
+  },
+  {
+    "id": 277,
+    "m_perform_sequence_datas": [797, 800, 1950],
+    "name": "地块_圣罚_轨道炮",
+    "desc": ""
+  },
+  {
+    "id": 278,
+    "m_perform_sequence_datas": [802, 803],
+    "name": "地块_圣罚_能量柱",
+    "desc": ""
+  },
+  {
+    "id": 279,
+    "m_perform_sequence_datas": [804],
+    "name": "悬空圆影_下降",
+    "desc": ""
+  },
+  {
+    "id": 280,
+    "m_perform_sequence_datas": [805],
+    "name": "悬空圆影_上升",
+    "desc": ""
+  },
+  {
+    "id": 281,
+    "m_perform_sequence_datas": [809],
+    "name": "（废弃）演出序列_黑暗触手鬼斯扒拉测试01",
+    "desc": ""
+  },
+  {
+    "id": 282,
+    "m_perform_sequence_datas": [1077],
+    "name": "地块_暗法触手生长",
+    "desc": ""
+  },
+  {
+    "id": 283,
+    "m_perform_sequence_datas": [811],
+    "name": "演出序列_黑暗触抓握测试",
+    "desc": ""
+  },
+  {
+    "id": 284,
+    "m_perform_sequence_datas": [814, 1948],
+    "name": "地块_圣罚_移动轨道炮",
+    "desc": ""
+  },
+  {
+    "id": 285,
+    "m_perform_sequence_datas": [816, 817],
+    "name": "演出序列_屏幕变暗_保留深度",
+    "desc": ""
+  },
+  {
+    "id": 286,
+    "m_perform_sequence_datas": [821],
+    "name": "特效演出测试",
+    "desc": ""
+  },
+  {
+    "id": 287,
+    "m_perform_sequence_datas": [824],
+    "name": "美术测试_摄像机转动演出测试_01",
+    "desc": ""
+  },
+  {
+    "id": 288,
+    "m_perform_sequence_datas": [825],
+    "name": "特殊受击_真实四方向",
+    "desc": ""
+  },
+  {
+    "id": 289,
+    "m_perform_sequence_datas": [826],
+    "name": "走路归位测试",
+    "desc": ""
+  },
+  {
+    "id": 290,
+    "m_perform_sequence_datas": [827, 828],
+    "name": "（废弃）地块_圣罚_能量柱",
+    "desc": ""
+  },
+  {
+    "id": 291,
+    "m_perform_sequence_datas": [829],
+    "name": "地块_光矛_上下",
+    "desc": ""
+  },
+  {
+    "id": 292,
+    "m_perform_sequence_datas": [830, 831],
+    "name": "下end测试5000",
+    "desc": ""
+  },
+  {
+    "id": 293,
+    "m_perform_sequence_datas": [833],
+    "name": "演出序列_特殊受击测试_04_超高浮空",
+    "desc": ""
+  },
+  {
+    "id": 294,
+    "m_perform_sequence_datas": [834],
+    "name": "演出序列_特殊受击测试_03_真实四方向",
+    "desc": ""
+  },
+  {
+    "id": 295,
+    "m_perform_sequence_datas": [835],
+    "name": "演出序列_特殊受击测试_07_小击退_滑行归位_持续时间1000",
+    "desc": "时间应该是1000"
+  },
+  {
+    "id": 296,
+    "m_perform_sequence_datas": [836],
+    "name": "演出序列_特殊受击测试_05_小浮空",
+    "desc": ""
+  },
+  {
+    "id": 297,
+    "m_perform_sequence_datas": [838, 1949, 1972],
+    "name": "审判者法杖回收_快速end版",
+    "desc": "时点end版\n如果把结束动作配在动画中，且命中目标中有炸药桶之类的东西，会导致end动作"
+  },
+  {
+    "id": 298,
+    "m_perform_sequence_datas": [841, 1430],
+    "name": "地块_单体浮游炮_光02",
+    "desc": "中速"
+  },
+  {
+    "id": 299,
+    "m_perform_sequence_datas": [847],
+    "name": "地块_AOE范围提示_块",
+    "desc": ""
+  },
+  {
+    "id": 300,
+    "m_perform_sequence_datas": [848],
+    "name": "（废弃）地块_AOE范围提示_光斑",
+    "desc": ""
+  },
+  {
+    "id": 301,
+    "m_perform_sequence_datas": [850],
+    "name": "冰法镜头测试_聚焦",
+    "desc": ""
+  },
+  {
+    "id": 302,
+    "m_perform_sequence_datas": [851, 852, 1015],
+    "name": "演出序列_淡入淡出测试",
+    "desc": "舞娘用"
+  },
+  {
+    "id": 303,
+    "m_perform_sequence_datas": [853],
+    "name": "移魂换影",
+    "desc": ""
+  },
+  {
+    "id": 304,
+    "m_perform_sequence_datas": [860, 861],
+    "name": "演出序列_刺客淡入淡出测试",
+    "desc": ""
+  },
+  {
+    "id": 305,
+    "m_perform_sequence_datas": [865],
+    "name": "演出序列_连线测试01",
+    "desc": ""
+  },
+  {
+    "id": 306,
+    "m_perform_sequence_datas": [868, 870, 871, 1276, 1277],
+    "name": "泰登EX盾击",
+    "desc": ""
+  },
+  {
+    "id": 307,
+    "m_perform_sequence_datas": [873],
+    "name": "地块_蓝色光点飞溅",
+    "desc": ""
+  },
+  {
+    "id": 308,
+    "m_perform_sequence_datas": [874, 876, 877],
+    "name": "演出序列_泰登EX启动",
+    "desc": ""
+  },
+  {
+    "id": 309,
+    "m_perform_sequence_datas": [878],
+    "name": "地块_飞斧本体",
+    "desc": ""
+  },
+  {
+    "id": 310,
+    "m_perform_sequence_datas": [880],
+    "name": "地块_重武器砸地黑色粉尘_延迟100",
+    "desc": ""
+  },
+  {
+    "id": 311,
+    "m_perform_sequence_datas": [883],
+    "name": "马格努斯_战吼震动",
+    "desc": ""
+  },
+  {
+    "id": 312,
+    "m_perform_sequence_datas": [886],
+    "name": "地块_黄色光点飞溅",
+    "desc": ""
+  },
+  {
+    "id": 313,
+    "m_perform_sequence_datas": [887],
+    "name": "地块_单格裂缝",
+    "desc": "去掉了特效里的发光裂缝，如果需要裂缝要换成更抽象一些的，暂时直接关掉了prefab里的粒子"
+  },
+  {
+    "id": 314,
+    "m_perform_sequence_datas": [889],
+    "name": "马格努斯_小浮空_延迟200",
+    "desc": ""
+  },
+  {
+    "id": 315,
+    "m_perform_sequence_datas": [896],
+    "name": "（废弃）演出序列_特殊受击测试_10_1秒小浮空",
+    "desc": "不知道为什么有个3000版和一个1500版"
+  },
+  {
+    "id": 316,
+    "m_perform_sequence_datas": [892],
+    "name": "演出序列_特殊受击测试_11_4秒大浮空",
+    "desc": ""
+  },
+  {
+    "id": 317,
+    "m_perform_sequence_datas": [893],
+    "name": "（废弃）测试_塔罗BOSS智力_重型召唤攻击",
+    "desc": ""
+  },
+  {
+    "id": 318,
+    "m_perform_sequence_datas": [894],
+    "name": "演出序列_特殊受击测试_10_1秒小浮空",
+    "desc": ""
+  },
+  {
+    "id": 319,
+    "m_perform_sequence_datas": [898],
+    "name": "演出序列_特殊受击测试_11_4秒大浮空_延迟1000",
+    "desc": ""
+  },
+  {
+    "id": 320,
+    "m_perform_sequence_datas": [901],
+    "name": "美术测试_摄像机转动演出测试_02",
+    "desc": ""
+  },
+  {
+    "id": 321,
+    "m_perform_sequence_datas": [902],
+    "name": "超能力少年测试",
+    "desc": ""
+  },
+  {
+    "id": 322,
+    "m_perform_sequence_datas": [904],
+    "name": "超能力地块效果",
+    "desc": ""
+  },
+  {
+    "id": 323,
+    "m_perform_sequence_datas": [906],
+    "name": "演出序列_冰投射_方向AOE",
+    "desc": ""
+  },
+  {
+    "id": 324,
+    "m_perform_sequence_datas": [908],
+    "name": "（废弃）坠星冲慢放",
+    "desc": ""
+  },
+  {
+    "id": 325,
+    "m_perform_sequence_datas": [909],
+    "name": "面具刺客特殊下落",
+    "desc": "面具刺客瞬移测试"
+  },
+  {
+    "id": 326,
+    "m_perform_sequence_datas": [983, 1012],
+    "name": "面具刺客淡入淡出",
+    "desc": "面具刺客瞬移测试\n淡入淡出功能暂时损坏"
+  },
+  {
+    "id": 327,
+    "m_perform_sequence_datas": [919],
+    "name": "测试慢动作",
+    "desc": ""
+  },
+  {
+    "id": 328,
+    "m_perform_sequence_datas": [921],
+    "name": "地块_歌洛莉亚地刺斩",
+    "desc": ""
+  },
+  {
+    "id": 329,
+    "m_perform_sequence_datas": [922],
+    "name": "古兹曼_触手旋风斩",
+    "desc": ""
+  },
+  {
+    "id": 330,
+    "m_perform_sequence_datas": [923],
+    "name": "（废弃）演出序列_特殊受击测试_11_1秒小浮空",
+    "desc": ""
+  },
+  {
+    "id": 331,
+    "m_perform_sequence_datas": [924],
+    "name": "演出序列_特殊受击测试_07_小击退_滑行归位_持续时间1500",
+    "desc": ""
+  },
+  {
+    "id": 332,
+    "m_perform_sequence_datas": [925, 927, 930, 931],
+    "name": "(废弃)演出序列_古兹曼搏动",
+    "desc": "特效内有VCM的情况下无效"
+  },
+  {
+    "id": 333,
+    "m_perform_sequence_datas": [935, 936],
+    "name": "（废弃）演出序列_古兹曼复活变暗",
+    "desc": ""
+  },
+  {
+    "id": 334,
+    "m_perform_sequence_datas": [937, 938],
+    "name": "演出序列_古兹曼复活",
+    "desc": ""
+  },
+  {
+    "id": 335,
+    "m_perform_sequence_datas": [948, 949],
+    "name": "圣枪投掷起跳",
+    "desc": ""
+  },
+  {
+    "id": 336,
+    "m_perform_sequence_datas": [950],
+    "name": "（废弃）演出序列_黑暗触手鬼斯扒拉测试02",
+    "desc": ""
+  },
+  {
+    "id": 337,
+    "m_perform_sequence_datas": [951, 1310, 1312, 1314],
+    "name": "演出序列_连线测试02_4方向",
+    "desc": ""
+  },
+  {
+    "id": 338,
+    "m_perform_sequence_datas": [953, 954, 955, 956, 957, 959, 960, 961, 962, 971],
+    "name": "面具割喉_紫色",
+    "desc": "过审版\n原版的ID是46"
+  },
+  {
+    "id": 339,
+    "m_perform_sequence_datas": [964, 997],
+    "name": "地块_塔罗boss智力_技能3",
+    "desc": ""
+  },
+  {
+    "id": 340,
+    "m_perform_sequence_datas": [966],
+    "name": "地块_塔罗boss力量_技能2",
+    "desc": ""
+  },
+  {
+    "id": 341,
+    "m_perform_sequence_datas": [968],
+    "name": "地块_塔罗boss力量_技能3",
+    "desc": ""
+  },
+  {
+    "id": 342,
+    "m_perform_sequence_datas": [970],
+    "name": "地块_塔罗boss智力_技能2",
+    "desc": ""
+  },
+  {
+    "id": 343,
+    "m_perform_sequence_datas": [973],
+    "name": "地块_塔罗boss技巧_技能1",
+    "desc": ""
+  },
+  {
+    "id": 344,
+    "m_perform_sequence_datas": [976, 977],
+    "name": "演出序列_塔罗boss屏幕变暗",
+    "desc": ""
+  },
+  {
+    "id": 345,
+    "m_perform_sequence_datas": [978],
+    "name": "摄像机动画测试",
+    "desc": ""
+  },
+  {
+    "id": 346,
+    "m_perform_sequence_datas": [980],
+    "name": "接受治疗",
+    "desc": "接受治疗"
+  },
+  {
+    "id": 347,
+    "m_perform_sequence_datas": [981, 982],
+    "name": "（废弃）演出序列_贝拉自爆变暗",
+    "desc": "贴花把人压黑与变暗冲突，变暗会使压黑失效\n需要提前结束变暗"
+  },
+  {
+    "id": 348,
+    "m_perform_sequence_datas": [986],
+    "name": "地块_塔罗boss力量_普攻2连击",
+    "desc": ""
+  },
+  {
+    "id": 349,
+    "m_perform_sequence_datas": [987],
+    "name": "地块_塔罗boss力量_普攻3连击",
+    "desc": ""
+  },
+  {
+    "id": 350,
+    "m_perform_sequence_datas": [988],
+    "name": "地块_塔罗boss力量_反击",
+    "desc": ""
+  },
+  {
+    "id": 353,
+    "m_perform_sequence_datas": [991],
+    "name": "演出序列_塔罗boss_技巧_箭",
+    "desc": ""
+  },
+  {
+    "id": 354,
+    "m_perform_sequence_datas": [993],
+    "name": "演出序列_塔罗boss_技巧_箭无延迟",
+    "desc": ""
+  },
+  {
+    "id": 355,
+    "m_perform_sequence_datas": [998, 1000],
+    "name": "地块_塔罗boss技巧_普攻",
+    "desc": ""
+  },
+  {
+    "id": 356,
+    "m_perform_sequence_datas": [995],
+    "name": "地块_塔罗boss技巧_技能2",
+    "desc": ""
+  },
+  {
+    "id": 357,
+    "m_perform_sequence_datas": [996],
+    "name": "地块_塔罗boss智力_技能1",
+    "desc": ""
+  },
+  {
+    "id": 358,
+    "m_perform_sequence_datas": [1001, 2046],
+    "name": "地块_塔罗boss技巧_普攻01",
+    "desc": ""
+  },
+  {
+    "id": 359,
+    "m_perform_sequence_datas": [],
+    "name": "这行以上都是临时数据",
+    "desc": "文字功能"
+  },
+  {
+    "id": 360,
+    "m_perform_sequence_datas": [1004, 1005],
+    "name": "（废弃）镜头测试_圣枪聚焦",
+    "desc": "无效"
+  },
+  {
+    "id": 361,
+    "m_perform_sequence_datas": [1006],
+    "name": "歌洛莉亚淡入淡出",
+    "desc": ""
+  },
+  {
+    "id": 362,
+    "m_perform_sequence_datas": [1009, 1014],
+    "name": "淡出淡入_薇尔德姐姐位移技能",
+    "desc": "薇尔德姐姐位移大招用\n演出从落地动画开始算（即位移后），所以位移前表现需要负值\n淡入延"
+  },
+  {
+    "id": 363,
+    "m_perform_sequence_datas": [1017, 1021, 1026, 1028, 1032, 1033, 1039],
+    "name": "薇尔德姐姐空中射击测试",
+    "desc": "薇尔德姐姐空中射击测试"
+  },
+  {
+    "id": 364,
+    "m_perform_sequence_datas": [1035],
+    "name": "演出序列_薇尔德姐姐EX01黑幕",
+    "desc": ""
+  },
+  {
+    "id": 365,
+    "m_perform_sequence_datas": [1038, 1354],
+    "name": "地块_薇尔德姐姐EX01_Hit",
+    "desc": ""
+  },
+  {
+    "id": 366,
+    "m_perform_sequence_datas": [1040],
+    "name": "地块_萨曼莎修女EX01_治疗hit",
+    "desc": ""
+  },
+  {
+    "id": 367,
+    "m_perform_sequence_datas": [1041],
+    "name": "地块_萨曼莎修女_强力圣罚_攻击",
+    "desc": ""
+  },
+  {
+    "id": 368,
+    "m_perform_sequence_datas": [1042, 1174],
+    "name": "地块_萨曼莎修女_圣罚_攻击",
+    "desc": ""
+  },
+  {
+    "id": 369,
+    "m_perform_sequence_datas": [1043, 1044],
+    "name": "演出序列_萨曼莎屏幕变暗",
+    "desc": ""
+  },
+  {
+    "id": 370,
+    "m_perform_sequence_datas": [1045],
+    "name": "地块_萨曼莎修女大治疗",
+    "desc": ""
+  },
+  {
+    "id": 371,
+    "m_perform_sequence_datas": [1046, 1047, 1048],
+    "name": "演出序列_通用舞蹈小剧场",
+    "desc": "6000长度小剧场\n带镜头无特效灯光"
+  },
+  {
+    "id": 372,
+    "m_perform_sequence_datas": [1049, 1051, 1076],
+    "name": "演出序列_EX动听歌声",
+    "desc": "7000长度小剧场\n带镜头无特效灯光\n地面无光斑"
+  },
+  {
+    "id": 373,
+    "m_perform_sequence_datas": [1053, 1055, 1056],
+    "name": "演出序列_通用近距离小剧场_5000",
+    "desc": "5000长度小剧场\n带黑幕"
+  },
+  {
+    "id": 374,
+    "m_perform_sequence_datas": [1057, 1059],
+    "name": "淡出淡入_薇尔德姐姐攻击技能",
+    "desc": "薇尔德姐姐攻击大招用\n"
+  },
+  {
+    "id": 375,
+    "m_perform_sequence_datas": [1062],
+    "name": "小魔女乱丢攻击_4方向",
+    "desc": "小魔女乱丢，假飞行道具，使用连线功能"
+  },
+  {
+    "id": 376,
+    "m_perform_sequence_datas": [1070, 1071],
+    "name": "（废弃）胡乱轰炸",
+    "desc": "1.决定取消开场特写，只放在大奖内\n每次攻击中调用额外虚拟摄像头会引起不可控bug\n2"
+  },
+  {
+    "id": 377,
+    "m_perform_sequence_datas": [1072],
+    "name": "地块_圣施法射灯",
+    "desc": "有灯！\n只有单体技能可以使用！！！"
+  },
+  {
+    "id": 378,
+    "m_perform_sequence_datas": [1074, 1075],
+    "name": "（废弃）演出序列_贝拉大奖变暗",
+    "desc": "抽奖技能的变暗不能放在开头（黑幕范围错误）\n抽奖技能的变暗放在途中不能以end为时点因为"
+  },
+  {
+    "id": 379,
+    "m_perform_sequence_datas": [1081],
+    "name": "地块_地刺斩地面效果_红色",
+    "desc": ""
+  },
+  {
+    "id": 380,
+    "m_perform_sequence_datas": [],
+    "name": "（废弃）瞬移跳劈-雇佣兵巨斧兵",
+    "desc": "和面具刺客大招一样的做法"
+  },
+  {
+    "id": 381,
+    "m_perform_sequence_datas": [1082, 1086, 1091, 1092, 1093, 1094, 1096],
+    "name": "瞬移跳劈",
+    "desc": ""
+  },
+  {
+    "id": 382,
+    "m_perform_sequence_datas": [1095],
+    "name": "演出序列_特殊受击测试_07_正面小击退_滑行归位_持续时间1500",
+    "desc": ""
+  },
+  {
+    "id": 383,
+    "m_perform_sequence_datas": [1097],
+    "name": "地块_阿力克赛斩击",
+    "desc": ""
+  },
+  {
+    "id": 384,
+    "m_perform_sequence_datas": [1098],
+    "name": "地块_阿力克赛重斩",
+    "desc": ""
+  },
+  {
+    "id": 385,
+    "m_perform_sequence_datas": [1099, 1100, 1110, 1112],
+    "name": "演出序列_大王子EX02_旧",
+    "desc": ""
+  },
+  {
+    "id": 386,
+    "m_perform_sequence_datas": [1105, 1106, 1107, 1108],
+    "name": "淡入淡出测试",
+    "desc": ""
+  },
+  {
+    "id": 387,
+    "m_perform_sequence_datas": [1121, 1122, 1123],
+    "name": "演出序列_大王子EX01_旧",
+    "desc": "三连斩开场短暂变暗"
+  },
+  {
+    "id": 388,
+    "m_perform_sequence_datas": [1124],
+    "name": "大王子EX刀光子弹时间",
+    "desc": "横斩飞出刀刃时\n1700+150=1850"
+  },
+  {
+    "id": 389,
+    "m_perform_sequence_datas": [1125, 1126, 1127, 1129],
+    "name": "全正面施法测试",
+    "desc": "男主测试用"
+  },
+  {
+    "id": 390,
+    "m_perform_sequence_datas": [1130, 1133],
+    "name": "召唤兽测试-男主",
+    "desc": "男主测试用"
+  },
+  {
+    "id": 391,
+    "m_perform_sequence_datas": [1145, 1146],
+    "name": "地块_阿力克赛EX变身",
+    "desc": ""
+  },
+  {
+    "id": 392,
+    "m_perform_sequence_datas": [1136, 1137],
+    "name": "（废弃）演出序列_阿力克赛EX黑幕",
+    "desc": ""
+  },
+  {
+    "id": 393,
+    "m_perform_sequence_datas": [1138, 1140],
+    "name": "演出序列_阿力克赛EX黑幕",
+    "desc": "独显黑幕"
+  },
+  {
+    "id": 394,
+    "m_perform_sequence_datas": [1147],
+    "name": "地块_飞盾",
+    "desc": ""
+  },
+  {
+    "id": 395,
+    "m_perform_sequence_datas": [1148, 1149],
+    "name": "召唤兽测试-大王子",
+    "desc": "大王字测试用"
+  },
+  {
+    "id": 396,
+    "m_perform_sequence_datas": [1150, 1187],
+    "name": "地块_米格尔EX爆炸",
+    "desc": ""
+  },
+  {
+    "id": 397,
+    "m_perform_sequence_datas": [1151, 1189],
+    "name": "演出序列_米格尔EX黑幕",
+    "desc": ""
+  },
+  {
+    "id": 398,
+    "m_perform_sequence_datas": [1153, 1154],
+    "name": "淡出淡入_米格尔EX",
+    "desc": "米格尔EX\n"
+  },
+  {
+    "id": 399,
+    "m_perform_sequence_datas": [1155, 1161],
+    "name": "演出序列_米格尔EX变暗01",
+    "desc": ""
+  },
+  {
+    "id": 400,
+    "m_perform_sequence_datas": [1157, 1856],
+    "name": "演出序列_米格尔EX变暗02",
+    "desc": "持续变暗"
+  },
+  {
+    "id": 401,
+    "m_perform_sequence_datas": [1158, 1159],
+    "name": "演出序列_米格尔EX变暗03",
+    "desc": "结束变暗"
+  },
+  {
+    "id": 402,
+    "m_perform_sequence_datas": [1163],
+    "name": "演出序列_萨曼莎修女EX黑幕01",
+    "desc": "255持续"
+  },
+  {
+    "id": 403,
+    "m_perform_sequence_datas": [1169, 1170, 1173],
+    "name": "演出序列_萨曼莎修女EX黑幕02",
+    "desc": "255——180——0"
+  },
+  {
+    "id": 404,
+    "m_perform_sequence_datas": [1175],
+    "name": "地块_萨曼莎修女大治疗01",
+    "desc": ""
+  },
+  {
+    "id": 405,
+    "m_perform_sequence_datas": [1176, 1177],
+    "name": "淡出淡入_薇尔德姐姐后跳技能",
+    "desc": "薇尔德姐姐位移大招用\n演出从落地动画开始算（即位移后），所以位移前表现需要负值\n淡入延"
+  },
+  {
+    "id": 406,
+    "m_perform_sequence_datas": [1179, 1180],
+    "name": "演出序列_剪影化测试",
+    "desc": "施放者\n被释放者\n分别变为黑色"
+  },
+  {
+    "id": 407,
+    "m_perform_sequence_datas": [1183, 2713, 2714],
+    "name": "演出序列_小魔女自爆变黑",
+    "desc": "小魔女（技能释放者）变成黑色剪影\n为了和皮肤做出区别，整合了屏幕变暗"
+  },
+  {
+    "id": 408,
+    "m_perform_sequence_datas": [1191, 1193, 1237],
+    "name": "演出序列_通用中距离小剧场_5000",
+    "desc": "5000长度小剧场\n带镜头无特效灯光"
+  },
+  {
+    "id": 409,
+    "m_perform_sequence_datas": [1198],
+    "name": "地块_无属性法术聚能",
+    "desc": "无属性法术命中前特效"
+  },
+  {
+    "id": 410,
+    "m_perform_sequence_datas": [1196, 1197],
+    "name": "地块_米格尔EX冲锋攻击",
+    "desc": ""
+  },
+  {
+    "id": 411,
+    "m_perform_sequence_datas": [1200],
+    "name": "EX小魔女乱丢攻击_4方向",
+    "desc": "小魔女乱丢，假飞行道具，使用连线功能\n时间加长版"
+  },
+  {
+    "id": 412,
+    "m_perform_sequence_datas": [1202, 1203, 1204, 1209],
+    "name": "小魔女EX背景",
+    "desc": "小魔女\n适用中距离小剧场"
+  },
+  {
+    "id": 413,
+    "m_perform_sequence_datas": [1205],
+    "name": "地块_塔罗星星01_支援buff",
+    "desc": ""
+  },
+  {
+    "id": 414,
+    "m_perform_sequence_datas": [1207, 1208],
+    "name": "地块_塔罗星星01_攻击",
+    "desc": ""
+  },
+  {
+    "id": 415,
+    "m_perform_sequence_datas": [1210, 1255],
+    "name": "地块_塔罗星星_攻击",
+    "desc": ""
+  },
+  {
+    "id": 416,
+    "m_perform_sequence_datas": [1212],
+    "name": "地块_塔罗星星_支援buff",
+    "desc": ""
+  },
+  {
+    "id": 417,
+    "m_perform_sequence_datas": [1214],
+    "name": "地块_召唤罐子砸人",
+    "desc": ""
+  },
+  {
+    "id": 418,
+    "m_perform_sequence_datas": [1215],
+    "name": "地块_召唤落石砸人",
+    "desc": ""
+  },
+  {
+    "id": 419,
+    "m_perform_sequence_datas": [1217],
+    "name": "特殊受击_压扁",
+    "desc": ""
+  },
+  {
+    "id": 420,
+    "m_perform_sequence_datas": [1218, 1219],
+    "name": "二王子三连击残像",
+    "desc": ""
+  },
+  {
+    "id": 421,
+    "m_perform_sequence_datas": [1220, 1222, 1229, 1232, 1233],
+    "name": "二王子EX突刺背面",
+    "desc": ""
+  },
+  {
+    "id": 422,
+    "m_perform_sequence_datas": [1225, 1235],
+    "name": "二王子EX剪影化",
+    "desc": "延迟时间根据动画面板的受击时间反推\n时间是hit"
+  },
+  {
+    "id": 423,
+    "m_perform_sequence_datas": [1236],
+    "name": "地块_二王子EX突刺背面",
+    "desc": ""
+  },
+  {
+    "id": 424,
+    "m_perform_sequence_datas": [1238, 1239, 1240],
+    "name": "演出序列_通用中距离小剧场_3000",
+    "desc": "3000"
+  },
+  {
+    "id": 425,
+    "m_perform_sequence_datas": [1241],
+    "name": "（废弃）索菲亚易容剪影化",
+    "desc": "施放者\n被释放者\n分别变为黑色"
+  },
+  {
+    "id": 426,
+    "m_perform_sequence_datas": [1243],
+    "name": "（废弃）地块_弩箭偷袭",
+    "desc": "场外偷袭\n有bug！{\"pos_type\":\"target\"}后会全部生成在同一个敌人身"
+  },
+  {
+    "id": 427,
+    "m_perform_sequence_datas": [1244, 1245, 1246],
+    "name": "隐秘行动_集火",
+    "desc": "集火，已弃用"
+  },
+  {
+    "id": 428,
+    "m_perform_sequence_datas": [1249, 1251, 1254],
+    "name": "演出序列_法卡尔EX",
+    "desc": "3000"
+  },
+  {
+    "id": 429,
+    "m_perform_sequence_datas": [1256, 1257],
+    "name": "（废弃）演出序列_索菲亚主动瞬移",
+    "desc": ""
+  },
+  {
+    "id": 430,
+    "m_perform_sequence_datas": [1261],
+    "name": "地块_女骑士_刺",
+    "desc": ""
+  },
+  {
+    "id": 431,
+    "m_perform_sequence_datas": [1262],
+    "name": "地块_塔罗狮子_突击攻击",
+    "desc": ""
+  },
+  {
+    "id": 432,
+    "m_perform_sequence_datas": [1264, 1265, 1266, 1267, 1268, 1269, 1270, 1271, 1272, 1273],
+    "name": "面具割喉_射程1",
+    "desc": "Exskill_end_effect 删除"
+  },
+  {
+    "id": 433,
+    "m_perform_sequence_datas": [1278, 1755, 1760],
+    "name": "老骑士_坚不可摧",
+    "desc": ""
+  },
+  {
+    "id": 434,
+    "m_perform_sequence_datas": [1279, 1280, 1281, 1283, 2039],
+    "name": "演出序列_星陨斩击",
+    "desc": "3000"
+  },
+  {
+    "id": 435,
+    "m_perform_sequence_datas": [1287, 1289, 1290],
+    "name": "演出序列_陷阵横扫",
+    "desc": "3000"
+  },
+  {
+    "id": 436,
+    "m_perform_sequence_datas": [1297],
+    "name": "演出序列_麦莎连击02",
+    "desc": ""
+  },
+  {
+    "id": 437,
+    "m_perform_sequence_datas": [1300, 1301, 1305],
+    "name": "麦莎冲锋",
+    "desc": "是一个[特殊受击]！！！只能用于单体技能！！！\n白屏+子弹时间\n受击样板房"
+  },
+  {
+    "id": 438,
+    "m_perform_sequence_datas": [1304],
+    "name": "地块_举起食物",
+    "desc": ""
+  },
+  {
+    "id": 439,
+    "m_perform_sequence_datas": [1316],
+    "name": "再来一杯",
+    "desc": "3000"
+  },
+  {
+    "id": 440,
+    "m_perform_sequence_datas": [1321, 1331],
+    "name": "古兹曼EX剪影化",
+    "desc": "剪影化加浮空"
+  },
+  {
+    "id": 441,
+    "m_perform_sequence_datas": [1325, 1327, 1329, 1330, 1332, 1333],
+    "name": "古兹曼EX小剧场",
+    "desc": ""
+  },
+  {
+    "id": 442,
+    "m_perform_sequence_datas": [1334, 1335, 1339, 2038],
+    "name": "演出序列_舞娘移形换影",
+    "desc": ""
+  },
+  {
+    "id": 443,
+    "m_perform_sequence_datas": [1337],
+    "name": "演出序列_薇尔德舞娘鼓舞之舞",
+    "desc": "3000"
+  },
+  {
+    "id": 444,
+    "m_perform_sequence_datas": [1340, 1341, 1342],
+    "name": "精英巨斧处决",
+    "desc": "白屏+子弹时间\n"
+  },
+  {
+    "id": 445,
+    "m_perform_sequence_datas": [1344],
+    "name": "演出序列_头顶止痛药",
+    "desc": ""
+  },
+  {
+    "id": 446,
+    "m_perform_sequence_datas": [1345],
+    "name": "麻醉针",
+    "desc": ""
+  },
+  {
+    "id": 447,
+    "m_perform_sequence_datas": [1348],
+    "name": "地块_红色光点飞溅",
+    "desc": ""
+  },
+  {
+    "id": 448,
+    "m_perform_sequence_datas": [1349, 1770],
+    "name": "破城弩",
+    "desc": "白屏+子弹时间\n"
+  },
+  {
+    "id": 449,
+    "m_perform_sequence_datas": [1353],
+    "name": "地块_塔罗女神_支援反馈",
+    "desc": ""
+  },
+  {
+    "id": 450,
+    "m_perform_sequence_datas": [1355],
+    "name": "地块_拉维耶_烈风突入",
+    "desc": ""
+  },
+  {
+    "id": 451,
+    "m_perform_sequence_datas": [1356],
+    "name": "烈风重斩新_拉维耶",
+    "desc": ""
+  },
+  {
+    "id": 452,
+    "m_perform_sequence_datas": [1357],
+    "name": "地块_黑暗地刺",
+    "desc": ""
+  },
+  {
+    "id": 453,
+    "m_perform_sequence_datas": [1360, 1364, 1366, 1367, 1368],
+    "name": "演出序列_大姐头黑白变",
+    "desc": ""
+  },
+  {
+    "id": 454,
+    "m_perform_sequence_datas": [1371, 1372, 1373],
+    "name": "副团长扬旗_无黑幕",
+    "desc": "163“变暗_清理深度”黑幕开始\n 延迟0 持续600\n删除\n"
+  },
+  {
+    "id": 455,
+    "m_perform_sequence_datas": [1375],
+    "name": "地块_无属性法术下落",
+    "desc": "无属性法术命中前特效"
+  },
+  {
+    "id": 456,
+    "m_perform_sequence_datas": [1377],
+    "name": "军旗死亡_红_01",
+    "desc": ""
+  },
+  {
+    "id": 457,
+    "m_perform_sequence_datas": [1378],
+    "name": "军旗死亡_蓝_01",
+    "desc": ""
+  },
+  {
+    "id": 458,
+    "m_perform_sequence_datas": [1379, 1380, 1382, 1385],
+    "name": "地块_英雄无敌_战术技能",
+    "desc": "有灯！\n只有单体技能可以使用！！！"
+  },
+  {
+    "id": 459,
+    "m_perform_sequence_datas": [1386],
+    "name": "地块_安魂曲",
+    "desc": ""
+  },
+  {
+    "id": 460,
+    "m_perform_sequence_datas": [1388, 1389],
+    "name": "地块_行军号令",
+    "desc": ""
+  },
+  {
+    "id": 461,
+    "m_perform_sequence_datas": [1394],
+    "name": "地块_追击指令",
+    "desc": ""
+  },
+  {
+    "id": 462,
+    "m_perform_sequence_datas": [1392, 1393],
+    "name": "地块_攻击号令",
+    "desc": ""
+  },
+  {
+    "id": 463,
+    "m_perform_sequence_datas": [1398],
+    "name": "地块_先祖之力",
+    "desc": "先祖之力不能推迟地块和受击否则地板消失时机会发生改变\n所以需要推迟地块内的演出"
+  },
+  {
+    "id": 464,
+    "m_perform_sequence_datas": [2133, 2134],
+    "name": "演出序列_战术技能瞬移",
+    "desc": ""
+  },
+  {
+    "id": 465,
+    "m_perform_sequence_datas": [1401, 1402, 1404],
+    "name": "地块_雷击_战术技能",
+    "desc": ""
+  },
+  {
+    "id": 466,
+    "m_perform_sequence_datas": [1406],
+    "name": "地块_破烂舞台灯",
+    "desc": ""
+  },
+  {
+    "id": 467,
+    "m_perform_sequence_datas": [2103, 2119, 2120],
+    "name": "演出序列_战术技能大陨石",
+    "desc": "取消了shake3 1350 700\n取消了shack4 2050 500"
+  },
+  {
+    "id": 468,
+    "m_perform_sequence_datas": [1414, 1415],
+    "name": "演出序列_关机重启",
+    "desc": "关闭UI测试"
+  },
+  {
+    "id": 469,
+    "m_perform_sequence_datas": [1417],
+    "name": "特殊命中_全体加速",
+    "desc": "战术技能用"
+  },
+  {
+    "id": 470,
+    "m_perform_sequence_datas": [1423, 2769],
+    "name": "主基地爆炸",
+    "desc": ""
+  },
+  {
+    "id": 471,
+    "m_perform_sequence_datas": [1426, 1433],
+    "name": "地块_塔罗星星_普攻",
+    "desc": ""
+  },
+  {
+    "id": 472,
+    "m_perform_sequence_datas": [1431, 1432],
+    "name": "(废弃)演出序列_灰狼转枪残像",
+    "desc": ""
+  },
+  {
+    "id": 473,
+    "m_perform_sequence_datas": [1434],
+    "name": "（测试）冰箱启动",
+    "desc": ""
+  },
+  {
+    "id": 474,
+    "m_perform_sequence_datas": [1435, 1439, 1445, 1446, 1447, 1448, 1453, 1456, 1457, 1458, 1459, 1460, 1461, 1462, 1463, 1464],
+    "name": "灰狼EX",
+    "desc": "灰狼EX测试"
+  },
+  {
+    "id": 475,
+    "m_perform_sequence_datas": [1449, 1863],
+    "name": "塔罗boss魔术师_die",
+    "desc": ""
+  },
+  {
+    "id": 476,
+    "m_perform_sequence_datas": [1451, 1452],
+    "name": "boss死亡测试背景变色_白",
+    "desc": ""
+  },
+  {
+    "id": 477,
+    "m_perform_sequence_datas": [1454, 1455],
+    "name": "淡出淡入_三王女专属EX",
+    "desc": ""
+  },
+  {
+    "id": 478,
+    "m_perform_sequence_datas": [1465, 1855],
+    "name": "演出序列_屏幕变暗三王女",
+    "desc": ""
+  },
+  {
+    "id": 479,
+    "m_perform_sequence_datas": [1469, 1470, 1471, 1472, 1477],
+    "name": "地块_灰狼EX命中",
+    "desc": ""
+  },
+  {
+    "id": 480,
+    "m_perform_sequence_datas": [1473, 1853],
+    "name": "演出序列_屏幕alpha0",
+    "desc": ""
+  },
+  {
+    "id": 481,
+    "m_perform_sequence_datas": [1478, 1479, 1480, 1483, 1484, 1486, 1487, 1488],
+    "name": "（废案）人民群众_难民领袖少女EX",
+    "desc": "5000长度小剧场\n带黑幕"
+  },
+  {
+    "id": 482,
+    "m_perform_sequence_datas": [1494, 1495, 1497, 1498, 1499, 1500, 1501, 1504, 1505, 1506, 1507, 1584],
+    "name": "演出序列_难民领袖少女EX_光路",
+    "desc": "2号方案_光路\n5000长度小剧场\n带黑幕"
+  },
+  {
+    "id": 483,
+    "m_perform_sequence_datas": [1502, 1503],
+    "name": "演出序列_UI关闭测试",
+    "desc": "关闭UI测试"
+  },
+  {
+    "id": 484,
+    "m_perform_sequence_datas": [1511, 1512, 1516, 1517, 1527, 1530, 1531, 1533],
+    "name": "双子哥哥EX测试",
+    "desc": "time_scale_10  延迟时间2550 持续时间200"
+  },
+  {
+    "id": 485,
+    "m_perform_sequence_datas": [1526, 1811],
+    "name": "地块_双子哥哥EX大姐头版",
+    "desc": ""
+  },
+  {
+    "id": 486,
+    "m_perform_sequence_datas": [1529],
+    "name": "双子哥哥EX大姐头版特殊受击演出",
+    "desc": "双子哥哥EX大姐头版特殊受击演出测试"
+  },
+  {
+    "id": 487,
+    "m_perform_sequence_datas": [1536, 1537, 1644],
+    "name": "灰狼瞬移_叶子",
+    "desc": "灰狼专属瞬移"
+  },
+  {
+    "id": 488,
+    "m_perform_sequence_datas": [1540],
+    "name": "测试_爆炸_延迟1600",
+    "desc": ""
+  },
+  {
+    "id": 489,
+    "m_perform_sequence_datas": [1541, 1852],
+    "name": "演出序列_特殊受击测试_18-超高跌落_提前1100",
+    "desc": ""
+  },
+  {
+    "id": 490,
+    "m_perform_sequence_datas": [1546],
+    "name": "演出序列_通用中距离移轴特写_3000",
+    "desc": "3000"
+  },
+  {
+    "id": 491,
+    "m_perform_sequence_datas": [1551, 1552],
+    "name": "飞盘连线无飞盘_4方向",
+    "desc": ""
+  },
+  {
+    "id": 492,
+    "m_perform_sequence_datas": [1553, 1554, 1555, 1556, 1557, 1558, 1559, 1562, 1564, 1565, 1569],
+    "name": "演出序列_难民领袖少女EX_淡出版",
+    "desc": "3号方案_旋转淡出\n"
+  },
+  {
+    "id": 494,
+    "m_perform_sequence_datas": [1566],
+    "name": "演出序列_通用物品出生",
+    "desc": ""
+  },
+  {
+    "id": 495,
+    "m_perform_sequence_datas": [1570],
+    "name": "地块_EX坠落_晶石少女",
+    "desc": ""
+  },
+  {
+    "id": 496,
+    "m_perform_sequence_datas": [1573, 1574, 1577, 1578, 1580, 1581, 1585, 1586],
+    "name": "（废弃）难民领袖少女_仅光路",
+    "desc": "仅光路\n前面去掉2500长度"
+  },
+  {
+    "id": 497,
+    "m_perform_sequence_datas": [1588, 1854],
+    "name": "演出序列_屏幕独显alpha0",
+    "desc": ""
+  },
+  {
+    "id": 498,
+    "m_perform_sequence_datas": [1589, 1590, 1592, 1600, 1601, 1727, 1729, 1730, 2236],
+    "name": "审判者C_EX_01",
+    "desc": ""
+  },
+  {
+    "id": 499,
+    "m_perform_sequence_datas": [1597],
+    "name": "审判者C_EX_02",
+    "desc": "敌人受击动作控制"
+  },
+  {
+    "id": 500,
+    "m_perform_sequence_datas": [1604, 1606, 1609, 1626, 1627],
+    "name": "飞盘连线带飞盘_4方向",
+    "desc": ""
+  },
+  {
+    "id": 501,
+    "m_perform_sequence_datas": [1607, 1608],
+    "name": "演出序列_三王女目标传送",
+    "desc": ""
+  },
+  {
+    "id": 502,
+    "m_perform_sequence_datas": [1611, 1617],
+    "name": "马格努斯投掷_小剧场命中",
+    "desc": "-1100"
+  },
+  {
+    "id": 503,
+    "m_perform_sequence_datas": [1612, 1613, 1614, 1615, 1616],
+    "name": "马格努斯投掷_小剧场",
+    "desc": "2800"
+  },
+  {
+    "id": 504,
+    "m_perform_sequence_datas": [1631, 1633],
+    "name": "地块_暗hit_晶石少女",
+    "desc": ""
+  },
+  {
+    "id": 505,
+    "m_perform_sequence_datas": [1632],
+    "name": "地块_暗多段hit_晶石少女",
+    "desc": ""
+  },
+  {
+    "id": 506,
+    "m_perform_sequence_datas": [1624],
+    "name": "审判者回旋转盘命中演出",
+    "desc": "准备500\n命中1000\n飞盘出现500\n500+1000-500=1000\n"
+  },
+  {
+    "id": 507,
+    "m_perform_sequence_datas": [1630],
+    "name": "演出序列_通用中距离移轴特写_2000",
+    "desc": ""
+  },
+  {
+    "id": 508,
+    "m_perform_sequence_datas": [1634],
+    "name": "地块_弩召唤命中",
+    "desc": ""
+  },
+  {
+    "id": 509,
+    "m_perform_sequence_datas": [1660],
+    "name": "应急爆炸_灰狼",
+    "desc": ""
+  },
+  {
+    "id": 510,
+    "m_perform_sequence_datas": [],
+    "name": "（废弃）周身特摄爆炸",
+    "desc": ""
+  },
+  {
+    "id": 511,
+    "m_perform_sequence_datas": [1652, 1653],
+    "name": "（废弃）难民领袖少女油桶技能_计算版",
+    "desc": "3000"
+  },
+  {
+    "id": 512,
+    "m_perform_sequence_datas": [1656, 1657],
+    "name": "周身特摄爆炸",
+    "desc": ""
+  },
+  {
+    "id": 513,
+    "m_perform_sequence_datas": [1658],
+    "name": "（废弃）地块_击退箭",
+    "desc": ""
+  },
+  {
+    "id": 514,
+    "m_perform_sequence_datas": [1662, 1663, 1664],
+    "name": "灰狼瞬移_烟雾",
+    "desc": "灰狼专属瞬移2"
+  },
+  {
+    "id": 515,
+    "m_perform_sequence_datas": [1665, 1666],
+    "name": "（废弃）难民领袖少女油桶技能",
+    "desc": "3000"
+  },
+  {
+    "id": 516,
+    "m_perform_sequence_datas": [1667, 1668, 1684],
+    "name": "难民领袖少女油桶技能_灯版",
+    "desc": "3000"
+  },
+  {
+    "id": 517,
+    "m_perform_sequence_datas": [1669, 1670],
+    "name": "淡出淡入_银狼专属EX",
+    "desc": ""
+  },
+  {
+    "id": 518,
+    "m_perform_sequence_datas": [1676, 1677, 1678, 1679, 1680, 1681, 1682, 1683],
+    "name": "难民领袖少女_光路",
+    "desc": "仅光路的优化版，尽量不改变节奏\n前面去掉2500长度"
+  },
+  {
+    "id": 519,
+    "m_perform_sequence_datas": [1692],
+    "name": "测试_提前3500",
+    "desc": ""
+  },
+  {
+    "id": 520,
+    "m_perform_sequence_datas": [1694, 1695, 1701, 1702, 1704, 1705],
+    "name": "超级冲锋测试用4000长度演出",
+    "desc": "超级冲锋测试用4000长度演出"
+  },
+  {
+    "id": 521,
+    "m_perform_sequence_datas": [1712],
+    "name": "双子哥哥EX大姐头版特殊受击演出2",
+    "desc": "双子哥哥EX大姐头版2特殊受击演出测试"
+  },
+  {
+    "id": 522,
+    "m_perform_sequence_datas": [1713, 1714],
+    "name": "淡出淡入_骑士团法师EX",
+    "desc": ""
+  },
+  {
+    "id": 523,
+    "m_perform_sequence_datas": [1715, 1716, 1717, 1718, 1719, 1720, 1721, 1722, 1814],
+    "name": "双子哥哥EX测试2",
+    "desc": ""
+  },
+  {
+    "id": 524,
+    "m_perform_sequence_datas": [],
+    "name": "",
+    "desc": ""
+  },
+  {
+    "id": 525,
+    "m_perform_sequence_datas": [1723, 1724],
+    "name": "淡出淡入_双子妹妹01",
+    "desc": ""
+  },
+  {
+    "id": 526,
+    "m_perform_sequence_datas": [1725, 1726],
+    "name": "淡出淡入_双子妹妹02",
+    "desc": ""
+  },
+  {
+    "id": 527,
+    "m_perform_sequence_datas": [1731, 1732],
+    "name": "地块_审判者C_EX残余特效",
+    "desc": ""
+  },
+  {
+    "id": 528,
+    "m_perform_sequence_datas": [1735],
+    "name": "（废弃）地块_地突刺地面效果",
+    "desc": ""
+  },
+  {
+    "id": 529,
+    "m_perform_sequence_datas": [1736],
+    "name": "地块_地突刺_骑士团精英剑士2",
+    "desc": ""
+  },
+  {
+    "id": 530,
+    "m_perform_sequence_datas": [1739, 1740, 1741, 1744],
+    "name": "new飞盘连线带飞盘_4方向 ",
+    "desc": ""
+  },
+  {
+    "id": 531,
+    "m_perform_sequence_datas": [1742, 1743],
+    "name": "演出序列_屏幕变暗_光辉卫士长",
+    "desc": ""
+  },
+  {
+    "id": 532,
+    "m_perform_sequence_datas": [1745],
+    "name": "地块_血滴子_竖_本体",
+    "desc": ""
+  },
+  {
+    "id": 533,
+    "m_perform_sequence_datas": [1747],
+    "name": "飞盘收招",
+    "desc": "审判者C的anime1收招配套特效"
+  },
+  {
+    "id": 534,
+    "m_perform_sequence_datas": [1748],
+    "name": "地块_血滴子_横_本体",
+    "desc": ""
+  },
+  {
+    "id": 535,
+    "m_perform_sequence_datas": [1749, 1750],
+    "name": "地块_枪雨地面效果",
+    "desc": ""
+  },
+  {
+    "id": 536,
+    "m_perform_sequence_datas": [1751, 1753],
+    "name": "地块_危险晶石框",
+    "desc": ""
+  },
+  {
+    "id": 537,
+    "m_perform_sequence_datas": [1754],
+    "name": "军旗死亡_黄_01",
+    "desc": ""
+  },
+  {
+    "id": 538,
+    "m_perform_sequence_datas": [1759, 1761, 2368],
+    "name": "老骑士_奥义测试",
+    "desc": ""
+  },
+  {
+    "id": 539,
+    "m_perform_sequence_datas": [1766, 1768, 1769],
+    "name": "演出序列_补给箱死亡烟雾",
+    "desc": ""
+  },
+  {
+    "id": 540,
+    "m_perform_sequence_datas": [1771, 1772],
+    "name": "地块_箭雨地面效果_小绿",
+    "desc": ""
+  },
+  {
+    "id": 541,
+    "m_perform_sequence_datas": [1773],
+    "name": "洛克人死亡测试",
+    "desc": ""
+  },
+  {
+    "id": 542,
+    "m_perform_sequence_datas": [1775, 1776, 1779],
+    "name": "演出序列_倒吊人双子哥哥瞬移",
+    "desc": ""
+  },
+  {
+    "id": 543,
+    "m_perform_sequence_datas": [1780, 1781, 1783],
+    "name": "扫描_双子哥哥",
+    "desc": ""
+  },
+  {
+    "id": 544,
+    "m_perform_sequence_datas": [1782],
+    "name": "地块_扫描受击",
+    "desc": "只能用在单体"
+  },
+  {
+    "id": 545,
+    "m_perform_sequence_datas": [1786],
+    "name": "三王女EX反馈",
+    "desc": ""
+  },
+  {
+    "id": 546,
+    "m_perform_sequence_datas": [1787],
+    "name": "三王女专属EX反馈",
+    "desc": ""
+  },
+  {
+    "id": 547,
+    "m_perform_sequence_datas": [1790],
+    "name": "地块_地面苦无反馈",
+    "desc": ""
+  },
+  {
+    "id": 548,
+    "m_perform_sequence_datas": [1791],
+    "name": "地块_通用地面氛围黑色扬尘",
+    "desc": ""
+  },
+  {
+    "id": 549,
+    "m_perform_sequence_datas": [1792],
+    "name": "地块_飞斩击_骑士团团长",
+    "desc": ""
+  },
+  {
+    "id": 550,
+    "m_perform_sequence_datas": [1793, 1795, 1798, 1799, 1801, 1802, 1803, 2395],
+    "name": "演出序列_倒吊人双子哥哥高跳瞬移",
+    "desc": "1600的那个cast很危险\n会被大约0.1秒后的自动idle取消\n如果特技变更或者特"
+  },
+  {
+    "id": 551,
+    "m_perform_sequence_datas": [1805],
+    "name": "地块_冰施法",
+    "desc": ""
+  },
+  {
+    "id": 552,
+    "m_perform_sequence_datas": [1806],
+    "name": "演出序列_通用中距离移轴特写_3000_延迟700",
+    "desc": "3000"
+  },
+  {
+    "id": 553,
+    "m_perform_sequence_datas": [1807],
+    "name": "地块_地突刺_骑士团团长",
+    "desc": ""
+  },
+  {
+    "id": 554,
+    "m_perform_sequence_datas": [1808],
+    "name": "地块_爆炸_骑士团团长",
+    "desc": ""
+  },
+  {
+    "id": 555,
+    "m_perform_sequence_datas": [1809],
+    "name": "演出序列_武器本魔术师召唤碎星石",
+    "desc": "演出序列_武器本魔术师召唤碎星石"
+  },
+  {
+    "id": 556,
+    "m_perform_sequence_datas": [1810, 1812, 1813, 1815, 1817, 1819, 1820, 1826, 1837, 2240],
+    "name": "演出序列_双子哥哥EX",
+    "desc": "敌人身上"
+  },
+  {
+    "id": 557,
+    "m_perform_sequence_datas": [1821],
+    "name": "（废弃）双子哥哥EX特殊受击演出",
+    "desc": "（废弃）双子哥哥EX受击演出"
+  },
+  {
+    "id": 558,
+    "m_perform_sequence_datas": [1822],
+    "name": "地块_ex_骑士团团长",
+    "desc": ""
+  },
+  {
+    "id": 559,
+    "m_perform_sequence_datas": [],
+    "name": "",
+    "desc": ""
+  },
+  {
+    "id": 560,
+    "m_perform_sequence_datas": [1824],
+    "name": "演出序列_双子哥哥EX受击",
+    "desc": "特殊受击"
+  },
+  {
+    "id": 561,
+    "m_perform_sequence_datas": [1825],
+    "name": "地块_ex_骑士团团长",
+    "desc": ""
+  },
+  {
+    "id": 562,
+    "m_perform_sequence_datas": [1829, 1830, 1831, 1832, 1833, 1834, 1857, 1858, 1859, 2238],
+    "name": "王国军将军EX",
+    "desc": "大招播片"
+  },
+  {
+    "id": 563,
+    "m_perform_sequence_datas": [1839, 1840, 1841, 1842],
+    "name": "二王子_EX奥义_玫瑰葬礼",
+    "desc": ""
+  },
+  {
+    "id": 564,
+    "m_perform_sequence_datas": [1847, 1848],
+    "name": "地块_塔罗boss智力_技能3_白",
+    "desc": ""
+  },
+  {
+    "id": 565,
+    "m_perform_sequence_datas": [1849],
+    "name": "地块_塔罗boss技巧_技能1白",
+    "desc": ""
+  },
+  {
+    "id": 566,
+    "m_perform_sequence_datas": [1850],
+    "name": "地块_塔罗boss技巧_技能2白",
+    "desc": ""
+  },
+  {
+    "id": 567,
+    "m_perform_sequence_datas": [1860],
+    "name": "王国军将军EX受击",
+    "desc": ""
+  },
+  {
+    "id": 568,
+    "m_perform_sequence_datas": [1864, 1865],
+    "name": "塔罗boss星星_die",
+    "desc": ""
+  },
+  {
+    "id": 569,
+    "m_perform_sequence_datas": [1866],
+    "name": "地块_地突刺橙红_火焰",
+    "desc": ""
+  },
+  {
+    "id": 570,
+    "m_perform_sequence_datas": [1867, 1868],
+    "name": "地块_意志迸发_战车本能",
+    "desc": ""
+  },
+  {
+    "id": 571,
+    "m_perform_sequence_datas": [1870, 1871, 1872, 1874],
+    "name": "地块_技能1_塔罗战车本体",
+    "desc": ""
+  },
+  {
+    "id": 572,
+    "m_perform_sequence_datas": [1876],
+    "name": "地块_技能2_战车本体",
+    "desc": ""
+  },
+  {
+    "id": 573,
+    "m_perform_sequence_datas": [1878],
+    "name": "地块_拉维耶",
+    "desc": ""
+  },
+  {
+    "id": 574,
+    "m_perform_sequence_datas": [1879, 1880],
+    "name": "淡出淡入_塔罗战车",
+    "desc": ""
+  },
+  {
+    "id": 575,
+    "m_perform_sequence_datas": [1881, 1882],
+    "name": "淡出淡入_塔罗战车",
+    "desc": ""
+  },
+  {
+    "id": 576,
+    "m_perform_sequence_datas": [1883, 1884],
+    "name": "淡出淡入_塔罗战车",
+    "desc": ""
+  },
+  {
+    "id": 577,
+    "m_perform_sequence_datas": [1885],
+    "name": "（废弃）审判者萨曼莎浮游炮连击_杖回收",
+    "desc": ""
+  },
+  {
+    "id": 578,
+    "m_perform_sequence_datas": [1886, 1887, 1888, 1889],
+    "name": "演出序列_通用换位",
+    "desc": "索菲亚召唤物弩刺专属\n换位里迷之0.5秒卡顿"
+  },
+  {
+    "id": 579,
+    "m_perform_sequence_datas": [1890],
+    "name": "地块_预打击准星",
+    "desc": ""
+  },
+  {
+    "id": 580,
+    "m_perform_sequence_datas": [1892],
+    "name": "地块_索菲亚追加伤害",
+    "desc": ""
+  },
+  {
+    "id": 581,
+    "m_perform_sequence_datas": [1894],
+    "name": "地块_骑士团法师",
+    "desc": ""
+  },
+  {
+    "id": 582,
+    "m_perform_sequence_datas": [1908],
+    "name": "地块_倒吊人指挥官EX命中",
+    "desc": ""
+  },
+  {
+    "id": 583,
+    "m_perform_sequence_datas": [1901, 1902, 1903, 1904, 1907, 1909, 1910],
+    "name": "演出序列_倒吊人指挥官EX召唤",
+    "desc": ""
+  },
+  {
+    "id": 584,
+    "m_perform_sequence_datas": [1905],
+    "name": "地块_普工尖刺_法皇之手",
+    "desc": ""
+  },
+  {
+    "id": 585,
+    "m_perform_sequence_datas": [1911],
+    "name": "地块_审判地裂_法皇之手",
+    "desc": ""
+  },
+  {
+    "id": 588,
+    "m_perform_sequence_datas": [1915, 1916, 1917, 1918, 1919, 1920, 1923, 1924],
+    "name": "（废弃）演出序列_倒吊人指挥官EX召唤2",
+    "desc": "（废弃）代替四杰版"
+  },
+  {
+    "id": 589,
+    "m_perform_sequence_datas": [1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932],
+    "name": "演出序列_倒吊人指挥官EX召唤2",
+    "desc": "倒吊人家族版"
+  },
+  {
+    "id": 590,
+    "m_perform_sequence_datas": [1933, 1934],
+    "name": "演出序列_变暗_保留深度",
+    "desc": ""
+  },
+  {
+    "id": 591,
+    "m_perform_sequence_datas": [1936],
+    "name": "地块_召唤攻击_法皇之手",
+    "desc": ""
+  },
+  {
+    "id": 592,
+    "m_perform_sequence_datas": [1937],
+    "name": "（废弃）",
+    "desc": ""
+  },
+  {
+    "id": 593,
+    "m_perform_sequence_datas": [1938, 1939, 1942],
+    "name": "地块_意志迸发2_战车本能",
+    "desc": ""
+  },
+  {
+    "id": 595,
+    "m_perform_sequence_datas": [1946, 1947],
+    "name": "(废弃)地块_激光洗地",
+    "desc": ""
+  },
+  {
+    "id": 596,
+    "m_perform_sequence_datas": [1951, 1952, 1953, 1954, 1955, 1958, 1982, 1983, 1984, 1985, 1988, 1992, 1993, 1994, 1995, 1996, 1999, 2000, 2004, 2005],
+    "name": "演出序列_萨曼莎审判者蓄力EX_启动攻击",
+    "desc": "包含杖返回，再返回待机。动作演出会延长技能的时间，权重高于动画中的结束时间"
+  },
+  {
+    "id": 597,
+    "m_perform_sequence_datas": [1990, 1997, 1998],
+    "name": "地块_萨曼莎审判者蓄力AOE攻击",
+    "desc": ""
+  },
+  {
+    "id": 598,
+    "m_perform_sequence_datas": [1973],
+    "name": "演出序列_审判者萨曼莎光线扫射",
+    "desc": ""
+  },
+  {
+    "id": 599,
+    "m_perform_sequence_datas": [1967],
+    "name": "地块_光属beam地面焦痕",
+    "desc": "只有焦痕"
+  },
+  {
+    "id": 600,
+    "m_perform_sequence_datas": [1975],
+    "name": "地块_施法命中_邦国王子",
+    "desc": ""
+  },
+  {
+    "id": 601,
+    "m_perform_sequence_datas": [1976],
+    "name": "地块_召唤2_邦国王子",
+    "desc": ""
+  },
+  {
+    "id": 602,
+    "m_perform_sequence_datas": [1977],
+    "name": "地块_多段_邦国王子",
+    "desc": ""
+  },
+  {
+    "id": 603,
+    "m_perform_sequence_datas": [1978],
+    "name": "地块_方向_邦国王子",
+    "desc": ""
+  },
+  {
+    "id": 604,
+    "m_perform_sequence_datas": [1989],
+    "name": "特殊受击_EX萨曼莎审判者蓄力AOE",
+    "desc": ""
+  },
+  {
+    "id": 605,
+    "m_perform_sequence_datas": [2009, 2010, 2011, 2016, 2018, 2020, 2021, 2116, 2118, 2137],
+    "name": "演出序列_舞团舞娘EX",
+    "desc": "技能总长度大约4800秒"
+  },
+  {
+    "id": 606,
+    "m_perform_sequence_datas": [2022, 2023],
+    "name": "摄像机特效测试",
+    "desc": ""
+  },
+  {
+    "id": 608,
+    "m_perform_sequence_datas": [2025, 2028, 2029, 2030, 2032, 2034, 2035, 2036],
+    "name": "演出序列_双子哥哥换位",
+    "desc": "1600的那个cast很危险\n会被大约0.1秒后的自动idle取消\n如果特技变更或者特"
+  },
+  {
+    "id": 609,
+    "m_perform_sequence_datas": [2041],
+    "name": "地块_神圣增益",
+    "desc": ""
+  },
+  {
+    "id": 610,
+    "m_perform_sequence_datas": [2043, 2044, 2045],
+    "name": "大王子重击辅助",
+    "desc": "大王子重击辅助"
+  },
+  {
+    "id": 611,
+    "m_perform_sequence_datas": [2047],
+    "name": "演出序列_喷火器死亡动画",
+    "desc": ""
+  },
+  {
+    "id": 612,
+    "m_perform_sequence_datas": [2050],
+    "name": "苏莱曼商人_击飞",
+    "desc": ""
+  },
+  {
+    "id": 615,
+    "m_perform_sequence_datas": [2057],
+    "name": "特殊受击_弹飞",
+    "desc": ""
+  },
+  {
+    "id": 617,
+    "m_perform_sequence_datas": [2060],
+    "name": "地块_苏莱曼商人_黑暗冲击",
+    "desc": ""
+  },
+  {
+    "id": 619,
+    "m_perform_sequence_datas": [2064],
+    "name": "演出序列_EX衔接用障眼法",
+    "desc": ""
+  },
+  {
+    "id": 620,
+    "m_perform_sequence_datas": [2066, 2067],
+    "name": "演出序列_舞团舞娘移动残像",
+    "desc": ""
+  },
+  {
+    "id": 621,
+    "m_perform_sequence_datas": [2068, 2069],
+    "name": "淡出淡入_混血少女EX",
+    "desc": ""
+  },
+  {
+    "id": 622,
+    "m_perform_sequence_datas": [2072, 2073],
+    "name": "舞团舞娘冲锋AOE收尾动作",
+    "desc": "从第三个动画改到第二个动画（因为是后续释放技能）\n时间统一加了250（正好是第二个技能/动画的持续时间）"
+  },
+  {
+    "id": 623,
+    "m_perform_sequence_datas": [2074, 2075],
+    "name": "地块_苏莱曼商人_闪现",
+    "desc": ""
+  },
+  {
+    "id": 624,
+    "m_perform_sequence_datas": [2076],
+    "name": "舞团舞娘连击终点结束动作",
+    "desc": "回idle在动画里，只有填在动画里才能被后面的动画取消，idle配在这个演出里则技能时间必须小于整个技能时长"
+  },
+  {
+    "id": 626,
+    "m_perform_sequence_datas": [2079, 2080],
+    "name": "演出序列_双重打击感_延450",
+    "desc": ""
+  },
+  {
+    "id": 627,
+    "m_perform_sequence_datas": [2082, 2083, 2084],
+    "name": "演出序列_三重打击感_延800",
+    "desc": ""
+  },
+  {
+    "id": 628,
+    "m_perform_sequence_datas": [2086, 2087, 2088, 2089],
+    "name": "演出序列_摄像机自动归位",
+    "desc": ""
+  },
+  {
+    "id": 629,
+    "m_perform_sequence_datas": [],
+    "name": "（废弃）新建测试",
+    "desc": ""
+  },
+  {
+    "id": 630,
+    "m_perform_sequence_datas": [],
+    "name": "（废弃）新建测试",
+    "desc": ""
+  },
+  {
+    "id": 631,
+    "m_perform_sequence_datas": [2090],
+    "name": "地块_苏莱曼商人_宝箱",
+    "desc": "粒子太多了，不能用于地块"
+  },
+  {
+    "id": 633,
+    "m_perform_sequence_datas": [2095],
+    "name": "(废弃)团舞娘基础近战结束动作",
+    "desc": ""
+  },
+  {
+    "id": 634,
+    "m_perform_sequence_datas": [2096, 2097],
+    "name": "（废弃）舞团舞娘基础近战收尾动作",
+    "desc": ""
+  },
+  {
+    "id": 635,
+    "m_perform_sequence_datas": [2100],
+    "name": "环境光_骑士团法师",
+    "desc": ""
+  },
+  {
+    "id": 636,
+    "m_perform_sequence_datas": [2104],
+    "name": "地块_混血少女普攻",
+    "desc": ""
+  },
+  {
+    "id": 637,
+    "m_perform_sequence_datas": [2105],
+    "name": "演出序列_持续打击感",
+    "desc": ""
+  },
+  {
+    "id": 638,
+    "m_perform_sequence_datas": [2107, 2108, 2109, 2110, 2111, 2112, 2113, 2114, 2115],
+    "name": "（旧）演出序列_舞团舞娘EX",
+    "desc": "旧版备份\n技能总长度大约4800秒"
+  },
+  {
+    "id": 640,
+    "m_perform_sequence_datas": [2124],
+    "name": "战术指令_施法黄",
+    "desc": ""
+  },
+  {
+    "id": 641,
+    "m_perform_sequence_datas": [2125],
+    "name": "地块_战术指令_火焰雨爆炸",
+    "desc": ""
+  },
+  {
+    "id": 642,
+    "m_perform_sequence_datas": [2126],
+    "name": "地块_英雄无敌_战术技能2",
+    "desc": "有灯！\n只有单体技能可以使用！！！"
+  },
+  {
+    "id": 643,
+    "m_perform_sequence_datas": [2130],
+    "name": "演出序列_持续震动1000",
+    "desc": ""
+  },
+  {
+    "id": 644,
+    "m_perform_sequence_datas": [2135],
+    "name": "地块_鹦鹉人_蓝鸟出击",
+    "desc": ""
+  },
+  {
+    "id": 645,
+    "m_perform_sequence_datas": [2136],
+    "name": "地块_鹦鹉人_召唤飞镖",
+    "desc": ""
+  },
+  {
+    "id": 646,
+    "m_perform_sequence_datas": [2144, 2145, 2146, 2167, 2168],
+    "name": "演出序列_持续震动_鹦鹉人",
+    "desc": ""
+  },
+  {
+    "id": 647,
+    "m_perform_sequence_datas": [2151, 2170, 2183, 2189],
+    "name": "鹦鹉人EX_红鸟部分",
+    "desc": "鹦鹉人红鸟技能不能通过在演出立配置{\"facing_type\":\"target\"}来定位到宿主位置（会飞到原点），所有摄像机配在动画里\n\n起跳特效和淡入淡出的主体是红鸟宿主，不是鹦鹉人"
+  },
+  {
+    "id": 648,
+    "m_perform_sequence_datas": [2157, 2158, 2159, 2160, 2161, 2188, 2190],
+    "name": "鹦鹉人EX测试_鹦鹉人淡出淡入",
+    "desc": ""
+  },
+  {
+    "id": 649,
+    "m_perform_sequence_datas": [2162],
+    "name": "地块_鹦鹉人_绿鸟俯冲",
+    "desc": ""
+  },
+  {
+    "id": 650,
+    "m_perform_sequence_datas": [2163],
+    "name": "地块_鹦鹉人_红鸟俯冲",
+    "desc": ""
+  },
+  {
+    "id": 651,
+    "m_perform_sequence_datas": [2164],
+    "name": "地块_鹦鹉人_红鸟附身",
+    "desc": ""
+  },
+  {
+    "id": 653,
+    "m_perform_sequence_datas": [2169],
+    "name": "地块_假buff_红色粒子扩散",
+    "desc": ""
+  },
+  {
+    "id": 655,
+    "m_perform_sequence_datas": [2191, 2192],
+    "name": "淡出淡入_盲女",
+    "desc": ""
+  },
+  {
+    "id": 656,
+    "m_perform_sequence_datas": [2193, 2194],
+    "name": "演出序列_通用技能残像",
+    "desc": ""
+  },
+  {
+    "id": 657,
+    "m_perform_sequence_datas": [2195, 2196],
+    "name": "演出序列_红色技能残",
+    "desc": ""
+  },
+  {
+    "id": 658,
+    "m_perform_sequence_datas": [2202, 2203, 2204, 2205, 2211],
+    "name": "演出序列_大王子EX01",
+    "desc": "三连斩开场短暂变暗"
+  },
+  {
+    "id": 659,
+    "m_perform_sequence_datas": [2206, 2207, 2208, 2209],
+    "name": "演出序列_大王子EX02",
+    "desc": ""
+  },
+  {
+    "id": 660,
+    "m_perform_sequence_datas": [2213],
+    "name": "摄像机强制复位_盲女ex",
+    "desc": ""
+  },
+  {
+    "id": 661,
+    "m_perform_sequence_datas": [2217, 2218, 2601],
+    "name": "演出序列_通用主动闪现",
+    "desc": ""
+  },
+  {
+    "id": 662,
+    "m_perform_sequence_datas": [2219, 2288],
+    "name": "女仆大招测试_显形",
+    "desc": ""
+  },
+  {
+    "id": 663,
+    "m_perform_sequence_datas": [2220],
+    "name": "地块_普攻_恋人boss_a",
+    "desc": ""
+  },
+  {
+    "id": 664,
+    "m_perform_sequence_datas": [2221],
+    "name": "地块_普攻_恋人boss_b",
+    "desc": ""
+  },
+  {
+    "id": 665,
+    "m_perform_sequence_datas": [2222, 2223],
+    "name": "演出序列_双重打击感_延300",
+    "desc": ""
+  },
+  {
+    "id": 666,
+    "m_perform_sequence_datas": [2224],
+    "name": "地块_猫爪图腾",
+    "desc": ""
+  },
+  {
+    "id": 668,
+    "m_perform_sequence_datas": [2227, 2228],
+    "name": "演出序列_变暗保留深度",
+    "desc": ""
+  },
+  {
+    "id": 669,
+    "m_perform_sequence_datas": [2233, 2282],
+    "name": "演出序列_黑猫召唤兽",
+    "desc": ""
+  },
+  {
+    "id": 670,
+    "m_perform_sequence_datas": [2243, 2244, 2245, 2246],
+    "name": "演出序列_失乐园\u001f_塔罗boss恋人a",
+    "desc": ""
+  },
+  {
+    "id": 671,
+    "m_perform_sequence_datas": [2247, 2248, 2249, 2250],
+    "name": "演出序列_失乐园_塔罗boss恋人b",
+    "desc": ""
+  },
+  {
+    "id": 672,
+    "m_perform_sequence_datas": [2251],
+    "name": "大型活动_驱散寒冷",
+    "desc": ""
+  },
+  {
+    "id": 673,
+    "m_perform_sequence_datas": [2253, 2254, 2255],
+    "name": "地块_圣罚_雷紫",
+    "desc": ""
+  },
+  {
+    "id": 674,
+    "m_perform_sequence_datas": [2256],
+    "name": "地块_暴风雪范围提示",
+    "desc": ""
+  },
+  {
+    "id": 675,
+    "m_perform_sequence_datas": [2258, 2259],
+    "name": "演出序列_普攻_塔罗boss恋人",
+    "desc": ""
+  },
+  {
+    "id": 678,
+    "m_perform_sequence_datas": [2265, 2266],
+    "name": "演出序列_普攻十字_塔罗boss恋人",
+    "desc": ""
+  },
+  {
+    "id": 679,
+    "m_perform_sequence_datas": [2267, 2268],
+    "name": "演出序列_眷恋_塔罗boss恋人 ",
+    "desc": ""
+  },
+  {
+    "id": 680,
+    "m_perform_sequence_datas": [2269, 2270],
+    "name": "演出序列_标记_2塔罗boss恋人",
+    "desc": ""
+  },
+  {
+    "id": 681,
+    "m_perform_sequence_datas": [2271, 2272],
+    "name": "演出序列_吹风_塔罗boss恋人",
+    "desc": ""
+  },
+  {
+    "id": 682,
+    "m_perform_sequence_datas": [2273],
+    "name": "（废弃）敌人身上特效测试",
+    "desc": ""
+  },
+  {
+    "id": 683,
+    "m_perform_sequence_datas": [2276, 2277, 2280, 2281],
+    "name": "演出序列_600_塔罗boss恋人",
+    "desc": ""
+  },
+  {
+    "id": 684,
+    "m_perform_sequence_datas": [2283],
+    "name": "地块_强力雷劈圣罚_攻击",
+    "desc": ""
+  },
+  {
+    "id": 686,
+    "m_perform_sequence_datas": [2286],
+    "name": "地块_突刺剑气_学姐",
+    "desc": ""
+  },
+  {
+    "id": 690,
+    "m_perform_sequence_datas": [2296, 2299],
+    "name": "变暗_保留深度_邦国王子",
+    "desc": ""
+  },
+  {
+    "id": 691,
+    "m_perform_sequence_datas": [2300, 2301],
+    "name": "淡出淡入_sp索菲亚",
+    "desc": ""
+  },
+  {
+    "id": 692,
+    "m_perform_sequence_datas": [2302],
+    "name": "SP拉维耶强制回待机",
+    "desc": "测试用数据\n默认延迟时间3900"
+  },
+  {
+    "id": 693,
+    "m_perform_sequence_datas": [2306, 2309],
+    "name": "SP拉维耶attack3挥击",
+    "desc": "是（特殊命中）！！！\n子弹时间+小浮空\n"
+  },
+  {
+    "id": 694,
+    "m_perform_sequence_datas": [2312],
+    "name": "受击演出_SP拉维耶_半月斩",
+    "desc": "是一个[特殊受击]！！！\n子弹时间\n如果加如白屏特效这个特效会根据受击人数播放多次"
+  },
+  {
+    "id": 695,
+    "m_perform_sequence_datas": [2314, 2315, 2651],
+    "name": "演出序列_SP拉维耶半月斩",
+    "desc": "原本有“演出_通用中距离移轴特写_3000长度”\n但改成了高频追击技能，所以没有了"
+  },
+  {
+    "id": 696,
+    "m_perform_sequence_datas": [2329, 2330, 2332],
+    "name": "地块_buff_学姐",
+    "desc": ""
+  },
+  {
+    "id": 697,
+    "m_perform_sequence_datas": [2318],
+    "name": "特殊受击_01_小击退_持续时间700",
+    "desc": ""
+  },
+  {
+    "id": 698,
+    "m_perform_sequence_datas": [2322, 2323, 2324, 2325, 2326, 2327, 2328],
+    "name": "集合_学姐",
+    "desc": "1600的那个cast很危险\n会被大约0.1秒后的自动idle取消\n如果特技变更或者特"
+  },
+  {
+    "id": 699,
+    "m_perform_sequence_datas": [2335, 2336, 2338],
+    "name": "演出序列_持续打击感2",
+    "desc": ""
+  },
+  {
+    "id": 700,
+    "m_perform_sequence_datas": [2351, 2352, 2353],
+    "name": "SP拉维耶EX_02_小剧场",
+    "desc": ""
+  },
+  {
+    "id": 701,
+    "m_perform_sequence_datas": [2343, 2344, 2569, 2591, 2592],
+    "name": "演出序列_学姐_ex",
+    "desc": ""
+  },
+  {
+    "id": 703,
+    "m_perform_sequence_datas": [2350],
+    "name": "地块_爆点_学姐",
+    "desc": ""
+  },
+  {
+    "id": 704,
+    "m_perform_sequence_datas": [2366, 2625, 2679],
+    "name": "SP拉维耶大招01_前置",
+    "desc": "移轴放一小半"
+  },
+  {
+    "id": 705,
+    "m_perform_sequence_datas": [2361, 2362, 2363, 2364, 2365],
+    "name": "（废弃）SP拉维耶EX_02_小剧场_强制2段",
+    "desc": ""
+  },
+  {
+    "id": 707,
+    "m_perform_sequence_datas": [2374],
+    "name": "演出序列_特殊受击测试_07_小击退_滑行归位_持续时间600",
+    "desc": "时间应该是600"
+  },
+  {
+    "id": 708,
+    "m_perform_sequence_datas": [2403, 2404],
+    "name": "特写2",
+    "desc": ""
+  },
+  {
+    "id": 709,
+    "m_perform_sequence_datas": [2380, 2381, 2382, 2383, 2386],
+    "name": "鹰之剑_骑士团精英剑士",
+    "desc": ""
+  },
+  {
+    "id": 710,
+    "m_perform_sequence_datas": [2385],
+    "name": "演出序列_hit慢放_200",
+    "desc": ""
+  },
+  {
+    "id": 711,
+    "m_perform_sequence_datas": [2389, 2390, 2602],
+    "name": "高跳瞬移",
+    "desc": ""
+  },
+  {
+    "id": 712,
+    "m_perform_sequence_datas": [2398],
+    "name": "地块_索菲亚光柱01",
+    "desc": ""
+  },
+  {
+    "id": 713,
+    "m_perform_sequence_datas": [2399],
+    "name": "地块_被buff反馈_红色01",
+    "desc": ""
+  },
+  {
+    "id": 714,
+    "m_perform_sequence_datas": [2400, 2401],
+    "name": "地块_2次出现消失烟雾_间隔750",
+    "desc": ""
+  },
+  {
+    "id": 715,
+    "m_perform_sequence_datas": [2402],
+    "name": "地块_sp索菲亚转移",
+    "desc": ""
+  },
+  {
+    "id": 716,
+    "m_perform_sequence_datas": [2405, 2406, 2407],
+    "name": "学姐子弹时间测试",
+    "desc": "配了一个小浮空后攻击的人节奏就不对了"
+  },
+  {
+    "id": 717,
+    "m_perform_sequence_datas": [2409, 2410],
+    "name": "（废弃）SP拉维耶1秒浮空_前置版",
+    "desc": ""
+  },
+  {
+    "id": 718,
+    "m_perform_sequence_datas": [2420, 2421, 2422, 2424, 2427, 2440],
+    "name": "（废弃）SP拉维耶EX_01_有画中画",
+    "desc": ""
+  },
+  {
+    "id": 719,
+    "m_perform_sequence_datas": [2432, 2433, 2434, 2436, 2437, 2438, 2439],
+    "name": "（废弃）SP拉维耶EX_02_有画中画",
+    "desc": ""
+  },
+  {
+    "id": 720,
+    "m_perform_sequence_datas": [2442, 2443],
+    "name": "演出序列_女仆移动残像",
+    "desc": ""
+  },
+  {
+    "id": 721,
+    "m_perform_sequence_datas": [2446, 2447, 2448, 2449],
+    "name": "地块_烟花地块",
+    "desc": ""
+  },
+  {
+    "id": 722,
+    "m_perform_sequence_datas": [2450, 2451, 2452, 2453, 2454, 2455, 2456, 2461],
+    "name": "（废弃）SP拉维耶EX_03_先长刀",
+    "desc": ""
+  },
+  {
+    "id": 723,
+    "m_perform_sequence_datas": [2457, 2458],
+    "name": "（废弃）04_SP拉维耶1秒浮空_出小剧场后置版",
+    "desc": ""
+  },
+  {
+    "id": 724,
+    "m_perform_sequence_datas": [2465, 2466],
+    "name": "（废弃）SP拉维耶EX_02_变暗",
+    "desc": ""
+  },
+  {
+    "id": 725,
+    "m_perform_sequence_datas": [2468, 2469],
+    "name": "演出序列_女仆主动瞬移",
+    "desc": ""
+  },
+  {
+    "id": 726,
+    "m_perform_sequence_datas": [2470],
+    "name": "地块_女仆爱",
+    "desc": ""
+  },
+  {
+    "id": 727,
+    "m_perform_sequence_datas": [2471],
+    "name": "地块_女仆恨01",
+    "desc": ""
+  },
+  {
+    "id": 728,
+    "m_perform_sequence_datas": [2476, 2477, 2479, 3004],
+    "name": "演出序列_变暗2_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 729,
+    "m_perform_sequence_datas": [2474, 2475, 2518],
+    "name": "演出序列_黑帮女_透明2",
+    "desc": ""
+  },
+  {
+    "id": 730,
+    "m_perform_sequence_datas": [2483, 2487, 2488, 2582, 2583],
+    "name": "演出序列_相机归位_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 731,
+    "m_perform_sequence_datas": [2484, 2485, 2486],
+    "name": "（废弃）SP拉维耶大招前劈砍子弹时间测试",
+    "desc": "SP拉维耶劈砍子弹时间测试"
+  },
+  {
+    "id": 732,
+    "m_perform_sequence_datas": [2490, 2491, 2506],
+    "name": "（废弃）EX_01_04",
+    "desc": ""
+  },
+  {
+    "id": 733,
+    "m_perform_sequence_datas": [2497, 2498, 2499, 2500, 2509, 2510],
+    "name": "（废弃）EX_03_04",
+    "desc": ""
+  },
+  {
+    "id": 734,
+    "m_perform_sequence_datas": [2507],
+    "name": "地块_爆点_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 736,
+    "m_perform_sequence_datas": [2513, 2534, 2535],
+    "name": "演出序列_ex相机归位_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 737,
+    "m_perform_sequence_datas": [2519],
+    "name": "演出序列_黑帮女_击飞",
+    "desc": ""
+  },
+  {
+    "id": 738,
+    "m_perform_sequence_datas": [2520, 2522],
+    "name": "演出序列_hit慢放_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 739,
+    "m_perform_sequence_datas": [2523, 2524, 2525, 2526, 2527, 2528],
+    "name": "（废弃）EX_03_05",
+    "desc": "缩短版"
+  },
+  {
+    "id": 740,
+    "m_perform_sequence_datas": [2529, 2530],
+    "name": "（废弃）05_SP拉维耶1秒浮空",
+    "desc": ""
+  },
+  {
+    "id": 741,
+    "m_perform_sequence_datas": [2531, 2532],
+    "name": "（废弃）EX_01_05",
+    "desc": ""
+  },
+  {
+    "id": 742,
+    "m_perform_sequence_datas": [2536],
+    "name": "动作anime4_女仆杀手",
+    "desc": ""
+  },
+  {
+    "id": 743,
+    "m_perform_sequence_datas": [2538, 2541],
+    "name": "潜入淡出淡入_女仆杀手",
+    "desc": ""
+  },
+  {
+    "id": 744,
+    "m_perform_sequence_datas": [2540],
+    "name": "地块_女仆潜入命中",
+    "desc": ""
+  },
+  {
+    "id": 745,
+    "m_perform_sequence_datas": [],
+    "name": "统统闪开_战术技能",
+    "desc": "只能释在一个单位身上"
+  },
+  {
+    "id": 746,
+    "m_perform_sequence_datas": [2550, 2551, 2552, 2553],
+    "name": "演出序列_伊甸园_塔罗boss恋人",
+    "desc": ""
+  },
+  {
+    "id": 747,
+    "m_perform_sequence_datas": [2554, 2555],
+    "name": "演出序列_女仆周身瞬移",
+    "desc": ""
+  },
+  {
+    "id": 748,
+    "m_perform_sequence_datas": [2556],
+    "name": "地块_女仆喝药",
+    "desc": ""
+  },
+  {
+    "id": 749,
+    "m_perform_sequence_datas": [2557, 2558],
+    "name": "淡出淡入_女仆周身",
+    "desc": ""
+  },
+  {
+    "id": 750,
+    "m_perform_sequence_datas": [2563, 2570],
+    "name": "藤球烟花爆炸",
+    "desc": "活动演出用"
+  },
+  {
+    "id": 751,
+    "m_perform_sequence_datas": [2564, 2565],
+    "name": "演出序列_UI关闭女仆EX",
+    "desc": "关闭UI测试"
+  },
+  {
+    "id": 752,
+    "m_perform_sequence_datas": [2566, 2567],
+    "name": "演出序列_舞团舞娘交换位置",
+    "desc": ""
+  },
+  {
+    "id": 753,
+    "m_perform_sequence_datas": [2568],
+    "name": "演出序列_特殊受击女仆EX",
+    "desc": ""
+  },
+  {
+    "id": 754,
+    "m_perform_sequence_datas": [2572],
+    "name": "演出序列_物品出生_白烟",
+    "desc": ""
+  },
+  {
+    "id": 755,
+    "m_perform_sequence_datas": [2573, 2574],
+    "name": "EX淡出淡入_女仆杀手",
+    "desc": ""
+  },
+  {
+    "id": 756,
+    "m_perform_sequence_datas": [2575],
+    "name": "地块_女仆恨",
+    "desc": ""
+  },
+  {
+    "id": 757,
+    "m_perform_sequence_datas": [2576, 2577, 2579],
+    "name": "演出序列_相机归位_奥古斯特",
+    "desc": ""
+  },
+  {
+    "id": 758,
+    "m_perform_sequence_datas": [2580, 2581],
+    "name": "演出序列_UI关闭女仆喝药",
+    "desc": "关闭UI测试"
+  },
+  {
+    "id": 759,
+    "m_perform_sequence_datas": [2587],
+    "name": "特技演出用_TP上升",
+    "desc": "不通过buff的前提下给特技中的演出序列栏用"
+  },
+  {
+    "id": 760,
+    "m_perform_sequence_datas": [2589],
+    "name": "地块_爆金币",
+    "desc": ""
+  },
+  {
+    "id": 761,
+    "m_perform_sequence_datas": [2593, 2594],
+    "name": "黑屏拼刀黑幕_中等长度",
+    "desc": "2050长度"
+  },
+  {
+    "id": 762,
+    "m_perform_sequence_datas": [2595, 2596, 2597, 2598],
+    "name": "演出序列_连线青蛙_4方向",
+    "desc": ""
+  },
+  {
+    "id": 763,
+    "m_perform_sequence_datas": [2603],
+    "name": "地块_绿鸟出击_大活三",
+    "desc": ""
+  },
+  {
+    "id": 764,
+    "m_perform_sequence_datas": [2604, 2605, 2606, 2607, 2608],
+    "name": "地块传送_男主角_大活三",
+    "desc": ""
+  },
+  {
+    "id": 765,
+    "m_perform_sequence_datas": [2609, 2610],
+    "name": "塔罗战车_die",
+    "desc": ""
+  },
+  {
+    "id": 766,
+    "m_perform_sequence_datas": [2611, 2612],
+    "name": "塔罗恋人_die",
+    "desc": ""
+  },
+  {
+    "id": 767,
+    "m_perform_sequence_datas": [2613, 2615, 2616],
+    "name": "演出序列_黑帮女瞬移",
+    "desc": ""
+  },
+  {
+    "id": 768,
+    "m_perform_sequence_datas": [2617],
+    "name": "超能力地块效果_提前500",
+    "desc": ""
+  },
+  {
+    "id": 769,
+    "m_perform_sequence_datas": [2618],
+    "name": "演出序列_黑帮女_引爆震荡",
+    "desc": ""
+  },
+  {
+    "id": 770,
+    "m_perform_sequence_datas": [2619, 2620, 2621, 2622, 2623, 2624],
+    "name": "SP拉维耶大招01_画中画加第一刀",
+    "desc": ""
+  },
+  {
+    "id": 771,
+    "m_perform_sequence_datas": [2639, 2666, 2667],
+    "name": "SP拉维耶大招03_小剧场加收尾",
+    "desc": ""
+  },
+  {
+    "id": 772,
+    "m_perform_sequence_datas": [],
+    "name": "SP拉维耶大招02_第二刀",
+    "desc": ""
+  },
+  {
+    "id": 773,
+    "m_perform_sequence_datas": [2634, 2635],
+    "name": "SP拉维耶大招_1秒浮空",
+    "desc": ""
+  },
+  {
+    "id": 774,
+    "m_perform_sequence_datas": [2637],
+    "name": "摄像机强制复位_骑士团法师EX",
+    "desc": ""
+  },
+  {
+    "id": 775,
+    "m_perform_sequence_datas": [2640],
+    "name": "环境光_女仆EX",
+    "desc": ""
+  },
+  {
+    "id": 776,
+    "m_perform_sequence_datas": [2642],
+    "name": "关闭环境光_三王女ex",
+    "desc": ""
+  },
+  {
+    "id": 777,
+    "m_perform_sequence_datas": [2643],
+    "name": "地块_塔罗星星_支援buff _大活三",
+    "desc": ""
+  },
+  {
+    "id": 778,
+    "m_perform_sequence_datas": [2644, 2645],
+    "name": "地块_塔罗星星_攻击_大活三",
+    "desc": ""
+  },
+  {
+    "id": 779,
+    "m_perform_sequence_datas": [2646, 2647],
+    "name": "地块_塔罗星星_普攻_大活三",
+    "desc": ""
+  },
+  {
+    "id": 780,
+    "m_perform_sequence_datas": [2649],
+    "name": "地块_女仆EXhit",
+    "desc": ""
+  },
+  {
+    "id": 781,
+    "m_perform_sequence_datas": [2652, 2654, 2656, 2660],
+    "name": "（废弃）爱莎消失测试",
+    "desc": ""
+  },
+  {
+    "id": 782,
+    "m_perform_sequence_datas": [2658, 2659],
+    "name": "淡出淡入_女将军EX",
+    "desc": ""
+  },
+  {
+    "id": 783,
+    "m_perform_sequence_datas": [2668, 2669],
+    "name": "演出序列_UI关闭女将军EX",
+    "desc": "关闭UI测试"
+  },
+  {
+    "id": 784,
+    "m_perform_sequence_datas": [2677],
+    "name": "摄像机强制复位_银狼EX",
+    "desc": ""
+  },
+  {
+    "id": 785,
+    "m_perform_sequence_datas": [2680, 2681, 2682, 2683, 2684, 2685],
+    "name": "演出序列_持续打击感3",
+    "desc": ""
+  },
+  {
+    "id": 786,
+    "m_perform_sequence_datas": [2686],
+    "name": "摄像机强制复位_女将军ex",
+    "desc": ""
+  },
+  {
+    "id": 787,
+    "m_perform_sequence_datas": [2687, 2688],
+    "name": "SP拉维耶重击闪屏",
+    "desc": ""
+  },
+  {
+    "id": 788,
+    "m_perform_sequence_datas": [2691],
+    "name": "大火球_die",
+    "desc": ""
+  },
+  {
+    "id": 789,
+    "m_perform_sequence_datas": [2692, 2693, 2694],
+    "name": "测试_演出序列_麦莎连击01_黑白",
+    "desc": ""
+  },
+  {
+    "id": 790,
+    "m_perform_sequence_datas": [2695],
+    "name": "（废弃）地块_绳网捕获装置",
+    "desc": ""
+  },
+  {
+    "id": 791,
+    "m_perform_sequence_datas": [],
+    "name": "此处留空",
+    "desc": ""
+  },
+  {
+    "id": 792,
+    "m_perform_sequence_datas": [2704],
+    "name": "（废弃）演出序列_通用物品烟雾退场",
+    "desc": ""
+  },
+  {
+    "id": 793,
+    "m_perform_sequence_datas": [2705],
+    "name": "地块_AOE范围提示_框_弱_提前600",
+    "desc": ""
+  },
+  {
+    "id": 794,
+    "m_perform_sequence_datas": [2706],
+    "name": "地块_女将军_突击",
+    "desc": ""
+  },
+  {
+    "id": 795,
+    "m_perform_sequence_datas": [2707],
+    "name": "演出序列_通用物品死亡_弱烟雾",
+    "desc": ""
+  },
+  {
+    "id": 796,
+    "m_perform_sequence_datas": [2709, 2710],
+    "name": "地块_天降蛛网",
+    "desc": ""
+  },
+  {
+    "id": 797,
+    "m_perform_sequence_datas": [2711],
+    "name": "地块_测试_多人变黑",
+    "desc": ""
+  },
+  {
+    "id": 798,
+    "m_perform_sequence_datas": [2712],
+    "name": "地块_召唤下落石块_可爱",
+    "desc": ""
+  },
+  {
+    "id": 799,
+    "m_perform_sequence_datas": [2715, 2716],
+    "name": "地块_春愿小魔女能量柱",
+    "desc": ""
+  },
+  {
+    "id": 800,
+    "m_perform_sequence_datas": [2717],
+    "name": "EX小魔女乱丢攻击_春愿_4方向",
+    "desc": "相比原版缩短了持续时间"
+  },
+  {
+    "id": 801,
+    "m_perform_sequence_datas": [2718, 2719, 2720, 2721, 2722],
+    "name": "小魔女EX背景_春愿",
+    "desc": "小魔女皮肤01用\n适用中距离小剧场"
+  },
+  {
+    "id": 802,
+    "m_perform_sequence_datas": [2723],
+    "name": "地块_柯瓦雷召唤",
+    "desc": ""
+  },
+  {
+    "id": 803,
+    "m_perform_sequence_datas": [2724],
+    "name": "摄像机强制复位_柯瓦雷ex",
+    "desc": ""
+  },
+  {
+    "id": 804,
+    "m_perform_sequence_datas": [2725, 2726, 2732, 2740, 2741],
+    "name": "演出序列_前传线变身_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 805,
+    "m_perform_sequence_datas": [2733, 2734],
+    "name": "演出序列_流星雨变暗_小魔女",
+    "desc": "为了解决本体和皮肤需要变暗和不需要变暗的矛盾\n长度固定"
+  },
+  {
+    "id": 806,
+    "m_perform_sequence_datas": [2737],
+    "name": "演出序列_自爆变色_自己_春愿",
+    "desc": "小魔女变色掩盖受伤（代替变黑）"
+  },
+  {
+    "id": 807,
+    "m_perform_sequence_datas": [2738],
+    "name": "演出序列_自爆变色_敌人_春愿",
+    "desc": "小魔女变色掩盖受伤（代替变黑）"
+  },
+  {
+    "id": 809,
+    "m_perform_sequence_datas": [2742, 2743],
+    "name": "地块_强力火柱_春愿",
+    "desc": ""
+  },
+  {
+    "id": 815,
+    "m_perform_sequence_datas": [2763],
+    "name": "（废弃）EX小魔女乱丢攻击_春愿_4方向",
+    "desc": "小魔女乱丢，假飞行道具，使用连线功能\n时间加长版"
+  },
+  {
+    "id": 824,
+    "m_perform_sequence_datas": [2793],
+    "name": "演出序列_小魔女春愿望_活动自爆变黑",
+    "desc": ""
+  },
+  {
+    "id": 825,
+    "m_perform_sequence_datas": [2798],
+    "name": "摄像机强制复位_爱莎ex",
+    "desc": ""
+  },
+  {
+    "id": 828,
+    "m_perform_sequence_datas": [2803],
+    "name": "地块_女将军_火花",
+    "desc": ""
+  },
+  {
+    "id": 829,
+    "m_perform_sequence_datas": [2810, 2811],
+    "name": "演出序列_小魔女春愿望_活动自爆氛围",
+    "desc": "辅助变黑\n配合动画6249“贝拉春愿大火-活动”"
+  },
+  {
+    "id": 831,
+    "m_perform_sequence_datas": [2816],
+    "name": "地块_女将军_驱散",
+    "desc": ""
+  },
+  {
+    "id": 832,
+    "m_perform_sequence_datas": [2817],
+    "name": "地块_先祖之力_红色",
+    "desc": "先祖之力不能推迟地块和受击否则地板消失时机会发生改变\n所以需要推迟地块内的演出"
+  },
+  {
+    "id": 833,
+    "m_perform_sequence_datas": [2818],
+    "name": "地块_落下苦药",
+    "desc": ""
+  },
+  {
+    "id": 836,
+    "m_perform_sequence_datas": [2825, 2826],
+    "name": "地块_天降泡沫",
+    "desc": ""
+  },
+  {
+    "id": 837,
+    "m_perform_sequence_datas": [2827],
+    "name": "工具演出序列_图形_绿三角_敌人身上_提前500",
+    "desc": ""
+  },
+  {
+    "id": 839,
+    "m_perform_sequence_datas": [2832],
+    "name": "演出序列_强制震动_大震地",
+    "desc": ""
+  },
+  {
+    "id": 840,
+    "m_perform_sequence_datas": [2836, 2837],
+    "name": "演出序列_变暗_爱莎誓约",
+    "desc": ""
+  },
+  {
+    "id": 841,
+    "m_perform_sequence_datas": [2841],
+    "name": "地块_简化火焰命中",
+    "desc": ""
+  },
+  {
+    "id": 842,
+    "m_perform_sequence_datas": [2842, 2843, 2844],
+    "name": "演出序列_爱莎主动瞬移",
+    "desc": ""
+  },
+  {
+    "id": 844,
+    "m_perform_sequence_datas": [2848],
+    "name": "地块_索降（测试版）",
+    "desc": ""
+  },
+  {
+    "id": 845,
+    "m_perform_sequence_datas": [2852, 2853],
+    "name": "演出序列_爱莎三连击移动残像",
+    "desc": ""
+  },
+  {
+    "id": 846,
+    "m_perform_sequence_datas": [2854],
+    "name": "演出序列_爱莎三连击慢放",
+    "desc": ""
+  },
+  {
+    "id": 847,
+    "m_perform_sequence_datas": [2856],
+    "name": "摄像机强制复位_爱莎誓约",
+    "desc": ""
+  },
+  {
+    "id": 848,
+    "m_perform_sequence_datas": [2861, 2862, 2863, 2864, 2865, 2866, 2867, 2868, 2869, 2870, 2871, 2872, 2873, 2874, 2877, 2878, 2879],
+    "name": "二王子后跳三连击测试_后退",
+    "desc": "向后滑动的开始时间是4400"
+  },
+  {
+    "id": 849,
+    "m_perform_sequence_datas": [2881, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2890, 2891, 2892, 2893, 2894, 2895, 2896, 2897],
+    "name": "二王子后跳三连击测试_瞬移",
+    "desc": "向后滑动的开始时间是4400"
+  },
+  {
+    "id": 850,
+    "m_perform_sequence_datas": [2898],
+    "name": "地块_节能白烟雾",
+    "desc": ""
+  },
+  {
+    "id": 851,
+    "m_perform_sequence_datas": [2899, 2900],
+    "name": "淡出淡入_爱莎三连击",
+    "desc": ""
+  },
+  {
+    "id": 852,
+    "m_perform_sequence_datas": [2902],
+    "name": "爱莎后跳三连击打击感01",
+    "desc": ""
+  },
+  {
+    "id": 853,
+    "m_perform_sequence_datas": [2918],
+    "name": "爱莎后跳三连击打击感02",
+    "desc": ""
+  },
+  {
+    "id": 854,
+    "m_perform_sequence_datas": [2921],
+    "name": "爱莎后跳三连击重打击感01",
+    "desc": ""
+  },
+  {
+    "id": 855,
+    "m_perform_sequence_datas": [2925, 2926],
+    "name": "die_反推时点测试",
+    "desc": ""
+  },
+  {
+    "id": 856,
+    "m_perform_sequence_datas": [2928, 2929, 2930, 2931],
+    "name": "演出序列_爱莎互换",
+    "desc": ""
+  },
+  {
+    "id": 857,
+    "m_perform_sequence_datas": [2932, 2933, 2934],
+    "name": "演出序列_爱莎个性互换",
+    "desc": ""
+  },
+  {
+    "id": 859,
+    "m_perform_sequence_datas": [2939],
+    "name": "地块_柯瓦雷爆炸",
+    "desc": ""
+  },
+  {
+    "id": 860,
+    "m_perform_sequence_datas": [2940, 2941, 2942],
+    "name": "演出序列_爱莎传送测试",
+    "desc": ""
+  },
+  {
+    "id": 861,
+    "m_perform_sequence_datas": [2943],
+    "name": "演出序列_通用中距离移轴特写_2000_延迟300",
+    "desc": ""
+  },
+  {
+    "id": 862,
+    "m_perform_sequence_datas": [2945, 2947, 2948],
+    "name": "SP拉维耶摔瓶子",
+    "desc": ""
+  },
+  {
+    "id": 863,
+    "m_perform_sequence_datas": [2949, 2951],
+    "name": "（废弃）SP拉维耶咧嘴笑",
+    "desc": ""
+  },
+  {
+    "id": 864,
+    "m_perform_sequence_datas": [2952, 2953, 2954, 2956, 2957],
+    "name": "SP拉维耶切瓶子",
+    "desc": ""
+  },
+  {
+    "id": 865,
+    "m_perform_sequence_datas": [2960, 2961, 2962, 2963, 2964, 2965, 2966, 2967],
+    "name": "（废弃）SP拉维耶_40米长刀特写",
+    "desc": ""
+  },
+  {
+    "id": 866,
+    "m_perform_sequence_datas": [2971, 2972, 2976],
+    "name": "SP拉维耶剑气周身乱舞",
+    "desc": ""
+  },
+  {
+    "id": 867,
+    "m_perform_sequence_datas": [2973],
+    "name": "摄像机强制复位_爱莎三连击",
+    "desc": ""
+  },
+  {
+    "id": 868,
+    "m_perform_sequence_datas": [2974, 2975],
+    "name": "地块_箭雨地面效果_紫",
+    "desc": ""
+  },
+  {
+    "id": 869,
+    "m_perform_sequence_datas": [2977],
+    "name": "地块_地刺斩地面效果_紫",
+    "desc": ""
+  },
+  {
+    "id": 876,
+    "m_perform_sequence_datas": [3006],
+    "name": "地块_对话_气泡",
+    "desc": ""
+  },
+  {
+    "id": 877,
+    "m_perform_sequence_datas": [3007],
+    "name": "地块_对话_气泡_提前1500",
+    "desc": ""
+  },
+  {
+    "id": 878,
+    "m_perform_sequence_datas": [3008],
+    "name": "演出序列_头顶茶壶倒水",
+    "desc": ""
+  },
+  {
+    "id": 879,
+    "m_perform_sequence_datas": [3009, 3010],
+    "name": "淡出淡入_女仆分身斩",
+    "desc": ""
+  },
+  {
+    "id": 880,
+    "m_perform_sequence_datas": [3011],
+    "name": "地块_对话_快速_气泡_提前1000",
+    "desc": ""
+  },
+  {
+    "id": 881,
+    "m_perform_sequence_datas": [3015],
+    "name": "地块_吃惊_感叹号_延迟500",
+    "desc": ""
+  },
+  {
+    "id": 882,
+    "m_perform_sequence_datas": [3016],
+    "name": "地块_吃惊_感叹号",
+    "desc": ""
+  },
+  {
+    "id": 883,
+    "m_perform_sequence_datas": [3017],
+    "name": "财政部长念力",
+    "desc": ""
+  },
+  {
+    "id": 884,
+    "m_perform_sequence_datas": [3018, 3022, 3023, 3032],
+    "name": "地块_财政部长BOSS单体超能力地块",
+    "desc": ""
+  },
+  {
+    "id": 885,
+    "m_perform_sequence_datas": [3021, 3028, 3029, 3031],
+    "name": "财政部长BOSS减益技能",
+    "desc": ""
+  },
+  {
+    "id": 886,
+    "m_perform_sequence_datas": [3027],
+    "name": "演出序列_财政部长BOSS结算伤害",
+    "desc": "索爸技能用"
+  },
+  {
+    "id": 887,
+    "m_perform_sequence_datas": [3036, 3037, 3039],
+    "name": "财政部长_黑暗兽群",
+    "desc": ""
+  },
+  {
+    "id": 888,
+    "m_perform_sequence_datas": [3042],
+    "name": "弩炮超远距离射击用聚焦",
+    "desc": ""
+  },
+  {
+    "id": 889,
+    "m_perform_sequence_datas": [3046],
+    "name": "（废弃）演出序列_出现消失烟雾",
+    "desc": ""
+  },
+  {
+    "id": 895,
+    "m_perform_sequence_datas": [3062],
+    "name": "（废弃）地块_暴风雪范围提示_有镜头",
+    "desc": ""
+  },
+  {
+    "id": 897,
+    "m_perform_sequence_datas": [3067, 3068],
+    "name": "（废弃）大姐头旋风斩残影",
+    "desc": ""
+  },
+  {
+    "id": 923,
+    "m_perform_sequence_datas": [3149, 3150, 3151],
+    "name": "（废弃）不能用于AOE！单个雷劈_带摄像机",
+    "desc": ""
+  },
+  {
+    "id": 927,
+    "m_perform_sequence_datas": [3165, 3170],
+    "name": "演出序列_皮肤无面具烟雾死亡",
+    "desc": ""
+  },
+  {
+    "id": 934,
+    "m_perform_sequence_datas": [3192],
+    "name": "面具刺客无面具版EX补充猫影",
+    "desc": ""
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "酒馆普通",
+    "prefab_name": "capital_home-pb_common_group"
+  },
+  {
+    "id": 2,
+    "name": "酒馆吵闹",
+    "prefab_name": "capital_home-pb_noise_group"
+  },
+  {
+    "id": 3,
+    "name": "街道普通",
+    "prefab_name": "capital_home-os_common_group"
+  },
+  {
+    "id": 4,
+    "name": "街道吵闹",
+    "prefab_name": "capital_home-os_noise_group"
+  },
+  {
+    "id": 5,
+    "name": "修道院内吵闹",
+    "prefab_name": "capital_home-ch_noise_group"
+  },
+  {
+    "id": 6,
+    "name": "铃兰之丘普通",
+    "prefab_name": "capital_home-fh_common_group"
+  },
+  {
+    "id": 7,
+    "name": "修道院内普通",
+    "prefab_name": "capital_home-ch_common_group"
+  },
+  {
+    "id": 8,
+    "name": "佣兵办公室普通",
+    "prefab_name": "capital_home-mh_common_group"
+  },
+  {
+    "id": 9,
+    "name": "佣兵办公室吵闹",
+    "prefab_name": "capital_home-mh_noise_group"
+  },
+  {
+    "id": 10,
+    "name": "佣兵训练场普通",
+    "prefab_name": "capital_home-th_common_group"
+  },
+  {
+    "id": 11,
+    "name": "佣兵训练场吵闹",
+    "prefab_name": "capital_home-th_noise_group"
+  },
+  {
+    "id": 14,
+    "name": "铁匠铺普通",
+    "prefab_name": "capital_home-bs_common_group"
+  },
+  {
+    "id": 15,
+    "name": "铁匠铺吵闹",
+    "prefab_name": "capital_home-bs_noise_group"
+  },
+  {
+    "id": 16,
+    "name": "晶石工坊普通",
+    "prefab_name": "capital_home-mg_common_group"
+  },
+  {
+    "id": 17,
+    "name": "晶石工坊吵闹",
+    "prefab_name": "capital_home-mg_noise_group"
+  },
+  {
+    "id": 18,
+    "name": "街道普通001",
+    "prefab_name": "capital_home-os001_common_group"
+  },
+  {
+    "id": 19,
+    "name": "街道吵闹001",
+    "prefab_name": "capital_home-os001_noise_group"
+  },
+  {
+    "id": 20,
+    "name": "街道普通002",
+    "prefab_name": "capital_home-os_002common_group"
+  },
+  {
+    "id": 21,
+    "name": "街道吵闹002",
+    "prefab_name": "capital_home-os_002noise_group"
+  },
+  {
+    "id": 22,
+    "name": "佣兵之家吵闹",
+    "prefab_name": "capital_home-hp_noise_group"
+  },
+  {
+    "id": 23,
+    "name": "佣兵之家普通",
+    "prefab_name": "capital_home-hp_common_group"
+  },
+  {
+    "id": 24,
+    "name": "商会普通",
+    "prefab_name": "capital_home-mk_common_group"
+  },
+  {
+    "id": 25,
+    "name": "商会吵闹",
+    "prefab_name": "capital_home-mk_noise_group"
+  },
+  {
+    "id": 26,
+    "name": "前传线宿舍普通",
+    "prefab_name": "capital_lyc-dm-00101_common_group"
+  },
+  {
+    "id": 27,
+    "name": "前传线宿舍雨",
+    "prefab_name": "capital_lyc-dm-00101_rain_group"
+  },
+  {
+    "id": 28,
+    "name": "前传线宿舍夜",
+    "prefab_name": "capital_lyc-dm-00101_night_group"
+  },
+  {
+    "id": 29,
+    "name": "前传线机动队办公室普通",
+    "prefab_name": "capital_lyc-mh-00101_common_group"
+  },
+  {
+    "id": 30,
+    "name": "前传线机动队办公室夜",
+    "prefab_name": "capital_lyc-mh-00101_night_group"
+  },
+  {
+    "id": 31,
+    "name": "前传线机动队办公室雨",
+    "prefab_name": "capital_lyc-mh-00101_rain_group"
+  },
+  {
+    "id": 32,
+    "name": "前传线浪涌城街道普通",
+    "prefab_name": "capital_lyc-os-00101_common_group"
+  },
+  {
+    "id": 33,
+    "name": "前传线浪涌城街道夜",
+    "prefab_name": "capital_lyc-os-00101_night_group"
+  },
+  {
+    "id": 34,
+    "name": "前传线浪涌城街道雨",
+    "prefab_name": "capital_lyc-os-00101_rain_group"
+  },
+  {
+    "id": 35,
+    "name": "前传线酒馆普通",
+    "prefab_name": "capital_lyc-pb-00101_common_group"
+  },
+  {
+    "id": 36,
+    "name": "前传线酒馆夜",
+    "prefab_name": "capital_lyc-pb-00101_night_group"
+  },
+  {
+    "id": 37,
+    "name": "前传线酒馆雨",
+    "prefab_name": "capital_lyc-pb-00101_rain_group"
+  }
+]

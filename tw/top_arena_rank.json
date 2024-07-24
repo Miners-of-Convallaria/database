@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "黑铁",
+    "editor_name": "01黑铁",
+    "desc": "玩家胜率低于80%时，必定匹配到的为机器人",
+    "score": 0,
+    "win_rate_match_bot": 80,
+    "bot_group": 1,
+    "bot_level_range": 5,
+    "win_score": 30,
+    "fail_score": 30
+  },
+  {
+    "id": 2,
+    "name": "青铜",
+    "editor_name": "02青铜",
+    "desc": "玩家胜率低于75%时，必定匹配到的为机器人",
+    "score": 250,
+    "win_rate_match_bot": 75,
+    "bot_group": 2,
+    "bot_level_range": 5,
+    "win_score": 30,
+    "fail_score": 30
+  },
+  {
+    "id": 3,
+    "name": "白银",
+    "editor_name": "03白银",
+    "desc": "玩家胜率低于70%时，必定匹配到的为机器人",
+    "score": 400,
+    "win_rate_match_bot": 70,
+    "bot_group": 3,
+    "bot_level_range": 5,
+    "win_score": 30,
+    "fail_score": 30
+  },
+  {
+    "id": 4,
+    "name": "黄金",
+    "editor_name": "04黄金",
+    "desc": "玩家胜率低于65%时，必定匹配到的为机器人",
+    "score": 550,
+    "win_rate_match_bot": 65,
+    "bot_group": 4,
+    "bot_level_range": 5,
+    "win_score": 30,
+    "fail_score": 30
+  },
+  {
+    "id": 5,
+    "name": "白金",
+    "editor_name": "05白金",
+    "desc": "玩家胜率低于60%时，必定匹配到的为机器人",
+    "score": 700,
+    "win_rate_match_bot": 60,
+    "bot_group": 5,
+    "bot_level_range": 5,
+    "win_score": 30,
+    "fail_score": 30
+  },
+  {
+    "id": 6,
+    "name": "光辉",
+    "editor_name": "06光辉",
+    "desc": "玩家胜率低于1%时，必定匹配到的为机器人",
+    "score": 1130,
+    "win_rate_match_bot": 1,
+    "bot_group": 5,
+    "bot_level_range": 5,
+    "win_score": 10,
+    "fail_score": 10
+  }
+]

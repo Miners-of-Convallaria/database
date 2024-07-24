@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "type": "weapon",
+    "name": "武器",
+    "template_id_name": "武器模板id",
+    "template_id_type": "online_weapon",
+    "param0_name": "稀有度(模板id为0时有效)",
+    "param0_type": "rarity",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 2,
+    "type": "charm",
+    "name": "护石",
+    "template_id_name": "护石模板id",
+    "template_id_type": "online_charm",
+    "param0_name": "稀有度",
+    "param0_type": "rarity",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 3,
+    "type": "treasure",
+    "name": "通用三件套",
+    "template_id_name": "奖励类型",
+    "template_id_type": "treasure_type",
+    "param0_name": "奖励类型的param0",
+    "param0_type": "param0",
+    "param1_name": "奖励类型的param1",
+    "param1_type": "param1"
+  }
+]

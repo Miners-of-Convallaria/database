@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "周活跃度达到200",
+    "target_point": 200,
+    "treasure_type": 149,
+    "treasure_param0": 0,
+    "treasure_param1": 3000,
+    "is_big": false
+  },
+  {
+    "id": 2,
+    "name": "周活跃度达到500",
+    "target_point": 500,
+    "treasure_type": 102,
+    "treasure_param0": 0,
+    "treasure_param1": 100,
+    "is_big": true
+  },
+  {
+    "id": 3,
+    "name": "周活跃达到1000",
+    "target_point": 1000,
+    "treasure_type": 149,
+    "treasure_param0": 0,
+    "treasure_param1": 3000,
+    "is_big": false
+  },
+  {
+    "id": 4,
+    "name": "周活跃达到3000",
+    "target_point": 3000,
+    "treasure_type": 103,
+    "treasure_param0": 0,
+    "treasure_param1": 10000,
+    "is_big": false
+  },
+  {
+    "id": 5,
+    "name": "周活跃达到5000",
+    "target_point": 5000,
+    "treasure_type": 149,
+    "treasure_param0": 0,
+    "treasure_param1": 3000,
+    "is_big": false
+  }
+]

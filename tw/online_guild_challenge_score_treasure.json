@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "idonline_guild_challenge": 1,
+    "min_score": 0,
+    "max_score": 10,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": ""
+  },
+  {
+    "id": 2,
+    "idonline_guild_challenge": 1,
+    "min_score": 11,
+    "max_score": 20,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": ""
+  },
+  {
+    "id": 3,
+    "idonline_guild_challenge": 1,
+    "min_score": 21,
+    "max_score": 30,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": ""
+  },
+  {
+    "id": 4,
+    "idonline_guild_challenge": 1,
+    "min_score": 31,
+    "max_score": 40,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": ""
+  },
+  {
+    "id": 5,
+    "idonline_guild_challenge": 1,
+    "min_score": 41,
+    "max_score": 50,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": ""
+  },
+  {
+    "id": 6,
+    "idonline_guild_challenge": 1,
+    "min_score": 51,
+    "max_score": 60,
+    "treasure_type": 122,
+    "treasure_param0": 153,
+    "treasure_param1": 0,
+    "treasure_sparam": ""
+  }
+]

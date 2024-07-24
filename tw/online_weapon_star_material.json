@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "m_system_redirects": [1009],
+    "m_online_weapons": [],
+    "name": "史诗光淬溶剂",
+    "desc": "史诗级别的装备，通用升星素材。",
+    "rarity": 3,
+    "star": 1,
+    "system_redirect_ids": "1009",
+    "icon": "weapon_star_material_sr",
+    "online_weapon_ids": ""
+  },
+  {
+    "id": 2,
+    "m_system_redirects": [1009],
+    "m_online_weapons": [],
+    "name": "传说光淬溶剂",
+    "desc": "传说级别的装备，通用升星素材。",
+    "rarity": 4,
+    "star": 1,
+    "system_redirect_ids": "1009",
+    "icon": "weapon_star_material_ssr",
+    "online_weapon_ids": ""
+  },
+  {
+    "id": 3,
+    "m_system_redirects": [1009],
+    "m_online_weapons": [159, 160, 161],
+    "name": "测试指定武器升星道具",
+    "desc": "测试指定武器升星道具",
+    "rarity": 4,
+    "star": 1,
+    "system_redirect_ids": "1009",
+    "icon": "weapon_star_material_ssr",
+    "online_weapon_ids": "159|160|161"
+  },
+  {
+    "id": 4,
+    "m_system_redirects": [],
+    "m_online_weapons": [178],
+    "name": "疾风天烈之卷",
+    "desc": "疾风天烈剑升星素材。",
+    "rarity": 4,
+    "star": 1,
+    "system_redirect_ids": "",
+    "icon": "schedule_reward01",
+    "online_weapon_ids": "178"
+  }
+]

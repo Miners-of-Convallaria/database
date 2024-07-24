@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "挑战者号角",
+    "editor_name": "活动挑战币",
+    "desc": "参与限时活动玩法，获得挑战者号角，可在纪念商店中兑换道具。\n\n<style=brown>跨越一道道难关，挑战者的号角又一次响彻星海。</style>",
+    "rarity": 3,
+    "icon": "online_activity_challenge_point"
+  },
+  {
+    "id": 2,
+    "name": "星铸残胚",
+    "editor_name": "逆塔币",
+    "desc": "参与逆境之塔玩法，在排名奖励中获得星铸残胚，可在装备商店中兑换道具。",
+    "rarity": 4,
+    "icon": "online_abyss_point"
+  }
+]

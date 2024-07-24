@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "天平上的铃兰",
+    "editor_name": "DLC1-埃拉曼线",
+    "desc": "新增故事线：「铃兰之剑-天平上的铃兰」。你将成为铃兰商会的会长，开启一段在伊利亚经商的新旅程。",
+    "icon": "event_solomon",
+    "idsandbox_update_log_group": 1,
+    "group_priority": 1,
+    "sort_id": 1,
+    "open_at": 1706086623,
+    "remind_desc": "铃兰之剑新故事"
+  },
+  {
+    "id": 2,
+    "name": "绯红之夜",
+    "editor_name": "DLC2-绯红之夜",
+    "desc": "新篇章：「绯红之夜」现已开启。\n\n<style=brown>回到992年的浪涌城，走进索菲亚与拉维耶在治安局机动队并肩守护浪涌城的故事，见证一场由连环凶案引发的动荡，如何为七年后的浪涌城惨案埋下裂痕的种子……</style>",
+    "icon": "event_policeoffice",
+    "idsandbox_update_log_group": 2,
+    "group_priority": 1,
+    "sort_id": 1,
+    "open_at": 0,
+    "remind_desc": "全新篇章：绯红之夜"
+  }
+]

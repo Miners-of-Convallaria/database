@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "主基地",
+    "type": "main"
+  },
+  {
+    "id": 2,
+    "name": "军事设施",
+    "type": "millitary"
+  },
+  {
+    "id": 3,
+    "name": "效能设施",
+    "type": "effection"
+  },
+  {
+    "id": 4,
+    "name": "防御设施",
+    "type": "defence"
+  },
+  {
+    "id": 5,
+    "name": "陷阱",
+    "type": "trap"
+  },
+  {
+    "id": 6,
+    "name": "防御单位",
+    "type": "unit"
+  }
+]

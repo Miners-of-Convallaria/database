@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1,
+    "editor_name": "保底-拉维耶-20%",
+    "online_role_unit": 46,
+    "up_treasure_percent": 20,
+    "name": "拉维耶"
+  },
+  {
+    "id": 2,
+    "editor_name": "保底-麦莎-20%",
+    "online_role_unit": 58,
+    "up_treasure_percent": 20,
+    "name": "麦莎"
+  },
+  {
+    "id": 3,
+    "editor_name": "大型活动3期-卡池-鹦鹉人-50%",
+    "online_role_unit": 135,
+    "up_treasure_percent": 50,
+    "name": "霍玛"
+  },
+  {
+    "id": 4,
+    "editor_name": "大型活动3期-卡池-哈斯那-50%",
+    "online_role_unit": 136,
+    "up_treasure_percent": 50,
+    "name": "哈斯那"
+  },
+  {
+    "id": 5,
+    "editor_name": "大型活动3期-剧情-嘉西娅-20%",
+    "online_role_unit": 45,
+    "up_treasure_percent": 20,
+    "name": "嘉西娅"
+  },
+  {
+    "id": 6,
+    "editor_name": "大型活动3期-剧情-歌洛莉亚-20%",
+    "online_role_unit": 48,
+    "up_treasure_percent": 20,
+    "name": "歌洛莉亚"
+  },
+  {
+    "id": 7,
+    "editor_name": "大型活动3期-剧情-古兹曼-20%",
+    "online_role_unit": 52,
+    "up_treasure_percent": 20,
+    "name": "古兹曼"
+  },
+  {
+    "id": 8,
+    "editor_name": "大型活动3期-剧情-米格尔-20%",
+    "online_role_unit": 54,
+    "up_treasure_percent": 20,
+    "name": "米格尔"
+  },
+  {
+    "id": 9,
+    "editor_name": "大型活动3期-SR-法皇国魔战士-20%",
+    "online_role_unit": 67,
+    "up_treasure_percent": 20,
+    "name": "法皇国魔战士"
+  },
+  {
+    "id": 10,
+    "editor_name": "大型活动3期-SR-精英火法-20%",
+    "online_role_unit": 63,
+    "up_treasure_percent": 20,
+    "name": "雇佣兵精英火法"
+  },
+  {
+    "id": 11,
+    "editor_name": "大型活动3期-SR-无国界医生-20%",
+    "online_role_unit": 66,
+    "up_treasure_percent": 20,
+    "name": "无国界医生"
+  },
+  {
+    "id": 12,
+    "editor_name": "大型活动3期-SR-审判者鞭笞-20%",
+    "online_role_unit": 70,
+    "up_treasure_percent": 20,
+    "name": "审判者鞭笞"
+  },
+  {
+    "id": 13,
+    "editor_name": "大型活动3.5期-卡池-阿加塔-50%",
+    "online_role_unit": 120,
+    "up_treasure_percent": 50,
+    "name": "阿加塔"
+  },
+  {
+    "id": 14,
+    "editor_name": "大型活动3.5期-卡池-夏可露露-50%",
+    "online_role_unit": 132,
+    "up_treasure_percent": 50,
+    "name": "夏可露露"
+  },
+  {
+    "id": 15,
+    "editor_name": "大型活动3.5期-剧情-卡丽丝-20%",
+    "online_role_unit": 126,
+    "up_treasure_percent": 20,
+    "name": "卡丽丝"
+  },
+  {
+    "id": 16,
+    "editor_name": "大型活动3.5期-剧情-科尔-20%",
+    "online_role_unit": 109,
+    "up_treasure_percent": 20,
+    "name": "科尔"
+  },
+  {
+    "id": 17,
+    "editor_name": "大型活动3.5期-剧情-泰登-20%",
+    "online_role_unit": 49,
+    "up_treasure_percent": 20,
+    "name": "泰登"
+  },
+  {
+    "id": 18,
+    "editor_name": "大型活动3.5期-剧情-马格努斯-20%",
+    "online_role_unit": 117,
+    "up_treasure_percent": 20,
+    "name": "马格努斯"
+  },
+  {
+    "id": 19,
+    "editor_name": "大型活动3.5期-SR-薇尔德舞娘-20%",
+    "online_role_unit": 64,
+    "up_treasure_percent": 20,
+    "name": "薇尔德舞娘"
+  },
+  {
+    "id": 20,
+    "editor_name": "大型活动3.5期-SR-弩骑士摧城-20%",
+    "online_role_unit": 68,
+    "up_treasure_percent": 20,
+    "name": "弩骑士摧城"
+  },
+  {
+    "id": 21,
+    "editor_name": "大型活动3.5期-SR-法皇国牧师-20%",
+    "online_role_unit": 72,
+    "up_treasure_percent": 20,
+    "name": "法皇国牧师"
+  },
+  {
+    "id": 22,
+    "editor_name": "大型活动3.5期-SR-雇佣兵巨斧兵-20%",
+    "online_role_unit": 65,
+    "up_treasure_percent": 20,
+    "name": "雇佣兵巨斧兵"
+  },
+  {
+    "id": 23,
+    "editor_name": "中型活动4期-卡池-SP拉维耶-50%",
+    "online_role_unit": 138,
+    "up_treasure_percent": 50,
+    "name": "SP拉维耶"
+  },
+  {
+    "id": 24,
+    "editor_name": "中型活动4期-卡池-邦国王子-50%",
+    "online_role_unit": 130,
+    "up_treasure_percent": 50,
+    "name": "邦国王子"
+  },
+  {
+    "id": 25,
+    "editor_name": "中型活动4期-剧情-泽维尔-20%",
+    "online_role_unit": 55,
+    "up_treasure_percent": 20,
+    "name": "泽维尔"
+  },
+  {
+    "id": 26,
+    "editor_name": "中型活动4期-剧情-索菲亚-20%",
+    "online_role_unit": 108,
+    "up_treasure_percent": 20,
+    "name": "索菲亚"
+  },
+  {
+    "id": 27,
+    "editor_name": "中型活动4期-剧情-迪塔利奥-20%",
+    "online_role_unit": 44,
+    "up_treasure_percent": 20,
+    "name": "迪塔利奥"
+  },
+  {
+    "id": 28,
+    "editor_name": "中型活动4期-剧情-诺诺薇儿-20%",
+    "online_role_unit": 51,
+    "up_treasure_percent": 20,
+    "name": "诺诺薇儿"
+  },
+  {
+    "id": 29,
+    "editor_name": "中型活动4期-SR-巨斧骑士“神威”-20%",
+    "online_role_unit": 75,
+    "up_treasure_percent": 20,
+    "name": "巨斧骑士“神威”"
+  },
+  {
+    "id": 30,
+    "editor_name": "中型活动4期-SR-伊利亚刺客-20%",
+    "online_role_unit": 82,
+    "up_treasure_percent": 20,
+    "name": "伊利亚刺客"
+  },
+  {
+    "id": 31,
+    "editor_name": "中型活动4期-SR-骑士团战士-20%",
+    "online_role_unit": 71,
+    "up_treasure_percent": 20,
+    "name": "骑士团战士"
+  },
+  {
+    "id": 32,
+    "editor_name": "中型活动4期-SR-光辉使者“利刃”-20%",
+    "online_role_unit": 113,
+    "up_treasure_percent": 20,
+    "name": "光辉使者“利刃”"
+  },
+  {
+    "id": 33,
+    "editor_name": "保底-法卡尔-20%",
+    "online_role_unit": 57,
+    "up_treasure_percent": 20,
+    "name": "法卡尔"
+  },
+  {
+    "id": 34,
+    "editor_name": "大型活动4期-SR-考尔-20%",
+    "online_role_unit": 141,
+    "up_treasure_percent": 20,
+    "name": "考尔"
+  },
+  {
+    "id": 35,
+    "editor_name": "大型活动4期-SR-希孜-20%",
+    "online_role_unit": 142,
+    "up_treasure_percent": 20,
+    "name": "希孜"
+  },
+  {
+    "id": 36,
+    "editor_name": "大型活动4期-SR-黑暗之光暗法-20%",
+    "online_role_unit": 73,
+    "up_treasure_percent": 20,
+    "name": "黑暗之光暗法"
+  },
+  {
+    "id": 37,
+    "editor_name": "大型活动4期-SR-光术骑士“耀光”-20%",
+    "online_role_unit": 76,
+    "up_treasure_percent": 20,
+    "name": "光术骑士“耀光”"
+  },
+  {
+    "id": 38,
+    "editor_name": "大型活动4期-卡池-翠斯坦-50%",
+    "online_role_unit": 146,
+    "up_treasure_percent": 50,
+    "name": "翠斯坦"
+  },
+  {
+    "id": 39,
+    "editor_name": "大型活动4期-卡池-帕米娜-50%",
+    "online_role_unit": 147,
+    "up_treasure_percent": 50,
+    "name": "帕米娜"
+  },
+  {
+    "id": 40,
+    "editor_name": "大型活动4期-剧情-哈斯那-20%",
+    "online_role_unit": 136,
+    "up_treasure_percent": 20,
+    "name": "哈斯那"
+  },
+  {
+    "id": 41,
+    "editor_name": "大型活动4期-剧情-歌洛莉亚-20%",
+    "online_role_unit": 48,
+    "up_treasure_percent": 20,
+    "name": "歌洛莉亚"
+  },
+  {
+    "id": 42,
+    "editor_name": "大型活动4期-剧情-奥古斯特-20%",
+    "online_role_unit": 121,
+    "up_treasure_percent": 20,
+    "name": "奥古斯特"
+  },
+  {
+    "id": 43,
+    "editor_name": "大型活动4期-剧情-列奥尼德-20%",
+    "online_role_unit": 122,
+    "up_treasure_percent": 20,
+    "name": "列奥尼德"
+  },
+  {
+    "id": 52,
+    "editor_name": "SSR-贝拉-20%（大活5、大活2）",
+    "online_role_unit": 43,
+    "up_treasure_percent": 20,
+    "name": "贝拉"
+  },
+  {
+    "id": 53,
+    "editor_name": "SSR-萨曼莎-20%（大活5、中活1）",
+    "online_role_unit": 53,
+    "up_treasure_percent": 20,
+    "name": "萨曼莎"
+  },
+  {
+    "id": 56,
+    "editor_name": "SR-倒吊人参谋官-20%（大活5、大活2）",
+    "online_role_unit": 62,
+    "up_treasure_percent": 20,
+    "name": "倒吊人参谋官"
+  },
+  {
+    "id": 57,
+    "editor_name": "SR-倒吊人特工-20%（大活5、大活2）",
+    "online_role_unit": 74,
+    "up_treasure_percent": 20,
+    "name": "倒吊人特工"
+  },
+  {
+    "id": 58,
+    "editor_name": "SSR-卡池-歌洛莉亚-50%（大活2）",
+    "online_role_unit": 48,
+    "up_treasure_percent": 50,
+    "name": "歌洛莉亚"
+  },
+  {
+    "id": 59,
+    "editor_name": "SSR-卡池-艾达-50%（大活2）",
+    "online_role_unit": 61,
+    "up_treasure_percent": 50,
+    "name": "艾达"
+  },
+  {
+    "id": 60,
+    "editor_name": "SSR-伊南娜-20%（大活2） ",
+    "online_role_unit": 111,
+    "up_treasure_percent": 20,
+    "name": "伊南娜"
+  },
+  {
+    "id": 61,
+    "editor_name": "SR-倒吊人暗术士-20%（大活2）",
+    "online_role_unit": 96,
+    "up_treasure_percent": 20,
+    "name": "倒吊人暗术士"
+  },
+  {
+    "id": 62,
+    "editor_name": "SSR-卡池-席梦娜-50%（大活1）",
+    "online_role_unit": 59,
+    "up_treasure_percent": 50,
+    "name": "席梦娜"
+  },
+  {
+    "id": 63,
+    "editor_name": "SSR-莉莉薇儿-20%（大活1）",
+    "online_role_unit": 47,
+    "up_treasure_percent": 20,
+    "name": "莉莉薇儿"
+  },
+  {
+    "id": 64,
+    "editor_name": "SSR-卡池-阿里克塞-50%（大活1）",
+    "online_role_unit": 110,
+    "up_treasure_percent": 50,
+    "name": "阿里克塞"
+  },
+  {
+    "id": 65,
+    "editor_name": "SR-薇尔德弓兵-20%（大活1） ",
+    "online_role_unit": 78,
+    "up_treasure_percent": 20,
+    "name": "薇尔德弓兵"
+  },
+  {
+    "id": 66,
+    "editor_name": "SSR-卡池-阿坎贝-50%（中活3）",
+    "online_role_unit": 131,
+    "up_treasure_percent": 50,
+    "name": "阿坎贝"
+  },
+  {
+    "id": 67,
+    "editor_name": "SSR-卡池-蔻蔻娜-50%（中活3）",
+    "online_role_unit": 133,
+    "up_treasure_percent": 50,
+    "name": "蔻蔻娜"
+  },
+  {
+    "id": 68,
+    "editor_name": "SSR-艾达-20%（中活3） ",
+    "online_role_unit": 61,
+    "up_treasure_percent": 20,
+    "name": "艾达"
+  },
+  {
+    "id": 69,
+    "editor_name": "SSR-茉茉-20%（中活3）",
+    "online_role_unit": 118,
+    "up_treasure_percent": 20,
+    "name": "茉茉"
+  },
+  {
+    "id": 70,
+    "editor_name": "SSR-卡池-索菲亚-50%（中活1）",
+    "online_role_unit": 108,
+    "up_treasure_percent": 50,
+    "name": "索菲亚"
+  },
+  {
+    "id": 71,
+    "editor_name": "SSR-卡池-奥古斯特-50%（中活1）",
+    "online_role_unit": 121,
+    "up_treasure_percent": 50,
+    "name": "奥古斯特"
+  },
+  {
+    "id": 72,
+    "editor_name": "SSR-内尔伽勒-20%（中活1）",
+    "online_role_unit": 123,
+    "up_treasure_percent": 20,
+    "name": "内尔伽勒"
+  },
+  {
+    "id": 73,
+    "editor_name": "SR-突击骑士“神闪”-20%（中活1）",
+    "online_role_unit": 124,
+    "up_treasure_percent": 20,
+    "name": "突击骑士“神闪”"
+  }
+]

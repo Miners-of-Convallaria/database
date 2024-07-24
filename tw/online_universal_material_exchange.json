@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "idonline_universal_material": 1,
+    "name": "白金粉碎勋章SSR",
+    "require_count": 90,
+    "treasure_type": 108,
+    "treasure_param0": 34
+  },
+  {
+    "id": 2,
+    "idonline_universal_material": 1,
+    "name": "白金防御勋章SSR",
+    "require_count": 90,
+    "treasure_type": 108,
+    "treasure_param0": 38
+  },
+  {
+    "id": 3,
+    "idonline_universal_material": 1,
+    "name": "白金突袭勋章SSR",
+    "require_count": 90,
+    "treasure_type": 108,
+    "treasure_param0": 44
+  },
+  {
+    "id": 4,
+    "idonline_universal_material": 1,
+    "name": "白金毁灭勋章SSR",
+    "require_count": 90,
+    "treasure_type": 108,
+    "treasure_param0": 48
+  },
+  {
+    "id": 5,
+    "idonline_universal_material": 1,
+    "name": "白金守望勋章SSR",
+    "require_count": 90,
+    "treasure_type": 108,
+    "treasure_param0": 52
+  },
+  {
+    "id": 6,
+    "idonline_universal_material": 1,
+    "name": "黄金粉碎勋章SR",
+    "require_count": 18,
+    "treasure_type": 108,
+    "treasure_param0": 35
+  },
+  {
+    "id": 7,
+    "idonline_universal_material": 1,
+    "name": "黄金防御勋章SR",
+    "require_count": 18,
+    "treasure_type": 108,
+    "treasure_param0": 40
+  },
+  {
+    "id": 8,
+    "idonline_universal_material": 1,
+    "name": "黄金突袭勋章SR",
+    "require_count": 18,
+    "treasure_type": 108,
+    "treasure_param0": 45
+  },
+  {
+    "id": 9,
+    "idonline_universal_material": 1,
+    "name": "黄金毁灭勋章SR",
+    "require_count": 18,
+    "treasure_type": 108,
+    "treasure_param0": 49
+  },
+  {
+    "id": 10,
+    "idonline_universal_material": 1,
+    "name": "黄金守望勋章SR",
+    "require_count": 18,
+    "treasure_type": 108,
+    "treasure_param0": 53
+  },
+  {
+    "id": 11,
+    "idonline_universal_material": 1,
+    "name": "白银粉碎勋章R",
+    "require_count": 4,
+    "treasure_type": 108,
+    "treasure_param0": 36
+  },
+  {
+    "id": 12,
+    "idonline_universal_material": 1,
+    "name": "白银防御勋章R",
+    "require_count": 4,
+    "treasure_type": 108,
+    "treasure_param0": 41
+  },
+  {
+    "id": 13,
+    "idonline_universal_material": 1,
+    "name": "白银突袭勋章R",
+    "require_count": 4,
+    "treasure_type": 108,
+    "treasure_param0": 46
+  },
+  {
+    "id": 14,
+    "idonline_universal_material": 1,
+    "name": "白银毁灭勋章R",
+    "require_count": 4,
+    "treasure_type": 108,
+    "treasure_param0": 50
+  },
+  {
+    "id": 15,
+    "idonline_universal_material": 1,
+    "name": "白银守望勋章R",
+    "require_count": 4,
+    "treasure_type": 108,
+    "treasure_param0": 54
+  },
+  {
+    "id": 16,
+    "idonline_universal_material": 1,
+    "name": "青铜粉碎勋章N",
+    "require_count": 1,
+    "treasure_type": 108,
+    "treasure_param0": 37
+  },
+  {
+    "id": 17,
+    "idonline_universal_material": 1,
+    "name": "青铜防御勋章N",
+    "require_count": 1,
+    "treasure_type": 108,
+    "treasure_param0": 43
+  },
+  {
+    "id": 18,
+    "idonline_universal_material": 1,
+    "name": "青铜突袭勋章N",
+    "require_count": 1,
+    "treasure_type": 108,
+    "treasure_param0": 47
+  },
+  {
+    "id": 19,
+    "idonline_universal_material": 1,
+    "name": "青铜毁灭勋章N",
+    "require_count": 1,
+    "treasure_type": 108,
+    "treasure_param0": 51
+  },
+  {
+    "id": 20,
+    "idonline_universal_material": 1,
+    "name": "青铜守望勋章N",
+    "require_count": 1,
+    "treasure_type": 108,
+    "treasure_param0": 55
+  },
+  {
+    "id": 21,
+    "idonline_universal_material": 1,
+    "name": "光辉铸铁N",
+    "require_count": 1,
+    "treasure_type": 117,
+    "treasure_param0": 1
+  },
+  {
+    "id": 22,
+    "idonline_universal_material": 1,
+    "name": "精英级光辉铸铁R",
+    "require_count": 5,
+    "treasure_type": 117,
+    "treasure_param0": 2
+  },
+  {
+    "id": 23,
+    "idonline_universal_material": 1,
+    "name": "史诗级光辉铸铁SR",
+    "require_count": 25,
+    "treasure_type": 117,
+    "treasure_param0": 3
+  },
+  {
+    "id": 24,
+    "idonline_universal_material": 1,
+    "name": "传说级光辉铸铁SSR",
+    "require_count": 125,
+    "treasure_type": 117,
+    "treasure_param0": 4
+  }
+]

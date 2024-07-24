@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "type": "RoleUnit",
+    "name": "角色单位"
+  },
+  {
+    "id": 2,
+    "type": "CustomUnit",
+    "name": "定制单位"
+  },
+  {
+    "id": 3,
+    "type": "SandboxUnit",
+    "name": "沙盒单位"
+  },
+  {
+    "id": 4,
+    "type": "Unit",
+    "name": "单位"
+  },
+  {
+    "id": 5,
+    "type": "NeutralUnit",
+    "name": "中立单位"
+  },
+  {
+    "id": 6,
+    "type": "NpcUnit",
+    "name": "Npc单位"
+  },
+  {
+    "id": 7,
+    "type": "MissionUnit",
+    "name": "关卡单位"
+  },
+  {
+    "id": 8,
+    "type": "Sandbox2CustomUnit",
+    "name": "前传线定制单位"
+  },
+  {
+    "id": 9,
+    "type": "Sandbox2Unit",
+    "name": "前传线单位"
+  }
+]

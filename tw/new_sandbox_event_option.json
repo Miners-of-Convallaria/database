@@ -1,0 +1,682 @@
+[
+  {
+    "id": 46001,
+    "idnew_sandbox_event": 46,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 46002,
+    "idnew_sandbox_event": 46,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 168001,
+    "idnew_sandbox_event": 168,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 168002,
+    "idnew_sandbox_event": 168,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 727001,
+    "idnew_sandbox_event": 727,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 727002,
+    "idnew_sandbox_event": 727,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 800001,
+    "idnew_sandbox_event": 800,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 800002,
+    "idnew_sandbox_event": 800,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 801001,
+    "idnew_sandbox_event": 801,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 801002,
+    "idnew_sandbox_event": 801,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 802001,
+    "idnew_sandbox_event": 802,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 802002,
+    "idnew_sandbox_event": 802,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 803001,
+    "idnew_sandbox_event": 803,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 803002,
+    "idnew_sandbox_event": 803,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 804001,
+    "idnew_sandbox_event": 804,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 804002,
+    "idnew_sandbox_event": 804,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 805001,
+    "idnew_sandbox_event": 805,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 805002,
+    "idnew_sandbox_event": 805,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 806001,
+    "idnew_sandbox_event": 806,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 806002,
+    "idnew_sandbox_event": 806,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 807001,
+    "idnew_sandbox_event": 807,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 807002,
+    "idnew_sandbox_event": 807,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 808001,
+    "idnew_sandbox_event": 808,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 808002,
+    "idnew_sandbox_event": 808,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 809001,
+    "idnew_sandbox_event": 809,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 809002,
+    "idnew_sandbox_event": 809,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 810001,
+    "idnew_sandbox_event": 810,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 810002,
+    "idnew_sandbox_event": 810,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 811001,
+    "idnew_sandbox_event": 811,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 811002,
+    "idnew_sandbox_event": 811,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 812001,
+    "idnew_sandbox_event": 812,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 812002,
+    "idnew_sandbox_event": 812,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 813001,
+    "idnew_sandbox_event": 813,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 813002,
+    "idnew_sandbox_event": 813,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 814001,
+    "idnew_sandbox_event": 814,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 814002,
+    "idnew_sandbox_event": 814,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 815001,
+    "idnew_sandbox_event": 815,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 815002,
+    "idnew_sandbox_event": 815,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 816001,
+    "idnew_sandbox_event": 816,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 816002,
+    "idnew_sandbox_event": 816,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 817001,
+    "idnew_sandbox_event": 817,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 817002,
+    "idnew_sandbox_event": 817,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 818001,
+    "idnew_sandbox_event": 818,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 818002,
+    "idnew_sandbox_event": 818,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 819001,
+    "idnew_sandbox_event": 819,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 819002,
+    "idnew_sandbox_event": 819,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 820001,
+    "idnew_sandbox_event": 820,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 820002,
+    "idnew_sandbox_event": 820,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 821001,
+    "idnew_sandbox_event": 821,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 821002,
+    "idnew_sandbox_event": 821,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 822001,
+    "idnew_sandbox_event": 822,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 822002,
+    "idnew_sandbox_event": 822,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 823001,
+    "idnew_sandbox_event": 823,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 823002,
+    "idnew_sandbox_event": 823,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 824001,
+    "idnew_sandbox_event": 824,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 824002,
+    "idnew_sandbox_event": 824,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 825001,
+    "idnew_sandbox_event": 825,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 825002,
+    "idnew_sandbox_event": 825,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 826001,
+    "idnew_sandbox_event": 826,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 826002,
+    "idnew_sandbox_event": 826,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 827001,
+    "idnew_sandbox_event": 827,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 827002,
+    "idnew_sandbox_event": 827,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 828001,
+    "idnew_sandbox_event": 828,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 828002,
+    "idnew_sandbox_event": 828,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 829001,
+    "idnew_sandbox_event": 829,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 829002,
+    "idnew_sandbox_event": 829,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 830001,
+    "idnew_sandbox_event": 830,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "开始训练",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 830002,
+    "idnew_sandbox_event": 830,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "算了，还有其他事",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  }
+]

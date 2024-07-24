@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "type": "EntrustPublisher",
+    "name": "委托发布者"
+  },
+  {
+    "id": 2,
+    "type": "EnemyFaction",
+    "name": "敌方阵营"
+  },
+  {
+    "id": 3,
+    "type": "EntrustSite",
+    "name": "委托区域"
+  },
+  {
+    "id": 4,
+    "type": "EntrustOpenTime",
+    "name": "委托开放时间"
+  },
+  {
+    "id": 5,
+    "type": "Condition2Victory",
+    "name": "副胜利条件"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "type": "TacticsSkill",
+    "name": "战术技能",
+    "param0_name": "战术技能ID",
+    "param0_type": "tactics_skill"
+  },
+  {
+    "id": 2,
+    "type": "SystemTech",
+    "name": "战术技能系统升级",
+    "param0_name": "科技ID",
+    "param0_type": "system_tech"
+  }
+]

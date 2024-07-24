@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "treasure_type": 104,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "treasure1_type": 109,
+    "treasure2_param0": 0,
+    "treasure2_param1": 0
+  },
+  {
+    "id": 2,
+    "treasure_type": 104,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "treasure1_type": 109,
+    "treasure2_param0": 1,
+    "treasure2_param1": 0
+  },
+  {
+    "id": 3,
+    "treasure_type": 109,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "treasure1_type": 109,
+    "treasure2_param0": 1,
+    "treasure2_param1": 0
+  },
+  {
+    "id": 4,
+    "treasure_type": 109,
+    "treasure_param0": 1,
+    "treasure_param1": 0,
+    "treasure1_type": 109,
+    "treasure2_param0": 0,
+    "treasure2_param1": 0
+  },
+  {
+    "id": 5,
+    "treasure_type": 125,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "treasure1_type": 125,
+    "treasure2_param0": 1,
+    "treasure2_param1": 0
+  },
+  {
+    "id": 6,
+    "treasure_type": 125,
+    "treasure_param0": 1,
+    "treasure_param1": 0,
+    "treasure1_type": 125,
+    "treasure2_param0": 0,
+    "treasure2_param1": 0
+  },
+  {
+    "id": 7,
+    "treasure_type": 124,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "treasure1_type": 124,
+    "treasure2_param0": 1,
+    "treasure2_param1": 0
+  },
+  {
+    "id": 8,
+    "treasure_type": 124,
+    "treasure_param0": 1,
+    "treasure_param1": 0,
+    "treasure1_type": 124,
+    "treasure2_param0": 0,
+    "treasure2_param1": 0
+  }
+]

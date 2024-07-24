@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "m_workshop_node_pool_details": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "name": "测试池子"
+  },
+  {
+    "id": 2,
+    "m_workshop_node_pool_details": [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+    "name": "常规战术技能池"
+  },
+  {
+    "id": 3,
+    "m_workshop_node_pool_details": [30, 31, 32, 33, 34, 35, 36, 37],
+    "name": "常规普通战术技能池"
+  },
+  {
+    "id": 4,
+    "m_workshop_node_pool_details": [38, 39, 40, 41],
+    "name": "常规中级战术技能池"
+  },
+  {
+    "id": 5,
+    "m_workshop_node_pool_details": [],
+    "name": "常规超级战术技能池（空）"
+  },
+  {
+    "id": 6,
+    "m_workshop_node_pool_details": [42, 43, 44, 45, 46],
+    "name": "王国军战术技能"
+  },
+  {
+    "id": 7,
+    "m_workshop_node_pool_details": [47, 48, 49, 50],
+    "name": "王国军超级战术技能"
+  },
+  {
+    "id": 8,
+    "m_workshop_node_pool_details": [51, 52, 53],
+    "name": "常规战术系统强化池"
+  }
+]

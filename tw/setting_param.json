@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "type": "TitleUI",
+    "name": "标题界面",
+    "key": "title_ui",
+    "client_modify": false,
+    "allow_values": ""
+  },
+  {
+    "id": 2,
+    "type": "FriendBattleApplyShield",
+    "name": "是否屏蔽好友切磋申请",
+    "key": "fbas",
+    "client_modify": true,
+    "allow_values": "0|1"
+  },
+  {
+    "id": 3,
+    "type": "Mobile",
+    "name": "手机号码",
+    "key": "mobile",
+    "client_modify": false,
+    "allow_values": ""
+  },
+  {
+    "id": 4,
+    "type": "Email",
+    "name": "邮箱",
+    "key": "email",
+    "client_modify": false,
+    "allow_values": ""
+  },
+  {
+    "id": 5,
+    "type": "OriginMobile",
+    "name": "原手机号码",
+    "key": "o_mobile",
+    "client_modify": false,
+    "allow_values": ""
+  },
+  {
+    "id": 6,
+    "type": "MobileMd5",
+    "name": "手机号码MD5",
+    "key": "mobile_md5",
+    "client_modify": false,
+    "allow_values": ""
+  },
+  {
+    "id": 7,
+    "type": "GoodReviewGuild",
+    "name": "好评引导下一次触发时间",
+    "key": "grg",
+    "client_modify": false,
+    "allow_values": ""
+  },
+  {
+    "id": 8,
+    "type": "CloseFriendRequest",
+    "name": "关闭好友申请",
+    "key": "friend_request",
+    "client_modify": true,
+    "allow_values": "0|1"
+  },
+  {
+    "id": 10,
+    "type": "HideBattleMovementMode",
+    "name": "战斗中隐藏移动辅助按钮",
+    "key": "hide_movement_mode",
+    "client_modify": true,
+    "allow_values": "0|1"
+  },
+  {
+    "id": 11,
+    "type": "CloseBattleEnemyFastMode",
+    "name": "战斗中关闭敌人快速行动模式",
+    "key": "close_fast_mode",
+    "client_modify": true,
+    "allow_values": "0|1"
+  },
+  {
+    "id": 12,
+    "type": "RecommendGuildIds",
+    "name": "公会推荐数据",
+    "key": "rgids",
+    "client_modify": false,
+    "allow_values": ""
+  },
+  {
+    "id": 13,
+    "type": "MuteChatGuild",
+    "name": "聊天公会频道信息免打扰",
+    "key": "mute_chat_guild",
+    "client_modify": true,
+    "allow_values": "0|1"
+  },
+  {
+    "id": 14,
+    "type": "OnlinePracticeAutoFormation",
+    "name": "网游代行自动上阵",
+    "key": "opaf",
+    "client_modify": true,
+    "allow_values": "0|1"
+  },
+  {
+    "id": 15,
+    "type": "HideUID",
+    "name": "隐藏主界面UID",
+    "key": "hide_UID",
+    "client_modify": true,
+    "allow_values": "0|1"
+  }
+]

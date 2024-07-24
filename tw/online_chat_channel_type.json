@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "Private",
+    "name": "私聊频道"
+  },
+  {
+    "id": 2,
+    "type": "Guild",
+    "name": "工会频道"
+  },
+  {
+    "id": 3,
+    "type": "Team",
+    "name": "队伍频道"
+  },
+  {
+    "id": 4,
+    "type": "System",
+    "name": "系统频道"
+  }
+]

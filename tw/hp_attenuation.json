@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "m_specialitys": [],
+    "type": "Health",
+    "name": "健康(最大)",
+    "hp_min": 70,
+    "hp_max": 100,
+    "speciality_ids": ""
+  },
+  {
+    "id": 2,
+    "m_specialitys": [3136, 3137, 3138, 3139, 3140, 3141],
+    "type": "Injured",
+    "name": "受伤",
+    "hp_min": 30,
+    "hp_max": 70,
+    "speciality_ids": "3136|3137|3138|3139|3140|3141"
+  },
+  {
+    "id": 3,
+    "m_specialitys": [3142, 3144, 3145, 3146, 3147, 3148],
+    "type": "Dying",
+    "name": "濒死",
+    "hp_min": 0,
+    "hp_max": 30,
+    "speciality_ids": "3142|3144|3145|3146|3147|3148"
+  },
+  {
+    "id": 4,
+    "m_specialitys": [],
+    "type": "Dead",
+    "name": "死亡(最小)",
+    "hp_min": 0,
+    "hp_max": 0,
+    "speciality_ids": ""
+  }
+]

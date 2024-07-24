@@ -1,0 +1,74 @@
+[
+  {
+    "id": 16,
+    "type": "",
+    "name": "无属性",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "civilian"
+  },
+  {
+    "id": 17,
+    "type": "",
+    "name": "突袭者",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "assaulter"
+  },
+  {
+    "id": 18,
+    "type": "",
+    "name": "守望者",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "watcher"
+  },
+  {
+    "id": 19,
+    "type": "",
+    "name": "毁灭者",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "destoryer"
+  },
+  {
+    "id": 20,
+    "type": "",
+    "name": "粉碎者",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "breaker"
+  },
+  {
+    "id": 21,
+    "type": "",
+    "name": "防御者",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "defender"
+  },
+  {
+    "id": 22,
+    "type": "",
+    "name": "BOSS",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "boss"
+  },
+  {
+    "id": 23,
+    "type": "",
+    "name": "建筑",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "shooter"
+  },
+  {
+    "id": 24,
+    "type": "",
+    "name": "物件",
+    "desc": "",
+    "combat_distance": 1,
+    "icon": "sundries"
+  }
+]

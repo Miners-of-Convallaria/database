@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "idblessing": 1,
+    "idlevel": 1,
+    "additional_energy_cost": 0
+  },
+  {
+    "id": 2,
+    "idblessing": 1,
+    "idlevel": 2,
+    "additional_energy_cost": 10
+  },
+  {
+    "id": 3,
+    "idblessing": 1,
+    "idlevel": 3,
+    "additional_energy_cost": 20
+  },
+  {
+    "id": 4,
+    "idblessing": 1,
+    "idlevel": 4,
+    "additional_energy_cost": 30
+  },
+  {
+    "id": 5,
+    "idblessing": 1,
+    "idlevel": 5,
+    "additional_energy_cost": 30
+  },
+  {
+    "id": 6,
+    "idblessing": 2,
+    "idlevel": 1,
+    "additional_energy_cost": 0
+  },
+  {
+    "id": 7,
+    "idblessing": 2,
+    "idlevel": 2,
+    "additional_energy_cost": 0
+  },
+  {
+    "id": 8,
+    "idblessing": 2,
+    "idlevel": 3,
+    "additional_energy_cost": 0
+  },
+  {
+    "id": 9,
+    "idblessing": 2,
+    "idlevel": 4,
+    "additional_energy_cost": 15
+  },
+  {
+    "id": 10,
+    "idblessing": 2,
+    "idlevel": 5,
+    "additional_energy_cost": 30
+  }
+]

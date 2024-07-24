@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "type": "anchor_decorate",
+    "name": "装饰物锚点",
+    "desc": "装饰物锚点",
+    "param_0_name": "家具锚点ID",
+    "param_0": 1,
+    "param_1_name": "预留",
+    "param_1": 0
+  },
+  {
+    "id": 2,
+    "type": "anchor_bed",
+    "name": "床铺锚点",
+    "desc": "床铺锚点",
+    "param_0_name": "家具锚点ID",
+    "param_0": 2,
+    "param_1_name": "预留",
+    "param_1": 0
+  },
+  {
+    "id": 3,
+    "type": "anchor_rest",
+    "name": "休息区锚点",
+    "desc": "休息区锚点",
+    "param_0_name": "家具锚点ID",
+    "param_0": 3,
+    "param_1_name": "预留",
+    "param_1": 0
+  },
+  {
+    "id": 4,
+    "type": "anchor_desk",
+    "name": "办公区锚点",
+    "desc": "办公区锚点",
+    "param_0_name": "家具锚点ID",
+    "param_0": 4,
+    "param_1_name": "预留",
+    "param_1": 0
+  },
+  {
+    "id": 11,
+    "type": "rectangle1x1",
+    "name": "1x1",
+    "desc": "1x1规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 1,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 1
+  },
+  {
+    "id": 12,
+    "type": "rectangle1x2",
+    "name": "1x2",
+    "desc": "1x2规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 1,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 2
+  },
+  {
+    "id": 13,
+    "type": "rectangle1x3",
+    "name": "1x3",
+    "desc": "1x3规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 1,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 3
+  },
+  {
+    "id": 14,
+    "type": "rectangle1x4",
+    "name": "1x4",
+    "desc": "1x4规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 1,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 4
+  },
+  {
+    "id": 15,
+    "type": "rectangle1x5",
+    "name": "1x5",
+    "desc": "1x5规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 1,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 5
+  },
+  {
+    "id": 16,
+    "type": "rectangle1x6",
+    "name": "1x6",
+    "desc": "1x6规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 1,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 6
+  },
+  {
+    "id": 21,
+    "type": "rectangle2x1",
+    "name": "2x1",
+    "desc": "2x1规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 2,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 1
+  },
+  {
+    "id": 22,
+    "type": "rectangle2x2",
+    "name": "2x2",
+    "desc": "2x2规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 2,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 2
+  },
+  {
+    "id": 23,
+    "type": "rectangle2x3",
+    "name": "2x3",
+    "desc": "2x3规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 2,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 3
+  },
+  {
+    "id": 24,
+    "type": "rectangle2x4",
+    "name": "2x4",
+    "desc": "2x4规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 2,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 4
+  },
+  {
+    "id": 25,
+    "type": "rectangle2x5",
+    "name": "2x5",
+    "desc": "2x5规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 2,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 5
+  },
+  {
+    "id": 26,
+    "type": "rectangle2x6",
+    "name": "2x6",
+    "desc": "2x6规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 2,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 6
+  },
+  {
+    "id": 31,
+    "type": "rectangle3x1",
+    "name": "3x1",
+    "desc": "3x1规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 3,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 1
+  },
+  {
+    "id": 32,
+    "type": "rectangle3x2",
+    "name": "3x2",
+    "desc": "3x2规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 3,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 2
+  },
+  {
+    "id": 33,
+    "type": "rectangle3x3",
+    "name": "3x3",
+    "desc": "3x3规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 3,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 3
+  },
+  {
+    "id": 34,
+    "type": "rectangle3x4",
+    "name": "3x4",
+    "desc": "3x4规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 3,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 4
+  },
+  {
+    "id": 35,
+    "type": "rectangle3x5",
+    "name": "3x5",
+    "desc": "3x5规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 3,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 5
+  },
+  {
+    "id": 36,
+    "type": "rectangle3x6",
+    "name": "3x6",
+    "desc": "3x6规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 3,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 6
+  },
+  {
+    "id": 41,
+    "type": "rectangle4x1",
+    "name": "4x1",
+    "desc": "4x1规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 4,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 1
+  },
+  {
+    "id": 42,
+    "type": "rectangle4x2",
+    "name": "4x2",
+    "desc": "4x2规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 4,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 2
+  },
+  {
+    "id": 43,
+    "type": "rectangle4x3",
+    "name": "4x3",
+    "desc": "4x3规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 4,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 3
+  },
+  {
+    "id": 44,
+    "type": "rectangle4x4",
+    "name": "4x4",
+    "desc": "4x4规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 4,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 4
+  },
+  {
+    "id": 45,
+    "type": "rectangle4x5",
+    "name": "4x5",
+    "desc": "4x5规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 4,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 5
+  },
+  {
+    "id": 46,
+    "type": "rectangle4x6",
+    "name": "4x6",
+    "desc": "4x6规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 4,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 6
+  },
+  {
+    "id": 51,
+    "type": "rectangle5x1",
+    "name": "5x1",
+    "desc": "5x1规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 5,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 1
+  },
+  {
+    "id": 52,
+    "type": "rectangle5x2",
+    "name": "5x2",
+    "desc": "5x2规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 5,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 2
+  },
+  {
+    "id": 53,
+    "type": "rectangle5x3",
+    "name": "5x3",
+    "desc": "5x3规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 5,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 3
+  },
+  {
+    "id": 54,
+    "type": "rectangle5x4",
+    "name": "5x4",
+    "desc": "5x4规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 5,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 4
+  },
+  {
+    "id": 55,
+    "type": "rectangle5x5",
+    "name": "5x5",
+    "desc": "5x5规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 5,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 5
+  },
+  {
+    "id": 56,
+    "type": "rectangle5x6",
+    "name": "5x6",
+    "desc": "5x6规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 5,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 6
+  },
+  {
+    "id": 61,
+    "type": "rectangle6x1",
+    "name": "6x1",
+    "desc": "6x1规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 6,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 1
+  },
+  {
+    "id": 62,
+    "type": "rectangle6x2",
+    "name": "6x2",
+    "desc": "6x2规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 6,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 2
+  },
+  {
+    "id": 63,
+    "type": "rectangle6x3",
+    "name": "6x3",
+    "desc": "6x3规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 6,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 3
+  },
+  {
+    "id": 64,
+    "type": "rectangle6x4",
+    "name": "6x4",
+    "desc": "6x4规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 6,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 4
+  },
+  {
+    "id": 65,
+    "type": "rectangle6x5",
+    "name": "6x5",
+    "desc": "6x5规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 6,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 5
+  },
+  {
+    "id": 66,
+    "type": "rectangle6x6",
+    "name": "6x6",
+    "desc": "6x6规格",
+    "param_0_name": "家具长度(格)",
+    "param_0": 6,
+    "param_1_name": "家具宽度(格)",
+    "param_1": 6
+  }
+]

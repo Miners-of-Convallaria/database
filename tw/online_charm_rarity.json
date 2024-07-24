@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "type": "N",
+    "name": "N",
+    "desc": "",
+    "base_attribute_adjust": 50,
+    "level_cap": 15,
+    "entry_count": 1,
+    "return_exp": 40,
+    "return_money": 8,
+    "return_exp_ratio": 70,
+    "return_money_ratio": 20
+  },
+  {
+    "id": 2,
+    "type": "R",
+    "name": "R",
+    "desc": "",
+    "base_attribute_adjust": 70,
+    "level_cap": 30,
+    "entry_count": 2,
+    "return_exp": 80,
+    "return_money": 16,
+    "return_exp_ratio": 70,
+    "return_money_ratio": 20
+  },
+  {
+    "id": 3,
+    "type": "SR",
+    "name": "SR",
+    "desc": "",
+    "base_attribute_adjust": 90,
+    "level_cap": 45,
+    "entry_count": 3,
+    "return_exp": 120,
+    "return_money": 24,
+    "return_exp_ratio": 70,
+    "return_money_ratio": 20
+  },
+  {
+    "id": 4,
+    "type": "SSR",
+    "name": "SSR",
+    "desc": "",
+    "base_attribute_adjust": 100,
+    "level_cap": 60,
+    "entry_count": 4,
+    "return_exp": 200,
+    "return_money": 40,
+    "return_exp_ratio": 70,
+    "return_money_ratio": 20
+  }
+]

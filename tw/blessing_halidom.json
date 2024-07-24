@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "m_blessing_halidom_upgrades": [1, 2, 3, 4],
+    "name": "肃穆壁画",
+    "editor_name": "圣物-集体1",
+    "desc": "「集体赐福仪式」晶能回复与晶能上限提升",
+    "icon": "01",
+    "display_locked": false,
+    "is_special": false,
+    "title": "圣所"
+  },
+  {
+    "id": 2,
+    "m_blessing_halidom_upgrades": [5, 6],
+    "name": "辉耀琉璃",
+    "editor_name": "圣物-集体2",
+    "desc": "「集体赐福仪式」赐福强度提升",
+    "icon": "02",
+    "display_locked": false,
+    "is_special": false,
+    "title": "圣所"
+  },
+  {
+    "id": 3,
+    "m_blessing_halidom_upgrades": [7, 8, 9, 10, 11],
+    "name": "审判之杖",
+    "editor_name": "圣物-萨曼莎1",
+    "desc": "「至诚庇护仪式」晶能回复提升",
+    "icon": "03",
+    "display_locked": false,
+    "is_special": true,
+    "title": "礼器"
+  },
+  {
+    "id": 4,
+    "m_blessing_halidom_upgrades": [12, 13, 14, 15, 16],
+    "name": "庇护手链",
+    "editor_name": "圣物-萨曼莎2",
+    "desc": "「至诚庇护仪式」晶能上限提升",
+    "icon": "04",
+    "display_locked": false,
+    "is_special": true,
+    "title": "礼器"
+  },
+  {
+    "id": 5,
+    "m_blessing_halidom_upgrades": [17, 18, 19],
+    "name": "长夜明烛",
+    "editor_name": "圣物-萨曼莎3",
+    "desc": "「至诚庇护仪式」赐福持续周数或赐福强度提升",
+    "icon": "05",
+    "display_locked": false,
+    "is_special": true,
+    "title": "礼器"
+  },
+  {
+    "id": 6,
+    "m_blessing_halidom_upgrades": [20, 21, 22],
+    "name": "沐光礼冠",
+    "editor_name": "圣物-萨曼莎4",
+    "desc": "「至诚庇护仪式」准备时间降低",
+    "icon": "06",
+    "display_locked": false,
+    "is_special": true,
+    "title": "礼器"
+  },
+  {
+    "id": 7,
+    "m_blessing_halidom_upgrades": [23, 24, 25, 26, 27],
+    "name": "欢泽华杯",
+    "editor_name": "圣物-萨曼莎5",
+    "desc": "「至诚庇护仪式」产生光辉的眷顾几率提高",
+    "icon": "07",
+    "display_locked": false,
+    "is_special": true,
+    "title": "礼器"
+  },
+  {
+    "id": 8,
+    "m_blessing_halidom_upgrades": [28, 29, 30, 31, 32],
+    "name": "指引徽戒",
+    "editor_name": "圣物-萨曼莎6",
+    "desc": "「至诚庇护仪式」晶能消耗降低",
+    "icon": "08",
+    "display_locked": false,
+    "is_special": true,
+    "title": "礼器"
+  }
+]

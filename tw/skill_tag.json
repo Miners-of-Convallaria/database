@@ -1,0 +1,359 @@
+[
+  {
+    "id": 3,
+    "type": "Passive",
+    "name": "被动",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 4,
+    "type": "Reactive",
+    "name": "反应",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 6,
+    "type": "Leader",
+    "name": "领袖光环",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 7,
+    "type": "Equipment",
+    "name": "装备",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 8,
+    "type": "Tactics",
+    "name": "战术",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 9,
+    "type": "PhysicAttack",
+    "name": "物理",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 10,
+    "type": "SpellAttack",
+    "name": "魔法",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 11,
+    "type": "Melee",
+    "name": "近战",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 12,
+    "type": "Ranged",
+    "name": "远程",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 13,
+    "type": "Direct",
+    "name": "单体",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 14,
+    "type": "Indirect",
+    "name": "范围伤害",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 15,
+    "type": "MagicIce",
+    "name": "准备",
+    "desc": "使用后可获得能量的法术",
+    "is_show": false
+  },
+  {
+    "id": 16,
+    "type": "Support",
+    "name": "援攻",
+    "desc": "可以在回合外对友军进行援助攻击的技能",
+    "is_show": false
+  },
+  {
+    "id": 18,
+    "type": "Guard",
+    "name": "警戒",
+    "desc": "警戒类技能",
+    "is_show": false
+  },
+  {
+    "id": 23,
+    "type": "Charge",
+    "name": "冲锋",
+    "desc": "冲锋类技能",
+    "is_show": false
+  },
+  {
+    "id": 24,
+    "type": "Combo",
+    "name": "追击",
+    "desc": "连击类技能",
+    "is_show": false
+  },
+  {
+    "id": 26,
+    "type": "command",
+    "name": "光环",
+    "desc": "指挥类技能",
+    "is_show": false
+  },
+  {
+    "id": 27,
+    "type": "Alex",
+    "name": "阿力克塞个性",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 28,
+    "type": "Normal",
+    "name": "普攻",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 29,
+    "type": "SupportDefense",
+    "name": "援护防御",
+    "desc": "可以在回合外对友军进行援助防御的技能",
+    "is_show": false
+  },
+  {
+    "id": 30,
+    "type": "GuardAttack",
+    "name": "警戒攻击",
+    "desc": "警戒类技能",
+    "is_show": false
+  },
+  {
+    "id": 31,
+    "type": "SupportAttack",
+    "name": "援攻攻击",
+    "desc": "可以在回合外对友军进行援助攻击的技能",
+    "is_show": false
+  },
+  {
+    "id": 32,
+    "type": "FaHuang",
+    "name": "法皇之手专属",
+    "desc": "法皇之手专属",
+    "is_show": false
+  },
+  {
+    "id": 33,
+    "type": "Wutuan",
+    "name": "舞团舞娘",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 34,
+    "type": "Fire",
+    "name": "火魔法",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 35,
+    "type": "Widget",
+    "name": "装置",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 36,
+    "type": "Calamity",
+    "name": "灾厄",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 37,
+    "type": "Jianren",
+    "name": "剑刃乱舞",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 38,
+    "type": "Fireworks",
+    "name": "烟火",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 39,
+    "type": "Bingjiashu",
+    "name": "冰甲术",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 40,
+    "type": "Qiantao",
+    "name": "嵌套技能",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 41,
+    "type": "Jianji",
+    "name": "爱莎-剑技",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 42,
+    "type": "Extort",
+    "name": "敲诈",
+    "desc": "具有[敲诈]属性的攻击能够强制触发[死神税]的效果。",
+    "is_show": true
+  },
+  {
+    "id": 44,
+    "type": "Migeer",
+    "name": "强制触发再行动",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 46,
+    "type": "SofiaPassive",
+    "name": "斩奸除恶",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 47,
+    "type": "Bing",
+    "name": "冰属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 48,
+    "type": "Huo",
+    "name": "火属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 49,
+    "type": "Wuli",
+    "name": "物理属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 50,
+    "type": "Feng",
+    "name": "风属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 51,
+    "type": "Liulian",
+    "name": "舞团舞娘-流连忘返",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 52,
+    "type": "Partner",
+    "name": "伙伴",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 53,
+    "type": "SurpriseSkill",
+    "name": "突入技能",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 54,
+    "type": "Medicine",
+    "name": "希孜的苦药",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 55,
+    "type": "Drug",
+    "name": "希孜的毒药",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 56,
+    "type": "Bandage",
+    "name": "希孜的绷带",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 57,
+    "type": "Detonate",
+    "name": "引爆定点爆破",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 58,
+    "type": "sachet",
+    "name": "大活4-桥帮香囊治疗",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 59,
+    "type": "Liulian2",
+    "name": "舞团舞娘-流连忘返 2",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 60,
+    "type": "xuese",
+    "name": "血色晶石",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 61,
+    "type": "Chongci",
+    "name": "SP拉维耶",
+    "desc": "SP拉维耶",
+    "is_show": false
+  },
+  {
+    "id": 62,
+    "type": "Baopo",
+    "name": "定点爆破",
+    "desc": "",
+    "is_show": false
+  }
+]

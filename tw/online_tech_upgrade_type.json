@@ -1,0 +1,98 @@
+[
+  {
+    "id": 11,
+    "idonline_tech_type": 1,
+    "type": "AddTacticsSkill",
+    "name": "添加战术技能",
+    "param0_name": "战术技能",
+    "param0_type": "tactics_skill",
+    "param1_name": "",
+    "param1_type": "",
+    "enable_permillage": false,
+    "desc": ""
+  },
+  {
+    "id": 21,
+    "idonline_tech_type": 2,
+    "type": "TacticsSkillInitialPointModify",
+    "name": "初始战术点调整",
+    "param0_name": "数值",
+    "param0_type": "int",
+    "param1_name": "",
+    "param1_type": "",
+    "enable_permillage": false,
+    "desc": "[初始战术点数{change}] {number}"
+  },
+  {
+    "id": 22,
+    "idonline_tech_type": 2,
+    "type": "TacticsSkillMaxPointModify",
+    "name": "最大战术点调整",
+    "param0_name": "数值",
+    "param0_type": "int",
+    "param1_name": "",
+    "param1_type": "",
+    "enable_permillage": false,
+    "desc": "[战术点数上限{change}] {number}"
+  },
+  {
+    "id": 23,
+    "idonline_tech_type": 2,
+    "type": "TacticsSkillPointPerTurnModify",
+    "name": "每回合回复调整",
+    "param0_name": "数值",
+    "param0_type": "int",
+    "param1_name": "",
+    "param1_type": "",
+    "enable_permillage": false,
+    "desc": "[回合开始战术点数回复{change}] {number}"
+  },
+  {
+    "id": 24,
+    "idonline_tech_type": 2,
+    "type": "TacticsSkillPointPerRoundModify",
+    "name": "角色行动回复调整",
+    "param0_name": "数值",
+    "param0_type": "int",
+    "param1_name": "",
+    "param1_type": "",
+    "enable_permillage": false,
+    "desc": "[角色行动战术点数回复{change}] {number}"
+  },
+  {
+    "id": 31,
+    "idonline_tech_type": 3,
+    "type": "AddPassiveSkill",
+    "name": "添加被动技能",
+    "param0_name": "被动技能",
+    "param0_type": "skill",
+    "param1_name": "",
+    "param1_type": "",
+    "enable_permillage": false,
+    "desc": ""
+  },
+  {
+    "id": 41,
+    "idonline_tech_type": 4,
+    "type": "CategoryAttributeModify",
+    "name": "属性调整",
+    "param0_name": "属性",
+    "param0_type": "attribute_type",
+    "param1_name": "数值",
+    "param1_type": "int",
+    "enable_permillage": true,
+    "desc": "{professionCategoryName}的{attributeTypeName}{change} {number}"
+  },
+  {
+    "id": 51,
+    "idonline_tech_type": 5,
+    "type": "AttributeModify",
+    "name": "属性调整",
+    "param0_name": "属性",
+    "param0_type": "attribute_type",
+    "param1_name": "数值",
+    "param1_type": "int",
+    "enable_permillage": true,
+    "desc": "全职业{attributeTypeName}{change} {number}"
+  }
+]

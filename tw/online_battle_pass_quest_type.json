@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "每周任务",
+    "type": "Weekly",
+    "category": 1,
+    "refresh_method": 3,
+    "is_loop": false
+  },
+  {
+    "id": 2,
+    "name": "赛季任务",
+    "type": "Season",
+    "category": 2,
+    "refresh_method": 1,
+    "is_loop": false
+  },
+  {
+    "id": 3,
+    "name": "每日任务",
+    "type": "Daily",
+    "category": 2,
+    "refresh_method": 2,
+    "is_loop": false
+  },
+  {
+    "id": 4,
+    "name": "循环任务",
+    "type": "Loop",
+    "category": 2,
+    "refresh_method": 1,
+    "is_loop": true
+  }
+]

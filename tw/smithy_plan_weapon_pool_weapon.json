@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1,
+    "idsmithy_plan_weapon_pool": 1,
+    "weapon_id": 241,
+    "weight": 1
+  },
+  {
+    "id": 2,
+    "idsmithy_plan_weapon_pool": 1,
+    "weapon_id": 236,
+    "weight": 1
+  },
+  {
+    "id": 6,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 138,
+    "weight": 1
+  },
+  {
+    "id": 7,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 178,
+    "weight": 1
+  },
+  {
+    "id": 8,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 176,
+    "weight": 1
+  },
+  {
+    "id": 9,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 194,
+    "weight": 1
+  },
+  {
+    "id": 10,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 202,
+    "weight": 1
+  },
+  {
+    "id": 11,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 152,
+    "weight": 1
+  },
+  {
+    "id": 12,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 146,
+    "weight": 1
+  },
+  {
+    "id": 13,
+    "idsmithy_plan_weapon_pool": 3,
+    "weapon_id": 144,
+    "weight": 1
+  },
+  {
+    "id": 18,
+    "idsmithy_plan_weapon_pool": 4,
+    "weapon_id": 156,
+    "weight": 1
+  },
+  {
+    "id": 19,
+    "idsmithy_plan_weapon_pool": 4,
+    "weapon_id": 157,
+    "weight": 1
+  },
+  {
+    "id": 20,
+    "idsmithy_plan_weapon_pool": 2,
+    "weapon_id": 108,
+    "weight": 1
+  },
+  {
+    "id": 21,
+    "idsmithy_plan_weapon_pool": 2,
+    "weapon_id": 132,
+    "weight": 1
+  },
+  {
+    "id": 22,
+    "idsmithy_plan_weapon_pool": 2,
+    "weapon_id": 106,
+    "weight": 1
+  },
+  {
+    "id": 24,
+    "idsmithy_plan_weapon_pool": 2,
+    "weapon_id": 96,
+    "weight": 1
+  },
+  {
+    "id": 25,
+    "idsmithy_plan_weapon_pool": 4,
+    "weapon_id": 95,
+    "weight": 1
+  },
+  {
+    "id": 26,
+    "idsmithy_plan_weapon_pool": 4,
+    "weapon_id": 235,
+    "weight": 1
+  },
+  {
+    "id": 27,
+    "idsmithy_plan_weapon_pool": 4,
+    "weapon_id": 133,
+    "weight": 1
+  },
+  {
+    "id": 28,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 516,
+    "weight": 1
+  },
+  {
+    "id": 29,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 517,
+    "weight": 1
+  },
+  {
+    "id": 30,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 518,
+    "weight": 1
+  },
+  {
+    "id": 31,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 519,
+    "weight": 1
+  },
+  {
+    "id": 32,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 520,
+    "weight": 1
+  },
+  {
+    "id": 33,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 521,
+    "weight": 1
+  },
+  {
+    "id": 34,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 522,
+    "weight": 1
+  },
+  {
+    "id": 35,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 523,
+    "weight": 1
+  },
+  {
+    "id": 36,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 524,
+    "weight": 1
+  },
+  {
+    "id": 37,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 525,
+    "weight": 1
+  },
+  {
+    "id": 38,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 526,
+    "weight": 1
+  },
+  {
+    "id": 39,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 527,
+    "weight": 1
+  },
+  {
+    "id": 40,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 528,
+    "weight": 1
+  },
+  {
+    "id": 41,
+    "idsmithy_plan_weapon_pool": 5,
+    "weapon_id": 529,
+    "weight": 1
+  },
+  {
+    "id": 42,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 530,
+    "weight": 1
+  },
+  {
+    "id": 43,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 531,
+    "weight": 1
+  },
+  {
+    "id": 44,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 532,
+    "weight": 1
+  },
+  {
+    "id": 45,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 533,
+    "weight": 1
+  },
+  {
+    "id": 46,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 534,
+    "weight": 1
+  },
+  {
+    "id": 47,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 535,
+    "weight": 1
+  },
+  {
+    "id": 52,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 540,
+    "weight": 1
+  },
+  {
+    "id": 53,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 541,
+    "weight": 1
+  },
+  {
+    "id": 54,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 542,
+    "weight": 1
+  },
+  {
+    "id": 55,
+    "idsmithy_plan_weapon_pool": 6,
+    "weapon_id": 543,
+    "weight": 1
+  },
+  {
+    "id": 56,
+    "idsmithy_plan_weapon_pool": 7,
+    "weapon_id": 536,
+    "weight": 1
+  },
+  {
+    "id": 57,
+    "idsmithy_plan_weapon_pool": 7,
+    "weapon_id": 537,
+    "weight": 1
+  },
+  {
+    "id": 58,
+    "idsmithy_plan_weapon_pool": 7,
+    "weapon_id": 538,
+    "weight": 1
+  },
+  {
+    "id": 59,
+    "idsmithy_plan_weapon_pool": 7,
+    "weapon_id": 539,
+    "weight": 1
+  },
+  {
+    "id": 60,
+    "idsmithy_plan_weapon_pool": 7,
+    "weapon_id": 542,
+    "weight": 1
+  },
+  {
+    "id": 61,
+    "idsmithy_plan_weapon_pool": 7,
+    "weapon_id": 543,
+    "weight": 1
+  },
+  {
+    "id": 62,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 516,
+    "weight": 1
+  },
+  {
+    "id": 63,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 517,
+    "weight": 1
+  },
+  {
+    "id": 64,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 518,
+    "weight": 1
+  },
+  {
+    "id": 65,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 519,
+    "weight": 1
+  },
+  {
+    "id": 66,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 520,
+    "weight": 1
+  },
+  {
+    "id": 67,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 521,
+    "weight": 1
+  },
+  {
+    "id": 68,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 526,
+    "weight": 1
+  },
+  {
+    "id": 69,
+    "idsmithy_plan_weapon_pool": 8,
+    "weapon_id": 527,
+    "weight": 1
+  },
+  {
+    "id": 70,
+    "idsmithy_plan_weapon_pool": 9,
+    "weapon_id": 522,
+    "weight": 1
+  },
+  {
+    "id": 71,
+    "idsmithy_plan_weapon_pool": 9,
+    "weapon_id": 523,
+    "weight": 1
+  },
+  {
+    "id": 72,
+    "idsmithy_plan_weapon_pool": 9,
+    "weapon_id": 524,
+    "weight": 1
+  },
+  {
+    "id": 73,
+    "idsmithy_plan_weapon_pool": 9,
+    "weapon_id": 525,
+    "weight": 1
+  },
+  {
+    "id": 74,
+    "idsmithy_plan_weapon_pool": 9,
+    "weapon_id": 528,
+    "weight": 1
+  },
+  {
+    "id": 75,
+    "idsmithy_plan_weapon_pool": 9,
+    "weapon_id": 529,
+    "weight": 1
+  },
+  {
+    "id": 85,
+    "idsmithy_plan_weapon_pool": 11,
+    "weapon_id": 544,
+    "weight": 1
+  },
+  {
+    "id": 86,
+    "idsmithy_plan_weapon_pool": 13,
+    "weapon_id": 547,
+    "weight": 1
+  },
+  {
+    "id": 87,
+    "idsmithy_plan_weapon_pool": 12,
+    "weapon_id": 550,
+    "weight": 1
+  },
+  {
+    "id": 88,
+    "idsmithy_plan_weapon_pool": 12,
+    "weapon_id": 551,
+    "weight": 1
+  },
+  {
+    "id": 91,
+    "idsmithy_plan_weapon_pool": 14,
+    "weapon_id": 549,
+    "weight": 1
+  },
+  {
+    "id": 94,
+    "idsmithy_plan_weapon_pool": 14,
+    "weapon_id": 545,
+    "weight": 1
+  },
+  {
+    "id": 95,
+    "idsmithy_plan_weapon_pool": 14,
+    "weapon_id": 546,
+    "weight": 1
+  },
+  {
+    "id": 96,
+    "idsmithy_plan_weapon_pool": 14,
+    "weapon_id": 544,
+    "weight": 1
+  },
+  {
+    "id": 97,
+    "idsmithy_plan_weapon_pool": 12,
+    "weapon_id": 548,
+    "weight": 1
+  },
+  {
+    "id": 98,
+    "idsmithy_plan_weapon_pool": 12,
+    "weapon_id": 547,
+    "weight": 1
+  }
+]

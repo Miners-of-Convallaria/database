@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "type": "diamond",
+    "name": "菱形",
+    "desc": ""
+  },
+  {
+    "id": 2,
+    "type": "cross_line",
+    "name": "十字",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "type": "sector",
+    "name": "扇形",
+    "desc": ""
+  },
+  {
+    "id": 4,
+    "type": "direction",
+    "name": "单向线",
+    "desc": ""
+  },
+  {
+    "id": 5,
+    "type": "rect",
+    "name": "矩形",
+    "desc": ""
+  },
+  {
+    "id": 6,
+    "type": "pattern",
+    "name": "图像",
+    "desc": ""
+  },
+  {
+    "id": 7,
+    "type": "all",
+    "name": "全部",
+    "desc": ""
+  },
+  {
+    "id": 8,
+    "type": "side_line",
+    "name": "侧面",
+    "desc": ""
+  },
+  {
+    "id": 9,
+    "type": "horizontal_line",
+    "name": "横线",
+    "desc": ""
+  }
+]

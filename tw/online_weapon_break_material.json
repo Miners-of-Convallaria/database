@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "m_system_redirects": [2501],
+    "name": "光辉铸铁",
+    "editor_name": "普通光辉铸铁",
+    "desc": "用于装备突破的普通级材料。",
+    "rarity": 1,
+    "system_redirect_ids": "2501",
+    "icon": "weapon_break_material"
+  },
+  {
+    "id": 2,
+    "m_system_redirects": [2501],
+    "name": "精英级光辉铸铁",
+    "editor_name": "稀有光辉铸铁",
+    "desc": "用于装备突破的精英级材料。",
+    "rarity": 2,
+    "system_redirect_ids": "2501",
+    "icon": "weapon_break_material"
+  },
+  {
+    "id": 3,
+    "m_system_redirects": [2501],
+    "name": "史诗级光辉铸铁",
+    "editor_name": "史诗光辉铸铁",
+    "desc": "用于装备突破的史诗级材料。",
+    "rarity": 3,
+    "system_redirect_ids": "2501",
+    "icon": "weapon_break_material"
+  },
+  {
+    "id": 4,
+    "m_system_redirects": [2501],
+    "name": "传说级光辉铸铁",
+    "editor_name": "传说光辉铸铁",
+    "desc": "用于装备突破的传说级材料。",
+    "rarity": 4,
+    "system_redirect_ids": "2501",
+    "icon": "weapon_break_material"
+  }
+]

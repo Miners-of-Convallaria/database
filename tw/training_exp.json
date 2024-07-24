@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "exp": 70,
+    "price": 20
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "exp": 146,
+    "price": 20
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "exp": 228,
+    "price": 20
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "exp": 316,
+    "price": 20
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "exp": 412,
+    "price": 20
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "exp": 517,
+    "price": 20
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "exp": 629,
+    "price": 20
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "exp": 752,
+    "price": 20
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "exp": 885,
+    "price": 20
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "exp": 1029,
+    "price": 20
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "exp": 1185,
+    "price": 20
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "exp": 1355,
+    "price": 20
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "exp": 1539,
+    "price": 20
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "exp": 1739,
+    "price": 20
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "exp": 1956,
+    "price": 20
+  },
+  {
+    "id": 16,
+    "level": 16,
+    "exp": 2192,
+    "price": 30
+  },
+  {
+    "id": 17,
+    "level": 17,
+    "exp": 2448,
+    "price": 30
+  },
+  {
+    "id": 18,
+    "level": 18,
+    "exp": 2726,
+    "price": 30
+  },
+  {
+    "id": 19,
+    "level": 19,
+    "exp": 3027,
+    "price": 30
+  },
+  {
+    "id": 20,
+    "level": 20,
+    "exp": 3355,
+    "price": 30
+  },
+  {
+    "id": 21,
+    "level": 21,
+    "exp": 3711,
+    "price": 30
+  },
+  {
+    "id": 22,
+    "level": 22,
+    "exp": 4098,
+    "price": 30
+  },
+  {
+    "id": 23,
+    "level": 23,
+    "exp": 4517,
+    "price": 30
+  },
+  {
+    "id": 24,
+    "level": 24,
+    "exp": 4973,
+    "price": 30
+  },
+  {
+    "id": 25,
+    "level": 25,
+    "exp": 5467,
+    "price": 30
+  },
+  {
+    "id": 26,
+    "level": 26,
+    "exp": 6004,
+    "price": 40
+  },
+  {
+    "id": 27,
+    "level": 27,
+    "exp": 6587,
+    "price": 40
+  },
+  {
+    "id": 28,
+    "level": 28,
+    "exp": 7219,
+    "price": 40
+  },
+  {
+    "id": 29,
+    "level": 29,
+    "exp": 7906,
+    "price": 40
+  },
+  {
+    "id": 30,
+    "level": 30,
+    "exp": 8651,
+    "price": 40
+  },
+  {
+    "id": 31,
+    "level": 31,
+    "exp": 9460,
+    "price": 40
+  },
+  {
+    "id": 32,
+    "level": 32,
+    "exp": 10337,
+    "price": 40
+  },
+  {
+    "id": 33,
+    "level": 33,
+    "exp": 11289,
+    "price": 40
+  },
+  {
+    "id": 34,
+    "level": 34,
+    "exp": 12322,
+    "price": 40
+  },
+  {
+    "id": 35,
+    "level": 35,
+    "exp": 13442,
+    "price": 40
+  },
+  {
+    "id": 36,
+    "level": 36,
+    "exp": 14656,
+    "price": 50
+  },
+  {
+    "id": 37,
+    "level": 37,
+    "exp": 15972,
+    "price": 50
+  },
+  {
+    "id": 38,
+    "level": 38,
+    "exp": 17400,
+    "price": 50
+  },
+  {
+    "id": 39,
+    "level": 39,
+    "exp": 18947,
+    "price": 50
+  },
+  {
+    "id": 40,
+    "level": 40,
+    "exp": 20623,
+    "price": 50
+  },
+  {
+    "id": 41,
+    "level": 41,
+    "exp": 22439,
+    "price": 50
+  },
+  {
+    "id": 42,
+    "level": 42,
+    "exp": 24407,
+    "price": 50
+  },
+  {
+    "id": 43,
+    "level": 43,
+    "exp": 26538,
+    "price": 50
+  },
+  {
+    "id": 44,
+    "level": 44,
+    "exp": 28845,
+    "price": 50
+  },
+  {
+    "id": 45,
+    "level": 45,
+    "exp": 31342,
+    "price": 50
+  },
+  {
+    "id": 46,
+    "level": 46,
+    "exp": 34045,
+    "price": 50
+  },
+  {
+    "id": 47,
+    "level": 47,
+    "exp": 36970,
+    "price": 50
+  },
+  {
+    "id": 48,
+    "level": 48,
+    "exp": 40133,
+    "price": 50
+  },
+  {
+    "id": 49,
+    "level": 49,
+    "exp": 43555,
+    "price": 50
+  },
+  {
+    "id": 50,
+    "level": 50,
+    "exp": 47253,
+    "price": 80
+  },
+  {
+    "id": 51,
+    "level": 51,
+    "exp": 51250,
+    "price": 80
+  },
+  {
+    "id": 52,
+    "level": 52,
+    "exp": 55569,
+    "price": 80
+  },
+  {
+    "id": 53,
+    "level": 53,
+    "exp": 60234,
+    "price": 80
+  },
+  {
+    "id": 54,
+    "level": 54,
+    "exp": 65272,
+    "price": 80
+  },
+  {
+    "id": 55,
+    "level": 55,
+    "exp": 70709,
+    "price": 80
+  },
+  {
+    "id": 56,
+    "level": 56,
+    "exp": 76576,
+    "price": 80
+  },
+  {
+    "id": 57,
+    "level": 57,
+    "exp": 82904,
+    "price": 80
+  },
+  {
+    "id": 58,
+    "level": 58,
+    "exp": 89727,
+    "price": 80
+  },
+  {
+    "id": 59,
+    "level": 59,
+    "exp": 97081,
+    "price": 80
+  },
+  {
+    "id": 60,
+    "level": 60,
+    "exp": 97081,
+    "price": 80
+  }
+]

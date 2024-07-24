@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "idonline_role_unit": 125,
+    "skill_id": 6883,
+    "role_unit_id": 53,
+    "rank_id": 5,
+    "skill_index": 1,
+    "star": 3
+  },
+  {
+    "id": 9,
+    "idonline_role_unit": 53,
+    "skill_id": 6873,
+    "role_unit_id": 125,
+    "rank_id": 3,
+    "skill_index": 1,
+    "star": 2
+  },
+  {
+    "id": 10,
+    "idonline_role_unit": 143,
+    "skill_id": 11378,
+    "role_unit_id": 108,
+    "rank_id": 5,
+    "skill_index": 1,
+    "star": 3
+  },
+  {
+    "id": 13,
+    "idonline_role_unit": 138,
+    "skill_id": 11317,
+    "role_unit_id": 46,
+    "rank_id": 3,
+    "skill_index": 2,
+    "star": 3
+  },
+  {
+    "id": 14,
+    "idonline_role_unit": 46,
+    "skill_id": 9699,
+    "role_unit_id": 138,
+    "rank_id": 1,
+    "skill_index": 2,
+    "star": 3
+  },
+  {
+    "id": 15,
+    "idonline_role_unit": 108,
+    "skill_id": 8999,
+    "role_unit_id": 143,
+    "rank_id": 1,
+    "skill_index": 2,
+    "star": 3
+  }
+]

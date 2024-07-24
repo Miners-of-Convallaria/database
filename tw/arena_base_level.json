@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 3,
+    "name": "3级",
+    "building_cost": 15
+  }
+]

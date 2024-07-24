@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": "normal",
+    "name": "普通主题",
+    "desc": "默认主题家具",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "type": "newyear",
+    "name": "新春主题",
+    "desc": "新春限时出售主题家具",
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "type": "halloween",
+    "name": "万圣节主题",
+    "desc": "万圣节限时出售主题家具",
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "type": "elysiumInitial",
+    "name": "乐土初始家具",
+    "desc": "乐土初始家具",
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "type": "socDefault",
+    "name": "铃兰小镇",
+    "desc": "铃兰小镇",
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "type": "special",
+    "name": "特别纪念",
+    "desc": "特别纪念",
+    "icon": ""
+  }
+]

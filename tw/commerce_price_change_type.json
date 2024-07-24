@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "全部货物禁运",
+    "desc": "",
+    "type": "AllCargoEmbargo",
+    "param0_type": "",
+    "param0_name": "",
+    "param1_type": "",
+    "param1_name": ""
+  },
+  {
+    "id": 2,
+    "name": "除XXX外禁运",
+    "desc": "",
+    "type": "NoEmbargo",
+    "param0_type": "commerce_props",
+    "param0_name": "道具ID",
+    "param1_type": "int",
+    "param1_name": "百分比"
+  },
+  {
+    "id": 3,
+    "name": "XXX禁运",
+    "desc": "",
+    "type": "Embargo",
+    "param0_type": "commerce_props",
+    "param0_name": "道具ID",
+    "param1_type": "int",
+    "param1_name": "百分比"
+  },
+  {
+    "id": 4,
+    "name": "全部货物增加",
+    "desc": "",
+    "type": "AllCargoAdd",
+    "param0_type": "",
+    "param0_name": "",
+    "param1_type": "",
+    "param1_name": ""
+  },
+  {
+    "id": 5,
+    "name": "除XXX外增加",
+    "desc": "",
+    "type": "NoAdd",
+    "param0_type": "commerce_props",
+    "param0_name": "道具ID",
+    "param1_type": "int",
+    "param1_name": "百分比"
+  },
+  {
+    "id": 6,
+    "name": "XXX增加",
+    "desc": "",
+    "type": "Add",
+    "param0_type": "commerce_props",
+    "param0_name": "道具ID",
+    "param1_type": "int",
+    "param1_name": "百分比"
+  },
+  {
+    "id": 7,
+    "name": "禁止资金替代",
+    "desc": "",
+    "type": "ProhibitedSubstitution",
+    "param0_type": "",
+    "param0_name": "",
+    "param1_type": "",
+    "param1_name": ""
+  }
+]

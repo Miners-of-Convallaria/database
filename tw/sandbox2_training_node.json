@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "m_sandbox2_training_node_levels": [1, 2, 42],
+    "idsandbox2_training_node_group": 1,
+    "name": "突入指令",
+    "editor_name": "突入技能1_深入打击",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "m_sandbox2_training_node_levels": [3, 4, 43],
+    "idsandbox2_training_node_group": 2,
+    "name": "闪光弹",
+    "editor_name": "突入技能2_闪光弹",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "m_sandbox2_training_node_levels": [5, 6, 7],
+    "idsandbox2_training_node_group": 1,
+    "name": "灭火泡沫",
+    "editor_name": "突入技能3_灭火泡沫",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "m_sandbox2_training_node_levels": [8, 9, 10],
+    "idsandbox2_training_node_group": 2,
+    "name": "狙击指令",
+    "editor_name": "突入技能4_狙击",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "m_sandbox2_training_node_levels": [11, 12, 13],
+    "idsandbox2_training_node_group": 3,
+    "name": "火力覆盖",
+    "editor_name": "突入技能5_380MM高爆弹火力网",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "m_sandbox2_training_node_levels": [14, 15, 16],
+    "idsandbox2_training_node_group": 4,
+    "name": "闪电行动",
+    "editor_name": "突入技能6_闪电行动",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 7,
+    "m_sandbox2_training_node_levels": [17, 18, 19],
+    "idsandbox2_training_node_group": 5,
+    "name": "陷阱散布",
+    "editor_name": "突入技能7_集束地雷发射器",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 8,
+    "m_sandbox2_training_node_levels": [20, 21, 22],
+    "idsandbox2_training_node_group": 6,
+    "name": "挑衅指令",
+    "editor_name": "突入技能8_挑衅",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 9,
+    "m_sandbox2_training_node_levels": [23, 44],
+    "idsandbox2_training_node_group": 1,
+    "name": "要人救援指令",
+    "editor_name": "战术技能1_专家治疗",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 10,
+    "m_sandbox2_training_node_levels": [24, 25],
+    "idsandbox2_training_node_group": 4,
+    "name": "布置守卫假人",
+    "editor_name": "战术技能2_布置守卫假人",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 11,
+    "m_sandbox2_training_node_levels": [26, 27],
+    "idsandbox2_training_node_group": 2,
+    "name": "便携式灭火弹",
+    "editor_name": "战术技能3_专用灭火器",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 12,
+    "m_sandbox2_training_node_levels": [28, 29],
+    "idsandbox2_training_node_group": 5,
+    "name": "追击指令",
+    "editor_name": "战术技能4_追击指令",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 13,
+    "m_sandbox2_training_node_levels": [30, 31],
+    "idsandbox2_training_node_group": 3,
+    "name": "英雄无敌",
+    "editor_name": "战术技能5_英雄无敌",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 14,
+    "m_sandbox2_training_node_levels": [32, 33],
+    "idsandbox2_training_node_group": 5,
+    "name": "夜幕行动",
+    "editor_name": "战术技能6_倒吊人",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 15,
+    "m_sandbox2_training_node_levels": [34, 35],
+    "idsandbox2_training_node_group": 1,
+    "name": "初始战术点提升",
+    "editor_name": "战术科技_初始战术点提升",
+    "content_type": 3,
+    "icon": "online_tech_004"
+  },
+  {
+    "id": 16,
+    "m_sandbox2_training_node_levels": [36, 37],
+    "idsandbox2_training_node_group": 2,
+    "name": "战术点上限提升",
+    "editor_name": "战术科技_战术点上限提升",
+    "content_type": 3,
+    "icon": "online_tech_023"
+  },
+  {
+    "id": 17,
+    "m_sandbox2_training_node_levels": [38, 39],
+    "idsandbox2_training_node_group": 3,
+    "name": "战术点回复提升",
+    "editor_name": "战术科技_战术点回复提升",
+    "content_type": 3,
+    "icon": "online_tech_003"
+  },
+  {
+    "id": 18,
+    "m_sandbox2_training_node_levels": [40, 41],
+    "idsandbox2_training_node_group": 3,
+    "name": "突入技能机会",
+    "editor_name": "战术科技_突入技能释放次数",
+    "content_type": 3,
+    "icon": "online_tech_025"
+  }
+]

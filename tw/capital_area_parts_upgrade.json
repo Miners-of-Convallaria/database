@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "idcapital_area_parts": 1,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 0,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "anvil_1"
+  },
+  {
+    "id": 2,
+    "idcapital_area_parts": 1,
+    "level": 2,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 0,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "anvil_2"
+  },
+  {
+    "id": 3,
+    "idcapital_area_parts": 6,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 0,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianba_01_1"
+  },
+  {
+    "id": 4,
+    "idcapital_area_parts": 6,
+    "level": 2,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 4,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianba_02_2"
+  },
+  {
+    "id": 5,
+    "idcapital_area_parts": 7,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 0,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianba_02_1"
+  },
+  {
+    "id": 6,
+    "idcapital_area_parts": 7,
+    "level": 2,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 4,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianba_02_2"
+  },
+  {
+    "id": 7,
+    "idcapital_area_parts": 8,
+    "level": 1,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 1,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianba_01_1"
+  },
+  {
+    "id": 8,
+    "idcapital_area_parts": 8,
+    "level": 2,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 1,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 4,
+    "model": "jianba_02_2"
+  },
+  {
+    "id": 9,
+    "idcapital_area_parts": 9,
+    "level": 1,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 2,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianba_02_1"
+  },
+  {
+    "id": 10,
+    "idcapital_area_parts": 9,
+    "level": 2,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 2,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 4,
+    "model": "jianba_02_2"
+  },
+  {
+    "id": 11,
+    "idcapital_area_parts": 10,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 0,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "muzhuang_01_1"
+  },
+  {
+    "id": 12,
+    "idcapital_area_parts": 10,
+    "level": 2,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 4,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "muzhuang_01_2"
+  },
+  {
+    "id": 13,
+    "idcapital_area_parts": 11,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 0,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "muzhuang_02_1"
+  },
+  {
+    "id": 14,
+    "idcapital_area_parts": 11,
+    "level": 2,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 4,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "muzhuang_01_2"
+  },
+  {
+    "id": 15,
+    "idcapital_area_parts": 12,
+    "level": 1,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 1,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "muzhuang_01_1"
+  },
+  {
+    "id": 16,
+    "idcapital_area_parts": 12,
+    "level": 2,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 1,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 4,
+    "model": "muzhuang_01_2"
+  },
+  {
+    "id": 17,
+    "idcapital_area_parts": 13,
+    "level": 1,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 2,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "muzhuang_02_1"
+  },
+  {
+    "id": 18,
+    "idcapital_area_parts": 13,
+    "level": 2,
+    "require_system_tech_type1": 2,
+    "require_system_tech_count1": 2,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 4,
+    "model": "muzhuang_01_2"
+  },
+  {
+    "id": 19,
+    "idcapital_area_parts": 2,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 1,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "qizhi_01_2"
+  },
+  {
+    "id": 20,
+    "idcapital_area_parts": 3,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 2,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "qizhi_02_2"
+  },
+  {
+    "id": 21,
+    "idcapital_area_parts": 4,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 3,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "shuzhuang_2"
+  },
+  {
+    "id": 22,
+    "idcapital_area_parts": 14,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 5,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianta_01_2"
+  },
+  {
+    "id": 23,
+    "idcapital_area_parts": 15,
+    "level": 1,
+    "require_system_tech_type1": 0,
+    "require_system_tech_count1": 5,
+    "require_system_tech_type2": 0,
+    "require_system_tech_count2": 0,
+    "model": "jianta_01_2"
+  }
+]

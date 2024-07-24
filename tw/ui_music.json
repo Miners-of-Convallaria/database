@@ -1,0 +1,314 @@
+[
+  {
+    "id": 2,
+    "name": "BonfireChallengeUI",
+    "game_config": 1,
+    "desc": "BonfireChallengeUI",
+    "editor_name": "BonfireChallengeUI",
+    "music_setting": 1
+  },
+  {
+    "id": 3,
+    "name": "OnlineUnitUI",
+    "game_config": 1,
+    "desc": "网游角色",
+    "editor_name": "网游角色",
+    "music_setting": 2
+  },
+  {
+    "id": 4,
+    "name": "OnlineWarehouseUI",
+    "game_config": 1,
+    "desc": "网游仓库",
+    "editor_name": "网游仓库",
+    "music_setting": 3
+  },
+  {
+    "id": 5,
+    "name": "OnlineShopUI",
+    "game_config": 1,
+    "desc": "网游商店",
+    "editor_name": "网游商店",
+    "music_setting": 4
+  },
+  {
+    "id": 6,
+    "name": "MailUI",
+    "game_config": 1,
+    "desc": "邮件",
+    "editor_name": "邮件",
+    "music_setting": 5
+  },
+  {
+    "id": 7,
+    "name": "AchievementQuestMain",
+    "game_config": 1,
+    "desc": "任务",
+    "editor_name": "任务",
+    "music_setting": 6
+  },
+  {
+    "id": 8,
+    "name": "WarehouseUI",
+    "game_config": 2,
+    "desc": "仓库",
+    "editor_name": "仓库",
+    "music_setting": 7
+  },
+  {
+    "id": 9,
+    "name": "ArchivesUI",
+    "game_config": 2,
+    "desc": "档案",
+    "editor_name": "档案",
+    "music_setting": 8
+  },
+  {
+    "id": 10,
+    "name": "ShopUI",
+    "game_config": 2,
+    "desc": "商店",
+    "editor_name": "商店",
+    "music_setting": 9
+  },
+  {
+    "id": 11,
+    "name": "UnitUI",
+    "game_config": 2,
+    "desc": "角色",
+    "editor_name": "角色",
+    "music_setting": 10
+  },
+  {
+    "id": 12,
+    "name": "WorldMapUI",
+    "game_config": 2,
+    "desc": "委托",
+    "editor_name": "委托",
+    "music_setting": 11
+  },
+  {
+    "id": 13,
+    "name": "ActivityUI",
+    "game_config": 1,
+    "desc": "交错的世界",
+    "editor_name": "交错的世界",
+    "music_setting": 12
+  },
+  {
+    "id": 14,
+    "name": "QuestUI",
+    "game_config": 1,
+    "desc": "愚者的旅程",
+    "editor_name": "愚者的旅程",
+    "music_setting": 13
+  },
+  {
+    "id": 15,
+    "name": "ArenaUI",
+    "game_config": 1,
+    "desc": "竞技场",
+    "editor_name": "竞技场",
+    "music_setting": 14
+  },
+  {
+    "id": 16,
+    "name": "IntelligenceUI",
+    "game_config": 1,
+    "desc": "百科",
+    "editor_name": "百科",
+    "music_setting": 15
+  },
+  {
+    "id": 17,
+    "name": "SandboxEventLogUI",
+    "game_config": 2,
+    "desc": "沙盒记录",
+    "editor_name": "沙盒记录",
+    "music_setting": 16
+  },
+  {
+    "id": 18,
+    "name": "ReadNoteUI",
+    "game_config": 2,
+    "desc": "笔记",
+    "editor_name": "笔记",
+    "music_setting": 17
+  },
+  {
+    "id": 19,
+    "name": "SandboxPauseUI",
+    "game_config": 1,
+    "desc": "沙盒暂离",
+    "editor_name": "沙盒暂离",
+    "music_setting": 18
+  },
+  {
+    "id": 20,
+    "name": "OperationActivityUI",
+    "game_config": 1,
+    "desc": "活动",
+    "editor_name": "活动",
+    "music_setting": 19
+  },
+  {
+    "id": 21,
+    "name": "GachaUI",
+    "game_config": 1,
+    "desc": "邂逅",
+    "editor_name": "邂逅",
+    "music_setting": 20
+  },
+  {
+    "id": 22,
+    "name": "SandboxCollectUI",
+    "game_config": 1,
+    "desc": "命运印记",
+    "editor_name": "命运印记",
+    "music_setting": 21
+  },
+  {
+    "id": 23,
+    "name": "GameLobbyDockView",
+    "game_config": 1,
+    "desc": "GameLobbyDockView",
+    "editor_name": "GameLobbyDockView",
+    "music_setting": 22
+  },
+  {
+    "id": 24,
+    "name": "SandboxEntryUI",
+    "game_config": 1,
+    "desc": "沙盒入口",
+    "editor_name": "沙盒入口",
+    "music_setting": 23
+  },
+  {
+    "id": 25,
+    "name": "OnlineTechUI",
+    "game_config": 1,
+    "desc": "天赋",
+    "editor_name": "天赋",
+    "music_setting": 24
+  },
+  {
+    "id": 26,
+    "name": "SystemNavigationUI",
+    "game_config": 1,
+    "desc": "导航",
+    "editor_name": "导航",
+    "music_setting": 25
+  },
+  {
+    "id": 27,
+    "name": "SandboxMemoirUI",
+    "game_config": 1,
+    "desc": "追忆",
+    "editor_name": "追忆",
+    "music_setting": 26
+  },
+  {
+    "id": 28,
+    "name": "TowerUI",
+    "game_config": 1,
+    "desc": "命运印记中的追忆",
+    "editor_name": "命运印记中的追忆",
+    "music_setting": 27
+  },
+  {
+    "id": 30,
+    "name": "RoleFriendshipUI",
+    "game_config": 1,
+    "desc": "羁绊",
+    "editor_name": "羁绊",
+    "music_setting": 28
+  },
+  {
+    "id": 32,
+    "name": "OnlineCardUI",
+    "game_config": 1,
+    "desc": "玩家名片",
+    "editor_name": "玩家名片",
+    "music_setting": 29
+  },
+  {
+    "id": 33,
+    "name": "OnlineBattlePass",
+    "game_config": 1,
+    "desc": "丰饶之角",
+    "editor_name": "丰饶之角",
+    "music_setting": 30
+  },
+  {
+    "id": 34,
+    "name": "TranscriptUI",
+    "game_config": 1,
+    "desc": "命运印记中的见闻",
+    "editor_name": "命运印记中的见闻",
+    "music_setting": 31
+  },
+  {
+    "id": 35,
+    "name": "ContractActivityUI",
+    "game_config": 1,
+    "desc": "限时活动",
+    "editor_name": "限时活动",
+    "music_setting": 32
+  },
+  {
+    "id": 36,
+    "name": "OnlineRankUI",
+    "game_config": 1,
+    "desc": "排行榜",
+    "editor_name": "排行榜",
+    "music_setting": 33
+  },
+  {
+    "id": 37,
+    "name": "CommerceUI",
+    "game_config": 2,
+    "desc": "商会",
+    "editor_name": "商会",
+    "music_setting": 34
+  },
+  {
+    "id": 38,
+    "name": "RichmanUI",
+    "game_config": 1,
+    "desc": "大富翁",
+    "editor_name": "大富翁",
+    "music_setting": 35
+  },
+  {
+    "id": 39,
+    "name": "OperationActivitySubPageUI",
+    "game_config": 1,
+    "desc": "OperationActivitySubPageUI",
+    "editor_name": "OperationActivitySubPageUI",
+    "music_setting": 36
+  },
+  {
+    "id": 40,
+    "name": "Abyss",
+    "game_config": 1,
+    "desc": "逆境之塔",
+    "editor_name": "逆境之塔",
+    "music_setting": 37
+  },
+  {
+    "id": 43,
+    "name": "PrequelClueWall",
+    "game_config": 3,
+    "desc": "前传线-线索墙",
+    "editor_name": "线索墙",
+    "music_setting": 38
+  },
+  {
+    "id": 48,
+    "name": "UIBPMatchView",
+    "game_config": 1,
+    "desc": "",
+    "editor_name": "切磋模式编队",
+    "music_setting": 63
+  }
+]

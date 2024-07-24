@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "黑铁",
+    "editor_name": "E",
+    "icon": "online_tech_grade_01"
+  },
+  {
+    "id": 2,
+    "name": "青铜",
+    "editor_name": "D",
+    "icon": "online_tech_grade_02"
+  },
+  {
+    "id": 3,
+    "name": "白银",
+    "editor_name": "C",
+    "icon": "online_tech_grade_03"
+  },
+  {
+    "id": 4,
+    "name": "黄金",
+    "editor_name": "B",
+    "icon": "online_tech_grade_04"
+  },
+  {
+    "id": 5,
+    "name": "白金",
+    "editor_name": "A",
+    "icon": "online_tech_grade_05"
+  },
+  {
+    "id": 6,
+    "name": "光辉",
+    "editor_name": "S",
+    "icon": "online_tech_grade_06"
+  }
+]

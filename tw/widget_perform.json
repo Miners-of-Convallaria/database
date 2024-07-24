@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "idwidget": 8,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 2,
+    "idwidget": 8,
+    "name": "disappear",
+    "perform_sequence_id": 539
+  },
+  {
+    "id": 3,
+    "idwidget": 9,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 4,
+    "idwidget": 9,
+    "name": "disappear",
+    "perform_sequence_id": 539
+  },
+  {
+    "id": 5,
+    "idwidget": 13,
+    "name": "disappear",
+    "perform_sequence_id": 539
+  },
+  {
+    "id": 6,
+    "idwidget": 13,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 7,
+    "idwidget": 12,
+    "name": "disappear",
+    "perform_sequence_id": 539
+  },
+  {
+    "id": 8,
+    "idwidget": 12,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 9,
+    "idwidget": 19,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 10,
+    "idwidget": 19,
+    "name": "die",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 11,
+    "idwidget": 20,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 12,
+    "idwidget": 20,
+    "name": "die",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 13,
+    "idwidget": 5,
+    "name": "disappear",
+    "perform_sequence_id": 539
+  },
+  {
+    "id": 14,
+    "idwidget": 5,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 15,
+    "idwidget": 16,
+    "name": "disappear",
+    "perform_sequence_id": 539
+  },
+  {
+    "id": 16,
+    "idwidget": 16,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 17,
+    "idwidget": 23,
+    "name": "die",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 18,
+    "idwidget": 22,
+    "name": "die",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 19,
+    "idwidget": 4,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 20,
+    "idwidget": 7,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 21,
+    "idwidget": 14,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 22,
+    "idwidget": 17,
+    "name": "die",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 23,
+    "idwidget": 21,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 24,
+    "idwidget": 23,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 25,
+    "idwidget": 22,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 26,
+    "idwidget": 40,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 27,
+    "idwidget": 40,
+    "name": "die",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 28,
+    "idwidget": 41,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 29,
+    "idwidget": 41,
+    "name": "die",
+    "perform_sequence_id": 611
+  }
+]

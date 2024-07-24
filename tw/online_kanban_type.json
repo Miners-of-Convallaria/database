@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "普通",
+    "type": "Normal"
+  },
+  {
+    "id": 2,
+    "name": "外观",
+    "type": "Avatar"
+  },
+  {
+    "id": 3,
+    "name": "角色",
+    "type": "Unit"
+  }
+]

@@ -1,0 +1,1163 @@
+[
+  {
+    "id": 1,
+    "idworld_map_performance": 0,
+    "type": "默认",
+    "name": "屏幕中心点",
+    "x": 9796,
+    "y": 5670,
+    "is_default": true
+  },
+  {
+    "id": 2,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "01晨曦堡",
+    "x": 6900,
+    "y": 2238,
+    "is_default": true
+  },
+  {
+    "id": 21,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "02浪涌城",
+    "x": 4235,
+    "y": 3856,
+    "is_default": true
+  },
+  {
+    "id": 22,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "03暮光城",
+    "x": 6600,
+    "y": 5725,
+    "is_default": true
+  },
+  {
+    "id": 23,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "04十字路要塞",
+    "x": 6648,
+    "y": 3612,
+    "is_default": true
+  },
+  {
+    "id": 24,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "05伊利亚海角",
+    "x": 3400,
+    "y": 2622,
+    "is_default": true
+  },
+  {
+    "id": 25,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "06伊利亚平原北部",
+    "x": 3662,
+    "y": 3329,
+    "is_default": true
+  },
+  {
+    "id": 26,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "07伊利亚平原南部",
+    "x": 4739,
+    "y": 4022,
+    "is_default": true
+  },
+  {
+    "id": 27,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "08伊利亚森林",
+    "x": 4539,
+    "y": 4868,
+    "is_default": true
+  },
+  {
+    "id": 28,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "09迷雾沼泽",
+    "x": 3823,
+    "y": 5560,
+    "is_default": true
+  },
+  {
+    "id": 29,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "11伊利亚湖",
+    "x": 5815,
+    "y": 3122,
+    "is_default": true
+  },
+  {
+    "id": 30,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "12十字路西",
+    "x": 5385,
+    "y": 3737,
+    "is_default": true
+  },
+  {
+    "id": 31,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "13中南山脉",
+    "x": 5354,
+    "y": 5714,
+    "is_default": true
+  },
+  {
+    "id": 32,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "14北部台地",
+    "x": 5315,
+    "y": 2314,
+    "is_default": true
+  },
+  {
+    "id": 33,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "15十字路北",
+    "x": 6800,
+    "y": 3099,
+    "is_default": true
+  },
+  {
+    "id": 34,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "16十字路南",
+    "x": 6939,
+    "y": 4460,
+    "is_default": true
+  },
+  {
+    "id": 35,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "17南部荒原",
+    "x": 7123,
+    "y": 6075,
+    "is_default": true
+  },
+  {
+    "id": 36,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "18薇尔塔山",
+    "x": 9354,
+    "y": 2314,
+    "is_default": true
+  },
+  {
+    "id": 37,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "19中央盆地",
+    "x": 8108,
+    "y": 3291,
+    "is_default": true
+  },
+  {
+    "id": 38,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "20十字路东（佣兵团）",
+    "x": 7438,
+    "y": 3952,
+    "is_default": true
+  },
+  {
+    "id": 39,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "22薇尔塔山南麓",
+    "x": 10523,
+    "y": 3006,
+    "is_default": true
+  },
+  {
+    "id": 40,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "23大沙海",
+    "x": 9139,
+    "y": 6268,
+    "is_default": true
+  },
+  {
+    "id": 41,
+    "idworld_map_performance": 51,
+    "type": "进攻",
+    "name": "1",
+    "x": 6944,
+    "y": 2420,
+    "is_default": false
+  },
+  {
+    "id": 42,
+    "idworld_map_performance": 51,
+    "type": "进攻",
+    "name": "3",
+    "x": 4311,
+    "y": 3765,
+    "is_default": false
+  },
+  {
+    "id": 43,
+    "idworld_map_performance": 51,
+    "type": "进攻",
+    "name": "2",
+    "x": 6876,
+    "y": 3634,
+    "is_default": false
+  },
+  {
+    "id": 44,
+    "idworld_map_performance": 51,
+    "type": "影响",
+    "name": "5",
+    "x": 6525,
+    "y": 4090,
+    "is_default": false
+  },
+  {
+    "id": 45,
+    "idworld_map_performance": 51,
+    "type": "影响",
+    "name": "6",
+    "x": 6844,
+    "y": 4165,
+    "is_default": false
+  },
+  {
+    "id": 46,
+    "idworld_map_performance": 51,
+    "type": "影响",
+    "name": "7",
+    "x": 7263,
+    "y": 4140,
+    "is_default": false
+  },
+  {
+    "id": 47,
+    "idworld_map_performance": 51,
+    "type": "影响",
+    "name": "8",
+    "x": 7582,
+    "y": 3853,
+    "is_default": false
+  },
+  {
+    "id": 48,
+    "idworld_map_performance": 51,
+    "type": "影响",
+    "name": "9",
+    "x": 7126,
+    "y": 4428,
+    "is_default": false
+  },
+  {
+    "id": 49,
+    "idworld_map_performance": 51,
+    "type": "进攻",
+    "name": "4",
+    "x": 6425,
+    "y": 3684,
+    "is_default": false
+  },
+  {
+    "id": 50,
+    "idworld_map_performance": 51,
+    "type": "进攻",
+    "name": "11",
+    "x": 6926,
+    "y": 3940,
+    "is_default": false
+  },
+  {
+    "id": 51,
+    "idworld_map_performance": 51,
+    "type": "影响",
+    "name": "12",
+    "x": 6817,
+    "y": 3995,
+    "is_default": false
+  },
+  {
+    "id": 52,
+    "idworld_map_performance": 55,
+    "type": "演示",
+    "name": "1",
+    "x": 7400,
+    "y": 3595,
+    "is_default": false
+  },
+  {
+    "id": 53,
+    "idworld_map_performance": 55,
+    "type": "演示",
+    "name": "3",
+    "x": 6554,
+    "y": 4118,
+    "is_default": false
+  },
+  {
+    "id": 54,
+    "idworld_map_performance": 55,
+    "type": "演示",
+    "name": "2",
+    "x": 7108,
+    "y": 4179,
+    "is_default": false
+  },
+  {
+    "id": 57,
+    "idworld_map_performance": 55,
+    "type": "演示",
+    "name": "4",
+    "x": 6762,
+    "y": 3264,
+    "is_default": false
+  },
+  {
+    "id": 58,
+    "idworld_map_performance": 61,
+    "type": "1",
+    "name": "1",
+    "x": 5900,
+    "y": 3433,
+    "is_default": false
+  },
+  {
+    "id": 59,
+    "idworld_map_performance": 61,
+    "type": "1",
+    "name": "3",
+    "x": 6308,
+    "y": 3725,
+    "is_default": false
+  },
+  {
+    "id": 60,
+    "idworld_map_performance": 61,
+    "type": "1",
+    "name": "4",
+    "x": 7077,
+    "y": 3433,
+    "is_default": false
+  },
+  {
+    "id": 62,
+    "idworld_map_performance": 61,
+    "type": "1",
+    "name": "5",
+    "x": 6239,
+    "y": 3572,
+    "is_default": false
+  },
+  {
+    "id": 63,
+    "idworld_map_performance": 61,
+    "type": "1",
+    "name": "6",
+    "x": 6562,
+    "y": 3333,
+    "is_default": false
+  },
+  {
+    "id": 64,
+    "idworld_map_performance": 61,
+    "type": "1",
+    "name": "8",
+    "x": 6700,
+    "y": 4049,
+    "is_default": false
+  },
+  {
+    "id": 65,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "24矿坑市",
+    "x": 8433,
+    "y": 3335,
+    "is_default": true
+  },
+  {
+    "id": 66,
+    "idworld_map_performance": 61,
+    "type": "1",
+    "name": "11",
+    "x": 7192,
+    "y": 3609,
+    "is_default": false
+  },
+  {
+    "id": 67,
+    "idworld_map_performance": 66,
+    "type": "战争计划",
+    "name": "战争计划",
+    "x": 4490,
+    "y": 4877,
+    "is_default": false
+  },
+  {
+    "id": 68,
+    "idworld_map_performance": 66,
+    "type": "战争计划",
+    "name": "战争计划2",
+    "x": 7573,
+    "y": 4595,
+    "is_default": false
+  },
+  {
+    "id": 69,
+    "idworld_map_performance": 66,
+    "type": "战争计划",
+    "name": "战争计划3",
+    "x": 7566,
+    "y": 4563,
+    "is_default": false
+  },
+  {
+    "id": 70,
+    "idworld_map_performance": 66,
+    "type": "战争计划",
+    "name": "战争计划4",
+    "x": 6722,
+    "y": 4787,
+    "is_default": false
+  },
+  {
+    "id": 71,
+    "idworld_map_performance": 66,
+    "type": "战争计划",
+    "name": "战争计划5",
+    "x": 8654,
+    "y": 4295,
+    "is_default": false
+  },
+  {
+    "id": 72,
+    "idworld_map_performance": 68,
+    "type": "地块中心点",
+    "name": "铃兰镇",
+    "x": 7422,
+    "y": 3602,
+    "is_default": true
+  },
+  {
+    "id": 73,
+    "idworld_map_performance": 68,
+    "type": "目标",
+    "name": "目标A",
+    "x": 6620,
+    "y": 3853,
+    "is_default": false
+  },
+  {
+    "id": 74,
+    "idworld_map_performance": 68,
+    "type": "目标",
+    "name": "目标B",
+    "x": 6767,
+    "y": 3802,
+    "is_default": false
+  },
+  {
+    "id": 75,
+    "idworld_map_performance": 68,
+    "type": "目标",
+    "name": "目标C",
+    "x": 6658,
+    "y": 3860,
+    "is_default": false
+  },
+  {
+    "id": 76,
+    "idworld_map_performance": 69,
+    "type": "地块中心点",
+    "name": "小镇",
+    "x": 7401,
+    "y": 3597,
+    "is_default": false
+  },
+  {
+    "id": 77,
+    "idworld_map_performance": 83,
+    "type": "默认",
+    "name": "122",
+    "x": 6683,
+    "y": 3940,
+    "is_default": false
+  },
+  {
+    "id": 78,
+    "idworld_map_performance": 70,
+    "type": "默认",
+    "name": "3213",
+    "x": 6696,
+    "y": 3933,
+    "is_default": false
+  },
+  {
+    "id": 79,
+    "idworld_map_performance": 70,
+    "type": "默认",
+    "name": "11111",
+    "x": 6542,
+    "y": 3549,
+    "is_default": false
+  },
+  {
+    "id": 80,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "1",
+    "x": 6434,
+    "y": 3748,
+    "is_default": false
+  },
+  {
+    "id": 81,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "2",
+    "x": 6325,
+    "y": 3780,
+    "is_default": false
+  },
+  {
+    "id": 82,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "3",
+    "x": 6325,
+    "y": 3805,
+    "is_default": false
+  },
+  {
+    "id": 83,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "4",
+    "x": 6434,
+    "y": 3729,
+    "is_default": false
+  },
+  {
+    "id": 84,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "5",
+    "x": 6414,
+    "y": 3665,
+    "is_default": false
+  },
+  {
+    "id": 85,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "6",
+    "x": 6338,
+    "y": 3895,
+    "is_default": false
+  },
+  {
+    "id": 86,
+    "idworld_map_performance": 81,
+    "type": "1",
+    "name": "1",
+    "x": 6689,
+    "y": 3172,
+    "is_default": false
+  },
+  {
+    "id": 87,
+    "idworld_map_performance": 81,
+    "type": "1",
+    "name": "2",
+    "x": 7073,
+    "y": 2654,
+    "is_default": false
+  },
+  {
+    "id": 88,
+    "idworld_map_performance": 81,
+    "type": "1",
+    "name": "3",
+    "x": 7227,
+    "y": 2462,
+    "is_default": false
+  },
+  {
+    "id": 89,
+    "idworld_map_performance": 81,
+    "type": "1",
+    "name": "4",
+    "x": 6734,
+    "y": 2328,
+    "is_default": false
+  },
+  {
+    "id": 90,
+    "idworld_map_performance": 0,
+    "type": "地块中心点",
+    "name": "25铃兰小镇",
+    "x": 7438,
+    "y": 3629,
+    "is_default": true
+  },
+  {
+    "id": 91,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "32",
+    "x": 6747,
+    "y": 3911,
+    "is_default": false
+  },
+  {
+    "id": 92,
+    "idworld_map_performance": 75,
+    "type": "地块中心点",
+    "name": "34",
+    "x": 6427,
+    "y": 3649,
+    "is_default": false
+  },
+  {
+    "id": 93,
+    "idworld_map_performance": 78,
+    "type": "默认",
+    "name": "123",
+    "x": 6798,
+    "y": 2402,
+    "is_default": false
+  },
+  {
+    "id": 94,
+    "idworld_map_performance": 87,
+    "type": "1",
+    "name": "mubiao",
+    "x": 4304,
+    "y": 3773,
+    "is_default": false
+  },
+  {
+    "id": 95,
+    "idworld_map_performance": 87,
+    "type": "1",
+    "name": "2",
+    "x": 4374,
+    "y": 3972,
+    "is_default": false
+  },
+  {
+    "id": 96,
+    "idworld_map_performance": 98,
+    "type": "1",
+    "name": "1",
+    "x": 10995,
+    "y": 1879,
+    "is_default": false
+  },
+  {
+    "id": 97,
+    "idworld_map_performance": 98,
+    "type": "1",
+    "name": "2",
+    "x": 3413,
+    "y": 5853,
+    "is_default": false
+  },
+  {
+    "id": 98,
+    "idworld_map_performance": 98,
+    "type": "1",
+    "name": "3",
+    "x": 5642,
+    "y": 4450,
+    "is_default": false
+  },
+  {
+    "id": 99,
+    "idworld_map_performance": 98,
+    "type": "1",
+    "name": "4",
+    "x": 7677,
+    "y": 3208,
+    "is_default": false
+  },
+  {
+    "id": 100,
+    "idworld_map_performance": 98,
+    "type": "1",
+    "name": "5",
+    "x": 9085,
+    "y": 2210,
+    "is_default": false
+  },
+  {
+    "id": 101,
+    "idworld_map_performance": 78,
+    "type": "默认",
+    "name": "1",
+    "x": 6973,
+    "y": 2262,
+    "is_default": false
+  },
+  {
+    "id": 102,
+    "idworld_map_performance": 103,
+    "type": "1",
+    "name": "1",
+    "x": 5561,
+    "y": 3462,
+    "is_default": false
+  },
+  {
+    "id": 103,
+    "idworld_map_performance": 103,
+    "type": "1",
+    "name": "2",
+    "x": 5576,
+    "y": 4002,
+    "is_default": false
+  },
+  {
+    "id": 104,
+    "idworld_map_performance": 103,
+    "type": "1",
+    "name": "3",
+    "x": 5005,
+    "y": 4273,
+    "is_default": false
+  },
+  {
+    "id": 105,
+    "idworld_map_performance": 102,
+    "type": "起点",
+    "name": "1",
+    "x": 4294,
+    "y": 3582,
+    "is_default": false
+  },
+  {
+    "id": 106,
+    "idworld_map_performance": 102,
+    "type": "起点",
+    "name": "2",
+    "x": 6372,
+    "y": 4925,
+    "is_default": false
+  },
+  {
+    "id": 107,
+    "idworld_map_performance": 102,
+    "type": "起点",
+    "name": "3",
+    "x": 5993,
+    "y": 2763,
+    "is_default": false
+  },
+  {
+    "id": 108,
+    "idworld_map_performance": 102,
+    "type": "终点",
+    "name": "01",
+    "x": 6997,
+    "y": 3589,
+    "is_default": false
+  },
+  {
+    "id": 109,
+    "idworld_map_performance": 102,
+    "type": "终点",
+    "name": "02",
+    "x": 7444,
+    "y": 4091,
+    "is_default": false
+  },
+  {
+    "id": 110,
+    "idworld_map_performance": 105,
+    "type": "1",
+    "name": "1",
+    "x": 5081,
+    "y": 3187,
+    "is_default": false
+  },
+  {
+    "id": 111,
+    "idworld_map_performance": 105,
+    "type": "1",
+    "name": "2",
+    "x": 5333,
+    "y": 4049,
+    "is_default": false
+  },
+  {
+    "id": 112,
+    "idworld_map_performance": 105,
+    "type": "1",
+    "name": "3",
+    "x": 4449,
+    "y": 4456,
+    "is_default": false
+  },
+  {
+    "id": 113,
+    "idworld_map_performance": 107,
+    "type": "1",
+    "name": "1",
+    "x": 6519,
+    "y": 3700,
+    "is_default": false
+  },
+  {
+    "id": 114,
+    "idworld_map_performance": 107,
+    "type": "1",
+    "name": "2",
+    "x": 6380,
+    "y": 3748,
+    "is_default": false
+  },
+  {
+    "id": 115,
+    "idworld_map_performance": 107,
+    "type": "1",
+    "name": "3",
+    "x": 6487,
+    "y": 3668,
+    "is_default": false
+  },
+  {
+    "id": 116,
+    "idworld_map_performance": 107,
+    "type": "1",
+    "name": "4",
+    "x": 6469,
+    "y": 3567,
+    "is_default": false
+  },
+  {
+    "id": 117,
+    "idworld_map_performance": 110,
+    "type": "1",
+    "name": "1",
+    "x": 6362,
+    "y": 3744,
+    "is_default": false
+  },
+  {
+    "id": 118,
+    "idworld_map_performance": 110,
+    "type": "2",
+    "name": "2",
+    "x": 6439,
+    "y": 3547,
+    "is_default": false
+  },
+  {
+    "id": 119,
+    "idworld_map_performance": 110,
+    "type": "2",
+    "name": "3",
+    "x": 6475,
+    "y": 3705,
+    "is_default": false
+  },
+  {
+    "id": 120,
+    "idworld_map_performance": 110,
+    "type": "2",
+    "name": "4",
+    "x": 6675,
+    "y": 3913,
+    "is_default": false
+  },
+  {
+    "id": 121,
+    "idworld_map_performance": 110,
+    "type": "2",
+    "name": "5",
+    "x": 6590,
+    "y": 3447,
+    "is_default": false
+  },
+  {
+    "id": 122,
+    "idworld_map_performance": 111,
+    "type": "1",
+    "name": "1",
+    "x": 6369,
+    "y": 3736,
+    "is_default": false
+  },
+  {
+    "id": 123,
+    "idworld_map_performance": 124,
+    "type": "1",
+    "name": "1",
+    "x": 6870,
+    "y": 3058,
+    "is_default": false
+  },
+  {
+    "id": 124,
+    "idworld_map_performance": 124,
+    "type": "1",
+    "name": "4",
+    "x": 7385,
+    "y": 3087,
+    "is_default": false
+  },
+  {
+    "id": 125,
+    "idworld_map_performance": 124,
+    "type": "1",
+    "name": "2",
+    "x": 6300,
+    "y": 2329,
+    "is_default": false
+  },
+  {
+    "id": 126,
+    "idworld_map_performance": 124,
+    "type": "1",
+    "name": "3",
+    "x": 7676,
+    "y": 2589,
+    "is_default": false
+  },
+  {
+    "id": 127,
+    "idworld_map_performance": 110,
+    "type": "1",
+    "name": "骑士团旗帜",
+    "x": 5974,
+    "y": 3823,
+    "is_default": false
+  },
+  {
+    "id": 128,
+    "idworld_map_performance": 110,
+    "type": "3",
+    "name": "战争A",
+    "x": 6206,
+    "y": 3456,
+    "is_default": false
+  },
+  {
+    "id": 129,
+    "idworld_map_performance": 110,
+    "type": "3",
+    "name": "战争B",
+    "x": 6173,
+    "y": 3798,
+    "is_default": false
+  },
+  {
+    "id": 130,
+    "idworld_map_performance": 110,
+    "type": "3",
+    "name": "战争C",
+    "x": 6515,
+    "y": 4026,
+    "is_default": false
+  },
+  {
+    "id": 131,
+    "idworld_map_performance": 76,
+    "type": "1",
+    "name": "1",
+    "x": 6667,
+    "y": 3347,
+    "is_default": false
+  },
+  {
+    "id": 132,
+    "idworld_map_performance": 76,
+    "type": "1",
+    "name": "2",
+    "x": 6302,
+    "y": 3768,
+    "is_default": false
+  },
+  {
+    "id": 133,
+    "idworld_map_performance": 76,
+    "type": "1",
+    "name": "3",
+    "x": 6971,
+    "y": 3817,
+    "is_default": false
+  },
+  {
+    "id": 134,
+    "idworld_map_performance": 77,
+    "type": "十字路要塞战争旗位",
+    "name": "十字路要塞战争旗帜位（左）",
+    "x": 6571,
+    "y": 3600,
+    "is_default": true
+  },
+  {
+    "id": 135,
+    "idworld_map_performance": 77,
+    "type": "十字路要塞战争旗位",
+    "name": "十字路要塞战争旗帜位（右）",
+    "x": 6725,
+    "y": 3598,
+    "is_default": true
+  },
+  {
+    "id": 136,
+    "idworld_map_performance": 78,
+    "type": "1",
+    "name": "2",
+    "x": 7081,
+    "y": 2974,
+    "is_default": false
+  },
+  {
+    "id": 137,
+    "idworld_map_performance": 135,
+    "type": "战争点",
+    "name": "1",
+    "x": 6017,
+    "y": 5156,
+    "is_default": false
+  },
+  {
+    "id": 138,
+    "idworld_map_performance": 135,
+    "type": "战争点",
+    "name": "2",
+    "x": 6796,
+    "y": 4787,
+    "is_default": false
+  },
+  {
+    "id": 139,
+    "idworld_map_performance": 135,
+    "type": "战争点",
+    "name": "3",
+    "x": 7698,
+    "y": 5626,
+    "is_default": false
+  },
+  {
+    "id": 140,
+    "idworld_map_performance": 135,
+    "type": "战争点",
+    "name": "4",
+    "x": 7097,
+    "y": 5443,
+    "is_default": false
+  },
+  {
+    "id": 141,
+    "idworld_map_performance": 135,
+    "type": "战争点",
+    "name": "5",
+    "x": 6078,
+    "y": 5512,
+    "is_default": false
+  },
+  {
+    "id": 142,
+    "idworld_map_performance": 144,
+    "type": "1",
+    "name": "骑士团起点",
+    "x": 0,
+    "y": 3928,
+    "is_default": false
+  },
+  {
+    "id": 145,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点1",
+    "x": 6155,
+    "y": 4664,
+    "is_default": false
+  },
+  {
+    "id": 146,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点2",
+    "x": 5804,
+    "y": 5631,
+    "is_default": false
+  },
+  {
+    "id": 147,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点3",
+    "x": 8227,
+    "y": 5010,
+    "is_default": false
+  },
+  {
+    "id": 148,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点4",
+    "x": 7387,
+    "y": 3122,
+    "is_default": false
+  },
+  {
+    "id": 149,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点6",
+    "x": 7636,
+    "y": 4893,
+    "is_default": false
+  },
+  {
+    "id": 150,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点5",
+    "x": 5875,
+    "y": 2160,
+    "is_default": false
+  },
+  {
+    "id": 151,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点7",
+    "x": 7993,
+    "y": 3585,
+    "is_default": false
+  },
+  {
+    "id": 152,
+    "idworld_map_performance": 137,
+    "type": "1",
+    "name": "战斗点8",
+    "x": 5081,
+    "y": 3218,
+    "is_default": false
+  }
+]

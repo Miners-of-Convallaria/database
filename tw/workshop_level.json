@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "m_workshop_level_details": [13],
+    "m_workshop_node_pools": [3],
+    "m_workshop_nodes": [],
+    "level": 1,
+    "name": "工坊等级1",
+    "research_pool_id": 7,
+    "workshop_node_pool_ids": "3",
+    "workshop_node_ids": "",
+    "next_level_detail": "自主研究项目 +1，战术天赋项目 +1"
+  },
+  {
+    "id": 2,
+    "m_workshop_level_details": [4],
+    "m_workshop_node_pools": [2],
+    "m_workshop_nodes": [],
+    "level": 2,
+    "name": "工坊等级2",
+    "research_pool_id": 7,
+    "workshop_node_pool_ids": "2",
+    "workshop_node_ids": "",
+    "next_level_detail": "自主研究项目 +1"
+  },
+  {
+    "id": 3,
+    "m_workshop_level_details": [],
+    "m_workshop_node_pools": [2],
+    "m_workshop_nodes": [],
+    "level": 3,
+    "name": "工坊等级3",
+    "research_pool_id": 7,
+    "workshop_node_pool_ids": "2",
+    "workshop_node_ids": "",
+    "next_level_detail": "自主研究项目 +1"
+  },
+  {
+    "id": 4,
+    "m_workshop_level_details": [],
+    "m_workshop_node_pools": [2],
+    "m_workshop_nodes": [],
+    "level": 4,
+    "name": "工坊等级4",
+    "research_pool_id": 7,
+    "workshop_node_pool_ids": "2",
+    "workshop_node_ids": "",
+    "next_level_detail": "自主研究项目 +1"
+  },
+  {
+    "id": 5,
+    "m_workshop_level_details": [],
+    "m_workshop_node_pools": [],
+    "m_workshop_nodes": [],
+    "level": 5,
+    "name": "工坊等级5",
+    "research_pool_id": 7,
+    "workshop_node_pool_ids": "",
+    "workshop_node_ids": "",
+    "next_level_detail": "无"
+  },
+  {
+    "id": 6,
+    "m_workshop_level_details": [],
+    "m_workshop_node_pools": [],
+    "m_workshop_nodes": [],
+    "level": 6,
+    "name": "工坊等级6",
+    "research_pool_id": 7,
+    "workshop_node_pool_ids": "",
+    "workshop_node_ids": "",
+    "next_level_detail": "无"
+  }
+]

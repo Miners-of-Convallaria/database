@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "name": "Warmth Lv.1",
+    "warmth": 0,
+    "friendship_multiplier": 100
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "name": "Warmth Lv.2",
+    "warmth": 10,
+    "friendship_multiplier": 110
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "name": "Warmth Lv.3",
+    "warmth": 20,
+    "friendship_multiplier": 120
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "name": "Warmth Lv.4",
+    "warmth": 40,
+    "friendship_multiplier": 130
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "name": "Warmth Lv.5",
+    "warmth": 80,
+    "friendship_multiplier": 140
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "name": "Warmth Lv.6",
+    "warmth": 150,
+    "friendship_multiplier": 150
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "name": "Warmth Lv.7",
+    "warmth": 300,
+    "friendship_multiplier": 160
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "name": "Warmth Lv.8",
+    "warmth": 600,
+    "friendship_multiplier": 170
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "name": "Warmth Lv.9",
+    "warmth": 1000,
+    "friendship_multiplier": 180
+  }
+]

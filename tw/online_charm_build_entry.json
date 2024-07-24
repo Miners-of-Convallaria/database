@@ -1,0 +1,7334 @@
+[
+  {
+    "id": 102,
+    "idonline_charm_build": 17,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 103,
+    "idonline_charm_build": 17,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 104,
+    "idonline_charm_build": 17,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 105,
+    "idonline_charm_build": 17,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 106,
+    "idonline_charm_build": 17,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 107,
+    "idonline_charm_build": 18,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 108,
+    "idonline_charm_build": 18,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 109,
+    "idonline_charm_build": 18,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 110,
+    "idonline_charm_build": 18,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 111,
+    "idonline_charm_build": 18,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 112,
+    "idonline_charm_build": 18,
+    "entry_id": 101,
+    "weight": 10
+  },
+  {
+    "id": 113,
+    "idonline_charm_build": 18,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 114,
+    "idonline_charm_build": 18,
+    "entry_id": 103,
+    "weight": 10
+  },
+  {
+    "id": 115,
+    "idonline_charm_build": 18,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 116,
+    "idonline_charm_build": 18,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 117,
+    "idonline_charm_build": 19,
+    "entry_id": 96,
+    "weight": 5
+  },
+  {
+    "id": 118,
+    "idonline_charm_build": 19,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 119,
+    "idonline_charm_build": 19,
+    "entry_id": 98,
+    "weight": 5
+  },
+  {
+    "id": 120,
+    "idonline_charm_build": 19,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 121,
+    "idonline_charm_build": 19,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 122,
+    "idonline_charm_build": 19,
+    "entry_id": 101,
+    "weight": 5
+  },
+  {
+    "id": 123,
+    "idonline_charm_build": 19,
+    "entry_id": 102,
+    "weight": 10
+  },
+  {
+    "id": 124,
+    "idonline_charm_build": 19,
+    "entry_id": 103,
+    "weight": 5
+  },
+  {
+    "id": 125,
+    "idonline_charm_build": 19,
+    "entry_id": 104,
+    "weight": 10
+  },
+  {
+    "id": 126,
+    "idonline_charm_build": 19,
+    "entry_id": 105,
+    "weight": 10
+  },
+  {
+    "id": 127,
+    "idonline_charm_build": 20,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 128,
+    "idonline_charm_build": 20,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 129,
+    "idonline_charm_build": 20,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 130,
+    "idonline_charm_build": 20,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 131,
+    "idonline_charm_build": 20,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 132,
+    "idonline_charm_build": 20,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 133,
+    "idonline_charm_build": 20,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 134,
+    "idonline_charm_build": 20,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 135,
+    "idonline_charm_build": 20,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 136,
+    "idonline_charm_build": 20,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 137,
+    "idonline_charm_build": 21,
+    "entry_id": 81,
+    "weight": 10
+  },
+  {
+    "id": 138,
+    "idonline_charm_build": 21,
+    "entry_id": 82,
+    "weight": 10
+  },
+  {
+    "id": 139,
+    "idonline_charm_build": 21,
+    "entry_id": 83,
+    "weight": 10
+  },
+  {
+    "id": 140,
+    "idonline_charm_build": 21,
+    "entry_id": 84,
+    "weight": 10
+  },
+  {
+    "id": 141,
+    "idonline_charm_build": 21,
+    "entry_id": 85,
+    "weight": 10
+  },
+  {
+    "id": 142,
+    "idonline_charm_build": 21,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 143,
+    "idonline_charm_build": 21,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 144,
+    "idonline_charm_build": 21,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 145,
+    "idonline_charm_build": 21,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 146,
+    "idonline_charm_build": 21,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 147,
+    "idonline_charm_build": 22,
+    "entry_id": 81,
+    "weight": 10
+  },
+  {
+    "id": 148,
+    "idonline_charm_build": 22,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 149,
+    "idonline_charm_build": 22,
+    "entry_id": 83,
+    "weight": 10
+  },
+  {
+    "id": 150,
+    "idonline_charm_build": 22,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 151,
+    "idonline_charm_build": 22,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 152,
+    "idonline_charm_build": 22,
+    "entry_id": 86,
+    "weight": 10
+  },
+  {
+    "id": 153,
+    "idonline_charm_build": 22,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 154,
+    "idonline_charm_build": 22,
+    "entry_id": 88,
+    "weight": 10
+  },
+  {
+    "id": 155,
+    "idonline_charm_build": 22,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 156,
+    "idonline_charm_build": 22,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 157,
+    "idonline_charm_build": 22,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 158,
+    "idonline_charm_build": 22,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 159,
+    "idonline_charm_build": 22,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 160,
+    "idonline_charm_build": 22,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 161,
+    "idonline_charm_build": 22,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 162,
+    "idonline_charm_build": 22,
+    "entry_id": 101,
+    "weight": 10
+  },
+  {
+    "id": 163,
+    "idonline_charm_build": 22,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 164,
+    "idonline_charm_build": 22,
+    "entry_id": 103,
+    "weight": 10
+  },
+  {
+    "id": 165,
+    "idonline_charm_build": 22,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 166,
+    "idonline_charm_build": 22,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 167,
+    "idonline_charm_build": 23,
+    "entry_id": 81,
+    "weight": 5
+  },
+  {
+    "id": 168,
+    "idonline_charm_build": 23,
+    "entry_id": 82,
+    "weight": 10
+  },
+  {
+    "id": 169,
+    "idonline_charm_build": 23,
+    "entry_id": 83,
+    "weight": 5
+  },
+  {
+    "id": 170,
+    "idonline_charm_build": 23,
+    "entry_id": 84,
+    "weight": 10
+  },
+  {
+    "id": 171,
+    "idonline_charm_build": 23,
+    "entry_id": 85,
+    "weight": 10
+  },
+  {
+    "id": 172,
+    "idonline_charm_build": 23,
+    "entry_id": 86,
+    "weight": 5
+  },
+  {
+    "id": 173,
+    "idonline_charm_build": 23,
+    "entry_id": 87,
+    "weight": 10
+  },
+  {
+    "id": 174,
+    "idonline_charm_build": 23,
+    "entry_id": 88,
+    "weight": 5
+  },
+  {
+    "id": 175,
+    "idonline_charm_build": 23,
+    "entry_id": 89,
+    "weight": 10
+  },
+  {
+    "id": 176,
+    "idonline_charm_build": 23,
+    "entry_id": 90,
+    "weight": 10
+  },
+  {
+    "id": 177,
+    "idonline_charm_build": 23,
+    "entry_id": 96,
+    "weight": 5
+  },
+  {
+    "id": 178,
+    "idonline_charm_build": 23,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 179,
+    "idonline_charm_build": 23,
+    "entry_id": 98,
+    "weight": 5
+  },
+  {
+    "id": 180,
+    "idonline_charm_build": 23,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 181,
+    "idonline_charm_build": 23,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 182,
+    "idonline_charm_build": 23,
+    "entry_id": 101,
+    "weight": 5
+  },
+  {
+    "id": 183,
+    "idonline_charm_build": 23,
+    "entry_id": 102,
+    "weight": 10
+  },
+  {
+    "id": 184,
+    "idonline_charm_build": 23,
+    "entry_id": 103,
+    "weight": 5
+  },
+  {
+    "id": 185,
+    "idonline_charm_build": 23,
+    "entry_id": 104,
+    "weight": 10
+  },
+  {
+    "id": 186,
+    "idonline_charm_build": 23,
+    "entry_id": 105,
+    "weight": 10
+  },
+  {
+    "id": 187,
+    "idonline_charm_build": 24,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 188,
+    "idonline_charm_build": 24,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 189,
+    "idonline_charm_build": 24,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 190,
+    "idonline_charm_build": 24,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 191,
+    "idonline_charm_build": 24,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 192,
+    "idonline_charm_build": 24,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 193,
+    "idonline_charm_build": 24,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 194,
+    "idonline_charm_build": 24,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 195,
+    "idonline_charm_build": 24,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 196,
+    "idonline_charm_build": 24,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 197,
+    "idonline_charm_build": 24,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 198,
+    "idonline_charm_build": 24,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 199,
+    "idonline_charm_build": 24,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 200,
+    "idonline_charm_build": 24,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 201,
+    "idonline_charm_build": 24,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 202,
+    "idonline_charm_build": 24,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 203,
+    "idonline_charm_build": 24,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 204,
+    "idonline_charm_build": 24,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 205,
+    "idonline_charm_build": 24,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 206,
+    "idonline_charm_build": 24,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 207,
+    "idonline_charm_build": 25,
+    "entry_id": 66,
+    "weight": 40
+  },
+  {
+    "id": 208,
+    "idonline_charm_build": 25,
+    "entry_id": 67,
+    "weight": 40
+  },
+  {
+    "id": 209,
+    "idonline_charm_build": 25,
+    "entry_id": 68,
+    "weight": 40
+  },
+  {
+    "id": 210,
+    "idonline_charm_build": 25,
+    "entry_id": 69,
+    "weight": 40
+  },
+  {
+    "id": 211,
+    "idonline_charm_build": 25,
+    "entry_id": 70,
+    "weight": 40
+  },
+  {
+    "id": 212,
+    "idonline_charm_build": 25,
+    "entry_id": 81,
+    "weight": 10
+  },
+  {
+    "id": 213,
+    "idonline_charm_build": 25,
+    "entry_id": 82,
+    "weight": 10
+  },
+  {
+    "id": 214,
+    "idonline_charm_build": 25,
+    "entry_id": 83,
+    "weight": 10
+  },
+  {
+    "id": 215,
+    "idonline_charm_build": 25,
+    "entry_id": 84,
+    "weight": 10
+  },
+  {
+    "id": 216,
+    "idonline_charm_build": 25,
+    "entry_id": 85,
+    "weight": 10
+  },
+  {
+    "id": 217,
+    "idonline_charm_build": 25,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 218,
+    "idonline_charm_build": 25,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 219,
+    "idonline_charm_build": 25,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 220,
+    "idonline_charm_build": 25,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 221,
+    "idonline_charm_build": 25,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 222,
+    "idonline_charm_build": 26,
+    "entry_id": 66,
+    "weight": 40
+  },
+  {
+    "id": 223,
+    "idonline_charm_build": 26,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 224,
+    "idonline_charm_build": 26,
+    "entry_id": 68,
+    "weight": 40
+  },
+  {
+    "id": 225,
+    "idonline_charm_build": 26,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 226,
+    "idonline_charm_build": 26,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 227,
+    "idonline_charm_build": 26,
+    "entry_id": 71,
+    "weight": 40
+  },
+  {
+    "id": 228,
+    "idonline_charm_build": 26,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 229,
+    "idonline_charm_build": 26,
+    "entry_id": 73,
+    "weight": 40
+  },
+  {
+    "id": 230,
+    "idonline_charm_build": 26,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 231,
+    "idonline_charm_build": 26,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 232,
+    "idonline_charm_build": 26,
+    "entry_id": 81,
+    "weight": 10
+  },
+  {
+    "id": 233,
+    "idonline_charm_build": 26,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 234,
+    "idonline_charm_build": 26,
+    "entry_id": 83,
+    "weight": 10
+  },
+  {
+    "id": 235,
+    "idonline_charm_build": 26,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 236,
+    "idonline_charm_build": 26,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 237,
+    "idonline_charm_build": 26,
+    "entry_id": 86,
+    "weight": 10
+  },
+  {
+    "id": 238,
+    "idonline_charm_build": 26,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 239,
+    "idonline_charm_build": 26,
+    "entry_id": 88,
+    "weight": 10
+  },
+  {
+    "id": 240,
+    "idonline_charm_build": 26,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 241,
+    "idonline_charm_build": 26,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 242,
+    "idonline_charm_build": 26,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 243,
+    "idonline_charm_build": 26,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 244,
+    "idonline_charm_build": 26,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 245,
+    "idonline_charm_build": 26,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 246,
+    "idonline_charm_build": 26,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 247,
+    "idonline_charm_build": 26,
+    "entry_id": 101,
+    "weight": 10
+  },
+  {
+    "id": 248,
+    "idonline_charm_build": 26,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 249,
+    "idonline_charm_build": 26,
+    "entry_id": 103,
+    "weight": 10
+  },
+  {
+    "id": 250,
+    "idonline_charm_build": 26,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 251,
+    "idonline_charm_build": 26,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 252,
+    "idonline_charm_build": 27,
+    "entry_id": 66,
+    "weight": 20
+  },
+  {
+    "id": 253,
+    "idonline_charm_build": 27,
+    "entry_id": 67,
+    "weight": 40
+  },
+  {
+    "id": 254,
+    "idonline_charm_build": 27,
+    "entry_id": 68,
+    "weight": 20
+  },
+  {
+    "id": 255,
+    "idonline_charm_build": 27,
+    "entry_id": 69,
+    "weight": 40
+  },
+  {
+    "id": 256,
+    "idonline_charm_build": 27,
+    "entry_id": 70,
+    "weight": 40
+  },
+  {
+    "id": 257,
+    "idonline_charm_build": 27,
+    "entry_id": 71,
+    "weight": 20
+  },
+  {
+    "id": 258,
+    "idonline_charm_build": 27,
+    "entry_id": 72,
+    "weight": 40
+  },
+  {
+    "id": 259,
+    "idonline_charm_build": 27,
+    "entry_id": 73,
+    "weight": 20
+  },
+  {
+    "id": 260,
+    "idonline_charm_build": 27,
+    "entry_id": 74,
+    "weight": 40
+  },
+  {
+    "id": 261,
+    "idonline_charm_build": 27,
+    "entry_id": 75,
+    "weight": 40
+  },
+  {
+    "id": 262,
+    "idonline_charm_build": 27,
+    "entry_id": 81,
+    "weight": 5
+  },
+  {
+    "id": 263,
+    "idonline_charm_build": 27,
+    "entry_id": 82,
+    "weight": 10
+  },
+  {
+    "id": 264,
+    "idonline_charm_build": 27,
+    "entry_id": 83,
+    "weight": 5
+  },
+  {
+    "id": 265,
+    "idonline_charm_build": 27,
+    "entry_id": 84,
+    "weight": 10
+  },
+  {
+    "id": 266,
+    "idonline_charm_build": 27,
+    "entry_id": 85,
+    "weight": 10
+  },
+  {
+    "id": 267,
+    "idonline_charm_build": 27,
+    "entry_id": 86,
+    "weight": 5
+  },
+  {
+    "id": 268,
+    "idonline_charm_build": 27,
+    "entry_id": 87,
+    "weight": 10
+  },
+  {
+    "id": 269,
+    "idonline_charm_build": 27,
+    "entry_id": 88,
+    "weight": 5
+  },
+  {
+    "id": 270,
+    "idonline_charm_build": 27,
+    "entry_id": 89,
+    "weight": 10
+  },
+  {
+    "id": 271,
+    "idonline_charm_build": 27,
+    "entry_id": 90,
+    "weight": 10
+  },
+  {
+    "id": 272,
+    "idonline_charm_build": 27,
+    "entry_id": 96,
+    "weight": 5
+  },
+  {
+    "id": 273,
+    "idonline_charm_build": 27,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 274,
+    "idonline_charm_build": 27,
+    "entry_id": 98,
+    "weight": 5
+  },
+  {
+    "id": 275,
+    "idonline_charm_build": 27,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 276,
+    "idonline_charm_build": 27,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 277,
+    "idonline_charm_build": 27,
+    "entry_id": 101,
+    "weight": 5
+  },
+  {
+    "id": 278,
+    "idonline_charm_build": 27,
+    "entry_id": 102,
+    "weight": 10
+  },
+  {
+    "id": 279,
+    "idonline_charm_build": 27,
+    "entry_id": 103,
+    "weight": 5
+  },
+  {
+    "id": 280,
+    "idonline_charm_build": 27,
+    "entry_id": 104,
+    "weight": 10
+  },
+  {
+    "id": 281,
+    "idonline_charm_build": 27,
+    "entry_id": 105,
+    "weight": 10
+  },
+  {
+    "id": 282,
+    "idonline_charm_build": 28,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 283,
+    "idonline_charm_build": 28,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 284,
+    "idonline_charm_build": 28,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 285,
+    "idonline_charm_build": 28,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 286,
+    "idonline_charm_build": 28,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 287,
+    "idonline_charm_build": 28,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 288,
+    "idonline_charm_build": 28,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 289,
+    "idonline_charm_build": 28,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 290,
+    "idonline_charm_build": 28,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 291,
+    "idonline_charm_build": 28,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 292,
+    "idonline_charm_build": 28,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 293,
+    "idonline_charm_build": 28,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 294,
+    "idonline_charm_build": 28,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 295,
+    "idonline_charm_build": 28,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 296,
+    "idonline_charm_build": 28,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 297,
+    "idonline_charm_build": 28,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 298,
+    "idonline_charm_build": 28,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 299,
+    "idonline_charm_build": 28,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 300,
+    "idonline_charm_build": 28,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 301,
+    "idonline_charm_build": 28,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 302,
+    "idonline_charm_build": 28,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 303,
+    "idonline_charm_build": 28,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 304,
+    "idonline_charm_build": 28,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 305,
+    "idonline_charm_build": 28,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 306,
+    "idonline_charm_build": 28,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 307,
+    "idonline_charm_build": 28,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 308,
+    "idonline_charm_build": 28,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 309,
+    "idonline_charm_build": 28,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 310,
+    "idonline_charm_build": 28,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 311,
+    "idonline_charm_build": 28,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 312,
+    "idonline_charm_build": 29,
+    "entry_id": 29,
+    "weight": 180
+  },
+  {
+    "id": 313,
+    "idonline_charm_build": 29,
+    "entry_id": 30,
+    "weight": 180
+  },
+  {
+    "id": 314,
+    "idonline_charm_build": 29,
+    "entry_id": 31,
+    "weight": 180
+  },
+  {
+    "id": 315,
+    "idonline_charm_build": 29,
+    "entry_id": 32,
+    "weight": 180
+  },
+  {
+    "id": 316,
+    "idonline_charm_build": 29,
+    "entry_id": 33,
+    "weight": 180
+  },
+  {
+    "id": 317,
+    "idonline_charm_build": 29,
+    "entry_id": 66,
+    "weight": 40
+  },
+  {
+    "id": 318,
+    "idonline_charm_build": 29,
+    "entry_id": 67,
+    "weight": 40
+  },
+  {
+    "id": 319,
+    "idonline_charm_build": 29,
+    "entry_id": 68,
+    "weight": 40
+  },
+  {
+    "id": 320,
+    "idonline_charm_build": 29,
+    "entry_id": 69,
+    "weight": 40
+  },
+  {
+    "id": 321,
+    "idonline_charm_build": 29,
+    "entry_id": 70,
+    "weight": 40
+  },
+  {
+    "id": 322,
+    "idonline_charm_build": 29,
+    "entry_id": 81,
+    "weight": 10
+  },
+  {
+    "id": 323,
+    "idonline_charm_build": 29,
+    "entry_id": 82,
+    "weight": 10
+  },
+  {
+    "id": 324,
+    "idonline_charm_build": 29,
+    "entry_id": 83,
+    "weight": 10
+  },
+  {
+    "id": 325,
+    "idonline_charm_build": 29,
+    "entry_id": 84,
+    "weight": 10
+  },
+  {
+    "id": 326,
+    "idonline_charm_build": 29,
+    "entry_id": 85,
+    "weight": 10
+  },
+  {
+    "id": 327,
+    "idonline_charm_build": 29,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 328,
+    "idonline_charm_build": 29,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 329,
+    "idonline_charm_build": 29,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 330,
+    "idonline_charm_build": 29,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 331,
+    "idonline_charm_build": 29,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 402,
+    "idonline_charm_build": 32,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 403,
+    "idonline_charm_build": 32,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 404,
+    "idonline_charm_build": 32,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 405,
+    "idonline_charm_build": 32,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 406,
+    "idonline_charm_build": 32,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 407,
+    "idonline_charm_build": 32,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 408,
+    "idonline_charm_build": 32,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 409,
+    "idonline_charm_build": 32,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 410,
+    "idonline_charm_build": 32,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 411,
+    "idonline_charm_build": 32,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 412,
+    "idonline_charm_build": 32,
+    "entry_id": 39,
+    "weight": 150
+  },
+  {
+    "id": 413,
+    "idonline_charm_build": 32,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 414,
+    "idonline_charm_build": 32,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 415,
+    "idonline_charm_build": 32,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 416,
+    "idonline_charm_build": 32,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 417,
+    "idonline_charm_build": 32,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 418,
+    "idonline_charm_build": 32,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 419,
+    "idonline_charm_build": 32,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 420,
+    "idonline_charm_build": 32,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 421,
+    "idonline_charm_build": 32,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 422,
+    "idonline_charm_build": 32,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 423,
+    "idonline_charm_build": 32,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 424,
+    "idonline_charm_build": 32,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 425,
+    "idonline_charm_build": 32,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 426,
+    "idonline_charm_build": 32,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 427,
+    "idonline_charm_build": 32,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 428,
+    "idonline_charm_build": 32,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 429,
+    "idonline_charm_build": 32,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 430,
+    "idonline_charm_build": 32,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 431,
+    "idonline_charm_build": 32,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 432,
+    "idonline_charm_build": 32,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 433,
+    "idonline_charm_build": 32,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 434,
+    "idonline_charm_build": 32,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 435,
+    "idonline_charm_build": 32,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 436,
+    "idonline_charm_build": 32,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 437,
+    "idonline_charm_build": 32,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 438,
+    "idonline_charm_build": 32,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 439,
+    "idonline_charm_build": 32,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 440,
+    "idonline_charm_build": 32,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 441,
+    "idonline_charm_build": 32,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 442,
+    "idonline_charm_build": 32,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 443,
+    "idonline_charm_build": 33,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 444,
+    "idonline_charm_build": 33,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 445,
+    "idonline_charm_build": 33,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 446,
+    "idonline_charm_build": 33,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 447,
+    "idonline_charm_build": 33,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 448,
+    "idonline_charm_build": 33,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 449,
+    "idonline_charm_build": 33,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 450,
+    "idonline_charm_build": 33,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 451,
+    "idonline_charm_build": 33,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 452,
+    "idonline_charm_build": 33,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 453,
+    "idonline_charm_build": 33,
+    "entry_id": 40,
+    "weight": 150
+  },
+  {
+    "id": 454,
+    "idonline_charm_build": 33,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 455,
+    "idonline_charm_build": 33,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 456,
+    "idonline_charm_build": 33,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 457,
+    "idonline_charm_build": 33,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 458,
+    "idonline_charm_build": 33,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 459,
+    "idonline_charm_build": 33,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 460,
+    "idonline_charm_build": 33,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 461,
+    "idonline_charm_build": 33,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 462,
+    "idonline_charm_build": 33,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 463,
+    "idonline_charm_build": 33,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 464,
+    "idonline_charm_build": 33,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 465,
+    "idonline_charm_build": 33,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 466,
+    "idonline_charm_build": 33,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 467,
+    "idonline_charm_build": 33,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 468,
+    "idonline_charm_build": 33,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 469,
+    "idonline_charm_build": 33,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 470,
+    "idonline_charm_build": 33,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 471,
+    "idonline_charm_build": 33,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 472,
+    "idonline_charm_build": 33,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 473,
+    "idonline_charm_build": 33,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 474,
+    "idonline_charm_build": 33,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 475,
+    "idonline_charm_build": 33,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 476,
+    "idonline_charm_build": 33,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 477,
+    "idonline_charm_build": 33,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 478,
+    "idonline_charm_build": 33,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 479,
+    "idonline_charm_build": 33,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 480,
+    "idonline_charm_build": 33,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 481,
+    "idonline_charm_build": 33,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 482,
+    "idonline_charm_build": 33,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 483,
+    "idonline_charm_build": 33,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 484,
+    "idonline_charm_build": 34,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 485,
+    "idonline_charm_build": 34,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 486,
+    "idonline_charm_build": 34,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 487,
+    "idonline_charm_build": 34,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 488,
+    "idonline_charm_build": 34,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 489,
+    "idonline_charm_build": 34,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 490,
+    "idonline_charm_build": 34,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 491,
+    "idonline_charm_build": 34,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 492,
+    "idonline_charm_build": 34,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 493,
+    "idonline_charm_build": 34,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 494,
+    "idonline_charm_build": 34,
+    "entry_id": 41,
+    "weight": 150
+  },
+  {
+    "id": 495,
+    "idonline_charm_build": 34,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 496,
+    "idonline_charm_build": 34,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 497,
+    "idonline_charm_build": 34,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 498,
+    "idonline_charm_build": 34,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 499,
+    "idonline_charm_build": 34,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 500,
+    "idonline_charm_build": 34,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 501,
+    "idonline_charm_build": 34,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 502,
+    "idonline_charm_build": 34,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 503,
+    "idonline_charm_build": 34,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 504,
+    "idonline_charm_build": 34,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 505,
+    "idonline_charm_build": 34,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 506,
+    "idonline_charm_build": 34,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 507,
+    "idonline_charm_build": 34,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 508,
+    "idonline_charm_build": 34,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 509,
+    "idonline_charm_build": 34,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 510,
+    "idonline_charm_build": 34,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 511,
+    "idonline_charm_build": 34,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 512,
+    "idonline_charm_build": 34,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 513,
+    "idonline_charm_build": 34,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 514,
+    "idonline_charm_build": 34,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 515,
+    "idonline_charm_build": 34,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 516,
+    "idonline_charm_build": 34,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 517,
+    "idonline_charm_build": 34,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 518,
+    "idonline_charm_build": 34,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 519,
+    "idonline_charm_build": 34,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 520,
+    "idonline_charm_build": 34,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 521,
+    "idonline_charm_build": 34,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 522,
+    "idonline_charm_build": 34,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 523,
+    "idonline_charm_build": 34,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 524,
+    "idonline_charm_build": 34,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 525,
+    "idonline_charm_build": 35,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 526,
+    "idonline_charm_build": 35,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 527,
+    "idonline_charm_build": 35,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 528,
+    "idonline_charm_build": 35,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 529,
+    "idonline_charm_build": 35,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 530,
+    "idonline_charm_build": 35,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 531,
+    "idonline_charm_build": 35,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 532,
+    "idonline_charm_build": 35,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 533,
+    "idonline_charm_build": 35,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 534,
+    "idonline_charm_build": 35,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 535,
+    "idonline_charm_build": 35,
+    "entry_id": 42,
+    "weight": 150
+  },
+  {
+    "id": 536,
+    "idonline_charm_build": 35,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 537,
+    "idonline_charm_build": 35,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 538,
+    "idonline_charm_build": 35,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 539,
+    "idonline_charm_build": 35,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 540,
+    "idonline_charm_build": 35,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 541,
+    "idonline_charm_build": 35,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 542,
+    "idonline_charm_build": 35,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 543,
+    "idonline_charm_build": 35,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 544,
+    "idonline_charm_build": 35,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 545,
+    "idonline_charm_build": 35,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 546,
+    "idonline_charm_build": 35,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 547,
+    "idonline_charm_build": 35,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 548,
+    "idonline_charm_build": 35,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 549,
+    "idonline_charm_build": 35,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 550,
+    "idonline_charm_build": 35,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 551,
+    "idonline_charm_build": 35,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 552,
+    "idonline_charm_build": 35,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 553,
+    "idonline_charm_build": 35,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 554,
+    "idonline_charm_build": 35,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 555,
+    "idonline_charm_build": 35,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 556,
+    "idonline_charm_build": 35,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 557,
+    "idonline_charm_build": 35,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 558,
+    "idonline_charm_build": 35,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 559,
+    "idonline_charm_build": 35,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 560,
+    "idonline_charm_build": 35,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 561,
+    "idonline_charm_build": 35,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 562,
+    "idonline_charm_build": 35,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 563,
+    "idonline_charm_build": 35,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 564,
+    "idonline_charm_build": 35,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 565,
+    "idonline_charm_build": 35,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 566,
+    "idonline_charm_build": 36,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 567,
+    "idonline_charm_build": 36,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 568,
+    "idonline_charm_build": 36,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 569,
+    "idonline_charm_build": 36,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 570,
+    "idonline_charm_build": 36,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 571,
+    "idonline_charm_build": 36,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 572,
+    "idonline_charm_build": 36,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 573,
+    "idonline_charm_build": 36,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 574,
+    "idonline_charm_build": 36,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 575,
+    "idonline_charm_build": 36,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 576,
+    "idonline_charm_build": 36,
+    "entry_id": 43,
+    "weight": 150
+  },
+  {
+    "id": 577,
+    "idonline_charm_build": 36,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 578,
+    "idonline_charm_build": 36,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 579,
+    "idonline_charm_build": 36,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 580,
+    "idonline_charm_build": 36,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 581,
+    "idonline_charm_build": 36,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 582,
+    "idonline_charm_build": 36,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 583,
+    "idonline_charm_build": 36,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 584,
+    "idonline_charm_build": 36,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 585,
+    "idonline_charm_build": 36,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 586,
+    "idonline_charm_build": 36,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 587,
+    "idonline_charm_build": 36,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 588,
+    "idonline_charm_build": 36,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 589,
+    "idonline_charm_build": 36,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 590,
+    "idonline_charm_build": 36,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 591,
+    "idonline_charm_build": 36,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 592,
+    "idonline_charm_build": 36,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 593,
+    "idonline_charm_build": 36,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 594,
+    "idonline_charm_build": 36,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 595,
+    "idonline_charm_build": 36,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 596,
+    "idonline_charm_build": 36,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 597,
+    "idonline_charm_build": 36,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 598,
+    "idonline_charm_build": 36,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 599,
+    "idonline_charm_build": 36,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 600,
+    "idonline_charm_build": 36,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 601,
+    "idonline_charm_build": 36,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 602,
+    "idonline_charm_build": 36,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 603,
+    "idonline_charm_build": 36,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 604,
+    "idonline_charm_build": 36,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 605,
+    "idonline_charm_build": 36,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 606,
+    "idonline_charm_build": 36,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 607,
+    "idonline_charm_build": 37,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 608,
+    "idonline_charm_build": 37,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 609,
+    "idonline_charm_build": 37,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 610,
+    "idonline_charm_build": 37,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 611,
+    "idonline_charm_build": 37,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 612,
+    "idonline_charm_build": 37,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 613,
+    "idonline_charm_build": 37,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 614,
+    "idonline_charm_build": 37,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 615,
+    "idonline_charm_build": 37,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 616,
+    "idonline_charm_build": 37,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 617,
+    "idonline_charm_build": 37,
+    "entry_id": 44,
+    "weight": 150
+  },
+  {
+    "id": 618,
+    "idonline_charm_build": 37,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 619,
+    "idonline_charm_build": 37,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 620,
+    "idonline_charm_build": 37,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 621,
+    "idonline_charm_build": 37,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 622,
+    "idonline_charm_build": 37,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 623,
+    "idonline_charm_build": 37,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 624,
+    "idonline_charm_build": 37,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 625,
+    "idonline_charm_build": 37,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 626,
+    "idonline_charm_build": 37,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 627,
+    "idonline_charm_build": 37,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 628,
+    "idonline_charm_build": 37,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 629,
+    "idonline_charm_build": 37,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 630,
+    "idonline_charm_build": 37,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 631,
+    "idonline_charm_build": 37,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 632,
+    "idonline_charm_build": 37,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 633,
+    "idonline_charm_build": 37,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 634,
+    "idonline_charm_build": 37,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 635,
+    "idonline_charm_build": 37,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 636,
+    "idonline_charm_build": 37,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 637,
+    "idonline_charm_build": 37,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 638,
+    "idonline_charm_build": 37,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 639,
+    "idonline_charm_build": 37,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 640,
+    "idonline_charm_build": 37,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 641,
+    "idonline_charm_build": 37,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 642,
+    "idonline_charm_build": 37,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 643,
+    "idonline_charm_build": 37,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 644,
+    "idonline_charm_build": 37,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 645,
+    "idonline_charm_build": 37,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 646,
+    "idonline_charm_build": 37,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 647,
+    "idonline_charm_build": 37,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 648,
+    "idonline_charm_build": 38,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 649,
+    "idonline_charm_build": 38,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 650,
+    "idonline_charm_build": 38,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 651,
+    "idonline_charm_build": 38,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 652,
+    "idonline_charm_build": 38,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 653,
+    "idonline_charm_build": 38,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 654,
+    "idonline_charm_build": 38,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 655,
+    "idonline_charm_build": 38,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 656,
+    "idonline_charm_build": 38,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 657,
+    "idonline_charm_build": 38,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 658,
+    "idonline_charm_build": 38,
+    "entry_id": 45,
+    "weight": 150
+  },
+  {
+    "id": 659,
+    "idonline_charm_build": 38,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 660,
+    "idonline_charm_build": 38,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 661,
+    "idonline_charm_build": 38,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 662,
+    "idonline_charm_build": 38,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 663,
+    "idonline_charm_build": 38,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 664,
+    "idonline_charm_build": 38,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 665,
+    "idonline_charm_build": 38,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 666,
+    "idonline_charm_build": 38,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 667,
+    "idonline_charm_build": 38,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 668,
+    "idonline_charm_build": 38,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 669,
+    "idonline_charm_build": 38,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 670,
+    "idonline_charm_build": 38,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 671,
+    "idonline_charm_build": 38,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 672,
+    "idonline_charm_build": 38,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 673,
+    "idonline_charm_build": 38,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 674,
+    "idonline_charm_build": 38,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 675,
+    "idonline_charm_build": 38,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 676,
+    "idonline_charm_build": 38,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 677,
+    "idonline_charm_build": 38,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 678,
+    "idonline_charm_build": 38,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 679,
+    "idonline_charm_build": 38,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 680,
+    "idonline_charm_build": 38,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 681,
+    "idonline_charm_build": 38,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 682,
+    "idonline_charm_build": 38,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 683,
+    "idonline_charm_build": 38,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 684,
+    "idonline_charm_build": 38,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 685,
+    "idonline_charm_build": 38,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 686,
+    "idonline_charm_build": 38,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 687,
+    "idonline_charm_build": 38,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 688,
+    "idonline_charm_build": 38,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 689,
+    "idonline_charm_build": 39,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 690,
+    "idonline_charm_build": 39,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 691,
+    "idonline_charm_build": 39,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 692,
+    "idonline_charm_build": 39,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 693,
+    "idonline_charm_build": 39,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 694,
+    "idonline_charm_build": 39,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 695,
+    "idonline_charm_build": 39,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 696,
+    "idonline_charm_build": 39,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 697,
+    "idonline_charm_build": 39,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 698,
+    "idonline_charm_build": 39,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 699,
+    "idonline_charm_build": 39,
+    "entry_id": 46,
+    "weight": 150
+  },
+  {
+    "id": 700,
+    "idonline_charm_build": 39,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 701,
+    "idonline_charm_build": 39,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 702,
+    "idonline_charm_build": 39,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 703,
+    "idonline_charm_build": 39,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 704,
+    "idonline_charm_build": 39,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 705,
+    "idonline_charm_build": 39,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 706,
+    "idonline_charm_build": 39,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 707,
+    "idonline_charm_build": 39,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 708,
+    "idonline_charm_build": 39,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 709,
+    "idonline_charm_build": 39,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 710,
+    "idonline_charm_build": 39,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 711,
+    "idonline_charm_build": 39,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 712,
+    "idonline_charm_build": 39,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 713,
+    "idonline_charm_build": 39,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 714,
+    "idonline_charm_build": 39,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 715,
+    "idonline_charm_build": 39,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 716,
+    "idonline_charm_build": 39,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 717,
+    "idonline_charm_build": 39,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 718,
+    "idonline_charm_build": 39,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 719,
+    "idonline_charm_build": 39,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 720,
+    "idonline_charm_build": 39,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 721,
+    "idonline_charm_build": 39,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 722,
+    "idonline_charm_build": 39,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 723,
+    "idonline_charm_build": 39,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 724,
+    "idonline_charm_build": 39,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 725,
+    "idonline_charm_build": 39,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 726,
+    "idonline_charm_build": 39,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 727,
+    "idonline_charm_build": 39,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 728,
+    "idonline_charm_build": 39,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 729,
+    "idonline_charm_build": 39,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 730,
+    "idonline_charm_build": 40,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 731,
+    "idonline_charm_build": 40,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 732,
+    "idonline_charm_build": 40,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 733,
+    "idonline_charm_build": 40,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 734,
+    "idonline_charm_build": 40,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 735,
+    "idonline_charm_build": 40,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 736,
+    "idonline_charm_build": 40,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 737,
+    "idonline_charm_build": 40,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 738,
+    "idonline_charm_build": 40,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 739,
+    "idonline_charm_build": 40,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 740,
+    "idonline_charm_build": 40,
+    "entry_id": 47,
+    "weight": 150
+  },
+  {
+    "id": 741,
+    "idonline_charm_build": 40,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 742,
+    "idonline_charm_build": 40,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 743,
+    "idonline_charm_build": 40,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 744,
+    "idonline_charm_build": 40,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 745,
+    "idonline_charm_build": 40,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 746,
+    "idonline_charm_build": 40,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 747,
+    "idonline_charm_build": 40,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 748,
+    "idonline_charm_build": 40,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 749,
+    "idonline_charm_build": 40,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 750,
+    "idonline_charm_build": 40,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 751,
+    "idonline_charm_build": 40,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 752,
+    "idonline_charm_build": 40,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 753,
+    "idonline_charm_build": 40,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 754,
+    "idonline_charm_build": 40,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 755,
+    "idonline_charm_build": 40,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 756,
+    "idonline_charm_build": 40,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 757,
+    "idonline_charm_build": 40,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 758,
+    "idonline_charm_build": 40,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 759,
+    "idonline_charm_build": 40,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 760,
+    "idonline_charm_build": 40,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 761,
+    "idonline_charm_build": 40,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 762,
+    "idonline_charm_build": 40,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 763,
+    "idonline_charm_build": 40,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 764,
+    "idonline_charm_build": 40,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 765,
+    "idonline_charm_build": 40,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 766,
+    "idonline_charm_build": 40,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 767,
+    "idonline_charm_build": 40,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 768,
+    "idonline_charm_build": 40,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 769,
+    "idonline_charm_build": 40,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 770,
+    "idonline_charm_build": 40,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 771,
+    "idonline_charm_build": 41,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 772,
+    "idonline_charm_build": 41,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 773,
+    "idonline_charm_build": 41,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 774,
+    "idonline_charm_build": 41,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 775,
+    "idonline_charm_build": 41,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 776,
+    "idonline_charm_build": 41,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 777,
+    "idonline_charm_build": 41,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 778,
+    "idonline_charm_build": 41,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 779,
+    "idonline_charm_build": 41,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 780,
+    "idonline_charm_build": 41,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 781,
+    "idonline_charm_build": 41,
+    "entry_id": 48,
+    "weight": 150
+  },
+  {
+    "id": 782,
+    "idonline_charm_build": 41,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 783,
+    "idonline_charm_build": 41,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 784,
+    "idonline_charm_build": 41,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 785,
+    "idonline_charm_build": 41,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 786,
+    "idonline_charm_build": 41,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 787,
+    "idonline_charm_build": 41,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 788,
+    "idonline_charm_build": 41,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 789,
+    "idonline_charm_build": 41,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 790,
+    "idonline_charm_build": 41,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 791,
+    "idonline_charm_build": 41,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 792,
+    "idonline_charm_build": 41,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 793,
+    "idonline_charm_build": 41,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 794,
+    "idonline_charm_build": 41,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 795,
+    "idonline_charm_build": 41,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 796,
+    "idonline_charm_build": 41,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 797,
+    "idonline_charm_build": 41,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 798,
+    "idonline_charm_build": 41,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 799,
+    "idonline_charm_build": 41,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 800,
+    "idonline_charm_build": 41,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 801,
+    "idonline_charm_build": 41,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 802,
+    "idonline_charm_build": 41,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 803,
+    "idonline_charm_build": 41,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 804,
+    "idonline_charm_build": 41,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 805,
+    "idonline_charm_build": 41,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 806,
+    "idonline_charm_build": 41,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 807,
+    "idonline_charm_build": 41,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 808,
+    "idonline_charm_build": 41,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 809,
+    "idonline_charm_build": 41,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 810,
+    "idonline_charm_build": 41,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 811,
+    "idonline_charm_build": 41,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 812,
+    "idonline_charm_build": 42,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 813,
+    "idonline_charm_build": 42,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 814,
+    "idonline_charm_build": 42,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 815,
+    "idonline_charm_build": 42,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 816,
+    "idonline_charm_build": 42,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 817,
+    "idonline_charm_build": 42,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 818,
+    "idonline_charm_build": 42,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 819,
+    "idonline_charm_build": 42,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 820,
+    "idonline_charm_build": 42,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 821,
+    "idonline_charm_build": 42,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 822,
+    "idonline_charm_build": 42,
+    "entry_id": 49,
+    "weight": 150
+  },
+  {
+    "id": 823,
+    "idonline_charm_build": 42,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 824,
+    "idonline_charm_build": 42,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 825,
+    "idonline_charm_build": 42,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 826,
+    "idonline_charm_build": 42,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 827,
+    "idonline_charm_build": 42,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 828,
+    "idonline_charm_build": 42,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 829,
+    "idonline_charm_build": 42,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 830,
+    "idonline_charm_build": 42,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 831,
+    "idonline_charm_build": 42,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 832,
+    "idonline_charm_build": 42,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 833,
+    "idonline_charm_build": 42,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 834,
+    "idonline_charm_build": 42,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 835,
+    "idonline_charm_build": 42,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 836,
+    "idonline_charm_build": 42,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 837,
+    "idonline_charm_build": 42,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 838,
+    "idonline_charm_build": 42,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 839,
+    "idonline_charm_build": 42,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 840,
+    "idonline_charm_build": 42,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 841,
+    "idonline_charm_build": 42,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 842,
+    "idonline_charm_build": 42,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 843,
+    "idonline_charm_build": 42,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 844,
+    "idonline_charm_build": 42,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 845,
+    "idonline_charm_build": 42,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 846,
+    "idonline_charm_build": 42,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 847,
+    "idonline_charm_build": 42,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 848,
+    "idonline_charm_build": 42,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 849,
+    "idonline_charm_build": 42,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 850,
+    "idonline_charm_build": 42,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 851,
+    "idonline_charm_build": 42,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 852,
+    "idonline_charm_build": 42,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 853,
+    "idonline_charm_build": 43,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 854,
+    "idonline_charm_build": 43,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 855,
+    "idonline_charm_build": 43,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 856,
+    "idonline_charm_build": 43,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 857,
+    "idonline_charm_build": 43,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 858,
+    "idonline_charm_build": 43,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 859,
+    "idonline_charm_build": 43,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 860,
+    "idonline_charm_build": 43,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 861,
+    "idonline_charm_build": 43,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 862,
+    "idonline_charm_build": 43,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 863,
+    "idonline_charm_build": 43,
+    "entry_id": 50,
+    "weight": 150
+  },
+  {
+    "id": 864,
+    "idonline_charm_build": 43,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 865,
+    "idonline_charm_build": 43,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 866,
+    "idonline_charm_build": 43,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 867,
+    "idonline_charm_build": 43,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 868,
+    "idonline_charm_build": 43,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 869,
+    "idonline_charm_build": 43,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 870,
+    "idonline_charm_build": 43,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 871,
+    "idonline_charm_build": 43,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 872,
+    "idonline_charm_build": 43,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 873,
+    "idonline_charm_build": 43,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 874,
+    "idonline_charm_build": 43,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 875,
+    "idonline_charm_build": 43,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 876,
+    "idonline_charm_build": 43,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 877,
+    "idonline_charm_build": 43,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 878,
+    "idonline_charm_build": 43,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 879,
+    "idonline_charm_build": 43,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 880,
+    "idonline_charm_build": 43,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 881,
+    "idonline_charm_build": 43,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 882,
+    "idonline_charm_build": 43,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 883,
+    "idonline_charm_build": 43,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 884,
+    "idonline_charm_build": 43,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 885,
+    "idonline_charm_build": 43,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 886,
+    "idonline_charm_build": 43,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 887,
+    "idonline_charm_build": 43,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 888,
+    "idonline_charm_build": 43,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 889,
+    "idonline_charm_build": 43,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 890,
+    "idonline_charm_build": 43,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 891,
+    "idonline_charm_build": 43,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 892,
+    "idonline_charm_build": 43,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 893,
+    "idonline_charm_build": 43,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 894,
+    "idonline_charm_build": 44,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 895,
+    "idonline_charm_build": 44,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 896,
+    "idonline_charm_build": 44,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 897,
+    "idonline_charm_build": 44,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 898,
+    "idonline_charm_build": 44,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 899,
+    "idonline_charm_build": 44,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 900,
+    "idonline_charm_build": 44,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 901,
+    "idonline_charm_build": 44,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 902,
+    "idonline_charm_build": 44,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 903,
+    "idonline_charm_build": 44,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 904,
+    "idonline_charm_build": 44,
+    "entry_id": 51,
+    "weight": 150
+  },
+  {
+    "id": 905,
+    "idonline_charm_build": 44,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 906,
+    "idonline_charm_build": 44,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 907,
+    "idonline_charm_build": 44,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 908,
+    "idonline_charm_build": 44,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 909,
+    "idonline_charm_build": 44,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 910,
+    "idonline_charm_build": 44,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 911,
+    "idonline_charm_build": 44,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 912,
+    "idonline_charm_build": 44,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 913,
+    "idonline_charm_build": 44,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 914,
+    "idonline_charm_build": 44,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 915,
+    "idonline_charm_build": 44,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 916,
+    "idonline_charm_build": 44,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 917,
+    "idonline_charm_build": 44,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 918,
+    "idonline_charm_build": 44,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 919,
+    "idonline_charm_build": 44,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 920,
+    "idonline_charm_build": 44,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 921,
+    "idonline_charm_build": 44,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 922,
+    "idonline_charm_build": 44,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 923,
+    "idonline_charm_build": 44,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 924,
+    "idonline_charm_build": 44,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 925,
+    "idonline_charm_build": 44,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 926,
+    "idonline_charm_build": 44,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 927,
+    "idonline_charm_build": 44,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 928,
+    "idonline_charm_build": 44,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 929,
+    "idonline_charm_build": 44,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 930,
+    "idonline_charm_build": 44,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 931,
+    "idonline_charm_build": 44,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 932,
+    "idonline_charm_build": 44,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 933,
+    "idonline_charm_build": 44,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 934,
+    "idonline_charm_build": 44,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 935,
+    "idonline_charm_build": 45,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 936,
+    "idonline_charm_build": 45,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 937,
+    "idonline_charm_build": 45,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 938,
+    "idonline_charm_build": 45,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 939,
+    "idonline_charm_build": 45,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 940,
+    "idonline_charm_build": 45,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 941,
+    "idonline_charm_build": 45,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 942,
+    "idonline_charm_build": 45,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 943,
+    "idonline_charm_build": 45,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 944,
+    "idonline_charm_build": 45,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 945,
+    "idonline_charm_build": 45,
+    "entry_id": 52,
+    "weight": 150
+  },
+  {
+    "id": 946,
+    "idonline_charm_build": 45,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 947,
+    "idonline_charm_build": 45,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 948,
+    "idonline_charm_build": 45,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 949,
+    "idonline_charm_build": 45,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 950,
+    "idonline_charm_build": 45,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 951,
+    "idonline_charm_build": 45,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 952,
+    "idonline_charm_build": 45,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 953,
+    "idonline_charm_build": 45,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 954,
+    "idonline_charm_build": 45,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 955,
+    "idonline_charm_build": 45,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 956,
+    "idonline_charm_build": 45,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 957,
+    "idonline_charm_build": 45,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 958,
+    "idonline_charm_build": 45,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 959,
+    "idonline_charm_build": 45,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 960,
+    "idonline_charm_build": 45,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 961,
+    "idonline_charm_build": 45,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 962,
+    "idonline_charm_build": 45,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 963,
+    "idonline_charm_build": 45,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 964,
+    "idonline_charm_build": 45,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 965,
+    "idonline_charm_build": 45,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 966,
+    "idonline_charm_build": 45,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 967,
+    "idonline_charm_build": 45,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 968,
+    "idonline_charm_build": 45,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 969,
+    "idonline_charm_build": 45,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 970,
+    "idonline_charm_build": 45,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 971,
+    "idonline_charm_build": 45,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 972,
+    "idonline_charm_build": 45,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 973,
+    "idonline_charm_build": 45,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 974,
+    "idonline_charm_build": 45,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 975,
+    "idonline_charm_build": 45,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 976,
+    "idonline_charm_build": 46,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 977,
+    "idonline_charm_build": 46,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 978,
+    "idonline_charm_build": 46,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 979,
+    "idonline_charm_build": 46,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 980,
+    "idonline_charm_build": 46,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 981,
+    "idonline_charm_build": 46,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 982,
+    "idonline_charm_build": 46,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 983,
+    "idonline_charm_build": 46,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 984,
+    "idonline_charm_build": 46,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 985,
+    "idonline_charm_build": 46,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 986,
+    "idonline_charm_build": 46,
+    "entry_id": 53,
+    "weight": 150
+  },
+  {
+    "id": 987,
+    "idonline_charm_build": 46,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 988,
+    "idonline_charm_build": 46,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 989,
+    "idonline_charm_build": 46,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 990,
+    "idonline_charm_build": 46,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 991,
+    "idonline_charm_build": 46,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 992,
+    "idonline_charm_build": 46,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 993,
+    "idonline_charm_build": 46,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 994,
+    "idonline_charm_build": 46,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 995,
+    "idonline_charm_build": 46,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 996,
+    "idonline_charm_build": 46,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 997,
+    "idonline_charm_build": 46,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 998,
+    "idonline_charm_build": 46,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 999,
+    "idonline_charm_build": 46,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1000,
+    "idonline_charm_build": 46,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1001,
+    "idonline_charm_build": 46,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1002,
+    "idonline_charm_build": 46,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1003,
+    "idonline_charm_build": 46,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1004,
+    "idonline_charm_build": 46,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1005,
+    "idonline_charm_build": 46,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1006,
+    "idonline_charm_build": 46,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1007,
+    "idonline_charm_build": 46,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1008,
+    "idonline_charm_build": 46,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1009,
+    "idonline_charm_build": 46,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1010,
+    "idonline_charm_build": 46,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1011,
+    "idonline_charm_build": 46,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1012,
+    "idonline_charm_build": 46,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1013,
+    "idonline_charm_build": 46,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1014,
+    "idonline_charm_build": 46,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1015,
+    "idonline_charm_build": 46,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1016,
+    "idonline_charm_build": 46,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1017,
+    "idonline_charm_build": 47,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 1018,
+    "idonline_charm_build": 47,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 1019,
+    "idonline_charm_build": 47,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 1020,
+    "idonline_charm_build": 47,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 1021,
+    "idonline_charm_build": 47,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 1022,
+    "idonline_charm_build": 47,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 1023,
+    "idonline_charm_build": 47,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 1024,
+    "idonline_charm_build": 47,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 1025,
+    "idonline_charm_build": 47,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 1026,
+    "idonline_charm_build": 47,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 1027,
+    "idonline_charm_build": 47,
+    "entry_id": 54,
+    "weight": 150
+  },
+  {
+    "id": 1028,
+    "idonline_charm_build": 47,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 1029,
+    "idonline_charm_build": 47,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 1030,
+    "idonline_charm_build": 47,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 1031,
+    "idonline_charm_build": 47,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 1032,
+    "idonline_charm_build": 47,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 1033,
+    "idonline_charm_build": 47,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 1034,
+    "idonline_charm_build": 47,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 1035,
+    "idonline_charm_build": 47,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 1036,
+    "idonline_charm_build": 47,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 1037,
+    "idonline_charm_build": 47,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 1038,
+    "idonline_charm_build": 47,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 1039,
+    "idonline_charm_build": 47,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1040,
+    "idonline_charm_build": 47,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1041,
+    "idonline_charm_build": 47,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1042,
+    "idonline_charm_build": 47,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1043,
+    "idonline_charm_build": 47,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1044,
+    "idonline_charm_build": 47,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1045,
+    "idonline_charm_build": 47,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1046,
+    "idonline_charm_build": 47,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1047,
+    "idonline_charm_build": 47,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1048,
+    "idonline_charm_build": 47,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1049,
+    "idonline_charm_build": 47,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1050,
+    "idonline_charm_build": 47,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1051,
+    "idonline_charm_build": 47,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1052,
+    "idonline_charm_build": 47,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1053,
+    "idonline_charm_build": 47,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1054,
+    "idonline_charm_build": 47,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1055,
+    "idonline_charm_build": 47,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1056,
+    "idonline_charm_build": 47,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1057,
+    "idonline_charm_build": 47,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1058,
+    "idonline_charm_build": 48,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 1059,
+    "idonline_charm_build": 48,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 1060,
+    "idonline_charm_build": 48,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 1061,
+    "idonline_charm_build": 48,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 1062,
+    "idonline_charm_build": 48,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 1063,
+    "idonline_charm_build": 48,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 1064,
+    "idonline_charm_build": 48,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 1065,
+    "idonline_charm_build": 48,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 1066,
+    "idonline_charm_build": 48,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 1067,
+    "idonline_charm_build": 48,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 1068,
+    "idonline_charm_build": 48,
+    "entry_id": 55,
+    "weight": 150
+  },
+  {
+    "id": 1069,
+    "idonline_charm_build": 48,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 1070,
+    "idonline_charm_build": 48,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 1071,
+    "idonline_charm_build": 48,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 1072,
+    "idonline_charm_build": 48,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 1073,
+    "idonline_charm_build": 48,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 1074,
+    "idonline_charm_build": 48,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 1075,
+    "idonline_charm_build": 48,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 1076,
+    "idonline_charm_build": 48,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 1077,
+    "idonline_charm_build": 48,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 1078,
+    "idonline_charm_build": 48,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 1079,
+    "idonline_charm_build": 48,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 1080,
+    "idonline_charm_build": 48,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1081,
+    "idonline_charm_build": 48,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1082,
+    "idonline_charm_build": 48,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1083,
+    "idonline_charm_build": 48,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1084,
+    "idonline_charm_build": 48,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1085,
+    "idonline_charm_build": 48,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1086,
+    "idonline_charm_build": 48,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1087,
+    "idonline_charm_build": 48,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1088,
+    "idonline_charm_build": 48,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1089,
+    "idonline_charm_build": 48,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1090,
+    "idonline_charm_build": 48,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1091,
+    "idonline_charm_build": 48,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1092,
+    "idonline_charm_build": 48,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1093,
+    "idonline_charm_build": 48,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1094,
+    "idonline_charm_build": 48,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1095,
+    "idonline_charm_build": 48,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1096,
+    "idonline_charm_build": 48,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1097,
+    "idonline_charm_build": 48,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1098,
+    "idonline_charm_build": 48,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1099,
+    "idonline_charm_build": 49,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 1100,
+    "idonline_charm_build": 49,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 1101,
+    "idonline_charm_build": 49,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 1102,
+    "idonline_charm_build": 49,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 1103,
+    "idonline_charm_build": 49,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 1104,
+    "idonline_charm_build": 49,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 1105,
+    "idonline_charm_build": 49,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 1106,
+    "idonline_charm_build": 49,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 1107,
+    "idonline_charm_build": 49,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 1108,
+    "idonline_charm_build": 49,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 1109,
+    "idonline_charm_build": 49,
+    "entry_id": 56,
+    "weight": 150
+  },
+  {
+    "id": 1110,
+    "idonline_charm_build": 49,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 1111,
+    "idonline_charm_build": 49,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 1112,
+    "idonline_charm_build": 49,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 1113,
+    "idonline_charm_build": 49,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 1114,
+    "idonline_charm_build": 49,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 1115,
+    "idonline_charm_build": 49,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 1116,
+    "idonline_charm_build": 49,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 1117,
+    "idonline_charm_build": 49,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 1118,
+    "idonline_charm_build": 49,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 1119,
+    "idonline_charm_build": 49,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 1120,
+    "idonline_charm_build": 49,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 1121,
+    "idonline_charm_build": 49,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1122,
+    "idonline_charm_build": 49,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1123,
+    "idonline_charm_build": 49,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1124,
+    "idonline_charm_build": 49,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1125,
+    "idonline_charm_build": 49,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1126,
+    "idonline_charm_build": 49,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1127,
+    "idonline_charm_build": 49,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1128,
+    "idonline_charm_build": 49,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1129,
+    "idonline_charm_build": 49,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1130,
+    "idonline_charm_build": 49,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1131,
+    "idonline_charm_build": 49,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1132,
+    "idonline_charm_build": 49,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1133,
+    "idonline_charm_build": 49,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1134,
+    "idonline_charm_build": 49,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1135,
+    "idonline_charm_build": 49,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1136,
+    "idonline_charm_build": 49,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1137,
+    "idonline_charm_build": 49,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1138,
+    "idonline_charm_build": 49,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1139,
+    "idonline_charm_build": 49,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1140,
+    "idonline_charm_build": 50,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 1141,
+    "idonline_charm_build": 50,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 1142,
+    "idonline_charm_build": 50,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 1143,
+    "idonline_charm_build": 50,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 1144,
+    "idonline_charm_build": 50,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 1145,
+    "idonline_charm_build": 50,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 1146,
+    "idonline_charm_build": 50,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 1147,
+    "idonline_charm_build": 50,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 1148,
+    "idonline_charm_build": 50,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 1149,
+    "idonline_charm_build": 50,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 1150,
+    "idonline_charm_build": 50,
+    "entry_id": 57,
+    "weight": 150
+  },
+  {
+    "id": 1151,
+    "idonline_charm_build": 50,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 1152,
+    "idonline_charm_build": 50,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 1153,
+    "idonline_charm_build": 50,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 1154,
+    "idonline_charm_build": 50,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 1155,
+    "idonline_charm_build": 50,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 1156,
+    "idonline_charm_build": 50,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 1157,
+    "idonline_charm_build": 50,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 1158,
+    "idonline_charm_build": 50,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 1159,
+    "idonline_charm_build": 50,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 1160,
+    "idonline_charm_build": 50,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 1161,
+    "idonline_charm_build": 50,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 1162,
+    "idonline_charm_build": 50,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1163,
+    "idonline_charm_build": 50,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1164,
+    "idonline_charm_build": 50,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1165,
+    "idonline_charm_build": 50,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1166,
+    "idonline_charm_build": 50,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1167,
+    "idonline_charm_build": 50,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1168,
+    "idonline_charm_build": 50,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1169,
+    "idonline_charm_build": 50,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1170,
+    "idonline_charm_build": 50,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1171,
+    "idonline_charm_build": 50,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1172,
+    "idonline_charm_build": 50,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1173,
+    "idonline_charm_build": 50,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1174,
+    "idonline_charm_build": 50,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1175,
+    "idonline_charm_build": 50,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1176,
+    "idonline_charm_build": 50,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1177,
+    "idonline_charm_build": 50,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1178,
+    "idonline_charm_build": 50,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1179,
+    "idonline_charm_build": 50,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1180,
+    "idonline_charm_build": 50,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1181,
+    "idonline_charm_build": 51,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 1182,
+    "idonline_charm_build": 51,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 1183,
+    "idonline_charm_build": 51,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 1184,
+    "idonline_charm_build": 51,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 1185,
+    "idonline_charm_build": 51,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 1186,
+    "idonline_charm_build": 51,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 1187,
+    "idonline_charm_build": 51,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 1188,
+    "idonline_charm_build": 51,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 1189,
+    "idonline_charm_build": 51,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 1190,
+    "idonline_charm_build": 51,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 1191,
+    "idonline_charm_build": 51,
+    "entry_id": 58,
+    "weight": 150
+  },
+  {
+    "id": 1192,
+    "idonline_charm_build": 51,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 1193,
+    "idonline_charm_build": 51,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 1194,
+    "idonline_charm_build": 51,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 1195,
+    "idonline_charm_build": 51,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 1196,
+    "idonline_charm_build": 51,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 1197,
+    "idonline_charm_build": 51,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 1198,
+    "idonline_charm_build": 51,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 1199,
+    "idonline_charm_build": 51,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 1200,
+    "idonline_charm_build": 51,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 1201,
+    "idonline_charm_build": 51,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 1202,
+    "idonline_charm_build": 51,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 1203,
+    "idonline_charm_build": 51,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1204,
+    "idonline_charm_build": 51,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1205,
+    "idonline_charm_build": 51,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1206,
+    "idonline_charm_build": 51,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1207,
+    "idonline_charm_build": 51,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1208,
+    "idonline_charm_build": 51,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1209,
+    "idonline_charm_build": 51,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1210,
+    "idonline_charm_build": 51,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1211,
+    "idonline_charm_build": 51,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1212,
+    "idonline_charm_build": 51,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1213,
+    "idonline_charm_build": 51,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1214,
+    "idonline_charm_build": 51,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1215,
+    "idonline_charm_build": 51,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1216,
+    "idonline_charm_build": 51,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1217,
+    "idonline_charm_build": 51,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1218,
+    "idonline_charm_build": 51,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1219,
+    "idonline_charm_build": 51,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1220,
+    "idonline_charm_build": 51,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1221,
+    "idonline_charm_build": 51,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1222,
+    "idonline_charm_build": 52,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 1223,
+    "idonline_charm_build": 52,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 1224,
+    "idonline_charm_build": 52,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 1225,
+    "idonline_charm_build": 52,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 1226,
+    "idonline_charm_build": 52,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 1227,
+    "idonline_charm_build": 52,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 1228,
+    "idonline_charm_build": 52,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 1229,
+    "idonline_charm_build": 52,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 1230,
+    "idonline_charm_build": 52,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 1231,
+    "idonline_charm_build": 52,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 1232,
+    "idonline_charm_build": 52,
+    "entry_id": 59,
+    "weight": 150
+  },
+  {
+    "id": 1233,
+    "idonline_charm_build": 52,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 1234,
+    "idonline_charm_build": 52,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 1235,
+    "idonline_charm_build": 52,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 1236,
+    "idonline_charm_build": 52,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 1237,
+    "idonline_charm_build": 52,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 1238,
+    "idonline_charm_build": 52,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 1239,
+    "idonline_charm_build": 52,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 1240,
+    "idonline_charm_build": 52,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 1241,
+    "idonline_charm_build": 52,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 1242,
+    "idonline_charm_build": 52,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 1243,
+    "idonline_charm_build": 52,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 1244,
+    "idonline_charm_build": 52,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1245,
+    "idonline_charm_build": 52,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1246,
+    "idonline_charm_build": 52,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1247,
+    "idonline_charm_build": 52,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1248,
+    "idonline_charm_build": 52,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1249,
+    "idonline_charm_build": 52,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1250,
+    "idonline_charm_build": 52,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1251,
+    "idonline_charm_build": 52,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1252,
+    "idonline_charm_build": 52,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1253,
+    "idonline_charm_build": 52,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1254,
+    "idonline_charm_build": 52,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1255,
+    "idonline_charm_build": 52,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1256,
+    "idonline_charm_build": 52,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1257,
+    "idonline_charm_build": 52,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1258,
+    "idonline_charm_build": 52,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1259,
+    "idonline_charm_build": 52,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1260,
+    "idonline_charm_build": 52,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1261,
+    "idonline_charm_build": 52,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1262,
+    "idonline_charm_build": 52,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1263,
+    "idonline_charm_build": 53,
+    "entry_id": 29,
+    "weight": 30
+  },
+  {
+    "id": 1264,
+    "idonline_charm_build": 53,
+    "entry_id": 30,
+    "weight": 30
+  },
+  {
+    "id": 1265,
+    "idonline_charm_build": 53,
+    "entry_id": 31,
+    "weight": 30
+  },
+  {
+    "id": 1266,
+    "idonline_charm_build": 53,
+    "entry_id": 32,
+    "weight": 30
+  },
+  {
+    "id": 1267,
+    "idonline_charm_build": 53,
+    "entry_id": 33,
+    "weight": 30
+  },
+  {
+    "id": 1268,
+    "idonline_charm_build": 53,
+    "entry_id": 34,
+    "weight": 30
+  },
+  {
+    "id": 1269,
+    "idonline_charm_build": 53,
+    "entry_id": 35,
+    "weight": 30
+  },
+  {
+    "id": 1270,
+    "idonline_charm_build": 53,
+    "entry_id": 36,
+    "weight": 30
+  },
+  {
+    "id": 1271,
+    "idonline_charm_build": 53,
+    "entry_id": 37,
+    "weight": 30
+  },
+  {
+    "id": 1272,
+    "idonline_charm_build": 53,
+    "entry_id": 38,
+    "weight": 30
+  },
+  {
+    "id": 1273,
+    "idonline_charm_build": 53,
+    "entry_id": 60,
+    "weight": 150
+  },
+  {
+    "id": 1274,
+    "idonline_charm_build": 53,
+    "entry_id": 66,
+    "weight": 8
+  },
+  {
+    "id": 1275,
+    "idonline_charm_build": 53,
+    "entry_id": 67,
+    "weight": 8
+  },
+  {
+    "id": 1276,
+    "idonline_charm_build": 53,
+    "entry_id": 68,
+    "weight": 8
+  },
+  {
+    "id": 1277,
+    "idonline_charm_build": 53,
+    "entry_id": 69,
+    "weight": 8
+  },
+  {
+    "id": 1278,
+    "idonline_charm_build": 53,
+    "entry_id": 70,
+    "weight": 8
+  },
+  {
+    "id": 1279,
+    "idonline_charm_build": 53,
+    "entry_id": 71,
+    "weight": 8
+  },
+  {
+    "id": 1280,
+    "idonline_charm_build": 53,
+    "entry_id": 72,
+    "weight": 8
+  },
+  {
+    "id": 1281,
+    "idonline_charm_build": 53,
+    "entry_id": 73,
+    "weight": 8
+  },
+  {
+    "id": 1282,
+    "idonline_charm_build": 53,
+    "entry_id": 74,
+    "weight": 8
+  },
+  {
+    "id": 1283,
+    "idonline_charm_build": 53,
+    "entry_id": 75,
+    "weight": 8
+  },
+  {
+    "id": 1284,
+    "idonline_charm_build": 53,
+    "entry_id": 81,
+    "weight": 2
+  },
+  {
+    "id": 1285,
+    "idonline_charm_build": 53,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1286,
+    "idonline_charm_build": 53,
+    "entry_id": 83,
+    "weight": 2
+  },
+  {
+    "id": 1287,
+    "idonline_charm_build": 53,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1288,
+    "idonline_charm_build": 53,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1289,
+    "idonline_charm_build": 53,
+    "entry_id": 86,
+    "weight": 2
+  },
+  {
+    "id": 1290,
+    "idonline_charm_build": 53,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1291,
+    "idonline_charm_build": 53,
+    "entry_id": 88,
+    "weight": 2
+  },
+  {
+    "id": 1292,
+    "idonline_charm_build": 53,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1293,
+    "idonline_charm_build": 53,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1294,
+    "idonline_charm_build": 53,
+    "entry_id": 96,
+    "weight": 2
+  },
+  {
+    "id": 1295,
+    "idonline_charm_build": 53,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1296,
+    "idonline_charm_build": 53,
+    "entry_id": 98,
+    "weight": 2
+  },
+  {
+    "id": 1297,
+    "idonline_charm_build": 53,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1298,
+    "idonline_charm_build": 53,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1299,
+    "idonline_charm_build": 53,
+    "entry_id": 101,
+    "weight": 2
+  },
+  {
+    "id": 1300,
+    "idonline_charm_build": 53,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1301,
+    "idonline_charm_build": 53,
+    "entry_id": 103,
+    "weight": 2
+  },
+  {
+    "id": 1302,
+    "idonline_charm_build": 53,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1303,
+    "idonline_charm_build": 53,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1304,
+    "idonline_charm_build": 30,
+    "entry_id": 29,
+    "weight": 192
+  },
+  {
+    "id": 1305,
+    "idonline_charm_build": 30,
+    "entry_id": 31,
+    "weight": 192
+  },
+  {
+    "id": 1306,
+    "idonline_charm_build": 30,
+    "entry_id": 34,
+    "weight": 192
+  },
+  {
+    "id": 1307,
+    "idonline_charm_build": 30,
+    "entry_id": 36,
+    "weight": 192
+  },
+  {
+    "id": 1308,
+    "idonline_charm_build": 30,
+    "entry_id": 112,
+    "weight": 28
+  },
+  {
+    "id": 1309,
+    "idonline_charm_build": 30,
+    "entry_id": 114,
+    "weight": 28
+  },
+  {
+    "id": 1310,
+    "idonline_charm_build": 30,
+    "entry_id": 115,
+    "weight": 28
+  },
+  {
+    "id": 1311,
+    "idonline_charm_build": 30,
+    "entry_id": 117,
+    "weight": 28
+  },
+  {
+    "id": 1312,
+    "idonline_charm_build": 30,
+    "entry_id": 119,
+    "weight": 28
+  },
+  {
+    "id": 1313,
+    "idonline_charm_build": 30,
+    "entry_id": 120,
+    "weight": 28
+  },
+  {
+    "id": 1314,
+    "idonline_charm_build": 30,
+    "entry_id": 122,
+    "weight": 1
+  },
+  {
+    "id": 1315,
+    "idonline_charm_build": 30,
+    "entry_id": 124,
+    "weight": 1
+  },
+  {
+    "id": 1316,
+    "idonline_charm_build": 30,
+    "entry_id": 125,
+    "weight": 1
+  },
+  {
+    "id": 1317,
+    "idonline_charm_build": 30,
+    "entry_id": 127,
+    "weight": 1
+  },
+  {
+    "id": 1318,
+    "idonline_charm_build": 30,
+    "entry_id": 128,
+    "weight": 1
+  },
+  {
+    "id": 1319,
+    "idonline_charm_build": 30,
+    "entry_id": 130,
+    "weight": 1
+  },
+  {
+    "id": 1320,
+    "idonline_charm_build": 30,
+    "entry_id": 66,
+    "weight": 40
+  },
+  {
+    "id": 1321,
+    "idonline_charm_build": 30,
+    "entry_id": 132,
+    "weight": 7
+  },
+  {
+    "id": 1322,
+    "idonline_charm_build": 30,
+    "entry_id": 68,
+    "weight": 40
+  },
+  {
+    "id": 1323,
+    "idonline_charm_build": 30,
+    "entry_id": 134,
+    "weight": 7
+  },
+  {
+    "id": 1324,
+    "idonline_charm_build": 30,
+    "entry_id": 135,
+    "weight": 7
+  },
+  {
+    "id": 1325,
+    "idonline_charm_build": 30,
+    "entry_id": 71,
+    "weight": 40
+  },
+  {
+    "id": 1326,
+    "idonline_charm_build": 30,
+    "entry_id": 137,
+    "weight": 7
+  },
+  {
+    "id": 1327,
+    "idonline_charm_build": 30,
+    "entry_id": 73,
+    "weight": 40
+  },
+  {
+    "id": 1328,
+    "idonline_charm_build": 30,
+    "entry_id": 139,
+    "weight": 7
+  },
+  {
+    "id": 1329,
+    "idonline_charm_build": 30,
+    "entry_id": 140,
+    "weight": 7
+  },
+  {
+    "id": 1330,
+    "idonline_charm_build": 30,
+    "entry_id": 81,
+    "weight": 10
+  },
+  {
+    "id": 1331,
+    "idonline_charm_build": 30,
+    "entry_id": 82,
+    "weight": 2
+  },
+  {
+    "id": 1332,
+    "idonline_charm_build": 30,
+    "entry_id": 83,
+    "weight": 10
+  },
+  {
+    "id": 1333,
+    "idonline_charm_build": 30,
+    "entry_id": 84,
+    "weight": 2
+  },
+  {
+    "id": 1334,
+    "idonline_charm_build": 30,
+    "entry_id": 85,
+    "weight": 2
+  },
+  {
+    "id": 1335,
+    "idonline_charm_build": 30,
+    "entry_id": 86,
+    "weight": 10
+  },
+  {
+    "id": 1336,
+    "idonline_charm_build": 30,
+    "entry_id": 87,
+    "weight": 2
+  },
+  {
+    "id": 1337,
+    "idonline_charm_build": 30,
+    "entry_id": 88,
+    "weight": 10
+  },
+  {
+    "id": 1338,
+    "idonline_charm_build": 30,
+    "entry_id": 89,
+    "weight": 2
+  },
+  {
+    "id": 1339,
+    "idonline_charm_build": 30,
+    "entry_id": 90,
+    "weight": 2
+  },
+  {
+    "id": 1340,
+    "idonline_charm_build": 30,
+    "entry_id": 96,
+    "weight": 10
+  },
+  {
+    "id": 1341,
+    "idonline_charm_build": 30,
+    "entry_id": 97,
+    "weight": 2
+  },
+  {
+    "id": 1342,
+    "idonline_charm_build": 30,
+    "entry_id": 98,
+    "weight": 10
+  },
+  {
+    "id": 1343,
+    "idonline_charm_build": 30,
+    "entry_id": 99,
+    "weight": 2
+  },
+  {
+    "id": 1344,
+    "idonline_charm_build": 30,
+    "entry_id": 100,
+    "weight": 2
+  },
+  {
+    "id": 1345,
+    "idonline_charm_build": 30,
+    "entry_id": 101,
+    "weight": 10
+  },
+  {
+    "id": 1346,
+    "idonline_charm_build": 30,
+    "entry_id": 102,
+    "weight": 2
+  },
+  {
+    "id": 1347,
+    "idonline_charm_build": 30,
+    "entry_id": 103,
+    "weight": 10
+  },
+  {
+    "id": 1348,
+    "idonline_charm_build": 30,
+    "entry_id": 104,
+    "weight": 2
+  },
+  {
+    "id": 1349,
+    "idonline_charm_build": 30,
+    "entry_id": 105,
+    "weight": 2
+  },
+  {
+    "id": 1350,
+    "idonline_charm_build": 31,
+    "entry_id": 30,
+    "weight": 210
+  },
+  {
+    "id": 1351,
+    "idonline_charm_build": 31,
+    "entry_id": 32,
+    "weight": 210
+  },
+  {
+    "id": 1352,
+    "idonline_charm_build": 31,
+    "entry_id": 33,
+    "weight": 210
+  },
+  {
+    "id": 1353,
+    "idonline_charm_build": 31,
+    "entry_id": 35,
+    "weight": 210
+  },
+  {
+    "id": 1354,
+    "idonline_charm_build": 31,
+    "entry_id": 37,
+    "weight": 210
+  },
+  {
+    "id": 1355,
+    "idonline_charm_build": 31,
+    "entry_id": 38,
+    "weight": 210
+  },
+  {
+    "id": 1356,
+    "idonline_charm_build": 31,
+    "entry_id": 111,
+    "weight": 45
+  },
+  {
+    "id": 1357,
+    "idonline_charm_build": 31,
+    "entry_id": 113,
+    "weight": 45
+  },
+  {
+    "id": 1358,
+    "idonline_charm_build": 31,
+    "entry_id": 116,
+    "weight": 45
+  },
+  {
+    "id": 1359,
+    "idonline_charm_build": 31,
+    "entry_id": 118,
+    "weight": 45
+  },
+  {
+    "id": 1360,
+    "idonline_charm_build": 31,
+    "entry_id": 121,
+    "weight": 2
+  },
+  {
+    "id": 1361,
+    "idonline_charm_build": 31,
+    "entry_id": 123,
+    "weight": 2
+  },
+  {
+    "id": 1362,
+    "idonline_charm_build": 31,
+    "entry_id": 126,
+    "weight": 2
+  },
+  {
+    "id": 1363,
+    "idonline_charm_build": 31,
+    "entry_id": 128,
+    "weight": 2
+  },
+  {
+    "id": 1364,
+    "idonline_charm_build": 31,
+    "entry_id": 131,
+    "weight": 18
+  },
+  {
+    "id": 1365,
+    "idonline_charm_build": 31,
+    "entry_id": 67,
+    "weight": 40
+  },
+  {
+    "id": 1366,
+    "idonline_charm_build": 31,
+    "entry_id": 133,
+    "weight": 18
+  },
+  {
+    "id": 1367,
+    "idonline_charm_build": 31,
+    "entry_id": 69,
+    "weight": 40
+  },
+  {
+    "id": 1368,
+    "idonline_charm_build": 31,
+    "entry_id": 70,
+    "weight": 40
+  },
+  {
+    "id": 1369,
+    "idonline_charm_build": 31,
+    "entry_id": 136,
+    "weight": 18
+  },
+  {
+    "id": 1370,
+    "idonline_charm_build": 31,
+    "entry_id": 72,
+    "weight": 40
+  },
+  {
+    "id": 1371,
+    "idonline_charm_build": 31,
+    "entry_id": 138,
+    "weight": 18
+  },
+  {
+    "id": 1372,
+    "idonline_charm_build": 31,
+    "entry_id": 74,
+    "weight": 40
+  },
+  {
+    "id": 1373,
+    "idonline_charm_build": 31,
+    "entry_id": 75,
+    "weight": 40
+  },
+  {
+    "id": 1374,
+    "idonline_charm_build": 31,
+    "entry_id": 81,
+    "weight": 5
+  },
+  {
+    "id": 1375,
+    "idonline_charm_build": 31,
+    "entry_id": 82,
+    "weight": 10
+  },
+  {
+    "id": 1376,
+    "idonline_charm_build": 31,
+    "entry_id": 83,
+    "weight": 5
+  },
+  {
+    "id": 1377,
+    "idonline_charm_build": 31,
+    "entry_id": 84,
+    "weight": 10
+  },
+  {
+    "id": 1378,
+    "idonline_charm_build": 31,
+    "entry_id": 85,
+    "weight": 10
+  },
+  {
+    "id": 1379,
+    "idonline_charm_build": 31,
+    "entry_id": 86,
+    "weight": 5
+  },
+  {
+    "id": 1380,
+    "idonline_charm_build": 31,
+    "entry_id": 87,
+    "weight": 10
+  },
+  {
+    "id": 1381,
+    "idonline_charm_build": 31,
+    "entry_id": 88,
+    "weight": 5
+  },
+  {
+    "id": 1382,
+    "idonline_charm_build": 31,
+    "entry_id": 89,
+    "weight": 10
+  },
+  {
+    "id": 1383,
+    "idonline_charm_build": 31,
+    "entry_id": 90,
+    "weight": 10
+  },
+  {
+    "id": 1384,
+    "idonline_charm_build": 31,
+    "entry_id": 96,
+    "weight": 5
+  },
+  {
+    "id": 1385,
+    "idonline_charm_build": 31,
+    "entry_id": 97,
+    "weight": 10
+  },
+  {
+    "id": 1386,
+    "idonline_charm_build": 31,
+    "entry_id": 98,
+    "weight": 5
+  },
+  {
+    "id": 1387,
+    "idonline_charm_build": 31,
+    "entry_id": 99,
+    "weight": 10
+  },
+  {
+    "id": 1388,
+    "idonline_charm_build": 31,
+    "entry_id": 100,
+    "weight": 10
+  },
+  {
+    "id": 1389,
+    "idonline_charm_build": 31,
+    "entry_id": 101,
+    "weight": 5
+  },
+  {
+    "id": 1390,
+    "idonline_charm_build": 31,
+    "entry_id": 102,
+    "weight": 10
+  },
+  {
+    "id": 1391,
+    "idonline_charm_build": 31,
+    "entry_id": 103,
+    "weight": 5
+  },
+  {
+    "id": 1392,
+    "idonline_charm_build": 31,
+    "entry_id": 104,
+    "weight": 10
+  },
+  {
+    "id": 1393,
+    "idonline_charm_build": 31,
+    "entry_id": 105,
+    "weight": 10
+  }
+]

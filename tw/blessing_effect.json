@@ -1,0 +1,3182 @@
+[
+  {
+    "id": 1,
+    "m_blessing_effect_effects": [1],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福1_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "1"
+  },
+  {
+    "id": 2,
+    "m_blessing_effect_effects": [2],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福1_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "2"
+  },
+  {
+    "id": 3,
+    "m_blessing_effect_effects": [3],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福1_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "3"
+  },
+  {
+    "id": 4,
+    "m_blessing_effect_effects": [4],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福1_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "4"
+  },
+  {
+    "id": 5,
+    "m_blessing_effect_effects": [5],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福1_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "5"
+  },
+  {
+    "id": 6,
+    "m_blessing_effect_effects": [6],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福2_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "6"
+  },
+  {
+    "id": 7,
+    "m_blessing_effect_effects": [7],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福2_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "7"
+  },
+  {
+    "id": 8,
+    "m_blessing_effect_effects": [8],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福2_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "8"
+  },
+  {
+    "id": 9,
+    "m_blessing_effect_effects": [9],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福2_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "9"
+  },
+  {
+    "id": 10,
+    "m_blessing_effect_effects": [10],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福2_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "10"
+  },
+  {
+    "id": 11,
+    "m_blessing_effect_effects": [11],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福3_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "11"
+  },
+  {
+    "id": 12,
+    "m_blessing_effect_effects": [12],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福3_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "12"
+  },
+  {
+    "id": 13,
+    "m_blessing_effect_effects": [13],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福3_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "13"
+  },
+  {
+    "id": 14,
+    "m_blessing_effect_effects": [14],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福3_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "14"
+  },
+  {
+    "id": 15,
+    "m_blessing_effect_effects": [15],
+    "name": "勇气的赐福",
+    "editor_name": "集体-基础祝福3_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "15"
+  },
+  {
+    "id": 16,
+    "m_blessing_effect_effects": [16],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福4_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "16"
+  },
+  {
+    "id": 17,
+    "m_blessing_effect_effects": [17],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福4_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "17"
+  },
+  {
+    "id": 18,
+    "m_blessing_effect_effects": [18],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福4_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "18"
+  },
+  {
+    "id": 19,
+    "m_blessing_effect_effects": [19],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福4_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "19"
+  },
+  {
+    "id": 20,
+    "m_blessing_effect_effects": [20],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福4_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "20"
+  },
+  {
+    "id": 21,
+    "m_blessing_effect_effects": [21],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福5_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "21"
+  },
+  {
+    "id": 22,
+    "m_blessing_effect_effects": [22],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福5_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "22"
+  },
+  {
+    "id": 23,
+    "m_blessing_effect_effects": [23],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福5_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "23"
+  },
+  {
+    "id": 24,
+    "m_blessing_effect_effects": [24],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福5_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "24"
+  },
+  {
+    "id": 25,
+    "m_blessing_effect_effects": [25],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福5_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "25"
+  },
+  {
+    "id": 26,
+    "m_blessing_effect_effects": [26],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福6_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "26"
+  },
+  {
+    "id": 27,
+    "m_blessing_effect_effects": [27],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福6_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "27"
+  },
+  {
+    "id": 28,
+    "m_blessing_effect_effects": [28],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福6_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "28"
+  },
+  {
+    "id": 29,
+    "m_blessing_effect_effects": [29],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福6_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "29"
+  },
+  {
+    "id": 30,
+    "m_blessing_effect_effects": [30],
+    "name": "庇护的赐福",
+    "editor_name": "集体-基础祝福6_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "30"
+  },
+  {
+    "id": 31,
+    "m_blessing_effect_effects": [31],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福7_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "31"
+  },
+  {
+    "id": 32,
+    "m_blessing_effect_effects": [32],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福7_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "32"
+  },
+  {
+    "id": 33,
+    "m_blessing_effect_effects": [33],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福7_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "33"
+  },
+  {
+    "id": 34,
+    "m_blessing_effect_effects": [34],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福7_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "34"
+  },
+  {
+    "id": 35,
+    "m_blessing_effect_effects": [35],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福7_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "35"
+  },
+  {
+    "id": 36,
+    "m_blessing_effect_effects": [36],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福8_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "36"
+  },
+  {
+    "id": 37,
+    "m_blessing_effect_effects": [37],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福8_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "37"
+  },
+  {
+    "id": 38,
+    "m_blessing_effect_effects": [38],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福8_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "38"
+  },
+  {
+    "id": 39,
+    "m_blessing_effect_effects": [39],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福8_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "39"
+  },
+  {
+    "id": 40,
+    "m_blessing_effect_effects": [40],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福8_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "40"
+  },
+  {
+    "id": 41,
+    "m_blessing_effect_effects": [41],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福9_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "41"
+  },
+  {
+    "id": 42,
+    "m_blessing_effect_effects": [42],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福9_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "42"
+  },
+  {
+    "id": 43,
+    "m_blessing_effect_effects": [43],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福9_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "43"
+  },
+  {
+    "id": 44,
+    "m_blessing_effect_effects": [44],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福9_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "44"
+  },
+  {
+    "id": 45,
+    "m_blessing_effect_effects": [45],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-基础祝福9_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "45"
+  },
+  {
+    "id": 46,
+    "m_blessing_effect_effects": [46],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福10_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "46"
+  },
+  {
+    "id": 47,
+    "m_blessing_effect_effects": [47],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福10_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "47"
+  },
+  {
+    "id": 48,
+    "m_blessing_effect_effects": [48],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福10_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "48"
+  },
+  {
+    "id": 49,
+    "m_blessing_effect_effects": [49],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福10_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "49"
+  },
+  {
+    "id": 50,
+    "m_blessing_effect_effects": [50],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福10_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "50"
+  },
+  {
+    "id": 51,
+    "m_blessing_effect_effects": [51],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福11_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "51"
+  },
+  {
+    "id": 52,
+    "m_blessing_effect_effects": [52],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福11_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "52"
+  },
+  {
+    "id": 53,
+    "m_blessing_effect_effects": [53],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福11_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "53"
+  },
+  {
+    "id": 54,
+    "m_blessing_effect_effects": [54],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福11_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "54"
+  },
+  {
+    "id": 55,
+    "m_blessing_effect_effects": [55],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福11_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "55"
+  },
+  {
+    "id": 56,
+    "m_blessing_effect_effects": [56],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福12_Lv1",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "56"
+  },
+  {
+    "id": 57,
+    "m_blessing_effect_effects": [57],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福12_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "57"
+  },
+  {
+    "id": 58,
+    "m_blessing_effect_effects": [58],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福12_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "58"
+  },
+  {
+    "id": 59,
+    "m_blessing_effect_effects": [59],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福12_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "59"
+  },
+  {
+    "id": 60,
+    "m_blessing_effect_effects": [60],
+    "name": "希望的赐福",
+    "editor_name": "集体-基础祝福12_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "60"
+  },
+  {
+    "id": 61,
+    "m_blessing_effect_effects": [61],
+    "name": "勇气的赐福",
+    "editor_name": "集体-高级基础祝福1_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "61"
+  },
+  {
+    "id": 62,
+    "m_blessing_effect_effects": [62],
+    "name": "勇气的赐福",
+    "editor_name": "集体-高级基础祝福1_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "62"
+  },
+  {
+    "id": 63,
+    "m_blessing_effect_effects": [63],
+    "name": "勇气的赐福",
+    "editor_name": "集体-高级基础祝福1_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "63"
+  },
+  {
+    "id": 64,
+    "m_blessing_effect_effects": [64],
+    "name": "勇气的赐福",
+    "editor_name": "集体-高级基础祝福1_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "64"
+  },
+  {
+    "id": 65,
+    "m_blessing_effect_effects": [65],
+    "name": "勇气的赐福",
+    "editor_name": "集体-高级基础祝福2_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "65"
+  },
+  {
+    "id": 66,
+    "m_blessing_effect_effects": [66],
+    "name": "勇气的赐福",
+    "editor_name": "集体-高级基础祝福2_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "66"
+  },
+  {
+    "id": 67,
+    "m_blessing_effect_effects": [67],
+    "name": "勇气的赐福",
+    "editor_name": "集体-高级基础祝福2_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "67"
+  },
+  {
+    "id": 68,
+    "m_blessing_effect_effects": [68],
+    "name": "庇护的赐福",
+    "editor_name": "集体-高级基础祝福3_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "68"
+  },
+  {
+    "id": 69,
+    "m_blessing_effect_effects": [69],
+    "name": "庇护的赐福",
+    "editor_name": "集体-高级基础祝福3_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "69"
+  },
+  {
+    "id": 70,
+    "m_blessing_effect_effects": [70],
+    "name": "庇护的赐福",
+    "editor_name": "集体-高级基础祝福3_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "70"
+  },
+  {
+    "id": 71,
+    "m_blessing_effect_effects": [71],
+    "name": "庇护的赐福",
+    "editor_name": "集体-高级基础祝福3_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "71"
+  },
+  {
+    "id": 72,
+    "m_blessing_effect_effects": [72],
+    "name": "庇护的赐福",
+    "editor_name": "集体-高级基础祝福4_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "72"
+  },
+  {
+    "id": 73,
+    "m_blessing_effect_effects": [73],
+    "name": "庇护的赐福",
+    "editor_name": "集体-高级基础祝福4_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "73"
+  },
+  {
+    "id": 74,
+    "m_blessing_effect_effects": [74],
+    "name": "庇护的赐福",
+    "editor_name": "集体-高级基础祝福4_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "74"
+  },
+  {
+    "id": 75,
+    "m_blessing_effect_effects": [75],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-高级基础祝福5_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "75"
+  },
+  {
+    "id": 76,
+    "m_blessing_effect_effects": [76],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-高级基础祝福5_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "76"
+  },
+  {
+    "id": 77,
+    "m_blessing_effect_effects": [77],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-高级基础祝福5_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "77"
+  },
+  {
+    "id": 78,
+    "m_blessing_effect_effects": [78],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-高级基础祝福5_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "78"
+  },
+  {
+    "id": 79,
+    "m_blessing_effect_effects": [79],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-高级基础祝福6_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "79"
+  },
+  {
+    "id": 80,
+    "m_blessing_effect_effects": [80],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-高级基础祝福6_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "80"
+  },
+  {
+    "id": 81,
+    "m_blessing_effect_effects": [81],
+    "name": "仁爱的赐福",
+    "editor_name": "集体-高级基础祝福6_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "81"
+  },
+  {
+    "id": 82,
+    "m_blessing_effect_effects": [82],
+    "name": "希望的赐福",
+    "editor_name": "集体-高级基础祝福7_Lv2",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "82"
+  },
+  {
+    "id": 83,
+    "m_blessing_effect_effects": [83],
+    "name": "希望的赐福",
+    "editor_name": "集体-高级基础祝福7_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "83"
+  },
+  {
+    "id": 84,
+    "m_blessing_effect_effects": [84],
+    "name": "希望的赐福",
+    "editor_name": "集体-高级基础祝福7_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "84"
+  },
+  {
+    "id": 85,
+    "m_blessing_effect_effects": [85],
+    "name": "希望的赐福",
+    "editor_name": "集体-高级基础祝福7_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "85"
+  },
+  {
+    "id": 86,
+    "m_blessing_effect_effects": [86],
+    "name": "希望的赐福",
+    "editor_name": "集体-高级基础祝福8_Lv3",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "86"
+  },
+  {
+    "id": 87,
+    "m_blessing_effect_effects": [87],
+    "name": "希望的赐福",
+    "editor_name": "集体-高级基础祝福8_Lv4",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "87"
+  },
+  {
+    "id": 88,
+    "m_blessing_effect_effects": [88],
+    "name": "希望的赐福",
+    "editor_name": "集体-高级基础祝福8_Lv5",
+    "blessing_id": 1,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "88"
+  },
+  {
+    "id": 89,
+    "m_blessing_effect_effects": [89],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福1_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "89"
+  },
+  {
+    "id": 90,
+    "m_blessing_effect_effects": [90],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福1_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "90"
+  },
+  {
+    "id": 91,
+    "m_blessing_effect_effects": [91],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福1_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "91"
+  },
+  {
+    "id": 92,
+    "m_blessing_effect_effects": [92],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福1_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "92"
+  },
+  {
+    "id": 93,
+    "m_blessing_effect_effects": [93],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福1_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "93"
+  },
+  {
+    "id": 94,
+    "m_blessing_effect_effects": [94],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福2_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "94"
+  },
+  {
+    "id": 95,
+    "m_blessing_effect_effects": [95],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福2_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "95"
+  },
+  {
+    "id": 96,
+    "m_blessing_effect_effects": [96],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福2_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "96"
+  },
+  {
+    "id": 97,
+    "m_blessing_effect_effects": [97],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福2_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "97"
+  },
+  {
+    "id": 98,
+    "m_blessing_effect_effects": [98],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福2_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "98"
+  },
+  {
+    "id": 99,
+    "m_blessing_effect_effects": [99],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福3_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "99"
+  },
+  {
+    "id": 100,
+    "m_blessing_effect_effects": [100],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福3_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "100"
+  },
+  {
+    "id": 101,
+    "m_blessing_effect_effects": [101],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福3_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "101"
+  },
+  {
+    "id": 102,
+    "m_blessing_effect_effects": [102],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福3_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "102"
+  },
+  {
+    "id": 103,
+    "m_blessing_effect_effects": [103],
+    "name": "勇气的赐福",
+    "editor_name": "特别-基础祝福3_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "103"
+  },
+  {
+    "id": 104,
+    "m_blessing_effect_effects": [104],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福4_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "104"
+  },
+  {
+    "id": 105,
+    "m_blessing_effect_effects": [105],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福4_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "105"
+  },
+  {
+    "id": 106,
+    "m_blessing_effect_effects": [106],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福4_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "106"
+  },
+  {
+    "id": 107,
+    "m_blessing_effect_effects": [107],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福4_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "107"
+  },
+  {
+    "id": 108,
+    "m_blessing_effect_effects": [108],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福4_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "108"
+  },
+  {
+    "id": 109,
+    "m_blessing_effect_effects": [109],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福5_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "109"
+  },
+  {
+    "id": 110,
+    "m_blessing_effect_effects": [110],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福5_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "110"
+  },
+  {
+    "id": 111,
+    "m_blessing_effect_effects": [111],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福5_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "111"
+  },
+  {
+    "id": 112,
+    "m_blessing_effect_effects": [112],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福5_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "112"
+  },
+  {
+    "id": 113,
+    "m_blessing_effect_effects": [113],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福5_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "113"
+  },
+  {
+    "id": 114,
+    "m_blessing_effect_effects": [114],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福6_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "114"
+  },
+  {
+    "id": 115,
+    "m_blessing_effect_effects": [115],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福6_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "115"
+  },
+  {
+    "id": 116,
+    "m_blessing_effect_effects": [116],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福6_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "116"
+  },
+  {
+    "id": 117,
+    "m_blessing_effect_effects": [117],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福6_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "117"
+  },
+  {
+    "id": 118,
+    "m_blessing_effect_effects": [118],
+    "name": "庇护的赐福",
+    "editor_name": "特别-基础祝福6_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "118"
+  },
+  {
+    "id": 119,
+    "m_blessing_effect_effects": [119],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福7_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "119"
+  },
+  {
+    "id": 120,
+    "m_blessing_effect_effects": [120],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福7_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "120"
+  },
+  {
+    "id": 121,
+    "m_blessing_effect_effects": [121],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福7_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "121"
+  },
+  {
+    "id": 122,
+    "m_blessing_effect_effects": [122],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福7_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "122"
+  },
+  {
+    "id": 123,
+    "m_blessing_effect_effects": [123],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福7_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "123"
+  },
+  {
+    "id": 124,
+    "m_blessing_effect_effects": [124],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福8_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "124"
+  },
+  {
+    "id": 125,
+    "m_blessing_effect_effects": [125],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福8_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "125"
+  },
+  {
+    "id": 126,
+    "m_blessing_effect_effects": [126],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福8_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "126"
+  },
+  {
+    "id": 127,
+    "m_blessing_effect_effects": [127],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福8_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "127"
+  },
+  {
+    "id": 128,
+    "m_blessing_effect_effects": [128],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福8_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "128"
+  },
+  {
+    "id": 129,
+    "m_blessing_effect_effects": [129],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福9_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "129"
+  },
+  {
+    "id": 130,
+    "m_blessing_effect_effects": [130],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福9_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "130"
+  },
+  {
+    "id": 131,
+    "m_blessing_effect_effects": [131],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福9_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "131"
+  },
+  {
+    "id": 132,
+    "m_blessing_effect_effects": [132],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福9_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "132"
+  },
+  {
+    "id": 133,
+    "m_blessing_effect_effects": [133],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-基础祝福9_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "133"
+  },
+  {
+    "id": 134,
+    "m_blessing_effect_effects": [134],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福10_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "134"
+  },
+  {
+    "id": 135,
+    "m_blessing_effect_effects": [135],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福10_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "135"
+  },
+  {
+    "id": 136,
+    "m_blessing_effect_effects": [136],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福10_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "136"
+  },
+  {
+    "id": 137,
+    "m_blessing_effect_effects": [137],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福10_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "137"
+  },
+  {
+    "id": 138,
+    "m_blessing_effect_effects": [138],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福10_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "138"
+  },
+  {
+    "id": 139,
+    "m_blessing_effect_effects": [139],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福11_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "139"
+  },
+  {
+    "id": 140,
+    "m_blessing_effect_effects": [140],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福11_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "140"
+  },
+  {
+    "id": 141,
+    "m_blessing_effect_effects": [141],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福11_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "141"
+  },
+  {
+    "id": 142,
+    "m_blessing_effect_effects": [142],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福11_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "142"
+  },
+  {
+    "id": 143,
+    "m_blessing_effect_effects": [143],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福11_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "143"
+  },
+  {
+    "id": 144,
+    "m_blessing_effect_effects": [144],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福12_Lv1",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "144"
+  },
+  {
+    "id": 145,
+    "m_blessing_effect_effects": [145],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福12_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "145"
+  },
+  {
+    "id": 146,
+    "m_blessing_effect_effects": [146],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福12_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "146"
+  },
+  {
+    "id": 147,
+    "m_blessing_effect_effects": [147],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福12_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "147"
+  },
+  {
+    "id": 148,
+    "m_blessing_effect_effects": [148],
+    "name": "希望的赐福",
+    "editor_name": "特别-基础祝福12_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "148"
+  },
+  {
+    "id": 149,
+    "m_blessing_effect_effects": [149],
+    "name": "勇气的赐福",
+    "editor_name": "特别-高级基础祝福1_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "149"
+  },
+  {
+    "id": 150,
+    "m_blessing_effect_effects": [150],
+    "name": "勇气的赐福",
+    "editor_name": "特别-高级基础祝福1_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "150"
+  },
+  {
+    "id": 151,
+    "m_blessing_effect_effects": [151],
+    "name": "勇气的赐福",
+    "editor_name": "特别-高级基础祝福1_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "151"
+  },
+  {
+    "id": 152,
+    "m_blessing_effect_effects": [152],
+    "name": "勇气的赐福",
+    "editor_name": "特别-高级基础祝福1_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "152"
+  },
+  {
+    "id": 153,
+    "m_blessing_effect_effects": [153],
+    "name": "勇气的赐福",
+    "editor_name": "特别-高级基础祝福2_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "153"
+  },
+  {
+    "id": 154,
+    "m_blessing_effect_effects": [154],
+    "name": "勇气的赐福",
+    "editor_name": "特别-高级基础祝福2_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "154"
+  },
+  {
+    "id": 155,
+    "m_blessing_effect_effects": [155],
+    "name": "勇气的赐福",
+    "editor_name": "特别-高级基础祝福2_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "155"
+  },
+  {
+    "id": 156,
+    "m_blessing_effect_effects": [156],
+    "name": "庇护的赐福",
+    "editor_name": "特别-高级基础祝福3_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "156"
+  },
+  {
+    "id": 157,
+    "m_blessing_effect_effects": [157],
+    "name": "庇护的赐福",
+    "editor_name": "特别-高级基础祝福3_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "157"
+  },
+  {
+    "id": 158,
+    "m_blessing_effect_effects": [158],
+    "name": "庇护的赐福",
+    "editor_name": "特别-高级基础祝福3_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "158"
+  },
+  {
+    "id": 159,
+    "m_blessing_effect_effects": [159],
+    "name": "庇护的赐福",
+    "editor_name": "特别-高级基础祝福3_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "159"
+  },
+  {
+    "id": 160,
+    "m_blessing_effect_effects": [160],
+    "name": "庇护的赐福",
+    "editor_name": "特别-高级基础祝福4_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "160"
+  },
+  {
+    "id": 161,
+    "m_blessing_effect_effects": [161],
+    "name": "庇护的赐福",
+    "editor_name": "特别-高级基础祝福4_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "161"
+  },
+  {
+    "id": 162,
+    "m_blessing_effect_effects": [162],
+    "name": "庇护的赐福",
+    "editor_name": "特别-高级基础祝福4_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "162"
+  },
+  {
+    "id": 163,
+    "m_blessing_effect_effects": [163],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-高级基础祝福5_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "163"
+  },
+  {
+    "id": 164,
+    "m_blessing_effect_effects": [164],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-高级基础祝福5_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "164"
+  },
+  {
+    "id": 165,
+    "m_blessing_effect_effects": [165],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-高级基础祝福5_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "165"
+  },
+  {
+    "id": 166,
+    "m_blessing_effect_effects": [166],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-高级基础祝福5_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "166"
+  },
+  {
+    "id": 167,
+    "m_blessing_effect_effects": [167],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-高级基础祝福6_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "167"
+  },
+  {
+    "id": 168,
+    "m_blessing_effect_effects": [168],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-高级基础祝福6_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "168"
+  },
+  {
+    "id": 169,
+    "m_blessing_effect_effects": [169],
+    "name": "仁爱的赐福",
+    "editor_name": "特别-高级基础祝福6_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "169"
+  },
+  {
+    "id": 170,
+    "m_blessing_effect_effects": [170],
+    "name": "希望的赐福",
+    "editor_name": "特别-高级基础祝福7_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "170"
+  },
+  {
+    "id": 171,
+    "m_blessing_effect_effects": [171],
+    "name": "希望的赐福",
+    "editor_name": "特别-高级基础祝福7_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "171"
+  },
+  {
+    "id": 172,
+    "m_blessing_effect_effects": [172],
+    "name": "希望的赐福",
+    "editor_name": "特别-高级基础祝福7_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "172"
+  },
+  {
+    "id": 173,
+    "m_blessing_effect_effects": [173],
+    "name": "希望的赐福",
+    "editor_name": "特别-高级基础祝福7_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "173"
+  },
+  {
+    "id": 174,
+    "m_blessing_effect_effects": [174],
+    "name": "希望的赐福",
+    "editor_name": "特别-高级基础祝福8_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "174"
+  },
+  {
+    "id": 175,
+    "m_blessing_effect_effects": [175],
+    "name": "希望的赐福",
+    "editor_name": "特别-高级基础祝福8_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "175"
+  },
+  {
+    "id": 176,
+    "m_blessing_effect_effects": [176],
+    "name": "希望的赐福",
+    "editor_name": "特别-高级基础祝福8_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "176"
+  },
+  {
+    "id": 177,
+    "m_blessing_effect_effects": [177],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福1_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "177"
+  },
+  {
+    "id": 178,
+    "m_blessing_effect_effects": [178],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福1_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "178"
+  },
+  {
+    "id": 179,
+    "m_blessing_effect_effects": [179],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福1_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "179"
+  },
+  {
+    "id": 180,
+    "m_blessing_effect_effects": [180],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福1_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "180"
+  },
+  {
+    "id": 181,
+    "m_blessing_effect_effects": [181],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福2_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "181"
+  },
+  {
+    "id": 182,
+    "m_blessing_effect_effects": [182],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福2_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "182"
+  },
+  {
+    "id": 183,
+    "m_blessing_effect_effects": [183],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福2_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "183"
+  },
+  {
+    "id": 184,
+    "m_blessing_effect_effects": [184],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福2_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "184"
+  },
+  {
+    "id": 185,
+    "m_blessing_effect_effects": [185],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福3_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "185"
+  },
+  {
+    "id": 186,
+    "m_blessing_effect_effects": [186],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福3_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "186"
+  },
+  {
+    "id": 187,
+    "m_blessing_effect_effects": [187],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福3_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "187"
+  },
+  {
+    "id": 188,
+    "m_blessing_effect_effects": [188],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福3_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "188"
+  },
+  {
+    "id": 189,
+    "m_blessing_effect_effects": [189],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福4_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "189"
+  },
+  {
+    "id": 190,
+    "m_blessing_effect_effects": [190],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福4_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "190"
+  },
+  {
+    "id": 191,
+    "m_blessing_effect_effects": [191],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福4_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "191"
+  },
+  {
+    "id": 192,
+    "m_blessing_effect_effects": [192],
+    "name": "勇气的赐福",
+    "editor_name": "特别专属祝福4_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "192"
+  },
+  {
+    "id": 193,
+    "m_blessing_effect_effects": [193],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福5_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "193"
+  },
+  {
+    "id": 194,
+    "m_blessing_effect_effects": [194],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福5_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "194"
+  },
+  {
+    "id": 195,
+    "m_blessing_effect_effects": [195],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福5_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "195"
+  },
+  {
+    "id": 196,
+    "m_blessing_effect_effects": [196],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福5_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "196"
+  },
+  {
+    "id": 197,
+    "m_blessing_effect_effects": [197],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福6_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "197"
+  },
+  {
+    "id": 198,
+    "m_blessing_effect_effects": [198],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福6_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "198"
+  },
+  {
+    "id": 199,
+    "m_blessing_effect_effects": [199],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福6_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "199"
+  },
+  {
+    "id": 200,
+    "m_blessing_effect_effects": [200],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福6_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "200"
+  },
+  {
+    "id": 201,
+    "m_blessing_effect_effects": [201],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福7_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "201"
+  },
+  {
+    "id": 202,
+    "m_blessing_effect_effects": [202],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福7_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "202"
+  },
+  {
+    "id": 203,
+    "m_blessing_effect_effects": [203],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福7_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "203"
+  },
+  {
+    "id": 204,
+    "m_blessing_effect_effects": [204],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福7_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "204"
+  },
+  {
+    "id": 205,
+    "m_blessing_effect_effects": [205],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福8_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "205"
+  },
+  {
+    "id": 206,
+    "m_blessing_effect_effects": [206],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福8_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "206"
+  },
+  {
+    "id": 207,
+    "m_blessing_effect_effects": [207],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福8_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "207"
+  },
+  {
+    "id": 208,
+    "m_blessing_effect_effects": [208],
+    "name": "庇护的赐福",
+    "editor_name": "特别专属祝福8_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "208"
+  },
+  {
+    "id": 209,
+    "m_blessing_effect_effects": [209],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福9_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "209"
+  },
+  {
+    "id": 210,
+    "m_blessing_effect_effects": [210],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福9_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "210"
+  },
+  {
+    "id": 211,
+    "m_blessing_effect_effects": [211],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福9_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "211"
+  },
+  {
+    "id": 212,
+    "m_blessing_effect_effects": [212],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福9_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "212"
+  },
+  {
+    "id": 213,
+    "m_blessing_effect_effects": [213],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福10_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "213"
+  },
+  {
+    "id": 214,
+    "m_blessing_effect_effects": [214],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福10_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "214"
+  },
+  {
+    "id": 215,
+    "m_blessing_effect_effects": [215],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福10_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "215"
+  },
+  {
+    "id": 216,
+    "m_blessing_effect_effects": [216],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福10_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "216"
+  },
+  {
+    "id": 217,
+    "m_blessing_effect_effects": [217],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福11_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "217"
+  },
+  {
+    "id": 218,
+    "m_blessing_effect_effects": [218],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福11_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "218"
+  },
+  {
+    "id": 219,
+    "m_blessing_effect_effects": [219],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福11_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "219"
+  },
+  {
+    "id": 220,
+    "m_blessing_effect_effects": [220],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福11_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "220"
+  },
+  {
+    "id": 221,
+    "m_blessing_effect_effects": [221],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福12_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "221"
+  },
+  {
+    "id": 222,
+    "m_blessing_effect_effects": [222],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福12_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "222"
+  },
+  {
+    "id": 223,
+    "m_blessing_effect_effects": [223],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福12_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "223"
+  },
+  {
+    "id": 224,
+    "m_blessing_effect_effects": [224],
+    "name": "仁爱的赐福",
+    "editor_name": "特别专属祝福12_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "224"
+  },
+  {
+    "id": 225,
+    "m_blessing_effect_effects": [225],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福13_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "225"
+  },
+  {
+    "id": 226,
+    "m_blessing_effect_effects": [226],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福13_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "226"
+  },
+  {
+    "id": 227,
+    "m_blessing_effect_effects": [227],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福13_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "227"
+  },
+  {
+    "id": 228,
+    "m_blessing_effect_effects": [228],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福13_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "228"
+  },
+  {
+    "id": 229,
+    "m_blessing_effect_effects": [229],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福14_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "229"
+  },
+  {
+    "id": 230,
+    "m_blessing_effect_effects": [230],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福14_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "230"
+  },
+  {
+    "id": 231,
+    "m_blessing_effect_effects": [231],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福14_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "231"
+  },
+  {
+    "id": 232,
+    "m_blessing_effect_effects": [232],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福14_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "232"
+  },
+  {
+    "id": 233,
+    "m_blessing_effect_effects": [233],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福15_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "233"
+  },
+  {
+    "id": 234,
+    "m_blessing_effect_effects": [234],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福15_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "234"
+  },
+  {
+    "id": 235,
+    "m_blessing_effect_effects": [235],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福15_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "235"
+  },
+  {
+    "id": 236,
+    "m_blessing_effect_effects": [236],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福15_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "236"
+  },
+  {
+    "id": 237,
+    "m_blessing_effect_effects": [237],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福16_Lv2",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "237"
+  },
+  {
+    "id": 238,
+    "m_blessing_effect_effects": [238],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福16_Lv3",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "238"
+  },
+  {
+    "id": 239,
+    "m_blessing_effect_effects": [239],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福16_Lv4",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "239"
+  },
+  {
+    "id": 240,
+    "m_blessing_effect_effects": [240],
+    "name": "希望的赐福",
+    "editor_name": "特别专属祝福16_Lv5",
+    "blessing_id": 2,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "240"
+  },
+  {
+    "id": 241,
+    "m_blessing_effect_effects": [241],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福1_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "241"
+  },
+  {
+    "id": 242,
+    "m_blessing_effect_effects": [242],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福1_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "242"
+  },
+  {
+    "id": 243,
+    "m_blessing_effect_effects": [243],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福1_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "243"
+  },
+  {
+    "id": 244,
+    "m_blessing_effect_effects": [244],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福1_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "244"
+  },
+  {
+    "id": 245,
+    "m_blessing_effect_effects": [245],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福1_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "245"
+  },
+  {
+    "id": 246,
+    "m_blessing_effect_effects": [246],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福2_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 1,
+    "blessing_effect_effect_ids": "246"
+  },
+  {
+    "id": 247,
+    "m_blessing_effect_effects": [247],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福2_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "247"
+  },
+  {
+    "id": 248,
+    "m_blessing_effect_effects": [248],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福2_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "248"
+  },
+  {
+    "id": 249,
+    "m_blessing_effect_effects": [249],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福2_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "249"
+  },
+  {
+    "id": 250,
+    "m_blessing_effect_effects": [250],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福2_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "250"
+  },
+  {
+    "id": 251,
+    "m_blessing_effect_effects": [251],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福3_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 2,
+    "blessing_effect_effect_ids": "251"
+  },
+  {
+    "id": 252,
+    "m_blessing_effect_effects": [252],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福3_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "252"
+  },
+  {
+    "id": 253,
+    "m_blessing_effect_effects": [253],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福3_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "253"
+  },
+  {
+    "id": 254,
+    "m_blessing_effect_effects": [254],
+    "name": "勇气的赐福",
+    "editor_name": "顿悟祝福3_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "254"
+  },
+  {
+    "id": 255,
+    "m_blessing_effect_effects": [255],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福4_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "255"
+  },
+  {
+    "id": 256,
+    "m_blessing_effect_effects": [256],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福4_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "256"
+  },
+  {
+    "id": 257,
+    "m_blessing_effect_effects": [257],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福4_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "257"
+  },
+  {
+    "id": 258,
+    "m_blessing_effect_effects": [258],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福4_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "258"
+  },
+  {
+    "id": 259,
+    "m_blessing_effect_effects": [259],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福4_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "259"
+  },
+  {
+    "id": 260,
+    "m_blessing_effect_effects": [260],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福5_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 1,
+    "blessing_effect_effect_ids": "260"
+  },
+  {
+    "id": 261,
+    "m_blessing_effect_effects": [261],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福5_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "261"
+  },
+  {
+    "id": 262,
+    "m_blessing_effect_effects": [262],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福5_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "262"
+  },
+  {
+    "id": 263,
+    "m_blessing_effect_effects": [263],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福5_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "263"
+  },
+  {
+    "id": 264,
+    "m_blessing_effect_effects": [264],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福5_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "264"
+  },
+  {
+    "id": 265,
+    "m_blessing_effect_effects": [265],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福6_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 2,
+    "blessing_effect_effect_ids": "265"
+  },
+  {
+    "id": 266,
+    "m_blessing_effect_effects": [266],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福6_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "266"
+  },
+  {
+    "id": 267,
+    "m_blessing_effect_effects": [267],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福6_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "267"
+  },
+  {
+    "id": 268,
+    "m_blessing_effect_effects": [268],
+    "name": "庇护的赐福",
+    "editor_name": "顿悟祝福6_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "268"
+  },
+  {
+    "id": 269,
+    "m_blessing_effect_effects": [269],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福7_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "269"
+  },
+  {
+    "id": 270,
+    "m_blessing_effect_effects": [270],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福7_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "270"
+  },
+  {
+    "id": 271,
+    "m_blessing_effect_effects": [271],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福7_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "271"
+  },
+  {
+    "id": 272,
+    "m_blessing_effect_effects": [272],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福7_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "272"
+  },
+  {
+    "id": 273,
+    "m_blessing_effect_effects": [273],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福7_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "273"
+  },
+  {
+    "id": 274,
+    "m_blessing_effect_effects": [274],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福8_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "274"
+  },
+  {
+    "id": 275,
+    "m_blessing_effect_effects": [275],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福8_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "275"
+  },
+  {
+    "id": 276,
+    "m_blessing_effect_effects": [276],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福8_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "276"
+  },
+  {
+    "id": 277,
+    "m_blessing_effect_effects": [277],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福8_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "277"
+  },
+  {
+    "id": 278,
+    "m_blessing_effect_effects": [278],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福8_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "278"
+  },
+  {
+    "id": 279,
+    "m_blessing_effect_effects": [279],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福9_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "279"
+  },
+  {
+    "id": 280,
+    "m_blessing_effect_effects": [280],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福9_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "280"
+  },
+  {
+    "id": 281,
+    "m_blessing_effect_effects": [281],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福9_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "281"
+  },
+  {
+    "id": 282,
+    "m_blessing_effect_effects": [282],
+    "name": "仁爱的赐福",
+    "editor_name": "顿悟祝福9_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "282"
+  },
+  {
+    "id": 283,
+    "m_blessing_effect_effects": [283],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福10_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "283"
+  },
+  {
+    "id": 284,
+    "m_blessing_effect_effects": [284],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福10_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "284"
+  },
+  {
+    "id": 285,
+    "m_blessing_effect_effects": [285],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福10_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "285"
+  },
+  {
+    "id": 286,
+    "m_blessing_effect_effects": [286],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福10_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "286"
+  },
+  {
+    "id": 287,
+    "m_blessing_effect_effects": [287],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福10_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "287"
+  },
+  {
+    "id": 288,
+    "m_blessing_effect_effects": [288],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福11_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "288"
+  },
+  {
+    "id": 289,
+    "m_blessing_effect_effects": [289],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福11_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "289"
+  },
+  {
+    "id": 290,
+    "m_blessing_effect_effects": [290],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福11_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "290"
+  },
+  {
+    "id": 291,
+    "m_blessing_effect_effects": [291],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福11_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "291"
+  },
+  {
+    "id": 292,
+    "m_blessing_effect_effects": [292],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福11_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "292"
+  },
+  {
+    "id": 293,
+    "m_blessing_effect_effects": [293],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福12_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "293"
+  },
+  {
+    "id": 294,
+    "m_blessing_effect_effects": [294],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福12_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "294"
+  },
+  {
+    "id": 295,
+    "m_blessing_effect_effects": [295],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福12_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "295"
+  },
+  {
+    "id": 296,
+    "m_blessing_effect_effects": [296],
+    "name": "希望的赐福",
+    "editor_name": "顿悟祝福12_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "296"
+  },
+  {
+    "id": 297,
+    "m_blessing_effect_effects": [297],
+    "name": "勇气的赐福",
+    "editor_name": "高级顿悟祝福1_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 3,
+    "blessing_effect_effect_ids": "297"
+  },
+  {
+    "id": 298,
+    "m_blessing_effect_effects": [298],
+    "name": "勇气的赐福",
+    "editor_name": "高级顿悟祝福1_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 4,
+    "blessing_effect_effect_ids": "298"
+  },
+  {
+    "id": 299,
+    "m_blessing_effect_effects": [299],
+    "name": "勇气的赐福",
+    "editor_name": "高级顿悟祝福1_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 1,
+    "level": 5,
+    "blessing_effect_effect_ids": "299"
+  },
+  {
+    "id": 300,
+    "m_blessing_effect_effects": [300],
+    "name": "庇护的赐福",
+    "editor_name": "高级顿悟祝福2_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 3,
+    "blessing_effect_effect_ids": "300"
+  },
+  {
+    "id": 301,
+    "m_blessing_effect_effects": [301],
+    "name": "庇护的赐福",
+    "editor_name": "高级顿悟祝福2_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 4,
+    "blessing_effect_effect_ids": "301"
+  },
+  {
+    "id": 302,
+    "m_blessing_effect_effects": [302],
+    "name": "庇护的赐福",
+    "editor_name": "高级顿悟祝福2_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 2,
+    "level": 5,
+    "blessing_effect_effect_ids": "302"
+  },
+  {
+    "id": 303,
+    "m_blessing_effect_effects": [303],
+    "name": "仁爱的赐福",
+    "editor_name": "高级顿悟祝福3_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "303"
+  },
+  {
+    "id": 304,
+    "m_blessing_effect_effects": [304],
+    "name": "仁爱的赐福",
+    "editor_name": "高级顿悟祝福3_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "304"
+  },
+  {
+    "id": 305,
+    "m_blessing_effect_effects": [305],
+    "name": "仁爱的赐福",
+    "editor_name": "高级顿悟祝福3_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "305"
+  },
+  {
+    "id": 306,
+    "m_blessing_effect_effects": [306],
+    "name": "希望的赐福",
+    "editor_name": "高级顿悟祝福4_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "306"
+  },
+  {
+    "id": 307,
+    "m_blessing_effect_effects": [307],
+    "name": "希望的赐福",
+    "editor_name": "高级顿悟祝福4_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "307"
+  },
+  {
+    "id": 308,
+    "m_blessing_effect_effects": [308],
+    "name": "希望的赐福",
+    "editor_name": "高级顿悟祝福4_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "308"
+  },
+  {
+    "id": 309,
+    "m_blessing_effect_effects": [309],
+    "name": "仁爱的赐福",
+    "editor_name": "角色消耗活力减少%_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 1,
+    "blessing_effect_effect_ids": "309"
+  },
+  {
+    "id": 310,
+    "m_blessing_effect_effects": [310],
+    "name": "仁爱的赐福",
+    "editor_name": "角色消耗活力减少%_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 2,
+    "blessing_effect_effect_ids": "310"
+  },
+  {
+    "id": 311,
+    "m_blessing_effect_effects": [311],
+    "name": "仁爱的赐福",
+    "editor_name": "角色消耗活力减少%_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 3,
+    "blessing_effect_effect_ids": "311"
+  },
+  {
+    "id": 312,
+    "m_blessing_effect_effects": [312],
+    "name": "仁爱的赐福",
+    "editor_name": "角色消耗活力减少%_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 4,
+    "blessing_effect_effect_ids": "312"
+  },
+  {
+    "id": 313,
+    "m_blessing_effect_effects": [313],
+    "name": "仁爱的赐福",
+    "editor_name": "角色消耗活力减少%_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 3,
+    "level": 5,
+    "blessing_effect_effect_ids": "313"
+  },
+  {
+    "id": 314,
+    "m_blessing_effect_effects": [314],
+    "name": "希望的赐福",
+    "editor_name": "角色经验获取提升%_Lv1",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 1,
+    "blessing_effect_effect_ids": "314"
+  },
+  {
+    "id": 315,
+    "m_blessing_effect_effects": [315],
+    "name": "希望的赐福",
+    "editor_name": "角色经验获取提升%_Lv2",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 2,
+    "blessing_effect_effect_ids": "315"
+  },
+  {
+    "id": 316,
+    "m_blessing_effect_effects": [316],
+    "name": "希望的赐福",
+    "editor_name": "角色经验获取提升%_Lv3",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 3,
+    "blessing_effect_effect_ids": "316"
+  },
+  {
+    "id": 317,
+    "m_blessing_effect_effects": [317],
+    "name": "希望的赐福",
+    "editor_name": "角色经验获取提升%_Lv4",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 4,
+    "blessing_effect_effect_ids": "317"
+  },
+  {
+    "id": 318,
+    "m_blessing_effect_effects": [318],
+    "name": "希望的赐福",
+    "editor_name": "角色经验获取提升%_Lv5",
+    "blessing_id": 3,
+    "blessing_type": 4,
+    "level": 5,
+    "blessing_effect_effect_ids": "318"
+  }
+]

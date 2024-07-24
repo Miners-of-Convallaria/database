@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "system_id": 33,
+    "name": "网游商城",
+    "type": "OnlineShop",
+    "param0_name": "左侧页签",
+    "param0_type": "online_shop_category",
+    "param1_name": "商店或者推荐项",
+    "param1_type": "online_shop|online_shop_recommend",
+    "param2_name": "商品ID",
+    "param2_type": "online_shop_item"
+  },
+  {
+    "id": 2,
+    "system_id": 34,
+    "name": "网游抽卡",
+    "type": "OnlineGacha",
+    "param0_name": "池子ID",
+    "param0_type": "online_gacha_pool",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 3,
+    "system_id": 57,
+    "name": "网游运营活动",
+    "type": "OnlineOperationActivity",
+    "param0_name": "活动ID",
+    "param0_type": "online_operation_activity",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  },
+  {
+    "id": 4,
+    "system_id": 85,
+    "name": "网游限时玩法",
+    "type": "OnlineContractActivity",
+    "param0_name": "玩法ID",
+    "param0_type": "online_contract_activity",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
+  }
+]

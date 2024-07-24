@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "必得",
+    "editor_name": "角色新手池规则",
+    "type": 1,
+    "guaranteed_count": 30,
+    "enable_type_guaranteed": false,
+    "is_selectable": false,
+    "guaranteed_desc": "",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0
+  },
+  {
+    "id": 2,
+    "name": "常驻",
+    "editor_name": "角色常驻池规则",
+    "type": 1,
+    "guaranteed_count": 0,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0
+  },
+  {
+    "id": 3,
+    "name": "初遇",
+    "editor_name": "新角色UP池规则",
+    "type": 1,
+    "guaranteed_count": 180,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "当前<style=yellow>【{rule}】保底</style>：<style=yellow>{upCount}</style>次内必得当期UP角色",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0
+  },
+  {
+    "id": 4,
+    "name": "重逢",
+    "editor_name": "老角色2UP池规则",
+    "type": 1,
+    "guaranteed_count": 180,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "当前<style=yellow>【{rule}】保底</style>：<style=yellow>{upCount}</style>次内必得当期UP角色",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0
+  },
+  {
+    "id": 5,
+    "name": "祈愿",
+    "editor_name": "自选2UP池规则",
+    "type": 1,
+    "guaranteed_count": 90,
+    "enable_type_guaranteed": false,
+    "is_selectable": true,
+    "guaranteed_desc": "当前<style=yellow>【{rule}】保底</style>：<style=yellow>{upCount}</style>次内必得祈愿角色",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0
+  },
+  {
+    "id": 101,
+    "name": "常驻",
+    "editor_name": "武器常驻池规则",
+    "type": 2,
+    "guaranteed_count": 0,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0
+  },
+  {
+    "id": 102,
+    "name": "星铸",
+    "editor_name": "武器自选UP池规则",
+    "type": 2,
+    "guaranteed_count": 60,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "当前<style=yellow>【{rule}】保底</style>：<style=yellow>{upCount}</style>次内必得当期自选装备",
+    "is_up_selectable": true,
+    "up_selectable_guaranteed_count": 2
+  }
+]

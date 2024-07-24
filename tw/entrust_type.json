@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "Battle",
+    "name": "战斗",
+    "condition2_ratio": 0
+  },
+  {
+    "id": 2,
+    "type": "Practice",
+    "name": "派遣",
+    "condition2_ratio": 60
+  }
+]

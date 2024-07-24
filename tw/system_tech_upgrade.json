@@ -1,0 +1,3188 @@
+[
+  {
+    "id": 1,
+    "name": "【锻造】解锁方案1",
+    "type": 110,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "1",
+    "scope": 1
+  },
+  {
+    "id": 2,
+    "name": "【锻造】解锁方案2",
+    "type": 110,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "2",
+    "scope": 1
+  },
+  {
+    "id": 3,
+    "name": "【派遣委托】栏位+1",
+    "type": 601,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 4,
+    "name": "【派遣委托】金币I",
+    "type": 602,
+    "param0": 44,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 5,
+    "name": "【派遣委托】金币Ⅱ",
+    "type": 602,
+    "param0": 45,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 6,
+    "name": "【派遣委托】金币Ⅲ",
+    "type": 602,
+    "param0": 46,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 7,
+    "name": "【派遣委托】基础资源Ⅰ",
+    "type": 602,
+    "param0": 47,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 8,
+    "name": "【派遣委托】基础资源Ⅱ",
+    "type": 602,
+    "param0": 48,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 9,
+    "name": "【派遣委托】基础资源Ⅲ",
+    "type": 602,
+    "param0": 49,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 10,
+    "name": "【派遣委托】锻造图纸",
+    "type": 602,
+    "param0": 59,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 11,
+    "name": "【派遣委托】额外铁",
+    "type": 602,
+    "param0": 56,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 12,
+    "name": "【疗养】栏位+1",
+    "type": 801,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 13,
+    "name": "【疗养】疗养士气回复提升+30%",
+    "type": 802,
+    "param0": 30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 14,
+    "name": "【疗养】自然士气回复提升+10%",
+    "type": 803,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 15,
+    "name": "【疗养】小概率不扣死亡惩罚士气",
+    "type": 804,
+    "param0": 50,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 16,
+    "name": "【招募】栏位+1",
+    "type": 301,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 17,
+    "name": "【招募】CD-1",
+    "type": 302,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 18,
+    "name": "【招募】费用-15%",
+    "type": 303,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 19,
+    "name": "【招募】D级试炼职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "40|45|51",
+    "scope": 1
+  },
+  {
+    "id": 20,
+    "name": "【招募】C级试炼职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "47|44|48",
+    "scope": 1
+  },
+  {
+    "id": 21,
+    "name": "【招募】B级试炼职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "43",
+    "scope": 1
+  },
+  {
+    "id": 22,
+    "name": "【招募】A级试炼职业解锁（空）",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 23,
+    "name": "【招募】骑士团友好 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "41|52|54",
+    "scope": 1
+  },
+  {
+    "id": 24,
+    "name": "【招募】骑士团亲密 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "276|396",
+    "scope": 1
+  },
+  {
+    "id": 28,
+    "name": "【招募】等级浮动值调整+15%",
+    "type": 305,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 29,
+    "name": "【招募】已学技能下限调整+1",
+    "type": 306,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 30,
+    "name": "【锻造】栏位+1",
+    "type": 101,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 31,
+    "name": "【锻造】金币消耗调整-30%",
+    "type": 102,
+    "param0": -30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 32,
+    "name": "【锻造】蓝图大成功几率+200%",
+    "type": 105,
+    "param0": 200,
+    "param1": 0,
+    "sparam": "",
+    "scope": 11
+  },
+  {
+    "id": 33,
+    "name": "【锻造】图纸再生几率+20%",
+    "type": 104,
+    "param0": 20,
+    "param1": 0,
+    "sparam": "",
+    "scope": 11
+  },
+  {
+    "id": 34,
+    "name": "【锻造】蓝图锻造所需回合-1",
+    "type": 106,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 11
+  },
+  {
+    "id": 35,
+    "name": "【锻造】蓝图锻造选项+1",
+    "type": 103,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 11
+  },
+  {
+    "id": 36,
+    "name": "【锻造】解锁常规锻造3",
+    "type": 107,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "3|45|2|1",
+    "scope": 1
+  },
+  {
+    "id": 37,
+    "name": "【锻造】常规大成功几率+200%",
+    "type": 105,
+    "param0": 200,
+    "param1": 0,
+    "sparam": "",
+    "scope": 12
+  },
+  {
+    "id": 38,
+    "name": "【锻造】常规锻造选项+2",
+    "type": 103,
+    "param0": 2,
+    "param1": 0,
+    "sparam": "",
+    "scope": 12
+  },
+  {
+    "id": 39,
+    "name": "【锻造】常规锻造所需回合-1",
+    "type": 106,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 12
+  },
+  {
+    "id": 40,
+    "name": "【锻造】解锁默认锻造",
+    "type": 107,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "1",
+    "scope": 1
+  },
+  {
+    "id": 42,
+    "name": "【锻造】材料加工效率提高+50%",
+    "type": 108,
+    "param0": 50,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 44,
+    "name": "【工坊】王国军常规战术技能",
+    "type": 4107,
+    "param0": 6,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 45,
+    "name": "【工坊】实验计划奖励次数+1",
+    "type": 4102,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 46,
+    "name": "【工坊】实验计划刷新回合数-1",
+    "type": 4103,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 47,
+    "name": "【工坊】实验计划结果附加池-垃圾",
+    "type": 4104,
+    "param0": 8,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 48,
+    "name": "【工坊】节点升级的晶石萃取物消耗量-30%",
+    "type": 4105,
+    "param0": -30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 49,
+    "name": "【训练】经验训练回合-1",
+    "type": 1801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 181
+  },
+  {
+    "id": 50,
+    "name": "【训练】技能训练回合-1",
+    "type": 1801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 182
+  },
+  {
+    "id": 51,
+    "name": "【训练】经验训练费用-15%",
+    "type": 1802,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 181
+  },
+  {
+    "id": 53,
+    "name": "【训练】栏位+1",
+    "type": 1803,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 54,
+    "name": "【训练】角色学习技能次数+1",
+    "type": 1806,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 55,
+    "name": "【锻造】方案锻造所需回合-1",
+    "type": 106,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 13
+  },
+  {
+    "id": 56,
+    "name": "【工坊】王国军超级战术技能",
+    "type": 4107,
+    "param0": 7,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 83,
+    "name": "【锻造】返还消耗材料-40%x50%",
+    "type": 111,
+    "param0": 40,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 85,
+    "name": "【招募】骑士团盟友 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "3",
+    "scope": 1
+  },
+  {
+    "id": 86,
+    "name": "【招募】周目职业解锁 - 薇尔德舞娘",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "156",
+    "scope": 1
+  },
+  {
+    "id": 87,
+    "name": "【招募】周目职业解锁 - 黑暗之光暗法",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "56",
+    "scope": 1
+  },
+  {
+    "id": 88,
+    "name": "【招募】周目职业解锁 -佣兵“炎之魔女”",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "43",
+    "scope": 1
+  },
+  {
+    "id": 89,
+    "name": "【招募】周目职业解锁 - 薇尔德弓兵",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "279",
+    "scope": 1
+  },
+  {
+    "id": 90,
+    "name": "【招募】周目职业解锁 - 雇用药剂师",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "356",
+    "scope": 1
+  },
+  {
+    "id": 91,
+    "name": "【招募】周目职业解锁 - 薇尔德刺客",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "53",
+    "scope": 1
+  },
+  {
+    "id": 92,
+    "name": "【招募】周目职业解锁 - 黑暗之光火法",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "58",
+    "scope": 1
+  },
+  {
+    "id": 93,
+    "name": "【招募】周目职业解锁 - 雇佣巨斧兵",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "44",
+    "scope": 1
+  },
+  {
+    "id": 94,
+    "name": "【招募】教皇国友好 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "153|55|426|424",
+    "scope": 1
+  },
+  {
+    "id": 95,
+    "name": "【招募】教皇国亲密 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "46|76|425",
+    "scope": 1
+  },
+  {
+    "id": 96,
+    "name": "【招募】教皇国盟友 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "397",
+    "scope": 1
+  },
+  {
+    "id": 97,
+    "name": "【招募】王国军友好 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "321|325|42|330|418",
+    "scope": 1
+  },
+  {
+    "id": 98,
+    "name": "【招募】王国军亲密 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "317|295|357",
+    "scope": 1
+  },
+  {
+    "id": 99,
+    "name": "【招募】王国军盟友 职业解锁",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "331",
+    "scope": 1
+  },
+  {
+    "id": 100,
+    "name": "【招募】费用-5%",
+    "type": 303,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 101,
+    "name": "【招募】费用-30%",
+    "type": 303,
+    "param0": -30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 102,
+    "name": "【训练】经验训练费用-5%",
+    "type": 1802,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 181
+  },
+  {
+    "id": 103,
+    "name": "【训练】经验训练费用-30%",
+    "type": 1802,
+    "param0": -30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 181
+  },
+  {
+    "id": 104,
+    "name": "【训练】技能训练费用-5%",
+    "type": 1802,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 182
+  },
+  {
+    "id": 105,
+    "name": "【训练】技能训练费用-15%",
+    "type": 1802,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 182
+  },
+  {
+    "id": 106,
+    "name": "【训练】技能训练费用-30%",
+    "type": 1802,
+    "param0": -30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 182
+  },
+  {
+    "id": 107,
+    "name": "【训练】被动训练费用-30%",
+    "type": 1802,
+    "param0": -30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 183
+  },
+  {
+    "id": 108,
+    "name": "【训练】被动训练费用-15%",
+    "type": 1802,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 183
+  },
+  {
+    "id": 109,
+    "name": "【训练】被动训练费用-5%",
+    "type": 1802,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 183
+  },
+  {
+    "id": 110,
+    "name": "【训练】被动训练回合-1",
+    "type": 1801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 183
+  },
+  {
+    "id": 111,
+    "name": "【训练】经验训练获取提升+5%",
+    "type": 1804,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 181
+  },
+  {
+    "id": 112,
+    "name": "【训练】经验训练获取提升+15%",
+    "type": 1804,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 181
+  },
+  {
+    "id": 113,
+    "name": "【训练】经验训练获取提升+30%",
+    "type": 1804,
+    "param0": 30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 181
+  },
+  {
+    "id": 114,
+    "name": "【疗养】疗养士气回复提升+15%",
+    "type": 802,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 115,
+    "name": "【疗养】疗养士气回复提升+5%",
+    "type": 802,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 116,
+    "name": "【疗养】自然士气回复提升+5%",
+    "type": 803,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 117,
+    "name": "【派遣委托】晶石萃取物",
+    "type": 602,
+    "param0": 52,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 118,
+    "name": "【派遣委托】晶石合金",
+    "type": 602,
+    "param0": 53,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 119,
+    "name": "【派遣委托】王国军晶石",
+    "type": 602,
+    "param0": 54,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 120,
+    "name": "【派遣委托】高品质晶石",
+    "type": 602,
+    "param0": 55,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 121,
+    "name": "【工坊】节点升级的晶石萃取物消耗量-15%",
+    "type": 4105,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 122,
+    "name": "【工坊】节点升级的晶石萃取物消耗量-5%",
+    "type": 4105,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 123,
+    "name": "【工坊】实验计划结果附加池-萃取物",
+    "type": 4104,
+    "param0": 12,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 124,
+    "name": "【工坊】实验计划结果附加池-王国军晶石",
+    "type": 4104,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 125,
+    "name": "【工坊】实验计划结果附加池-高品质晶石",
+    "type": 4104,
+    "param0": 11,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 128,
+    "name": "【锻造】金币消耗调整-15%",
+    "type": 102,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 129,
+    "name": "【锻造】金币消耗调整-5%",
+    "type": 102,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 130,
+    "name": "【锻造】材料加工效率提高+20%",
+    "type": 108,
+    "param0": 20,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 132,
+    "name": "【锻造】返还消耗材料-40%x20%",
+    "type": 111,
+    "param0": 40,
+    "param1": 20,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 133,
+    "name": "【训练】训练时额外经验获取20%",
+    "type": 1805,
+    "param0": 20,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 134,
+    "name": "【训练】训练时额外经验获取40%",
+    "type": 1805,
+    "param0": 40,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 135,
+    "name": "【工坊】实验计划结果附加池-晶尘",
+    "type": 4104,
+    "param0": 9,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 136,
+    "name": "【疗养】不扣死亡惩罚士气",
+    "type": 804,
+    "param0": 100,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 137,
+    "name": "【派遣委托】高级商路",
+    "type": 602,
+    "param0": 29,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 138,
+    "name": "【招募】招募额外学习技能-R",
+    "type": 307,
+    "param0": 1,
+    "param1": 2,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 139,
+    "name": "【招募】招募额外学习技能-SR",
+    "type": 307,
+    "param0": 1,
+    "param1": 3,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 140,
+    "name": "【交易】物品贩售价格提升",
+    "type": 1101,
+    "param0": 50,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 141,
+    "name": "【锻造】解锁晶石锻造方案1-SR",
+    "type": 110,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "3",
+    "scope": 1
+  },
+  {
+    "id": 142,
+    "name": "【锻造】解锁晶石锻造方案1-SSR",
+    "type": 110,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "5",
+    "scope": 1
+  },
+  {
+    "id": 143,
+    "name": "【锻造】解锁晶石锻造方案2-SR",
+    "type": 110,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "4",
+    "scope": 1
+  },
+  {
+    "id": 144,
+    "name": "【锻造】解锁晶石锻造方案2-SSR",
+    "type": 110,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "6",
+    "scope": 1
+  },
+  {
+    "id": 147,
+    "name": "【沙盒】解锁放弃周目功能",
+    "type": 701,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 148,
+    "name": "【沙盒】增加一场沙盒战斗中可以使用的悔棋次数+3",
+    "type": 702,
+    "param0": 3,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 151,
+    "name": "【锻造】解锁常规锻造2",
+    "type": 107,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "45|2|1",
+    "scope": 1
+  },
+  {
+    "id": 152,
+    "name": "【锻造】解锁常规锻造1",
+    "type": 107,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "2|1",
+    "scope": 1
+  },
+  {
+    "id": 153,
+    "name": "【锻造】生产铁",
+    "type": 109,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "6",
+    "scope": 1
+  },
+  {
+    "id": 154,
+    "name": "【锻造】生产晶石合金",
+    "type": 109,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "5",
+    "scope": 1
+  },
+  {
+    "id": 155,
+    "name": "【锻造】生产高品质晶石",
+    "type": 109,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "7",
+    "scope": 1
+  },
+  {
+    "id": 156,
+    "name": "【派遣委托】佣兵团训练 2",
+    "type": 602,
+    "param0": 51,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 157,
+    "name": "【派遣委托】佣兵团训练 1",
+    "type": 602,
+    "param0": 50,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 158,
+    "name": "【锻造】材料加工效率提高+10%",
+    "type": 108,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 159,
+    "name": "【疗养】自然士气回复提升+15%",
+    "type": 803,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 160,
+    "name": "【招募】周目职业解锁 - 黑暗之光冰法",
+    "type": 304,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "277",
+    "scope": 1
+  },
+  {
+    "id": 2001,
+    "name": "【战术天赋】初始战术点数 +20",
+    "type": 2101,
+    "param0": 20,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2002,
+    "name": "【战术天赋】初始战术点数 +40",
+    "type": 2101,
+    "param0": 40,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2003,
+    "name": "【战术天赋】初始战术点数 +60",
+    "type": 2101,
+    "param0": 60,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2004,
+    "name": "【战术天赋】初始战术点数 +80",
+    "type": 2101,
+    "param0": 80,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2005,
+    "name": "【战术天赋】初始战术点数 +100",
+    "type": 2101,
+    "param0": 100,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2006,
+    "name": "【战术天赋】初始战术点数 +120",
+    "type": 2101,
+    "param0": 120,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2007,
+    "name": "【战术天赋】初始战术点数 +140",
+    "type": 2101,
+    "param0": 140,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2008,
+    "name": "【战术天赋】初始战术点数 +160",
+    "type": 2101,
+    "param0": 160,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2009,
+    "name": "【战术天赋】初始战术点数 +180",
+    "type": 2101,
+    "param0": 180,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2010,
+    "name": "【战术天赋】初始战术点数 +200",
+    "type": 2101,
+    "param0": 200,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2101,
+    "name": "【战术天赋】战术点数上限 +20",
+    "type": 2102,
+    "param0": 20,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2102,
+    "name": "【战术天赋】战术点数上限 +40",
+    "type": 2102,
+    "param0": 40,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2103,
+    "name": "【战术天赋】战术点数上限 +60",
+    "type": 2102,
+    "param0": 60,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2104,
+    "name": "【战术天赋】战术点数上限 +80",
+    "type": 2102,
+    "param0": 80,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2105,
+    "name": "【战术天赋】战术点数上限 +100",
+    "type": 2102,
+    "param0": 100,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2106,
+    "name": "【战术天赋】战术点数上限 +120",
+    "type": 2102,
+    "param0": 120,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2107,
+    "name": "【战术天赋】战术点数上限 +140",
+    "type": 2102,
+    "param0": 140,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2108,
+    "name": "【战术天赋】战术点数上限 +160",
+    "type": 2102,
+    "param0": 160,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2109,
+    "name": "【战术天赋】战术点数上限 +180",
+    "type": 2102,
+    "param0": 180,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2110,
+    "name": "【战术天赋】战术点数上限 +200",
+    "type": 2102,
+    "param0": 200,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2201,
+    "name": "【战术天赋】每回合回复战术点 +2",
+    "type": 2103,
+    "param0": 2,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2202,
+    "name": "【战术天赋】每回合回复战术点 +4",
+    "type": 2103,
+    "param0": 4,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2203,
+    "name": "【战术天赋】每回合回复战术点 +6",
+    "type": 2103,
+    "param0": 6,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2204,
+    "name": "【战术天赋】每回合回复战术点 +8",
+    "type": 2103,
+    "param0": 8,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2205,
+    "name": "【战术天赋】每回合回复战术点 +10",
+    "type": 2103,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2206,
+    "name": "【战术天赋】每回合回复战术点 +12",
+    "type": 2103,
+    "param0": 12,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2207,
+    "name": "【战术天赋】每回合回复战术点 +14",
+    "type": 2103,
+    "param0": 14,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2208,
+    "name": "【战术天赋】每回合回复战术点 +16",
+    "type": 2103,
+    "param0": 16,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2209,
+    "name": "【战术天赋】每回合回复战术点 +18",
+    "type": 2103,
+    "param0": 18,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2210,
+    "name": "【战术天赋】每回合回复战术点 +20",
+    "type": 2103,
+    "param0": 20,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2301,
+    "name": "【战术天赋】单位行动回复战术点 +1",
+    "type": 2104,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2302,
+    "name": "【战术天赋】单位行动回复战术点 +2",
+    "type": 2104,
+    "param0": 2,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2311,
+    "name": "【工坊】王国军战术点数储备",
+    "type": 4106,
+    "param0": 23,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2312,
+    "name": "【工坊】王国军战术点数回复",
+    "type": 4106,
+    "param0": 24,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2313,
+    "name": "【锻造】更多SR武器类型（制作中）",
+    "type": 112,
+    "param0": 0,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2314,
+    "name": "【装备解锁】AT2沙盒18-剑-SR-武器18_剑 3",
+    "type": 112,
+    "param0": 432,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2315,
+    "name": "【装备解锁】AT2沙盒56-饰品-SR-武器56_进攻类副武器 3",
+    "type": 112,
+    "param0": 470,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2316,
+    "name": "【装备解锁】AT2沙盒59-饰品-SR-武器59_进攻类副武器 6",
+    "type": 112,
+    "param0": 473,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2317,
+    "name": "【装备解锁】AT2沙盒63-饰品-SR-武器63_生存类副武器 4",
+    "type": 112,
+    "param0": 477,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2318,
+    "name": "【装备解锁】AT2沙盒81-弓-SR-武器81_伊利亚弓 2",
+    "type": 112,
+    "param0": 495,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2319,
+    "name": "【装备解锁】AT2沙盒95-饰品-SR-武器95_教皇国副武器 2",
+    "type": 112,
+    "param0": 509,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2320,
+    "name": "【装备解锁】AT2沙盒107-斧-SR-武器107_骑士团斧 2",
+    "type": 112,
+    "param0": 521,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2321,
+    "name": "【装备解锁】AT2沙盒113-饰品-SR-武器113_骑士团副武器 2",
+    "type": 112,
+    "param0": 527,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2322,
+    "name": "【装备解锁】AT2沙盒21-枪-SR-武器21_枪 3",
+    "type": 112,
+    "param0": 435,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2323,
+    "name": "【装备解锁】AT2沙盒24-斧-SR-武器24_斧 3",
+    "type": 112,
+    "param0": 438,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2324,
+    "name": "【装备解锁】AT2沙盒57-饰品-SR-武器57_进攻类副武器 4",
+    "type": 112,
+    "param0": 471,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2325,
+    "name": "【装备解锁】AT2沙盒64-饰品-SR-武器64_生存类副武器 5",
+    "type": 112,
+    "param0": 478,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2326,
+    "name": "【装备解锁】AT2沙盒83-饰品-SR-武器83_伊利亚副武器 2",
+    "type": 112,
+    "param0": 497,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2327,
+    "name": "【装备解锁】AT2沙盒103-剑-SR-武器103_骑士团剑 2",
+    "type": 112,
+    "param0": 517,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2328,
+    "name": "【装备解锁】AT2沙盒109-弓-SR-武器109_骑士团弓 2",
+    "type": 112,
+    "param0": 523,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2329,
+    "name": "【装备解锁】AT2沙盒115-饰品-SR-武器115_骑士团副武器 4",
+    "type": 112,
+    "param0": 529,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2330,
+    "name": "【装备解锁】AT2沙盒27-弓-SR-武器27_弓 3",
+    "type": 112,
+    "param0": 441,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2331,
+    "name": "【装备解锁】AT2沙盒30-杖-SR-武器30_杖 3",
+    "type": 112,
+    "param0": 444,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2332,
+    "name": "【装备解锁】AT2沙盒58-饰品-SR-武器58_进攻类副武器 5",
+    "type": 112,
+    "param0": 472,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2333,
+    "name": "【装备解锁】AT2沙盒65-饰品-SR-武器65_生存类副武器 6",
+    "type": 112,
+    "param0": 479,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2334,
+    "name": "【装备解锁】AT2沙盒93-枪-SR-武器93_教皇国枪 2",
+    "type": 112,
+    "param0": 507,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2335,
+    "name": "【装备解锁】AT2沙盒105-枪-SR-武器105_骑士团枪 2",
+    "type": 112,
+    "param0": 519,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2336,
+    "name": "【装备解锁】AT2沙盒111-杖-SR-武器111_骑士团杖 2",
+    "type": 112,
+    "param0": 525,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2337,
+    "name": "【装备解锁】AT2沙盒33-剑-SSR-武器33_剑 3+",
+    "type": 112,
+    "param0": 447,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2338,
+    "name": "【装备解锁】AT2沙盒68-饰品-SSR1-武器68_进攻类副武器 3+",
+    "type": 112,
+    "param0": 482,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2339,
+    "name": "【装备解锁】AT2沙盒71-饰品-SSR1-武器71_进攻类副武器 6+",
+    "type": 112,
+    "param0": 485,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2340,
+    "name": "【装备解锁】AT2沙盒74-饰品-SSR1-武器74_生存类副武器 3+",
+    "type": 112,
+    "param0": 488,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2341,
+    "name": "【装备解锁】AT2沙盒85-剑-SSR1-武器85_伊利亚剑 2+",
+    "type": 112,
+    "param0": 499,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2342,
+    "name": "【装备解锁】AT2沙盒97-杖-SSR1-武器97_教皇国杖 2+",
+    "type": 112,
+    "param0": 511,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2343,
+    "name": "【装备解锁】AT2沙盒117-剑-SSR2-武器117_骑士团剑 2+",
+    "type": 112,
+    "param0": 531,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2344,
+    "name": "【装备解锁】AT2沙盒123-弓-SSR2-武器123_骑士团弓 2+",
+    "type": 112,
+    "param0": 537,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2345,
+    "name": "【装备解锁】AT2沙盒36-枪-SSR-武器36_枪 3+",
+    "type": 112,
+    "param0": 450,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2346,
+    "name": "【装备解锁】AT2沙盒39-斧-SSR-武器39_斧 3+",
+    "type": 112,
+    "param0": 453,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2347,
+    "name": "【装备解锁】AT2沙盒69-饰品-SSR1-武器69_进攻类副武器 4+",
+    "type": 112,
+    "param0": 483,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2348,
+    "name": "【装备解锁】AT2沙盒77-饰品-SSR1-武器77_生存类副武器 6+",
+    "type": 112,
+    "param0": 491,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2349,
+    "name": "【装备解锁】AT2沙盒87-弓-SSR1-武器87_伊利亚弓 2+",
+    "type": 112,
+    "param0": 501,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2350,
+    "name": "【装备解锁】AT2沙盒99-枪-SSR1-武器99_教皇国枪 2+",
+    "type": 112,
+    "param0": 513,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2351,
+    "name": "【装备解锁】AT2沙盒119-枪-SSR2-武器119_骑士团枪 2+",
+    "type": 112,
+    "param0": 533,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2352,
+    "name": "【装备解锁】AT2沙盒125-杖-SSR2-武器125_骑士团杖 2+",
+    "type": 112,
+    "param0": 539,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2353,
+    "name": "【装备解锁】AT2沙盒42-弓-SSR-武器42_弓 3+",
+    "type": 112,
+    "param0": 456,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2354,
+    "name": "【装备解锁】AT2沙盒45-杖-SSR-武器45_杖 3+",
+    "type": 112,
+    "param0": 459,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2355,
+    "name": "【装备解锁】AT2沙盒75-饰品-SSR1-武器75_生存类副武器 4+",
+    "type": 112,
+    "param0": 489,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2356,
+    "name": "【装备解锁】AT2沙盒89-饰品-SSR1-武器89_伊利亚副武器 2+",
+    "type": 112,
+    "param0": 503,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2357,
+    "name": "【装备解锁】AT2沙盒101-饰品-SSR1-武器101_教皇国副武器 2+",
+    "type": 112,
+    "param0": 515,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2358,
+    "name": "【装备解锁】AT2沙盒121-斧-SSR2-武器121_骑士团斧 2+",
+    "type": 112,
+    "param0": 535,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2359,
+    "name": "【装备解锁】AT2沙盒127-饰品-SSR2-武器127_骑士团副武器 2+",
+    "type": 112,
+    "param0": 541,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2360,
+    "name": "【装备解锁】AT2沙盒129-饰品-SSR2-武器129_骑士团副武器 4+",
+    "type": 112,
+    "param0": 543,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2361,
+    "name": "【派遣委托】金币-伊利亚",
+    "type": 602,
+    "param0": 57,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2362,
+    "name": "【祝福】圣物1测试用",
+    "type": 7801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2363,
+    "name": "圣物1-等级1-升级获取效果1",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2364,
+    "name": "圣物1-等级1-升级获取效果2",
+    "type": 7806,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2365,
+    "name": "圣物1-等级2-升级获取效果1",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2366,
+    "name": "圣物1-等级2-升级获取效果2",
+    "type": 7806,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2367,
+    "name": "圣物1-等级3-升级获取效果1",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2368,
+    "name": "圣物1-等级3-升级获取效果2",
+    "type": 7806,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2369,
+    "name": "圣物1-等级4-升级获取效果1",
+    "type": 7805,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2370,
+    "name": "圣物1-等级4-升级获取效果2",
+    "type": 7806,
+    "param0": 45,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2371,
+    "name": "圣物2-等级1-升级获取效果",
+    "type": 7802,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2372,
+    "name": "圣物2-等级2-升级获取效果",
+    "type": 7802,
+    "param0": 100,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2373,
+    "name": "圣物3-等级1-升级获取效果",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2374,
+    "name": "圣物3-等级2-升级获取效果",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2375,
+    "name": "圣物3-等级3-升级获取效果",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2376,
+    "name": "圣物3-等级4-升级获取效果",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2377,
+    "name": "圣物3-等级5-升级获取效果",
+    "type": 7805,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2378,
+    "name": "圣物4-等级1-升级获取效果",
+    "type": 7806,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2379,
+    "name": "圣物4-等级2-升级获取效果",
+    "type": 7806,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2380,
+    "name": "圣物4-等级3-升级获取效果",
+    "type": 7806,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2381,
+    "name": "圣物4-等级4-升级获取效果",
+    "type": 7806,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2382,
+    "name": "圣物4-等级5-升级获取效果",
+    "type": 7806,
+    "param0": 30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2383,
+    "name": "圣物5-等级1-升级获取效果（废弃）",
+    "type": 7802,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2384,
+    "name": "圣物5-等级2-升级获取效果",
+    "type": 7802,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2385,
+    "name": "圣物5-等级3-升级获取效果1",
+    "type": 7802,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2386,
+    "name": "圣物5-等级1-升级获取效果",
+    "type": 7803,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2387,
+    "name": "圣物6-等级1-升级获取效果",
+    "type": 7801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2388,
+    "name": "圣物6-等级2-升级获取效果",
+    "type": 7801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2389,
+    "name": "圣物6-等级3-升级获取效果",
+    "type": 7801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2390,
+    "name": "圣物7-等级1-升级获取效果",
+    "type": 7808,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2391,
+    "name": "圣物7-等级2-升级获取效果",
+    "type": 7808,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2392,
+    "name": "圣物7-等级3-升级获取效果",
+    "type": 7808,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2393,
+    "name": "圣物7-等级4-升级获取效果",
+    "type": 7808,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2394,
+    "name": "圣物7-等级5-升级获取效果",
+    "type": 7808,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2395,
+    "name": "圣物8-等级1-升级获取效果",
+    "type": 7804,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2396,
+    "name": "圣物8-等级2-升级获取效果",
+    "type": 7804,
+    "param0": -10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2397,
+    "name": "圣物8-等级3-升级获取效果",
+    "type": 7804,
+    "param0": -10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2398,
+    "name": "圣物8-等级4-升级获取效果",
+    "type": 7804,
+    "param0": -10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2399,
+    "name": "圣物8-等级5-升级获取效果",
+    "type": 7804,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 782
+  },
+  {
+    "id": 2400,
+    "name": "集体祈祷人数上限+1-SSR",
+    "type": 7807,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2401,
+    "name": "集体祈祷能量消耗降低-5%-N",
+    "type": 7804,
+    "param0": -5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2402,
+    "name": "集体祈祷能量消耗降低-15%-R",
+    "type": 7804,
+    "param0": -15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2403,
+    "name": "集体祈祷能量消耗降低-30%-SR",
+    "type": 7804,
+    "param0": -30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2404,
+    "name": "集体祈祷冷却时间-1-SR",
+    "type": 7801,
+    "param0": -1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2405,
+    "name": "集体祈祷能量上限提升+15-N",
+    "type": 7806,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2406,
+    "name": "集体祈祷能量上限提升+30-R",
+    "type": 7806,
+    "param0": 30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2407,
+    "name": "集体祈祷能量上限提升+45-SR",
+    "type": 7806,
+    "param0": 45,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2408,
+    "name": "集体祈祷祝福等级+1-SSR",
+    "type": 7802,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2409,
+    "name": "集体祈祷祝福顿悟几率+5%-N",
+    "type": 7808,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2410,
+    "name": "集体祈祷祝福顿悟几率+15%-R",
+    "type": 7808,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2411,
+    "name": "集体祈祷祝福顿悟几率+30%-SR",
+    "type": 7808,
+    "param0": 30,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2412,
+    "name": "集体祈祷祝福持续时间+1-SR",
+    "type": 7803,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2413,
+    "name": "集体祈祷槽位+1-SSR",
+    "type": 7809,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2414,
+    "name": "解锁圣物2-SSR",
+    "type": 7810,
+    "param0": 2,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2415,
+    "name": "解锁圣物3-SSR",
+    "type": 7810,
+    "param0": 3,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2416,
+    "name": "解锁圣物4-SSR",
+    "type": 7810,
+    "param0": 4,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2417,
+    "name": "解锁圣物5-SSR",
+    "type": 7810,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2418,
+    "name": "解锁圣物6-SSR",
+    "type": 7810,
+    "param0": 6,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2419,
+    "name": "解锁圣物7-SSR",
+    "type": 7810,
+    "param0": 7,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2420,
+    "name": "解锁圣物8-SSR",
+    "type": 7810,
+    "param0": 8,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2421,
+    "name": "集体祈祷能量回复提升+5-N",
+    "type": 7805,
+    "param0": 5,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2422,
+    "name": "集体祈祷能量回复提升+10-R",
+    "type": 7805,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2423,
+    "name": "集体祈祷能量回复提升+15-SR",
+    "type": 7805,
+    "param0": 15,
+    "param1": 0,
+    "sparam": "",
+    "scope": 781
+  },
+  {
+    "id": 2424,
+    "name": "【派遣委托】法皇国晶石",
+    "type": 602,
+    "param0": 58,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2425,
+    "name": "【派遣委托】科技图纸",
+    "type": 602,
+    "param0": 60,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2426,
+    "name": "【派遣委托】装备宝箱",
+    "type": 602,
+    "param0": 62,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2427,
+    "name": "【派遣委托】训练被动",
+    "type": 602,
+    "param0": 61,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2428,
+    "name": "自由商队数量+1",
+    "type": 9101,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2429,
+    "name": "粮食在订单中的售价+5%",
+    "type": 9102,
+    "param0": 2,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2430,
+    "name": "石材在订单中的售价+5%",
+    "type": 9102,
+    "param0": 3,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2431,
+    "name": "车轮在订单中的售价+5%",
+    "type": 9102,
+    "param0": 4,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2432,
+    "name": "药品在订单中的售价+5%",
+    "type": 9102,
+    "param0": 5,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2433,
+    "name": "盐在订单中的售价+5%",
+    "type": 9102,
+    "param0": 6,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2434,
+    "name": "武器装备在订单中的售价+5%",
+    "type": 9102,
+    "param0": 7,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2435,
+    "name": "黑麦汁在订单中的售价+5%",
+    "type": 9102,
+    "param0": 8,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2436,
+    "name": "香料在订单中的售价+5%",
+    "type": 9102,
+    "param0": 9,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2437,
+    "name": "皮草在订单中的售价+5%",
+    "type": 9102,
+    "param0": 10,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2438,
+    "name": "晶石炸药在订单中的售价+5%",
+    "type": 9102,
+    "param0": 11,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2439,
+    "name": "珍珠在订单中的售价+5%",
+    "type": 9102,
+    "param0": 12,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2440,
+    "name": "宝石在订单中的售价+5%",
+    "type": 9102,
+    "param0": 13,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2441,
+    "name": "幸运网在订单中的售价+5%",
+    "type": 9102,
+    "param0": 14,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2442,
+    "name": "养生蛇油在订单中的售价+5%",
+    "type": 9102,
+    "param0": 15,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2443,
+    "name": "晶石在订单中的售价+5%",
+    "type": 9102,
+    "param0": 16,
+    "param1": 5,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2444,
+    "name": "粮食在订单中的售价+15%",
+    "type": 9102,
+    "param0": 2,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2445,
+    "name": "石材在订单中的售价+15%",
+    "type": 9102,
+    "param0": 3,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2446,
+    "name": "车轮在订单中的售价+15%",
+    "type": 9102,
+    "param0": 4,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2447,
+    "name": "药品在订单中的售价+15%",
+    "type": 9102,
+    "param0": 5,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2448,
+    "name": "盐在订单中的售价+15%",
+    "type": 9102,
+    "param0": 6,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2449,
+    "name": "武器装备在订单中的售价+15%",
+    "type": 9102,
+    "param0": 7,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2450,
+    "name": "黑麦汁在订单中的售价+15%",
+    "type": 9102,
+    "param0": 8,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2451,
+    "name": "香料在订单中的售价+15%",
+    "type": 9102,
+    "param0": 9,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2452,
+    "name": "皮草在订单中的售价+15%",
+    "type": 9102,
+    "param0": 10,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2453,
+    "name": "晶石炸药在订单中的售价+15%",
+    "type": 9102,
+    "param0": 11,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2454,
+    "name": "珍珠在订单中的售价+15%",
+    "type": 9102,
+    "param0": 12,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2455,
+    "name": "宝石在订单中的售价+15%",
+    "type": 9102,
+    "param0": 13,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2456,
+    "name": "幸运网在订单中的售价+15%",
+    "type": 9102,
+    "param0": 14,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2457,
+    "name": "养生蛇油在订单中的售价+15%",
+    "type": 9102,
+    "param0": 15,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2458,
+    "name": "晶石在订单中的售价+15%",
+    "type": 9102,
+    "param0": 16,
+    "param1": 15,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2459,
+    "name": "粮食在订单中的售价+30%",
+    "type": 9102,
+    "param0": 2,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2460,
+    "name": "石材在订单中的售价+30%",
+    "type": 9102,
+    "param0": 3,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2461,
+    "name": "车轮在订单中的售价+30%",
+    "type": 9102,
+    "param0": 4,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2462,
+    "name": "药品在订单中的售价+30%",
+    "type": 9102,
+    "param0": 5,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2463,
+    "name": "盐在订单中的售价+30%",
+    "type": 9102,
+    "param0": 6,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2464,
+    "name": "武器装备在订单中的售价+30%",
+    "type": 9102,
+    "param0": 7,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2465,
+    "name": "黑麦汁在订单中的售价+30%",
+    "type": 9102,
+    "param0": 8,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2466,
+    "name": "香料在订单中的售价+30%",
+    "type": 9102,
+    "param0": 9,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2467,
+    "name": "皮草在订单中的售价+30%",
+    "type": 9102,
+    "param0": 10,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2468,
+    "name": "晶石炸药在订单中的售价+30%",
+    "type": 9102,
+    "param0": 11,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2469,
+    "name": "珍珠在订单中的售价+30%",
+    "type": 9102,
+    "param0": 12,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2470,
+    "name": "宝石在订单中的售价+30%",
+    "type": 9102,
+    "param0": 13,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2471,
+    "name": "幸运网在订单中的售价+30%",
+    "type": 9102,
+    "param0": 14,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2472,
+    "name": "养生蛇油在订单中的售价+30%",
+    "type": 9102,
+    "param0": 15,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2473,
+    "name": "晶石在订单中的售价+30%",
+    "type": 9102,
+    "param0": 16,
+    "param1": 30,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2474,
+    "name": "粮食在订单中的售价+50%",
+    "type": 9102,
+    "param0": 2,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2475,
+    "name": "石材在订单中的售价+50%",
+    "type": 9102,
+    "param0": 3,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2476,
+    "name": "车轮在订单中的售价+50%",
+    "type": 9102,
+    "param0": 4,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2477,
+    "name": "药品在订单中的售价+50%",
+    "type": 9102,
+    "param0": 5,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2478,
+    "name": "盐在订单中的售价+50%",
+    "type": 9102,
+    "param0": 6,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2479,
+    "name": "武器装备在订单中的售价+50%",
+    "type": 9102,
+    "param0": 7,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2480,
+    "name": "黑麦汁在订单中的售价+50%",
+    "type": 9102,
+    "param0": 8,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2481,
+    "name": "香料在订单中的售价+50%",
+    "type": 9102,
+    "param0": 9,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2482,
+    "name": "皮草在订单中的售价+50%",
+    "type": 9102,
+    "param0": 10,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2483,
+    "name": "晶石炸药在订单中的售价+50%",
+    "type": 9102,
+    "param0": 11,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2484,
+    "name": "珍珠在订单中的售价+50%",
+    "type": 9102,
+    "param0": 12,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2485,
+    "name": "宝石在订单中的售价+50%",
+    "type": 9102,
+    "param0": 13,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2486,
+    "name": "幸运网在订单中的售价+50%",
+    "type": 9102,
+    "param0": 14,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2487,
+    "name": "养生蛇油在订单中的售价+50%",
+    "type": 9102,
+    "param0": 15,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2488,
+    "name": "晶石在订单中的售价+50%",
+    "type": 9102,
+    "param0": 16,
+    "param1": 50,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2489,
+    "name": "来自浪涌城的订单数量+1",
+    "type": 9104,
+    "param0": 1,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2490,
+    "name": "来自风谷镇的订单数量+1",
+    "type": 9104,
+    "param0": 2,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2491,
+    "name": "来自矿坑城的订单数量+1",
+    "type": 9104,
+    "param0": 3,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2492,
+    "name": "来自拉比亚绿洲的订单数量+1",
+    "type": 9104,
+    "param0": 4,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2493,
+    "name": "来自晨曦堡的订单数量+1",
+    "type": 9104,
+    "param0": 5,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2494,
+    "name": "来自暮光城的订单数量+1",
+    "type": 9104,
+    "param0": 6,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2495,
+    "name": "来自薇尔德部族的订单数量+1",
+    "type": 9104,
+    "param0": 7,
+    "param1": 1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2496,
+    "name": "去往浪涌城的旅行时间-1回合（不能小于1）",
+    "type": 9105,
+    "param0": 1,
+    "param1": -1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2497,
+    "name": "去往风谷镇的旅行时间-1回合（不能小于1）",
+    "type": 9105,
+    "param0": 2,
+    "param1": -1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2498,
+    "name": "去往矿坑城的旅行时间-1回合（不能小于1）",
+    "type": 9105,
+    "param0": 3,
+    "param1": -1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2499,
+    "name": "去往拉比亚绿洲的旅行时间-1回合（不能小于1）",
+    "type": 9105,
+    "param0": 4,
+    "param1": -1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2500,
+    "name": "去往晨曦堡的旅行时间-1回合（不能小于1）",
+    "type": 9105,
+    "param0": 5,
+    "param1": -1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2501,
+    "name": "去往暮光城的旅行时间-1回合（不能小于1）",
+    "type": 9105,
+    "param0": 6,
+    "param1": -1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 2502,
+    "name": "去往薇尔德部族的旅行时间-1回合（不能小于1）",
+    "type": 9105,
+    "param0": 7,
+    "param1": -1,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3001,
+    "name": "突入技能释放机会+1",
+    "type": 10701,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3002,
+    "name": "突入技能释放机会+2",
+    "type": 10701,
+    "param0": 2,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3003,
+    "name": "【战术天赋】初始战术点数 +100",
+    "type": 10601,
+    "param0": 100,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3004,
+    "name": "【战术天赋】初始战术点数 +200",
+    "type": 10601,
+    "param0": 200,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3005,
+    "name": "【战术天赋】战术点数上限 +100",
+    "type": 10602,
+    "param0": 100,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3006,
+    "name": "【战术天赋】战术点数上限 +200",
+    "type": 10602,
+    "param0": 200,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3007,
+    "name": "【战术天赋】每回合回复战术点 +10",
+    "type": 10603,
+    "param0": 10,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3008,
+    "name": "【战术天赋】每回合回复战术点 +20",
+    "type": 10603,
+    "param0": 20,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3009,
+    "name": "【战术天赋】单位行动回复战术点 +1",
+    "type": 10604,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  },
+  {
+    "id": 3010,
+    "name": "【战术天赋】单位行动回复战术点 +2",
+    "type": 10604,
+    "param0": 2,
+    "param1": 0,
+    "sparam": "",
+    "scope": 1
+  }
+]

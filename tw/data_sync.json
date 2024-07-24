@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "type": "OnlineTower",
+    "name": "网游爬塔数据",
+    "update_type": 2
+  },
+  {
+    "id": 2,
+    "type": "OnlineTech",
+    "name": "网游天赋数据",
+    "update_type": 1
+  },
+  {
+    "id": 3,
+    "type": "OnlineRoleFriendship",
+    "name": "网游角色羁绊数据",
+    "update_type": 1
+  },
+  {
+    "id": 4,
+    "type": "OnlineRevelation",
+    "name": "网游启示录数据",
+    "update_type": 2
+  },
+  {
+    "id": 5,
+    "type": "OnlineActivity",
+    "name": "网游日常本数据",
+    "update_type": 1
+  },
+  {
+    "id": 6,
+    "type": "System",
+    "name": "系统解锁数据",
+    "update_type": 1
+  },
+  {
+    "id": 7,
+    "type": "OnlineOperationActivity",
+    "name": "网游运营活动数据",
+    "update_type": 1
+  },
+  {
+    "id": 8,
+    "type": "SandboxEntrust",
+    "name": "沙盒委托数据",
+    "update_type": 2
+  },
+  {
+    "id": 9,
+    "type": "SandboxTraining",
+    "name": "沙盒训练数据",
+    "update_type": 2
+  },
+  {
+    "id": 10,
+    "type": "SandboxHospital",
+    "name": "沙盒疗养数据",
+    "update_type": 2
+  },
+  {
+    "id": 11,
+    "type": "SandboxTavern",
+    "name": "沙盒招募数据",
+    "update_type": 4
+  },
+  {
+    "id": 12,
+    "type": "SandboxSmithy",
+    "name": "沙盒锻造数据",
+    "update_type": 2
+  },
+  {
+    "id": 13,
+    "type": "SandboxWorkshop",
+    "name": "沙盒工坊数据",
+    "update_type": 2
+  },
+  {
+    "id": 14,
+    "type": "SandboxBlessingPrayer",
+    "name": "沙盒祈祷数据",
+    "update_type": 2
+  },
+  {
+    "id": 15,
+    "type": "SandboxBlessingBaptism",
+    "name": "沙盒洗礼数据",
+    "update_type": 2
+  },
+  {
+    "id": 16,
+    "type": "SandboxCommerce",
+    "name": "沙盒商会数据",
+    "update_type": 2
+  },
+  {
+    "id": 17,
+    "type": "Sandbox2ChapterGoal",
+    "name": "沙盒2阶段目标",
+    "update_type": 2
+  },
+  {
+    "id": 18,
+    "type": "Sandbox2Capital",
+    "name": "沙盒2主城数据",
+    "update_type": 2
+  },
+  {
+    "id": 19,
+    "type": "Sandbox2Food",
+    "name": "沙盒2美食笔记",
+    "update_type": 2
+  },
+  {
+    "id": 20,
+    "type": "Sandbox2Shop",
+    "name": "沙盒2商店",
+    "update_type": 2
+  },
+  {
+    "id": 21,
+    "type": "Sandbox2Entrust",
+    "name": "沙盒2委托",
+    "update_type": 2
+  },
+  {
+    "id": 22,
+    "type": "Sandbox2System",
+    "name": "沙盒2系统",
+    "update_type": 2
+  },
+  {
+    "id": 23,
+    "type": "OnlineCareer",
+    "name": "网游生涯引导数据",
+    "update_type": 1
+  },
+  {
+    "id": 24,
+    "type": "OnlineBattlePass",
+    "name": "网游战令新数据",
+    "update_type": 2
+  },
+  {
+    "id": 25,
+    "type": "OnlineAbyssRank",
+    "name": "网游逆塔赛季数据",
+    "update_type": 2
+  },
+  {
+    "id": 26,
+    "type": "OnlineSandboxUpdateLog",
+    "name": "网游沙盒更新日志",
+    "update_type": 2
+  },
+  {
+    "id": 27,
+    "type": "OnlineDailyQuest",
+    "name": "网游任务数据",
+    "update_type": 2
+  },
+  {
+    "id": 28,
+    "type": "Sandbox2TreasurePackage",
+    "name": "沙盒2奖励包",
+    "update_type": 1
+  },
+  {
+    "id": 29,
+    "type": "OnlineSandboxStatus",
+    "name": "网游沙盒状态",
+    "update_type": 1
+  },
+  {
+    "id": 30,
+    "type": "OnlineAchievement",
+    "name": "网游成就",
+    "update_type": 1
+  },
+  {
+    "id": 31,
+    "type": "OnlineTrophy",
+    "name": "网游沙盒收集册-奖杯",
+    "update_type": 1
+  },
+  {
+    "id": 32,
+    "type": "OnlinePhoto",
+    "name": "网游沙盒收集册-照片",
+    "update_type": 1
+  },
+  {
+    "id": 33,
+    "type": "OnlineArenaQuest",
+    "name": "网游竞技场任务",
+    "update_type": 1
+  },
+  {
+    "id": 34,
+    "type": "OnlineContractActivityQuest",
+    "name": "网游限时活动任务",
+    "update_type": 1
+  },
+  {
+    "id": 35,
+    "type": "OnlineAbyssGuideQuest",
+    "name": "网游深渊引导任务",
+    "update_type": 1
+  },
+  {
+    "id": 36,
+    "type": "Sandbox2Weapon",
+    "name": "沙盒2武器",
+    "update_type": 1
+  },
+  {
+    "id": 37,
+    "type": "Sandbox2Accessory",
+    "name": "沙盒2随身物",
+    "update_type": 1
+  },
+  {
+    "id": 38,
+    "type": "Sandbox2UnitRemove",
+    "name": "沙盒2角色永久离队",
+    "update_type": 3
+  },
+  {
+    "id": 39,
+    "type": "Player",
+    "name": "账号",
+    "update_type": 1
+  },
+  {
+    "id": 40,
+    "type": "Sandbox2Training",
+    "name": "沙盒2训练",
+    "update_type": 1
+  }
+]

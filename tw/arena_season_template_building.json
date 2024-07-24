@@ -1,0 +1,938 @@
+[
+  {
+    "id": 1,
+    "idarena_season_template": 1,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 2,
+    "idarena_season_template": 1,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 3,
+    "idarena_season_template": 1,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 4,
+    "idarena_season_template": 1,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 5,
+    "idarena_season_template": 1,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 6,
+    "idarena_season_template": 1,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 17,
+    "idarena_season_template": 6,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 18,
+    "idarena_season_template": 6,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 19,
+    "idarena_season_template": 6,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 20,
+    "idarena_season_template": 6,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 21,
+    "idarena_season_template": 6,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 22,
+    "idarena_season_template": 6,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 23,
+    "idarena_season_template": 7,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 24,
+    "idarena_season_template": 7,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 25,
+    "idarena_season_template": 7,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 26,
+    "idarena_season_template": 7,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 27,
+    "idarena_season_template": 7,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 28,
+    "idarena_season_template": 7,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 29,
+    "idarena_season_template": 8,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 30,
+    "idarena_season_template": 8,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 31,
+    "idarena_season_template": 8,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 32,
+    "idarena_season_template": 8,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 33,
+    "idarena_season_template": 8,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 34,
+    "idarena_season_template": 8,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 35,
+    "idarena_season_template": 9,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 36,
+    "idarena_season_template": 9,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 37,
+    "idarena_season_template": 9,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 38,
+    "idarena_season_template": 9,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 39,
+    "idarena_season_template": 9,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 40,
+    "idarena_season_template": 9,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 41,
+    "idarena_season_template": 10,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 42,
+    "idarena_season_template": 10,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 43,
+    "idarena_season_template": 10,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 44,
+    "idarena_season_template": 10,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 45,
+    "idarena_season_template": 10,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 46,
+    "idarena_season_template": 10,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 47,
+    "idarena_season_template": 11,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 48,
+    "idarena_season_template": 11,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 49,
+    "idarena_season_template": 11,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 50,
+    "idarena_season_template": 11,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 51,
+    "idarena_season_template": 11,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 52,
+    "idarena_season_template": 11,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 53,
+    "idarena_season_template": 12,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 54,
+    "idarena_season_template": 12,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 55,
+    "idarena_season_template": 12,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 56,
+    "idarena_season_template": 12,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 57,
+    "idarena_season_template": 12,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 58,
+    "idarena_season_template": 12,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 59,
+    "idarena_season_template": 13,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 60,
+    "idarena_season_template": 13,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 61,
+    "idarena_season_template": 13,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 62,
+    "idarena_season_template": 13,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 63,
+    "idarena_season_template": 13,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 64,
+    "idarena_season_template": 13,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 65,
+    "idarena_season_template": 14,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 66,
+    "idarena_season_template": 14,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 67,
+    "idarena_season_template": 14,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 68,
+    "idarena_season_template": 14,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 69,
+    "idarena_season_template": 14,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 70,
+    "idarena_season_template": 14,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 71,
+    "idarena_season_template": 15,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 72,
+    "idarena_season_template": 15,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 73,
+    "idarena_season_template": 15,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 74,
+    "idarena_season_template": 15,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 75,
+    "idarena_season_template": 15,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 76,
+    "idarena_season_template": 15,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 77,
+    "idarena_season_template": 16,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 78,
+    "idarena_season_template": 16,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 79,
+    "idarena_season_template": 16,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 80,
+    "idarena_season_template": 16,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 81,
+    "idarena_season_template": 16,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 82,
+    "idarena_season_template": 16,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 83,
+    "idarena_season_template": 17,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 84,
+    "idarena_season_template": 17,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 85,
+    "idarena_season_template": 17,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 86,
+    "idarena_season_template": 17,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 87,
+    "idarena_season_template": 17,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 88,
+    "idarena_season_template": 17,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 89,
+    "idarena_season_template": 18,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 90,
+    "idarena_season_template": 18,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 91,
+    "idarena_season_template": 18,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 92,
+    "idarena_season_template": 18,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 93,
+    "idarena_season_template": 18,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 94,
+    "idarena_season_template": 18,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 95,
+    "idarena_season_template": 19,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 96,
+    "idarena_season_template": 19,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 97,
+    "idarena_season_template": 19,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 98,
+    "idarena_season_template": 19,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 99,
+    "idarena_season_template": 19,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 100,
+    "idarena_season_template": 19,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 101,
+    "idarena_season_template": 20,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 102,
+    "idarena_season_template": 20,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 103,
+    "idarena_season_template": 20,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 104,
+    "idarena_season_template": 20,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 105,
+    "idarena_season_template": 20,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 106,
+    "idarena_season_template": 20,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 107,
+    "idarena_season_template": 21,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 108,
+    "idarena_season_template": 21,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 109,
+    "idarena_season_template": 21,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 110,
+    "idarena_season_template": 21,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 111,
+    "idarena_season_template": 21,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 112,
+    "idarena_season_template": 21,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 113,
+    "idarena_season_template": 22,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 114,
+    "idarena_season_template": 22,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 115,
+    "idarena_season_template": 22,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 116,
+    "idarena_season_template": 22,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 117,
+    "idarena_season_template": 22,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 118,
+    "idarena_season_template": 22,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 119,
+    "idarena_season_template": 23,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 120,
+    "idarena_season_template": 23,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 121,
+    "idarena_season_template": 23,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 122,
+    "idarena_season_template": 23,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 123,
+    "idarena_season_template": 23,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 124,
+    "idarena_season_template": 23,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 125,
+    "idarena_season_template": 24,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 126,
+    "idarena_season_template": 24,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 127,
+    "idarena_season_template": 24,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 128,
+    "idarena_season_template": 24,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 129,
+    "idarena_season_template": 24,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 130,
+    "idarena_season_template": 24,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 131,
+    "idarena_season_template": 25,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 132,
+    "idarena_season_template": 25,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 133,
+    "idarena_season_template": 25,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 134,
+    "idarena_season_template": 25,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 135,
+    "idarena_season_template": 25,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 136,
+    "idarena_season_template": 25,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 137,
+    "idarena_season_template": 26,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 138,
+    "idarena_season_template": 26,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 139,
+    "idarena_season_template": 26,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 140,
+    "idarena_season_template": 26,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 141,
+    "idarena_season_template": 26,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 142,
+    "idarena_season_template": 26,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 143,
+    "idarena_season_template": 27,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 144,
+    "idarena_season_template": 27,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 145,
+    "idarena_season_template": 27,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 146,
+    "idarena_season_template": 27,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 147,
+    "idarena_season_template": 27,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 148,
+    "idarena_season_template": 27,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 149,
+    "idarena_season_template": 28,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 150,
+    "idarena_season_template": 28,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 151,
+    "idarena_season_template": 28,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 152,
+    "idarena_season_template": 28,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 153,
+    "idarena_season_template": 28,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 154,
+    "idarena_season_template": 28,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 155,
+    "idarena_season_template": 29,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 156,
+    "idarena_season_template": 29,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 157,
+    "idarena_season_template": 29,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 158,
+    "idarena_season_template": 29,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 159,
+    "idarena_season_template": 29,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 160,
+    "idarena_season_template": 29,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 161,
+    "idarena_season_template": 30,
+    "arena_building_type": 1,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 162,
+    "idarena_season_template": 30,
+    "arena_building_type": 2,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 163,
+    "idarena_season_template": 30,
+    "arena_building_type": 3,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 164,
+    "idarena_season_template": 30,
+    "arena_building_type": 4,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 165,
+    "idarena_season_template": 30,
+    "arena_building_type": 5,
+    "arena_building_type_limit": 100
+  },
+  {
+    "id": 166,
+    "idarena_season_template": 30,
+    "arena_building_type": 6,
+    "arena_building_type_limit": 100
+  }
+]

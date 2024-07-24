@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "m_blueprints": [1],
+    "m_smithy_processs": [6],
+    "m_smithy_plans": [],
+    "min_forge_result_count": 1,
+    "max_forge_result_count": 4,
+    "base_upgrade_ratio": 0,
+    "seat_count": 1,
+    "base_no_cost_ratio": 0,
+    "blueprint_ids": "1",
+    "smithy_process_ids": "6",
+    "smithy_plan_ids": ""
+  }
+]

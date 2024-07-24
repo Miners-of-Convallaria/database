@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "type": "furniture_movable",
+    "name": "移动家具"
+  },
+  {
+    "id": 2,
+    "type": "furniture_anchor",
+    "name": "锚点家具"
+  },
+  {
+    "id": 3,
+    "type": "character_anchor",
+    "name": "角色锚点"
+  }
+]

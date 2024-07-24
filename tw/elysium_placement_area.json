@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "idelysium_area": 1,
+    "enabled": true,
+    "name": "室内放置区域",
+    "origin_x": 8.3000001907349,
+    "origin_z": 1.4099999666214,
+    "cell_row": 11,
+    "cell_column": 10,
+    "cell_size": 0.5,
+    "camera_pos_x": -8.5,
+    "camera_pos_z": -15
+  },
+  {
+    "id": 2,
+    "idelysium_area": 2,
+    "enabled": false,
+    "name": "室外放置区域",
+    "origin_x": 0.69999998807907,
+    "origin_z": 4.8000001907349,
+    "cell_row": 10,
+    "cell_column": 10,
+    "cell_size": 0.5,
+    "camera_pos_x": 0,
+    "camera_pos_z": 0
+  }
+]

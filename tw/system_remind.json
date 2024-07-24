@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1,
+    "idsystem": 38,
+    "type": "OnlineRoleUnit",
+    "name": "网游角色",
+    "custom_data": true,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 2,
+    "idsystem": 39,
+    "type": "OnlineWeapon",
+    "name": "网游武器",
+    "custom_data": true,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 3,
+    "idsystem": 58,
+    "type": "OnlineMail",
+    "name": "网游邮件",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 4,
+    "idsystem": 38,
+    "type": "OnlineRoleUnitSkill",
+    "name": "网游角色技能",
+    "custom_data": true,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 5,
+    "idsystem": 51,
+    "type": "OnlineDailyQuest",
+    "name": "网游每日任务",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 6,
+    "idsystem": 50,
+    "type": "OnlineAchievement",
+    "name": "网游成就",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 8,
+    "idsystem": 36,
+    "type": "OnlineToken",
+    "name": "网游信标",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 9,
+    "idsystem": 39,
+    "type": "OnlineCharm",
+    "name": "网游护石",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 10,
+    "idsystem": 55,
+    "type": "OnlineSandboxTrophy",
+    "name": "网游沙盒奖杯",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 11,
+    "idsystem": 56,
+    "type": "OnlineArenaQuest",
+    "name": "网游竞技场任务",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 12,
+    "idsystem": 57,
+    "type": "OnlineOperationActivity",
+    "name": "网游运营活动",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 13,
+    "idsystem": 12,
+    "type": "OnlineIntelligence",
+    "name": "网游百科",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 14,
+    "idsystem": 1,
+    "type": "SandboxSmithy",
+    "name": "沙盒锻造",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 15,
+    "idsystem": 3,
+    "type": "SandboxTavern",
+    "name": "沙盒招募",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 16,
+    "idsystem": 18,
+    "type": "SandboxTraining",
+    "name": "沙盒训练",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 17,
+    "idsystem": 14,
+    "type": "SandboxUnit",
+    "name": "沙盒角色",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 18,
+    "idsystem": 14,
+    "type": "SandboxUnitSkill",
+    "name": "沙盒角色技能",
+    "custom_data": true,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 19,
+    "idsystem": 54,
+    "type": "OnlineSandboxPhoto",
+    "name": "网游沙盒照片",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 20,
+    "idsystem": 37,
+    "type": "OnlineArenaDefenceEdit",
+    "name": "网游竞技场防守编辑",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 21,
+    "idsystem": 21,
+    "type": "SandboxTacticsSkill",
+    "name": "沙盒战术技能",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 22,
+    "idsystem": 65,
+    "type": "OnlineTacticsSkill",
+    "name": "网游战术技能",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 23,
+    "idsystem": 15,
+    "type": "SandboxWeapon",
+    "name": "沙盒武器",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 24,
+    "idsystem": 29,
+    "type": "OnlineMainQuest",
+    "name": "网游主线任务",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 25,
+    "idsystem": 51,
+    "type": "OnlineDailyQuestPoint",
+    "name": "网游日常任务活跃度",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 26,
+    "idsystem": 52,
+    "type": "OnlineWeeklyQuestPoint",
+    "name": "网游周常任务活跃度",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 27,
+    "idsystem": 56,
+    "type": "OnlineArenaQuestPoint",
+    "name": "网游竞技场任务活跃度",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 28,
+    "idsystem": 66,
+    "type": "OnlineRoleFriendshipLevelUpgrade",
+    "name": "网游人物羁绊升级",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 29,
+    "idsystem": 66,
+    "type": "OnlineRoleFriendshipLifeStory",
+    "name": "网游人物羁绊生平",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 2
+  },
+  {
+    "id": 30,
+    "idsystem": 66,
+    "type": "OnlineRoleFriendshipVoiceSample",
+    "name": "网游人物羁绊语音试听",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 2
+  },
+  {
+    "id": 31,
+    "idsystem": 66,
+    "type": "OnlineRoleFriendshipStory",
+    "name": "网游人物羁绊故事",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 32,
+    "idsystem": 66,
+    "type": "OnlineRoleFriendshipChangeNicknameUnlock",
+    "name": "网游人物羁绊开放改名",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 33,
+    "idsystem": 68,
+    "type": "OnlineMonthlyLogin",
+    "name": "网游每月签到",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 34,
+    "idsystem": 36,
+    "type": "OnlineSandboxTechNodeCouldUnlock",
+    "name": "网游沙盒科技盘节点可以被解锁",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 35,
+    "idsystem": 70,
+    "type": "OnlineBattlePass",
+    "name": "网游战令",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 37,
+    "idsystem": 67,
+    "type": "OnlineUnitPieceRecycle",
+    "name": "网游角色碎片回收",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 38,
+    "idsystem": 43,
+    "type": "WorkshopTech",
+    "name": "晶石工坊研究成果",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 39,
+    "idsystem": 33,
+    "type": "OnlineShopItem",
+    "name": "网游商店免费商品",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 40,
+    "idsystem": 78,
+    "type": "BlessingPause",
+    "name": "沙盒祝福中断",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 41,
+    "idsystem": 78,
+    "type": "BlessingHalidomUnlock",
+    "name": "沙盒祝福圣物解锁",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 42,
+    "idsystem": 82,
+    "type": "OnlineSandboxStoryline",
+    "name": "网游航路图",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 43,
+    "idsystem": 0,
+    "type": "FriendApply",
+    "name": "好友申请",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 44,
+    "idsystem": 81,
+    "type": "OnlineContractActivityQuest",
+    "name": "合约活动任务",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 45,
+    "idsystem": 85,
+    "type": "OnlineUnlockActivity",
+    "name": "解锁活动",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 46,
+    "idsystem": 57,
+    "type": "OnlineOperationActivitySuper",
+    "name": "网游运营活动超级红点",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 47,
+    "idsystem": 33,
+    "type": "OnlineShop",
+    "name": "网游商店",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 48,
+    "idsystem": 93,
+    "type": "OnlineBattleGuidebook",
+    "name": "网游战斗手册",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 49,
+    "idsystem": 85,
+    "type": "OnlineContractActivityTechSlot",
+    "name": "网友限时活动科技槽",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 50,
+    "idsystem": 86,
+    "type": "OnlineUnitSpecialNewUnit",
+    "name": "网游角色侧影新SP角色",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 51,
+    "idsystem": 86,
+    "type": "OnlineUnitSpecialNewSkill",
+    "name": "网游角色侧影新SP技能",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 52,
+    "idsystem": 95,
+    "type": "OnlineAbyssGuideQuest",
+    "name": "网游深渊引导任务",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 53,
+    "idsystem": 83,
+    "type": "OnlineGuildPointTreasure",
+    "name": "网游公会活跃度奖励",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 54,
+    "idsystem": 95,
+    "type": "OnlineAbyssRankPointTreasure",
+    "name": "网游深渊排行讨伐值奖励",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 55,
+    "idsystem": 95,
+    "type": "OnlineAbyssModify",
+    "name": "网游深渊编队",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 56,
+    "idsystem": 70,
+    "type": "OnlineBattlePassNewOne",
+    "name": "网游战令新的一期",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 57,
+    "idsystem": 95,
+    "type": "OnlineAbyssRank",
+    "name": "网游深渊新一期排行",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 59,
+    "idsystem": 57,
+    "type": "OnlineOperationActivityNew",
+    "name": "网游运营活动新",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 61,
+    "idsystem": 102,
+    "type": "Sandbox2Clue",
+    "name": "前传线线索墙",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 63,
+    "idsystem": 0,
+    "type": "OnlineTreasure",
+    "name": "网游道具",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 64,
+    "idsystem": 34,
+    "type": "OnlineGachaNew",
+    "name": "网游抽卡",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 2
+  },
+  {
+    "id": 65,
+    "idsystem": 34,
+    "type": "OnlineGachaNoSelect",
+    "name": "网游抽卡自选卡池未选择(最后一天)",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 66,
+    "idsystem": 114,
+    "type": "OnlineCareer",
+    "name": "网游生涯引导",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 67,
+    "idsystem": 113,
+    "type": "OnlineGlobalQuest",
+    "name": "网游全服任务",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 68,
+    "idsystem": 33,
+    "type": "OnlineShopRefresh",
+    "name": "网游商店库存刷新",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 69,
+    "idsystem": 33,
+    "type": "OnlineShopItemNew",
+    "name": "网游商店新商品",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 72,
+    "idsystem": 85,
+    "type": "OnlineContractActivityChallengeQuest",
+    "name": "网友限时活动挑战关",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 1
+  },
+  {
+    "id": 73,
+    "idsystem": 66,
+    "type": "OnlineRoleFriendshipStoryNew",
+    "name": "网游人物羁绊故事新",
+    "custom_data": false,
+    "is_count_in_system": true,
+    "show_type": 2
+  }
+]

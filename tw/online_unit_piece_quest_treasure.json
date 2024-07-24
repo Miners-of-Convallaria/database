@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "max_piece": 4
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "max_piece": 4
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "max_piece": 4
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "max_piece": 4
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "max_piece": 4
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "max_piece": 4
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "max_piece": 4
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "max_piece": 4
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "max_piece": 4
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "max_piece": 4
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "max_piece": 4
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "max_piece": 4
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "max_piece": 4
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "max_piece": 4
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "max_piece": 4
+  },
+  {
+    "id": 16,
+    "level": 16,
+    "max_piece": 5
+  },
+  {
+    "id": 17,
+    "level": 17,
+    "max_piece": 5
+  },
+  {
+    "id": 18,
+    "level": 18,
+    "max_piece": 5
+  },
+  {
+    "id": 19,
+    "level": 19,
+    "max_piece": 5
+  },
+  {
+    "id": 20,
+    "level": 20,
+    "max_piece": 5
+  },
+  {
+    "id": 21,
+    "level": 21,
+    "max_piece": 5
+  },
+  {
+    "id": 22,
+    "level": 22,
+    "max_piece": 5
+  },
+  {
+    "id": 23,
+    "level": 23,
+    "max_piece": 5
+  },
+  {
+    "id": 24,
+    "level": 24,
+    "max_piece": 5
+  },
+  {
+    "id": 25,
+    "level": 25,
+    "max_piece": 5
+  },
+  {
+    "id": 26,
+    "level": 26,
+    "max_piece": 6
+  },
+  {
+    "id": 27,
+    "level": 27,
+    "max_piece": 6
+  },
+  {
+    "id": 28,
+    "level": 28,
+    "max_piece": 6
+  },
+  {
+    "id": 29,
+    "level": 29,
+    "max_piece": 6
+  },
+  {
+    "id": 30,
+    "level": 30,
+    "max_piece": 6
+  },
+  {
+    "id": 31,
+    "level": 31,
+    "max_piece": 6
+  },
+  {
+    "id": 32,
+    "level": 32,
+    "max_piece": 6
+  },
+  {
+    "id": 33,
+    "level": 33,
+    "max_piece": 6
+  },
+  {
+    "id": 34,
+    "level": 34,
+    "max_piece": 6
+  },
+  {
+    "id": 35,
+    "level": 35,
+    "max_piece": 6
+  },
+  {
+    "id": 36,
+    "level": 36,
+    "max_piece": 7
+  },
+  {
+    "id": 37,
+    "level": 37,
+    "max_piece": 7
+  },
+  {
+    "id": 38,
+    "level": 38,
+    "max_piece": 7
+  },
+  {
+    "id": 39,
+    "level": 39,
+    "max_piece": 7
+  },
+  {
+    "id": 40,
+    "level": 40,
+    "max_piece": 7
+  },
+  {
+    "id": 41,
+    "level": 41,
+    "max_piece": 7
+  },
+  {
+    "id": 42,
+    "level": 42,
+    "max_piece": 7
+  },
+  {
+    "id": 43,
+    "level": 43,
+    "max_piece": 7
+  },
+  {
+    "id": 44,
+    "level": 44,
+    "max_piece": 7
+  },
+  {
+    "id": 45,
+    "level": 45,
+    "max_piece": 7
+  },
+  {
+    "id": 46,
+    "level": 46,
+    "max_piece": 8
+  },
+  {
+    "id": 47,
+    "level": 47,
+    "max_piece": 8
+  },
+  {
+    "id": 48,
+    "level": 48,
+    "max_piece": 8
+  },
+  {
+    "id": 49,
+    "level": 49,
+    "max_piece": 8
+  },
+  {
+    "id": 50,
+    "level": 50,
+    "max_piece": 8
+  },
+  {
+    "id": 51,
+    "level": 51,
+    "max_piece": 8
+  },
+  {
+    "id": 52,
+    "level": 52,
+    "max_piece": 8
+  },
+  {
+    "id": 53,
+    "level": 53,
+    "max_piece": 8
+  },
+  {
+    "id": 54,
+    "level": 54,
+    "max_piece": 8
+  },
+  {
+    "id": 55,
+    "level": 55,
+    "max_piece": 8
+  },
+  {
+    "id": 56,
+    "level": 56,
+    "max_piece": 9
+  },
+  {
+    "id": 57,
+    "level": 57,
+    "max_piece": 9
+  },
+  {
+    "id": 58,
+    "level": 58,
+    "max_piece": 9
+  },
+  {
+    "id": 59,
+    "level": 59,
+    "max_piece": 9
+  },
+  {
+    "id": 60,
+    "level": 60,
+    "max_piece": 9
+  },
+  {
+    "id": 61,
+    "level": 61,
+    "max_piece": 9
+  },
+  {
+    "id": 62,
+    "level": 62,
+    "max_piece": 9
+  },
+  {
+    "id": 63,
+    "level": 63,
+    "max_piece": 9
+  },
+  {
+    "id": 64,
+    "level": 64,
+    "max_piece": 9
+  },
+  {
+    "id": 65,
+    "level": 65,
+    "max_piece": 9
+  },
+  {
+    "id": 66,
+    "level": 66,
+    "max_piece": 9
+  },
+  {
+    "id": 67,
+    "level": 67,
+    "max_piece": 9
+  },
+  {
+    "id": 68,
+    "level": 68,
+    "max_piece": 9
+  },
+  {
+    "id": 69,
+    "level": 69,
+    "max_piece": 9
+  },
+  {
+    "id": 70,
+    "level": 70,
+    "max_piece": 9
+  },
+  {
+    "id": 71,
+    "level": 71,
+    "max_piece": 9
+  },
+  {
+    "id": 72,
+    "level": 72,
+    "max_piece": 9
+  },
+  {
+    "id": 73,
+    "level": 73,
+    "max_piece": 9
+  },
+  {
+    "id": 74,
+    "level": 74,
+    "max_piece": 9
+  },
+  {
+    "id": 75,
+    "level": 75,
+    "max_piece": 9
+  },
+  {
+    "id": 76,
+    "level": 76,
+    "max_piece": 9
+  },
+  {
+    "id": 77,
+    "level": 77,
+    "max_piece": 9
+  },
+  {
+    "id": 78,
+    "level": 78,
+    "max_piece": 9
+  },
+  {
+    "id": 79,
+    "level": 79,
+    "max_piece": 9
+  },
+  {
+    "id": 80,
+    "level": 80,
+    "max_piece": 9
+  }
+]

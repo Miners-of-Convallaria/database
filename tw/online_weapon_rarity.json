@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "type": "N",
+    "name": "N",
+    "desc": "",
+    "base_attribute_adjust": 55,
+    "star_material_id": 0,
+    "return_treasure_type": 136,
+    "return_param0": 1,
+    "return_param1": 1
+  },
+  {
+    "id": 2,
+    "type": "R",
+    "name": "R",
+    "desc": "",
+    "base_attribute_adjust": 70,
+    "star_material_id": 0,
+    "return_treasure_type": 136,
+    "return_param0": 1,
+    "return_param1": 5
+  },
+  {
+    "id": 3,
+    "type": "SR",
+    "name": "SR",
+    "desc": "",
+    "base_attribute_adjust": 85,
+    "star_material_id": 1,
+    "return_treasure_type": 136,
+    "return_param0": 1,
+    "return_param1": 100
+  },
+  {
+    "id": 4,
+    "type": "SSR",
+    "name": "SSR",
+    "desc": "",
+    "base_attribute_adjust": 100,
+    "star_material_id": 2,
+    "return_treasure_type": 136,
+    "return_param0": 2,
+    "return_param1": 150
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "abyss_battle_field",
+    "name": "深渊战场战斗角色快照",
+    "param0_name": "深渊战场id",
+    "param0_type": "online_abyss_battle_field",
+    "param1_name": "",
+    "param1_type": ""
+  },
+  {
+    "id": 2,
+    "type": "top_arena_battle_field",
+    "name": "巅峰竞技场战斗角色快照",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "",
+    "param1_type": ""
+  }
+]

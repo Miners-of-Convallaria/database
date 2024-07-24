@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "None",
+    "name": "无"
+  },
+  {
+    "id": 2,
+    "type": "Control",
+    "name": "控制"
+  },
+  {
+    "id": 3,
+    "type": "AttributeBuff",
+    "name": "属性增益"
+  },
+  {
+    "id": 4,
+    "type": "AttributeDebuff",
+    "name": "属性妨害"
+  },
+  {
+    "id": 5,
+    "type": "PhysicArmor",
+    "name": "物理护甲"
+  },
+  {
+    "id": 6,
+    "type": "SpellArmor",
+    "name": "魔法护甲"
+  }
+]

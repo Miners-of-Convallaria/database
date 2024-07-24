@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "OperationActivitySubLoopQuestsView",
+    "desc": "用来适配D，E类型，任务列表之类，特征是 无限滑动列表"
+  },
+  {
+    "id": 2,
+    "name": "OperationActivitySubWebView",
+    "desc": "运营活动类型，带url跳转，读的treasure表显示奖励"
+  },
+  {
+    "id": 3,
+    "name": "OperationActivitySubLinkView",
+    "desc": "几乎没法重用大概"
+  },
+  {
+    "id": 4,
+    "name": "OperationActivitySubLimitedQuestsView",
+    "desc": "用来适配D，E类型，任务列表之类，特征是 任务节点是摆放的，有限的"
+  },
+  {
+    "id": 5,
+    "name": "OperationActivitySubSystemRedirectView",
+    "desc": "系统玩法跳转，非url跳转，一般奖励显示"
+  },
+  {
+    "id": 7,
+    "name": "OperationActivitySubLimitedQuests2View",
+    "desc": "D，E类型，任务列表之类，特征是 任务节点是摆放的有限的;item非通用btn结构"
+  },
+  {
+    "id": 8,
+    "name": "OperationActivitySubNoneView",
+    "desc": "只负责更新标题和描述"
+  },
+  {
+    "id": 9,
+    "name": "OperationActivitySubSystemRedirectView2",
+    "desc": "系统玩法跳转，非url跳转，特殊底奖励显示"
+  },
+  {
+    "id": 10,
+    "name": "OperationActivitySubLoopQuests2View",
+    "desc": "用来适配D，E类型，任务列表之类，特征是 无限滑动列表"
+  },
+  {
+    "id": 11,
+    "name": "OperationActivitySub14View",
+    "desc": "对应prefab operationActivity_14"
+  },
+  {
+    "id": 12,
+    "name": "OperationActivitySubBindMobileView",
+    "desc": "对应prefab operationActivityBindMobile"
+  },
+  {
+    "id": 13,
+    "name": "OperationActivitySubLoopQuests3View",
+    "desc": "无限滑动，但是没有大奖励"
+  },
+  {
+    "id": 14,
+    "name": "OperationActivitySubSandboxTokenGetView",
+    "desc": "沙盒信标获得活动"
+  },
+  {
+    "id": 15,
+    "name": "OperationActivitySubGuildView",
+    "desc": "公会建设活动"
+  },
+  {
+    "id": 16,
+    "name": "OperationActivitySubGuildView02",
+    "desc": "公会建设活动奖励"
+  },
+  {
+    "id": 17,
+    "name": "OperationActivitySubLotteryView",
+    "desc": "抽奖活动"
+  },
+  {
+    "id": 18,
+    "name": "OperationActivitySubAbyssView",
+    "desc": "逆塔活动"
+  },
+  {
+    "id": 19,
+    "name": "OperationActivitySubWishView",
+    "desc": "妙想许愿机"
+  },
+  {
+    "id": 20,
+    "name": "OperationActivitySubReturnGuidanceView",
+    "desc": "回归活动"
+  },
+  {
+    "id": 21,
+    "name": "OperationActivityJigsawView",
+    "desc": "拼图活动"
+  },
+  {
+    "id": 22,
+    "name": "OperationActivitySubInvitationView",
+    "desc": "赛季召回活动"
+  },
+  {
+    "id": 23,
+    "name": "OperationActivityScheduleView",
+    "desc": "赛季课程表活动"
+  },
+  {
+    "id": 24,
+    "name": "OperationActivitySubCrimsonNightView",
+    "desc": "沙盒推进活动"
+  },
+  {
+    "id": 25,
+    "name": "OperationActivitySubSPRawiyahView",
+    "desc": "SP活动单个大奖角色展示"
+  },
+  {
+    "id": 26,
+    "name": "OperationActivitySubBPMatchView",
+    "desc": "乐土大乱斗"
+  },
+  {
+    "id": 27,
+    "name": "OperationActivitySubObtDay7View",
+    "desc": "Obt海外7日签到"
+  }
+]

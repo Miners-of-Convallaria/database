@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "Sunny",
+    "name": "晴",
+    "editor_name": "晴",
+    "icon": "icon_sunny",
+    "prefab_name": "sunny",
+    "music_state_group": "Weather",
+    "music_state": "Sunny"
+  },
+  {
+    "id": 2,
+    "type": "Rainy",
+    "name": "雨",
+    "editor_name": "雨",
+    "icon": "icon_rain",
+    "prefab_name": "rainy",
+    "music_state_group": "Weather",
+    "music_state": "Rainy"
+  },
+  {
+    "id": 3,
+    "type": "Rainy_Fire",
+    "name": "雨",
+    "editor_name": "雨夜暴动",
+    "icon": "icon_rain",
+    "prefab_name": "rainy",
+    "music_state_group": "Weather",
+    "music_state": "Storm"
+  }
+]

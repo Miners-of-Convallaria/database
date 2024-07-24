@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "m_smithy_plan_weapon_pool_weapons": [1, 2],
+    "name": "临时添加"
+  },
+  {
+    "id": 6,
+    "m_smithy_plan_weapon_pool_weapons": [42, 43, 44, 45, 46, 47, 52, 53, 54, 55],
+    "name": "骑士团线-SSR武器池(剑枪斧）"
+  },
+  {
+    "id": 7,
+    "m_smithy_plan_weapon_pool_weapons": [56, 57, 58, 59, 60, 61],
+    "name": "骑士团线-SSR武器池(弓杖）"
+  },
+  {
+    "id": 8,
+    "m_smithy_plan_weapon_pool_weapons": [62, 63, 64, 65, 66, 67, 68, 69],
+    "name": "骑士团线-SR武器池(剑枪斧）"
+  },
+  {
+    "id": 9,
+    "m_smithy_plan_weapon_pool_weapons": [70, 71, 72, 73, 74, 75],
+    "name": "骑士团线-SR武器池(弓杖）"
+  },
+  {
+    "id": 10,
+    "m_smithy_plan_weapon_pool_weapons": [],
+    "name": "无数据空置用"
+  },
+  {
+    "id": 11,
+    "m_smithy_plan_weapon_pool_weapons": [85],
+    "name": "骑士团线-SR看板武器（剑枪斧）"
+  },
+  {
+    "id": 12,
+    "m_smithy_plan_weapon_pool_weapons": [87, 88, 97, 98],
+    "name": "骑士团线-SSR看板武器（弓杖）"
+  },
+  {
+    "id": 13,
+    "m_smithy_plan_weapon_pool_weapons": [86],
+    "name": "骑士团线-SR看板武器（弓杖）"
+  },
+  {
+    "id": 14,
+    "m_smithy_plan_weapon_pool_weapons": [91, 94, 95, 96],
+    "name": "骑士团线-SSR看板武器（剑枪斧）"
+  }
+]

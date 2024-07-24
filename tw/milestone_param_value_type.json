@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "type": "CharacterLevel",
+    "name": "佣兵团等级",
+    "param_name": "",
+    "param_type": "",
+    "show_table": "",
+    "is_progress": true
+  },
+  {
+    "id": 2,
+    "type": "CharacterReputation",
+    "name": "佣兵团评分",
+    "param_name": "",
+    "param_type": "",
+    "show_table": "",
+    "is_progress": true
+  },
+  {
+    "id": 3,
+    "type": "CharacterTitle",
+    "name": "佣兵团评级",
+    "param_name": "",
+    "param_type": "",
+    "show_table": "character_title",
+    "is_progress": false
+  },
+  {
+    "id": 4,
+    "type": "CharacterCountryStability",
+    "name": "国家安定度",
+    "param_name": "",
+    "param_type": "",
+    "show_table": "",
+    "is_progress": true
+  },
+  {
+    "id": 5,
+    "type": "FactionReputation",
+    "name": "势力声望",
+    "param_name": "势力ID",
+    "param_type": "faction",
+    "show_table": "",
+    "is_progress": true
+  },
+  {
+    "id": 6,
+    "type": "FactionReputationLevel",
+    "name": "势力声望等级",
+    "param_name": "势力ID",
+    "param_type": "faction",
+    "show_table": "faction_reputation_level",
+    "is_progress": false
+  },
+  {
+    "id": 7,
+    "type": "FactionInfluence",
+    "name": "势力影响力",
+    "param_name": "势力ID",
+    "param_type": "faction",
+    "show_table": "",
+    "is_progress": true
+  }
+]

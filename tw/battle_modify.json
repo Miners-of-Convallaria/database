@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "m_specialitys": [3135],
+    "type": "Backstab",
+    "name": "背击",
+    "speciality_ids": "3135"
+  },
+  {
+    "id": 2,
+    "m_specialitys": [3132, 3134],
+    "type": "Highland",
+    "name": "高地优势",
+    "speciality_ids": "3132|3134"
+  },
+  {
+    "id": 3,
+    "m_specialitys": [3131, 3133],
+    "type": "Lowland",
+    "name": "低地劣势",
+    "speciality_ids": "3131|3133"
+  }
+]

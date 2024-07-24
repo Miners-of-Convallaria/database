@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "hook_self",
+    "name": "飞索-自己"
+  },
+  {
+    "id": 2,
+    "type": "hook_other",
+    "name": "飞索-他人"
+  },
+  {
+    "id": 3,
+    "type": "force",
+    "name": "击退"
+  },
+  {
+    "id": 4,
+    "type": "jump_attack",
+    "name": "跳劈"
+  },
+  {
+    "id": 5,
+    "type": "charge",
+    "name": "冲锋"
+  },
+  {
+    "id": 6,
+    "type": "jump_move1",
+    "name": "跳跃移动（出屏）"
+  },
+  {
+    "id": 7,
+    "type": "jump_move2",
+    "name": "跳跃移动（不出屏）"
+  },
+  {
+    "id": 8,
+    "type": "jump_and_attack1",
+    "name": "跳跃并攻击（出屏）"
+  },
+  {
+    "id": 9,
+    "type": "jump_and_attack2",
+    "name": "跳跃并攻击（不出屏）"
+  },
+  {
+    "id": 10,
+    "type": "appear",
+    "name": "出场"
+  },
+  {
+    "id": 11,
+    "type": "disappear",
+    "name": "退场"
+  }
+]

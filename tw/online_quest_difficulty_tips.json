@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "轻松碾压",
+    "min_winning_percentage": 125,
+    "max_winning_percentage": 100000,
+    "prefab_node_name": "Easy"
+  },
+  {
+    "id": 2,
+    "name": "旗鼓相当",
+    "min_winning_percentage": 75,
+    "max_winning_percentage": 125,
+    "prefab_node_name": "Normal"
+  },
+  {
+    "id": 3,
+    "name": "令人畏惧",
+    "min_winning_percentage": 35,
+    "max_winning_percentage": 75,
+    "prefab_node_name": "Hard"
+  },
+  {
+    "id": 4,
+    "name": "不可战胜",
+    "min_winning_percentage": 0,
+    "max_winning_percentage": 35,
+    "prefab_node_name": "Difficult"
+  }
+]

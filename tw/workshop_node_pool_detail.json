@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "idworkshop_node_pool": 1,
+    "node_id": 1,
+    "weight": 1
+  },
+  {
+    "id": 2,
+    "idworkshop_node_pool": 1,
+    "node_id": 2,
+    "weight": 1
+  },
+  {
+    "id": 3,
+    "idworkshop_node_pool": 1,
+    "node_id": 3,
+    "weight": 1
+  },
+  {
+    "id": 4,
+    "idworkshop_node_pool": 1,
+    "node_id": 4,
+    "weight": 1
+  },
+  {
+    "id": 5,
+    "idworkshop_node_pool": 1,
+    "node_id": 5,
+    "weight": 1
+  },
+  {
+    "id": 6,
+    "idworkshop_node_pool": 1,
+    "node_id": 6,
+    "weight": 1
+  },
+  {
+    "id": 7,
+    "idworkshop_node_pool": 1,
+    "node_id": 7,
+    "weight": 1
+  },
+  {
+    "id": 8,
+    "idworkshop_node_pool": 1,
+    "node_id": 8,
+    "weight": 1
+  },
+  {
+    "id": 9,
+    "idworkshop_node_pool": 1,
+    "node_id": 9,
+    "weight": 10
+  },
+  {
+    "id": 10,
+    "idworkshop_node_pool": 1,
+    "node_id": 10,
+    "weight": 10
+  },
+  {
+    "id": 11,
+    "idworkshop_node_pool": 1,
+    "node_id": 11,
+    "weight": 10
+  },
+  {
+    "id": 12,
+    "idworkshop_node_pool": 1,
+    "node_id": 12,
+    "weight": 10
+  },
+  {
+    "id": 13,
+    "idworkshop_node_pool": 1,
+    "node_id": 13,
+    "weight": 10
+  },
+  {
+    "id": 14,
+    "idworkshop_node_pool": 1,
+    "node_id": 14,
+    "weight": 100
+  },
+  {
+    "id": 15,
+    "idworkshop_node_pool": 1,
+    "node_id": 15,
+    "weight": 100
+  },
+  {
+    "id": 16,
+    "idworkshop_node_pool": 1,
+    "node_id": 16,
+    "weight": 1000
+  },
+  {
+    "id": 17,
+    "idworkshop_node_pool": 1,
+    "node_id": 17,
+    "weight": 1000
+  },
+  {
+    "id": 18,
+    "idworkshop_node_pool": 2,
+    "node_id": 4,
+    "weight": 1
+  },
+  {
+    "id": 19,
+    "idworkshop_node_pool": 2,
+    "node_id": 11,
+    "weight": 1
+  },
+  {
+    "id": 20,
+    "idworkshop_node_pool": 2,
+    "node_id": 12,
+    "weight": 1
+  },
+  {
+    "id": 21,
+    "idworkshop_node_pool": 2,
+    "node_id": 13,
+    "weight": 1
+  },
+  {
+    "id": 22,
+    "idworkshop_node_pool": 2,
+    "node_id": 14,
+    "weight": 1
+  },
+  {
+    "id": 23,
+    "idworkshop_node_pool": 2,
+    "node_id": 15,
+    "weight": 1
+  },
+  {
+    "id": 24,
+    "idworkshop_node_pool": 2,
+    "node_id": 16,
+    "weight": 1
+  },
+  {
+    "id": 25,
+    "idworkshop_node_pool": 2,
+    "node_id": 18,
+    "weight": 1
+  },
+  {
+    "id": 26,
+    "idworkshop_node_pool": 2,
+    "node_id": 27,
+    "weight": 1
+  },
+  {
+    "id": 27,
+    "idworkshop_node_pool": 2,
+    "node_id": 28,
+    "weight": 1
+  },
+  {
+    "id": 28,
+    "idworkshop_node_pool": 2,
+    "node_id": 29,
+    "weight": 1
+  },
+  {
+    "id": 29,
+    "idworkshop_node_pool": 2,
+    "node_id": 30,
+    "weight": 1
+  },
+  {
+    "id": 30,
+    "idworkshop_node_pool": 3,
+    "node_id": 13,
+    "weight": 1
+  },
+  {
+    "id": 31,
+    "idworkshop_node_pool": 3,
+    "node_id": 14,
+    "weight": 1
+  },
+  {
+    "id": 32,
+    "idworkshop_node_pool": 3,
+    "node_id": 15,
+    "weight": 1
+  },
+  {
+    "id": 33,
+    "idworkshop_node_pool": 3,
+    "node_id": 16,
+    "weight": 1
+  },
+  {
+    "id": 34,
+    "idworkshop_node_pool": 3,
+    "node_id": 18,
+    "weight": 1
+  },
+  {
+    "id": 35,
+    "idworkshop_node_pool": 3,
+    "node_id": 28,
+    "weight": 1
+  },
+  {
+    "id": 36,
+    "idworkshop_node_pool": 3,
+    "node_id": 29,
+    "weight": 1
+  },
+  {
+    "id": 37,
+    "idworkshop_node_pool": 3,
+    "node_id": 30,
+    "weight": 1
+  },
+  {
+    "id": 38,
+    "idworkshop_node_pool": 4,
+    "node_id": 4,
+    "weight": 1
+  },
+  {
+    "id": 39,
+    "idworkshop_node_pool": 4,
+    "node_id": 11,
+    "weight": 1
+  },
+  {
+    "id": 40,
+    "idworkshop_node_pool": 4,
+    "node_id": 12,
+    "weight": 1
+  },
+  {
+    "id": 41,
+    "idworkshop_node_pool": 4,
+    "node_id": 27,
+    "weight": 1
+  },
+  {
+    "id": 42,
+    "idworkshop_node_pool": 6,
+    "node_id": 2,
+    "weight": 1
+  },
+  {
+    "id": 43,
+    "idworkshop_node_pool": 6,
+    "node_id": 8,
+    "weight": 1
+  },
+  {
+    "id": 44,
+    "idworkshop_node_pool": 6,
+    "node_id": 9,
+    "weight": 1
+  },
+  {
+    "id": 45,
+    "idworkshop_node_pool": 6,
+    "node_id": 25,
+    "weight": 1
+  },
+  {
+    "id": 46,
+    "idworkshop_node_pool": 6,
+    "node_id": 26,
+    "weight": 1
+  },
+  {
+    "id": 47,
+    "idworkshop_node_pool": 7,
+    "node_id": 1,
+    "weight": 1
+  },
+  {
+    "id": 48,
+    "idworkshop_node_pool": 7,
+    "node_id": 3,
+    "weight": 1
+  },
+  {
+    "id": 49,
+    "idworkshop_node_pool": 7,
+    "node_id": 5,
+    "weight": 1
+  },
+  {
+    "id": 50,
+    "idworkshop_node_pool": 7,
+    "node_id": 6,
+    "weight": 1
+  },
+  {
+    "id": 51,
+    "idworkshop_node_pool": 8,
+    "node_id": 19,
+    "weight": 1
+  },
+  {
+    "id": 52,
+    "idworkshop_node_pool": 8,
+    "node_id": 21,
+    "weight": 1
+  },
+  {
+    "id": 53,
+    "idworkshop_node_pool": 8,
+    "node_id": 22,
+    "weight": 1
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "type": "Apply",
+    "name": "公会申请"
+  },
+  {
+    "id": 2,
+    "type": "ApplyRead",
+    "name": "公会申请已读"
+  }
+]

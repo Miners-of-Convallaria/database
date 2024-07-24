@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "group_id": 1,
+    "name": "组01",
+    "score_up": 99,
+    "anchor_point": 50,
+    "match_bot": 1
+  },
+  {
+    "id": 2,
+    "group_id": 2,
+    "name": "组02",
+    "score_up": 179,
+    "anchor_point": 0,
+    "match_bot": 1
+  },
+  {
+    "id": 3,
+    "group_id": 3,
+    "name": "组03",
+    "score_up": 309,
+    "anchor_point": 180,
+    "match_bot": 1
+  },
+  {
+    "id": 4,
+    "group_id": 4,
+    "name": "组04",
+    "score_up": 469,
+    "anchor_point": 0,
+    "match_bot": 1
+  },
+  {
+    "id": 5,
+    "group_id": 5,
+    "name": "组05",
+    "score_up": 659,
+    "anchor_point": 470,
+    "match_bot": 1
+  },
+  {
+    "id": 6,
+    "group_id": 6,
+    "name": "组06",
+    "score_up": 879,
+    "anchor_point": 700,
+    "match_bot": 1
+  },
+  {
+    "id": 7,
+    "group_id": 7,
+    "name": "组07",
+    "score_up": 1129,
+    "anchor_point": 0,
+    "match_bot": 1
+  },
+  {
+    "id": 8,
+    "group_id": 8,
+    "name": "组08",
+    "score_up": 999999,
+    "anchor_point": 0,
+    "match_bot": 0
+  }
+]

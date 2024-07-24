@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "type": "Scenario",
+    "name": "场景演出"
+  },
+  {
+    "id": 2,
+    "type": "Briefing",
+    "name": "简报演出"
+  },
+  {
+    "id": 3,
+    "type": "WorldMap",
+    "name": "地图演出"
+  },
+  {
+    "id": 4,
+    "type": "Free",
+    "name": "自由演出"
+  },
+  {
+    "id": 5,
+    "type": "Simple",
+    "name": "简单演出"
+  },
+  {
+    "id": 6,
+    "type": "Note",
+    "name": "笔记演出"
+  },
+  {
+    "id": 7,
+    "type": "CG",
+    "name": "CG演出"
+  },
+  {
+    "id": 8,
+    "type": "Talk",
+    "name": "对话演出"
+  },
+  {
+    "id": 9,
+    "type": "SuperTalk",
+    "name": "超级对话演出"
+  }
+]

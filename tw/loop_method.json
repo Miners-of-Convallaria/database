@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "type": "Once",
+    "name": "无循环周期",
+    "param0_name": "",
+    "param0_type": ""
+  },
+  {
+    "id": 2,
+    "type": "Daily ",
+    "name": "每日",
+    "param0_name": "",
+    "param0_type": ""
+  },
+  {
+    "id": 3,
+    "type": "Weekly ",
+    "name": "每周",
+    "param0_name": "",
+    "param0_type": ""
+  },
+  {
+    "id": 4,
+    "type": "Monthly ",
+    "name": "每月",
+    "param0_name": "",
+    "param0_type": ""
+  },
+  {
+    "id": 5,
+    "type": "Custom",
+    "name": "每n天(相对)",
+    "param0_name": "天数",
+    "param0_type": "int"
+  },
+  {
+    "id": 6,
+    "type": "Relative",
+    "name": "相对时间",
+    "param0_name": "相对时间戳",
+    "param0_type": "int"
+  },
+  {
+    "id": 7,
+    "type": "AbsWeekly",
+    "name": "每n周(绝对)",
+    "param0_name": "周数",
+    "param0_type": "int"
+  }
+]

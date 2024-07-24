@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1,
+    "type": "KillAll",
+    "name": "击败所有敌人",
+    "base_type": 0,
+    "editor_name": "全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 2,
+    "type": "Reach",
+    "name": "到达目标地点",
+    "base_type": 0,
+    "editor_name": "到达",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 3,
+    "type": "Destroy",
+    "name": "击败指定敌人",
+    "base_type": 0,
+    "editor_name": "摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 4,
+    "type": "Survive",
+    "name": "坚守数回合",
+    "base_type": 0,
+    "editor_name": "生存",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 5,
+    "type": "DestoryAndReach",
+    "name": "到达目标地点并击败指定敌人",
+    "base_type": 0,
+    "editor_name": "摧毁且到达",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 6,
+    "type": "DestoryAndSurvive",
+    "name": "坚守数回合并击败指定敌人",
+    "base_type": 0,
+    "editor_name": "摧毁且生存",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 7,
+    "type": "ReachAndSurvive",
+    "name": "到达目标地点并坚守数回合",
+    "base_type": 0,
+    "editor_name": "到达+生存",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 8,
+    "type": "DestoryMulitTarget",
+    "name": "击败多个指定敌人",
+    "base_type": 0,
+    "editor_name": "摧毁多个",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 9,
+    "type": "Duel",
+    "name": "击败敌人",
+    "base_type": 1,
+    "editor_name": "单挑",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 10,
+    "type": "Warrior",
+    "name": "全灭敌人杂兵部队",
+    "base_type": 1,
+    "editor_name": "杂兵割草",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 11,
+    "type": "Elite",
+    "name": "全灭敌人精英部队",
+    "base_type": 1,
+    "editor_name": "精英战斗",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 12,
+    "type": "DestoryProp",
+    "name": "摧毁指定物件",
+    "base_type": 3,
+    "editor_name": "摧毁物件",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 13,
+    "type": "DestoryEnemy",
+    "name": "击败指定敌人",
+    "base_type": 3,
+    "editor_name": "摧毁敌军部队",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 14,
+    "type": "BossHunt",
+    "name": "隐秘击倒敌方首领",
+    "base_type": 3,
+    "editor_name": "暗杀敌首",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 15,
+    "type": "ReachInTime",
+    "name": "在时限内到达目标地点",
+    "base_type": 2,
+    "editor_name": "限时性到达",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 16,
+    "type": "ProtectReach",
+    "name": "保护目标到达目标地点",
+    "base_type": 2,
+    "editor_name": "保护性到达",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 17,
+    "type": "Defense",
+    "name": "在防御中坚守数回合",
+    "base_type": 4,
+    "editor_name": "防守生存",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 18,
+    "type": "Guerrilla",
+    "name": "在游击中坚守数回合",
+    "base_type": 4,
+    "editor_name": "游击生存",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 19,
+    "type": "EarlyArrayDestroy",
+    "name": "击败敌方头目",
+    "base_type": 3,
+    "editor_name": "前期列阵摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 20,
+    "type": "EarlyEncircleDestroy",
+    "name": "围攻并击败敌方头目",
+    "base_type": 3,
+    "editor_name": "前期包围摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 21,
+    "type": "EarlyBreakThroughDestroy",
+    "name": "突围并击败敌方头目",
+    "base_type": 3,
+    "editor_name": "前期突围摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 22,
+    "type": "EarlyMeleeDestroy",
+    "name": "在混战中击败敌方头目",
+    "base_type": 3,
+    "editor_name": "前期混战摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 23,
+    "type": "EarlyArrayMassacre",
+    "name": "击败所有敌人",
+    "base_type": 1,
+    "editor_name": "前期列阵全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 24,
+    "type": "EarlyMeleeMassacre",
+    "name": "在混战中击败全部敌人",
+    "base_type": 1,
+    "editor_name": "前期混战全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 25,
+    "type": "MiddleArrayDestroy",
+    "name": "击败敌方首领",
+    "base_type": 3,
+    "editor_name": "中期列阵摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 26,
+    "type": "MiddleEncircleDestroy",
+    "name": "围攻并击败敌方首领",
+    "base_type": 3,
+    "editor_name": "中期包围摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 27,
+    "type": "MiddleBreakThroughDestroy",
+    "name": "突围并击败敌方首领",
+    "base_type": 3,
+    "editor_name": "中期突围摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 28,
+    "type": "MiddleMeleeDestroy",
+    "name": "在混战中击败敌方首领",
+    "base_type": 3,
+    "editor_name": "中期混战摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 29,
+    "type": "MiddleSneakIntoDestroy",
+    "name": "隐秘潜入并隐秘击倒敌方首领",
+    "base_type": 3,
+    "editor_name": "中期潜入摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 30,
+    "type": "MiddleArrayMassacre",
+    "name": "击败全部敌方角色",
+    "base_type": 1,
+    "editor_name": "中期列阵全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 31,
+    "type": "MiddleEncircleMassacre",
+    "name": "围攻并击败全部敌方角色",
+    "base_type": 1,
+    "editor_name": "中期包围全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 32,
+    "type": "MiddleBreakThroughMassacre",
+    "name": "突围并击败全部敌方角色",
+    "base_type": 1,
+    "editor_name": "中期突围全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 33,
+    "type": "MiddleMeleeMassacre",
+    "name": "在混战中击败全部敌方角色",
+    "base_type": 1,
+    "editor_name": "中期混战全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 34,
+    "type": "MiddleSneakIntoMassacre",
+    "name": "隐秘潜入并击败全部敌方角色",
+    "base_type": 1,
+    "editor_name": "中期潜入全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 35,
+    "type": "MiddleRescueMassacre",
+    "name": "救援友军并击败全部敌方角色",
+    "base_type": 51,
+    "editor_name": "中期救援全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 36,
+    "type": "LateArrayDestroy",
+    "name": "击败敌方指挥官",
+    "base_type": 3,
+    "editor_name": "后期列阵摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 37,
+    "type": "LateEncircleDestroy",
+    "name": "围攻并击败敌方指挥官",
+    "base_type": 3,
+    "editor_name": "后期包围摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 38,
+    "type": "LateBreakThroughDestroy",
+    "name": "突围并击败敌方指挥官",
+    "base_type": 3,
+    "editor_name": "后期突围摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 39,
+    "type": "LateMeleeDestroy",
+    "name": "在混战中击败敌方指挥官",
+    "base_type": 3,
+    "editor_name": "后期混战摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 40,
+    "type": "LateSneakIntoDestroy",
+    "name": "隐秘潜入并隐秘击败敌方指挥官",
+    "base_type": 3,
+    "editor_name": "后期潜入摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 41,
+    "type": "CommonRescueDestroy",
+    "name": "救援友军并击败敌方指挥官",
+    "base_type": 52,
+    "editor_name": "常规救援摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 42,
+    "type": "LateArrayMassacre",
+    "name": "击败所有敌人",
+    "base_type": 1,
+    "editor_name": "后期列阵全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 43,
+    "type": "LateEncircleMassacre",
+    "name": "围攻并击败全部敌方武装",
+    "base_type": 1,
+    "editor_name": "后期包围全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 44,
+    "type": "LateBreakThroughMassacre",
+    "name": "突围并击败全部敌方武装",
+    "base_type": 1,
+    "editor_name": "后期突围全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 45,
+    "type": "LateMeleeMassacre",
+    "name": "在混战中击败全部敌方武装",
+    "base_type": 1,
+    "editor_name": "后期混战全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 46,
+    "type": "LateSneakIntoMassacre",
+    "name": "潜入并击败全部敌方武装",
+    "base_type": 1,
+    "editor_name": "后期潜入全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 47,
+    "type": "LateRescueMassacre",
+    "name": "救援友军并击败全部敌方武装",
+    "base_type": 51,
+    "editor_name": "后期救援全歼",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 48,
+    "type": "CommonBreakThroughArrive",
+    "name": "突围并抵达目标地点",
+    "base_type": 2,
+    "editor_name": "常规突围到达",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 49,
+    "type": "CommonSneakIntoArrive",
+    "name": "隐秘潜入并抵达目标地点",
+    "base_type": 2,
+    "editor_name": "常规潜入到达",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 50,
+    "type": "CommonAbscondArrive",
+    "name": "隐秘行动并逃离至安全区域",
+    "base_type": 2,
+    "editor_name": "常规潜逃到达",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 51,
+    "type": "Protection",
+    "name": "保护",
+    "base_type": 0,
+    "editor_name": "保护",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 52,
+    "type": "ProtectionAndDestroy",
+    "name": "保护并摧毁",
+    "base_type": 0,
+    "editor_name": "保护并摧毁",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 53,
+    "type": "EarlyRescueMassacre",
+    "name": "前期救援全歼",
+    "base_type": 51,
+    "editor_name": "保护友军并击败全部敌人",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 54,
+    "type": "EarlyEncircleDestroyWithSub",
+    "name": "围攻并击败敌方头目",
+    "base_type": 3,
+    "editor_name": "前期包围摧毁-扩大战果",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 55,
+    "type": "MiddleEncircleDestroyWithSub",
+    "name": "围攻并击败敌方首领",
+    "base_type": 3,
+    "editor_name": "中期包围摧毁-扩大战果",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 56,
+    "type": "LateEncircleDestroyWithSub",
+    "name": "围攻并击败敌方指挥官",
+    "base_type": 3,
+    "editor_name": "后期包围摧毁-扩大战果",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 57,
+    "type": "MiddleSneakIntoDestroyWithSub",
+    "name": "隐秘潜入并隐秘击倒敌方首领",
+    "base_type": 3,
+    "editor_name": "中期潜入摧毁-斩首行动",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 58,
+    "type": "LateSneakIntoDestroyWithSub",
+    "name": "隐秘潜入并隐秘击倒敌方指挥官",
+    "base_type": 3,
+    "editor_name": "后期潜入摧毁-斩首行动",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 59,
+    "type": "MiddleRescueMassacreWithSub1",
+    "name": "救援友军并击败全部敌方单位",
+    "base_type": 1,
+    "editor_name": "中期救援全歼-火速救援",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 60,
+    "type": "LateRescueMassacreWithSub1",
+    "name": "救援友军并击败全部敌方武装",
+    "base_type": 1,
+    "editor_name": "后期救援全歼-火速救援",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 61,
+    "type": "MiddleRescueMassacreWithSub2",
+    "name": "救援友军并击败全部敌方单位",
+    "base_type": 1,
+    "editor_name": "中期救援全歼-全身而退",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 62,
+    "type": "LateRescueMassacreWithSub2",
+    "name": "救援友军并击败全部敌方武装",
+    "base_type": 1,
+    "editor_name": "后期救援全歼-全身而退",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 63,
+    "type": "MiddleEncircleMassacreWithSub",
+    "name": "围攻并击败全部敌方单位",
+    "base_type": 1,
+    "editor_name": "中期包围全歼-一举击溃",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 64,
+    "type": "LateEncircleMassacreWithSub",
+    "name": "围攻并击败全部敌方武装",
+    "base_type": 1,
+    "editor_name": "后期包围全歼-一举击溃",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 65,
+    "type": "DailyWork",
+    "name": "处理小镇杂务",
+    "base_type": 4,
+    "editor_name": "常驻工作（生存）",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  },
+  {
+    "id": 66,
+    "type": "WhimsyOfBeryl",
+    "name": "实现贝拉的奇思妙想",
+    "base_type": 1,
+    "editor_name": "贝拉委托",
+    "sub_condition_desc": "",
+    "failed_desc": "限定时间内未达成胜利条件"
+  }
+]

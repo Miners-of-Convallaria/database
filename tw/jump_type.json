@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "type": "SCREEN_OUT",
+    "name": "出屏跳"
+  },
+  {
+    "id": 2,
+    "type": "NORMAL",
+    "name": "跳"
+  },
+  {
+    "id": 3,
+    "type": "TELEPORT",
+    "name": "瞬移"
+  }
+]

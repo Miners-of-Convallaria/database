@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "type": "Normal",
+    "name": "普通"
+  },
+  {
+    "id": 2,
+    "type": "MineCar",
+    "name": "矿车"
+  },
+  {
+    "id": 3,
+    "type": "Switch",
+    "name": "开关"
+  }
+]

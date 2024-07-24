@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "m_treasures": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+    "idonline_lottery_activity": 1,
+    "round": 1,
+    "treasure_ids": "1|2|3|4|5|6|7|8|9|10|11|12|13"
+  },
+  {
+    "id": 2,
+    "m_treasures": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26],
+    "idonline_lottery_activity": 1,
+    "round": 2,
+    "treasure_ids": "14|15|16|17|18|19|20|21|22|23|24|25|26"
+  }
+]

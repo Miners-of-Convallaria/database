@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "Recommend",
+    "name": "推荐",
+    "icon": "txt_tag_recommend"
+  },
+  {
+    "id": 2,
+    "type": "Hot",
+    "name": "热销",
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "type": "SuperValue",
+    "name": "超值",
+    "icon": "txt_tag_overbalance"
+  },
+  {
+    "id": 4,
+    "type": "LimitedTimeSale",
+    "name": "限时优惠",
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "type": "LimitedTime",
+    "name": "限时",
+    "icon": ""
+  }
+]

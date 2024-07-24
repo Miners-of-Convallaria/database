@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "type": "ANY",
+    "name": "任意",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 2,
+    "type": "ATTACK",
+    "name": "攻击前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 3,
+    "type": "ATTACKED",
+    "name": "攻击后",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 4,
+    "type": "BEATTACKED",
+    "name": "被攻击后",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 5,
+    "type": "HITED",
+    "name": "命中",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 6,
+    "type": "BEHITED",
+    "name": "被命中",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 7,
+    "type": "DAMAGED",
+    "name": "伤害",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 8,
+    "type": "BEDAMAGED",
+    "name": "被伤害",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 9,
+    "type": "CRIT",
+    "name": "暴击",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 10,
+    "type": "BECRIT",
+    "name": "被暴击",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 11,
+    "type": "KILLED",
+    "name": "击杀",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 12,
+    "type": "BEKILLED",
+    "name": "被击杀",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 13,
+    "type": "PARRY",
+    "name": "格挡（发动）",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 14,
+    "type": "BEPARRY",
+    "name": "被格挡（发动）",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 15,
+    "type": "BEATTACK",
+    "name": "被攻击前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 16,
+    "type": "PARRYBEFORE",
+    "name": "格挡前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 17,
+    "type": "HEALED",
+    "name": "治疗时",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 18,
+    "type": "BEHEALED",
+    "name": "被治疗时",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 19,
+    "type": "EVADE",
+    "name": "闪避",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 20,
+    "type": "BEEVADE",
+    "name": "被闪避",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 21,
+    "type": "PER_KILLED",
+    "name": "每人次击杀后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 22,
+    "type": "PER_DAMAGED",
+    "name": "每人次伤害后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 23,
+    "type": "KNOCKBACK",
+    "name": "击退",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 24,
+    "type": "BEKNOCKBACK",
+    "name": "被击退",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 25,
+    "type": "GAMESTART",
+    "name": "战斗开始",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 26,
+    "type": "TURNSTART",
+    "name": "回合开始",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 27,
+    "type": "ROUNDSTART",
+    "name": "每人回合开始",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 28,
+    "type": "ROUNDEND",
+    "name": "每人回合结束",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 29,
+    "type": "TURNEND",
+    "name": "回合结束",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 30,
+    "type": "STANDBY",
+    "name": "待机",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 31,
+    "type": "COUNTERBEFORE",
+    "name": "反击前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 32,
+    "type": "COUNTERAFTER",
+    "name": "反击后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 33,
+    "type": "SKILLBEFORE",
+    "name": "使用技能前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 34,
+    "type": "ASSISTDEFBEFORE",
+    "name": "援防前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 35,
+    "type": "ASSISTDEFAFTER",
+    "name": "援防后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 36,
+    "type": "BEASSISTDEFBEFORE",
+    "name": "被援防前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 37,
+    "type": "BEASSISTDEFAFTER",
+    "name": "被援防后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 38,
+    "type": "ASSISTATTACKBEFORE",
+    "name": "援攻前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 39,
+    "type": "ASSISTATTACKAFTER",
+    "name": "援攻后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 40,
+    "type": "BEASSISTATTACKBEFORE",
+    "name": "被援攻前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 41,
+    "type": "BEASSISTATTACKAFTER",
+    "name": "被援攻后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 42,
+    "type": "MOVEBEFORE",
+    "name": "移动前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 43,
+    "type": "ACTED",
+    "name": "行动后",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 44,
+    "type": "REBORN",
+    "name": "重生后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 45,
+    "type": "BACKSTAB",
+    "name": "背击",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 46,
+    "type": "BEBACKSTAB",
+    "name": "被背击",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 47,
+    "type": "SKILLAFTER",
+    "name": "使用技能后",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 48,
+    "type": "EACH_DAMAGED",
+    "name": "每次被伤害时",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 49,
+    "type": "BEASSISTCOUNTERBEFORE",
+    "name": "被援反前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 50,
+    "type": "ASSISTCOUNTERBEFORE",
+    "name": "援反前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 51,
+    "type": "ROUNDEND2",
+    "name": "每人回合结束2(新回合特殊)",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 52,
+    "type": "ROUNDSTART2",
+    "name": "每人回合开始2(新回合特殊)",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 53,
+    "type": "EACH_DAMAGE",
+    "name": "每次伤害时",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 54,
+    "type": "BESKILLBEFORE",
+    "name": "被使用技能前",
+    "desc": "",
+    "need_check": false
+  },
+  {
+    "id": 55,
+    "type": "BECOUNTER",
+    "name": "被反击",
+    "desc": "",
+    "need_check": false
+  }
+]

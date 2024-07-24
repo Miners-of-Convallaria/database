@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "m_commerce_developments": [1, 2, 3, 4],
+    "name": "浪涌城",
+    "desc": "一座靠海的港口城市，盛产各类海产品。由于战乱毁坏，需要大规模重新建设，频繁的海难也使水手们出航之前更加频繁地祈求幸运。位于此处的先遣骑士团需要大量的晶石。",
+    "faction_id": 3,
+    "editor_name": "浪涌城",
+    "icon": "commerce_city_waveruncity"
+  },
+  {
+    "id": 2,
+    "m_commerce_developments": [5, 6, 7, 8],
+    "name": "风谷镇",
+    "desc": "铃兰小镇附近的一座小镇，位于大沙海的入口处。近期小镇中飘出许多钢铁撞击声和刺鼻的爆炸物味道，由于重体力劳动和事故多发，对盐和药品有所需求。",
+    "faction_id": 0,
+    "editor_name": "风谷镇",
+    "icon": "commerce_city_windyvaletown"
+  },
+  {
+    "id": 3,
+    "m_commerce_developments": [9, 10, 11, 12],
+    "name": "矿坑城",
+    "desc": "一座曾经被废弃的矿业城镇，如今逐渐恢复活力，盛产各种矿石和岩盐。对粮食，药品，和用于采掘的炸药有所需求。",
+    "faction_id": 0,
+    "editor_name": "矿坑城",
+    "icon": "commerce_city_minepit"
+  },
+  {
+    "id": 4,
+    "m_commerce_developments": [13, 14, 15, 16],
+    "name": "拉比亚绿洲",
+    "desc": "伊利亚通往埃拉曼帝国的最后一处关口，出售香料和埃拉曼特色养生品。商人们会在此处更换车轮，再带上成箱的盐、宝石、珍珠、皮草、晶石进入埃拉曼。",
+    "faction_id": 8,
+    "editor_name": "拉比亚绿洲",
+    "icon": "commerce_city_rabiaoasis"
+  },
+  {
+    "id": 5,
+    "m_commerce_developments": [17, 18, 19, 20],
+    "name": "晨曦堡",
+    "desc": "伊利亚王国的都城，聚集了各类工匠，附近的矿产和木材都在此地加工。需要来自周边的粮食供养城内众多居民，这里的贵族对来自其他地区的装饰品有特殊的喜好。",
+    "faction_id": 1,
+    "editor_name": "晨曦堡",
+    "icon": "commerce_city_mornrayscastle"
+  },
+  {
+    "id": 6,
+    "m_commerce_developments": [21, 22, 23, 24],
+    "name": "暮光城",
+    "desc": "伊利亚的旧都城，如今位于法皇国境内，购买力强大。这里的权贵人士嗜好养生，喜爱动物制品，以所获得的伊利亚宝石数量相互攀比。",
+    "faction_id": 2,
+    "editor_name": "暮光城",
+    "icon": "commerce_city_lightgloamcity"
+  },
+  {
+    "id": 7,
+    "m_commerce_developments": [25, 26, 27, 28],
+    "name": "薇尔德部族",
+    "desc": "薇尔德人的家，他们擅长狩猎和用各种奇怪的材料调制治疗药品，无聊时还会制作一些手工艺品。在走出大山之前，他们需要先巩固一下防御设施，以及补充武装。",
+    "faction_id": 4,
+    "editor_name": "薇尔德部族",
+    "icon": "commerce_city_vldertribes"
+  }
+]

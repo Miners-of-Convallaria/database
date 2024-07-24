@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "m_online_player_buff_type_groups": [10],
+    "name": "测试日常活动buff",
+    "desc": "测试",
+    "start_at": 1696089600,
+    "end_at": 1696176000
+  },
+  {
+    "id": 2,
+    "m_online_player_buff_type_groups": [3],
+    "name": "日常突变活动1-碎片Buff",
+    "desc": "",
+    "start_at": 1703779200,
+    "end_at": 1704383999
+  },
+  {
+    "id": 3,
+    "m_online_player_buff_type_groups": [4],
+    "name": "日常突变活动2-进阶buff",
+    "desc": "",
+    "start_at": 1706587200,
+    "end_at": 1708876799
+  },
+  {
+    "id": 4,
+    "m_online_player_buff_type_groups": [5],
+    "name": "日常突变活动2-经验buff",
+    "desc": "",
+    "start_at": 1706587200,
+    "end_at": 1708876799
+  },
+  {
+    "id": 5,
+    "m_online_player_buff_type_groups": [7],
+    "name": "日常突变活动3-碎片Buff",
+    "desc": "",
+    "start_at": 1710432000,
+    "end_at": 1711036799
+  },
+  {
+    "id": 6,
+    "m_online_player_buff_type_groups": [8],
+    "name": "日常突变活动4-护石buff",
+    "desc": "",
+    "start_at": 1712796400,
+    "end_at": 1713401199
+  },
+  {
+    "id": 7,
+    "m_online_player_buff_type_groups": [9],
+    "name": "日常突变活动4-锻造buff",
+    "desc": "",
+    "start_at": 1712796400,
+    "end_at": 1713401199
+  },
+  {
+    "id": 8,
+    "m_online_player_buff_type_groups": [11],
+    "name": "日常突变活动5-进阶buff",
+    "desc": "",
+    "start_at": 1706587200,
+    "end_at": 1708876799
+  },
+  {
+    "id": 9,
+    "m_online_player_buff_type_groups": [12],
+    "name": "日常突变活动5-经验buff",
+    "desc": "",
+    "start_at": 1706587200,
+    "end_at": 1708876799
+  },
+  {
+    "id": 10,
+    "m_online_player_buff_type_groups": [13],
+    "name": "回归福利-经验本",
+    "desc": "",
+    "start_at": 0,
+    "end_at": 2100000000
+  },
+  {
+    "id": 11,
+    "m_online_player_buff_type_groups": [14],
+    "name": "回归福利-进阶本",
+    "desc": "",
+    "start_at": 0,
+    "end_at": 2100000000
+  },
+  {
+    "id": 12,
+    "m_online_player_buff_type_groups": [15],
+    "name": "回归福利-碎片本",
+    "desc": "",
+    "start_at": 0,
+    "end_at": 2100000000
+  },
+  {
+    "id": 13,
+    "m_online_player_buff_type_groups": [16],
+    "name": "回归福利-武器本",
+    "desc": "",
+    "start_at": 0,
+    "end_at": 2100000000
+  },
+  {
+    "id": 14,
+    "m_online_player_buff_type_groups": [17],
+    "name": "回归福利-锻造本",
+    "desc": "",
+    "start_at": 0,
+    "end_at": 2100000000
+  },
+  {
+    "id": 15,
+    "m_online_player_buff_type_groups": [18],
+    "name": "回归福利-科技本",
+    "desc": "",
+    "start_at": 0,
+    "end_at": 2100000000
+  },
+  {
+    "id": 16,
+    "m_online_player_buff_type_groups": [19],
+    "name": "回归福利-护石本",
+    "desc": "",
+    "start_at": 0,
+    "end_at": 2100000000
+  },
+  {
+    "id": 17,
+    "m_online_player_buff_type_groups": [20],
+    "name": "日常突变活动6-碎片Buff",
+    "desc": "",
+    "start_at": 1716480000,
+    "end_at": 1717084799
+  }
+]

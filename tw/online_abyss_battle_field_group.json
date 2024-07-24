@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "m_online_abyss_battle_fields": [1, 2],
+    "online_abyss_battle_field_ids": "1|2",
+    "name": "组-引导难度1"
+  },
+  {
+    "id": 2,
+    "m_online_abyss_battle_fields": [3, 4],
+    "online_abyss_battle_field_ids": "3|4",
+    "name": "组-引导难度2"
+  },
+  {
+    "id": 3,
+    "m_online_abyss_battle_fields": [5, 6],
+    "online_abyss_battle_field_ids": "5|6",
+    "name": "组-引导难度3"
+  },
+  {
+    "id": 4,
+    "m_online_abyss_battle_fields": [7, 8],
+    "online_abyss_battle_field_ids": "7|8",
+    "name": "组-引导难度4"
+  },
+  {
+    "id": 5,
+    "m_online_abyss_battle_fields": [9, 10],
+    "online_abyss_battle_field_ids": "9|10",
+    "name": "S1组-排行难度5"
+  },
+  {
+    "id": 6,
+    "m_online_abyss_battle_fields": [11, 12],
+    "online_abyss_battle_field_ids": "11|12",
+    "name": "S1组-排行难度6"
+  },
+  {
+    "id": 7,
+    "m_online_abyss_battle_fields": [13, 14],
+    "online_abyss_battle_field_ids": "13|14",
+    "name": "S1组-排行难度7"
+  },
+  {
+    "id": 8,
+    "m_online_abyss_battle_fields": [16, 15],
+    "online_abyss_battle_field_ids": "16|15",
+    "name": "S2组-排行难度5"
+  },
+  {
+    "id": 9,
+    "m_online_abyss_battle_fields": [18, 17],
+    "online_abyss_battle_field_ids": "18|17",
+    "name": "S2组-排行难度6"
+  },
+  {
+    "id": 10,
+    "m_online_abyss_battle_fields": [20, 19],
+    "online_abyss_battle_field_ids": "20|19",
+    "name": "S2组-排行难度7"
+  },
+  {
+    "id": 11,
+    "m_online_abyss_battle_fields": [21, 22],
+    "online_abyss_battle_field_ids": "21|22",
+    "name": "S3组-排行难度5"
+  },
+  {
+    "id": 12,
+    "m_online_abyss_battle_fields": [23, 24],
+    "online_abyss_battle_field_ids": "23|24",
+    "name": "S3组-排行难度6"
+  },
+  {
+    "id": 13,
+    "m_online_abyss_battle_fields": [25, 26],
+    "online_abyss_battle_field_ids": "25|26",
+    "name": "S3组-排行难度7"
+  },
+  {
+    "id": 14,
+    "m_online_abyss_battle_fields": [27, 28],
+    "online_abyss_battle_field_ids": "27|28",
+    "name": "S4组-排行难度5"
+  },
+  {
+    "id": 15,
+    "m_online_abyss_battle_fields": [29, 30],
+    "online_abyss_battle_field_ids": "29|30",
+    "name": "S4组-排行难度6"
+  },
+  {
+    "id": 16,
+    "m_online_abyss_battle_fields": [31, 32],
+    "online_abyss_battle_field_ids": "31|32",
+    "name": "S4组-排行难度7"
+  },
+  {
+    "id": 17,
+    "m_online_abyss_battle_fields": [33, 34],
+    "online_abyss_battle_field_ids": "33|34",
+    "name": "S5组-排行难度5"
+  },
+  {
+    "id": 18,
+    "m_online_abyss_battle_fields": [35, 36],
+    "online_abyss_battle_field_ids": "35|36",
+    "name": "S5组-排行难度6"
+  },
+  {
+    "id": 19,
+    "m_online_abyss_battle_fields": [37, 38],
+    "online_abyss_battle_field_ids": "37|38",
+    "name": "S5组-排行难度7"
+  },
+  {
+    "id": 20,
+    "m_online_abyss_battle_fields": [39, 40],
+    "online_abyss_battle_field_ids": "39|40",
+    "name": "S6组-排行难度5"
+  },
+  {
+    "id": 21,
+    "m_online_abyss_battle_fields": [41, 42],
+    "online_abyss_battle_field_ids": "41|42",
+    "name": "S6组-排行难度6"
+  },
+  {
+    "id": 22,
+    "m_online_abyss_battle_fields": [43, 44],
+    "online_abyss_battle_field_ids": "43|44",
+    "name": "S6组-排行难度7"
+  },
+  {
+    "id": 23,
+    "m_online_abyss_battle_fields": [45, 46],
+    "online_abyss_battle_field_ids": "45|46",
+    "name": "S7组-排行难度5"
+  },
+  {
+    "id": 24,
+    "m_online_abyss_battle_fields": [47, 48],
+    "online_abyss_battle_field_ids": "47|48",
+    "name": "S7组-排行难度6"
+  },
+  {
+    "id": 25,
+    "m_online_abyss_battle_fields": [49, 50],
+    "online_abyss_battle_field_ids": "49|50",
+    "name": "S7组-排行难度7"
+  },
+  {
+    "id": 26,
+    "m_online_abyss_battle_fields": [51, 52],
+    "online_abyss_battle_field_ids": "51|52",
+    "name": "S8组-排行难度5"
+  },
+  {
+    "id": 27,
+    "m_online_abyss_battle_fields": [53, 54],
+    "online_abyss_battle_field_ids": "53|54",
+    "name": "S8组-排行难度6"
+  },
+  {
+    "id": 28,
+    "m_online_abyss_battle_fields": [55, 56],
+    "online_abyss_battle_field_ids": "55|56",
+    "name": "S8组-排行难度7"
+  },
+  {
+    "id": 29,
+    "m_online_abyss_battle_fields": [57, 58],
+    "online_abyss_battle_field_ids": "57|58",
+    "name": "S9组-排行难度5"
+  },
+  {
+    "id": 30,
+    "m_online_abyss_battle_fields": [59, 60],
+    "online_abyss_battle_field_ids": "59|60",
+    "name": "S9组-排行难度6"
+  },
+  {
+    "id": 31,
+    "m_online_abyss_battle_fields": [61, 62],
+    "online_abyss_battle_field_ids": "61|62",
+    "name": "S9组-排行难度7"
+  },
+  {
+    "id": 32,
+    "m_online_abyss_battle_fields": [63, 64],
+    "online_abyss_battle_field_ids": "63|64",
+    "name": "S10组-排行难度5"
+  },
+  {
+    "id": 33,
+    "m_online_abyss_battle_fields": [65, 66],
+    "online_abyss_battle_field_ids": "65|66",
+    "name": "S10组-排行难度6"
+  },
+  {
+    "id": 34,
+    "m_online_abyss_battle_fields": [67, 68],
+    "online_abyss_battle_field_ids": "67|68",
+    "name": "S10组-排行难度7"
+  },
+  {
+    "id": 35,
+    "m_online_abyss_battle_fields": [69, 70],
+    "online_abyss_battle_field_ids": "69|70",
+    "name": "S0组-排行难度5"
+  },
+  {
+    "id": 36,
+    "m_online_abyss_battle_fields": [71, 72],
+    "online_abyss_battle_field_ids": "71|72",
+    "name": "S0组-排行难度6"
+  },
+  {
+    "id": 37,
+    "m_online_abyss_battle_fields": [73, 74],
+    "online_abyss_battle_field_ids": "73|74",
+    "name": "S0组-排行难度7"
+  },
+  {
+    "id": 38,
+    "m_online_abyss_battle_fields": [80, 79],
+    "online_abyss_battle_field_ids": "80|79",
+    "name": "S11组-排行难度5"
+  },
+  {
+    "id": 39,
+    "m_online_abyss_battle_fields": [78, 77],
+    "online_abyss_battle_field_ids": "78|77",
+    "name": "S11组-排行难度6"
+  },
+  {
+    "id": 40,
+    "m_online_abyss_battle_fields": [76, 75],
+    "online_abyss_battle_field_ids": "76|75",
+    "name": "S11组-排行难度7"
+  },
+  {
+    "id": 41,
+    "m_online_abyss_battle_fields": [86, 85],
+    "online_abyss_battle_field_ids": "86|85",
+    "name": "S12组-排行难度5"
+  },
+  {
+    "id": 42,
+    "m_online_abyss_battle_fields": [84, 83],
+    "online_abyss_battle_field_ids": "84|83",
+    "name": "S12组-排行难度6"
+  },
+  {
+    "id": 43,
+    "m_online_abyss_battle_fields": [82, 81],
+    "online_abyss_battle_field_ids": "82|81",
+    "name": "S12组-排行难度7"
+  },
+  {
+    "id": 44,
+    "m_online_abyss_battle_fields": [92, 91],
+    "online_abyss_battle_field_ids": "92|91",
+    "name": "S13组-排行难度5"
+  },
+  {
+    "id": 45,
+    "m_online_abyss_battle_fields": [90, 89],
+    "online_abyss_battle_field_ids": "90|89",
+    "name": "S13组-排行难度6"
+  },
+  {
+    "id": 46,
+    "m_online_abyss_battle_fields": [88, 87],
+    "online_abyss_battle_field_ids": "88|87",
+    "name": "S13组-排行难度7"
+  },
+  {
+    "id": 47,
+    "m_online_abyss_battle_fields": [98, 97],
+    "online_abyss_battle_field_ids": "98|97",
+    "name": "S14组-排行难度5"
+  },
+  {
+    "id": 48,
+    "m_online_abyss_battle_fields": [96, 95],
+    "online_abyss_battle_field_ids": "96|95",
+    "name": "S14组-排行难度6"
+  },
+  {
+    "id": 49,
+    "m_online_abyss_battle_fields": [94, 93],
+    "online_abyss_battle_field_ids": "94|93",
+    "name": "S14组-排行难度7"
+  },
+  {
+    "id": 50,
+    "m_online_abyss_battle_fields": [104, 103],
+    "online_abyss_battle_field_ids": "104|103",
+    "name": "S15组-排行难度5"
+  },
+  {
+    "id": 51,
+    "m_online_abyss_battle_fields": [102, 101],
+    "online_abyss_battle_field_ids": "102|101",
+    "name": "S15组-排行难度6"
+  },
+  {
+    "id": 52,
+    "m_online_abyss_battle_fields": [100, 99],
+    "online_abyss_battle_field_ids": "100|99",
+    "name": "S15组-排行难度7"
+  },
+  {
+    "id": 53,
+    "m_online_abyss_battle_fields": [110, 109],
+    "online_abyss_battle_field_ids": "110|109",
+    "name": "S16组-排行难度5"
+  },
+  {
+    "id": 54,
+    "m_online_abyss_battle_fields": [108, 107],
+    "online_abyss_battle_field_ids": "108|107",
+    "name": "S16组-排行难度6"
+  },
+  {
+    "id": 55,
+    "m_online_abyss_battle_fields": [106, 105],
+    "online_abyss_battle_field_ids": "106|105",
+    "name": "S16组-排行难度7"
+  }
+]

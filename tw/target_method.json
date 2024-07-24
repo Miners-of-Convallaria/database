@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "type": "Enemy",
+    "name": "选择敌人",
+    "desc": "可选择射程范围内的敌对单位或中立单位货物件为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 2,
+    "type": "Player",
+    "name": "选择我方",
+    "desc": "可选择射程范围内的我方单位或物件为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 3,
+    "type": "Entity",
+    "name": "选择敌我",
+    "desc": "可选择射程范围内的所有单位或物件为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 4,
+    "type": "Block",
+    "name": "选择地面",
+    "desc": "可选择射程范围内的任意地面格为目标",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 5,
+    "type": "BlockNoUnit",
+    "name": "无人地面",
+    "desc": "可选择射程范围内的没有单位占据的地面格（可以有可站立物件）为目标",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 6,
+    "type": "BlockEmpty",
+    "name": "空闲地面",
+    "desc": "可选择射程范围内的没有单位且没有场景物体占据的地面格为目标",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 7,
+    "type": "BlockOriginal",
+    "name": "原地",
+    "desc": "原地释放",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 8,
+    "type": "Self",
+    "name": "仅自己",
+    "desc": "只可以施法者自己为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 9,
+    "type": "Direction",
+    "name": "选择方向",
+    "desc": "选择4个方向",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 10,
+    "type": "EnemyNearPlayer",
+    "name": "己方附近敌人",
+    "desc": "可选择己方单位附近范围内的敌对单位或中立单位货物件为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 11,
+    "type": "BlockNoUnitNearPlayer",
+    "name": "己方附近无人地面",
+    "desc": "可选择己方单位附近范围内的没有单位占据的地面格（可以有可站立物件）为目标",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 12,
+    "type": "PROPS",
+    "name": "选择物件",
+    "desc": "可选择射程范围内的所有物件为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 13,
+    "type": "BlockEnemy",
+    "name": "选择敌方地面",
+    "desc": "可选择射程范围内的敌对单位或中立单位货物件占据的地面格为目标",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 14,
+    "type": "BlockNoFriend",
+    "name": "选择非友方地面",
+    "desc": "可选择射程范围内的没有被友方占据的地面格",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 15,
+    "type": "FriendNearPlayer",
+    "name": "己方附近友方",
+    "desc": "可选择己方单位附近范围内的友方单位为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 16,
+    "type": "PlayerUnit",
+    "name": "己方任意单位",
+    "desc": "可选择场上任一我方单位",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  },
+  {
+    "id": 17,
+    "type": "BlockNearPlayer",
+    "name": "己方附近地面",
+    "desc": "可选择己方单位附近的任意地面格为目标",
+    "icon": "",
+    "is_block": true,
+    "short_name": "对地面"
+  },
+  {
+    "id": 18,
+    "type": "Trap",
+    "name": "选择陷阱",
+    "desc": "可选择射程范围内的所有陷阱为目标",
+    "icon": "",
+    "is_block": false,
+    "short_name": "对单位"
+  }
+]

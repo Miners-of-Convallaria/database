@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "rarity": 1,
+    "level": 1,
+    "exp": 15,
+    "money": 30
+  },
+  {
+    "id": 2,
+    "rarity": 1,
+    "level": 2,
+    "exp": 15,
+    "money": 30
+  },
+  {
+    "id": 3,
+    "rarity": 1,
+    "level": 3,
+    "exp": 15,
+    "money": 30
+  },
+  {
+    "id": 4,
+    "rarity": 1,
+    "level": 4,
+    "exp": 15,
+    "money": 30
+  },
+  {
+    "id": 5,
+    "rarity": 1,
+    "level": 5,
+    "exp": 20,
+    "money": 40
+  },
+  {
+    "id": 6,
+    "rarity": 1,
+    "level": 6,
+    "exp": 20,
+    "money": 40
+  },
+  {
+    "id": 7,
+    "rarity": 1,
+    "level": 7,
+    "exp": 20,
+    "money": 40
+  },
+  {
+    "id": 8,
+    "rarity": 1,
+    "level": 8,
+    "exp": 25,
+    "money": 50
+  },
+  {
+    "id": 9,
+    "rarity": 1,
+    "level": 9,
+    "exp": 25,
+    "money": 50
+  },
+  {
+    "id": 10,
+    "rarity": 1,
+    "level": 10,
+    "exp": 25,
+    "money": 50
+  },
+  {
+    "id": 11,
+    "rarity": 1,
+    "level": 11,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 12,
+    "rarity": 1,
+    "level": 12,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 13,
+    "rarity": 1,
+    "level": 13,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 14,
+    "rarity": 1,
+    "level": 14,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 15,
+    "rarity": 1,
+    "level": 15,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 16,
+    "rarity": 1,
+    "level": 16,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 17,
+    "rarity": 1,
+    "level": 17,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 18,
+    "rarity": 1,
+    "level": 18,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 19,
+    "rarity": 1,
+    "level": 19,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 20,
+    "rarity": 1,
+    "level": 20,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 21,
+    "rarity": 1,
+    "level": 21,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 22,
+    "rarity": 1,
+    "level": 22,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 23,
+    "rarity": 1,
+    "level": 23,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 24,
+    "rarity": 1,
+    "level": 24,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 25,
+    "rarity": 1,
+    "level": 25,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 26,
+    "rarity": 1,
+    "level": 26,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 27,
+    "rarity": 1,
+    "level": 27,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 28,
+    "rarity": 1,
+    "level": 28,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 29,
+    "rarity": 1,
+    "level": 29,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 30,
+    "rarity": 1,
+    "level": 30,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 31,
+    "rarity": 1,
+    "level": 31,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 32,
+    "rarity": 1,
+    "level": 32,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 33,
+    "rarity": 1,
+    "level": 33,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 34,
+    "rarity": 1,
+    "level": 34,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 35,
+    "rarity": 1,
+    "level": 35,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 36,
+    "rarity": 1,
+    "level": 36,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 37,
+    "rarity": 1,
+    "level": 37,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 38,
+    "rarity": 1,
+    "level": 38,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 39,
+    "rarity": 1,
+    "level": 39,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 40,
+    "rarity": 1,
+    "level": 40,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 41,
+    "rarity": 1,
+    "level": 41,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 42,
+    "rarity": 1,
+    "level": 42,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 43,
+    "rarity": 1,
+    "level": 43,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 44,
+    "rarity": 1,
+    "level": 44,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 45,
+    "rarity": 1,
+    "level": 45,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 46,
+    "rarity": 1,
+    "level": 46,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 47,
+    "rarity": 1,
+    "level": 47,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 48,
+    "rarity": 1,
+    "level": 48,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 49,
+    "rarity": 1,
+    "level": 49,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 50,
+    "rarity": 1,
+    "level": 50,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 51,
+    "rarity": 1,
+    "level": 51,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 52,
+    "rarity": 1,
+    "level": 52,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 53,
+    "rarity": 1,
+    "level": 53,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 54,
+    "rarity": 1,
+    "level": 54,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 55,
+    "rarity": 1,
+    "level": 55,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 56,
+    "rarity": 1,
+    "level": 56,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 57,
+    "rarity": 1,
+    "level": 57,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 58,
+    "rarity": 1,
+    "level": 58,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 59,
+    "rarity": 1,
+    "level": 59,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 60,
+    "rarity": 1,
+    "level": 60,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 61,
+    "rarity": 2,
+    "level": 1,
+    "exp": 21,
+    "money": 42
+  },
+  {
+    "id": 62,
+    "rarity": 2,
+    "level": 2,
+    "exp": 21,
+    "money": 42
+  },
+  {
+    "id": 63,
+    "rarity": 2,
+    "level": 3,
+    "exp": 21,
+    "money": 42
+  },
+  {
+    "id": 64,
+    "rarity": 2,
+    "level": 4,
+    "exp": 21,
+    "money": 42
+  },
+  {
+    "id": 65,
+    "rarity": 2,
+    "level": 5,
+    "exp": 28,
+    "money": 56
+  },
+  {
+    "id": 66,
+    "rarity": 2,
+    "level": 6,
+    "exp": 28,
+    "money": 56
+  },
+  {
+    "id": 67,
+    "rarity": 2,
+    "level": 7,
+    "exp": 28,
+    "money": 56
+  },
+  {
+    "id": 68,
+    "rarity": 2,
+    "level": 8,
+    "exp": 35,
+    "money": 70
+  },
+  {
+    "id": 69,
+    "rarity": 2,
+    "level": 9,
+    "exp": 35,
+    "money": 70
+  },
+  {
+    "id": 70,
+    "rarity": 2,
+    "level": 10,
+    "exp": 35,
+    "money": 70
+  },
+  {
+    "id": 71,
+    "rarity": 2,
+    "level": 11,
+    "exp": 42,
+    "money": 84
+  },
+  {
+    "id": 72,
+    "rarity": 2,
+    "level": 12,
+    "exp": 42,
+    "money": 84
+  },
+  {
+    "id": 73,
+    "rarity": 2,
+    "level": 13,
+    "exp": 42,
+    "money": 84
+  },
+  {
+    "id": 74,
+    "rarity": 2,
+    "level": 14,
+    "exp": 42,
+    "money": 84
+  },
+  {
+    "id": 75,
+    "rarity": 2,
+    "level": 15,
+    "exp": 42,
+    "money": 84
+  },
+  {
+    "id": 76,
+    "rarity": 2,
+    "level": 16,
+    "exp": 49,
+    "money": 98
+  },
+  {
+    "id": 77,
+    "rarity": 2,
+    "level": 17,
+    "exp": 49,
+    "money": 98
+  },
+  {
+    "id": 78,
+    "rarity": 2,
+    "level": 18,
+    "exp": 56,
+    "money": 112
+  },
+  {
+    "id": 79,
+    "rarity": 2,
+    "level": 19,
+    "exp": 63,
+    "money": 126
+  },
+  {
+    "id": 80,
+    "rarity": 2,
+    "level": 20,
+    "exp": 70,
+    "money": 140
+  },
+  {
+    "id": 81,
+    "rarity": 2,
+    "level": 21,
+    "exp": 70,
+    "money": 140
+  },
+  {
+    "id": 82,
+    "rarity": 2,
+    "level": 22,
+    "exp": 77,
+    "money": 154
+  },
+  {
+    "id": 83,
+    "rarity": 2,
+    "level": 23,
+    "exp": 77,
+    "money": 154
+  },
+  {
+    "id": 84,
+    "rarity": 2,
+    "level": 24,
+    "exp": 84,
+    "money": 168
+  },
+  {
+    "id": 85,
+    "rarity": 2,
+    "level": 25,
+    "exp": 84,
+    "money": 168
+  },
+  {
+    "id": 86,
+    "rarity": 2,
+    "level": 26,
+    "exp": 91,
+    "money": 182
+  },
+  {
+    "id": 87,
+    "rarity": 2,
+    "level": 27,
+    "exp": 98,
+    "money": 196
+  },
+  {
+    "id": 88,
+    "rarity": 2,
+    "level": 28,
+    "exp": 105,
+    "money": 210
+  },
+  {
+    "id": 89,
+    "rarity": 2,
+    "level": 29,
+    "exp": 112,
+    "money": 224
+  },
+  {
+    "id": 90,
+    "rarity": 2,
+    "level": 30,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 91,
+    "rarity": 2,
+    "level": 31,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 92,
+    "rarity": 2,
+    "level": 32,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 93,
+    "rarity": 2,
+    "level": 33,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 94,
+    "rarity": 2,
+    "level": 34,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 95,
+    "rarity": 2,
+    "level": 35,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 96,
+    "rarity": 2,
+    "level": 36,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 97,
+    "rarity": 2,
+    "level": 37,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 98,
+    "rarity": 2,
+    "level": 38,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 99,
+    "rarity": 2,
+    "level": 39,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 100,
+    "rarity": 2,
+    "level": 40,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 101,
+    "rarity": 2,
+    "level": 41,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 102,
+    "rarity": 2,
+    "level": 42,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 103,
+    "rarity": 2,
+    "level": 43,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 104,
+    "rarity": 2,
+    "level": 44,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 105,
+    "rarity": 2,
+    "level": 45,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 106,
+    "rarity": 2,
+    "level": 46,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 107,
+    "rarity": 2,
+    "level": 47,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 108,
+    "rarity": 2,
+    "level": 48,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 109,
+    "rarity": 2,
+    "level": 49,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 110,
+    "rarity": 2,
+    "level": 50,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 111,
+    "rarity": 2,
+    "level": 51,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 112,
+    "rarity": 2,
+    "level": 52,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 113,
+    "rarity": 2,
+    "level": 53,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 114,
+    "rarity": 2,
+    "level": 54,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 115,
+    "rarity": 2,
+    "level": 55,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 116,
+    "rarity": 2,
+    "level": 56,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 117,
+    "rarity": 2,
+    "level": 57,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 118,
+    "rarity": 2,
+    "level": 58,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 119,
+    "rarity": 2,
+    "level": 59,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 120,
+    "rarity": 2,
+    "level": 60,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 121,
+    "rarity": 3,
+    "level": 1,
+    "exp": 27,
+    "money": 54
+  },
+  {
+    "id": 122,
+    "rarity": 3,
+    "level": 2,
+    "exp": 27,
+    "money": 54
+  },
+  {
+    "id": 123,
+    "rarity": 3,
+    "level": 3,
+    "exp": 27,
+    "money": 54
+  },
+  {
+    "id": 124,
+    "rarity": 3,
+    "level": 4,
+    "exp": 27,
+    "money": 54
+  },
+  {
+    "id": 125,
+    "rarity": 3,
+    "level": 5,
+    "exp": 36,
+    "money": 72
+  },
+  {
+    "id": 126,
+    "rarity": 3,
+    "level": 6,
+    "exp": 36,
+    "money": 72
+  },
+  {
+    "id": 127,
+    "rarity": 3,
+    "level": 7,
+    "exp": 36,
+    "money": 72
+  },
+  {
+    "id": 128,
+    "rarity": 3,
+    "level": 8,
+    "exp": 45,
+    "money": 90
+  },
+  {
+    "id": 129,
+    "rarity": 3,
+    "level": 9,
+    "exp": 45,
+    "money": 90
+  },
+  {
+    "id": 130,
+    "rarity": 3,
+    "level": 10,
+    "exp": 45,
+    "money": 90
+  },
+  {
+    "id": 131,
+    "rarity": 3,
+    "level": 11,
+    "exp": 54,
+    "money": 108
+  },
+  {
+    "id": 132,
+    "rarity": 3,
+    "level": 12,
+    "exp": 54,
+    "money": 108
+  },
+  {
+    "id": 133,
+    "rarity": 3,
+    "level": 13,
+    "exp": 54,
+    "money": 108
+  },
+  {
+    "id": 134,
+    "rarity": 3,
+    "level": 14,
+    "exp": 54,
+    "money": 108
+  },
+  {
+    "id": 135,
+    "rarity": 3,
+    "level": 15,
+    "exp": 54,
+    "money": 108
+  },
+  {
+    "id": 136,
+    "rarity": 3,
+    "level": 16,
+    "exp": 63,
+    "money": 126
+  },
+  {
+    "id": 137,
+    "rarity": 3,
+    "level": 17,
+    "exp": 63,
+    "money": 126
+  },
+  {
+    "id": 138,
+    "rarity": 3,
+    "level": 18,
+    "exp": 72,
+    "money": 144
+  },
+  {
+    "id": 139,
+    "rarity": 3,
+    "level": 19,
+    "exp": 81,
+    "money": 162
+  },
+  {
+    "id": 140,
+    "rarity": 3,
+    "level": 20,
+    "exp": 90,
+    "money": 180
+  },
+  {
+    "id": 141,
+    "rarity": 3,
+    "level": 21,
+    "exp": 90,
+    "money": 180
+  },
+  {
+    "id": 142,
+    "rarity": 3,
+    "level": 22,
+    "exp": 99,
+    "money": 198
+  },
+  {
+    "id": 143,
+    "rarity": 3,
+    "level": 23,
+    "exp": 99,
+    "money": 198
+  },
+  {
+    "id": 144,
+    "rarity": 3,
+    "level": 24,
+    "exp": 108,
+    "money": 216
+  },
+  {
+    "id": 145,
+    "rarity": 3,
+    "level": 25,
+    "exp": 108,
+    "money": 216
+  },
+  {
+    "id": 146,
+    "rarity": 3,
+    "level": 26,
+    "exp": 117,
+    "money": 234
+  },
+  {
+    "id": 147,
+    "rarity": 3,
+    "level": 27,
+    "exp": 126,
+    "money": 252
+  },
+  {
+    "id": 148,
+    "rarity": 3,
+    "level": 28,
+    "exp": 135,
+    "money": 270
+  },
+  {
+    "id": 149,
+    "rarity": 3,
+    "level": 29,
+    "exp": 144,
+    "money": 288
+  },
+  {
+    "id": 150,
+    "rarity": 3,
+    "level": 30,
+    "exp": 153,
+    "money": 306
+  },
+  {
+    "id": 151,
+    "rarity": 3,
+    "level": 31,
+    "exp": 162,
+    "money": 324
+  },
+  {
+    "id": 152,
+    "rarity": 3,
+    "level": 32,
+    "exp": 171,
+    "money": 342
+  },
+  {
+    "id": 153,
+    "rarity": 3,
+    "level": 33,
+    "exp": 180,
+    "money": 360
+  },
+  {
+    "id": 154,
+    "rarity": 3,
+    "level": 34,
+    "exp": 189,
+    "money": 378
+  },
+  {
+    "id": 155,
+    "rarity": 3,
+    "level": 35,
+    "exp": 198,
+    "money": 396
+  },
+  {
+    "id": 156,
+    "rarity": 3,
+    "level": 36,
+    "exp": 207,
+    "money": 414
+  },
+  {
+    "id": 157,
+    "rarity": 3,
+    "level": 37,
+    "exp": 216,
+    "money": 432
+  },
+  {
+    "id": 158,
+    "rarity": 3,
+    "level": 38,
+    "exp": 225,
+    "money": 450
+  },
+  {
+    "id": 159,
+    "rarity": 3,
+    "level": 39,
+    "exp": 234,
+    "money": 468
+  },
+  {
+    "id": 160,
+    "rarity": 3,
+    "level": 40,
+    "exp": 252,
+    "money": 504
+  },
+  {
+    "id": 161,
+    "rarity": 3,
+    "level": 41,
+    "exp": 270,
+    "money": 540
+  },
+  {
+    "id": 162,
+    "rarity": 3,
+    "level": 42,
+    "exp": 288,
+    "money": 576
+  },
+  {
+    "id": 163,
+    "rarity": 3,
+    "level": 43,
+    "exp": 306,
+    "money": 612
+  },
+  {
+    "id": 164,
+    "rarity": 3,
+    "level": 44,
+    "exp": 324,
+    "money": 648
+  },
+  {
+    "id": 165,
+    "rarity": 3,
+    "level": 45,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 166,
+    "rarity": 3,
+    "level": 46,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 167,
+    "rarity": 3,
+    "level": 47,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 168,
+    "rarity": 3,
+    "level": 48,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 169,
+    "rarity": 3,
+    "level": 49,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 170,
+    "rarity": 3,
+    "level": 50,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 171,
+    "rarity": 3,
+    "level": 51,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 172,
+    "rarity": 3,
+    "level": 52,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 173,
+    "rarity": 3,
+    "level": 53,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 174,
+    "rarity": 3,
+    "level": 54,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 175,
+    "rarity": 3,
+    "level": 55,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 176,
+    "rarity": 3,
+    "level": 56,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 177,
+    "rarity": 3,
+    "level": 57,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 178,
+    "rarity": 3,
+    "level": 58,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 179,
+    "rarity": 3,
+    "level": 59,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 180,
+    "rarity": 3,
+    "level": 60,
+    "exp": 0,
+    "money": 0
+  },
+  {
+    "id": 181,
+    "rarity": 4,
+    "level": 1,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 182,
+    "rarity": 4,
+    "level": 2,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 183,
+    "rarity": 4,
+    "level": 3,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 184,
+    "rarity": 4,
+    "level": 4,
+    "exp": 30,
+    "money": 60
+  },
+  {
+    "id": 185,
+    "rarity": 4,
+    "level": 5,
+    "exp": 40,
+    "money": 80
+  },
+  {
+    "id": 186,
+    "rarity": 4,
+    "level": 6,
+    "exp": 40,
+    "money": 80
+  },
+  {
+    "id": 187,
+    "rarity": 4,
+    "level": 7,
+    "exp": 40,
+    "money": 80
+  },
+  {
+    "id": 188,
+    "rarity": 4,
+    "level": 8,
+    "exp": 50,
+    "money": 100
+  },
+  {
+    "id": 189,
+    "rarity": 4,
+    "level": 9,
+    "exp": 50,
+    "money": 100
+  },
+  {
+    "id": 190,
+    "rarity": 4,
+    "level": 10,
+    "exp": 50,
+    "money": 100
+  },
+  {
+    "id": 191,
+    "rarity": 4,
+    "level": 11,
+    "exp": 60,
+    "money": 120
+  },
+  {
+    "id": 192,
+    "rarity": 4,
+    "level": 12,
+    "exp": 60,
+    "money": 120
+  },
+  {
+    "id": 193,
+    "rarity": 4,
+    "level": 13,
+    "exp": 60,
+    "money": 120
+  },
+  {
+    "id": 194,
+    "rarity": 4,
+    "level": 14,
+    "exp": 60,
+    "money": 120
+  },
+  {
+    "id": 195,
+    "rarity": 4,
+    "level": 15,
+    "exp": 60,
+    "money": 120
+  },
+  {
+    "id": 196,
+    "rarity": 4,
+    "level": 16,
+    "exp": 70,
+    "money": 140
+  },
+  {
+    "id": 197,
+    "rarity": 4,
+    "level": 17,
+    "exp": 70,
+    "money": 140
+  },
+  {
+    "id": 198,
+    "rarity": 4,
+    "level": 18,
+    "exp": 80,
+    "money": 160
+  },
+  {
+    "id": 199,
+    "rarity": 4,
+    "level": 19,
+    "exp": 90,
+    "money": 180
+  },
+  {
+    "id": 200,
+    "rarity": 4,
+    "level": 20,
+    "exp": 100,
+    "money": 200
+  },
+  {
+    "id": 201,
+    "rarity": 4,
+    "level": 21,
+    "exp": 100,
+    "money": 200
+  },
+  {
+    "id": 202,
+    "rarity": 4,
+    "level": 22,
+    "exp": 110,
+    "money": 220
+  },
+  {
+    "id": 203,
+    "rarity": 4,
+    "level": 23,
+    "exp": 110,
+    "money": 220
+  },
+  {
+    "id": 204,
+    "rarity": 4,
+    "level": 24,
+    "exp": 120,
+    "money": 240
+  },
+  {
+    "id": 205,
+    "rarity": 4,
+    "level": 25,
+    "exp": 120,
+    "money": 240
+  },
+  {
+    "id": 206,
+    "rarity": 4,
+    "level": 26,
+    "exp": 130,
+    "money": 260
+  },
+  {
+    "id": 207,
+    "rarity": 4,
+    "level": 27,
+    "exp": 140,
+    "money": 280
+  },
+  {
+    "id": 208,
+    "rarity": 4,
+    "level": 28,
+    "exp": 150,
+    "money": 300
+  },
+  {
+    "id": 209,
+    "rarity": 4,
+    "level": 29,
+    "exp": 160,
+    "money": 320
+  },
+  {
+    "id": 210,
+    "rarity": 4,
+    "level": 30,
+    "exp": 170,
+    "money": 340
+  },
+  {
+    "id": 211,
+    "rarity": 4,
+    "level": 31,
+    "exp": 180,
+    "money": 360
+  },
+  {
+    "id": 212,
+    "rarity": 4,
+    "level": 32,
+    "exp": 190,
+    "money": 380
+  },
+  {
+    "id": 213,
+    "rarity": 4,
+    "level": 33,
+    "exp": 200,
+    "money": 400
+  },
+  {
+    "id": 214,
+    "rarity": 4,
+    "level": 34,
+    "exp": 210,
+    "money": 420
+  },
+  {
+    "id": 215,
+    "rarity": 4,
+    "level": 35,
+    "exp": 220,
+    "money": 440
+  },
+  {
+    "id": 216,
+    "rarity": 4,
+    "level": 36,
+    "exp": 230,
+    "money": 460
+  },
+  {
+    "id": 217,
+    "rarity": 4,
+    "level": 37,
+    "exp": 240,
+    "money": 480
+  },
+  {
+    "id": 218,
+    "rarity": 4,
+    "level": 38,
+    "exp": 250,
+    "money": 500
+  },
+  {
+    "id": 219,
+    "rarity": 4,
+    "level": 39,
+    "exp": 260,
+    "money": 520
+  },
+  {
+    "id": 220,
+    "rarity": 4,
+    "level": 40,
+    "exp": 280,
+    "money": 560
+  },
+  {
+    "id": 221,
+    "rarity": 4,
+    "level": 41,
+    "exp": 300,
+    "money": 600
+  },
+  {
+    "id": 222,
+    "rarity": 4,
+    "level": 42,
+    "exp": 320,
+    "money": 640
+  },
+  {
+    "id": 223,
+    "rarity": 4,
+    "level": 43,
+    "exp": 340,
+    "money": 680
+  },
+  {
+    "id": 224,
+    "rarity": 4,
+    "level": 44,
+    "exp": 360,
+    "money": 720
+  },
+  {
+    "id": 225,
+    "rarity": 4,
+    "level": 45,
+    "exp": 380,
+    "money": 760
+  },
+  {
+    "id": 226,
+    "rarity": 4,
+    "level": 46,
+    "exp": 400,
+    "money": 800
+  },
+  {
+    "id": 227,
+    "rarity": 4,
+    "level": 47,
+    "exp": 420,
+    "money": 840
+  },
+  {
+    "id": 228,
+    "rarity": 4,
+    "level": 48,
+    "exp": 440,
+    "money": 880
+  },
+  {
+    "id": 229,
+    "rarity": 4,
+    "level": 49,
+    "exp": 460,
+    "money": 920
+  },
+  {
+    "id": 230,
+    "rarity": 4,
+    "level": 50,
+    "exp": 500,
+    "money": 1000
+  },
+  {
+    "id": 231,
+    "rarity": 4,
+    "level": 51,
+    "exp": 600,
+    "money": 1200
+  },
+  {
+    "id": 232,
+    "rarity": 4,
+    "level": 52,
+    "exp": 700,
+    "money": 1400
+  },
+  {
+    "id": 233,
+    "rarity": 4,
+    "level": 53,
+    "exp": 800,
+    "money": 1600
+  },
+  {
+    "id": 234,
+    "rarity": 4,
+    "level": 54,
+    "exp": 900,
+    "money": 1800
+  },
+  {
+    "id": 235,
+    "rarity": 4,
+    "level": 55,
+    "exp": 1000,
+    "money": 2000
+  },
+  {
+    "id": 236,
+    "rarity": 4,
+    "level": 56,
+    "exp": 1200,
+    "money": 2400
+  },
+  {
+    "id": 237,
+    "rarity": 4,
+    "level": 57,
+    "exp": 1500,
+    "money": 3000
+  },
+  {
+    "id": 238,
+    "rarity": 4,
+    "level": 58,
+    "exp": 2000,
+    "money": 4000
+  },
+  {
+    "id": 239,
+    "rarity": 4,
+    "level": 59,
+    "exp": 3000,
+    "money": 6000
+  },
+  {
+    "id": 240,
+    "rarity": 4,
+    "level": 60,
+    "exp": 0,
+    "money": 0
+  }
+]

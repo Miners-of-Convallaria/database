@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "前传线-对话",
+    "prefab_name": "MapEvent_Chat"
+  },
+  {
+    "id": 2,
+    "name": "前传线-战斗",
+    "prefab_name": "MapEvent_Fight"
+  },
+  {
+    "id": 3,
+    "name": "前传线-调查",
+    "prefab_name": "MapEvent_Search"
+  },
+  {
+    "id": 4,
+    "name": "前传线-对话重要",
+    "prefab_name": "MapEvent_Chat_Important"
+  },
+  {
+    "id": 5,
+    "name": "前传线-战斗重要",
+    "prefab_name": "MapEvent_Fight_Important"
+  },
+  {
+    "id": 6,
+    "name": "前传线-调查重要",
+    "prefab_name": "MapEvent_Search_Important"
+  },
+  {
+    "id": 7,
+    "name": "前传线-对话紧急",
+    "prefab_name": "MapEvent_Chat_Emergency"
+  },
+  {
+    "id": 8,
+    "name": "前传线-战斗紧急",
+    "prefab_name": "MapEvent_Fight_Emergency"
+  },
+  {
+    "id": 9,
+    "name": "前传线-调查紧急",
+    "prefab_name": "MapEvent_Search_Emergency"
+  },
+  {
+    "id": 10,
+    "name": "前传线-训练",
+    "prefab_name": "MapEvent_Trainning"
+  }
+]
