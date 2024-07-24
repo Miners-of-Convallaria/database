@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "150金币",
+    "name": "150 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "name": "500金币",
+    "name": "500 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "name": "骑士团制式长剑",
+    "name": "Standard Long Sword",
     "type": 4,
     "param0": 3,
     "param1": 3,
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "name": "晶石长枪",
+    "name": "Luxite Spear",
     "type": 4,
     "param0": 4,
     "param1": 4,
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "name": "15000金币",
+    "name": "15,000 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "name": "30000金币",
+    "name": "30,000 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "name": "800金币",
+    "name": "800 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "name": "20份铁锭",
+    "name": "Ingot iron × 20",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -161,7 +161,7 @@
   },
   {
     "id": 17,
-    "name": "20份木材",
+    "name": "Limber × 20",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -171,7 +171,7 @@
   },
   {
     "id": 18,
-    "name": "10份晶尘",
+    "name": "Luxite Dust × 10",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -181,7 +181,7 @@
   },
   {
     "id": 19,
-    "name": "2份光辉晶石",
+    "name": "Radiant Luxite × 2",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -191,7 +191,7 @@
   },
   {
     "id": 20,
-    "name": "1000金币",
+    "name": "1,000 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "name": "3000金币",
+    "name": "3,000 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -211,7 +211,7 @@
   },
   {
     "id": 22,
-    "name": "20份北山产晶石",
+    "name": "North Mountain Luxite × 20",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "name": "2000金币",
+    "name": "2,000 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -231,7 +231,7 @@
   },
   {
     "id": 24,
-    "name": "5000金币",
+    "name": "5,000 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "name": "40份木材",
+    "name": "Limber × 40",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "name": "40份铁锭",
+    "name": "Ingot iron × 40",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -261,7 +261,7 @@
   },
   {
     "id": 27,
-    "name": "30份北山产晶石",
+    "name": "North Mountain Luxite × 30",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -271,7 +271,7 @@
   },
   {
     "id": 28,
-    "name": "30份晶石合金",
+    "name": "Luxite alloy × 30",
     "type": 5,
     "param0": 0,
     "param1": 0,
@@ -281,7 +281,7 @@
   },
   {
     "id": 29,
-    "name": "840金币",
+    "name": "840 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -291,7 +291,7 @@
   },
   {
     "id": 30,
-    "name": "1650金币",
+    "name": "1,650 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -301,7 +301,7 @@
   },
   {
     "id": 31,
-    "name": "1500金币",
+    "name": "1,500 coins",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -311,7 +311,7 @@
   },
   {
     "id": 32,
-    "name": "2520金币",
+    "name": "2520 gold",
     "type": 2,
     "param0": 0,
     "param1": 0,
@@ -321,7 +321,7 @@
   },
   {
     "id": 33,
-    "name": "染料合约",
+    "name": "Dye Contract",
     "type": 5,
     "param0": 0,
     "param1": 0,

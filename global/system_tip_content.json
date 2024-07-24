@@ -4,863 +4,863 @@
     "name": "记忆的世界提示1",
     "type": 1,
     "image_name": "system_tips_activity",
-    "title": "记忆的世界提示1",
+    "title": "Tip 1 of the Memory World",
     "text_anchor": 2,
-    "text": "记忆的世界提示文本描述1"
+    "text": "Tip Text Description 1 of the Memory World"
   },
   {
     "id": 2,
     "name": "记忆的世界提示2",
     "type": 1,
     "image_name": "system_tips_activity_unitpiece",
-    "title": "记忆的世界提示2",
+    "title": "Tip 2 of the Memory World",
     "text_anchor": 2,
-    "text": "记忆的世界提示文本描述2"
+    "text": "Tip Text Description 2 of the Memory World"
   },
   {
     "id": 3,
     "name": "记忆的世界提示3",
     "type": 1,
     "image_name": "system_tips_activity_unitrank",
-    "title": "记忆的世界提示3",
+    "title": "Tip 3 of the Memory World",
     "text_anchor": 2,
-    "text": "记忆的世界提示文本描述3"
+    "text": "Tip Text Description 3 of the Memory World"
   },
   {
     "id": 4,
     "name": "记忆的世界提示4",
     "type": 1,
     "image_name": "system_tips_activity_weapon",
-    "title": "记忆的世界提示4",
+    "title": "Tip 4 of the Memory World",
     "text_anchor": 2,
-    "text": "1记忆的世界提示文本描述4\n1换行测试1\n2换行测试3"
+    "text": "1 World of memory tips text 4\n1 Line Break Test1\n2Line Break Test 3"
   },
   {
     "id": 5,
     "name": "记忆的世界提示5测试",
     "type": 2,
     "image_name": "system_tips_unit_box_1",
-    "title": "记忆的世界提示5",
+    "title": "World Memory Hint 5",
     "text_anchor": 2,
-    "text": "1记忆的世界提示文本描述4\n1换行测试1\n2换行测试3"
+    "text": "1 World Memory Hint Text Description 4\n1 Line Break Test 1\n2 Line Break Test 3"
   },
   {
     "id": 99,
     "name": "启动沙盒1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "命运的螺旋1",
+    "title": "Spiral of Destinies 1",
     "text_anchor": 2,
-    "text": "穿过「命运的螺旋」就能从乐土回到伊利亚。\n之后也可以随时回到乐土。"
+    "text": "You can return to Iria from Elysium by crossing the Spiral of Destinies.\nAnd you can also return to Elysium anytime afterward."
   },
   {
     "id": 100,
     "name": "启动沙盒2",
     "type": 2,
     "image_name": "system_tips_unit_box_1",
-    "title": "命运的螺旋2",
+    "title": "Spiral of Destinies 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>需要消耗命运之钥，开启命运的螺旋。\n<sprite=10>可以反复开启命运的螺旋，体验《铃兰之剑》不同的故事和结局。\n<sprite=10>每次开启的命运的螺旋时都可以选择信标和同伴。\n\n<size=28><style=C4>信标和同伴</style></size>\n<sprite=10>信标会决定本轮命运的螺旋的各种初始状态。\n<sprite=10>某些信标能令本轮命运的螺旋更容易走进特定的剧情路线。\n<sprite=10>携带的队友可以参加故事中的战斗，但不会影响剧情。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>The Key of Destiny is needed to enter the Spiral of Destinies.\n<sprite=10>You can enter Spiral of Destinies more than once to experience different stories and endings of Sword of Convallaria.\n<sprite=10>You can select beacons and companions when you start the Spiral.\n\n<size=28><style=C4>Beacons and Companions</style></size>\n<sprite=10>The beacon determines the various initial states of the Spiral.\n<sprite=10>Certain beacons can make it easier for the Spiral to follow a certain plot.\n<sprite=10>Companions that follow you into the cycle can participate in battles, but will not affect the story."
   },
   {
     "id": 101,
     "name": "乐土角色1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "乐土角色1",
+    "title": "Elysium Character 1",
     "text_anchor": 2,
-    "text": "所有与你曾经相遇或终将相遇的人，\n都有机会在「乐土」相聚。"
+    "text": "Everyone you have ever met or are destined to meet\nhas the opportunity to gather in the Elysium."
   },
   {
     "id": 102,
     "name": "乐土角色2",
     "type": 2,
     "image_name": "system_tips_unit_box_1",
-    "title": "乐土角色2",
+    "title": "Elysium Character 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>您可以在乐土收集「命运的螺旋」中登场的角色。\n<sprite=10>乐土角色和「命运的螺旋」里的角色彼此独立，不会互相影响。\n\n<size=28><style=C4>和命运的螺旋之间的差异</style></size>\n<sprite=10>乐土角色一旦加入，就会永远留在团队里。\n<sprite=10>无论命运的螺旋中发生什么样的变故，都不会波及乐土角色。\n<sprite=10>乐土角色的培养与命运的螺旋无关。\n<sprite=10>部分功能随着愚者的旅程推进而逐渐解锁。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>In Elysium, you can collect characters that appeared in Spiral of Destinies.\n<sprite=10>Characters in Elysium and Spiral of Destinies are independent of each other.\n\n<size=28><style=C4>Differences with Spiral of Destinies</style></size>\n<sprite=10>The characters in Elysium will stay with the team forever once they join.\n<sprite=10>No matter what happens to the characters in Spiral of Destinies, the ones in Elysium will not be affected.\n<sprite=10>Character progression in Elysium is not carried over to the Spiral of Destinies.\n<sprite=10>Some features are unlocked as you progress through The Fool's Journey."
   },
   {
     "id": 111,
     "name": "乐土角色升级1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "乐土角色升级",
+    "title": "Elysium Character Level-up 1",
     "text_anchor": 2,
-    "text": "消耗公共经验可以令乐土角色快速升级。"
+    "text": "The Elysium Character can quickly level up by consuming Common Exp."
   },
   {
     "id": 112,
     "name": "乐土角色升级2",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "乐土角色升级2",
+    "title": "Elysium Character Level-up 2",
     "text_anchor": 2,
-    "text": "注意，乐土角色的等级不可以超过旅人等级。\n为了让角色变得更强大，尽快提升旅人等级吧。"
+    "text": "Attention: the Elysium Character Level must be lower than the Voyager Level.\nIn order to make the character more powerful, upgrade the Voyager Level as soon as possible."
   },
   {
     "id": 121,
     "name": "武器装备1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "武器装备1",
+    "title": "Weapons 1",
     "text_anchor": 2,
-    "text": "装备武器可以提升属性。\n某些武器还带有被动技能。"
+    "text": "Equipping weapons will boost character stats.\nCertain weapons possess [Innate Skills] to further increase their power."
   },
   {
     "id": 131,
     "name": "进阶1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "进阶1",
+    "title": "Rank-up 1",
     "text_anchor": 2,
-    "text": "提升角色阶级，学习角色专属的技能。"
+    "text": "Rank-up the characters to learn exclusive skills of the characters."
   },
   {
     "id": 132,
     "name": "进阶2",
     "type": 2,
     "image_name": "system_tips_unit_rkup_1",
-    "title": "进阶2",
+    "title": "Rank-up 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>进阶可以提升角色的基础属性。\n<sprite=10>进阶的上限受角色等级限制。\n\n<size=28><style=C4>学习技能</style></size>\n<sprite=10>进阶到某些节点时，可以从2个技能当中选1个学习。\n<sprite=10>选择不同的进阶技能，可以获得不同的额外属性加成。\n<sprite=10>错过的技能可以借助道具「领悟之力」来补充学习。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Characters’ attributes can be improved by Rank-up.\n<sprite=10>The Rank-up cap is based on the character level.\n\n<size=28><style=C4>Learning Skills</style></size>\n<sprite=10>Upon reaching certain nodes, you can pick one from two skills.\n<sprite=10>Different Rank-up skills grant different Attribute bonuses.\n<sprite=10>Missed skills can be learned by using Castalia."
   },
   {
     "id": 141,
     "name": "交错的世界1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "交错的世界1",
+    "title": "Crossing Worlds 1",
     "text_anchor": 2,
-    "text": "每天挑战「交错的世界」，\n可高效获取各种资源。"
+    "text": "You can get various resources\nvia challenging the [Crossing Worlds] evey day."
   },
   {
     "id": 142,
     "name": "交错的世界2",
     "type": 2,
     "image_name": "system_tips_activity_quest",
-    "title": "交错的世界2",
+    "title": "Crossing Worlds 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>「交错的世界」包含多种类型的关卡，胜利可获得各种奖励。\n\n<size=28><style=C4>次数限制和高额奖励</style></size>\n<sprite=10>部分关卡有每日通关次数限制。挑战失败不会消耗通关次数。\n<sprite=10>部分关卡有每日高额奖励次数，次数内可获得格外丰厚的报酬。\n<sprite=10>通关次数限制和高额奖励次数都会在每天00:00刷新。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>There are various stages in Crossing Worlds, and clearing the stages will earn you various rewards.\n\n<size=28><style=C4>Attempts and Extra Reward</style></size>\n<sprite=10>Some stages have a daily attempt limit. Failing a stage does not consume the attempt.\n<sprite=10>Some stages have daily Extra Reward chances. You can receive more rewards as long as the Extra Reward chances are not depleted.\n<sprite=10>Both the Attempt limit and the Extra Reward limit reset at 00:00 a.m. each day."
   },
   {
     "id": 143,
     "name": "交错的世界3",
     "type": 2,
     "image_name": "system_tips_activity_quest",
-    "title": "交错的世界3",
+    "title": "Crossing Worlds 3",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>代行作战</style></size>\n<sprite=10>通关【愚者的旅程】2-15后，即可解锁代行。\n<sprite=10>团长可以选择满足代行条件的角色，前往【交错的世界】进行代行作战，并获得相应奖励。\n<sprite=10>每名角色只能同时参与1个代行队伍。"
+    "text": "<size=28><style=C4>Sweep Combat</style></size>\n<sprite=10>Sweep is unlocked after clearing Stage 2-15 of [The Fool's Journey]. \n<sprite=10>The Leader can select a character that meets the Sweep requirements to fight for you in the Crossing Worlds, and then earn corresponding rewards.\n<sprite=10>Each character can only participate in 1 sweep team simultaneously."
   },
   {
     "id": 151,
     "name": "角色升星1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "角色升星1",
+    "title": "Character Star Up 1",
     "text_anchor": 2,
-    "text": "升星将大幅加强角色个性效果。\n需要消耗同名角色记忆。"
+    "text": "Trait effects can be greatly strengthened by increasing the Star Level.\nMemories of the same-name character are needed."
   },
   {
     "id": 152,
     "name": "乐土角色升星",
     "type": 2,
     "image_name": "system_tips_unit_starup",
-    "title": "角色升星2",
+    "title": "Character Star Up 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>通过任何途径获得重复乐土角色时，都会自动转化为同名记忆。\n<sprite=10>可以通过记忆寻回或者邂逅，获取更多角色记忆。\n<sprite=10>关卡首次通关时，不消耗剩余次数。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Upon obtaining a duplicate Elysium character through any means, the character will be automatically converted into Memories of that character.\n<sprite=10>You can acquire more Character Memories from Memory Retrieval or Summon.\n<sprite=10>First clear does not consume challenge attempts."
   },
   {
     "id": 161,
     "name": "武器升级1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "装备强化1",
+    "title": "Gear Enhancement 1",
     "text_anchor": 2,
-    "text": "乐土上的装备可以通过升级来提高基础属性。"
+    "text": "The gear in Elysium can be leveled up to increase its attributes."
   },
   {
     "id": 162,
     "name": "武器升级2",
     "type": 2,
     "image_name": "system_tips_weapon_lvup",
-    "title": "装备强化2",
+    "title": "Gear Enhancement 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>使用「光辉冶粉」可为装备升级。\n<sprite=10>达到一定等级后，需使用「光辉铸铁」为装备突破等级上限。\n<sprite=10>装备升星可以大幅提高装备性能。需要消耗同名装备。\n<sprite=10>使用「刻印」道具可以为装备赋予刻印效果与随机属性。\n<sprite=10>当武器和装具同时具有刻印效果时，可组合激活刻印共鸣。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Radiant Powder can be used to advance gear.\n<sprite=10>After reaching a certain level, you need to use Radiant Ore to increase the level cap of your gear.\n<sprite=10>Gear can be greatly improved by Staring Up. However, it requires consuming same-name gear.\n<sprite=10>You can use Engraving to add engraving effects and random attributes to gear.\n<sprite=10>When both the weapon and trinket have engraving effects, they can be combined to activate Engraving Resonance."
   },
   {
     "id": 171,
     "name": "实战训练1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "实战训练1",
+    "title": "Level-up Training 1",
     "text_anchor": 2,
-    "text": "参加「实战训练」可获得大量的角色经验。"
+    "text": "Clear stages in [Level-up Training] to get plenty of Common Exp."
   },
   {
     "id": 172,
     "name": "实战训练2",
     "type": 2,
     "image_name": "system_tips_activity_exp",
-    "title": "实战训练2",
+    "title": "Level-up Training 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>可以获得公共经验，用于乐土角色升级。\n<sprite=10>每天有1次高额奖励的机会。\n<sprite=10>关卡首次通关时，不消耗高额奖励。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Obtain Common Exp to level up Elysium characters.\n<sprite=10>You have 1 Extra Rewards chance per day.\n<sprite=10>First clear does not consume the Extra Rewards chance."
   },
   {
     "id": 181,
     "name": "武器突破",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "武器突破",
+    "title": "Weapon Breakthrough",
     "text_anchor": 2,
-    "text": "装备升到一定等级时，需要使用「光辉铸铁」来突破上限。"
+    "text": "[Radiant Ore] is needed for breakthrough after a piece of gear reaches a certain level"
   },
   {
     "id": 191,
     "name": "光辉锻铸1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "光辉锻铸1",
+    "title": "Radiant Forging 1",
     "text_anchor": 2,
-    "text": "参加「光辉锻铸」可获得大量的武器强化素材。"
+    "text": "Clear stages in [Radiant Forging] to get plenty of weapon enhancement materials."
   },
   {
     "id": 192,
     "name": "光辉锻铸2",
     "type": 2,
     "image_name": "system_tips_activity_forge",
-    "title": "光辉锻铸2",
+    "title": "Radiant Forging 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>可以获得光辉冶粉、光辉铸铁，用于乐土武器升级与突破。\n<sprite=10>光辉锻铸后期关卡会掉落刻印匣，用于武器刻印。\n<sprite=10>每天有1次高额奖励的机会。\n<sprite=10>关卡首次通关时，不消耗高额奖励。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can obtain Radiant Powder and Radiant Ore, which can be used to advance and breakthrough Elysium weapons.\n<sprite=10>At higher difficulty levels, stages in Radiant Forging will drop engraving chests containing materials for weapon engraving.\n<sprite=10>You have 1 Extra Rewards chance per day.\n<sprite=10>First clear does not consume the Extra Rewards chance."
   },
   {
     "id": 201,
     "name": "天赋学习",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "天赋",
+    "title": "Talent",
     "text_anchor": 2,
-    "text": "学习天赋可以解锁乐土战术指令，\n以及提升各职业攻防属性。\n需要消耗珍贵资源「星之微粒」。"
+    "text": "You can unlock Elysium Tactical Skills and increase the ATK and DEF of all classes by learning talents.\nHowever, it requires a valuable resource <sprite=10>Star Particles."
   },
   {
     "id": 211,
     "name": "记忆寻回1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "记忆寻回1",
+    "title": "Memory Retrieval 1",
     "text_anchor": 2,
-    "text": "参加「记忆寻回」可获得角色的记忆。"
+    "text": "Clear stages in [Memory Retrieval] to get Character Memories"
   },
   {
     "id": 212,
     "name": "记忆寻回2",
     "type": 2,
     "image_name": "system_tips_activity_frgm",
-    "title": "记忆寻回2",
+    "title": "Memory Retrieval 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>记忆寻回是非常珍稀的挑战，每天只能通关1次。\n<sprite=10>可获取的记忆类型取决于上阵角色。\n<sprite=10>关卡难度越高，所获取的碎片总量越多。\n<sprite=10>每个上阵角色最多获取3个记忆碎片。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Memory Retrieval is a rare challenge and can only be cleared once a day. \n<sprite=10>The type of memories you can obtain depends on the character in battle. \n<sprite=10>The higher the difficulty of the stage, the more the shards acquired.\n<sprite=10>For each deployed character, up to 3 Memory Shards can be collected."
   },
   {
     "id": 221,
     "name": "荣耀之战1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "荣耀之战1",
+    "title": "Clash 1",
     "text_anchor": 2,
-    "text": "参加荣耀之战，\n可以通过进攻其他团长创造的基地，\n来赢得赛季奖励。"
+    "text": "You can earn seasonal rewards\nby participating in the Clash\nand attacking other players' bases."
   },
   {
     "id": 222,
     "name": "荣耀之战2",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "荣耀之战2",
+    "title": "Clash 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>参与荣耀之战，可获得活跃度，并完成赛季任务。\n<sprite=10>累计荣耀值提高段位，获取更多段位奖励。\n<sprite=10>完成赛季任务可获取活跃度，换取丰厚赛季奖励。\n<sprite=10>新赛季开启时，上赛季失落的荣光会自动转换成乐土币。\n\n<size=28><style=C4>每日奖励规则</style></size>\n<sprite=10>战斗中击杀敌人或摧毁敌方设施，可获得失落的荣光，用于升级基地或设施。\n<sprite=10>每场战斗可获取失落的荣光的上限为100。\n<sprite=10>每日可获取失落的荣光上限为300，有5次挑战次数。\n<sprite=10>战斗中，可随时退出，退后依然可以获得失落的荣光。\n<sprite=10>防守其他团长的进攻，也可以获得失落的荣光与荣耀值。\n<sprite=10>新赛季开启时，会根据上赛季段位下降一定积分。"
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>Participate in Clash to earn Activity Points and complete season quests.\n<sprite=10>Accumulate Glory to rank up for more rewards.\n<sprite=10>Complete season quests to earn Activity Points and exchange for bountiful season rewards.\n<sprite=10>At the start of a new season, the Merits from the last season will be automatically converted into Elysium Coins.\n\n<size=28><style=C4>Daily Reward Rules</style></size>\n<sprite=10>Defeat enemies or destroy enemy facilities in battle to earn Merits, which can be used for base and facility upgrades.\n<sprite=10>You can earn up to 100 Merits in a battle.\n<sprite=10>You can earn up to 300 Merits per day with 5 challenge attempts.\n<sprite=10>You can quit the battle at any time and still earn Merits.\n<sprite=10>Defending against other leaders' attacks can also grant you Merits and Glory.\n<sprite=10>At the start of a new season, your points will be deducted based on your division in the last season."
   },
   {
     "id": 231,
     "name": "星辰试炼",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "星辰试炼1",
+    "title": "Star Trial I",
     "text_anchor": 2,
-    "text": "参加「星辰试炼」可获得天赋升级素材。"
+    "text": "Clear stages in [Star Trial] to get talent level-up materials."
   },
   {
     "id": 232,
     "name": "星辰试炼",
     "type": 2,
     "image_name": "system_tips_activity_tech",
-    "title": "星辰试炼2",
+    "title": "Star Trial II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>通关星辰试炼，可以获取星之微粒。\n<sprite=10>选择不同试炼，可以获得对应天赋的升级材料。\n<sprite=10>每天有1次高额奖励的机会。\n<sprite=10>关卡首次通关时，不消耗高额奖励。\n\n<size=28><style=C4>每日轮替</style></size>\n<sprite=10>每周一、四，开启星辰试炼1高额奖励；\n<sprite=10>每周二、五，开启星辰试炼2高额奖励；\n<sprite=10>每周三、六，开启星辰试炼3高额奖励。\n<sprite=10>每周日，开启所有试炼，同时关卡共享高额奖励次数。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can get Particles of Star after clearing the Star Trial.\n<sprite=10>You can get corresponding materials for upgrading talents via selecting different trials.\n<sprite=10>You have 1 chance of high rewards per day.\n<sprite=10>The Great Bonus will not be consumed when the stage is cleared for the first time.\n\n<size=28><style=C4>Daily Trials</style></size>\n<sprite=10>Star Trial 1 (High Rewards) is open every Monday and Thursday;\n<sprite=10>Star Trial 2 (High Rewards) is open every Tuesday and Friday;\n<sprite=10>Star Trial 3 (High Rewards) is open every Wednesday and Saturday.\n<sprite=10>All trials are open every Sunday, while stages share high reward times."
   },
   {
     "id": 241,
     "name": "神兵试炼1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "神兵试炼1",
+    "title": "Weaponry Trial I",
     "text_anchor": 2,
-    "text": "参加「神兵试炼」可获得武器或装具。"
+    "text": "Clear [Weaponry Trial] stages to get weapons or trinkets."
   },
   {
     "id": 242,
     "name": "神兵试炼2",
     "type": 2,
     "image_name": "system_tips_activity_weapon",
-    "title": "神兵试炼2",
+    "title": "Weaponry Trial II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>神兵试炼是非常珍稀的挑战，每天只能通关1次。\n<sprite=10>在神兵试炼中，可以选择不同试炼关卡，获取不同的武器。\n<sprite=10>关卡首次通关时，不消耗剩余次数。\n\n<size=28><style=C4>每日轮替</style></size>\n<sprite=10>每周一、四，开启神兵试炼1；\n<sprite=10>每周二、五，开启神兵试炼2；\n<sprite=10>每周三、六，开启神兵试炼3。\n<sprite=10>每周日，开启所有关卡，同时关卡共享挑战次数。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Weaponry Trial can only be cleared once per day.\n<sprite=10>In Weaponry Trial, you can obtain different weapons by clearing different stages.\n<sprite=10>Attempts are not consumed when you clear a stage for the first time.\n\n<size=28><style=C4>Daily Trials</style></size>\n<sprite=10>Weaponry Trial I is available every Monday and Thursday;\n<sprite=10>Weaponry Trial II is available every Tuesday and Friday;\n<sprite=10>Weaponry Trial III is available every Wednesday and Saturday.\n<sprite=10>All stages are available every Sunday, with shared Attempts."
   },
   {
     "id": 251,
     "name": "护石装备",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "塔罗之语装备",
+    "title": "Tarot Whisper",
     "text_anchor": 2,
-    "text": "塔罗之语是特殊的装备品，\n具有相当强力的技能。"
+    "text": "The Tarot Whisper serves as the special gear\nwith powerful skills."
   },
   {
     "id": 261,
     "name": "代行作战",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "代行作战",
+    "title": "Sweep Combat",
     "text_anchor": 2,
-    "text": "团长可以选择满足代行条件的角色，前往【交错的世界】进行代行作战，并获得相应奖励"
+    "text": "You can deploy characters that meet the conditions to fight in the [Crossing Worlds] for you and gain the corresponding reward."
   },
   {
     "id": 271,
     "name": "塔罗遗力",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "塔罗遗力1",
+    "title": "Tarot Residual I",
     "text_anchor": 2,
-    "text": "通关「塔罗遗力」可获得塔罗之语（系列Ⅰ）。"
+    "text": "Clear [Tarot Residual] stages to get Tarot Whispers (Series I)."
   },
   {
     "id": 272,
     "name": "塔罗遗力",
     "type": 2,
     "image_name": "system_tips_activity_charm",
-    "title": "塔罗遗力2",
+    "title": "Tarot Residual II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>通关塔罗遗力，可以获取塔罗之语（系列Ⅰ）。\n<sprite=10>选择不同关卡，可以获得不同类型的塔罗之语（系列Ⅰ）。\n<sprite=10>每天有1次高额奖励的机会。\n<sprite=10>关卡首次通关时，不消耗高额奖励。\n\n<size=28><style=C4>每日轮替</style></size>\n<sprite=10>每周一、四，开启塔罗遗力1；\n<sprite=10>每周二、五，开启塔罗遗力2；\n<sprite=10>每周三、六，开启塔罗遗力3。\n<sprite=10>每周日，开启所有关卡，同时关卡共享高额奖励次数。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can get Tarot Whispers by clearing stages of Tarot Residual.\n<sprite=10>Each stage series only drops specific Tarot Whispers.\n<sprite=10>You have 1 Extra Reward chance per day.\n<sprite=10>The Extra Reward chance is not consumed when clearing a stage for the first time.\n\n<size=28><style=C4>Daily Trials</style></size>\n<sprite=10>Tarot Residual I is available on every Monday and Thursday;\n<sprite=10>Tarot Residual II is available on every Tuesday and Friday;\n<sprite=10>Tarot Residual III is available every Wednesday and Saturday.\n<sprite=10>All stages are available on every Sunday, with shared Extra Reward chances."
   },
   {
     "id": 281,
     "name": "护石强化1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "塔罗之语强化1",
+    "title": "Tarot Whisper Enhancement 1",
     "text_anchor": 2,
-    "text": "塔罗之语可以用「塔罗精粹」来强化升级。\n升级后有机会获得各种意想不到的新属性加成。"
+    "text": "You can level up Tarot Whispers using Tarot Essence.\nNew attributes will be granted after leveling up."
   },
   {
     "id": 282,
     "name": "护石强化2",
     "type": 2,
     "image_name": "system_tips_charm_lvup_1",
-    "title": "塔罗之语强化2",
+    "title": "Tarot Whisper Enhancement 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>您可以在仓库里把不需要的塔罗之语拆解掉。\n<sprite=10>拆解塔罗之语获得的「塔罗精粹」可用于给其它塔罗之语升级。\n\n<size=28><style=C4>升级规律</style></size>\n<sprite=10>旅人等级会影响塔罗之语最大等级。\n<sprite=10>稀有度不同的塔罗之语，最终的等级上限会不同。\n<sprite=10>传说最多60级、史诗最多45级、精英最多30级、普通最多15级。\n<sprite=10>每当升到15、30、45、60级时，都会获得额外的单项属性加成。\n<sprite=10>每当升到20、35、50级时，可以预览下一次属性加成效果。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can break down extra Tarot Whispers in your inventory.\n<sprite=10>The Tarot Essence gained by breaking down the Tarot Whisper can be used to level up other Tarot Whispers.\n\n<size=28><style=C4>Levelling Up</style></size>\n<sprite=10>Tarot Whisper level cap is based on the Voyager Level.\n<sprite=10>Different rarities of Tarot Whisper have different level caps.\n<sprite=10>Legendary ones can reach up to Lv. 60, Epic to Lv. 45, Rare to Lv. 30, and Common to Lv.15.\n<sprite=10>Attribute bonus will be activated when reaching Lv.15, Lv.30, Lv.45, and Lv.60.\n<sprite=10>The next Attribute bonus can be previewed when reaching Lv.20, Lv.35, and Lv.50."
   },
   {
     "id": 291,
     "name": "命运印记",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "命运印记1",
+    "title": "Destiny Traces 1",
     "text_anchor": 2,
-    "text": "每一轮命运的螺旋，\n都会在乐土上留下不灭的印记。 "
+    "text": "Every cycle in Spiral of Destinies\nleaves a permanent mark on Elysium."
   },
   {
     "id": 292,
     "name": "命运印记",
     "type": 2,
     "image_name": "system_tips_album",
-    "title": "命运印记2",
+    "title": "Destiny Traces 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>这里展示您在命运的螺旋中完成的重要事件和成绩。\n<sprite=10>在达成一些新记录时，可以领取相应的乐土专用奖品。\n<sprite=10>这些记录会永远保存，不会随故事重启而重置。\n\n<size=28><style=C4>见闻等级</style></size>\n<sprite=10>命运的螺旋中的各种大小行为，都会在章节结束时转化为见闻。\n<sprite=10>积累一定的见闻即可提升见闻等级，并获得丰厚的奖励。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>The events and achievements you completed in Spiral of Destinies are displayed here. \n<sprite=10>Once a new record is achieved, you can claim corresponding rewards that can be used in the Elysium. \n<sprite=10>These records are permanent and won't reset when a new story begins. \n\n<size=28><style=C4>Knowledge Level</style></size>\n<sprite=10>All events in Spiral of Destinies will be converted into Knowledge at the end of the Chapter. \n<sprite=10>Increase your Knowledge Level by accumulating Knowledge to earn valuable rewards."
   },
   {
     "id": 301,
     "name": "装备升星",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "武器升星",
+    "title": "Star Level Up of Weapon",
     "text_anchor": 2,
-    "text": "装备升星可以大幅提高装备性能。\n需要消耗同名装备。"
+    "text": "Gear stats can be greatly improved by Star Level Up.\nNamesake gear is needed."
   },
   {
     "id": 311,
     "name": "征服之塔1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "征服之塔1",
+    "title": "Tower of Conquest 1",
     "text_anchor": 2,
-    "text": "这里是乐土上最具挑战的战场，\n同时也有着最丰厚的奖励。"
+    "text": "Elysium's most challenging battlefield. Few survive...\nbut those that do, shall be generously rewarded."
   },
   {
     "id": 312,
     "name": "征服之塔2",
     "type": 2,
     "image_name": "system_tips_activity_weekly",
-    "title": "征服之塔2",
+    "title": "Tower of Conquest 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ 基础规则</style></size>\n<sprite=10>每周获得指定数量的高塔徽记，可领取周奖励。\n<sprite=10>首次通关1层时可领取该层宝箱，提高1级层级奖励等级，解锁更多层级奖励。\n<sprite=10>层级奖励中的征服者铭牌可以在商店中兑换资源。\n<sprite=10>如领取了低等级的层级奖励，可在下一层宝箱中领取差额。\n<sprite=10>挑战失败时会扣除挑战次数，每30分钟恢复1点。\n\n<size=28><style=C4>■ 刷新规则</style></size>\n<sprite=10>周刷新后，「环境」、「关卡突变」、敌军种类会随之变化。\n<sprite=10>以最高记录层数为准，当周如未通关该层任意关卡，则刷新后回退2层；当周通关过任意关卡则回退1层。\n<sprite=10>回退至最高记录层数-2层，至多回退至征服之塔第2层。\n<sprite=10>当通关10层全部关卡后，刷新时至多回退到9层。"
+    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>You can claim weekly rewards by collecting a certain number of Tower Emblems every week.\n<sprite=10>When a floor is cleared for the first time, you can claim the chest for this floor, increase the Level Rewards by 1 level, and unlock more Level Rewards.\n<sprite=10>The Conqueror's Insignia in the Level Rewards can be used to exchange for resources in the shop.\n<sprite=10>If you have claimed the Level Rewards for a lower floor, the chest of the next floor will contain the reward difference.\n<sprite=10>Failing a challenge will deduct one challenge attempt, with one attempt recovered every 30 minutes.\n\n<size=28><style=C4>■ Refresh Rules</style></size>\n<sprite=10>After the weekly refresh, the [Environment], [Stage Mutation], and enemy types will change accordingly.\n<sprite=10>Based on your highest recorded floor, if you fail to clear any stage on that floor during the week, you will drop 2 floors after the refresh; if you clear any stage, you will drop 1 floor.\n<sprite=10>You will drop to the highest recorded floor minus 2 floors, but no lower than Floor 2 of the Tower of Conquest.\n<sprite=10>After clearing all stages on Floor 10, you will drop to Floor 9 at most after the refresh."
   },
   {
     "id": 500,
     "name": "拖拽上阵",
     "type": 3,
     "image_name": "system_tips_battle_start",
-    "title": "拖拽上阵",
+    "title": "Drag for Layout",
     "text_anchor": 2,
-    "text": "拖动角色至上阵位即可完成排兵布阵"
+    "text": "Drag characters to the battlefield for layout"
   },
   {
     "id": 501,
     "name": "克制关系",
     "type": 3,
     "image_name": "system_tips_battle_occupation",
-    "title": "克制关系",
+    "title": "Role Counters",
     "text_anchor": 2,
-    "text": "职业间存在克制关系，克制的单位会造成更多伤害。\n行动时会有标识提示此次攻击是否存在克制关系。"
+    "text": "Each role has a specific counter. Units deal more DMG against countered roles. \nThe role counter will be visible during attack confirmation."
   },
   {
     "id": 502,
     "name": "信息面板",
     "type": 3,
     "image_name": "system_tips_battle_character",
-    "title": "信息面板",
+    "title": "Info Panel",
     "text_anchor": 2,
-    "text": "通过点击选中单位后的简略人物信息面板，可以查看人物详情。\n确认不同单位的角色个性与技能，能够为通过关卡提供帮助。"
+    "text": "You can view the detailed information of the selected unit by tapping the brief information panel. \nAfter understanding traits and skills of different units, you can clear stages more easily."
   },
   {
     "id": 503,
     "name": "高度优势",
     "type": 3,
     "image_name": "system_tips_battle_height",
-    "title": "高度优势",
+    "title": "Height Advantage",
     "text_anchor": 2,
-    "text": "当存在2以上的高度优势时，能够获得进攻与防御的加成。\n行动后您可以在右侧的提示中确认此次行动是否触发了高地优势。"
+    "text": "You can gain ATK and DEF bonuses when the height advantage is more than 2. \nYou can confirm whether the height advantage has been triggered by this turn in the right reminder."
   },
   {
     "id": 504,
     "name": "战术技能01",
     "type": 3,
     "image_name": "system_tips_battle_tactics01",
-    "title": "战术指令",
+    "title": "Tactical Skill",
     "text_anchor": 2,
-    "text": "可通过右下角的战术按钮使用战术指令。\n在战斗准备阶段，则可以通过战术指令按钮进行战术指令的调配。"
+    "text": "Use Tactical Skills by pressing the Tactics button in the lower right.\nIn battle preparation, you can assign Tactical Skills using the Tactics button."
   },
   {
     "id": 505,
     "name": "战术技能02",
     "type": 3,
     "image_name": "system_tips_battle_tactics02",
-    "title": "战术点",
+    "title": "TP",
     "text_anchor": 2,
-    "text": "释放战术指令需要消耗战术点数。\n经过回合或触发克制、背击等特定战斗行为会少量恢复战术点数。"
+    "text": "Using Tactical Skill costs TP.\nTP slowly recovers after each turn or after triggering Counters or Back Attacks."
   },
   {
     "id": 506,
     "name": "沙盒训练1",
     "type": 2,
     "image_name": "system_tips_sandbox_exp_training",
-    "title": "战斗训练",
+    "title": "Battle Training 1",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>「战斗经验训练」消耗一定回合数可获得角色升级所需经验。\n<sprite=10>「职业技能训练」消耗一定回合数随机产生三个技能，可选择其中一个习得。职业技能获得上限可以通过设施升级提升。\n<sprite=10>「特殊训练项目」选择适合他的特训项目，消耗一定回合数即可习得。特殊训练项目方案可在委托、随机事件、随机商店等途径获得。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>[Exp Training] Gain the EXP required for character level-up by completing a certain number of turns.\n<sprite=10>[Class Skill Training] Complete a certain number of turns to randomly generate 3 skills and choose to learn one of them. The skill training cap can be increased through facility upgrades.\n<sprite=10>[Tailored Training Program] Choose Tailored Training Programs suitable for the characters, and learn by completing a certain number of turns. Tailored Training Programs can be unlocked through Quests, Random Events, Random Shops, etc."
   },
   {
     "id": 507,
     "name": "沙盒训练2",
     "type": 1,
     "image_name": "system_tips_sandbox_skill_training",
-    "title": "技能训练",
+    "title": "Skill Training",
     "text_anchor": 2,
-    "text": "产生三个技能，可选择其中一个获得。"
+    "text": "You can select one from the three skills."
   },
   {
     "id": 508,
     "name": "沙盒训练3",
     "type": 1,
     "image_name": "system_tips_sandbox_sp_training",
-    "title": "特训",
+    "title": "Tailored Training",
     "text_anchor": 2,
-    "text": "选择指定特训项目，消耗一定周数即可习得。"
+    "text": "You can select the designated special item and learn it via training about certain weeks."
   },
   {
     "id": 509,
     "name": "沙盒锻造1",
     "type": 2,
     "image_name": "system_tips_sandbox_blueprint",
-    "title": "锻造",
+    "title": "Forging",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>「图纸锻造」消耗图纸和材料进行装备生产，可以获得的装备与锻造消耗由选择的图纸决定。\n<sprite=10>「常规锻造」：仅消耗材料进行常规装备生产。\n<sprite=10>「材料锻造」：可以生产出指定的锻造所需材料。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>[Blueprint Forging]: Consumes blueprints and materials to produce gear. The gear and forging costs are determined by the selected blueprint.\n<sprite=10>[Normal Forging]: Consumes materials only to produce standard gear.\n<sprite=10>[Material Forging]: Produces the specified forging materials."
   },
   {
     "id": 510,
     "name": "沙盒锻造2（暂隐藏，需重做）",
     "type": 1,
     "image_name": "system_tips_sandbox_forge",
-    "title": "定制锻造",
+    "title": "Custom Forging",
     "text_anchor": 2,
-    "text": "可获得的装备由锻造方案决定。可以添加晶石，提高大成功概率。"
+    "text": "The result is up to the forging plan. Luxite can be added to increase the huge success rate."
   },
   {
     "id": 511,
     "name": "晶石工坊1",
     "type": 2,
     "image_name": "system_tips_sandbox_workshop",
-    "title": "晶石工坊",
+    "title": "Luxite Workshop",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n完成实验任务即可获得实验次数，实验完成可获得资源收益。\n其中实验任务包括：\n<sprite=10>在战斗中实验指定的战术技能。\n<sprite=10>提供一定量的资源。\n<sprite=10>委派特定职业的角色帮忙。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\nExperiment Count can be obtained by completing experiment missions, which yield resources.\nThe experiment missions including:\n<sprite=10>Experimenting specified Tactical Skills in battle.\n<sprite=10>Submitting certain amounts of resources.\n<sprite=10>Assigning characters of specific classes to help."
   },
   {
     "id": 512,
     "name": "沙盒收集册1",
     "type": 2,
     "image_name": "system_tips_album",
-    "title": "命运印记",
+    "title": "Destiny Traces",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>游玩命运的螺旋，提升见闻等级，领取丰厚奖励。\n<sprite=10>这里展示您在《铃兰之剑》故事中完成的重要事件和成绩。\n<sprite=10>在达成一些新记录时，可以领取相应的乐土专用奖品。\n<sprite=10>这些记录会永远保存，不会随故事重启而重置。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Play the Spiral of Destinies to increase your Knowledge Level and gain abundant rewards.\n<sprite=10>The important events and achievements you have accomplished in \"Sword of Convallaria\" will be displayed here.\n<sprite=10>Upon achieving some new records, you can claim the corresponding special rewards in Elysium.\n<sprite=10>These records are permanent and will not reset when the story restarts."
   },
   {
     "id": 513,
     "name": "沙盒收集册2",
     "type": 1,
     "image_name": "system_tips_tour_level",
-    "title": "见闻等级",
+    "title": "Knowledge Level",
     "text_anchor": 2,
-    "text": "提升见闻等级，领取奖励。"
+    "text": "You can claim rewards after increasing Knowledge Level."
   },
   {
     "id": 514,
     "name": "周目科技盘1",
     "type": 2,
     "image_name": "system_tips_launch_level",
-    "title": "航迹",
+    "title": "Astral Path",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>每次通关命运的螺旋，都能获取命运的微光。\n<sprite=10>消耗命运的微光，可激活微光之径中的航迹。\n<sprite=10>随着航迹的成长，您可以在命运的螺旋中体验到更丰富的角色、技能，还有可能解锁一些有趣的隐藏事件。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can earn Astral Tears by clearing Spiral of Destinies.\n<sprite=10>Tracks in the Astral Path can be activated by consuming Astral Tears.\n<sprite=10>As your Track grows, you can unlock more characters, skills, and even some interesting hidden events in Spiral of Destinies."
   },
   {
     "id": 515,
     "name": "周目科技盘2",
     "type": 1,
     "image_name": "system_tips_launch_tech",
-    "title": "基础规则",
+    "title": "Basic Rules",
     "text_anchor": 2,
-    "text": "消耗命运的微光，可激活微光之径中的航迹。"
+    "text": "You can activate nodes in the Astral Path by using Astral Tears."
   },
   {
     "id": 516,
     "name": "启动沙盒2",
     "type": 1,
     "image_name": "system_tips_launch_beacon",
-    "title": "命运之门",
+    "title": "Destiny Gate",
     "text_anchor": 2,
-    "text": "开启时都可以选择一个信标，它将决定本轮命运的螺旋的状态。"
+    "text": "You can select one beacon when starting, which determines this round of Spiral of Destinies' state."
   },
   {
     "id": 517,
     "name": "进阶试炼",
     "type": 2,
     "image_name": "system_tips_activity_rkup",
-    "title": "进阶试炼",
+    "title": "Rank-up Trial",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>通关进阶试炼，可以获取乐土角色的进阶素材。\n<sprite=10>选择不同关卡，可以获得对应不同职业的进阶素材。\n<sprite=10>每天有1次高额奖励的机会。\n<sprite=10>关卡首次通关时，不消耗高额奖励。\n\n<size=28><style=C4>每日轮替</style></size>\n<sprite=10>进阶试炼的所有关卡都全天开启，随时可以挑战。\n<sprite=10>但高额奖励对象会从周一到周五在5个职业当中轮替。\n<sprite=10>每周六、日，所有关卡都可享受高额奖励，且共享高额奖励次数。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can get rank-up materials for Elysium characters by clearing Rank-up Trials.\n<sprite=10>Choose different stages to obtain rank-up materials for different classes.\n<sprite=10>You have 1 Extra Rewards attempt per day.\n<sprite=10>The Extra Rewards attempt is not consumed when you clear a stage for the first time.\n\n<size=28><style=C4>Daily Trials</style></size>\n<sprite=10>All stages in Rank-up Trials are open all-day for challenge.\n<sprite=10>However, Extra Rewards stages rotate among the five roles from Monday to Friday.\n<sprite=10>On Saturdays and Sundays, all stages offer extra rewards, and the Extra Reward attempt is shared across all stages."
   },
   {
     "id": 518,
     "name": "交错的世界2",
     "type": 1,
     "image_name": "system_tips_activity_bonus",
-    "title": "高额奖励",
+    "title": "Extra Reward ",
     "text_anchor": 2,
-    "text": "消耗高额奖励次数，可以获得高额挑战奖励。"
+    "text": "You can receive extra items from stages by consuming Extra Reward chances."
   },
   {
     "id": 519,
     "name": "交错的世界3",
     "type": 1,
     "image_name": "system_tips_activity_limit",
-    "title": "剩余次数",
+    "title": "Remaining",
     "text_anchor": 2,
-    "text": "消耗次数进行挑战，失败后不会消耗次数。"
+    "text": "Challenging requires certain times, but if you fail, the consumed times will be returned."
   },
   {
     "id": 520,
     "name": "网游主线1",
     "type": 2,
     "image_name": "system_tips_main",
-    "title": "愚者的旅程",
+    "title": "The Fool's Journey",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>参与「愚者的旅程」可以解锁更多功能和「交错的世界」中系列关卡\n\n<size=28><style=C4>星级评价</style></size>\n<sprite=10>根据战斗中的表现，通关时会获得1~3星的评价。\n<sprite=10>当一个章节累计收集到一定星数时，可以解锁阶段性的宝箱。\n<sprite=10>某些关卡在达到3星后，会解锁更具挑战性的困难关。\n<sprite=10>挑战困难关卡和已通关的关卡时，不需要消耗存在之力。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Participate in [The Fool's Journey] to unlock more features and stages in [Crossing Worlds].\n\n<size=28><style=C4>Star Rating</style></size>\n<sprite=10>Based on your combat performance, you will receive a star rating of 1 to 3 stars.\n<sprite=10>Once you collect a certain number of stars in a chapter, milestone chests will be unlocked.\n<sprite=10>Once you achieve 3 stars in some stages, Hard Stages that are more challenging will be unlocked.\n<sprite=10>Challenging Hard Stages and cleared stages does not cost Endurance."
   },
   {
     "id": 521,
     "name": "网游主线2",
     "type": 1,
     "image_name": "system_tips_main_challenge",
-    "title": "愚者的旅程",
+    "title": "The Fool's Journey",
     "text_anchor": 2,
-    "text": "略带一些挑战性的关卡，需要在完成3星后解锁开放。"
+    "text": "Some challenging stages will be unlocked after reaching Star Level 3."
   },
   {
     "id": 531,
     "name": "乐土家园1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "乐土家园1",
+    "title": "Elysium Homeland 1",
     "text_anchor": 2,
-    "text": "可以在指定的区域自由摆放家具啦。\n区域外的一些特定物件也可以进行更换。\n留意各种限期活动，收集更多家具吧。"
+    "text": "You can freely place furniture in the designated area. \nSome specific objects outside the area can also be replaced. \nPay attention to various limited time events and collect more furniture."
   },
   {
     "id": 532,
     "name": "乐土家园2",
     "type": 2,
     "image_name": "system_tips_main_challenge",
-    "title": "乐土家园2",
+    "title": "Elysium Homeland 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>移动类家具</style></size>\n<sprite=10>移动类家具可以在指定的区域内自由摆放、平移、转向。\n<sprite=10>乐土的室内有一片家具摆放区。\n<sprite=10>一般来说，移动类家具的摆放更自由，适合用来设计更加个性化的家园布置。\n\n<size=28><style=C4>固定类家具</style></size>\n<sprite=10>固定类家具只能在若干个预设的位置进行自定义更换。\n<sprite=10>固定类家具不能移动、转向，并且无论如何都会有一件默认家具摆在预设位置。"
+    "text": "<size=28><style=C4>Moveable Furniture</style></size>\n<sprite=10>Moveable furniture can be freely placed, moved, and turned in the designated area. \n<sprite=10>Elysium has furniture placement areas indoors. \n<sprite=10>In general, movable furniture can be more freely placed and is suitable for designing a more personalized home. \n\n<size=28><style=C4>Immovable Furniture</style></size>\n<sprite=10>Immovable furniture can only be changed at predetermined positions. \n<sprite=10>Immovable furniture cannot be moved or rotated. Each Immovable Furniture position comes with starting furniture by default."
   },
   {
     "id": 533,
     "name": "乐土家园3",
     "type": 2,
     "image_name": "system_tips_main_challenge",
-    "title": "乐土家园3",
+    "title": "Elysium Home 3",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>邀请角色</style></size>\n<sprite=10>在布置家园的同时，您还可以邀请乐土角色站到指定的位置。\n<sprite=10>只能邀请已经在乐土邂逅到的角色。\n<sprite=10>触发了随机对话事件的角色，暂时不能邀请或撤下。\n\n<size=28><style=C4>角色的心境</style></size>\n<sprite=10>受到邀请站出来的角色， 每隔一定时间会获得一定的羁绊经验。\n<sprite=10>羁绊经验可用于在羁绊系统里提升羁绊等级。\n<sprite=10>温馨等级越高，受邀角色获得羁绊经验的速度越快。\n<sprite=10>收集家具可以提高家园的温馨等级。"
+    "text": "<size=28><style=C4>Invite Characters</style></size>\n<sprite=10>In addition to decorating your home, you can also invite characters to stand in specific positions.\n<sprite=10>You can only invite characters you have obtained through Summons.\n<sprite=10>Characters in random dialog events cannot be invited or sent off during the events.\n\n<size=28><style=C4>Characters' State of Mind</style></size>\n<sprite=10>Invited characters gain Bond EXP at regular intervals.\n<sprite=10>Bond EXP can be used to increase Bond Level in the Bond system.\n<sprite=10>Invited characters gain Bond EXP faster at a higher Coziness Level.\n<sprite=10>Collecting Furniture can increase the Coziness Level of your home."
   },
   {
     "id": 541,
     "name": "大型活动-商城兑换",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "限时活动说明",
+    "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>活动开启后，完成指定关卡即可收集掉落物，在活动商店中兑换奖励。\n<sprite=10>使用推荐角色可获得额外掉落加成（首次通关时除外）。\n<sprite=10>部分挑战关卡将随活动时间逐步开启，包含自由模式（使用自身乐土角色）和破局模式（使用预设角色）。\n<sprite=10>团长可以自行切换两种模式，分别获得首通奖励。任意模式通关后均可解锁后续挑战。\n\n<size=28><style=C4>其他规则</style></size>\n<sprite=10>每日00:00会刷新【高额奖励】次数。\n<sprite=10>活动结束后，团长将无法进入活动关卡；但兑换期间内，仍可继续兑换奖励。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>After an event starts, you can complete the designated stages to collect dropped items and redeem rewards in the event shop.\n<sprite=10>Additional drop bonuses are available after using recommended characters (except the first clear).\n<sprite=10>Some stages will unlock as the event unfolds; there are two modes to choose from: a Free Mode (with your own Elysium characters) and a Strategic Mode (where trial characters are provided).\n<sprite=10>You can switch between the modes and get the first clear rewards respectively. The clearing of either mode will unlock the subsequent challenges.\n\n<size=28><style=C4>Other Information</style></size>\n<sprite=10>[Extra Rewards] chances will be refreshed at 00:00 a.m. every day.\n<sprite=10>Once an event ends, you cannot enter the event stages. However, you can still redeem rewards during the redemption period."
   },
   {
     "id": 542,
     "name": "中型活动1-累计兑换",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "限时活动说明",
+    "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>活动开启后，完成指定关卡即可收集讨伐点数，达到指定点数要求即可领取奖励。\n<sprite=10>使用推荐角色可获得额外掉落加成（首次通关时除外）。\n<sprite=10>部分挑战关卡将随活动时间逐步开启，包含自由模式（使用自身乐土角色）和破局模式（使用预设角色）。\n<sprite=10>团长可以自行切换两种模式，分别获得首通奖励。任意模式通关后均可解锁后续挑战。\n\n<size=28><style=C4>其他规则</style></size>\n<sprite=10>每日00:00会刷新【高额奖励】次数。\n<sprite=10>活动结束后，团长将无法进入活动关卡。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>After an event starts, players can complete the designated stages to collect Crusade Points. Upon reaching specific points, rewards can be claimed.\n<sprite=10>Additional drop bonuses are available after using recommended characters (except the first stage clear).\n<sprite=10>Some stages will unlock as the event unfolds; there are two modes to choose from: a Free Mode (with your own Elysium characters) and a Strategic Mode (where trial characters are provided).\n<sprite=10>You can switch between the modes and get the first pass rewards respectively. The clearing of either mode will unlock the subsequent challenges.\n\n<size=28><style=C4>Other Information</style></size>\n<sprite=10>[High Reward] times will be refreshed at 00:00 a.m. every day.\n<sprite=10>Once an event ends, you cannot enter the event stages."
   },
   {
     "id": 551,
     "name": "网游科技",
     "type": 2,
     "image_name": "system_tips_tech",
-    "title": "天赋",
+    "title": "Talent",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>通关星辰试炼，可获取天赋所需强化素材。\n<sprite=10>激活或升级天赋条目，可获得相应属性加成，或习得「战术指令」。\n<sprite=10>提高评级可以解锁更多天赋条目。\n<sprite=10>评级按黑铁、青铜、白银、黄金、白金、光辉顺序提升。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>After clearing the Star Trial, you can get materials for enhancing talent skills. \n<sprite=10>After activating or upgrading talent skill entries, you can get corresponding [Attribute Bonus] or learn [Tactical Commands]. \n<sprite=10>Improving Talent Ranking unlocks more talent skill entries. \n<sprite=10>Talent Ranking are Iron, Bronze, Silver, Gold, Platinum, and Radiant in ascending order."
   },
   {
     "id": 561,
     "name": "网游羁绊",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "羁绊1",
+    "title": "Bond 1",
     "text_anchor": 2,
-    "text": "乐土角色和你之间的羁绊，\n会令他们在战场上更加强大。"
+    "text": "The Bond between you and the Elysium characters\nwill make them stronger on the battlefield."
   },
   {
     "id": 562,
     "name": "网游羁绊",
     "type": 2,
     "image_name": "system_tips_friendship",
-    "title": "羁绊2",
+    "title": "Bond 2",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>积攒羁绊经验，可提高羁绊等级，获得角色全属性加成。\n<sprite=10>达到指定羁绊等级，可解锁角色头像；部分角色可解锁自定义命名。\n\n<size=28><style=C4>羁绊经验</style></size>\n<sprite=10>长按「心灵同调」按钮，即可消耗「心之力」获得羁绊经验；每日登录后恢复500「心之力」，最多可储存3000「心之力」。\n<sprite=10>通关部分关卡后，根据「存在之力」的消耗数量，可获得少量相应角色的羁绊经验。\n<sprite=10>角色入住乐土后，随时间增加、触发角色奇遇，均可获得羁绊经验。\n<sprite=10>赠送角色「同心之缘」道具，可获得大量羁绊经验。"
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>Collect Bond EXP to increase Bond Level and gain all attribute bonus for characters. \n<sprite=10>Reach certain Bond Levels to unlock character avatars and personalized nicknames for some characters.\n\n<size=28><style=C4>Bond EXP</style></size>\n<sprite=10> Press and hold the [Spiritual Homology] button to consume [Spirit of Hearts] and gain Bond EXP. 500 [Spirit of Hearts] is recovered daily upon login, with a maximum storage of 3,000 [Spirit of Hearts].\n<sprite=10>After clearing certain stages, a small amount of Bond EXP for corresponding characters is granted based on the amount of [Endurance] you have consumed. \n<sprite=10>Characters moving in Elysium can gain Bond EXP over time and when triggering Character Adventures.\n<sprite=10>Gifting a character [Bond Charm] yields a significant amount of Bond EXP."
   },
   {
     "id": 571,
     "name": "沙盒疗养",
     "type": 2,
     "image_name": "system_tips_hospital",
-    "title": "佣兵之家",
+    "title": "Haven",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>将角色置入栏位「疗养」后，可快速恢复一定活力值。\n<sprite=10>除强制出战外，疗养中角色将无法在「委托」中使用。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Placing a character in [Rest] can quickly recover their Stamina. \n<sprite=10>Except for mandatory deployment, characters in [Rest] cannot be used in a [Quest]."
   },
   {
     "id": 581,
     "name": "沙盒旅店",
     "type": 2,
     "image_name": "system_tips_tavern",
-    "title": "旅店",
+    "title": "Tavern",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>花费一定资金，可「招募」新的角色加入佣兵团。\n<sprite=10>每经过一定的周数，招募列表会刷新。\n<sprite=10>通过设施升级等方式，可获得更多招募栏位、解锁更多势力角色。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can spend a certain amount of funds to [recruit] new characters in the Mercenary Group. \n<sprite=10>The Recruitment List is refreshed once every few weeks. \n<sprite=10>Upgrading facilities can unlock more recruitment spots and faction characters."
   },
   {
     "id": 591,
     "name": "沙盒委托",
     "type": 2,
     "image_name": "system_tips_entrust",
-    "title": "委托",
+    "title": "Quest",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>「事件战斗」多数与重要剧情相关。\n<sprite=10>「委托」分为战斗与派遣，完成后可以获得各种奖励。\n<sprite=10>「势力」中可以看到各主要势力的影响力、势力范围、近况等。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Most [Battle Events] are related to important plots. \n<sprite=10>[Quests] include battles and dispatches. You can receive various rewards after completing them.\n<sprite=10>[Faction] displays each major faction's influence, territory, and current situation."
   },
   {
     "id": 601,
     "name": "沙盒祝福",
     "type": 2,
     "image_name": "system_tips_blessing",
-    "title": "赐福",
+    "title": "Blessing",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>选择指定角色参与仪式，获取短暂的强力赐福效果。\n<sprite=10>仪式的举行需要一定的准备时间与晶能消耗，晶能会随时间逐渐恢复。\n<sprite=10>通过庇护所的设施建设与圣物的修葺，可以增强的赐福仪式的效果。"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>A powerful temporary Blessing can be obtained after selecting a designated character to participate in the ritual. \n<sprite=10>The ritual will consume a certain amount of time and Luxite Energy, which will gradually recover over time. \n<sprite=10>The effect of the General Ritual can be enhanced through the facility construction in the Sanctuary and the maintenance of sacred objects."
   },
   {
     "id": 611,
     "name": "公会",
     "type": 2,
     "image_name": "system_tips_guild",
-    "title": "公会",
+    "title": "Guild",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>活跃奖励</style></size>\n<sprite=10>完成每日任务，领取活跃度后均会计入频道周活跃度，每人每天至多计入100。\n<sprite=10>频道成员累计达到指定周活跃度可领取奖励，若重新加入频道当周已领取过的奖励不会重置。\n<sprite=10>首次退出频道可立刻加入其他频道，后续退出需等待冷却时间3小时。\n\n<size=28><style=C4>频道管理</style></size>\n<sprite=10>频道主持人可任命或解除频道管理员。\n<sprite=10>若主持人超过7天未登录，则管理员或其他成员可选择弹劾主持人，此时会进入2天的考察期。\n<sprite=10>考察期过程中若主持人仍未登录，弹劾者将成为新任主持人。"
+    "text": "<size=28><style=C4>Activeness Rewards</style></size>\n<sprite=10>Complete daily quests and collect Activity Points, which will count towards the weekly Guild Activity Points. Each member can contribute a maximum of 100 points per day.\n<sprite=10>Guild members can collect rewards upon reaching specific weekly activity milestones. If you rejoin a Guild, previously collected rewards for the week will not reset.\n<sprite=10>You can join another Guild immediately after leaving a Guild for the first time. Subsequent guild quits require a 3-hour cooldown period.\n\n<size=28><style=C4>Guild Management</style></size>\n<sprite=10>The Guild Master can appoint or remove Guild Officer.\n<sprite=10>If the Master has not logged in for more than 7 days, Officer or other members may initiate an impeachment. This triggers a 2-day observation period for the Master.\n<sprite=10>If the Master remains inactive during the observation period, the impeacher will become the new Master."
   },
   {
     "id": 621,
     "name": "角色详情",
     "type": 2,
     "image_name": "system_tips_unit_detail",
-    "title": "角色详情",
+    "title": "Character Details",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>角色详情</style></size>\n<sprite=10>当前界面展示了角色等级、阶级、装备、技能等信息。\n<sprite=10>可点击查看角色个性、职业、阵营详情。\n<sprite=10>可自行装配技能、装备、塔罗之语。"
+    "text": "<size=28><style=C4>Character Details</style></size>\n<sprite=10>Here, you can see character information such as their level, rank, gear, skills, etc. \n<sprite=10>You can tap to view the character's trait, class, and category. \n<sprite=10>You can equip characters with skills, gear, and Tarot Whispers."
   },
   {
     "id": 1000,
     "name": "铃兰之剑佣兵团",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "铃兰之剑佣兵团",
+    "title": "Sword of Convallaria Mercenary Group",
     "text_anchor": 2,
-    "text": "欢迎加入铃兰之剑佣兵团！这里是团长室。\n伴随着团长每周的经营决策，主线故事将逐步展开。\n只要跟随画面右下角的指示，就能令剧情推进。"
+    "text": "Welcome to the Sword of Convallaria! This is the Leader's Office. The main storyline will gradually unfold as management decisions are made.\nThe instructions in the lower right corner of the screen will show you the next steps!"
   },
   {
     "id": 1001,
     "name": "荣耀之战3",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "荣耀之战3",
+    "title": "Clash 3",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>段位说明</style></size>\n黑铁：0荣耀值~249荣耀值\n青铜：250荣耀值~399荣耀值\n白银：400荣耀值~549荣耀值\n黄金：550荣耀值~699荣耀值\n白金：700荣耀值~899荣耀值\n光辉：900荣耀值以上"
+    "text": "<size=28><style=C4>Division</style></size>\nIron: 0 - 249 Glory\nBronze: 250 - 399 Glory\nSilver: 400 - 549 Glory\nGold: 550 - 699 Glory\nPlatinum: 700 - 899 Glory\nRadiant: 900 Glory and above"
   },
   {
     "id": 1002,
     "name": "征服之塔（场景环境）",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "场景环境",
+    "title": "Field Environment",
     "text_anchor": 2,
-    "text": "开启环境效果，\n巧妙的使用环境，赢得有利战局。"
+    "text": "Activate Environment Effect\nAnd make clever use of the environment to have an edge in battle."
   },
   {
     "id": 1010,
     "name": "提示插卡",
     "type": 4,
     "image_name": "system_tips_revelation",
-    "title": "谜一般的声音",
+    "title": "Mysterious Voice",
     "text_anchor": 2,
-    "text": "人类！出航前记得把塔罗牌放进<style=yellow>码头左侧</style>的【启示录】！\n<style=brown>只有这样才能点亮【愚者的旅程】的新信标</style>"
+    "text": "Human! Remember to place the Tarot Cards in the [Astrarium] <style=yellow>on the left side of the dock</style> before setting off! \n<style=brown>This is the only way to illuminate \nnew beacons on [The Fool's Journey].</style>"
   },
   {
     "id": 1011,
     "name": "大型活动-战术养成",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "战术觉醒",
+    "title": "Tactical Awakening",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>活动中，可通过【沙盒推演】获取战术点，用于解锁战术觉醒节点\n<sprite=10>战术觉醒内获得的【属性】和【战术】，仅作用于当前活动中\n<sprite=10>【战术】需穿戴后生效，可在出战前更换\n<sprite=10>可穿戴的【战术】数量，将随活动关卡的推进逐步解锁"
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>During the event, you can obtain TP through [Diorama] to unlock Tactical Awakening nodes.\n<sprite=10>[Attributes] and [Tactics] obtained in Tactical Awakening only apply to the current event.\n<sprite=10>[Tactics] take effect only when equipped and can be changed before deploying.\n<sprite=10>The number of [Tactics] that can be equipped will gradually unlock as you progress through the event stages."
   },
   {
     "id": 1013,
     "name": "小型活动-商城兑换1",
     "type": 3,
     "image_name": "system_tips_activitylittle01",
-    "title": "限时活动说明",
+    "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "根据选择的【挑战话题】数量，通关后将结算难度值并完成活动任务"
+    "text": "Difficulty and event quests are settled based on the number of [Challenge Topics] selected after clearing them."
   },
   {
     "id": 1014,
     "name": "小型活动-商城兑换2-未用",
     "type": 3,
     "image_name": "system_tips_activitylittle01",
-    "title": "限时活动说明",
+    "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "关卡等级的选择将影响初始难度值。选择挑战话题将额外提高难度值，难度值越高可达成的任务越多。任务中获取的[漫谈点数]可用于兑换奖励。"
+    "text": "The level of stage selected affects the initial difficulty. Choosing Challenge Topics will increase the difficulty further, enabling more quests to be completed. [Rumor Point] earned in quests can be exchanged for rewards."
   },
   {
     "id": 1015,
     "name": "小型活动-商城兑换3",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "限时活动说明",
+    "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "<size=32><style=C4>■ 基础规则</style></size>\n<sprite=10>出击前团长可自选【挑战话题】提高难度值，通关时记录历史最高难度值\n<sprite=10>当前关卡等级越高，则初始难度值越高\n<sprite=10>选择【闲谈话题】通关时不记录难度值\n<sprite=10>达成指定难度值可完成任务，获得【漫谈点数】用于兑换商店奖励\n\n<size=32><style=C4>■ 其他规则</style></size>\n<sprite=10>进入活动关卡不消耗体力，可重复挑战\n<sprite=10>活动结束后，团长将无法进入活动关卡；但兑换期间内，仍可继续兑换奖励。"
+    "text": "<size=32><style=C4>■ Basic Rules</style></size>\n<sprite=10>Before starting, you can select [Challenge Topics] to increase difficulty, and the highest historical difficulty is recorded upon clearing.\n<sprite=10>The higher the current stage, the higher the initial difficulty.\n<sprite=10>Selecting [Casual Topics] does not record the difficulty upon clearing.\n<sprite=10>Achieve designated Difficulty Levels to complete quests and earn [Rumor Point] for exchanging for rewards in the shop.\n\n<size=32><style=C4>■ Other Rules</style></size>\n<sprite=10>Entering an event stage does not consume Endurance, and challenges can be done repeatedly.\n<sprite=10>After the event ends, you cannot enter the event stages; however, rewards can still be exchanged for during the exchange period."
   },
   {
     "id": 1016,
     "name": "沙盒商会",
     "type": 2,
     "image_name": "",
-    "title": "商会",
+    "title": "Trading Post",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>「订单」分为事件订单与自由订单，可通过装填货物的方式派出订单，完成后可以获得各种奖励。\n<sprite=10>「商队」中可以看到进行中的订单与待结算的订单，部分订单在结算前需要进行战斗。\n<sprite=10>「贸易点」中可以看到各开启中贸易点的发展度等级、盛产、热门货物等。"
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>[Orders] are divided into event quests and freedom quests, which can be dispatched by loading cargo, and various rewards are obtained upon completion.\n<sprite=10>In [Caravans], you can view ongoing and pending orders. Some orders require battle before settlement.\n<sprite=10>[Trading Post] displays the development level, abundant produce, and hot commodities of each active trading post."
   },
   {
     "id": 1017,
     "name": "中型活动3-累计兑换",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "限时活动说明",
+    "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>基础规则</style></size>\n<sprite=10>活动开启后，完成指定关卡即可收集商会信用券，达到指定信用券要求即可领取奖励。\n<sprite=10>使用推荐角色可获得额外掉落加成（首次通关时除外）。\n<sprite=10>部分挑战关卡将随活动时间逐步开启，包含自由模式（使用自身乐土角色）和破局模式（使用预设角色）。\n<sprite=10>团长可以自行切换两种模式，分别获得首通奖励。任意模式通关后均可解锁后续挑战。\n\n<size=28><style=C4>其他规则</style></size>\n<sprite=10>每日00:00会刷新【高额奖励】次数。\n<sprite=10>活动结束后，团长将无法进入活动关卡。"
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>After an event starts, players can complete the designated stages to collect Trading Post Credit Vouchers. Upon reaching specific amounts, rewards can be claimed.\n<sprite=10>Additional drop bonuses are available after using recommended characters (except the first clear).\n<sprite=10>Some stages will unlock as the event unfolds; there are two modes to choose from: a Free Mode (with your own Elysium characters) and a Strategic Mode (where trial characters are provided).\n<sprite=10>You can switch between the modes and get the first pass rewards respectively. The clearing of either mode will unlock the subsequent challenges.\n\n<size=28><style=C4>Other Rules</style></size>\n<sprite=10>[Extra Rewards] times will be refreshed at 00:00 a.m. every day.\n<sprite=10>Once an event ends, you cannot enter the event stages."
   },
   {
     "id": 1018,
     "name": "逆境之塔1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "逆境之塔1",
+    "title": "Tower of Adversity I",
     "text_anchor": 2,
-    "text": "混沌之海的漩涡之下，久远的封印出现了松动。\n来自”逆位“的力量，世界的另一面已然显现……"
+    "text": "Beneath the vortex of the Sea of Chaos, the ancient seals have begun to loosen. \nThe power from \"Inversion\", the other side of the world, has now revealed itself…"
   },
   {
     "id": 1019,
     "name": "逆境之塔2",
     "type": 2,
     "image_name": "",
-    "title": "逆境之塔2",
+    "title": "Tower of Adversity II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ 基础规则</style></size>\n<sprite=10>逆境之塔分为浅层和深层两部分，完成全部浅层关卡后解锁深层关卡。\n<sprite=10>挑战过程中，无法更换队伍中角色、装备及进行其他升级行为。\n<sprite=10>通关后将结算逆境积分，并根据本轮次最高积分获得奖励。\n<sprite=10>挑战失败时会扣除挑战次数，每30分钟恢复1点。\n\n<size=28><style=C4>■ 刷新与排名规则</style></size>\n<sprite=10>深层关卡会周期性更新敌人、环境及突变，更新后该轮奖励重置。\n<sprite=10>在挑战期通关后，将根据本轮历史最高逆境积分计算活动排名。\n<sprite=10>在公示期可查看本轮最终排名，并领取排名奖励。"
+    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>Tower of Adversity is divided into the Shallow and the Deep, unlocking the Deep after completing all the Shallow stages.\n<sprite=10>During the challenge, changing team characters, gear, or upgrading is not allowed.\n<sprite=10>Adversity Value is tallied after clearing, and rewards are based on the highest Adversity Value achieved in that round.\n<sprite=10>Challenge attempts are deducted upon failure, with 1 attempt restored every 30 minutes.\n\n<size=28><style=C4>■ Refreshing and Ranking Rules</style></size>\n<sprite=10>Deep stages periodically update enemies, environments, and mutations. Rewards reset after each update.\n<sprite=10>After clearing within the Subjugation Period, rankings are calculated based on the highest Adversity Value achieved in that round.\n<sprite=10>During the Publicity Period, final rankings can be viewed, and ranking rewards can be collected."
   },
   {
     "id": 1020,
     "name": "征服之塔3",
     "type": 2,
     "image_name": "system_tips_activity_weekly",
-    "title": "征服之塔3",
+    "title": "Tower of Conquest III",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ 层级等级奖励预览</style></size>\n<sprite=10>层级等级0级，总计可获得希望晶石×180、征服者铭牌×140\n<sprite=10>层级等级1级，总计可获得希望晶石×200、征服者铭牌×180\n<sprite=10>层级等级2级，总计可获得希望晶石×220、征服者铭牌×200\n<sprite=10>层级等级3级，总计可获得希望晶石×240、征服者铭牌×220\n<sprite=10>层级等级4级，总计可获得希望晶石×260、征服者铭牌×240\n<sprite=10>层级等级5级，总计可获得希望晶石×280、征服者铭牌×260\n<sprite=10>层级等级6级，总计可获得希望晶石×300、征服者铭牌×340\n<sprite=10>层级等级7级，总计可获得希望晶石×320、征服者铭牌×420\n<sprite=10>层级等级8级，总计可获得希望晶石×340、征服者铭牌×580\n<sprite=10>层级等级9级，总计可获得希望晶石×360、征服者铭牌×820\n<sprite=10>层级等级10级，总计可获得希望晶石×380、征服者铭牌×1300"
+    "text": "<size=28><style=C4>■ Level Reward Preview</style></size>\n<sprite=10>[Lv.0] total rewards - Hope Luxite x180 , Conqueror's Insignia x140\n<sprite=10>[Lv.1] total rewards - Hope Luxite x200 , Conqueror's Insignia x180\n<sprite=10>[Lv.2] total rewards - Hope Luxite x220 , Conqueror's Insignia x200\n<sprite=10>[Lv.3] total rewards - Hope Luxite x240 , Conqueror's Insignia x220\n<sprite=10>[Lv.4] total rewards - Hope Luxite x260 , Conqueror's Insignia x240\n<sprite=10>[Lv.5] total rewards - Hope Luxite x280 , Conqueror's Insignia x260\n<sprite=10>[Lv.6] total rewards - Hope Luxite x300 , Conqueror's Insignia x340\n<sprite=10>[Lv.7] total rewards - Hope Luxite x320 , Conqueror's Insignia x420\n<sprite=10>[Lv.8] total rewards - Hope Luxite x340 , Conqueror's Insignia x580\n<sprite=10>[Lv.9] total rewards - Hope Luxite x360 , Conqueror's Insignia x820\n<sprite=10>[Lv.10] total rewards - Hope Luxite x380 , Conqueror's Insignia x1,300"
   },
   {
     "id": 1021,
     "name": "逆境之塔3",
     "type": 2,
     "image_name": "",
-    "title": "逆境之塔3",
+    "title": "Tower of Adversity III",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ 逆境积分获取规则</style></size>\n<sprite=10>在通关后，通过核心和附加计分项共同计算逆境积分，其中核心项影响较大，附加项影响较小。\n<sprite=10>核心计分项中，通关所用回合数越少、战败角色数越少，获得积分越高。\n<sprite=10>附加计分项中，击败敌人时累计溢出伤害值越多（存在首领时只计算对首领的溢出伤害）、角色累计损失生命值越少、最终回合行动次数越少，获得积分越高。"
+    "text": "<size=28><style=C4>■ Adversity Value Acquisition Rules</style></size>\n<sprite=10>Adversity Value is calculated based on core and additional scoring items after clearing, with core items having a significant impact and additional items less so.\n<sprite=10>In core scoring, fewer rounds used and fewer defeated characters yield a higher Adversity Value.\n<sprite=10>In additional scoring, the more cumulative overflow damage (only against bosses when present), the less cumulative HP loss of characters, and the fewer actions in the final round, the higher the Adversity Value gained.\n<sprite=10>When the Subjugation Period starts, the highest score in the Deep is taken as the final score."
   }
 ]

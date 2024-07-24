@@ -1,29 +1,29 @@
 [
   {
     "id": 1,
-    "m_online_weapon_enchanting_element_entrys": [],
-    "name": "权杖",
+    "m_online_weapon_enchanting_element_entrys": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "name": "Staff",
     "editor_name": "权杖",
     "icon": "icon_enchant_grail"
   },
   {
     "id": 2,
-    "m_online_weapon_enchanting_element_entrys": [],
-    "name": "宝剑",
+    "m_online_weapon_enchanting_element_entrys": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    "name": "Sword",
     "editor_name": "宝剑",
     "icon": "icon_enchant_sword"
   },
   {
     "id": 3,
-    "m_online_weapon_enchanting_element_entrys": [],
-    "name": "星币",
+    "m_online_weapon_enchanting_element_entrys": [21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+    "name": "Pentacle",
     "editor_name": "星币",
     "icon": "icon_enchant_coin"
   },
   {
     "id": 4,
-    "m_online_weapon_enchanting_element_entrys": [],
-    "name": "圣杯",
+    "m_online_weapon_enchanting_element_entrys": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
+    "name": "Cup",
     "editor_name": "圣杯",
     "icon": "icon_enchant_wand"
   }

@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "天平上的铃兰",
+    "name": "Sand-made Scales",
     "editor_name": "DLC1-埃拉曼线",
-    "desc": "新增故事线：「铃兰之剑-天平上的铃兰」。你将成为铃兰商会的会长，开启一段在伊利亚经商的新旅程。",
+    "desc": "New storyline: \"Sword of Convallaria - Sand-made Scales\". Become the Master of Convallaria Trading Post and start a new journey in business in Iria.",
     "icon": "event_solomon",
     "idsandbox_update_log_group": 1,
     "group_priority": 1,
     "sort_id": 1,
     "open_at": 1706086623,
-    "remind_desc": "铃兰之剑新故事"
+    "remind_desc": "Sword of Convallaria New Story"
   },
   {
     "id": 2,
-    "name": "绯红之夜",
+    "name": "Night Crimson",
     "editor_name": "DLC2-绯红之夜",
-    "desc": "新篇章：「绯红之夜」现已开启。\n\n<style=brown>绯红之夜新故事概述</style>",
+    "desc": "New Chapter: [Night Crimson] is now available.\n\n<style=brown>Return to Waverun City in the year 992, and step into the story of Safiyyah and Rawiyah guarding Waverun City side by side in the City Watch Mobile Squad. Witness how a series of violent crimes sparked turmoil, planting the seeds of discord that would lead to the tragic events in Waverun City seven years later…</style>",
     "icon": "",
     "idsandbox_update_log_group": 2,
     "group_priority": 1,
     "sort_id": 1,
     "open_at": 1737709023,
-    "remind_desc": "全新篇章：绯红之夜"
+    "remind_desc": "New Chapter: \"Night Crimson\""
   }
 ]

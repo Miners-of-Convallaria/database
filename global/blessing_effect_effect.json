@@ -2158,70 +2158,70 @@
   {
     "id": 309,
     "type": 3,
-    "name": "角色消耗活力减少10%",
+    "name": "Reduces the character's Vitality consumption by 10%.",
     "value": -10,
     "is_percent": true
   },
   {
     "id": 310,
     "type": 3,
-    "name": "角色消耗活力减少30%",
+    "name": "Reduces the character's Vitality consumption by 30%.",
     "value": -30,
     "is_percent": true
   },
   {
     "id": 311,
     "type": 3,
-    "name": "角色消耗活力减少50%",
+    "name": "Reduces the character's Vitality consumption by 50%.",
     "value": -50,
     "is_percent": true
   },
   {
     "id": 312,
     "type": 3,
-    "name": "角色消耗活力减少75%",
+    "name": "Reduces the character's Vitality consumption by 75%.",
     "value": -75,
     "is_percent": true
   },
   {
     "id": 313,
     "type": 3,
-    "name": "角色消耗活力减少100%",
+    "name": "Reduces the character's Vitality consumption by 100%.",
     "value": -100,
     "is_percent": true
   },
   {
     "id": 314,
     "type": 2,
-    "name": "角色经验获取量提升10%",
+    "name": "Increases the character's experience gain by 10%.",
     "value": 10,
     "is_percent": true
   },
   {
     "id": 315,
     "type": 2,
-    "name": "角色经验获取量提升30%",
+    "name": "Increases the character's experience gain by 30%.",
     "value": 30,
     "is_percent": true
   },
   {
     "id": 316,
     "type": 2,
-    "name": "角色经验获取量提升50%",
+    "name": "Increases the character's experience gain by 50%.",
     "value": 50,
     "is_percent": true
   },
   {
     "id": 317,
     "type": 2,
-    "name": "角色经验获取量提升75%",
+    "name": "Increases the character's experience gain by 75%.",
     "value": 75,
     "is_percent": true
   },
   {
     "id": 318,
     "type": 2,
-    "name": "角色经验获取量提升100%",
+    "name": "Increases the character's experience gain by 100%.",
     "value": 100,
     "is_percent": true
   }

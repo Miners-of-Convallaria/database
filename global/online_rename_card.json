@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "m_system_redirects": [],
-    "name": "“无名”的塔罗",
+    "m_system_redirects": [5001],
+    "name": "Nameless Tarot",
     "editor_name": "账号改名卡",
-    "desc": "可以在「名片」中修改玩家昵称、在「羁绊」中修改谜之猫以及角色的昵称。\n\n<style=brown>用你改变命运的愿望，勾勒出崭新的可能吧。</style>",
+    "desc": "You can alter your nickname in [Profile] and customize the nickname of the Mysterious Cat or any character in [Bond].\n\n<style=brown>Let your desire to reshape destiny pave the way for new opportunities.</style>",
     "rarity": 4,
     "order_id": 0,
     "system_redirect_ids": "5001",

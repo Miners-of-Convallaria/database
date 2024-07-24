@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_milestone_param_values": [],
+    "m_milestone_param_values": [4, 5],
     "editor_name": "测试",
     "name": "测试",
     "desc": "测试阶段目标名字",
@@ -123,25 +123,25 @@
     "id": 15,
     "m_milestone_param_values": [],
     "editor_name": "QV3-P3-协助骑士团并取得其信任",
-    "name": "协助骑士团并取得其信任",
-    "desc": "完成骑士团颁布的委托或事件可获得阶段目标值，完成阶段目标可获得奖励",
+    "name": "Aid the Order and gain its trust",
+    "desc": "Complete quests given by the Union or events to progress towards the Stage Goal. Complete Stage Goals to receive rewards.",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 454,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 16,
     "m_milestone_param_values": [],
     "editor_name": "QV3-P4-完成十字路口攻城战",
-    "name": "完成十字路攻城战",
-    "desc": "随着故事发展，帮助骑士团-完成十字路攻城战",
+    "name": "End the Crossroads Battle",
+    "desc": "Follow the storyline to help the Order end the Crossroads Battle",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 455,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 17,
@@ -159,61 +159,61 @@
     "id": 18,
     "m_milestone_param_values": [],
     "editor_name": "共通线-第二章：骑士团声望达标（临时版本）",
-    "name": "骑士同盟声望达到100",
-    "desc": "声望达到100，骑士团就会在关键时刻增援\n声望可以通过各类事件和委托增加，你在事件中的做出选择也会改变获得的声望值",
+    "name": "Gain 100 Reputaion with the Union",
+    "desc": "When Reputation reaches 100, the Order will reinforce at critical moments.\nReputation can be increased by completing various events and quests. The choices you make during these events will also affect Reputaion.",
     "type": 1,
     "target_value": 100,
     "duration": 9,
     "treasure_group_id": 133,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 20,
     "m_milestone_param_values": [],
     "editor_name": "QV3-P5-调查港都真相",
-    "name": "调查浪涌城真相",
-    "desc": "随着故事发展，与歌洛莉亚一同调查浪涌城真相",
+    "name": "Investigate the truth of Waverun City",
+    "desc": "Follow the storyline to join Gloria to investigate the truth of Waverun City",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 456,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 21,
     "m_milestone_param_values": [],
     "editor_name": "QV3-P6-完成第二次十字路口会战",
-    "name": "完成第二次十字路会战",
-    "desc": "随着故事发展，帮助骑士团完成第二次十字路会战",
+    "name": "End the Crossroads Battle II",
+    "desc": "Follow the storyline to help the Order end the Crossroads Battle II",
     "type": 1,
     "target_value": 100,
     "duration": 4,
     "treasure_group_id": 457,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 22,
     "m_milestone_param_values": [],
     "editor_name": "QV3-P7-歌洛莉亚的救赎",
-    "name": "歌洛莉亚的救赎",
-    "desc": "和佣兵团的同伴们一起，将歌洛莉亚从困境中救出",
+    "name": "Save Gloria",
+    "desc": "Save Gloria from dilemma together with your friends in the Mercenary Group",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 458,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 23,
     "m_milestone_param_values": [],
     "editor_name": "QV3-P7-完成最终决战",
-    "name": "完成最终决战",
-    "desc": "随着故事发展，帮助鲁特菲攻占浪涌城",
+    "name": "Complete the final battle",
+    "desc": "Follow the storyline to help Lutfi take down Waverun City",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 459,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 24,
@@ -231,180 +231,180 @@
     "id": 25,
     "m_milestone_param_values": [],
     "editor_name": "共通线-第一章：维持小镇稳定",
-    "name": "维持小镇稳定",
-    "desc": "接收难民和各种到来的势力，维持人满为患的小镇的稳定",
+    "name": "Maintain stability in the town",
+    "desc": "Receive refugees and various incoming factions and maintain stability in the overcrowded town",
     "type": 1,
     "target_value": 100,
     "duration": 9,
     "treasure_group_id": 135,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 26,
-    "m_milestone_param_values": [],
+    "m_milestone_param_values": [7, 8, 11],
     "editor_name": "共通线-第二章：任意势力声望到达标",
-    "name": "指定势力声望到达到100",
-    "desc": "深入了解各势力，为小镇的未来寻找出路\n声望可以通过各类事件和委托增加，你在事件中的做出选择也会改变获得的声望值",
+    "name": "Selected Faction Reputation Reaches 100",
+    "desc": "Look into various factions to seek inspiration in the future of the town\nReputation can be increased by completing various events and quests. The choices you make during these events will also affect Reputation",
     "type": 4,
     "target_value": 100,
     "duration": 9,
     "treasure_group_id": 133,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 27,
     "m_milestone_param_values": [],
     "editor_name": "王国军线-第一章：联合薇尔德人",
-    "name": "联合薇尔德人",
-    "desc": "尝试说服薇尔德人一同对抗骑士团",
+    "name": "Unite the Vlderians",
+    "desc": "Try to persuade the Vlderians to fight against the Order with you",
     "type": 1,
     "target_value": 100,
     "duration": 7,
     "treasure_group_id": 895,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 28,
     "m_milestone_param_values": [],
     "editor_name": "王国军线-第一章：防守十字路要塞",
-    "name": "防守十字路要塞",
-    "desc": "在骑士团的进攻中与盟友一同守住十字路要塞",
+    "name": "Defend the Crossroads Keep",
+    "desc": "Defend the Crossroads Keep with allies in the attack of the Order",
     "type": 1,
     "target_value": 100,
     "duration": 4,
     "treasure_group_id": 896,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 29,
     "m_milestone_param_values": [],
     "editor_name": "王国军线-第二章：决战准备",
-    "name": "决战准备",
-    "desc": "为更艰难的战斗做好准备",
+    "name": "Prepare for the Final Battle",
+    "desc": "Prepare for more difficult battles",
     "type": 1,
     "target_value": 100,
     "duration": 7,
     "treasure_group_id": 897,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 30,
     "m_milestone_param_values": [],
     "editor_name": "王国军线-第三章：背水一战",
-    "name": "背水一战",
-    "desc": "全力防守十字路要塞直至战斗结束",
+    "name": "Fight to win or die",
+    "desc": "Defend the Crossroads Keep with all the strength until the battle ends",
     "type": 1,
     "target_value": 100,
     "duration": 5,
     "treasure_group_id": 898,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 31,
     "m_milestone_param_values": [],
     "editor_name": "王国军线-第三章：战后清算",
-    "name": "战后清算",
-    "desc": "决定败者的命运",
+    "name": "Post-war liquidation",
+    "desc": "Decide the fate of whoever loses the battle",
     "type": 1,
     "target_value": 100,
     "duration": 6,
     "treasure_group_id": 899,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 32,
     "m_milestone_param_values": [],
     "editor_name": "王国军线-第四章-表线：自我保护",
-    "name": "自我保护",
-    "desc": "在混乱的局势中保护铃兰小镇",
+    "name": "Self-defense",
+    "desc": "Protect the Town of Convallaria in chaos",
     "type": 1,
     "target_value": 100,
     "duration": 4,
     "treasure_group_id": 900,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 33,
     "m_milestone_param_values": [],
     "editor_name": "王国军线-第四章-里线：结束迪塔利奥的统治",
-    "name": "结束迪塔利奥的统治",
-    "desc": "带领起义军进攻晨曦堡，结束迪塔利奥的统治",
+    "name": "End the rule of Dantalion",
+    "desc": "Lead the insurgents to attack the Mornrays Castle and end the rule of Dantalion",
     "type": 1,
     "target_value": 100,
     "duration": 4,
     "treasure_group_id": 901,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 34,
     "m_milestone_param_values": [],
     "editor_name": "法皇国线-第一章：讨伐黑暗之光",
-    "name": "讨伐黑暗之光",
-    "desc": "与萨曼莎一同讨伐盘踞在矿坑城的黑暗之光势力",
+    "name": "Crusade against Darklight",
+    "desc": "Join Samantha in the fight against the Darklight forces in the Mine Pit",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 1039,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 35,
     "m_milestone_param_values": [],
     "editor_name": "法皇国线-第二章：帮助萨曼莎完成任务",
-    "name": "帮助萨曼莎完成任务",
-    "desc": "帮助萨曼莎完成矿坑城的善后工作，尽可能帮助难民",
+    "name": "Samantha's Quests",
+    "desc": "Help Samantha clear the Mine Pit of the remaining Darklight forces, and help the refugees.",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 1040,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 36,
     "m_milestone_param_values": [],
     "editor_name": "法皇国线-第三章： 追寻伊利亚的和平",
-    "name": "追寻伊利亚的和平",
-    "desc": "竭尽全力与萨曼莎一同寻找伊利亚的和平之路",
+    "name": "Pursuit of Peace",
+    "desc": "Try your utmost with Samantha to find a path toward peace for Iria.",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 1041,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 37,
     "m_milestone_param_values": [],
     "editor_name": "法皇国线-第四章： 完成法皇国的委托",
-    "name": "完成法皇国的委托",
-    "desc": "完成法皇国交给铃兰之剑的委托",
+    "name": "Orders from the Papal States",
+    "desc": "Complete the quests given to you by the Papal States.",
     "type": 1,
     "target_value": 100,
     "duration": 8,
     "treasure_group_id": 1042,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 38,
     "m_milestone_param_values": [],
     "editor_name": "法皇国线-第五章-表线： 阻止炸矿",
-    "name": "阻止炸矿",
-    "desc": "阻止法皇国的炸矿行动，完成最后的救赎",
+    "name": "Prevent mining explosions",
+    "desc": "Stop the mine detonating operation of Papal States to complete the final salvation",
     "type": 1,
     "target_value": 100,
     "duration": 2,
     "treasure_group_id": 0,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   },
   {
     "id": 39,
     "m_milestone_param_values": [],
     "editor_name": "法皇国线-第五章-里线：阻止法皇国",
-    "name": "阻止法皇国",
-    "desc": "阻止法皇国的炸矿行动，联合伊利亚反抗法皇国",
+    "name": "Stop the Papal States",
+    "desc": "Stop the mine detonating operation of Papal States and unite Iria to fight against them",
     "type": 1,
     "target_value": 100,
     "duration": 4,
     "treasure_group_id": 1043,
-    "treasure_desc": "可以随机获得各类优质奖励"
+    "treasure_desc": "You can randomly obtain various valuable rewards"
   }
 ]

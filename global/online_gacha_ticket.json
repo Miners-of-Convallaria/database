@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "m_system_redirects": [],
-    "name": "秘缘",
-    "desc": "每一次邂逅消耗一份秘缘。",
+    "m_system_redirects": [1101],
+    "name": "Secret Fate",
+    "desc": "Each summon costs a Secret Fate.",
     "rarity": 4,
     "shop_item_id": 16,
     "system_redirect_ids": "1101",

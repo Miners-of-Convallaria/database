@@ -4642,7 +4642,7 @@
   },
   {
     "id": 372,
-    "m_custom_weathers": [],
+    "m_custom_weathers": [8],
     "name": "stage_desert-os-ni00301",
     "model": "stage_desert-os-ni00301",
     "bgm": 1937,
@@ -5279,7 +5279,7 @@
   },
   {
     "id": 421,
-    "m_custom_weathers": [],
+    "m_custom_weathers": [7],
     "name": "stage_desert-os-da01001",
     "model": "stage_desert-os-da01001",
     "bgm": 0,
@@ -5539,7 +5539,7 @@
   },
   {
     "id": 441,
-    "m_custom_weathers": [],
+    "m_custom_weathers": [5],
     "name": "stage_plain-cp-ni00201_snow",
     "model": "stage_plain-cp-ni00201_snow",
     "bgm": 2815,
@@ -5565,7 +5565,7 @@
   },
   {
     "id": 443,
-    "m_custom_weathers": [],
+    "m_custom_weathers": [5],
     "name": "stage_city-ca-da00501_snow",
     "model": "stage_city-ca-da00501_snow",
     "bgm": 1937,
@@ -5578,7 +5578,7 @@
   },
   {
     "id": 444,
-    "m_custom_weathers": [],
+    "m_custom_weathers": [5],
     "name": "stage_plain-cp-da00601_snow",
     "model": "stage_plain-cp-da00601_snow",
     "bgm": 1937,
@@ -5591,7 +5591,7 @@
   },
   {
     "id": 445,
-    "m_custom_weathers": [],
+    "m_custom_weathers": [5],
     "name": "stage_city-ca-ni00201_snow",
     "model": "stage_city-ca-ni00201_snow",
     "bgm": 1937,
@@ -5604,7 +5604,7 @@
   },
   {
     "id": 446,
-    "m_custom_weathers": [],
+    "m_custom_weathers": [5],
     "name": "stage_city-ca-du00201_snow",
     "model": "stage_city-ca-du00201_snow",
     "bgm": 1937,

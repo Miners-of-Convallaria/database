@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "m_online_operation_activity_views": [],
+    "m_online_operation_activity_views": [5, 9, 11],
     "type": "C",
     "name": "玩法展示",
     "manual": "有多个活动奖励展示用, 任务无奖励无点数",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "m_online_operation_activity_views": [],
+    "m_online_operation_activity_views": [1, 4],
     "type": "D",
     "name": "按组刷新任务",
     "manual": "有单个活动奖励，任务有奖励有点数，无天数，任务根据组配置刷新",
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "m_online_operation_activity_views": [],
+    "m_online_operation_activity_views": [1, 4, 12],
     "type": "E",
     "name": "纯任务类",
     "manual": "无活动奖励，任务有奖励无点数，无天数无组",
@@ -79,7 +79,7 @@
   },
   {
     "id": 7,
-    "m_online_operation_activity_views": [],
+    "m_online_operation_activity_views": [2],
     "type": "G",
     "name": "第三方活动类",
     "manual": "有多个邮件奖励(通过回调获取)，无任务无点数无天数无组",

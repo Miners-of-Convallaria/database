@@ -2,49 +2,49 @@
   {
     "id": 1,
     "type": "hatred",
-    "name": "仇恨",
+    "name": "Hated",
     "reference_value": -300,
     "color": "243|108|108|255"
   },
   {
     "id": 2,
     "type": "hostility",
-    "name": "敌视",
+    "name": "Hostile",
     "reference_value": -150,
     "color": "255|135|97|255"
   },
   {
     "id": 3,
     "type": "Indifference",
-    "name": "冷淡",
+    "name": "Indifferent",
     "reference_value": -50,
     "color": "248|180|74|255"
   },
   {
     "id": 4,
     "type": "neutral",
-    "name": "中立",
+    "name": "Neutral",
     "reference_value": 0,
     "color": "255|255|255|255"
   },
   {
     "id": 5,
     "type": "amicable",
-    "name": "友好",
+    "name": "Friendly",
     "reference_value": 50,
     "color": "188|233|19|255"
   },
   {
     "id": 6,
     "type": "trust",
-    "name": "信赖",
+    "name": "Honored",
     "reference_value": 150,
     "color": "122|238|36|255"
   },
   {
     "id": 7,
     "type": "ally",
-    "name": "盟友",
+    "name": "Allied",
     "reference_value": 300,
     "color": "41|233|137|255"
   }

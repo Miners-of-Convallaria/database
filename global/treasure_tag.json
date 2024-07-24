@@ -2,66 +2,66 @@
   {
     "id": 0,
     "type": "Normal",
-    "name": "普通"
+    "name": "Common"
   },
   {
     "id": 1,
     "type": "Extra",
-    "name": "额外"
+    "name": "Extra"
   },
   {
     "id": 2,
     "type": "First",
-    "name": "首通"
+    "name": "First Clear"
   },
   {
     "id": 3,
     "type": "Star",
-    "name": "星级"
+    "name": "Star Level"
   },
   {
     "id": 4,
     "type": "Challenge",
-    "name": "挑战"
+    "name": "Challenge"
   },
   {
     "id": 5,
     "type": "High",
-    "name": "高倍"
+    "name": "High magnification"
   },
   {
     "id": 6,
     "type": "Difference",
-    "name": "周常本差值奖励"
+    "name": "Difference Reward of Week Instance"
   },
   {
     "id": 7,
     "type": "CharacterTitle",
-    "name": "佣兵团评级"
+    "name": "Mercenary Group Rank"
   },
   {
     "id": 8,
     "type": "MonthlyCard",
-    "name": "月卡奖励"
+    "name": "Monthly Card Reward"
   },
   {
     "id": 9,
     "type": "CommerceOpportunity",
-    "name": "贸易机会"
+    "name": "Trading Opportunities"
   },
   {
     "id": 10,
     "type": "Commerce",
-    "name": "商会"
+    "name": "Trading Post"
   },
   {
     "id": 11,
     "type": "Mercenary",
-    "name": "佣兵团"
+    "name": "Mercenary Group"
   },
   {
     "id": 12,
     "type": "CommerceGrading",
-    "name": "商会评级"
+    "name": "Trading Post Rank"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [45],
     "name": "引导难度1-1-1",
     "online_quest_id": 2903,
     "mission_buff_pool_ids": "45",
@@ -18,7 +18,7 @@
   },
   {
     "id": 3,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [45],
     "name": "引导难度1-2-1",
     "online_quest_id": 2904,
     "mission_buff_pool_ids": "45",
@@ -35,7 +35,7 @@
   },
   {
     "id": 7,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [130],
     "name": "引导难度2-1-1",
     "online_quest_id": 2905,
     "mission_buff_pool_ids": "130",
@@ -52,7 +52,7 @@
   },
   {
     "id": 11,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [130],
     "name": "引导难度2-1-2",
     "online_quest_id": 2906,
     "mission_buff_pool_ids": "130",
@@ -69,7 +69,7 @@
   },
   {
     "id": 12,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [47],
     "name": "引导难度2-2-1",
     "online_quest_id": 2907,
     "mission_buff_pool_ids": "47",
@@ -86,7 +86,7 @@
   },
   {
     "id": 13,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [79],
     "name": "引导难度3-1-1",
     "online_quest_id": 2908,
     "mission_buff_pool_ids": "79",
@@ -103,7 +103,7 @@
   },
   {
     "id": 14,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [79],
     "name": "引导难度3-1-2",
     "online_quest_id": 2909,
     "mission_buff_pool_ids": "79",
@@ -120,7 +120,7 @@
   },
   {
     "id": 15,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [128],
     "name": "引导难度3-2-1",
     "online_quest_id": 2910,
     "mission_buff_pool_ids": "128",
@@ -137,7 +137,7 @@
   },
   {
     "id": 16,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [128],
     "name": "引导难度3-2-2",
     "online_quest_id": 2911,
     "mission_buff_pool_ids": "128",
@@ -154,7 +154,7 @@
   },
   {
     "id": 17,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [8],
     "name": "引导难度4-1-1",
     "online_quest_id": 2912,
     "mission_buff_pool_ids": "8",
@@ -171,7 +171,7 @@
   },
   {
     "id": 18,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [8],
     "name": "引导难度4-1-2",
     "online_quest_id": 2913,
     "mission_buff_pool_ids": "8",
@@ -188,7 +188,7 @@
   },
   {
     "id": 19,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [127],
     "name": "引导难度4-2-1",
     "online_quest_id": 2914,
     "mission_buff_pool_ids": "127",
@@ -205,7 +205,7 @@
   },
   {
     "id": 20,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [127],
     "name": "引导难度4-2-2",
     "online_quest_id": 2915,
     "mission_buff_pool_ids": "127",
@@ -222,7 +222,7 @@
   },
   {
     "id": 21,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [141],
     "name": "S1排行难度5-1-1",
     "online_quest_id": 2916,
     "mission_buff_pool_ids": "141",
@@ -239,7 +239,7 @@
   },
   {
     "id": 22,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [150],
     "name": "S1排行难度6-1-1",
     "online_quest_id": 2918,
     "mission_buff_pool_ids": "150",
@@ -256,7 +256,7 @@
   },
   {
     "id": 23,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [142],
     "name": "S1排行难度7-1-1",
     "online_quest_id": 2919,
     "mission_buff_pool_ids": "142",
@@ -273,7 +273,7 @@
   },
   {
     "id": 24,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [141],
     "name": "S1排行难度5-1-2",
     "online_quest_id": 2917,
     "mission_buff_pool_ids": "141",
@@ -290,7 +290,7 @@
   },
   {
     "id": 25,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [150],
     "name": "S1排行难度6-1-2",
     "online_quest_id": 2920,
     "mission_buff_pool_ids": "150",
@@ -307,7 +307,7 @@
   },
   {
     "id": 26,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [142],
     "name": "S1排行难度7-1-2",
     "online_quest_id": 2921,
     "mission_buff_pool_ids": "142",
@@ -324,7 +324,7 @@
   },
   {
     "id": 27,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S1排行难度5-2-1",
     "online_quest_id": 2922,
     "mission_buff_pool_ids": "151",
@@ -341,7 +341,7 @@
   },
   {
     "id": 28,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S1排行难度6-2-1",
     "online_quest_id": 2923,
     "mission_buff_pool_ids": "151",
@@ -358,7 +358,7 @@
   },
   {
     "id": 29,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S1排行难度7-2-1",
     "online_quest_id": 2924,
     "mission_buff_pool_ids": "151",
@@ -375,7 +375,7 @@
   },
   {
     "id": 30,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S1排行难度5-2-2",
     "online_quest_id": 2925,
     "mission_buff_pool_ids": "151",
@@ -392,7 +392,7 @@
   },
   {
     "id": 31,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S1排行难度6-2-2",
     "online_quest_id": 2926,
     "mission_buff_pool_ids": "151",
@@ -409,7 +409,7 @@
   },
   {
     "id": 32,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S1排行难度7-2-2",
     "online_quest_id": 2927,
     "mission_buff_pool_ids": "151",
@@ -426,7 +426,7 @@
   },
   {
     "id": 34,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S2排行难度5-2-2",
     "online_quest_id": 2970,
     "mission_buff_pool_ids": "154",
@@ -443,7 +443,7 @@
   },
   {
     "id": 35,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S2排行难度5-2-1",
     "online_quest_id": 2969,
     "mission_buff_pool_ids": "154",
@@ -460,7 +460,7 @@
   },
   {
     "id": 36,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S2排行难度5-1-1",
     "online_quest_id": 2922,
     "mission_buff_pool_ids": "151",
@@ -477,7 +477,7 @@
   },
   {
     "id": 37,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S2排行难度5-1-2",
     "online_quest_id": 2925,
     "mission_buff_pool_ids": "151",
@@ -494,7 +494,7 @@
   },
   {
     "id": 38,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S2排行难度6-2-1",
     "online_quest_id": 2971,
     "mission_buff_pool_ids": "154",
@@ -511,7 +511,7 @@
   },
   {
     "id": 39,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S2排行难度6-2-2",
     "online_quest_id": 2972,
     "mission_buff_pool_ids": "154",
@@ -528,7 +528,7 @@
   },
   {
     "id": 40,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S2排行难度6-1-1",
     "online_quest_id": 2923,
     "mission_buff_pool_ids": "151",
@@ -545,7 +545,7 @@
   },
   {
     "id": 41,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S2排行难度6-1-2",
     "online_quest_id": 2926,
     "mission_buff_pool_ids": "151",
@@ -562,7 +562,7 @@
   },
   {
     "id": 42,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S2排行难度7-2-1",
     "online_quest_id": 2973,
     "mission_buff_pool_ids": "154",
@@ -579,7 +579,7 @@
   },
   {
     "id": 44,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S2排行难度7-2-2",
     "online_quest_id": 2974,
     "mission_buff_pool_ids": "154",
@@ -596,7 +596,7 @@
   },
   {
     "id": 45,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S2排行难度7-1-1",
     "online_quest_id": 2924,
     "mission_buff_pool_ids": "151",
@@ -613,7 +613,7 @@
   },
   {
     "id": 46,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [151],
     "name": "S2排行难度7-1-2",
     "online_quest_id": 2927,
     "mission_buff_pool_ids": "151",
@@ -630,7 +630,7 @@
   },
   {
     "id": 47,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S3排行难度5-1-1",
     "online_quest_id": 2969,
     "mission_buff_pool_ids": "154",
@@ -647,7 +647,7 @@
   },
   {
     "id": 48,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S3排行难度5-1-2",
     "online_quest_id": 2970,
     "mission_buff_pool_ids": "154",
@@ -664,7 +664,7 @@
   },
   {
     "id": 49,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S3排行难度6-1-1",
     "online_quest_id": 2971,
     "mission_buff_pool_ids": "154",
@@ -681,7 +681,7 @@
   },
   {
     "id": 50,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S3排行难度6-1-2",
     "online_quest_id": 2972,
     "mission_buff_pool_ids": "154",
@@ -698,7 +698,7 @@
   },
   {
     "id": 51,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S3排行难度7-1-1",
     "online_quest_id": 2973,
     "mission_buff_pool_ids": "154",
@@ -715,7 +715,7 @@
   },
   {
     "id": 52,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S3排行难度7-1-2",
     "online_quest_id": 2974,
     "mission_buff_pool_ids": "154",
@@ -732,7 +732,7 @@
   },
   {
     "id": 53,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S3排行难度5-2-1",
     "online_quest_id": 2985,
     "mission_buff_pool_ids": "158",
@@ -749,7 +749,7 @@
   },
   {
     "id": 54,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S3排行难度5-2-2",
     "online_quest_id": 2986,
     "mission_buff_pool_ids": "158",
@@ -766,7 +766,7 @@
   },
   {
     "id": 55,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S3排行难度6-2-1",
     "online_quest_id": 2987,
     "mission_buff_pool_ids": "158",
@@ -783,7 +783,7 @@
   },
   {
     "id": 56,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S3排行难度6-2-2",
     "online_quest_id": 2988,
     "mission_buff_pool_ids": "158",
@@ -800,7 +800,7 @@
   },
   {
     "id": 57,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S3排行难度7-2-1",
     "online_quest_id": 2989,
     "mission_buff_pool_ids": "158",
@@ -817,7 +817,7 @@
   },
   {
     "id": 58,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S3排行难度7-2-2",
     "online_quest_id": 2990,
     "mission_buff_pool_ids": "158",
@@ -834,7 +834,7 @@
   },
   {
     "id": 59,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S4排行难度5-1-1",
     "online_quest_id": 2969,
     "mission_buff_pool_ids": "154",
@@ -851,7 +851,7 @@
   },
   {
     "id": 60,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S4排行难度5-1-2",
     "online_quest_id": 2970,
     "mission_buff_pool_ids": "154",
@@ -868,7 +868,7 @@
   },
   {
     "id": 61,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S4排行难度5-2-1",
     "online_quest_id": 2985,
     "mission_buff_pool_ids": "158",
@@ -885,7 +885,7 @@
   },
   {
     "id": 62,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S4排行难度5-2-2",
     "online_quest_id": 2986,
     "mission_buff_pool_ids": "158",
@@ -902,7 +902,7 @@
   },
   {
     "id": 63,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S4排行难度6-1-1",
     "online_quest_id": 2971,
     "mission_buff_pool_ids": "154",
@@ -919,7 +919,7 @@
   },
   {
     "id": 64,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S4排行难度6-1-2",
     "online_quest_id": 2972,
     "mission_buff_pool_ids": "154",
@@ -936,7 +936,7 @@
   },
   {
     "id": 65,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S4排行难度6-2-1",
     "online_quest_id": 2987,
     "mission_buff_pool_ids": "158",
@@ -953,7 +953,7 @@
   },
   {
     "id": 66,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S4排行难度6-2-2",
     "online_quest_id": 2988,
     "mission_buff_pool_ids": "158",
@@ -970,7 +970,7 @@
   },
   {
     "id": 67,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S4排行难度7-1-1",
     "online_quest_id": 2973,
     "mission_buff_pool_ids": "154",
@@ -987,7 +987,7 @@
   },
   {
     "id": 68,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S4排行难度7-1-2",
     "online_quest_id": 2974,
     "mission_buff_pool_ids": "154",
@@ -1004,7 +1004,7 @@
   },
   {
     "id": 69,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S4排行难度7-2-1",
     "online_quest_id": 2989,
     "mission_buff_pool_ids": "158",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 70,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S4排行难度7-2-2",
     "online_quest_id": 2990,
     "mission_buff_pool_ids": "158",
@@ -1038,7 +1038,7 @@
   },
   {
     "id": 71,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S5排行难度5-1-1",
     "online_quest_id": 2969,
     "mission_buff_pool_ids": "154",
@@ -1055,7 +1055,7 @@
   },
   {
     "id": 72,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S5排行难度5-1-2",
     "online_quest_id": 2970,
     "mission_buff_pool_ids": "154",
@@ -1072,7 +1072,7 @@
   },
   {
     "id": 73,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S5排行难度5-2-1",
     "online_quest_id": 2985,
     "mission_buff_pool_ids": "158",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": 74,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S5排行难度5-2-2",
     "online_quest_id": 2986,
     "mission_buff_pool_ids": "158",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": 75,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S5排行难度6-1-1",
     "online_quest_id": 2971,
     "mission_buff_pool_ids": "154",
@@ -1123,7 +1123,7 @@
   },
   {
     "id": 76,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S5排行难度6-1-2",
     "online_quest_id": 2972,
     "mission_buff_pool_ids": "154",
@@ -1140,7 +1140,7 @@
   },
   {
     "id": 77,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S5排行难度6-2-1",
     "online_quest_id": 2987,
     "mission_buff_pool_ids": "158",
@@ -1157,7 +1157,7 @@
   },
   {
     "id": 78,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S5排行难度6-2-2",
     "online_quest_id": 2988,
     "mission_buff_pool_ids": "158",
@@ -1174,7 +1174,7 @@
   },
   {
     "id": 79,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S5排行难度7-1-1",
     "online_quest_id": 2973,
     "mission_buff_pool_ids": "154",
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 80,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [154],
     "name": "S5排行难度7-1-2",
     "online_quest_id": 2974,
     "mission_buff_pool_ids": "154",
@@ -1208,7 +1208,7 @@
   },
   {
     "id": 81,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S5排行难度7-2-1",
     "online_quest_id": 2989,
     "mission_buff_pool_ids": "158",
@@ -1225,7 +1225,7 @@
   },
   {
     "id": 82,
-    "m_mission_buff_pools": [],
+    "m_mission_buff_pools": [158],
     "name": "S5排行难度7-2-2",
     "online_quest_id": 2990,
     "mission_buff_pool_ids": "158",

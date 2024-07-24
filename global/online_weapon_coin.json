@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "光辉晶尘",
+    "name": "Radiant Crystal Dust",
     "editor_name": "武器拆解货币",
-    "desc": "通过拆解史诗级以下装备得到，可以在装备商店中兑换商品。",
+    "desc": "You can obtain it from the breakdown of the gear under Epic. It can be used to redeem goods in the gear shop.",
     "rarity": 3,
     "icon": "material_onlineweaponcoin_sr"
   },
   {
     "id": 2,
-    "name": "光辉晶核",
+    "name": "Radiant Crystal Nucleus",
     "editor_name": "高级武器拆解货币",
-    "desc": "通过拆解传说级装备得到，可以在装备商店中兑换商品。",
+    "desc": "You can obtain it from the Legendary gear breakdown. It can be used to redeem goods in the gear shop.",
     "rarity": 4,
     "icon": "material_onlineweaponcoin_ssr"
   }

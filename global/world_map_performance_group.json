@@ -1,7 +1,7 @@
 [
   {
     "id": 7,
-    "m_world_map_performance_group_relations": [],
+    "m_world_map_performance_group_relations": [1, 2],
     "group_id": 1,
     "idworld_map_performance": 1,
     "name": "",
@@ -9,7 +9,7 @@
   },
   {
     "id": 8,
-    "m_world_map_performance_group_relations": [],
+    "m_world_map_performance_group_relations": [3],
     "group_id": 2,
     "idworld_map_performance": 1,
     "name": "",
@@ -25,7 +25,7 @@
   },
   {
     "id": 10,
-    "m_world_map_performance_group_relations": [],
+    "m_world_map_performance_group_relations": [4, 5],
     "group_id": 1,
     "idworld_map_performance": 2,
     "name": "",
@@ -33,7 +33,7 @@
   },
   {
     "id": 11,
-    "m_world_map_performance_group_relations": [],
+    "m_world_map_performance_group_relations": [6],
     "group_id": 2,
     "idworld_map_performance": 2,
     "name": "",

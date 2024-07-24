@@ -1,7 +1,7 @@
 [
   {
     "id": 10,
-    "m_scenario_options": [],
+    "m_scenario_options": [10001, 10002],
     "name": "0周目_S2_1_牢房",
     "desc": "",
     "scenario": "scenario_interior-ug-ni00201",
@@ -11,7 +11,7 @@
   },
   {
     "id": 11,
-    "m_scenario_options": [],
+    "m_scenario_options": [11003],
     "name": "1周目_S2_1_牢房",
     "desc": "",
     "scenario": "scenario_interior-ug-ni00201",
@@ -21,7 +21,7 @@
   },
   {
     "id": 12,
-    "m_scenario_options": [],
+    "m_scenario_options": [12001, 12002],
     "name": "0周目_S2_2_牢房2楼",
     "desc": "",
     "scenario": "scenario_interior-ug-ni00301",
@@ -41,7 +41,7 @@
   },
   {
     "id": 15,
-    "m_scenario_options": [],
+    "m_scenario_options": [15001, 15002],
     "name": "0周目_S1_1_牢房",
     "desc": "",
     "scenario": "scenario_interior-ug-ni00101",
@@ -121,7 +121,7 @@
   },
   {
     "id": 23,
-    "m_scenario_options": [],
+    "m_scenario_options": [23001, 23002],
     "name": "共通线-庆功宴p2_0020",
     "desc": "",
     "scenario": "scenario_home-mh-da00101",
@@ -131,7 +131,7 @@
   },
   {
     "id": 24,
-    "m_scenario_options": [],
+    "m_scenario_options": [24001],
     "name": "1周目_S4_1_街道",
     "desc": "",
     "scenario": "scenario_city-os-ni00108",
@@ -151,7 +151,7 @@
   },
   {
     "id": 26,
-    "m_scenario_options": [],
+    "m_scenario_options": [26001, 26002, 26003],
     "name": "共通线-铃兰小镇_0019",
     "desc": "",
     "scenario": "scenario_home-fh-da00301",
@@ -201,7 +201,7 @@
   },
   {
     "id": 44,
-    "m_scenario_options": [],
+    "m_scenario_options": [44001, 44002, 44003, 44004],
     "name": "骑士团表线_把酒言欢_0003",
     "desc": "",
     "scenario": "scenario_home-pb-ni00105",
@@ -211,7 +211,7 @@
   },
   {
     "id": 45,
-    "m_scenario_options": [],
+    "m_scenario_options": [45001, 45002],
     "name": "骑士团表线_真正计划_0002_p1",
     "desc": "",
     "scenario": "scenario_home-fh-da00201",
@@ -221,7 +221,7 @@
   },
   {
     "id": 46,
-    "m_scenario_options": [],
+    "m_scenario_options": [46001, 46002, 46003, 46004, 46005, 46006, 46007, 46008],
     "name": "骑士团表线_真正计划_0002_p2",
     "desc": "",
     "scenario": "scenario_home-fh-ni00301",
@@ -231,7 +231,7 @@
   },
   {
     "id": 47,
-    "m_scenario_options": [],
+    "m_scenario_options": [47001, 47002, 47003, 47004, 47005],
     "name": "骑士团表线_真情流露_0004_p1",
     "desc": "",
     "scenario": "scenario_city-os-nisn00601",
@@ -241,7 +241,7 @@
   },
   {
     "id": 48,
-    "m_scenario_options": [],
+    "m_scenario_options": [48001, 48002, 48003],
     "name": "骑士团表线_真情流露_0004_p2",
     "desc": "",
     "scenario": "scenario_interior-ug-ni00401",
@@ -251,7 +251,7 @@
   },
   {
     "id": 49,
-    "m_scenario_options": [],
+    "m_scenario_options": [49001, 49002, 49003, 49004],
     "name": "骑士团表线_歌洛莉亚的崩溃_0005",
     "desc": "",
     "scenario": "scenario_home-fh-niri00301",
@@ -261,7 +261,7 @@
   },
   {
     "id": 50,
-    "m_scenario_options": [],
+    "m_scenario_options": [50001, 50002],
     "name": "骑士团里线_生命的重量_0009",
     "desc": "",
     "scenario": "scenario_home-fh-niri00201",
@@ -321,7 +321,7 @@
   },
   {
     "id": 58,
-    "m_scenario_options": [],
+    "m_scenario_options": [58001],
     "name": "1周目_S4_3_城门晚",
     "desc": "",
     "scenario": "scenario_city-os-ni00208",
@@ -341,7 +341,7 @@
   },
   {
     "id": 60,
-    "m_scenario_options": [],
+    "m_scenario_options": [60005],
     "name": "共通线-忙碌的麦莎_0029",
     "desc": "",
     "scenario": "scenario_home-mh-ni00101",
@@ -351,7 +351,7 @@
   },
   {
     "id": 61,
-    "m_scenario_options": [],
+    "m_scenario_options": [61010],
     "name": "共通线-在铃兰中告别_0026",
     "desc": "",
     "scenario": "scenario_home-fh-ni00301",
@@ -361,7 +361,7 @@
   },
   {
     "id": 62,
-    "m_scenario_options": [],
+    "m_scenario_options": [62001],
     "name": "共通线-落难王子_0030",
     "desc": "",
     "scenario": "scenario_s_plain-os-da00201",
@@ -381,7 +381,7 @@
   },
   {
     "id": 65,
-    "m_scenario_options": [],
+    "m_scenario_options": [65001, 65002],
     "name": "骑士团通用路线-三王女的离开_0032",
     "desc": "",
     "scenario": "scenario_home-os-da00201",
@@ -431,7 +431,7 @@
   },
   {
     "id": 70,
-    "m_scenario_options": [],
+    "m_scenario_options": [70001, 70002, 70003, 70004, 70005, 70006, 70007, 70008, 70009, 70010, 70011, 70012, 70013, 70014, 70015, 70016],
     "name": "骑士团表线_最终审判_0006_2",
     "desc": "",
     "scenario": "scenario_city-os-da00701",
@@ -441,7 +441,7 @@
   },
   {
     "id": 71,
-    "m_scenario_options": [],
+    "m_scenario_options": [71001, 71002],
     "name": "骑士团表线_最终审判_0006_1",
     "desc": "",
     "scenario": "scenario_home-mh-daco00101",
@@ -591,7 +591,7 @@
   },
   {
     "id": 91,
-    "m_scenario_options": [],
+    "m_scenario_options": [91001, 91002, 91003],
     "name": "共通线-创建角色选择性别",
     "desc": "",
     "scenario": "scenario_createchar",
@@ -601,7 +601,7 @@
   },
   {
     "id": 92,
-    "m_scenario_options": [],
+    "m_scenario_options": [92011, 92012, 92013, 92014, 92015, 92016, 92017, 92018],
     "name": "共通线-诺诺薇儿蜜月期",
     "desc": "",
     "scenario": "scenario_home-fh-ni00301",
@@ -611,7 +611,7 @@
   },
   {
     "id": 93,
-    "m_scenario_options": [],
+    "m_scenario_options": [93001],
     "name": "共通线-三王女的努力终",
     "desc": "",
     "scenario": "scenario_home-os-da00301",
@@ -621,7 +621,7 @@
   },
   {
     "id": 94,
-    "m_scenario_options": [],
+    "m_scenario_options": [94001, 94002, 94003, 94004, 94005],
     "name": "共通线-诺诺薇儿献歌",
     "desc": "",
     "scenario": "scenario_home-pb-ni00101",
@@ -631,7 +631,7 @@
   },
   {
     "id": 95,
-    "m_scenario_options": [],
+    "m_scenario_options": [95001],
     "name": "共通线-救治失败",
     "desc": "",
     "scenario": "scenario_home-ch-ni00101",
@@ -641,7 +641,7 @@
   },
   {
     "id": 96,
-    "m_scenario_options": [],
+    "m_scenario_options": [96006, 96007],
     "name": "共通线-高谈阔论\n\n有信物",
     "desc": "",
     "scenario": "scenario_home-pb-ni00101",
@@ -661,7 +661,7 @@
   },
   {
     "id": 98,
-    "m_scenario_options": [],
+    "m_scenario_options": [98002],
     "name": "共通线-魔药或圣光",
     "desc": "",
     "scenario": "scenario_home-ch-ni00101",
@@ -681,7 +681,7 @@
   },
   {
     "id": 100,
-    "m_scenario_options": [],
+    "m_scenario_options": [100004, 100005, 100006, 100007, 100008, 100009, 100010, 100011, 100012, 100013, 100014, 100015, 100016, 100017, 100018, 100019, 100020],
     "name": "在乐土码头醒来",
     "desc": "",
     "scenario": "scenario_dls_virtual-sky-da00301",
@@ -691,7 +691,7 @@
   },
   {
     "id": 101,
-    "m_scenario_options": [],
+    "m_scenario_options": [101001, 101002, 101003],
     "name": "引导去0-1",
     "desc": "",
     "scenario": "scenario_dls_virtual-sky-da00301",
@@ -791,7 +791,7 @@
   },
   {
     "id": 111,
-    "m_scenario_options": [],
+    "m_scenario_options": [111001, 111002],
     "name": "零周目结束黑屏进字",
     "desc": "",
     "scenario": "scenario_end",
@@ -821,7 +821,7 @@
   },
   {
     "id": 114,
-    "m_scenario_options": [],
+    "m_scenario_options": [114001],
     "name": "大姐头入伙",
     "desc": "",
     "scenario": "scenario_dls_virtual-sky-da00201",
@@ -841,7 +841,7 @@
   },
   {
     "id": 116,
-    "m_scenario_options": [],
+    "m_scenario_options": [116001, 116002],
     "name": "舞台演出3-1",
     "desc": "",
     "scenario": "scenario_innerstage03",
@@ -871,7 +871,7 @@
   },
   {
     "id": 119,
-    "m_scenario_options": [],
+    "m_scenario_options": [119003, 119004],
     "name": "舞台演出3-17",
     "desc": "",
     "scenario": "scenario_innerstage03",
@@ -881,7 +881,7 @@
   },
   {
     "id": 120,
-    "m_scenario_options": [],
+    "m_scenario_options": [120001, 120002, 120003, 120004, 120005, 120006, 120007, 120008, 120009, 120010, 120011, 120012, 120013],
     "name": "王国军线-共乘马车",
     "desc": "",
     "scenario": "scenario_interior-spcl-da00101",
@@ -901,7 +901,7 @@
   },
   {
     "id": 122,
-    "m_scenario_options": [],
+    "m_scenario_options": [122030, 122059],
     "name": "王国军线-玩家和三王女举旗",
     "desc": "",
     "scenario": "scenario_city-pit-da00201",
@@ -921,7 +921,7 @@
   },
   {
     "id": 124,
-    "m_scenario_options": [],
+    "m_scenario_options": [124001, 124002],
     "name": "王国军线-大王子邀约逼宫",
     "desc": "",
     "scenario": "scenario_city-spcl-ni00201",
@@ -931,7 +931,7 @@
   },
   {
     "id": 125,
-    "m_scenario_options": [],
+    "m_scenario_options": [125003, 125004],
     "name": "王国军线-索菲亚杀大王子a",
     "desc": "",
     "scenario": "scenario_city-spcl-ni00201",
@@ -961,7 +961,7 @@
   },
   {
     "id": 128,
-    "m_scenario_options": [],
+    "m_scenario_options": [128001, 128002],
     "name": "王国军线-奥古斯特白门楼",
     "desc": "",
     "scenario": "scenario_city-os-da00901",
@@ -971,7 +971,7 @@
   },
   {
     "id": 129,
-    "m_scenario_options": [],
+    "m_scenario_options": [129021],
     "name": "王国军线-三王女来到矿坑城",
     "desc": "",
     "scenario": "scenario_city-pit-da00201",
@@ -981,7 +981,7 @@
   },
   {
     "id": 130,
-    "m_scenario_options": [],
+    "m_scenario_options": [130009, 130010, 130011, 130012, 130013, 130014, 130015, 130016, 130017, 130018, 130019, 130020],
     "name": "王国军线-潜入矿坑城",
     "desc": "",
     "scenario": "scenario_city-pit-da00201",
@@ -991,7 +991,7 @@
   },
   {
     "id": 131,
-    "m_scenario_options": [],
+    "m_scenario_options": [131002, 131003, 131004, 131005, 131006, 131007],
     "name": "王国军线-大王子的召见2",
     "desc": "",
     "scenario": "scenario_interior-ca-da00301",
@@ -1001,7 +1001,7 @@
   },
   {
     "id": 132,
-    "m_scenario_options": [],
+    "m_scenario_options": [132004, 132005, 132006, 132007],
     "name": "王国军线-三王女的去留",
     "desc": "",
     "scenario": "scenario_home-fh-da00301",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": 133,
-    "m_scenario_options": [],
+    "m_scenario_options": [133001],
     "name": "王国军线-觐见大王子",
     "desc": "",
     "scenario": "scenario_interior-ca-da00301",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 134,
-    "m_scenario_options": [],
+    "m_scenario_options": [134001, 134002, 134003, 134004],
     "name": "王国军线-大王子召见",
     "desc": "",
     "scenario": "scenario_interior-ca-du00301",
@@ -1031,7 +1031,7 @@
   },
   {
     "id": 135,
-    "m_scenario_options": [],
+    "m_scenario_options": [135001, 135002, 135003, 135004, 135005, 135006],
     "name": "王国军线-鸿门宴",
     "desc": "",
     "scenario": "scenario_interior-ca-ni00801",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 140,
-    "m_scenario_options": [],
+    "m_scenario_options": [140001, 140002, 140003],
     "name": "王国军线-殉情",
     "desc": "",
     "scenario": "scenario_interior-ca-ni00301",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 144,
-    "m_scenario_options": [],
+    "m_scenario_options": [144003, 144004, 144005, 144006],
     "name": "王国军线-墓前解说",
     "desc": "",
     "scenario": "scenario_home-fh-da00201",
@@ -1131,7 +1131,7 @@
   },
   {
     "id": 145,
-    "m_scenario_options": [],
+    "m_scenario_options": [145007, 145008, 145009, 145010],
     "name": "王国军线-索菲亚悼念鲁特菲",
     "desc": "",
     "scenario": "scenario_home-fh-da00201",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 148,
-    "m_scenario_options": [],
+    "m_scenario_options": [148001, 148002, 148003, 148004],
     "name": "舞台演出8-6",
     "desc": "scenario_innerstage_8-6",
     "scenario": "scenario_innerstage08",
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 151,
-    "m_scenario_options": [],
+    "m_scenario_options": [151005, 151006, 151007],
     "name": "舞台演出8-17",
     "desc": "scenario_innerstage_8-17",
     "scenario": "scenario_innerstage08",
@@ -1211,7 +1211,7 @@
   },
   {
     "id": 153,
-    "m_scenario_options": [],
+    "m_scenario_options": [153001, 153002],
     "name": "舞台演出5-18",
     "desc": "scenario_innerstage_5-18",
     "scenario": "scenario_innerstage05",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 169,
-    "m_scenario_options": [],
+    "m_scenario_options": [169001, 169002, 169003, 169004],
     "name": "泰登羁绊2",
     "desc": "scenario_friendship_hknightsoldknight_02",
     "scenario": "scenario_friendship_hknightsoldknight",
@@ -1281,7 +1281,7 @@
   },
   {
     "id": 174,
-    "m_scenario_options": [],
+    "m_scenario_options": [174002, 174003, 174004],
     "name": "晶石少女羁绊2",
     "desc": "scenario_friendship_hvilderwitchf_02",
     "scenario": "scenario_friendship_hvilderwitchf",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": 175,
-    "m_scenario_options": [],
+    "m_scenario_options": [175001],
     "name": "晶石少女羁绊3",
     "desc": "scenario_friendship_hvilderwitchf_03",
     "scenario": "scenario_friendship_hvilderwitchf",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 187,
-    "m_scenario_options": [],
+    "m_scenario_options": [187001, 187002],
     "name": "歌洛莉亚羁绊2",
     "desc": "scenario_friendship_hknightspaladinf_02",
     "scenario": "scenario_friendship_hknightspaladinf",
@@ -1351,7 +1351,7 @@
   },
   {
     "id": 192,
-    "m_scenario_options": [],
+    "m_scenario_options": [192023, 192024, 192025, 192026],
     "name": "法皇国线-矿坑城的局势",
     "desc": "矿坑城的局势",
     "scenario": "scenario_city-pit-da00201",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 193,
-    "m_scenario_options": [],
+    "m_scenario_options": [193027],
     "name": "法皇国线-达成一致",
     "desc": "达成一致",
     "scenario": "scenario_city-pit-da00201",
@@ -1371,7 +1371,7 @@
   },
   {
     "id": 194,
-    "m_scenario_options": [],
+    "m_scenario_options": [194001, 194002, 194003, 194004, 194005, 194006],
     "name": "法皇国线-矿坑城的小女孩",
     "desc": "矿坑城的小女孩",
     "scenario": "scenario_city-spcl-da00101",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 195,
-    "m_scenario_options": [],
+    "m_scenario_options": [195006, 195007, 195008, 195009, 195010, 195011, 195012, 195013, 195014],
     "name": "法皇国线-米格尔登场",
     "desc": "米格尔登场",
     "scenario": "scenario_home-mh-ni00101",
@@ -1391,7 +1391,7 @@
   },
   {
     "id": 196,
-    "m_scenario_options": [],
+    "m_scenario_options": [196001],
     "name": "法皇国线-谈判破裂",
     "desc": "谈判破裂",
     "scenario": "scenario_interior-ca-ni00401",
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 197,
-    "m_scenario_options": [],
+    "m_scenario_options": [197003, 197004, 197005, 197006, 197007, 197008, 197009, 197010, 197011],
     "name": "法皇国线-邦国王子真情流露",
     "desc": "邦国王子真情流露",
     "scenario": "scenario_home-mh-daco00101",
@@ -1411,7 +1411,7 @@
   },
   {
     "id": 198,
-    "m_scenario_options": [],
+    "m_scenario_options": [198002, 198003, 198004, 198005, 198006, 198007, 198008, 198009, 198010, 198011, 198012, 198013, 198014, 198015, 198016, 198017],
     "name": "法皇国线-揭开面具",
     "desc": "揭开面具",
     "scenario": "scenario_home-os-da00301",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": 200,
-    "m_scenario_options": [],
+    "m_scenario_options": [200018, 200019, 200020, 200021, 200022, 200023, 200024, 200025, 200026, 200027, 200028],
     "name": "法皇国线-拉维耶之死",
     "desc": "拉维耶之死",
     "scenario": "scenario_home-fh-da00301",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 201,
-    "m_scenario_options": [],
+    "m_scenario_options": [201001, 201002, 201003, 201004, 201005],
     "name": "法皇国线-鹰隼绝路（里）",
     "desc": "鹰隼绝路（里）",
     "scenario": "scenario_plain-cp-ni00401",
@@ -1451,7 +1451,7 @@
   },
   {
     "id": 202,
-    "m_scenario_options": [],
+    "m_scenario_options": [202001, 202002, 202003, 202004, 202005, 202006, 202007, 202008, 202009, 202010],
     "name": "法皇国线-邦国王子之死",
     "desc": "邦国王子之死",
     "scenario": "scenario_interior-pa-ni00101",
@@ -1461,7 +1461,7 @@
   },
   {
     "id": 203,
-    "m_scenario_options": [],
+    "m_scenario_options": [203006, 203007],
     "name": "法皇国线-鹰隼绝路",
     "desc": "鹰隼绝路",
     "scenario": "scenario_plain-cp-ni00401",
@@ -1481,7 +1481,7 @@
   },
   {
     "id": 205,
-    "m_scenario_options": [],
+    "m_scenario_options": [205001, 205002, 205003],
     "name": "法皇国线-法卡尔与麦莎的祈祷",
     "desc": "法卡尔与麦莎的祈祷",
     "scenario": "scenario_home-ch-da00101",
@@ -1491,7 +1491,7 @@
   },
   {
     "id": 206,
-    "m_scenario_options": [],
+    "m_scenario_options": [206029, 206030, 206031, 206032, 206033, 206034, 206035, 206036],
     "name": "法皇国线-萨曼莎的革新",
     "desc": "萨曼莎的革新",
     "scenario": "scenario_home-fh-da00301",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 209,
-    "m_scenario_options": [],
+    "m_scenario_options": [209025, 209026, 209027, 209028, 209029, 209030],
     "name": "法皇国线-萨曼莎道别",
     "desc": "萨曼莎道别",
     "scenario": "scenario_home-fh-ni00301",
@@ -1541,7 +1541,7 @@
   },
   {
     "id": 211,
-    "m_scenario_options": [],
+    "m_scenario_options": [211001, 211002],
     "name": "法皇国线-王都之乱",
     "desc": "王都之乱",
     "scenario": "scenario_interior-ca-ni00101",
@@ -1551,7 +1551,7 @@
   },
   {
     "id": 212,
-    "m_scenario_options": [],
+    "m_scenario_options": [212001, 212002, 212003, 212004, 212005, 212006, 212007],
     "name": "法皇国线-初见法皇之手",
     "desc": "初见法皇之手",
     "scenario": "scenario_interior-pa-da00201",
@@ -1581,7 +1581,7 @@
   },
   {
     "id": 215,
-    "m_scenario_options": [],
+    "m_scenario_options": [215001, 215002],
     "name": "法皇国线-刺杀之前",
     "desc": "刺杀之前",
     "scenario": "scenario_s_plain-cp-ni00201",
@@ -1591,7 +1591,7 @@
   },
   {
     "id": 217,
-    "m_scenario_options": [],
+    "m_scenario_options": [217037, 217038, 217039, 217040, 217041, 217042, 217043, 217044, 217045, 217046, 217047, 217048, 217049, 217050],
     "name": "法皇国线-与萨曼莎启程",
     "desc": "与萨曼莎启程",
     "scenario": "scenario_home-fh-da00301",
@@ -1611,7 +1611,7 @@
   },
   {
     "id": 219,
-    "m_scenario_options": [],
+    "m_scenario_options": [219003, 219004],
     "name": "法皇国线-关键抉择（里）",
     "desc": "关键抉择（里）",
     "scenario": "scenario_home-ch-ni00101",
@@ -1631,7 +1631,7 @@
   },
   {
     "id": 222,
-    "m_scenario_options": [],
+    "m_scenario_options": [222015, 222016, 222017, 222018, 222019, 222020, 222021, 222022],
     "name": "法皇国线-米格尔的计划1",
     "desc": "米格尔的计划1",
     "scenario": "scenario_home-mh-ni00101",
@@ -1651,7 +1651,7 @@
   },
   {
     "id": 227,
-    "m_scenario_options": [],
+    "m_scenario_options": [227019, 227020, 227021, 227022, 227023, 227024],
     "name": "法皇国线-愿天堂无痛苦2",
     "desc": "愿天堂无痛苦2",
     "scenario": "scenario_home-fh-ni00301",
@@ -1661,7 +1661,7 @@
   },
   {
     "id": 228,
-    "m_scenario_options": [],
+    "m_scenario_options": [228001, 228002, 228003],
     "name": "法皇国线-战争之外的片刻",
     "desc": "战争之外的片刻",
     "scenario": "scenario_cave-spcl-co00101",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 230,
-    "m_scenario_options": [],
+    "m_scenario_options": [230003, 230004],
     "name": "法皇国线-战争之外的片刻3",
     "desc": "战争之外的片刻3",
     "scenario": "scenario_cave-spcl-da00101",
@@ -1701,7 +1701,7 @@
   },
   {
     "id": 233,
-    "m_scenario_options": [],
+    "m_scenario_options": [233008, 233009, 233010, 233011, 233012, 233013, 233014, 233015, 233016, 233017],
     "name": "法皇国线-三王女告别",
     "desc": "三王女告别",
     "scenario": "scenario_home-fh-da00301",
@@ -1711,7 +1711,7 @@
   },
   {
     "id": 234,
-    "m_scenario_options": [],
+    "m_scenario_options": [234001, 234002, 234003],
     "name": "4-6演出",
     "desc": "网游timeline4-6演出",
     "scenario": "scenario_s_battle017",
@@ -1721,7 +1721,7 @@
   },
   {
     "id": 235,
-    "m_scenario_options": [],
+    "m_scenario_options": [235001, 235002, 235003, 235004],
     "name": "4-12演出",
     "desc": "网游timeline4-12演出",
     "scenario": "scenario_battle000_012",
@@ -1771,7 +1771,7 @@
   },
   {
     "id": 240,
-    "m_scenario_options": [],
+    "m_scenario_options": [240001, 240002],
     "name": "第1章获得塔罗牌",
     "desc": "第1章获得塔罗牌舞台演出",
     "scenario": "scenario_innerstage_tlp",
@@ -1791,7 +1791,7 @@
   },
   {
     "id": 242,
-    "m_scenario_options": [],
+    "m_scenario_options": [242003, 242004],
     "name": "第6章获得塔罗牌",
     "desc": "第6章获得塔罗牌舞台演出",
     "scenario": "scenario_innerstage_tlp",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": 243,
-    "m_scenario_options": [],
+    "m_scenario_options": [243005, 243006],
     "name": "第7章获得塔罗牌",
     "desc": "第7章获得塔罗牌舞台演出",
     "scenario": "scenario_innerstage_tlp",
@@ -1881,7 +1881,7 @@
   },
   {
     "id": 251,
-    "m_scenario_options": [],
+    "m_scenario_options": [251001, 251002],
     "name": "舞台演出10-18",
     "desc": "scenario_innerstage_10-18",
     "scenario": "scenario_innerstage10",
@@ -1911,7 +1911,7 @@
   },
   {
     "id": 255,
-    "m_scenario_options": [],
+    "m_scenario_options": [255021, 255022],
     "name": "解锁启示录",
     "desc": "解锁启示录",
     "scenario": "scenario_dls_virtual-sky-da00301",
@@ -1941,7 +1941,7 @@
   },
   {
     "id": 258,
-    "m_scenario_options": [],
+    "m_scenario_options": [258001, 258002, 258003, 258004],
     "name": "诺诺薇儿羁绊2",
     "desc": "scenario_friendship_hvildersistersinger_02",
     "scenario": "scenario_friendship_hvildersistersinger",
@@ -1981,7 +1981,7 @@
   },
   {
     "id": 262,
-    "m_scenario_options": [],
+    "m_scenario_options": [262001, 262002],
     "name": "舞台演出9-18",
     "desc": "scenario_innerstage_9-18",
     "scenario": "scenario_innerstage09",
@@ -2191,7 +2191,7 @@
   },
   {
     "id": 284,
-    "m_scenario_options": [],
+    "m_scenario_options": [284012, 284013, 284014, 284015, 284016, 284017, 284018],
     "name": "席梦娜羁绊1",
     "desc": "scenario_friendship_hknightsicemagefset_01席梦娜羁绊1",
     "scenario": "scenario_friendship_hknightsicemagefset",
@@ -2201,7 +2201,7 @@
   },
   {
     "id": 285,
-    "m_scenario_options": [],
+    "m_scenario_options": [285001, 285002, 285010, 285011],
     "name": "席梦娜羁绊2",
     "desc": "scenario_friendship_hknightsicemagefset_02席梦娜羁绊2、席梦娜羁绊2_b",
     "scenario": "scenario_friendship_hknightsicemagefset",
@@ -2211,7 +2211,7 @@
   },
   {
     "id": 286,
-    "m_scenario_options": [],
+    "m_scenario_options": [286006, 286007, 286008, 286009, 286010, 286011],
     "name": "阿列克谢羁绊1",
     "desc": "scenario_friendship_hluciayoungcolonelm_01阿列克谢羁绊1含分支_b",
     "scenario": "scenario_friendship_hluciayoungcolonelm",
@@ -2221,7 +2221,7 @@
   },
   {
     "id": 287,
-    "m_scenario_options": [],
+    "m_scenario_options": [287011, 287012, 287013, 287014],
     "name": "卡丽丝羁绊1",
     "desc": "卡丽丝羁绊01",
     "scenario": "scenario_friendship_hpapalbishopf",
@@ -2231,7 +2231,7 @@
   },
   {
     "id": 288,
-    "m_scenario_options": [],
+    "m_scenario_options": [288005, 288006, 288007, 288008, 288009, 288010],
     "name": "卡丽丝羁绊2",
     "desc": "卡丽丝羁绊02、卡丽丝羁绊02_b",
     "scenario": "scenario_friendship_hpapalbishopf",
@@ -2241,7 +2241,7 @@
   },
   {
     "id": 289,
-    "m_scenario_options": [],
+    "m_scenario_options": [289001, 289002, 289003, 289004, 289005, 289006, 289007, 289008],
     "name": "夏可露露羁绊1",
     "desc": "scenario_friendship_hvilderdancerf_01夏可露露羁绊1",
     "scenario": "scenario_friendship_hvilderdancerf",
@@ -2251,7 +2251,7 @@
   },
   {
     "id": 290,
-    "m_scenario_options": [],
+    "m_scenario_options": [290009, 290010, 290011, 290012, 290013, 290014, 290015, 290016],
     "name": "夏可露露羁绊2",
     "desc": "scenario_friendship_hvilderdancerf_02夏可露露羁绊2",
     "scenario": "scenario_friendship_hvilderdancerf",
@@ -2261,7 +2261,7 @@
   },
   {
     "id": 291,
-    "m_scenario_options": [],
+    "m_scenario_options": [291001, 291002, 291003, 291004, 291005, 291006, 291007, 291008, 291009, 291010, 291011, 291012, 291013, 291014],
     "name": "塔埃尔羁绊1",
     "desc": "scenario_friendship_hpapalprincem_01塔埃尔羁绊1",
     "scenario": "scenario_friendship_hpapalprincem",
@@ -2271,7 +2271,7 @@
   },
   {
     "id": 292,
-    "m_scenario_options": [],
+    "m_scenario_options": [292001, 292002],
     "name": "大型活动2_第一次宴会",
     "desc": "",
     "scenario": "scenario_dls_virtual-sky-da00202",
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 305,
-    "m_scenario_options": [],
+    "m_scenario_options": [305001, 305002],
     "name": "第12章开启演出2",
     "desc": "第12章开启演出",
     "scenario": "scenario_dls_virtual-sky-da00302",
@@ -2421,7 +2421,7 @@
   },
   {
     "id": 307,
-    "m_scenario_options": [],
+    "m_scenario_options": [307002, 307003, 307004],
     "name": "第12章开启演出",
     "desc": "第12章开启演出",
     "scenario": "scenario_dls_virtual-sky-da00201",
@@ -2441,7 +2441,7 @@
   },
   {
     "id": 309,
-    "m_scenario_options": [],
+    "m_scenario_options": [309003, 309004, 309005, 309006, 309007, 309008],
     "name": "12-7演出2",
     "desc": "12-7演出2",
     "scenario": "scenario_dls_virtual-sky-da00302",
@@ -2451,7 +2451,7 @@
   },
   {
     "id": 310,
-    "m_scenario_options": [],
+    "m_scenario_options": [310001, 310002, 310003],
     "name": "12-16演出",
     "desc": "12-16演出",
     "scenario": "scenario_battle000_019",
@@ -2471,7 +2471,7 @@
   },
   {
     "id": 312,
-    "m_scenario_options": [],
+    "m_scenario_options": [312001, 312002, 312003, 312004, 312005, 312006, 312007, 312008, 312009, 312010, 312011, 312012],
     "name": "拉维耶羁绊1",
     "desc": "scenario_friendship_hplayersisterlavier_01拉维耶羁绊1",
     "scenario": "scenario_friendship_hplayersisterlavier",
@@ -2481,7 +2481,7 @@
   },
   {
     "id": 313,
-    "m_scenario_options": [],
+    "m_scenario_options": [313001, 313002, 313003, 313004, 313005, 313006, 313007],
     "name": "法卡尔羁绊1",
     "desc": "scenario_friendship_hplayermercenaryboy_01法卡尔羁绊1",
     "scenario": "scenario_friendship_hplayermercenaryboy",
@@ -2491,7 +2491,7 @@
   },
   {
     "id": 314,
-    "m_scenario_options": [],
+    "m_scenario_options": [314001, 314002, 314003, 314004, 314005, 314006, 314007, 314008, 314009, 314010, 314011, 314012, 314013, 314014, 314015, 314016],
     "name": "麦莎羁绊1",
     "desc": "scenario_friendship_hplayermercenarygirl_01麦莎羁绊1",
     "scenario": "scenario_friendship_hplayermercenarygirl",
@@ -2501,7 +2501,7 @@
   },
   {
     "id": 315,
-    "m_scenario_options": [],
+    "m_scenario_options": [315001, 315002, 315003, 315004, 315005, 315006, 315007, 315008],
     "name": "蔻蔻娜羁绊1",
     "desc": "scenario_friendship_hsolomonhalfblood_01蔻蔻娜羁绊1",
     "scenario": "scenario_friendship_hsolomonhalfblood",
@@ -2511,7 +2511,7 @@
   },
   {
     "id": 316,
-    "m_scenario_options": [],
+    "m_scenario_options": [316001, 316002, 316003, 316004],
     "name": "阿坎贝羁绊1",
     "desc": "scenario_friendship_hsolomonbusinessman_01阿坎贝羁绊1",
     "scenario": "scenario_friendship_hsolomonbusinessman",
@@ -2521,7 +2521,7 @@
   },
   {
     "id": 317,
-    "m_scenario_options": [],
+    "m_scenario_options": [317001, 317002, 317003],
     "name": "霍玛羁绊1",
     "desc": "scenario_friendship_hsolomonparrotgirl霍玛羁绊1",
     "scenario": "scenario_friendship_hsolomonparrotgirl",
@@ -2531,7 +2531,7 @@
   },
   {
     "id": 318,
-    "m_scenario_options": [],
+    "m_scenario_options": [318001, 318002, 318003, 318004],
     "name": "哈斯娜羁绊1",
     "desc": "scenario_friendship_hsolomonblind_01哈斯娜羁绊1",
     "scenario": "scenario_friendship_hsolomonblind",
@@ -2541,7 +2541,7 @@
   },
   {
     "id": 319,
-    "m_scenario_options": [],
+    "m_scenario_options": [319001, 319002, 319003, 319004, 319005, 319006],
     "name": "埃拉曼线-奇怪的少女",
     "desc": "埃拉曼线-奇怪的少女",
     "scenario": "scenario_home-pb-da00101",
@@ -2571,7 +2571,7 @@
   },
   {
     "id": 322,
-    "m_scenario_options": [],
+    "m_scenario_options": [322008, 322009, 322010, 322011, 322012, 322013, 322014, 322015],
     "name": "埃拉曼线-无声的告别3",
     "desc": "埃拉曼线-无声的告别3",
     "scenario": "scenario_home-pb-ni00101",
@@ -2581,7 +2581,7 @@
   },
   {
     "id": 323,
-    "m_scenario_options": [],
+    "m_scenario_options": [323016, 323017, 323018, 323019, 323020, 323021, 323022, 323023, 323024, 323025, 323026],
     "name": "埃拉曼线-庆祝商会建成2",
     "desc": "埃拉曼线-庆祝商会建成2",
     "scenario": "scenario_home-pb-ni00101",
@@ -2591,7 +2591,7 @@
   },
   {
     "id": 324,
-    "m_scenario_options": [],
+    "m_scenario_options": [324027, 324028, 324029, 324030, 324031, 324032, 324033, 324034, 324035, 324036, 324037, 324038, 324039, 324040, 324041, 324042, 324043, 324044, 324045, 324046],
     "name": "埃拉曼线-藏不住心事的耳朵",
     "desc": "埃拉曼线-藏不住心事的耳朵",
     "scenario": "scenario_home-pb-ni00101",
@@ -2601,7 +2601,7 @@
   },
   {
     "id": 325,
-    "m_scenario_options": [],
+    "m_scenario_options": [325003, 325004, 325005, 325006, 325007, 325008, 325009],
     "name": "埃拉曼线-旅行的见闻",
     "desc": "埃拉曼线-旅行的见闻",
     "scenario": "scenario_home-mh-da00101",
@@ -2611,7 +2611,7 @@
   },
   {
     "id": 326,
-    "m_scenario_options": [],
+    "m_scenario_options": [326031, 326032, 326033, 326034, 326035, 326036, 326037, 326038, 326039, 326040, 326041, 326042, 326043, 326044, 326045, 326046],
     "name": "埃拉曼线-意料之外的故事",
     "desc": "埃拉曼线-意料之外的故事",
     "scenario": "scenario_home-fh-ni00301",
@@ -2621,7 +2621,7 @@
   },
   {
     "id": 327,
-    "m_scenario_options": [],
+    "m_scenario_options": [327001, 327002, 327003, 327004, 327005, 327006, 327007, 327008, 327009, 327010, 327011, 327012, 327013, 327014, 327015],
     "name": "埃拉曼线-三王女加入商会",
     "desc": "埃拉曼线-三王女加入商会",
     "scenario": "scenario_home-mk-du00101",
@@ -2631,7 +2631,7 @@
   },
   {
     "id": 328,
-    "m_scenario_options": [],
+    "m_scenario_options": [328016, 328017, 328018, 328019, 328020, 328021],
     "name": "埃拉曼线-无法合作",
     "desc": "埃拉曼线-无法合作",
     "scenario": "scenario_home-mk-du00101",
@@ -2641,7 +2641,7 @@
   },
   {
     "id": 329,
-    "m_scenario_options": [],
+    "m_scenario_options": [329047, 329048, 329049, 329050, 329051, 329052, 329053, 329054, 329055, 329056, 329057, 329058],
     "name": "埃拉曼线-混血少女的反应",
     "desc": "埃拉曼线-混血少女的反应",
     "scenario": "scenario_home-fh-ni00301",
@@ -2651,7 +2651,7 @@
   },
   {
     "id": 330,
-    "m_scenario_options": [],
+    "m_scenario_options": [330016, 330017],
     "name": "埃拉曼线-歌洛莉亚三王女对手戏",
     "desc": "埃拉曼线-歌洛莉亚三王女对手戏",
     "scenario": "scenario_home-mk-ni00101",
@@ -2661,7 +2661,7 @@
   },
   {
     "id": 331,
-    "m_scenario_options": [],
+    "m_scenario_options": [331001, 331002, 331003, 331004, 331005, 331006, 331007, 331008, 331009, 331010, 331011, 331012, 331013, 331014, 331015],
     "name": "埃拉曼线-鹦鹉人解救困境",
     "desc": "埃拉曼线-鹦鹉人解救困境",
     "scenario": "scenario_home-mk-ni00101",
@@ -2671,7 +2671,7 @@
   },
   {
     "id": 332,
-    "m_scenario_options": [],
+    "m_scenario_options": [332010, 332011, 332012, 332013],
     "name": "埃拉曼线-怀念混血少女",
     "desc": "埃拉曼线-怀念混血少女",
     "scenario": "scenario_home-mh-da00101",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": 333,
-    "m_scenario_options": [],
+    "m_scenario_options": [333014, 333015],
     "name": "埃拉曼线-原形毕露",
     "desc": "埃拉曼线-原形毕露",
     "scenario": "scenario_home-os-ni00101",
@@ -2691,7 +2691,7 @@
   },
   {
     "id": 334,
-    "m_scenario_options": [],
+    "m_scenario_options": [334001, 334002, 334003, 334004, 334005, 334006, 334007, 334008, 334009, 334010, 334011, 334012, 334013],
     "name": "埃拉曼线-置身事内",
     "desc": "埃拉曼线-置身事内",
     "scenario": "scenario_home-os-ni00101",
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 335,
-    "m_scenario_options": [],
+    "m_scenario_options": [335001, 335002, 335003],
     "name": "埃拉曼线-鹦鹉人碰瓷",
     "desc": "埃拉曼线-鹦鹉人碰瓷",
     "scenario": "scenario_s_plain-os-da00701",
@@ -2711,7 +2711,7 @@
   },
   {
     "id": 336,
-    "m_scenario_options": [],
+    "m_scenario_options": [336001, 336002, 336003, 336004, 336005, 336006, 336007],
     "name": "埃拉曼线-鹦鹉人解围",
     "desc": "埃拉曼线-鹦鹉人解围",
     "scenario": "scenario_interior-dzt-da00101",
@@ -2721,7 +2721,7 @@
   },
   {
     "id": 337,
-    "m_scenario_options": [],
+    "m_scenario_options": [337001, 337002, 337003, 337004, 337005, 337006, 337007, 337008, 337009, 337010, 337011, 337012, 337013],
     "name": "埃拉曼线-阿坎贝提议大办铃兰节",
     "desc": "埃拉曼线-阿坎贝提议大办铃兰节",
     "scenario": "scenario_home-mk-da00101",
@@ -2731,7 +2731,7 @@
   },
   {
     "id": 338,
-    "m_scenario_options": [],
+    "m_scenario_options": [338014, 338015, 338016],
     "name": "埃拉曼线-庆祝商会建成1",
     "desc": "埃拉曼线-庆祝商会建成",
     "scenario": "scenario_home-mk-da00101",
@@ -2741,7 +2741,7 @@
   },
   {
     "id": 339,
-    "m_scenario_options": [],
+    "m_scenario_options": [339012, 339013, 339014, 339015, 339016, 339017, 339018, 339019, 339020, 339021, 339022, 339023],
     "name": "埃拉曼线-与阿坎贝产生分歧",
     "desc": "埃拉曼线-与阿坎贝产生分歧",
     "scenario": "scenario_home-mh-daco00101",
@@ -2751,7 +2751,7 @@
   },
   {
     "id": 340,
-    "m_scenario_options": [],
+    "m_scenario_options": [340001, 340002],
     "name": "埃拉曼线-想象中的父亲",
     "desc": "埃拉曼线-想象中的父亲",
     "scenario": "scenario_s_mountain-os-da01201",
@@ -2761,7 +2761,7 @@
   },
   {
     "id": 341,
-    "m_scenario_options": [],
+    "m_scenario_options": [341018, 341019, 341020, 341021, 341022, 341023, 341024, 341025, 341026, 341027, 341028, 341029, 341030, 341031],
     "name": "埃拉曼线-谎言与真相",
     "desc": "埃拉曼线-谎言与真相",
     "scenario": "scenario_home-os-da00301",
@@ -2791,7 +2791,7 @@
   },
   {
     "id": 344,
-    "m_scenario_options": [],
+    "m_scenario_options": [344021, 344022],
     "name": "埃拉曼线-揭发与忏悔",
     "desc": "埃拉曼线-揭发与忏悔",
     "scenario": "scenario_city-ca-da02001",
@@ -2801,7 +2801,7 @@
   },
   {
     "id": 345,
-    "m_scenario_options": [],
+    "m_scenario_options": [345001, 345002, 345003, 345004, 345005],
     "name": "埃拉曼线-第二次和谈a1",
     "desc": "埃拉曼线-第二次和谈a",
     "scenario": "scenario_city-ca-da02001",
@@ -2811,7 +2811,7 @@
   },
   {
     "id": 346,
-    "m_scenario_options": [],
+    "m_scenario_options": [346006, 346007, 346008, 346009],
     "name": "埃拉曼线-第二次和谈a2",
     "desc": "埃拉曼线-第二次和谈a2",
     "scenario": "scenario_city-ca-da02001",
@@ -2821,7 +2821,7 @@
   },
   {
     "id": 347,
-    "m_scenario_options": [],
+    "m_scenario_options": [347010, 347011, 347012, 347013, 347014],
     "name": "埃拉曼线-第二次和谈b1",
     "desc": "埃拉曼线-第二次和谈b1",
     "scenario": "scenario_city-ca-da02001",
@@ -2831,7 +2831,7 @@
   },
   {
     "id": 348,
-    "m_scenario_options": [],
+    "m_scenario_options": [348015, 348016, 348017, 348018, 348019, 348020],
     "name": "埃拉曼线-第二次和谈b2",
     "desc": "埃拉曼线-第二次和谈b2",
     "scenario": "scenario_city-ca-da02001",
@@ -2841,7 +2841,7 @@
   },
   {
     "id": 349,
-    "m_scenario_options": [],
+    "m_scenario_options": [349032, 349033, 349034, 349035, 349036, 349037, 349038],
     "name": "埃拉曼线-阿坎贝救急",
     "desc": "埃拉曼线-阿坎贝救急",
     "scenario": "scenario_home-os-da00301",
@@ -2851,7 +2851,7 @@
   },
   {
     "id": 350,
-    "m_scenario_options": [],
+    "m_scenario_options": [350001, 350002, 350003, 350004, 350005, 350006],
     "name": "埃拉曼线-绿洲邂逅",
     "desc": "埃拉曼线-绿洲邂逅",
     "scenario": "scenario_desert-os-da01201",
@@ -2911,7 +2911,7 @@
   },
   {
     "id": 356,
-    "m_scenario_options": [],
+    "m_scenario_options": [356001, 356002, 356003, 356004],
     "name": "艾达羁绊1",
     "desc": "scenario_friendship_hplayerleaderada_01艾达羁绊1",
     "scenario": "scenario_friendship_hplayerleaderada",
@@ -2951,7 +2951,7 @@
   },
   {
     "id": 361,
-    "m_scenario_options": [],
+    "m_scenario_options": [361001, 361002, 361003, 361004, 361005, 361006],
     "name": "贝拉羁绊1",
     "desc": "scenario_friendship_hplayerlittlewitch_01贝拉羁绊1",
     "scenario": "scenario_friendship_hplayerlittlewitch",
@@ -3221,7 +3221,7 @@
   },
   {
     "id": 389,
-    "m_scenario_options": [],
+    "m_scenario_options": [389001, 389002],
     "name": "拉维耶羁绊2",
     "desc": "scenario_friendship_hcrimsonlavierfset_01拉维耶羁绊2",
     "scenario": "scenario_friendship_hcrimsonlavierfset",
@@ -3231,7 +3231,7 @@
   },
   {
     "id": 390,
-    "m_scenario_options": [],
+    "m_scenario_options": [390001, 390002, 390003, 390004, 390005, 390006, 390007, 390008, 390009, 390010, 390011, 390012, 390013, 390014, 390015],
     "name": "迪塔利奥羁绊1",
     "desc": "scenario_friendship_hiriafprince_01迪塔利奥羁绊1",
     "scenario": "scenario_friendship_hiriafprince",
@@ -3491,7 +3491,7 @@
   },
   {
     "id": 417,
-    "m_scenario_options": [],
+    "m_scenario_options": [417001, 417002, 417003, 417004, 417005, 417006, 417007],
     "name": "翠斯坦羁绊1",
     "desc": "翠斯坦羁绊1",
     "scenario": "scenario_fs_hcrimsonmafialeaderfset",
@@ -3501,7 +3501,7 @@
   },
   {
     "id": 418,
-    "m_scenario_options": [],
+    "m_scenario_options": [418008, 418009, 418010, 418011],
     "name": "翠斯坦羁绊2",
     "desc": "翠斯坦羁绊2",
     "scenario": "scenario_fs_hcrimsonmafialeaderfset",
@@ -3511,7 +3511,7 @@
   },
   {
     "id": 419,
-    "m_scenario_options": [],
+    "m_scenario_options": [419001, 419002, 419003, 419004, 419005, 419006, 419007, 419008],
     "name": "奇亚羁绊1",
     "desc": "奇亚羁绊1",
     "scenario": "scenario_fs_hcrimsonhousemaidkiller",
@@ -3521,7 +3521,7 @@
   },
   {
     "id": 420,
-    "m_scenario_options": [],
+    "m_scenario_options": [420009, 420010, 420011, 420012, 420013, 420014, 420015, 420016, 420017, 420018, 420019],
     "name": "奇亚羁绊2",
     "desc": "奇亚羁绊2",
     "scenario": "scenario_fs_hcrimsonhousemaidkiller",
@@ -3531,7 +3531,7 @@
   },
   {
     "id": 421,
-    "m_scenario_options": [],
+    "m_scenario_options": [421001, 421002, 421003, 421004, 421005, 421006, 421007, 421008],
     "name": "莉拉羁绊1",
     "desc": "莉拉羁绊1",
     "scenario": "scenario_friendship_hcrimsondetectivefset",
@@ -3541,7 +3541,7 @@
   },
   {
     "id": 422,
-    "m_scenario_options": [],
+    "m_scenario_options": [422009, 422010],
     "name": "莉拉羁绊2",
     "desc": "莉拉羁绊2",
     "scenario": "scenario_friendship_hcrimsondetectivefset",
@@ -3971,7 +3971,7 @@
   },
   {
     "id": 465,
-    "m_scenario_options": [],
+    "m_scenario_options": [465001, 465002, 465003, 465004, 465005, 465006, 465007, 465008, 465009],
     "name": "米格尔羁绊1",
     "desc": "米格尔羁绊01",
     "scenario": "scenario_friendship_hpapalmercenaryleader",
@@ -3981,7 +3981,7 @@
   },
   {
     "id": 466,
-    "m_scenario_options": [],
+    "m_scenario_options": [466010, 466011, 466012, 466013, 466014, 466015],
     "name": "米格尔羁绊2",
     "desc": "米格尔羁绊02",
     "scenario": "scenario_friendship_hpapalmercenaryleader",
@@ -3991,7 +3991,7 @@
   },
   {
     "id": 467,
-    "m_scenario_options": [],
+    "m_scenario_options": [467001, 467002, 467003, 467004, 467005, 467006],
     "name": "嘉西娅羁绊1",
     "desc": "嘉西娅羁绊1",
     "scenario": "scenario_friendship_hpapaljudgercfset",
@@ -4001,7 +4001,7 @@
   },
   {
     "id": 468,
-    "m_scenario_options": [],
+    "m_scenario_options": [468007, 468008, 468009, 468010, 468011, 468012, 468013, 468014, 468015],
     "name": "嘉西娅羁绊2",
     "desc": "嘉西娅羁绊2",
     "scenario": "scenario_friendship_hpapaljudgercfset",
@@ -4011,7 +4011,7 @@
   },
   {
     "id": 469,
-    "m_scenario_options": [],
+    "m_scenario_options": [469001, 469002, 469003, 469004, 469005, 469006],
     "name": "萨曼莎羁绊1",
     "desc": "萨曼莎羁绊1",
     "scenario": "scenario_fs_hpapalsamanthafset",
@@ -4021,7 +4021,7 @@
   },
   {
     "id": 470,
-    "m_scenario_options": [],
+    "m_scenario_options": [470007, 470008, 470009, 470010, 470011, 470012, 470013, 470014, 470015, 470016, 470017],
     "name": "萨曼莎羁绊2",
     "desc": "萨曼莎羁绊2",
     "scenario": "scenario_fs_hpapalsamanthafset",
@@ -4031,7 +4031,7 @@
   },
   {
     "id": 471,
-    "m_scenario_options": [],
+    "m_scenario_options": [471001, 471002, 471003, 471004, 471005, 471006, 471007, 471008, 471009],
     "name": "伊奇羁绊1",
     "desc": "伊奇羁绊1",
     "scenario": "scenario_fs_hvildergraywolfmset",
@@ -4041,7 +4041,7 @@
   },
   {
     "id": 472,
-    "m_scenario_options": [],
+    "m_scenario_options": [472010, 472011, 472012, 472013, 472014, 472015],
     "name": "伊奇羁绊2",
     "desc": "伊奇羁绊2",
     "scenario": "scenario_fs_hvildergraywolfmset",
@@ -4051,7 +4051,7 @@
   },
   {
     "id": 473,
-    "m_scenario_options": [],
+    "m_scenario_options": [473003, 473004, 473005, 473006, 473007, 473008, 473009],
     "name": "科尔羁绊2",
     "desc": "科尔羁绊2",
     "scenario": "scenario_fs_hbanditthemaskmset",
@@ -4061,7 +4061,7 @@
   },
   {
     "id": 474,
-    "m_scenario_options": [],
+    "m_scenario_options": [474001, 474002],
     "name": "科尔羁绊1",
     "desc": "科尔羁绊1",
     "scenario": "scenario_fs_hbanditthemaskmset",
@@ -4071,7 +4071,7 @@
   },
   {
     "id": 475,
-    "m_scenario_options": [],
+    "m_scenario_options": [475001, 475002, 475003, 475004, 475005, 475006, 475007],
     "name": "莉莉薇儿羁绊1",
     "desc": "莉莉薇儿羁绊1",
     "scenario": "scenario_fs_hvildersisterchieffset",
@@ -4081,7 +4081,7 @@
   },
   {
     "id": 476,
-    "m_scenario_options": [],
+    "m_scenario_options": [476008, 476009, 476010, 476011],
     "name": "莉莉薇儿羁绊2",
     "desc": "莉莉薇儿羁绊2",
     "scenario": "scenario_fs_hvildersisterchieffset",
@@ -4101,7 +4101,7 @@
   },
   {
     "id": 478,
-    "m_scenario_options": [],
+    "m_scenario_options": [478001, 478002, 478006, 478028, 478029, 478030, 478031, 478032, 478033],
     "name": "古兹曼羁绊1",
     "desc": "古兹曼羁绊1",
     "scenario": "scenario_friendship_hdarklightdarkknight",
@@ -4121,7 +4121,7 @@
   },
   {
     "id": 480,
-    "m_scenario_options": [],
+    "m_scenario_options": [480001, 480002, 480003, 480004],
     "name": "大活3-许愿冰箱",
     "desc": "",
     "scenario": "scenario_s_battle000_012-spcl_a",
@@ -4131,7 +4131,7 @@
   },
   {
     "id": 481,
-    "m_scenario_options": [],
+    "m_scenario_options": [481005, 481006, 481007, 481008, 481009, 481010, 481011, 481012],
     "name": "大活3-冰箱失窃案",
     "desc": "",
     "scenario": "scenario_s_battle000_012-spcl_a",
@@ -4141,7 +4141,7 @@
   },
   {
     "id": 482,
-    "m_scenario_options": [],
+    "m_scenario_options": [482003, 482004, 482005, 482006],
     "name": "大活3-乐园大危机",
     "desc": "",
     "scenario": "scenario_battle000_012-spcl",
@@ -4151,7 +4151,7 @@
   },
   {
     "id": 483,
-    "m_scenario_options": [],
+    "m_scenario_options": [483001, 483002],
     "name": "大活3-愿望实现的不完美时空",
     "desc": "",
     "scenario": "scenario_battle000_012-spcl",
@@ -4161,7 +4161,7 @@
   },
   {
     "id": 495,
-    "m_scenario_options": [],
+    "m_scenario_options": [495001, 495002, 495003, 495004, 495005, 495006],
     "name": "伦伽勒羁绊1",
     "desc": "伦伽勒羁绊1",
     "scenario": "scenario_fs_hpolicetwinsfset",
@@ -4171,7 +4171,7 @@
   },
   {
     "id": 496,
-    "m_scenario_options": [],
+    "m_scenario_options": [496001, 496002, 496003, 496004, 496005, 496006],
     "name": "内尔伽勒羁绊1",
     "desc": "内尔伽勒羁绊1",
     "scenario": "scenario_fs_hpolicetwinsmset",
@@ -4181,7 +4181,7 @@
   },
   {
     "id": 497,
-    "m_scenario_options": [],
+    "m_scenario_options": [497007, 497008, 497009, 497010],
     "name": "伦伽勒羁绊2",
     "desc": "伦伽勒羁绊2",
     "scenario": "scenario_fs_hpolicetwinsfset",

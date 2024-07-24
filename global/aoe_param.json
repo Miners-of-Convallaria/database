@@ -8,7 +8,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 59
+    "spid": 59,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 2,
@@ -19,7 +22,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 60
+    "spid": 60,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 3,
@@ -30,7 +36,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 61
+    "spid": 61,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 4,
@@ -41,7 +50,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 66
+    "spid": 66,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 5,
@@ -52,7 +64,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 80
+    "spid": 80,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 6,
@@ -63,7 +78,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 99
+    "spid": 99,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 7,
@@ -74,7 +92,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 105
+    "spid": 105,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 8,
@@ -85,7 +106,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 127
+    "spid": 127,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 9,
@@ -96,7 +120,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 133
+    "spid": 133,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 10,
@@ -107,7 +134,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 134
+    "spid": 134,
+    "range_min": 2,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 11,
@@ -118,7 +148,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 168
+    "spid": 168,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 12,
@@ -129,7 +162,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 221
+    "spid": 221,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 13,
@@ -140,7 +176,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 231
+    "spid": 231,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 14,
@@ -151,7 +190,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 261
+    "spid": 261,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 15,
@@ -162,7 +204,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 262
+    "spid": 262,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 16,
@@ -173,7 +218,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 268
+    "spid": 268,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 17,
@@ -184,7 +232,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 273
+    "spid": 273,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 18,
@@ -195,7 +246,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 290
+    "spid": 290,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 19,
@@ -206,7 +260,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 303
+    "spid": 303,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 20,
@@ -217,7 +274,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 339
+    "spid": 339,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 21,
@@ -228,7 +288,10 @@
     "range_width": 3,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 340
+    "spid": 340,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 22,
@@ -239,7 +302,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 341
+    "spid": 341,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 23,
@@ -250,7 +316,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 346
+    "spid": 346,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 24,
@@ -261,7 +330,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 349
+    "spid": 349,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 25,
@@ -272,7 +344,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 458
+    "spid": 458,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 26,
@@ -283,7 +358,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 495
+    "spid": 495,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 27,
@@ -294,7 +372,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 503
+    "spid": 503,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 28,
@@ -305,7 +386,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 531
+    "spid": 531,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 29,
@@ -316,7 +400,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 556
+    "spid": 556,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 30,
@@ -327,7 +414,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 557
+    "spid": 557,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 7
   },
   {
     "id": 31,
@@ -338,7 +428,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 638
+    "spid": 638,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 32,
@@ -349,7 +442,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 639
+    "spid": 639,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 7
   },
   {
     "id": 33,
@@ -360,7 +456,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 640
+    "spid": 640,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 34,
@@ -371,7 +470,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 641
+    "spid": 641,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 35,
@@ -382,7 +484,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 642
+    "spid": 642,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 36,
@@ -393,7 +498,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 2,
-    "spid": 708
+    "spid": 708,
+    "range_min": 0,
+    "is_perform_one_by_one": true,
+    "range_max": 3
   },
   {
     "id": 37,
@@ -404,7 +512,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 38,
@@ -415,7 +526,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 718
+    "spid": 718,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 39,
@@ -426,7 +540,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 727
+    "spid": 727,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 40,
@@ -437,7 +554,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 774
+    "spid": 774,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 41,
@@ -448,7 +568,10 @@
     "range_width": 2,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 870
+    "spid": 870,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 42,
@@ -459,7 +582,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 892
+    "spid": 892,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 43,
@@ -470,7 +596,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 44,
@@ -481,7 +610,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1036
+    "spid": 1036,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 20
   },
   {
     "id": 45,
@@ -492,7 +624,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1056
+    "spid": 1056,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 46,
@@ -503,7 +638,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 1059
+    "spid": 1059,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 47,
@@ -514,7 +652,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 4,
-    "spid": 1157
+    "spid": 1157,
+    "range_min": 1,
+    "is_perform_one_by_one": true,
+    "range_max": 4
   },
   {
     "id": 48,
@@ -525,7 +666,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 1166
+    "spid": 1166,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 49,
@@ -536,7 +680,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1167
+    "spid": 1167,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 50,
@@ -547,7 +694,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1168
+    "spid": 1168,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 51,
@@ -558,7 +708,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1169
+    "spid": 1169,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 52,
@@ -569,7 +722,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1171
+    "spid": 1171,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 64,
@@ -580,7 +736,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 4,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": true,
+    "range_max": 3
   },
   {
     "id": 68,
@@ -591,7 +750,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 69,
@@ -602,7 +764,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 70,
@@ -613,7 +778,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 71,
@@ -624,7 +792,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 72,
@@ -635,7 +806,10 @@
     "range_width": 3,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 73,
@@ -646,7 +820,10 @@
     "range_width": 4,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 2,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 74,
@@ -657,7 +834,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 8
   },
   {
     "id": 75,
@@ -668,7 +848,10 @@
     "range_width": 4,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 76,
@@ -679,7 +862,10 @@
     "range_width": 4,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 77,
@@ -690,7 +876,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 3,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 78,
@@ -701,7 +890,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 708
+    "spid": 708,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 79,
@@ -712,7 +904,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 7
   },
   {
     "id": 80,
@@ -723,7 +918,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 81,
@@ -734,7 +932,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 82,
@@ -745,7 +946,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 134
+    "spid": 134,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 9
   },
   {
     "id": 83,
@@ -756,7 +960,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 303
+    "spid": 303,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 84,
@@ -767,7 +974,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 1166
+    "spid": 1166,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 86,
@@ -778,7 +988,10 @@
     "range_width": 7,
     "perform_base_point": 1,
     "perform_diffusion_mode": 4,
-    "spid": 639
+    "spid": 639,
+    "range_min": 1,
+    "is_perform_one_by_one": true,
+    "range_max": 7
   },
   {
     "id": 87,
@@ -789,7 +1002,10 @@
     "range_width": 4,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 870
+    "spid": 870,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 89,
@@ -800,7 +1016,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 90,
@@ -811,7 +1030,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 262
+    "spid": 262,
+    "range_min": 4,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 91,
@@ -822,7 +1044,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 92,
@@ -833,7 +1058,10 @@
     "range_width": 8,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 93,
@@ -844,7 +1072,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 718
+    "spid": 718,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 94,
@@ -855,7 +1086,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 1171
+    "spid": 1171,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 95,
@@ -866,7 +1100,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 105
+    "spid": 105,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 96,
@@ -877,7 +1114,10 @@
     "range_width": 2,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 870
+    "spid": 870,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 97,
@@ -888,7 +1128,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 718
+    "spid": 718,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 99,
@@ -899,7 +1142,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 2,
-    "spid": 1167
+    "spid": 1167,
+    "range_min": 0,
+    "is_perform_one_by_one": true,
+    "range_max": 3
   },
   {
     "id": 100,
@@ -910,7 +1156,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 101,
@@ -921,7 +1170,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 102,
@@ -932,7 +1184,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 4,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": true,
+    "range_max": 4
   },
   {
     "id": 103,
@@ -943,7 +1198,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 104,
@@ -954,7 +1212,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 105,
@@ -965,7 +1226,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 106,
@@ -976,7 +1240,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 640
+    "spid": 640,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 107,
@@ -987,7 +1254,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 4,
-    "spid": 640
+    "spid": 640,
+    "range_min": 0,
+    "is_perform_one_by_one": true,
+    "range_max": 2
   },
   {
     "id": 108,
@@ -998,7 +1268,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 109,
@@ -1009,7 +1282,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 708
+    "spid": 708,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 111,
@@ -1020,7 +1296,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 340
+    "spid": 340,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 112,
@@ -1031,7 +1310,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 105
+    "spid": 105,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 113,
@@ -1042,7 +1324,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 340
+    "spid": 340,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 114,
@@ -1053,7 +1338,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 2,
-    "spid": 1167
+    "spid": 1167,
+    "range_min": 1,
+    "is_perform_one_by_one": true,
+    "range_max": 3
   },
   {
     "id": 115,
@@ -1064,7 +1352,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 59
+    "spid": 59,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 116,
@@ -1075,7 +1366,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 59
+    "spid": 59,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 117,
@@ -1086,7 +1380,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 118,
@@ -1097,7 +1394,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 727
+    "spid": 727,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 119,
@@ -1108,7 +1408,10 @@
     "range_width": 99,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 870
+    "spid": 870,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 120,
@@ -1119,7 +1422,10 @@
     "range_width": 99,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 121,
@@ -1130,7 +1436,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 99
+    "spid": 99,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 122,
@@ -1141,7 +1450,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 123,
@@ -1152,7 +1464,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 4,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": true,
+    "range_max": 4
   },
   {
     "id": 124,
@@ -1163,7 +1478,10 @@
     "range_width": 5,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 125,
@@ -1174,7 +1492,10 @@
     "range_width": 5,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 126,
@@ -1185,7 +1506,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 2,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 127,
@@ -1196,7 +1520,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 3,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 128,
@@ -1207,7 +1534,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 129,
@@ -1218,7 +1548,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 2,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 130,
@@ -1229,7 +1562,10 @@
     "range_width": 2,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 3,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 131,
@@ -1240,7 +1576,10 @@
     "range_width": 2,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 4,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 132,
@@ -1251,7 +1590,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 133,
@@ -1262,7 +1604,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 8
   },
   {
     "id": 134,
@@ -1273,7 +1618,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 80
+    "spid": 80,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 135,
@@ -1284,7 +1632,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 1059
+    "spid": 1059,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 136,
@@ -1295,7 +1646,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 60
+    "spid": 60,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 137,
@@ -1306,7 +1660,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1167
+    "spid": 1167,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 138,
@@ -1317,7 +1674,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 221
+    "spid": 221,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 139,
@@ -1328,7 +1688,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 140,
@@ -1339,7 +1702,10 @@
     "range_width": 5,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 141,
@@ -1350,7 +1716,10 @@
     "range_width": 3,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 142,
@@ -1361,7 +1730,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 143,
@@ -1372,7 +1744,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 892
+    "spid": 892,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 144,
@@ -1383,7 +1758,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 638
+    "spid": 638,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 145,
@@ -1394,7 +1772,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 66
+    "spid": 66,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 146,
@@ -1405,7 +1786,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 638
+    "spid": 638,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 147,
@@ -1416,7 +1800,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 221
+    "spid": 221,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 148,
@@ -1427,7 +1814,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 727
+    "spid": 727,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 149,
@@ -1438,7 +1828,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 150,
@@ -1449,7 +1842,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 134
+    "spid": 134,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 10
   },
   {
     "id": 151,
@@ -1460,7 +1856,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 152,
@@ -1471,7 +1870,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 153,
@@ -1482,7 +1884,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 261
+    "spid": 261,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 154,
@@ -1493,7 +1898,10 @@
     "range_width": 6,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 155,
@@ -1504,7 +1912,10 @@
     "range_width": 10,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 261
+    "spid": 261,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 10
   },
   {
     "id": 156,
@@ -1515,7 +1926,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 157,
@@ -1526,7 +1940,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 556
+    "spid": 556,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 158,
@@ -1537,7 +1954,10 @@
     "range_width": 5,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 134
+    "spid": 134,
+    "range_min": 3,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 159,
@@ -1548,7 +1968,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 160,
@@ -1559,7 +1982,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 161,
@@ -1570,7 +1996,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 641
+    "spid": 641,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 10
   },
   {
     "id": 162,
@@ -1581,7 +2010,10 @@
     "range_width": 4,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 163,
@@ -1592,7 +2024,10 @@
     "range_width": 5,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 340
+    "spid": 340,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 164,
@@ -1603,7 +2038,10 @@
     "range_width": 5,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 638
+    "spid": 638,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 165,
@@ -1614,7 +2052,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 166,
@@ -1625,7 +2066,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 341
+    "spid": 341,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 167,
@@ -1636,7 +2080,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 638
+    "spid": 638,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 168,
@@ -1647,7 +2094,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 638
+    "spid": 638,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 169,
@@ -1658,7 +2108,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 638
+    "spid": 638,
+    "range_min": 65533,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 170,
@@ -1669,7 +2122,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 134
+    "spid": 134,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 171,
@@ -1680,7 +2136,10 @@
     "range_width": 99,
     "perform_base_point": 1,
     "perform_diffusion_mode": 4,
-    "spid": 134
+    "spid": 134,
+    "range_min": 1,
+    "is_perform_one_by_one": true,
+    "range_max": 99
   },
   {
     "id": 172,
@@ -1691,7 +2150,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 458
+    "spid": 458,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 173,
@@ -1702,7 +2164,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 638
+    "spid": 638,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 174,
@@ -1713,7 +2178,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 1169
+    "spid": 1169,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 175,
@@ -1724,7 +2192,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 176,
@@ -1735,7 +2206,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 177,
@@ -1746,7 +2220,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 718
+    "spid": 718,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 178,
@@ -1757,7 +2234,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 179,
@@ -1768,7 +2248,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 641
+    "spid": 641,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 180,
@@ -1779,7 +2262,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 774
+    "spid": 774,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 181,
@@ -1790,7 +2276,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 718
+    "spid": 718,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 182,
@@ -1801,7 +2290,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 183,
@@ -1812,7 +2304,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 639
+    "spid": 639,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 7
   },
   {
     "id": 184,
@@ -1823,7 +2318,10 @@
     "range_width": 3,
     "perform_base_point": 2,
     "perform_diffusion_mode": 3,
-    "spid": 503
+    "spid": 503,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 185,
@@ -1834,7 +2332,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 60
+    "spid": 60,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 186,
@@ -1845,7 +2346,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 59
+    "spid": 59,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 187,
@@ -1856,7 +2360,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 531
+    "spid": 531,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 188,
@@ -1867,7 +2374,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 189,
@@ -1878,7 +2388,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 718
+    "spid": 718,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 190,
@@ -1889,7 +2402,10 @@
     "range_width": 3,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 713
+    "spid": 713,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 191,
@@ -1900,7 +2416,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 80
+    "spid": 80,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 192,
@@ -1911,7 +2430,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 4
   },
   {
     "id": 193,
@@ -1922,7 +2444,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 718
+    "spid": 718,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 99
   },
   {
     "id": 194,
@@ -1933,7 +2458,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 640
+    "spid": 640,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 2
   },
   {
     "id": 195,
@@ -1944,7 +2472,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 2,
-    "spid": 708
+    "spid": 708,
+    "range_min": 0,
+    "is_perform_one_by_one": true,
+    "range_max": 3
   },
   {
     "id": 196,
@@ -1955,7 +2486,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   },
   {
     "id": 197,
@@ -1966,7 +2500,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
   },
   {
     "id": 198,
@@ -1977,7 +2514,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 892
+    "spid": 892,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 199,
@@ -1988,7 +2528,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 557
+    "spid": 557,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 8
   },
   {
     "id": 200,
@@ -1999,7 +2542,10 @@
     "range_width": 1,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 0
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   },
   {
     "id": 202,
@@ -2010,7 +2556,10 @@
     "range_width": 0,
     "perform_base_point": 1,
     "perform_diffusion_mode": 1,
-    "spid": 1171
+    "spid": 1171,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 1
   },
   {
     "id": 203,
@@ -2021,7 +2570,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 204,
@@ -2032,7 +2584,10 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 998
+    "spid": 998,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 205,
@@ -2043,7 +2598,10 @@
     "range_width": 1,
     "perform_base_point": 1,
     "perform_diffusion_mode": 3,
-    "spid": 105
+    "spid": 105,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 6
   },
   {
     "id": 206,
@@ -2054,6 +2612,9 @@
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
-    "spid": 641
+    "spid": 641,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 3
   }
 ]

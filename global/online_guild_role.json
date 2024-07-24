@@ -2,21 +2,21 @@
   {
     "id": 1,
     "type": "Master",
-    "name": "主持人",
+    "name": "Master",
     "desc": "",
     "max_count": 1
   },
   {
     "id": 2,
     "type": "ViceMaster",
-    "name": "管理员",
+    "name": "Officer",
     "desc": "",
     "max_count": 2
   },
   {
     "id": 3,
     "type": "Member",
-    "name": "成员",
+    "name": "Member",
     "desc": "",
     "max_count": 0
   }

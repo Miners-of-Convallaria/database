@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "anchor_decorate",
-    "name": "装饰物",
+    "name": "Ornament",
     "desc": "装饰物",
     "order_id": 1,
     "placement_category": 2,
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "type": "anchor_bed",
-    "name": "床铺",
+    "name": "Bed",
     "desc": "床铺",
     "order_id": 2,
     "placement_category": 2,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "type": "anchor_rest",
-    "name": "休息区域",
+    "name": "Rest area",
     "desc": "休息区域",
     "order_id": 3,
     "placement_category": 2,
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "type": "anchor_desk",
-    "name": "办公区域",
+    "name": "Office area",
     "desc": "办公区域",
     "order_id": 4,
     "placement_category": 2,
@@ -38,7 +38,7 @@
   {
     "id": 11,
     "type": "table",
-    "name": "桌子",
+    "name": "Table",
     "desc": "桌子",
     "order_id": 1,
     "placement_category": 1,
@@ -47,7 +47,7 @@
   {
     "id": 12,
     "type": "sofa",
-    "name": "沙发",
+    "name": "Sofa",
     "desc": "沙发",
     "order_id": 2,
     "placement_category": 1,
@@ -56,7 +56,7 @@
   {
     "id": 13,
     "type": "chair",
-    "name": "椅子",
+    "name": "Chair",
     "desc": "椅子",
     "order_id": 3,
     "placement_category": 1,
@@ -65,7 +65,7 @@
   {
     "id": 14,
     "type": "plant",
-    "name": "植物",
+    "name": "Plant",
     "desc": "植物",
     "order_id": 4,
     "placement_category": 1,
@@ -74,7 +74,7 @@
   {
     "id": 15,
     "type": "storage",
-    "name": "储物",
+    "name": "Storage",
     "desc": "储物",
     "order_id": 5,
     "placement_category": 1,
@@ -83,7 +83,7 @@
   {
     "id": 16,
     "type": "entertainment",
-    "name": "娱乐",
+    "name": "Entertainment",
     "desc": "娱乐",
     "order_id": 6,
     "placement_category": 1,
@@ -92,7 +92,7 @@
   {
     "id": 17,
     "type": "lighting",
-    "name": "灯具",
+    "name": "Light",
     "desc": "灯具",
     "order_id": 7,
     "placement_category": 1,
@@ -101,7 +101,7 @@
   {
     "id": 18,
     "type": "misc",
-    "name": "杂物",
+    "name": "Sundry",
     "desc": "杂物",
     "order_id": 8,
     "placement_category": 1,
@@ -110,7 +110,7 @@
   {
     "id": 19,
     "type": "other",
-    "name": "其他",
+    "name": "Others",
     "desc": "其他",
     "order_id": 9,
     "placement_category": 1,

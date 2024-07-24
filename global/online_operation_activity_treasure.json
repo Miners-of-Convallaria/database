@@ -802,7 +802,7 @@
   {
     "id": 108,
     "idonline_operation_activity": 48,
-    "desc": "频道第一周总获得信标数0~19，每位团长第二周可获得",
+    "desc": "If the Guild gains 0-19 beacons in the first week, in the second week , each leader gains",
     "treasure_type": 137,
     "treasure_param0": 162,
     "treasure_param1": 4,
@@ -812,7 +812,7 @@
   {
     "id": 109,
     "idonline_operation_activity": 48,
-    "desc": "频道第一周总获得信标数20~49，每位团长第二周可获得",
+    "desc": "If the Guild gains 20-49 beacons in the first week, in the second week , eachach leader gains",
     "treasure_type": 137,
     "treasure_param0": 162,
     "treasure_param1": 6,
@@ -822,7 +822,7 @@
   {
     "id": 110,
     "idonline_operation_activity": 48,
-    "desc": "频道第一周总获得信标数50~89，每位团长第二周可获得",
+    "desc": "If the Guild gains 50-89 beacons in the first week, in the second week , each leader gains",
     "treasure_type": 137,
     "treasure_param0": 162,
     "treasure_param1": 8,
@@ -832,7 +832,7 @@
   {
     "id": 111,
     "idonline_operation_activity": 48,
-    "desc": "频道第一周总获得信标数90~139，每位团长第二周可获得",
+    "desc": "If the Guild gains 90-139 beacons in the first week, in the second week , each leader gains",
     "treasure_type": 137,
     "treasure_param0": 162,
     "treasure_param1": 10,
@@ -842,7 +842,7 @@
   {
     "id": 112,
     "idonline_operation_activity": 48,
-    "desc": "频道第一周总获得信标数140+，每位团长第二周可获得",
+    "desc": "If the Guild gains more than 140 beacons in the first week, in the second week , each leader gains",
     "treasure_type": 137,
     "treasure_param0": 162,
     "treasure_param1": 12,

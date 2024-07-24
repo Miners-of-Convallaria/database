@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "黑铁",
+    "name": "Iron",
     "development_value": 150,
     "online_sandbox_tech_point": 0
   },
   {
     "id": 2,
-    "name": "青铜",
+    "name": "Bronze",
     "development_value": 350,
     "online_sandbox_tech_point": 0
   },
   {
     "id": 3,
-    "name": "白银",
+    "name": "Silver",
     "development_value": 600,
     "online_sandbox_tech_point": 0
   },
   {
     "id": 4,
-    "name": "黄金",
+    "name": "Gold",
     "development_value": 850,
     "online_sandbox_tech_point": 1
   },
   {
     "id": 5,
-    "name": "白金",
+    "name": "Platinum",
     "development_value": 1500,
     "online_sandbox_tech_point": 2
   },
   {
     "id": 6,
-    "name": "光辉",
+    "name": "Radiant",
     "development_value": 1500,
     "online_sandbox_tech_point": 3
   }

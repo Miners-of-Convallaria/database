@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_restrains": [],
+    "m_restrains": [4, 5],
     "m_operations": [],
     "name": "地",
     "desc": "",
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "m_restrains": [],
-    "m_operations": [],
+    "m_restrains": [3, 5],
+    "m_operations": [2, 3],
     "name": "火",
     "desc": "",
     "restrains": "3|5",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "m_restrains": [],
+    "m_restrains": [1, 5],
     "m_operations": [],
     "name": "风",
     "desc": "",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "m_restrains": [],
+    "m_restrains": [2, 5],
     "m_operations": [],
     "name": "水",
     "desc": "",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "m_restrains": [],
+    "m_restrains": [6],
     "m_operations": [],
     "name": "光",
     "desc": "",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "m_restrains": [],
+    "m_restrains": [1, 2, 3, 4],
     "m_operations": [],
     "name": "暗",
     "desc": "",

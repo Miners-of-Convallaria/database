@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "m_blueprints": [],
-    "m_smithy_processs": [],
+    "m_blueprints": [1],
+    "m_smithy_processs": [6],
     "m_smithy_plans": [],
     "min_forge_result_count": 1,
     "max_forge_result_count": 4,

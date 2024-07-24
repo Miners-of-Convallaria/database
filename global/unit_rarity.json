@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "N",
-    "name": "普通",
+    "name": "Common",
     "base_attribute_adjust": 100,
     "total_skill_count": 3,
     "rarity_n_weight": 70,
@@ -22,7 +22,7 @@
   {
     "id": 2,
     "type": "R",
-    "name": "精英",
+    "name": "Rare",
     "base_attribute_adjust": 105,
     "total_skill_count": 6,
     "rarity_n_weight": 60,
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "type": "SR",
-    "name": "史诗",
+    "name": "Epic",
     "base_attribute_adjust": 110,
     "total_skill_count": 6,
     "rarity_n_weight": 10,
@@ -62,7 +62,7 @@
   {
     "id": 4,
     "type": "SSR",
-    "name": "传说",
+    "name": "Legendary",
     "base_attribute_adjust": 115,
     "total_skill_count": 6,
     "rarity_n_weight": 10,

@@ -4,69 +4,69 @@
     "type": "Restrain",
     "name": "主动攻击克制",
     "recover_point": 3,
-    "display_name": "克制"
+    "display_name": "Counter"
   },
   {
     "id": 2,
     "type": "Highland",
     "name": "主动高地攻击",
     "recover_point": 4,
-    "display_name": "高地压制"
+    "display_name": "Highland Suppression"
   },
   {
     "id": 3,
     "type": "Backstab",
     "name": "主动背刺攻击",
     "recover_point": 4,
-    "display_name": "背击攻击"
+    "display_name": "Back Attack"
   },
   {
     "id": 4,
     "type": "AOE4",
     "name": "主动造成伤害AOE命中>=4",
     "recover_point": 8,
-    "display_name": "触发群伤"
+    "display_name": "Trigger AOE Damage"
   },
   {
     "id": 5,
     "type": "Knockback2",
     "name": "主动使>=2个单位同时受到撞击伤害",
     "recover_point": 5,
-    "display_name": "触发碰撞"
+    "display_name": "Trigger Collision"
   },
   {
     "id": 6,
     "type": "PropsWork",
     "name": "主动使互动物生效>=1",
     "recover_point": 5,
-    "display_name": "触发物件"
+    "display_name": "Trigger Object"
   },
   {
     "id": 7,
     "type": "TrapWork",
     "name": "让陷阱生效>=1",
     "recover_point": 5,
-    "display_name": "触发陷阱"
+    "display_name": "Trigger Trap"
   },
   {
     "id": 8,
     "type": "WidgetWork",
     "name": "让装置生效>=1",
     "recover_point": 5,
-    "display_name": "触发装置"
+    "display_name": "Trigger Device"
   },
   {
     "id": 9,
     "type": "HealDying1",
     "name": "主动治疗频死单位>=1",
     "recover_point": 3,
-    "display_name": "濒死治疗"
+    "display_name": "Emergency Healing"
   },
   {
     "id": 10,
     "type": "HealInjured3",
     "name": "主动同时治疗>=3个受伤单位",
     "recover_point": 6,
-    "display_name": "群体治愈"
+    "display_name": "AOE Healing"
   }
 ]

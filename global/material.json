@@ -1,24 +1,24 @@
 [
   {
     "id": 1,
-    "name": "木材",
-    "desc": "用途广泛的木材。",
+    "name": "Timber",
+    "desc": "A versatile wood.",
     "rarity": 1,
     "icon": "wood",
     "sell_price": 6
   },
   {
     "id": 2,
-    "name": "铁锭",
-    "desc": "用途广泛的铁锭。",
+    "name": "Ingot iron",
+    "desc": "A versatile iron.",
     "rarity": 1,
     "icon": "iron_ingots",
     "sell_price": 6
   },
   {
     "id": 3,
-    "name": "石材",
-    "desc": "用途广泛的石材。",
+    "name": "Stone",
+    "desc": "A versatile stone.",
     "rarity": 1,
     "icon": "stone",
     "sell_price": 6
@@ -41,80 +41,80 @@
   },
   {
     "id": 6,
-    "name": "光辉晶石",
-    "desc": "极其罕见的高品质晶石，拥有很高的价值。",
+    "name": "Radiant Luxite",
+    "desc": "Extremely rare Luxite with high quality and value.",
     "rarity": 4,
     "icon": "spar_high",
     "sell_price": 1000
   },
   {
     "id": 8,
-    "name": "北山产晶石",
-    "desc": "北山矿场特产的稀有晶石，可用于晶石工坊中王国军相关的战术技能强化。",
+    "name": "North Mountain Luxite",
+    "desc": "Rare crystal only found in North Mountain Mine. It can be used to enhance the Tactical Skills related to the King's Army in the Luxite Workshop.",
     "rarity": 3,
     "icon": "spar_iria",
     "sell_price": 40
   },
   {
     "id": 9,
-    "name": "小魔女特调",
-    "desc": "贝拉晶石实验的意外产物。\n\n<style=brown>咕嘟冒泡的粘稠饮料。尽管贝拉称其绝对安全无害，但你还是没有喝下它的勇气。</style>",
+    "name": "Little Sorceress's special drink",
+    "desc": "An accidental product of the Beryl's Luxite experiment.\n\n<style=brown>A gooey, bubbling drink. Although Beryl claims it is absolutely safe and harmless, you dare not drink it.</style>",
     "rarity": 1,
     "icon": "stuff01",
     "sell_price": 20
   },
   {
     "id": 10,
-    "name": "“焦糖”甜甜圈",
-    "desc": "贝拉晶石实验的意外产物。\n\n<style=brown>也许对贝拉来说，烹饪和晶石实验之间不存在明显的界限。</style>",
+    "name": "Caramel doughnut",
+    "desc": "An accidental product of the Beryl's Luxite experiment.\n\n<style=brown>Perhaps for Beryl, there is no clear boundary between cooking and doing Luxite experiments.</style>",
     "rarity": 1,
     "icon": "stuff02",
     "sell_price": 50
   },
   {
     "id": 12,
-    "name": "碎裂的坩埚",
-    "desc": "贝拉晶石实验的意外产物。\n\n<style=brown>至少，这次实验没有把工坊的屋顶炸塌。</style>",
+    "name": "Broken crucible",
+    "desc": "An accidental product of the Beryl's Luxite experiment.\n\n<style=brown>At least the experiment did not blow out the roof of the workshop.</style>",
     "rarity": 2,
     "icon": "stuff03",
     "sell_price": 100
   },
   {
     "id": 20,
-    "name": "小巧人偶",
-    "desc": "贝拉晶石实验的意外产物。\n\n<style=brown>为了排解孤独感，贝拉创造了一些“朋友”，并试图用晶石技术让它们能够活动起来。</style>",
+    "name": "Small dolls",
+    "desc": "An accidental product of the Beryl's Luxite experiment.\n\n<style=brown>To alleviate loneliness, Beryl created some \"friends\" and tried to use Luxite techniques to make them alive.</style>",
     "rarity": 4,
     "icon": "stuff05",
     "sell_price": 2000
   },
   {
     "id": 21,
-    "name": "晶石合金",
-    "desc": "通过骑士同盟特殊工艺制成的晶石合金，可以用于特殊的锻造配方。",
+    "name": "Luxite alloy",
+    "desc": "Luxite alloy made through special techniques by the Union, which can be used in special forging formulas.",
     "rarity": 3,
     "icon": "spar_alloy",
     "sell_price": 40
   },
   {
     "id": 22,
-    "name": "晶尘",
-    "desc": "开采晶石矿的副产物，蕴含稀薄的能量，也被当作材料来使用。",
+    "name": "Luxite dust",
+    "desc": "Byproduct of Luxite ore, which contains scarce energy and can be used as a material.",
     "rarity": 1,
     "icon": "crystal_dust",
     "sell_price": 12
   },
   {
     "id": 24,
-    "name": "灼耀晶石",
-    "desc": "罗迪尼亚法皇国专门用于光辉赐福仪式的高级晶石。",
+    "name": "Scorching Luxite",
+    "desc": "It's a kind of advanced Luxite used exclusively for the Radiant Grace Ritual in the Papal States of Rodinia.",
     "rarity": 3,
     "icon": "spar_papal",
     "sell_price": 40
   },
   {
     "id": 25,
-    "name": "染料合约",
-    "desc": "一个用于交易埃拉曼特殊染料的凭证，是许多商人梦寐以求的“门路”，也是这片大陆上最挣钱的买卖之一。",
+    "name": "Dye Contract",
+    "desc": "A permit for trading Elaman's special dyes—a coveted route for many merchants and one of the most lucrative trades on this continent.",
     "rarity": 4,
     "icon": "dyedeal",
     "sell_price": 0

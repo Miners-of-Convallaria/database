@@ -2,13 +2,13 @@
   {
     "id": 1,
     "type": "Unit",
-    "name": "邂逅",
+    "name": "Summon",
     "guaranteed_count": 100
   },
   {
     "id": 2,
     "type": "Weapon",
-    "name": "投影",
+    "name": "Summon",
     "guaranteed_count": 0
   }
 ]

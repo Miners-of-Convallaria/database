@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "m_online_kanban_avatars": [],
-    "name": "默认",
+    "m_online_kanban_avatars": [1, 2],
+    "name": "Default",
     "editor_name": "外观默认",
     "type": 2,
     "icon": "",

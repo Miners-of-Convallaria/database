@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "m_battle_guidebook_parts": [],
-    "name": "战斗机制",
+    "m_battle_guidebook_parts": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 43, 44],
+    "name": "Battle Mechanics",
     "icon": ""
   },
   {
     "id": 2,
-    "m_battle_guidebook_parts": [],
-    "name": "互动物",
+    "m_battle_guidebook_parts": [25, 26, 27, 28, 29, 30, 31, 32],
+    "name": "Interactive Object",
     "icon": ""
   },
   {
     "id": 3,
-    "m_battle_guidebook_parts": [],
-    "name": "地形",
+    "m_battle_guidebook_parts": [33, 34, 35, 36],
+    "name": "Terrain",
     "icon": ""
   },
   {
     "id": 4,
-    "m_battle_guidebook_parts": [],
-    "name": "触发物",
+    "m_battle_guidebook_parts": [37, 38, 39, 40, 41, 42],
+    "name": "Trigger Object",
     "icon": ""
   }
 ]

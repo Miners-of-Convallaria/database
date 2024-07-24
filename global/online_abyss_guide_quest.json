@@ -2,7 +2,7 @@
   {
     "id": 1,
     "idonline_abyss_guide": 1,
-    "name": "通关浅层1所有关卡",
+    "name": "Clear all stages of Shallow Level 1",
     "editor_name": "浅层1-1星",
     "desc": "浅层1-1星解锁条件",
     "behaviour_type": 203401,
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "idonline_abyss_guide": 1,
-    "name": "本层达到10000讨伐值",
+    "name": "Achieve 10,000 Crusade Points on this Level",
     "editor_name": "浅层1-2星",
     "desc": "浅层1-2星解锁条件",
     "behaviour_type": 203402,
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "idonline_abyss_guide": 1,
-    "name": "本层达到12000讨伐值",
+    "name": "Achieve 12,000 Crusade Points on this Level",
     "editor_name": "浅层1-3星",
     "desc": "浅层1-3星解锁条件",
     "behaviour_type": 203402,
@@ -50,7 +50,7 @@
   {
     "id": 4,
     "idonline_abyss_guide": 2,
-    "name": "通关浅层2所有关卡",
+    "name": "Clear all stages of Shallow Level 2",
     "editor_name": "浅层2-1星",
     "desc": "浅层2-1星解锁条件",
     "behaviour_type": 203401,
@@ -66,7 +66,7 @@
   {
     "id": 5,
     "idonline_abyss_guide": 2,
-    "name": "本层达到27000讨伐值",
+    "name": "Achieve 27,000 Crusade Points on this Level",
     "editor_name": "浅层2-2星",
     "desc": "浅层2-2星解锁条件",
     "behaviour_type": 203402,
@@ -82,7 +82,7 @@
   {
     "id": 6,
     "idonline_abyss_guide": 2,
-    "name": "本层达到30000讨伐值",
+    "name": "Achieve 30,000 Crusade Points on this Level",
     "editor_name": "浅层2-3星",
     "desc": "浅层2-3星解锁条件",
     "behaviour_type": 203402,
@@ -98,7 +98,7 @@
   {
     "id": 7,
     "idonline_abyss_guide": 3,
-    "name": "通关浅层3所有关卡",
+    "name": "Clear all stages of Shallow Level 3",
     "editor_name": "浅层3-1星",
     "desc": "浅层3-1星解锁条件",
     "behaviour_type": 203401,
@@ -114,7 +114,7 @@
   {
     "id": 8,
     "idonline_abyss_guide": 3,
-    "name": "本层达到71500讨伐值",
+    "name": "Achieve 71,500 Crusade Points on this Level",
     "editor_name": "浅层3-2星",
     "desc": "浅层3-2星解锁条件",
     "behaviour_type": 203402,
@@ -130,7 +130,7 @@
   {
     "id": 9,
     "idonline_abyss_guide": 3,
-    "name": "本层达到77000讨伐值",
+    "name": "Achieve 77,000 Crusade Points on this Level",
     "editor_name": "浅层3-3星",
     "desc": "浅层3-3星解锁条件",
     "behaviour_type": 203402,
@@ -146,7 +146,7 @@
   {
     "id": 10,
     "idonline_abyss_guide": 4,
-    "name": "通关浅层4所有关卡",
+    "name": "Clear all stages of Shallow Level 4",
     "editor_name": "浅层4-1星",
     "desc": "浅层4-1星解锁条件",
     "behaviour_type": 203401,
@@ -162,7 +162,7 @@
   {
     "id": 11,
     "idonline_abyss_guide": 4,
-    "name": "本层达到119000讨伐值",
+    "name": "Achieve 119,000 Crusade Points on this Level",
     "editor_name": "浅层4-2星",
     "desc": "浅层4-2星解锁条件",
     "behaviour_type": 203402,
@@ -178,7 +178,7 @@
   {
     "id": 12,
     "idonline_abyss_guide": 4,
-    "name": "本层达到126000讨伐值",
+    "name": "Achieve 126,000 Crusade Points on this Level",
     "editor_name": "浅层4-3星",
     "desc": "浅层4-3星解锁条件",
     "behaviour_type": 203402,

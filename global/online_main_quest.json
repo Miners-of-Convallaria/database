@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [8, 2, 3, 4, 5, 10, 11, 12, 13, 14, 15, 16, 23],
     "name": "网游主线",
     "version": 1,
     "online_main_quest_chapter_ids": "8|2|3|4|5|10|11|12|13|14|15|16|23",
@@ -9,7 +9,7 @@
   },
   {
     "id": 3,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [17],
     "name": "大型活动2期",
     "version": 1,
     "online_main_quest_chapter_ids": "17",
@@ -17,7 +17,7 @@
   },
   {
     "id": 4,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [19],
     "name": "中型活动1期",
     "version": 1,
     "online_main_quest_chapter_ids": "19",
@@ -25,7 +25,7 @@
   },
   {
     "id": 5,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [20],
     "name": "大型活动1期",
     "version": 1,
     "online_main_quest_chapter_ids": "20",
@@ -33,7 +33,7 @@
   },
   {
     "id": 6,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [22],
     "name": "小型活动1期",
     "version": 1,
     "online_main_quest_chapter_ids": "22",
@@ -41,7 +41,7 @@
   },
   {
     "id": 7,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [24],
     "name": "中型活动2期",
     "version": 1,
     "online_main_quest_chapter_ids": "24",
@@ -49,7 +49,7 @@
   },
   {
     "id": 8,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [25],
     "name": "大型活动3期",
     "version": 1,
     "online_main_quest_chapter_ids": "25",
@@ -57,7 +57,7 @@
   },
   {
     "id": 9,
-    "m_online_main_quest_chapters": [],
+    "m_online_main_quest_chapters": [26],
     "name": "中型活动3期",
     "version": 1,
     "online_main_quest_chapter_ids": "26",

@@ -79,8 +79,8 @@
     "bonus_group_id": 98,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "商队护卫1",
-    "desc": "派遣佣兵护卫商队，可获得少量资金。",
+    "title": "Escort the Caravans I",
+    "desc": "Send mercenaries to guard the caravans to get a small amount of funds.",
     "morale_ratio_param": 1
   },
   {
@@ -107,8 +107,8 @@
     "bonus_group_id": 99,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "商队护卫2",
-    "desc": "派遣佣兵护卫商队，可获得中量资金。",
+    "title": "Escort the Caravans II",
+    "desc": "Send mercenaries to guard the caravans to get a medium amount of funds.",
     "morale_ratio_param": 1
   },
   {
@@ -135,8 +135,8 @@
     "bonus_group_id": 100,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "商队护卫3",
-    "desc": "派遣佣兵护卫商队，可获得大量资金。",
+    "title": "Escort the Caravans III",
+    "desc": "Send mercenaries to guard the caravans to get a huge amount of funds.",
     "morale_ratio_param": 1
   },
   {
@@ -163,8 +163,8 @@
     "bonus_group_id": 101,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "伐木工作1",
-    "desc": "派遣佣兵砍伐树木，可获取少量木材。",
+    "title": "Logging Work I",
+    "desc": "Send mercenaries to cut down trees to get a small amount of timer.",
     "morale_ratio_param": 1
   },
   {
@@ -191,8 +191,8 @@
     "bonus_group_id": 102,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "伐木工作2",
-    "desc": "派遣佣兵砍伐树木，可获取中量木材。",
+    "title": "Logging Work II",
+    "desc": "Send mercenaries to cut down trees to get a medium amount of timer.",
     "morale_ratio_param": 1
   },
   {
@@ -219,8 +219,8 @@
     "bonus_group_id": 103,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "伐木工作3",
-    "desc": "派遣佣兵砍伐树木，可获取大量木材。",
+    "title": "Logging Work III",
+    "desc": "Send mercenaries to cut down trees to get a huge amount of timer.",
     "morale_ratio_param": 1
   },
   {
@@ -247,8 +247,8 @@
     "bonus_group_id": 104,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 10,
-    "title": "佣兵团训练1",
-    "desc": "派遣佣兵参与练兵，可获取中量佣兵团经验。",
+    "title": "Mercenary Group Daily Training 1",
+    "desc": "Send mercenaries to participate in training to get a medium amount of Mercenary Group Experience.",
     "morale_ratio_param": 1
   },
   {
@@ -275,8 +275,8 @@
     "bonus_group_id": 105,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 20,
-    "title": "佣兵团训练2",
-    "desc": "派遣佣兵参与练兵，可获取大量佣兵团经验。",
+    "title": "Mercenary Group Daily Training 2",
+    "desc": "Send mercenaries to participate in training to get a huge amount of Mercenary Group Experience.",
     "morale_ratio_param": 1
   },
   {
@@ -303,8 +303,8 @@
     "bonus_group_id": 106,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "晶石萃取",
-    "desc": "派遣佣兵协助晶石萃取，可获得中量晶萃",
+    "title": "Luxite Extraction",
+    "desc": "Send mercenaries to assist in Luxite Extraction to get a medium amount of Luxite extract",
     "morale_ratio_param": 1
   },
   {
@@ -331,8 +331,8 @@
     "bonus_group_id": 110,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "晶石合金冶炼",
-    "desc": "派遣佣兵协助晶石冶炼，可获得中量的晶石合金。",
+    "title": "Luxite Smelting",
+    "desc": "Send mercenaries to assist in Luxite Smelting to get a medium amount of Luxite alloy.",
     "morale_ratio_param": 1
   },
   {
@@ -359,8 +359,8 @@
     "bonus_group_id": 107,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "北山矿业",
-    "desc": "向北山矿业派遣佣兵，可获得稀有的北山特产晶石。",
+    "title": "North Mountain Mine",
+    "desc": "Send mercenaries to North Mountain Mine to get the rare Luxite only produced there.",
     "morale_ratio_param": 1
   },
   {
@@ -387,8 +387,8 @@
     "bonus_group_id": 108,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "薇尔塔矿洞",
-    "desc": "派遣佣兵探索薇尔塔矿洞，有概率获得少量高品质晶石",
+    "title": "Vltar Mine",
+    "desc": "Send mercenaries to explore Vltar Mine to have a chance to get a small amount of high-quality Luxite",
     "morale_ratio_param": 1
   },
   {
@@ -415,8 +415,8 @@
     "bonus_group_id": 109,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "采矿工作",
-    "desc": "派遣佣兵采掘铁矿，可获得中量铁锭。",
+    "title": "Mining Work",
+    "desc": "Send mercenaries to dig iron mines to get a medium amount of ingot iron.",
     "morale_ratio_param": 1
   },
   {
@@ -443,8 +443,8 @@
     "bonus_group_id": 100,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "伊利亚商道维护",
-    "desc": "【伊利亚】派遣佣兵护卫伊利亚的官方商队，可获得大量资金。",
+    "title": "Iria Trade Road Maintenance",
+    "desc": "[Iria]Send mercenaries to escort Iria's official caravans to get a large amount of funds.",
     "morale_ratio_param": 1
   },
   {
@@ -471,8 +471,8 @@
     "bonus_group_id": 174,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "灼耀晶石运输",
-    "desc": "派遣佣兵从法皇国运输灼耀晶石，可获得稀有的灼耀晶石。",
+    "title": "Transportation of Scorching Luxite",
+    "desc": "Dispatch mercenaries to transport Scorching Luxite from the Papal States to obtain Rare Scorching Luxite.",
     "morale_ratio_param": 1
   },
   {
@@ -499,8 +499,8 @@
     "bonus_group_id": 177,
     "unit_exp_ratio_param": 2,
     "character_exp_ratio_param": 2,
-    "title": "潜心锻造",
-    "desc": "专心绘制锻造图纸，获取一张自选史诗级锻造图纸。",
+    "title": "Concentrated Forging",
+    "desc": "Focus on drawing a forging blueprint and obtain a self-selected Epic forging blueprint.",
     "morale_ratio_param": 1
   },
   {
@@ -527,8 +527,8 @@
     "bonus_group_id": 176,
     "unit_exp_ratio_param": 3,
     "character_exp_ratio_param": 3,
-    "title": "大兴土木",
-    "desc": "大兴土木，获取一个自选史诗级小镇设施升级。",
+    "title": "Large-scale Construction",
+    "desc": "Undertake large-scale construction and obtain a self-selected Epic facility upgrade of the town.",
     "morale_ratio_param": 1
   },
   {
@@ -555,8 +555,8 @@
     "bonus_group_id": 178,
     "unit_exp_ratio_param": 3,
     "character_exp_ratio_param": 3,
-    "title": "特殊训练拓展",
-    "desc": "寻访导师，获取一个自选史诗级特殊训练项目。",
+    "title": "Expansion of Tailored Training",
+    "desc": "Search for a tutor and obtain a self-selected Epic tailored training program.",
     "morale_ratio_param": 1
   },
   {
@@ -583,8 +583,8 @@
     "bonus_group_id": 175,
     "unit_exp_ratio_param": 3,
     "character_exp_ratio_param": 3,
-    "title": "装备贸易",
-    "desc": "去各地搜寻，获取一个随机史诗级武器或装具。",
+    "title": "Gear Trading",
+    "desc": "Search various places and obtain a random Epic weapon or trinket.",
     "morale_ratio_param": 1
   }
 ]

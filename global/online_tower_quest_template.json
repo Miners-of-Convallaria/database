@@ -2,7 +2,7 @@
   {
     "id": 1,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [2],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "1-1",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [3],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "1-2",
@@ -44,7 +44,7 @@
   {
     "id": 3,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [4],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "1-3",
@@ -65,7 +65,7 @@
   {
     "id": 4,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [5],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "1-4",
@@ -107,7 +107,7 @@
   {
     "id": 6,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [7],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "2-1",
@@ -128,7 +128,7 @@
   {
     "id": 7,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [8],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "2-2",
@@ -149,7 +149,7 @@
   {
     "id": 8,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [9],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "2-3",
@@ -170,7 +170,7 @@
   {
     "id": 9,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [10],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "2-4",
@@ -212,7 +212,7 @@
   {
     "id": 11,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [12],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "3-1",
@@ -233,7 +233,7 @@
   {
     "id": 12,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [17],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "3-2",
@@ -254,7 +254,7 @@
   {
     "id": 13,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [14],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "",
@@ -296,7 +296,7 @@
   {
     "id": 17,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [18],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "3-3",
@@ -317,7 +317,7 @@
   {
     "id": 18,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [19],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "3-4",
@@ -359,7 +359,7 @@
   {
     "id": 21,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [22],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "4-1",
@@ -380,7 +380,7 @@
   {
     "id": 22,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [23],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "4-2",
@@ -401,7 +401,7 @@
   {
     "id": 23,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [24],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "4-3",
@@ -422,7 +422,7 @@
   {
     "id": 24,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [25],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "4-4",
@@ -464,7 +464,7 @@
   {
     "id": 26,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [27],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "5-1",
@@ -485,7 +485,7 @@
   {
     "id": 27,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [28],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "5-2",
@@ -506,7 +506,7 @@
   {
     "id": 28,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [29],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "5-3",
@@ -527,7 +527,7 @@
   {
     "id": 29,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [30],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "5-4",
@@ -569,7 +569,7 @@
   {
     "id": 31,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [32],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "6-1",
@@ -590,7 +590,7 @@
   {
     "id": 32,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [33],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "6-2",
@@ -611,7 +611,7 @@
   {
     "id": 33,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [34],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "6-3",
@@ -632,7 +632,7 @@
   {
     "id": 34,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [35],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "6-4",
@@ -674,7 +674,7 @@
   {
     "id": 36,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [37],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-1",
@@ -695,7 +695,7 @@
   {
     "id": 37,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [38],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-2",
@@ -716,7 +716,7 @@
   {
     "id": 38,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [39],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-3",
@@ -737,7 +737,7 @@
   {
     "id": 39,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [40],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-4",
@@ -779,7 +779,7 @@
   {
     "id": 41,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [42],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-1",
@@ -800,7 +800,7 @@
   {
     "id": 42,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [43],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-2",
@@ -821,7 +821,7 @@
   {
     "id": 43,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [44],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-3",
@@ -842,7 +842,7 @@
   {
     "id": 44,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [45],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-4",
@@ -884,7 +884,7 @@
   {
     "id": 46,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [47],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-1",
@@ -905,7 +905,7 @@
   {
     "id": 47,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [48],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-2",
@@ -926,7 +926,7 @@
   {
     "id": 48,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [49],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-3",
@@ -947,7 +947,7 @@
   {
     "id": 49,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [50],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-4",
@@ -989,7 +989,7 @@
   {
     "id": 51,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [52],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "10-1",
@@ -1010,7 +1010,7 @@
   {
     "id": 52,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [53],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "10-2",
@@ -1031,7 +1031,7 @@
   {
     "id": 53,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [54],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "10-3",
@@ -1052,7 +1052,7 @@
   {
     "id": 54,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [55],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "10-4",
@@ -1094,7 +1094,7 @@
   {
     "id": 56,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [57],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "11-1",
@@ -1115,7 +1115,7 @@
   {
     "id": 57,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [58],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "11-2",
@@ -1136,7 +1136,7 @@
   {
     "id": 58,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [59],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "11-3",
@@ -1157,7 +1157,7 @@
   {
     "id": 59,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [60],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "11-4",
@@ -1199,7 +1199,7 @@
   {
     "id": 61,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [66],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "12-1",
@@ -1220,7 +1220,7 @@
   {
     "id": 63,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [64],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "12-3",
@@ -1241,7 +1241,7 @@
   {
     "id": 64,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [65],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "12-4",
@@ -1283,7 +1283,7 @@
   {
     "id": 66,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [63],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "12-2",
@@ -1304,7 +1304,7 @@
   {
     "id": 67,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [68],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换6-1",
@@ -1325,7 +1325,7 @@
   {
     "id": 68,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [69],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换6-2",
@@ -1346,7 +1346,7 @@
   {
     "id": 69,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [70],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换6-3",
@@ -1367,7 +1367,7 @@
   {
     "id": 70,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [71],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换6-4",
@@ -1409,7 +1409,7 @@
   {
     "id": 72,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [73],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换7-1",
@@ -1430,7 +1430,7 @@
   {
     "id": 73,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [74],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换7-2",
@@ -1451,7 +1451,7 @@
   {
     "id": 74,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [75],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换7-3",
@@ -1472,7 +1472,7 @@
   {
     "id": 75,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [76],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换7-4",
@@ -1514,7 +1514,7 @@
   {
     "id": 77,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [78],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换8-1",
@@ -1535,7 +1535,7 @@
   {
     "id": 78,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [79],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换8-2",
@@ -1556,7 +1556,7 @@
   {
     "id": 79,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [80],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换8-3",
@@ -1577,7 +1577,7 @@
   {
     "id": 80,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [81],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "（深测版本）替换8-4",
@@ -1619,7 +1619,7 @@
   {
     "id": 82,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [83],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-1",
@@ -1640,7 +1640,7 @@
   {
     "id": 83,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [84],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-2",
@@ -1661,7 +1661,7 @@
   {
     "id": 84,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [85],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-3",
@@ -1682,7 +1682,7 @@
   {
     "id": 85,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [86],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "7-4",
@@ -1724,7 +1724,7 @@
   {
     "id": 87,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [88],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-1",
@@ -1745,7 +1745,7 @@
   {
     "id": 88,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [89],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-2",
@@ -1766,7 +1766,7 @@
   {
     "id": 89,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [90],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-3",
@@ -1787,7 +1787,7 @@
   {
     "id": 90,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [91],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "8-4",
@@ -1829,7 +1829,7 @@
   {
     "id": 92,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [93],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-1",
@@ -1850,7 +1850,7 @@
   {
     "id": 93,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [94],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-2",
@@ -1871,7 +1871,7 @@
   {
     "id": 94,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [95],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-3",
@@ -1892,7 +1892,7 @@
   {
     "id": 95,
     "m_online_tower_mission_debuff_pool_groups": [],
-    "m_NextTowerQuestIds": [],
+    "m_NextTowerQuestIds": [96],
     "m_treasures": [],
     "m_first_treasures": [],
     "name": "9-4",

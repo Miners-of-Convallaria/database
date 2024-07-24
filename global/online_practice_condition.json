@@ -1,373 +1,373 @@
 [
   {
     "id": 1,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [1, 2],
     "name": "临时添加",
     "unit_max_count": 0
   },
   {
     "id": 101,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [3],
     "name": "等级重视 - 1级x1人",
     "unit_max_count": 1
   },
   {
     "id": 102,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [4],
     "name": "等级重视 - 5级x1人",
     "unit_max_count": 1
   },
   {
     "id": 103,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [5],
     "name": "等级重视 - 10级x2人",
     "unit_max_count": 2
   },
   {
     "id": 104,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [6],
     "name": "等级重视 - 15级x3人",
     "unit_max_count": 3
   },
   {
     "id": 105,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [7],
     "name": "等级重视 - 20级x3人",
     "unit_max_count": 3
   },
   {
     "id": 106,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [8],
     "name": "等级重视 - 25级x3人",
     "unit_max_count": 3
   },
   {
     "id": 107,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [9],
     "name": "等级重视 - 30级x3人",
     "unit_max_count": 3
   },
   {
     "id": 108,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [10],
     "name": "等级重视 - 35级x4人",
     "unit_max_count": 4
   },
   {
     "id": 109,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [11],
     "name": "等级重视 - 40级x4人",
     "unit_max_count": 4
   },
   {
     "id": 110,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [12],
     "name": "等级重视 - 45级x4人",
     "unit_max_count": 4
   },
   {
     "id": 111,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [13],
     "name": "等级重视 - 50级x4人",
     "unit_max_count": 4
   },
   {
     "id": 112,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [14],
     "name": "等级重视 - 55级x4人",
     "unit_max_count": 4
   },
   {
     "id": 113,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [48],
     "name": "等级重视 - 55级x5人",
     "unit_max_count": 5
   },
   {
     "id": 151,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [26],
     "name": "阶级重视 - 1阶x1人",
     "unit_max_count": 1
   },
   {
     "id": 152,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [27],
     "name": "阶级重视 - 2阶x2人",
     "unit_max_count": 2
   },
   {
     "id": 153,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [28],
     "name": "阶级重视 - 3阶x3人",
     "unit_max_count": 3
   },
   {
     "id": 154,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [29],
     "name": "阶级重视 - 4阶x3人",
     "unit_max_count": 3
   },
   {
     "id": 155,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [30],
     "name": "阶级重视 - 5阶x3人",
     "unit_max_count": 3
   },
   {
     "id": 156,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [31],
     "name": "阶级重视 - 6阶x3人",
     "unit_max_count": 3
   },
   {
     "id": 157,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [32],
     "name": "阶级重视 - 7阶x4人",
     "unit_max_count": 4
   },
   {
     "id": 158,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [33],
     "name": "阶级重视 - 8阶x4人",
     "unit_max_count": 4
   },
   {
     "id": 159,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [34],
     "name": "阶级重视 - 9阶x4人",
     "unit_max_count": 4
   },
   {
     "id": 160,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [35],
     "name": "阶级重视 - 10阶x4人",
     "unit_max_count": 4
   },
   {
     "id": 161,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [36],
     "name": "阶级重视 - 10阶x5人",
     "unit_max_count": 5
   },
   {
     "id": 162,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [37],
     "name": "阶级重视 - 12阶x5人",
     "unit_max_count": 5
   },
   {
     "id": 201,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [16],
     "name": "动态阶级 - 1人",
     "unit_max_count": 1
   },
   {
     "id": 202,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [17],
     "name": "动态阶级 - 2人",
     "unit_max_count": 2
   },
   {
     "id": 203,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [18],
     "name": "动态阶级 - 3人",
     "unit_max_count": 3
   },
   {
     "id": 204,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [19],
     "name": "动态阶级 - 4人",
     "unit_max_count": 4
   },
   {
     "id": 205,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [20],
     "name": "动态阶级 - 5人",
     "unit_max_count": 5
   },
   {
     "id": 211,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [21],
     "name": "动态等级 - 1人",
     "unit_max_count": 1
   },
   {
     "id": 212,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [22],
     "name": "动态等级 - 2人",
     "unit_max_count": 2
   },
   {
     "id": 213,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [23],
     "name": "动态等级 - 3人",
     "unit_max_count": 3
   },
   {
     "id": 214,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [24],
     "name": "动态等级 - 4人",
     "unit_max_count": 4
   },
   {
     "id": 215,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [25],
     "name": "动态等级 - 5人",
     "unit_max_count": 5
   },
   {
     "id": 216,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [47],
     "name": "等级重视 - 45级x5人",
     "unit_max_count": 5
   },
   {
     "id": 217,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [39],
     "name": "等级重视 - 25级x5人",
     "unit_max_count": 5
   },
   {
     "id": 218,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [40],
     "name": "等级重视 - 30级x5人",
     "unit_max_count": 5
   },
   {
     "id": 219,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [41],
     "name": "等级重视 - 35级x5人",
     "unit_max_count": 5
   },
   {
     "id": 220,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [42],
     "name": "等级重视 - 40级x5人",
     "unit_max_count": 5
   },
   {
     "id": 221,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [43],
     "name": "等级重视 - 50级x5人",
     "unit_max_count": 5
   },
   {
     "id": 222,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [46],
     "name": "等级重视 - 60级x5人",
     "unit_max_count": 5
   },
   {
     "id": 224,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [50],
     "name": "活动专用动态等级-5人",
     "unit_max_count": 5
   },
   {
     "id": 225,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [51],
     "name": "等级重视 - 10级x1人",
     "unit_max_count": 1
   },
   {
     "id": 226,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [52],
     "name": "等级重视 - 15级x2人",
     "unit_max_count": 2
   },
   {
     "id": 227,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [53],
     "name": "等级重视 - 20级x2人",
     "unit_max_count": 2
   },
   {
     "id": 228,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [54],
     "name": "等级重视 - 25级x2人",
     "unit_max_count": 2
   },
   {
     "id": 229,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [55],
     "name": "等级重视 - 30级x2人",
     "unit_max_count": 2
   },
   {
     "id": 230,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [56],
     "name": "等级重视 - 35级x3人",
     "unit_max_count": 3
   },
   {
     "id": 231,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [57],
     "name": "等级重视 - 40级x3人",
     "unit_max_count": 3
   },
   {
     "id": 232,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [58],
     "name": "等级重视 - 45级x3人",
     "unit_max_count": 3
   },
   {
     "id": 233,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [59],
     "name": "等级重视 - 50级x3人",
     "unit_max_count": 3
   },
   {
     "id": 234,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [60],
     "name": "阶级重视 - 3阶x2人",
     "unit_max_count": 2
   },
   {
     "id": 235,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [61],
     "name": "阶级重视 - 4阶x2人",
     "unit_max_count": 2
   },
   {
     "id": 236,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [62],
     "name": "阶级重视 - 5阶x2人",
     "unit_max_count": 2
   },
   {
     "id": 237,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [63],
     "name": "阶级重视 - 6阶x2人",
     "unit_max_count": 2
   },
   {
     "id": 238,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [64],
     "name": "阶级重视 - 7阶x2人",
     "unit_max_count": 2
   },
   {
     "id": 239,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [65],
     "name": "阶级重视 - 7阶x3人",
     "unit_max_count": 3
   },
   {
     "id": 240,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [66],
     "name": "阶级重视 - 8阶x3人",
     "unit_max_count": 3
   },
   {
     "id": 241,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [67],
     "name": "阶级重视 - 9阶x3人",
     "unit_max_count": 3
   },
   {
     "id": 242,
-    "m_online_practice_condition_details": [],
+    "m_online_practice_condition_details": [68],
     "name": "阶级重视 - 10阶x3人",
     "unit_max_count": 3
   }

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [1, 2],
     "idsandbox_note": 1,
     "name": "测试笔记选择",
     "editor_name": "测试笔记选择",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [3, 4],
     "idsandbox_note": 1,
     "name": "测试笔记选择2",
     "editor_name": "测试笔记选择2",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [5, 6],
     "idsandbox_note": 1,
     "name": "测试笔记选择3",
     "editor_name": "测试笔记选择3",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [7, 8],
     "idsandbox_note": 2,
     "name": "zhm测试选择1",
     "editor_name": "zhm测试选择1",
@@ -33,47 +33,47 @@
   },
   {
     "id": 5,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [9, 10],
     "idsandbox_note": 5,
     "name": "参与十字路口要塞攻城战前-选择1",
     "editor_name": "QV3-P3-参与十字路口要塞攻城战前-选择1",
-    "text": "无论如何，现阶段我们必须借助骑士同盟的力量，这关乎小镇的存亡。\n这不是完美的选择，却是足够现实的选择。"
+    "text": "In any case, we must rely on the Union for the time being. It's related to the survival of the town. \nThis is an imperfect but realistic choice."
   },
   {
     "id": 6,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [11, 12],
     "idsandbox_note": 6,
     "name": "十字路口会战后的反思（无信物）-选择1",
     "editor_name": "QV3-P4-十字路口会战后的反思（无信物）-选择1",
-    "text": "无论如何，从今往后我必须更加灵活、谨慎地行事。\n十字路会战这样沉重的挫折，铃兰之剑经不起第二次了。"
+    "text": "No matter what happens, I must be more flexible and cautious from now on. \nWith such a heavy setback at the Crossroads Battle, the Sword of Convallaria can't withstand more."
   },
   {
     "id": 7,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [13, 14],
     "idsandbox_note": 7,
     "name": "十字路口会战后的反思（歌洛莉亚信物）-选择1",
     "editor_name": "QV3-P4-十字路口会战后的反思（歌洛莉亚信物）-选择1",
-    "text": "无论如何，从今往后我必须更加灵活、谨慎地行事。\n十字路会战这样沉重的挫折，铃兰之剑经不起第二次了。"
+    "text": "No matter what happens, I must be more flexible and cautious from now on. \nWith such a heavy setback at the Crossroads Battle, the Sword of Convallaria can't withstand more."
   },
   {
     "id": 8,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [15, 16],
     "idsandbox_note": 8,
     "name": "关于二王子的计划-选择1",
     "editor_name": "QV3-P4-关于二王子的计划-选择1 ",
-    "text": "总之，我有预感，抉择的时刻很快就会到来……"
+    "text": "In a word, I have a hunch that the moment of choice will come soon..."
   },
   {
     "id": 9,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [17, 18],
     "idsandbox_note": 16,
     "name": "二王子的来信",
     "editor_name": "QV3-P5-二王子的来信-选择1",
-    "text": "我应该信任鲁特菲和他的计划吗？"
+    "text": "Should I trust Lutfi and his plan?"
   },
   {
     "id": 10,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [19],
     "idsandbox_note": 1,
     "name": "",
     "editor_name": "",
@@ -81,7 +81,7 @@
   },
   {
     "id": 12,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [21, 22],
     "idsandbox_note": 2,
     "name": "zhm测试选择1-A",
     "editor_name": "zhm测试选择1-A",
@@ -89,7 +89,7 @@
   },
   {
     "id": 13,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [23, 24],
     "idsandbox_note": 2,
     "name": "zhm测试选择1-B",
     "editor_name": "zhm测试选择1-B",
@@ -97,10 +97,10 @@
   },
   {
     "id": 14,
-    "m_sandbox_note_options": [],
+    "m_sandbox_note_options": [25, 26],
     "idsandbox_note": 28,
     "name": "和谈失败后的笔记-抉择1",
     "editor_name": "和谈失败后的笔记-抉择1",
-    "text": "然而结果并没有出乎意料，伊南娜拒绝了法皇国提供的“霸道”和约。"
+    "text": "To no one's surprise, Inanna rejected the \"dictatorial\" contract proposed by the Papal States."
   }
 ]

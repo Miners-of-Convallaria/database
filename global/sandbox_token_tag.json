@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [1],
     "name": "测试1",
     "editor_name": "测试1",
     "desc": "大阿卡那测试1",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [1],
     "name": "测试2",
     "editor_name": "测试2",
     "desc": "大阿卡那测试2",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [1],
     "name": "测试3",
     "editor_name": "测试3",
     "desc": "大阿卡那测试3",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [2, 4, 5, 6, 7, 8, 86, 97],
     "name": "qv3-P1",
     "editor_name": "qv3-P1",
     "desc": "信物测试1",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [1],
     "name": "段金辉专用",
     "editor_name": "段金辉专用",
     "desc": "信物测试2",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [1],
     "name": "测试6",
     "editor_name": "测试6",
     "desc": "小阿卡那测试1",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [1],
     "name": "测试7",
     "editor_name": "测试7",
     "desc": "小阿卡那测试2",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [1],
     "name": "测试8",
     "editor_name": "测试8",
     "desc": "小阿卡那测试3",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [9],
     "name": "启动项测试1财神",
     "editor_name": "启动项测试1财神",
     "desc": "金币获取量增加10%",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [10],
     "name": "启动项测试2舞娘",
     "editor_name": "启动项测试2舞娘（添加角色特性测试）",
     "desc": "薇尔德舞娘开局加入队伍",
@@ -91,7 +91,7 @@
   },
   {
     "id": 12,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [11],
     "name": "zhm测试启动项",
     "editor_name": "zhm测试启动项",
     "desc": "",
@@ -100,7 +100,7 @@
   },
   {
     "id": 13,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [12],
     "name": "P3事件组测试",
     "editor_name": "P3事件组测试",
     "desc": "",
@@ -109,7 +109,7 @@
   },
   {
     "id": 14,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [15],
     "name": "P4事件组测试",
     "editor_name": "P4事件组测试",
     "desc": "",
@@ -118,7 +118,7 @@
   },
   {
     "id": 16,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [18, 19, 12, 17],
     "name": "提测用-启动项特性测试",
     "editor_name": "提测用-启动项特性测试",
     "desc": "测试测试测试",
@@ -127,7 +127,7 @@
   },
   {
     "id": 17,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [21],
     "name": "提测用-启动项结算测试",
     "editor_name": "提测用-启动项结算测试",
     "desc": "",
@@ -136,7 +136,7 @@
   },
   {
     "id": 18,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [10],
     "name": "启动项正式试做1技术研发",
     "editor_name": "启动项正式试做1技术研发",
     "desc": "每15回合获得随机科技包",
@@ -145,7 +145,7 @@
   },
   {
     "id": 19,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [24, 23, 25],
     "name": "yang-test-启动项1",
     "editor_name": "yang-test-启动项1",
     "desc": "test",
@@ -154,7 +154,7 @@
   },
   {
     "id": 20,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [26, 27],
     "name": "yang-test-启动项2",
     "editor_name": "yang-test-启动项2",
     "desc": "test",
@@ -163,7 +163,7 @@
   },
   {
     "id": 21,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [26],
     "name": "yang-test-启动项3",
     "editor_name": "yang-test-启动项3",
     "desc": "test",
@@ -172,7 +172,7 @@
   },
   {
     "id": 22,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [28, 7],
     "name": "yang-test-启动项-小-1",
     "editor_name": "yang-test-启动项-小-1",
     "desc": "test",
@@ -181,7 +181,7 @@
   },
   {
     "id": 23,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [29],
     "name": "yang-test-启动项-小-2",
     "editor_name": "yang-test-启动项-小-2",
     "desc": "test",
@@ -199,7 +199,7 @@
   },
   {
     "id": 25,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [31],
     "name": "P1事件组测试",
     "editor_name": "P1事件组测试",
     "desc": "",
@@ -208,7 +208,7 @@
   },
   {
     "id": 26,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [32],
     "name": "P2事件组测试",
     "editor_name": "P2事件组测试",
     "desc": "",
@@ -217,7 +217,7 @@
   },
   {
     "id": 27,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [8, 33, 144, 145, 143],
     "name": "qv3-P0",
     "editor_name": "qv3-P0",
     "desc": "",
@@ -226,7 +226,7 @@
   },
   {
     "id": 28,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [34],
     "name": "P5事件组测试",
     "editor_name": "P5事件组测试",
     "desc": "",
@@ -235,7 +235,7 @@
   },
   {
     "id": 29,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [36],
     "name": "P6二王子事件组测试",
     "editor_name": "P6二王子事件组测试",
     "desc": "",
@@ -244,7 +244,7 @@
   },
   {
     "id": 30,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [37],
     "name": "P6歌洛莉亚事件组测试",
     "editor_name": "P6歌洛莉亚事件组测试",
     "desc": "",
@@ -253,7 +253,7 @@
   },
   {
     "id": 31,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [38],
     "name": "P7歌洛莉亚事件组测试",
     "editor_name": "P7歌洛莉亚事件组测试",
     "desc": "",
@@ -262,7 +262,7 @@
   },
   {
     "id": 32,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [39],
     "name": "P7二王子事件组测试",
     "editor_name": "P7二王子事件组测试",
     "desc": "",
@@ -271,7 +271,7 @@
   },
   {
     "id": 33,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [40],
     "name": "初始资源-训练被动-强行军",
     "editor_name": "初始资源-训练被动-强行军",
     "desc": "开局获得训练被动【强行军】",
@@ -280,7 +280,7 @@
   },
   {
     "id": 34,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [41],
     "name": "初始资源-训练被动-基础强化",
     "editor_name": "初始资源-训练被动-基础强化",
     "desc": "开局获得训练被动【物攻强化】【魔攻强化】",
@@ -289,7 +289,7 @@
   },
   {
     "id": 35,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [42],
     "name": "初始资源-训练被动-骑士团强化",
     "editor_name": "初始资源-训练被动-骑士团强化",
     "desc": "开局获得训练被动【重铠战士】",
@@ -298,7 +298,7 @@
   },
   {
     "id": 36,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [43],
     "name": "初始资源-训练被动-职业佣兵",
     "editor_name": "初始资源-训练被动-职业佣兵",
     "desc": "开局获得训练被动【基础达人】",
@@ -307,7 +307,7 @@
   },
   {
     "id": 37,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [44],
     "name": "（废弃）初始资源-训练被动-随机强化",
     "editor_name": "（废弃）初始资源-训练被动-随机强化",
     "desc": "开局获得一个随机的训练被动",
@@ -316,7 +316,7 @@
   },
   {
     "id": 38,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [45],
     "name": "初始资源-战术技能-攻击号令",
     "editor_name": "初始资源-战术技能-攻击号令",
     "desc": "开局获得20点战术点、获得战术技能【攻击号令】",
@@ -325,7 +325,7 @@
   },
   {
     "id": 39,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [46],
     "name": "初始资源-战术技能-狙击配置",
     "editor_name": "初始资源-战术技能-狙击配置",
     "desc": "开局获得20点战术点、获得战术技能【狙击配置】",
@@ -334,7 +334,7 @@
   },
   {
     "id": 40,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [47],
     "name": "初始资源-战术技能-隐蔽号令",
     "editor_name": "初始资源-战术技能-隐蔽号令",
     "desc": "开局获得20点战术点、获得战术技能【隐蔽号令】",
@@ -343,7 +343,7 @@
   },
   {
     "id": 41,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [48],
     "name": "初始资源-科技-一型锻造强化",
     "editor_name": "初始资源-科技-一型锻造强化",
     "desc": "开局获得科技【更多的选择】",
@@ -352,7 +352,7 @@
   },
   {
     "id": 42,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [49],
     "name": "初始资源-科技-二型锻造强化",
     "editor_name": "初始资源-科技-二型锻造强化",
     "desc": "开局获得科技【改进锻造工艺】",
@@ -361,7 +361,7 @@
   },
   {
     "id": 43,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [50],
     "name": "初始资源-科技-疗养强化",
     "editor_name": "初始资源-科技-疗养强化",
     "desc": "开局获得科技【疗养回复提升】",
@@ -370,7 +370,7 @@
   },
   {
     "id": 44,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [51],
     "name": "初始资源-科技-训练强化\t",
     "editor_name": "初始资源-科技-训练强化\t",
     "desc": "开局获得科技【经验训练费用降低】",
@@ -379,7 +379,7 @@
   },
   {
     "id": 45,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [52],
     "name": "初始资源-科技-招募强化",
     "editor_name": "初始资源-科技-招募强化",
     "desc": "开局获得科技【招募费用降低】",
@@ -388,7 +388,7 @@
   },
   {
     "id": 46,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [54],
     "name": "全局buff-技巧专精",
     "editor_name": "全局buff-技巧专精",
     "desc": "战斗中，技巧角色攻击+10%，力量角色攻击-10%",
@@ -397,7 +397,7 @@
   },
   {
     "id": 48,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [55],
     "name": "全局buff-魔法专精",
     "editor_name": "全局buff-魔法专精",
     "desc": "战斗中，智力角色攻击+10%，技巧角色攻击-10%",
@@ -406,7 +406,7 @@
   },
   {
     "id": 49,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [56],
     "name": "全局buff-力量专精",
     "editor_name": "全局buff-力量专精\t",
     "desc": "战斗中，力量角色攻击+10%，智力角色攻击-10%",
@@ -415,7 +415,7 @@
   },
   {
     "id": 50,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [57],
     "name": "全局buff-冷兵器",
     "editor_name": "全局buff-冷兵器",
     "desc": "战斗中，所有角色物攻+20%，魔攻-20%",
@@ -424,7 +424,7 @@
   },
   {
     "id": 51,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [58],
     "name": "全局buff-魔法！",
     "editor_name": "全局buff-魔法！",
     "desc": "战斗中，所有角色魔攻+20%，物攻-20%",
@@ -433,7 +433,7 @@
   },
   {
     "id": 52,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [59],
     "name": "全局buff-信徒",
     "editor_name": "全局buff-信徒",
     "desc": "获得法皇国声望+20%",
@@ -442,7 +442,7 @@
   },
   {
     "id": 53,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [60],
     "name": "全局buff-骑士精神",
     "editor_name": "全局buff-骑士精神",
     "desc": "获得骑士团声望+20%",
@@ -451,7 +451,7 @@
   },
   {
     "id": 54,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [61],
     "name": "全局buff-攻击强化",
     "editor_name": "全局buff-攻击强化",
     "desc": "战斗中，所有角色攻击+5%",
@@ -460,7 +460,7 @@
   },
   {
     "id": 55,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [62],
     "name": "全局buff-魔法强化",
     "editor_name": "全局buff-魔法强化",
     "desc": "战斗中，所有角色魔法攻击+5%",
@@ -469,7 +469,7 @@
   },
   {
     "id": 56,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [63],
     "name": "全局buff-生命强化",
     "editor_name": "全局buff-生命强化",
     "desc": "战斗中，所有角色最大生命值+10%",
@@ -478,7 +478,7 @@
   },
   {
     "id": 57,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [64],
     "name": "全局buff-对话结果1",
     "editor_name": "全局buff-对话结果1",
     "desc": "骑士团声望获取率+25%，其他主要势力声望获取率-10%",
@@ -487,7 +487,7 @@
   },
   {
     "id": 58,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [65],
     "name": "全局buff-对话结果2",
     "editor_name": "全局buff-对话结果2",
     "desc": "法皇国声望获取率+25%，其他主要势力声望获取率-10%",
@@ -496,7 +496,7 @@
   },
   {
     "id": 59,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [66],
     "name": "全局buff-对话结果3",
     "editor_name": "全局buff-对话结果3",
     "desc": "伊利亚声望获取率+25%，其他主要势力声望获取率-10%",
@@ -505,7 +505,7 @@
   },
   {
     "id": 60,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [68],
     "name": "全局buff-对话结果10",
     "editor_name": "全局buff-对话结果10",
     "desc": "训练金币消耗-20%，招募金币消耗+10%",
@@ -514,7 +514,7 @@
   },
   {
     "id": 61,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [85],
     "name": "全局buff-对话结果11",
     "editor_name": "全局buff-对话结果11",
     "desc": "招募金币消耗-20%，训练金币消耗+10%",
@@ -523,7 +523,7 @@
   },
   {
     "id": 62,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [69],
     "name": "沙盒事件-对话结果9",
     "editor_name": "沙盒事件-对话结果9",
     "desc": "使用此启动项可以不触发黑暗之光卷土重来系列支线",
@@ -532,7 +532,7 @@
   },
   {
     "id": 63,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [91],
     "name": "沙盒事件-暗夜中的微光",
     "editor_name": "沙盒事件-暗夜中的微光",
     "desc": "暗夜中的微光系列事件",
@@ -541,7 +541,7 @@
   },
   {
     "id": 64,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [71],
     "name": "沙盒事件-圣光祝福",
     "editor_name": "沙盒事件-圣光祝福",
     "desc": "圣光教义事件",
@@ -550,7 +550,7 @@
   },
   {
     "id": 65,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [72],
     "name": "沙盒事件-薇尔德奇缘",
     "editor_name": "沙盒事件-薇尔德奇缘",
     "desc": "流浪薇尔德人事件组触发",
@@ -559,7 +559,7 @@
   },
   {
     "id": 66,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [73],
     "name": "沙盒事件-技术研发",
     "editor_name": "沙盒事件-技术研发",
     "desc": "每15回合获得随机科技包",
@@ -568,7 +568,7 @@
   },
   {
     "id": 67,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [90],
     "name": "沙盒事件-天赐礼物",
     "editor_name": "沙盒事件-天赐礼物",
     "desc": "每10回合获得一个随机奖励宝箱",
@@ -577,7 +577,7 @@
   },
   {
     "id": 68,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [74],
     "name": "沙盒事件-骑士团的帮助",
     "editor_name": "沙盒事件-骑士团的帮助",
     "desc": "旅店会出现一个随机职业骑士团ssr评级佣兵，点击对话加入",
@@ -586,7 +586,7 @@
   },
   {
     "id": 69,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [75],
     "name": "沙盒事件-法皇国的帮助",
     "editor_name": "沙盒事件-教皇国的帮助",
     "desc": "旅店会出现一个随机职业法皇国团ssr评级佣兵，点击对话加入",
@@ -595,7 +595,7 @@
   },
   {
     "id": 70,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [76],
     "name": "沙盒事件-指定强化",
     "editor_name": "沙盒事件-指定强化",
     "desc": "开局从随机出的3个训练被动中，选择一个来获得",
@@ -604,7 +604,7 @@
   },
   {
     "id": 71,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [77],
     "name": "沙盒事件-战术技能",
     "editor_name": "沙盒事件-战术技能",
     "desc": "开局获得一个随机的战术技能",
@@ -613,7 +613,7 @@
   },
   {
     "id": 72,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [78],
     "name": "拉维耶信物",
     "editor_name": "拉维耶信物",
     "desc": "与拉维耶的羁绊发生变化，这将使你走出困境",
@@ -622,7 +622,7 @@
   },
   {
     "id": 73,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [80],
     "name": "歌洛莉亚的信物",
     "editor_name": "歌洛莉亚的信物",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变。",
@@ -631,7 +631,7 @@
   },
   {
     "id": 74,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [81],
     "name": "第二王子的信物",
     "editor_name": "二王子的信物",
     "desc": "突破黑暗的阻挡，前往新的未来。",
@@ -649,7 +649,7 @@
   },
   {
     "id": 76,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [70],
     "name": "沙盒事件-对话结果4",
     "editor_name": "沙盒事件-对话结果4",
     "desc": "开局时，遭遇“老富翁”事件，获得一笔意外之财，但稍有不慎会有更多损失",
@@ -658,7 +658,7 @@
   },
   {
     "id": 79,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [82],
     "name": "沙盒事件-对话结果5",
     "editor_name": "沙盒事件-对话结果5",
     "desc": "开局时，遭遇“骑士侍从”事件，获得一名额外的佣兵，同时会遇到额外的强制战斗事件，处理不当会导致角色离队",
@@ -667,7 +667,7 @@
   },
   {
     "id": 80,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [83],
     "name": "沙盒事件-对话结果6",
     "editor_name": "沙盒事件-对话结果6",
     "desc": "开局时，遭遇“贵族契约”事件，每回合可以获得一些资源，但一段时间内能获得的金钱减少了",
@@ -676,7 +676,7 @@
   },
   {
     "id": 81,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [67],
     "name": "沙盒事件-对话结果7",
     "editor_name": "沙盒事件-对话结果7",
     "desc": "这一年为灾年，更高概率触发天灾类事件",
@@ -685,7 +685,7 @@
   },
   {
     "id": 82,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [84],
     "name": "沙盒事件-对话结果8",
     "editor_name": "沙盒事件-对话结果8",
     "desc": "这一年将风平浪静，不会有任何天灾类事件发生",
@@ -694,7 +694,7 @@
   },
   {
     "id": 83,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [5, 4, 30112, 30135],
     "name": "测试用信物配置（60回合结局）",
     "editor_name": "测试用信物配置（60回合结局）",
     "desc": "",
@@ -703,7 +703,7 @@
   },
   {
     "id": 84,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 78, 97, 100, 87, 114, 137, 138],
     "name": "拉维耶的羁绊",
     "editor_name": "拉维耶的羁绊",
     "desc": "解锁新的事件，更容易与拉维耶建立羁绊",
@@ -712,16 +712,16 @@
   },
   {
     "id": 85,
-    "m_sandbox_specialitys": [],
-    "name": "守护之力",
+    "m_sandbox_specialitys": [89],
+    "name": "Power of Guardianship",
     "editor_name": "信物用-通用-守护之力",
-    "desc": "获得全局buff：战斗中，所有角色最大生命值+10%",
+    "desc": "Get global buff: In the battle, all characters Max HP + 10%",
     "sandbox_speciality_ids": "89",
     "is_show": true
   },
   {
     "id": 86,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [2, 4, 5, 6, 7, 8, 86, 78],
     "name": "救援之力（废弃）",
     "editor_name": "救援之力（废弃）",
     "desc": "解锁新的事件，更容易与拉维耶建立羁绊",
@@ -730,19 +730,19 @@
   },
   {
     "id": 87,
-    "m_sandbox_specialitys": [],
-    "name": "救援之力",
+    "m_sandbox_specialitys": [86, 81, 97, 87, 138, 137, 10115, 10118, 10119, 10121, 10122, 10123, 10134, 20028, 30119],
+    "name": "Power of Rescue",
     "editor_name": "信物用-长夜的救援-救援之力",
-    "desc": "解锁新的事件，在面对黑暗之光的威胁时，更容易得到骑士同盟的支援",
+    "desc": "Unlock the new event and get support of the Union more easily when facing the threat of Darklight",
     "sandbox_speciality_ids": "86|81|97|87|138|137|10115|10118|10119|10121|10122|10123|10134|20028|30119",
     "is_show": true
   },
   {
     "id": 88,
-    "m_sandbox_specialitys": [],
-    "name": "歌洛莉亚的羁绊",
+    "m_sandbox_specialitys": [86, 80, 97, 87, 138, 137, 10115, 10118, 10119, 10125, 10126, 10128, 10129, 10130, 10134, 20030, 30115],
+    "name": "Karma of Gloria",
     "editor_name": "信物用-骑士的挽歌-歌洛莉亚的羁绊",
-    "desc": "解锁新的事件，更容易与歌洛莉亚建立羁绊",
+    "desc": "Unlock the new event to estabish the karma more easily with Gloria",
     "sandbox_speciality_ids": "86|80|97|87|138|137|10115|10118|10119|10125|10126|10128|10129|10130|10134|20030|30115",
     "is_show": true
   },
@@ -758,15 +758,15 @@
   {
     "id": 92,
     "m_sandbox_specialitys": [],
-    "name": "歌洛莉亚的羁绊",
+    "name": "Karma of Gloria",
     "editor_name": "信物用-骑士的挽歌-歌洛莉亚的羁绊",
-    "desc": "解锁新的事件，更容易与歌洛莉亚建立羁绊",
+    "desc": "Unlock the new event to estabish the karma more easily with Gloria",
     "sandbox_speciality_ids": "",
     "is_show": true
   },
   {
     "id": 93,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [86],
     "name": "测试-全局用支线事件组",
     "editor_name": "测试-全局用支线事件组",
     "desc": "",
@@ -775,7 +775,7 @@
   },
   {
     "id": 94,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [90],
     "name": "沙盒事件-天赐礼物",
     "editor_name": "沙盒事件-天赐礼物",
     "desc": "每10回合获得一个随机奖励宝箱",
@@ -784,7 +784,7 @@
   },
   {
     "id": 95,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [93],
     "name": "沙盒事件-乱世佣兵",
     "editor_name": "沙盒事件-乱世佣兵（雇佣兵招募事件）",
     "desc": "触发乱世佣兵事件",
@@ -793,7 +793,7 @@
   },
   {
     "id": 96,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [92],
     "name": "沙盒事件-圣光之手",
     "editor_name": "沙盒事件-圣光之手（骑士团招募事件）",
     "desc": "触发圣光之手事件",
@@ -802,7 +802,7 @@
   },
   {
     "id": 97,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [94, 95],
     "name": "hydemo启动项",
     "editor_name": "hydemo启动项",
     "desc": "",
@@ -811,7 +811,7 @@
   },
   {
     "id": 98,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [100],
     "name": "初始战术点",
     "editor_name": "初始战术点",
     "desc": "",
@@ -820,25 +820,25 @@
   },
   {
     "id": 99,
-    "m_sandbox_specialitys": [],
-    "name": "再度启程",
+    "m_sandbox_specialitys": [7, 6, 137, 138, 86, 97, 87, 78, 10115, 10116, 10117],
+    "name": "Set Out Again",
     "editor_name": "信物用-惨剧的见证者-再度启程",
-    "desc": "开始新的故事，这次你将会走向……",
+    "desc": "Start a new story, and this time you will go to...",
     "sandbox_speciality_ids": "7|6|137|138|86|97|87|78|10115|10116|10117",
     "is_show": true
   },
   {
     "id": 100,
-    "m_sandbox_specialitys": [],
-    "name": "迈向黎明",
+    "m_sandbox_specialitys": [100, 138, 137],
+    "name": "Towards the Dawn",
     "editor_name": "信物用-铃兰之剑徽记-迈向黎明",
-    "desc": "解锁新的事件选项，在经历一次失败后，你将进一步接触到故事的真相",
+    "desc": "Unlock the new event, and you will be closer to the truth after a failure",
     "sandbox_speciality_ids": "100|138|137",
     "is_show": true
   },
   {
     "id": 101,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [116],
     "name": "全局buff-对话结果00",
     "editor_name": "全局buff-对话结果00",
     "desc": "骑士团声望获取率+25%，其他主要势力声望获取率-10%",
@@ -847,7 +847,7 @@
   },
   {
     "id": 102,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 80, 97, 100, 87, 115, 12],
     "name": "测试用P3环境",
     "editor_name": "测试用P3环境",
     "desc": "改变故事的轨迹，面对黑暗之光的威胁，更容易得到骑士团的支援",
@@ -856,7 +856,7 @@
   },
   {
     "id": 103,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 80, 97, 100, 87, 115, 15],
     "name": "测试用P4环境",
     "editor_name": "测试用P4环境",
     "desc": "改变故事的轨迹，面对黑暗之光的威胁，更容易得到骑士团的支援",
@@ -865,7 +865,7 @@
   },
   {
     "id": 104,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 80, 97, 100, 87, 115, 34],
     "name": "测试用P5环境",
     "editor_name": "测试用P5环境",
     "desc": "改变故事的轨迹，面对黑暗之光的威胁，更容易得到骑士团的支援",
@@ -874,7 +874,7 @@
   },
   {
     "id": 105,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 80, 97, 100, 87, 115, 36],
     "name": "测试用P6环境(二王子线）",
     "editor_name": "测试用P6环境(二王子线）",
     "desc": "改变故事的轨迹，面对黑暗之光的威胁，更容易得到骑士团的支援",
@@ -883,7 +883,7 @@
   },
   {
     "id": 106,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 80, 97, 100, 87, 115, 37],
     "name": "测试用P6环境（歌洛莉亚线）",
     "editor_name": "测试用P6环境（歌洛莉亚线）",
     "desc": "改变故事的轨迹，面对黑暗之光的威胁，更容易得到骑士团的支援",
@@ -892,7 +892,7 @@
   },
   {
     "id": 107,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 80, 97, 100, 87, 115, 39],
     "name": "测试用P7环境（二王子线）",
     "editor_name": "测试用P7环境（二王子线）",
     "desc": "改变故事的轨迹，面对黑暗之光的威胁，更容易得到骑士团的支援",
@@ -901,7 +901,7 @@
   },
   {
     "id": 108,
-    "m_sandbox_specialitys": [],
+    "m_sandbox_specialitys": [4, 5, 86, 80, 97, 100, 87, 115, 38],
     "name": "测试用P7环境（歌洛莉亚线）",
     "editor_name": "测试用P7环境（歌洛莉亚线）",
     "desc": "改变故事的轨迹，面对黑暗之光的威胁，更容易得到骑士团的支援",
@@ -910,46 +910,46 @@
   },
   {
     "id": 109,
-    "m_sandbox_specialitys": [],
-    "name": "救援之力",
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10120, 10121, 10122, 10124, 10133, 10136, 20028, 30116],
+    "name": "Power of Rescue",
     "editor_name": "信物用-燃烧的伊利亚旗帜-救援之力",
-    "desc": "解锁新的事件，在面对黑暗之光的威胁时，更容易得到王国军的支援",
+    "desc": "Unlock the new event and get support of the King's army more easily when facing the threat of Darklight",
     "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10120|10121|10122|10124|10133|10136|20028|30116",
     "is_show": true
   },
   {
     "id": 110,
-    "m_sandbox_specialitys": [],
-    "name": "迪塔利奥的信任",
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10120, 10125, 10127, 10128, 10129, 10131, 10135, 10137, 20030, 30116],
+    "name": "Trust of Dantalion",
     "editor_name": "信物用-倒吊人的徽记-救援之力",
-    "desc": "解锁新的事件，获得迪塔利奥更特别的信任",
+    "desc": "Unlock the new event to gain more special trust of Dantalion",
     "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10120|10125|10127|10128|10129|10131|10135|10137|20030|30116",
     "is_show": true
   },
   {
     "id": 111,
-    "m_sandbox_specialitys": [],
-    "name": "救援之力",
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10121, 10122, 20027, 20028, 30117, 30123, 30122, 30125],
+    "name": "Power of Rescue",
     "editor_name": "信物用-法皇国表线信物特性",
-    "desc": "解锁新的事件，在面对黑暗之光的威胁时，更容易得到法皇国的支援",
+    "desc": "Unlock the new event and get support of the Papal States more easily when facing the threat of the Darklight",
     "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10121|10122|20027|20028|30117|30123|30122|30125",
     "is_show": true
   },
   {
     "id": 112,
-    "m_sandbox_specialitys": [],
-    "name": "萨曼莎的意志",
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10125, 10128, 10129, 20024, 20030, 30117, 30124, 30126, 30121, 30122],
+    "name": "Will of Samantha",
     "editor_name": "信物用-法皇国里线信物特性",
-    "desc": "解锁新的事件，更容易得到人民的信任",
+    "desc": "Unlock the new event to gain the trust of people more easily",
     "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10125|10128|10129|20024|20030|30117|30124|30126|30121|30122",
     "is_show": true
   },
   {
     "id": 113,
-    "m_sandbox_specialitys": [],
-    "name": "商场如战场",
+    "m_sandbox_specialitys": [137, 30131, 30132, 30133, 30128, 30129, 30130, 30134],
+    "name": "The market is a battlefield.",
     "editor_name": "信物用-埃拉曼线信物特性",
-    "desc": "成为铃兰商会的会长，开启一段在伊利业经商的新旅程。",
+    "desc": "The story it initiates will make you the chairman of Convallaria Trading Post, embarking on a new journey of commerce in Iria.",
     "sandbox_speciality_ids": "137|30131|30132|30133|30128|30129|30130|30134",
     "is_show": true
   }

@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "m_system_redirects": [],
-    "name": "命运之钥",
+    "m_system_redirects": [1101],
+    "name": "Key of Destiny",
     "editor_name": "命运之钥",
-    "desc": "开启或继续命运的螺旋所消耗的资源。",
+    "desc": "Resource for starting or continuing the Spiral of Destinies.",
     "rarity": 3,
     "system_redirect_ids": "1101",
     "icon": "online_sanbox_ticket",
@@ -12,10 +12,10 @@
   },
   {
     "id": 2,
-    "m_system_redirects": [],
-    "name": "命运之钥",
+    "m_system_redirects": [1101],
+    "name": "Key of Destiny",
     "editor_name": "命运之钥(限时14天)",
-    "desc": "开启或继续命运的螺旋所消耗的资源，有使用期限。\n将在入手的<style=red>第2周的星期日结束时</style>过期。请注意在有效期内使用。",
+    "desc": "Time-limited resource for starting or continuing the Spiral of Destinies.\nOnce acquired, it will expire after <style=red>Sunday in the second week</style>. Please use it in time.",
     "rarity": 3,
     "system_redirect_ids": "1101",
     "icon": "online_sanbox_ticket",

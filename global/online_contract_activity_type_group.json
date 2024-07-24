@@ -14,7 +14,7 @@
     "type": 2,
     "param0": 23,
     "param1": 0,
-    "condition": "通关【盛宴的邀约】第四幕后解锁",
+    "condition": "Unlocked upon clearing Act 4 of \"Banquet Invitation\"",
     "prefab_name": "ActivityBig02_Sandbox"
   },
   {
@@ -104,7 +104,7 @@
     "type": 2,
     "param0": 25,
     "param1": 0,
-    "condition": "通关【剧情战役】第四幕后解锁",
+    "condition": "Clear Act IV of [Story Campaign] to unlock",
     "prefab_name": "ActivityBig01_Sandbox"
   },
   {
@@ -194,7 +194,7 @@
     "type": 2,
     "param0": 27,
     "param1": 0,
-    "condition": "通关【游园奇旅】第三幕后解锁",
+    "condition": "Complete Act 3 of [Wondrous Fair] to unlock.",
     "prefab_name": "UIActivityBig03SandboxView"
   },
   {

@@ -1106,7 +1106,7 @@
   },
   {
     "id": 55001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 55,
     "result_id": 1,
     "editor_name": "",
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 59001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 59,
     "result_id": 1,
     "editor_name": "",
@@ -2075,7 +2075,7 @@
   },
   {
     "id": 98001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 98,
     "result_id": 1,
     "editor_name": "",
@@ -4489,7 +4489,7 @@
   },
   {
     "id": 223001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [5],
     "idsandbox_event": 223,
     "result_id": 1,
     "editor_name": "",
@@ -4506,7 +4506,7 @@
   },
   {
     "id": 223002,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [7],
     "idsandbox_event": 223,
     "result_id": 2,
     "editor_name": "",
@@ -4523,7 +4523,7 @@
   },
   {
     "id": 223003,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [6],
     "idsandbox_event": 223,
     "result_id": 3,
     "editor_name": "",
@@ -4540,7 +4540,7 @@
   },
   {
     "id": 223004,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [3],
     "idsandbox_event": 223,
     "result_id": 4,
     "editor_name": "",
@@ -4557,7 +4557,7 @@
   },
   {
     "id": 223005,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [4],
     "idsandbox_event": 223,
     "result_id": 5,
     "editor_name": "",
@@ -5033,7 +5033,7 @@
   },
   {
     "id": 248001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 248,
     "result_id": 1,
     "editor_name": "",
@@ -5713,7 +5713,7 @@
   },
   {
     "id": 280001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 280,
     "result_id": 1,
     "editor_name": "",
@@ -6558,7 +6558,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在鲁特菲的引荐下，你和骑士同盟签订了契约，铃兰之剑与骑士同盟正式展开合作。",
+    "log_content": "Thanks to the recommendation of Lutfi, you signed a contract with the Union, marking the beginning of the official cooperation between the Sword of Convallaria and the Union.",
     "idsandbox_note": 0
   },
   {
@@ -6592,7 +6592,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "由于铃兰之剑和骑士同盟签订了契约，萨曼莎不得不向你道别离开小镇，你不清楚你们在未来是否能再次相逢。",
+    "log_content": "Due to the signing of the contract between the Sword of Convallaria and the Union, Samantha bid farewell to you and left the town. You were not sure if you two would meet again in the future.",
     "idsandbox_note": 0
   },
   {
@@ -6626,7 +6626,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "歌洛莉亚亲自率队与你进行了一场实战演习，你的表现赢得了歌洛莉亚对铃兰之剑的认可。",
+    "log_content": "Gloria conducted a combat exercise with you, and your performance won her approval of the Sword of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -6694,7 +6694,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "鉴于铃兰之剑与骑士同盟的良好关系，骑士同盟派了一名高阶骑士来到小镇，协助你完善粮食供应链。",
+    "log_content": "Given the good relationship between the Sword of Convallaria and the Union, the latter sent a high-rank knight to the town to assist you in the food supply chain.",
     "idsandbox_note": 0
   },
   {
@@ -6762,7 +6762,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "近日，伊利亚王国为了掐断骑士团和浪涌军的补给来源，让倒吊人袭击战线附近的城镇。\n铃兰之剑及时截取了袭击的情报，你立即与歌洛莉亚一同赶往那座城镇，迎击倒吊人部队。经过一番艰苦的战斗，你们最终击退了敌人，暂时保卫了那座城镇的安全。",
+    "log_content": "Recently, the Kingdom of Iria sent the Hanged Men to attack towns near the battle line, trying to cut off the supply sources from the Order and the Waverun Legion. The Sword of Convallaria intercepted the attack information in time. Therefore, you and Gloria rushed to the town immediately to fight against the Hanged Men. After a hard battle, you ultimately repelled the enemy and temporarily kept the town safe.",
     "idsandbox_note": 0
   },
   {
@@ -6796,7 +6796,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "随着战局的发展，骑士同盟成功地夺取了大片地区，兵锋直指伊利亚王国最重要的军事要塞——十字路要塞。为了赢下这场大会战，你需要完成一系列削弱王国军的军事行动。",
+    "log_content": "With the development of the war situation, the Union successfully occupied a large area and aimed at the most important military fortress of the Kingdom of Iria - the Crossroads Keep. To win this grand battle, you needed to complete a series of military actions to weaken the King's Army.",
     "idsandbox_note": 0
   },
   {
@@ -7051,7 +7051,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一名老骑士找到你，请求你配合他发动一次突袭，好向年轻的骑士们证明他宝刀未老。\n战斗中，老骑士成功奇袭敌军，奠定了胜局。但老骑士也当场牺牲，以最光荣的形式结束了他的骑士生涯。",
+    "log_content": "An old knight came to you, requesting that you cooperate with him in launching a surprise attack so that he could prove himself to the young knights. In the battle, the old knight successfully took down the enemy, laying the foundation for the victory. However, he sacrificed, ending his career most gloriously.",
     "idsandbox_note": 0
   },
   {
@@ -7102,7 +7102,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一名浪涌军士兵从王国军战俘营里逃脱，并请求率兵攻打战俘营。战斗中，战俘营内的大量俘虏受到鼓舞，帮助你们击败了王国军守卫，解放了战俘营。",
+    "log_content": "A soldier of the Waverun Legion, who escaped from the prison camp of the King's army, requested you to lead the troop to attack the camp. In the battle, as lots of prisoners were inspired and helped you defeat the guards of the King's army, you freed the camp.",
     "idsandbox_note": 0
   },
   {
@@ -7238,7 +7238,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "十字路要塞攻防战打响了，但罗迪尼亚法皇国却在中途撤军。危机关头，骑士团部队的指挥官命令铃兰之剑坚守阵地，掩护骑士团撤退。\n绝境中，歌洛莉亚率部赶到，为你们殿后。但这一义举也令歌洛莉亚也陷入了危险之中，好在不久后泰登带领了一支部队赶到，帮助歌洛莉亚和铃兰之剑撤离了战场。",
+    "log_content": "The battle at the Crossroads Keep began, but the Papal States of Rodinia withdrew in midway. At such a critical moment, the Order told the Sword of Convallaria to defend its position and cover the retreat for them. In the most desperate situation, Gloria and her troop arrived and made a rear guard for you. However, the righteous act also put Gloria in danger. Fortunately, Teadon and his troop arrived soon after and helped Gloria and the Sword of Convallaria evacuate from the battlefield.",
     "idsandbox_note": 0
   },
   {
@@ -7255,7 +7255,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "十字路要塞攻防战打响了，但罗迪尼亚法皇国却在中途撤军。危机关头，骑士团部队的指挥官命令铃兰之剑坚守阵地，掩护骑士团撤退。\n绝境中，歌洛莉亚率部赶到，为你们殿后。但这一义举也令歌洛莉亚也陷入了危险之中，好在不久后泰登带领了一支部队赶到，帮助歌洛莉亚和铃兰之剑撤离了战场。",
+    "log_content": "The battle at the Crossroads Keep began, but the Papal States of Rodinia withdrew in midway. At such a critical moment, the Order told the Sword of Convallaria to defend its position and cover the retreat for them. In the most desperate situation, Gloria and her troop arrived and made a rear guard for you. However, the righteous act also put Gloria in danger. Fortunately, Teadon and his troop arrived soon after and helped Gloria and the Sword of Convallaria evacuate from the battlefield.",
     "idsandbox_note": 0
   },
   {
@@ -7272,7 +7272,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在你安葬了拉维耶，宽慰了王女伊南娜后，鲁特菲拜访了你，他为你详细地阐述了伊利亚目前的困境和浪涌城悲剧背后的谜团。根据他的说法，残暴的迪塔利奥王子和图谋不轨的外国势力骑士同盟都必须被消灭，因此他正在筹划一个能够一石二鸟的计划。\n他邀请你加入他的计划，而计划的第一步，就是要将伊南娜交给骑士同盟，并让圣骑士歌洛莉亚发下毒誓，保护伊南娜的生命安全，誓死查清浪涌城悲剧的真相。\n你照做了。",
+    "log_content": "After you buried Rawiyah and comforted Princess Inanna, Lutfi visited you and explained in detail the current predicament of Iria and the mysteries behind the Waverun City tragedy. According to him, he was planning to eliminate the cruel Prince Dantalion and the scheming foreign force, the Union, at the same time. He invited you to join his plan, and the first step was to hand over Inanna to the Union, but the premise was that Paladin Gloria swore to protect Inanna and investigate the truth of the Waverun City tragedy. And you did so.",
     "idsandbox_note": 0
   },
   {
@@ -7289,7 +7289,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在你安葬了拉维耶，宽慰了王女伊南娜后，鲁特菲拜访了你，他为你详细地阐述了伊利亚目前的困境和浪涌城悲剧背后的谜团。根据他的说法，残暴的迪塔利奥王子和图谋不轨的外国势力骑士同盟都必须被消灭，因此他正在筹划一个能够一石二鸟的计划。\n他邀请你加入他的计划，而计划的第一步，就是要将伊南娜交给骑士同盟，并让圣骑士歌洛莉亚发下毒誓，保护伊南娜的生命安全，誓死查清浪涌城悲剧的真相。\n你照做了。",
+    "log_content": "After you buried Rawiyah and comforted Princess Inanna, Lutfi visited you and explained in detail the current predicament of Iria and the mysteries behind the Waverun City tragedy. According to him, he was planning to eliminate the cruel Prince Dantalion and the scheming foreign force, the Union, at the same time. He invited you to join his plan, and the first step was to hand over Inanna to the Union, but the premise was that Paladin Gloria swore to protect Inanna and investigate the truth of the Waverun City tragedy. And you did so.",
     "idsandbox_note": 0
   },
   {
@@ -7357,7 +7357,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你见到了消沉的伊南娜。出言激励她振作起来，肩负起自己的责任。伊南娜认同了你说的话，并对你表达了感谢。\n王女走后，鲁特菲找到了你。言谈中他劝说你协助他的计划，替他说服歌洛莉亚立下保证王妹安全的誓约，并且参与歌洛莉亚的调查。",
+    "log_content": "You saw the depressed Inanna. You persuaded her to cheer up and shoulder her responsibilities. Inanna agreed with you and thanked you. After the Princess left, Lutfi came to you. During the conversation, he persuaded you to assist him in his plan, ask Gloria to protect the Princess, and participate in Gloria's investigation.",
     "idsandbox_note": 0
   },
   {
@@ -7459,7 +7459,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": true,
-    "log_content": "团长日记",
+    "log_content": "Leader's Diary",
     "idsandbox_note": 6
   },
   {
@@ -7476,7 +7476,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "由于罗迪尼亚法皇国的出卖，骑士团对十字路要塞的进攻最终以惨烈的溃败收场。骑士团并没有很好地组织撤退，并且完全抛弃了铃兰之剑，好在歌洛莉亚和泰登在关键时刻出现，拯救了你们。\n骑士团毫不犹豫抛弃盟友的行为也让你们开始怀疑，他们到底是不是可靠的合作伙伴。",
+    "log_content": "Due to the betrayal of the Papal States of Rodinia, the Order's attack on the Crossroads Keep ended in a tragic defeat. The Order did not arrange their retreat well and abandoned the Sword of Convallaria directly. Luckily, Gloria and Teadon arrived at such a critical moment and saved you. The Order's outrageous behavior made you doubt their dependability.",
     "idsandbox_note": 0
   },
   {
@@ -7493,7 +7493,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "由于罗迪尼亚法皇国的出卖，骑士团对十字路要塞的进攻最终以惨烈的溃败收场。骑士团并没有很好地组织撤退，并且完全抛弃了铃兰之剑，好在歌洛莉亚和泰登在关键时刻出现，拯救了你们。\n骑士团毫不犹豫抛弃盟友的行为也让你们开始怀疑，他们到底是不是可靠的合作伙伴。",
+    "log_content": "Due to the betrayal of the Papal States of Rodinia, the Order's attack on the Crossroads Keep ended in a tragic defeat. The Order did not arrange their retreat well and abandoned the Sword of Convallaria directly. Luckily, Gloria and Teadon arrived at such a critical moment and saved you. The Order's outrageous behavior made you doubt their dependability.",
     "idsandbox_note": 0
   },
   {
@@ -7510,7 +7510,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": true,
-    "log_content": "笔记2",
+    "log_content": "Note 2",
     "idsandbox_note": 8
   },
   {
@@ -7544,7 +7544,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "小镇上的难民在吃了骑士同盟筹备的粮食后，陆续出现了危及生命的病症。面对难民们的骚动，泰登通过怀柔的手段暂时平息了事态。你们怀疑是高阶骑士拉尔造成了这桩事故，但最终未能找到有效的证据。",
+    "log_content": "The refugees in the town gradually developed life-threatening illnesses after eating the food prepared by the Union. Faced with the commotion of the refugees, Teadon temporarily quelled the situation through gentle means. You suspected that the high-rank knight Lahr was behind this, but you could not find any valid evidence.",
     "idsandbox_note": 0
   },
   {
@@ -7561,7 +7561,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "拉维耶突然归来，原来曾被宣布已遭处决的伊利亚王国王女伊南娜一直都呆在小镇上。你迅速出动，拯救了要被绑走的伊南娜王女，但拉维耶也遭到袭击，不幸离世。",
+    "log_content": "Rawiyah suddenly returned and brought news that Inanna, the Princess of the Kingdom of Iria, who was announced to have been executed, was staying in the town the whole time. You made quick action and saved Princess Inanna who was about to be kidnapped, but Rawiyah was attacked and unfortunately passed away.",
     "idsandbox_note": 0
   },
   {
@@ -7617,7 +7617,7 @@
   },
   {
     "id": 367001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [12],
     "idsandbox_event": 367,
     "result_id": 1,
     "editor_name": "",
@@ -7663,7 +7663,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士团提出了一个作战方案：铃兰之剑依凭新修筑好的据点，引诱附近的王国军主力进攻，待到王国军进攻乏力时，骑士团向王国军的侧翼发起袭击。\n经过艰苦的战斗，你出色地完成了任务，证明了铃兰之剑的战斗能力，你和骑士团的合作更加深入了。",
+    "log_content": "The Order proposed a combat plan, that is, the Sword of Convallaria, taking advantage of the newly built stronghold, would lure the main force of the King's Army nearby to launch an attack, and when the King's Army was exhausted, the Order would attack their flank. After a hard battle, you excelled in completing the task, proving the combat ability of the Sword of Convallaria and deepening your cooperation with the Order.",
     "idsandbox_note": 0
   },
   {
@@ -7680,7 +7680,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你率领铃兰之剑完成了一项骑士同盟下达的任务：切断十字路要塞周边的王国军补给据点。此役过后，十字路要塞攻城战最后的障碍得以清除。",
+    "log_content": "You led the Sword of Convallaria to complete a task from the Union: to cut off the supply strongholds of the King's Army around the Crossroads Keep. After this battle, the final obstacles in the siege battle of the Crossroads Keep were all cleared.",
     "idsandbox_note": 0
   },
   {
@@ -7697,12 +7697,12 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你率领铃兰之剑完成了一项骑士同盟下达的任务：切断十字路要塞周边的王国军补给据点。此役过后，十字路要塞攻城战最后的障碍得以清除。",
+    "log_content": "You led the Sword of Convallaria to complete a task from the Union: to cut off the supply strongholds of the King's Army around the Crossroads Keep. After this battle, the final obstacles in the siege battle of the Crossroads Keep were all cleared.",
     "idsandbox_note": 0
   },
   {
     "id": 370001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [9],
     "idsandbox_event": 370,
     "result_id": 1,
     "editor_name": "",
@@ -8003,7 +8003,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "拉维耶邀你加入了铃兰之剑佣兵团，同时举行了一场战斗演习，担任指挥者的你，在逆势之下赢得了胜利，让众人对你刮目相看。",
+    "log_content": "Rawiyah invited you to join the Sword of Convallaria Mercenary Group and held a combat exercise. As the commander, you won against the tide, making everyone look up to you.",
     "idsandbox_note": 0
   },
   {
@@ -8637,7 +8637,7 @@
   },
   {
     "id": 420001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 420,
     "result_id": 1,
     "editor_name": "",
@@ -9283,7 +9283,7 @@
   },
   {
     "id": 455001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 455,
     "result_id": 1,
     "editor_name": "",
@@ -9317,7 +9317,7 @@
   },
   {
     "id": 456001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 456,
     "result_id": 1,
     "editor_name": "",
@@ -10247,7 +10247,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "盘踞在矿坑城的极端组织——黑暗之光，不断地向周围扩张，最终威胁到了小镇。\n危急时刻，你选择向骑士同盟求援，圣骑士歌洛莉亚救了你们，在千钧一发之际击退了黑暗之光。\n来援助你的，还有你之前拯救过的那个商人，原来他就是伊利亚王国的第二王子——鲁特菲。\n他给你解释了伊利亚现在的问题，希望你接受骑士同盟的雇佣，和他联手击败残暴的第一王子迪塔利奥。",
+    "log_content": "Darklight, an extremist organization entrenched in the Mine Pit, continued to expand around and ultimately threatened the town. At such a critical moment, you chose to ask for help from the Union, and Paladin Gloria saved you and defeated Darklight. The merchant, who was saved by you before, also came to assist you. It turned out he was Prince Lutfi of the Kingdom of Iria. He explained to you Iria's current problem and hoped that you would help the Union defeat the cruel Prince Dantalion with him.",
     "idsandbox_note": 0
   },
   {
@@ -10451,7 +10451,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "随着时间的推移，重整了兵力的骑士团开始筹划第二次十字路要塞攻城战。铃兰之剑则收到骑士同盟下达的指令，开始执行一系列战前准备工作。",
+    "log_content": "As time passed, the Order, which had finished rearmament, began to plan for the second siege battle of the Crossroads Keep. The Sword of Convallaria also received instructions from the Union to make preparations for the battle.",
     "idsandbox_note": 0
   },
   {
@@ -10485,7 +10485,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "按照约定，歌洛莉亚展开了调查。顺着她提供的线索，你也开始为她提供一系列的帮助。",
+    "log_content": "According to the agreement, Gloria launched an investigation. Following the clues she provided, you also began to help her.",
     "idsandbox_note": 0
   },
   {
@@ -10519,7 +10519,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "为了逆转战场上的颓势，王国军悄悄地在后方集结了一支实力强劲的新兵团——“先锋营”。骑士团侦察到他们正在十字路要塞附近活动，铃兰之剑奉命出击并击退了“先锋营”。战斗中，你见到了这支兵团的首领泽维尔。",
+    "log_content": "To reverse the declining tendency on the battlefield, the King's Army secretly gathered a powerful new regiment, i.e., the \"Spear of Iria\". The Order detected that the \"Spear of Iria\" was around the Crossroads Keep and ordered the Sword of Convallaria to knock them back. You met their leader, Xavier, in the battle.",
     "idsandbox_note": 0
   },
   {
@@ -10587,7 +10587,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "经过了数月的休整和筹备，骑士团再次发起了对十字路要塞的进攻，但和上一次的仓促应战不同，这一次他们决定稳扎稳打，首先排除掉战场上所有的不稳定因素。\n在你的努力下，这一计划得以实现，王国军在你的连续袭击中损失惨重，基本已经失去了继续支援十字路要塞的可能。",
+    "log_content": "After several months of rest and preparation, the Order once again launched an attack on the Crossroads Keep. However, unlike the previous hasty response, they decided to strike steadily and first eliminate all unstable factors on the battlefield. The plan was executed because of you. The King's Army suffered heavy losses in your continuous attacks, basically losing the possibility of supporting the Crossroads Keep.",
     "idsandbox_note": 0
   },
   {
@@ -10604,7 +10604,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "十字路会战结束后不久，罗迪尼亚法皇国公开宣布支持伊利亚王国。为了顺利发动第二次十字路要塞攻城战，骑士团派你们前去清除罗迪尼亚法皇国部队的威胁。\n任务中，铃兰之剑与一队强悍的罗迪尼亚法皇国部队遭遇，艰难地击退了他们。",
+    "log_content": "Shortly after the end of the Crossroads Battle, the Papal States of Rodinia publicly announced its support for the Kingdom of Iria. To successfully launch the second siege battle in the Crossroads Keep, the Order sent you to clear the threat posed by the Papal States of Rodinia. During the mission, the Sword of Convallaria encountered a strong army of the Papal States of Rodinia and fought them back with difficulty.",
     "idsandbox_note": 0
   },
   {
@@ -10638,7 +10638,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "经过了数月的休整和筹备，骑士团再次发起了对十字路要塞的进攻，但和上一次的仓促应战不同，这一次他们决定稳扎稳打，首先排除掉了战场上所有的不稳定因素。\n在你的努力下，这一计划得以实现，罗迪尼亚法皇国在要塞附近的军事力量被你全部拔除，他们不会再有机会干预这场战争。",
+    "log_content": "After several months of rest and preparation, the Order once again launched an attack on the Crossroads Keep. However, unlike the previous hasty response, they decided to strike steadily and first eliminate all unstable factors on the battlefield. The plan was executed because of you. All military forces of the Papal States of Rodinia near the Keep were eliminated by you, and they no longer have the opportunity to intervene in the battle.",
     "idsandbox_note": 0
   },
   {
@@ -10706,7 +10706,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "根据伊南娜王女提供的线索，你们抓到了一名倒吊人的军官，由他确认了迪塔利奥确实对浪涌城悲剧知情。\n只不过，他也给出了另一个惊人的事实——骑士同盟内部有人也参与了对浪涌城悲剧的谋划。",
+    "log_content": "According to the clues provided by Princess Inanna, you caught an officer of the Hanged Men, and he told you that Dantalion indeed knew about the Waverun City tragedy. And he also revealed another piece of striking news - someone in the Union also participated in planning the Waverun City tragedy.",
     "idsandbox_note": 0
   },
   {
@@ -10808,7 +10808,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一名骑士同盟的高阶骑士突然向歌洛莉亚坦露真相，他表示自己掌握了骑士同盟内部参与筹划浪涌城惨案的人员的关键证据信息。歌洛莉亚请求你立即前往保护这名证人，但鲁特菲却希望你故意拖延不去营救，并表示这是计划的一部分。\n你选择了相信鲁特菲，没有前去援救。关键证人因此而牺牲了，歌洛莉亚愤怒不已，而泰登则似乎察觉到了什么。",
+    "log_content": "A high-rank knight of the Union suddenly told Gloria that he had key evidence about the person who participated in planning the Waverun City tragedy. Gloria requested that you immediately protect the witness, but Lutfi wanted you to deliberately delay because it was part of his plan. You chose to trust Lutfi and did not take action. The vital witness died as a result. Gloria was furious, and Teadon seemed to have noticed something.",
     "idsandbox_note": 0
   },
   {
@@ -10842,7 +10842,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "泰登的噩耗突然传来，你担心歌洛莉亚的状况，前去探望却发现她遭到了王国军的伏击。原来泰登死后，奥古斯特以战力吃紧为由不再给歌洛莉亚提供人手调查浪涌城悲剧，你按照鲁特菲的计划将奥古斯特可能参与浪涌城悲剧谋划的证据交给了歌洛莉亚，并且将泰登之死与奥古斯特联系起来，歌洛莉亚非常感谢你提供的证据，再次强调自己一定会追查到底。",
+    "log_content": "The news of Teadon's death suddenly came, and you were worried about Gloria. When you went to visit her, you found that she was being ambushed by the King's Army. After Teadon's death, Auguste no longer sent men to assist Gloria in investigating the Waverun City tragedy with the excuse of lack of hands. You handed over the evidence of Auguste's possible involvement in the planning of the Waverun City tragedy to Gloria according to Lutfi's plan and considered that Teadon's death had something to do with Auguste. Gloria was very grateful for your information and once again promised that she would find out the truth.",
     "idsandbox_note": 0
   },
   {
@@ -10910,7 +10910,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一名骑士同盟的高阶骑士突然向歌洛莉亚坦露真相，他表示自己掌握了骑士同盟内部参与筹划浪涌城惨案的人员的关键证据信息。歌洛莉亚请求你立即前往保护这名证人，但鲁特菲却希望你故意拖延不去营救，并表示这是计划的一部分。\n你没有遵从鲁特菲的计划，选择了支援歌洛莉亚，尽管没有能够拯救线人，但他临终前已经将线索透露给你，根据线索，先遣骑士团团长奥古斯特与浪涌城惨剧脱不了干系，歌洛莉亚将顺着线索继续进行调查。",
+    "log_content": "A high-rank knight of the Union suddenly told Gloria that he had key evidence about the person who participated in planning the Waverun City tragedy. Gloria requested that you immediately protect the witness, but Lutfi wanted you to deliberately delay because it was part of his plan. You did not follow Lutfi's plan and chose to support Gloria. Although you were unable to save the informant, he revealed the clues to you before his death. According to his clues, the Leader of the Advance Order, Auguste, was related to the Waverun City tragedy. Gloria would keep investigating with the new clues.",
     "idsandbox_note": 0
   },
   {
@@ -11063,7 +11063,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在解决了大部分不稳定因素后，骑士团开始向十字路要塞发起新一轮的进攻，铃兰之剑也参与其中，这将会是决定伊利亚命运的一战。",
+    "log_content": "After resolving most of the unstable factors, the Order began a new round of attacks on the Crossroads Keep with the Sword of Convallaria. It would be a battle deciding the destiny of Iria.",
     "idsandbox_note": 0
   },
   {
@@ -11080,7 +11080,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在解决了大部分不稳定因素后，骑士团开始向十字路要塞发起新一轮的进攻，铃兰之剑也参与其中，这将会是决定伊利亚命运的一战。",
+    "log_content": "After resolving most of the unstable factors, the Order began a new round of attacks on the Crossroads Keep with the Sword of Convallaria. It would be a battle deciding the destiny of Iria.",
     "idsandbox_note": 0
   },
   {
@@ -11250,7 +11250,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "与骑士同盟签订契约以来，铃兰之剑为骑士同盟完成了多次危险的任务，而骑士团却在十字路攻城战中抛弃了你们。铃兰之剑内部有许多士兵对此怨声载道。",
+    "log_content": "Since the signing of the contract with the Union, the Sword of Convallaria had completed multiple dangerous missions for them, but the Order abandoned you in the Crossroads Battle. Many soldiers of the Sword of Convallaria were complaining about this.",
     "idsandbox_note": 0
   },
   {
@@ -11318,7 +11318,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "与骑士同盟签订契约以来，铃兰之剑为骑士同盟完成了多次危险的任务，而骑士团却在十字路攻城战中抛弃了你们。铃兰之剑内部有许多士兵对此怨声载道。",
+    "log_content": "Since the signing of the contract with the Union, the Sword of Convallaria had completed multiple dangerous missions for them, but the Order abandoned you in the Crossroads Battle. Many soldiers of the Sword of Convallaria were complaining about this.",
     "idsandbox_note": 0
   },
   {
@@ -11335,7 +11335,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "第二次十字路会战最终以骑士同盟的全面胜利告终，然而你却遭到了无情的背叛，骑士团抛下对战局有卓越贡献的铃兰之剑，使得你身陷重围。如果不是鲁特菲及时赶到，铃兰之剑必然会遭受严重的损失。\n因此，你和鲁特菲达成了共识——暂时隐忍，等到王国军被彻底击败后，就按照计划解决骑士团。\n而鲁特菲的计划也在稳步推进，他希望你保护他前往晨曦堡附近，参加一场重要的会议……",
+    "log_content": "The Crossroads Battle II ultimately ended in a rolling victory for the Union, but you were ruthlessly betrayed. The Order threw down the Sword of Convallaria, which had made outstanding contributions to the battle, leaving you trapped in a siege. If it weren't for Lutfi's timely help, the Sword of Convallaria would inevitably suffer great losses. Therefore, you and Lutfi agreed to tolerate it for now and take down the Order as planned after the King's Army was completely defeated. Lutfi's plan was also steadily advancing, and he hoped that you could protect him to attend an important meeting near the Mornrays Castle...",
     "idsandbox_note": 0
   },
   {
@@ -11420,7 +11420,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "第二次十字路会战最终以骑士同盟的全面胜利告终，然而你却遭到了无情的背叛，骑士同盟抛下对战局有卓越贡献的铃兰之剑，使得你们身陷重围，尽管歌洛莉亚最后前来援救，但铃兰之剑依然遭受了非常严重的损失。对于骑士团来到伊利亚的初衷，歌洛莉亚和泰登也就此产生了一些分歧。",
+    "log_content": "The Crossroads Battle II ultimately ended in a rolling victory for the Union, but you were ruthlessly betrayed. The Order threw down the Sword of Convallaria, which had made outstanding contributions to the battle, leaving you trapped in a siege. Although Gloria finally came to rescue you, the Sword of Convallaria still suffered great losses. There were also some disagreements between Gloria and Teadon regarding the original intention of the Order coming to Iria.",
     "idsandbox_note": 0
   },
   {
@@ -11556,7 +11556,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "尽管十字路要塞攻防战已然尘埃落定，但依然有小股王国军残部在进行抵抗活动。骑士同盟向铃兰之剑提出了劝降这部分王国军士兵的请求。铃兰之剑顺利地完成了任务，彻底扫除了王国军残部。",
+    "log_content": "Although the end of the Crossroads Battle had settled, some remaining soldiers of the King's Army were still resisting. The Union requested the Sword of Convallaria to persuade these soldiers to surrender. The Sword of Convallaria successfully completed the mission and thoroughly swept away the remnants of the King's Army.",
     "idsandbox_note": 0
   },
   {
@@ -11590,7 +11590,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "为了尽早结束战争，你护送鲁特菲与晨曦堡的主和派贵族们进行会谈，会谈进行得很顺利，但会谈结束后，你们遭到了迪塔利奥手下特工倒吊人的袭击。你和鲁特菲被逼入绝境，关键时刻，马格努斯将军解救了你们，他代表法里斯表达了对鲁特菲的认可。伊利亚王国军已经做好准备随时听从鲁特菲的安排，你选择站在鲁特菲这边，结束这场战争。",
+    "log_content": "To put the war to an end as soon as possible, you escorted Lutfi to have a talk with the noblemen who advocated peace in the Mornrays Castle. It went well, but after that, you were attacked by the Hanged Men, an agent organization of Dantalion. You and Lutfi were forced into a desperate situation. At such a critical moment, General Magnus rescued you and expressed his recognition of Lutfi on behalf of Faris. The King's Army of Iria was ready to follow Lutfi's arrangement at any time, and you chose to stand on Lutfi's side to end this war.",
     "idsandbox_note": 0
   },
   {
@@ -11629,7 +11629,7 @@
   },
   {
     "id": 574001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 574,
     "result_id": 1,
     "editor_name": "",
@@ -11692,7 +11692,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你决定协助歌洛莉亚的取证行动，负责在宴会上拖住奥古斯特。晚宴结束后，你立刻前往港口与歌洛莉亚会合。",
+    "log_content": "You decided to assist Gloria in obtaining the evidence, that is, you were to keep Auguste occupied at the banquet. After the banquet, you immediately headed to the port to meet Gloria.",
     "idsandbox_note": 0
   },
   {
@@ -11726,7 +11726,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "经过长时间的调查，歌洛莉亚基本锁定了奥古斯特参与浪涌城悲剧谋划的证据的位置，你们准备将证据盗取出来，为此她希望你在奥古斯特庆祝战役胜利的酒会上牵制住奥古斯特，为她创造机会。\n你完美地完成了任务，然而真相却是残酷的——一手策划了浪涌城悲剧的人不仅仅是奥古斯特，还有骑士诸国同盟的高层。\n就如何处理这份证据，歌洛莉亚和泰登产生了巨大的分歧，争吵最终演变成了冲突，冲突中，歌洛莉亚失手杀死了泰登……\n好在你及时赶到，击退了奥古斯特的手下，救下了已经神志恍惚的歌洛莉亚，把她连同证据一起带回了小镇。",
+    "log_content": "After a long investigation, Gloria located the evidence of Auguste's involvement in planning the Waverun City tragedy. She asked you to keep Auguste occupied at the celebration party so that she could have the chance to steal it. You completed the mission perfectly, but the truth was cruel. It was not only Auguste who planned the Waverun City tragedy but also the senior leaders of the Union of Knight States. Gloria and Teadon disagreed sharply on how to deal with the evidence. The quarrel eventually turned into a conflict, in which Gloria accidentally killed Teadon...\nFortunately, you arrived in time, repelled Auguste's men, saved the absent-minded Gloria, and brought her back to the town with the evidence.",
     "idsandbox_note": 0
   },
   {
@@ -11862,7 +11862,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一群浪涌城出身的浪涌军战士公开哗变，要求骑士同盟继续调查浪涌城悲剧的真相，为他们遇难的家人报仇。你平息了这场哗变，并继续和歌洛莉亚展开对奥古斯特的调查。",
+    "log_content": "A group of soldiers of the Waverun Legion made an uproar in public, asking the Union to continue to investigate the truth of the Waverun City tragedy and avenge their dead families. You managed to subside the uproar and continued to investigate Auguste with Gloria.",
     "idsandbox_note": 0
   },
   {
@@ -11930,7 +11930,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "奥古斯特来到小镇，对你旁敲侧击，试图确认歌洛莉亚是否在小镇上，你没有给出明确的回答。奥古斯特随后表示骑士团将对晨曦堡展开进攻，希望铃兰之剑能够继续协助骑士团。",
+    "log_content": "Auguste came to town and tried to find out whether Gloria was here, but you didn't give him a clear answer. Auguste then said that the Order was going to attack the Mornrays Castle and hoped that the Sword of Convallaria could continue to offer help.",
     "idsandbox_note": 0
   },
   {
@@ -11947,7 +11947,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在夺取十字路要塞后，骑士同盟乘胜追击向晨曦堡发动了进攻。而伊利亚王国军也重新构筑防线，并派出游击部队和倒吊人袭扰骑士团的后方。",
+    "log_content": "After taking the Crossroads Keep, the Union took advantage of the victory and launched an attack on the Mornrays Castle. At the same time, the King's Army of Iria also rebuilt their defensive line and sent guerrilla forces and the Hanged Men to attack the rear of the Order.",
     "idsandbox_note": 0
   },
   {
@@ -11964,7 +11964,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "奥古斯特给铃兰之剑分派了一个任务，然而这个任务却是一个陷阱，虽然经过努力奋战你杀出了重围，但铃兰之剑也遭受了一定的损失。",
+    "log_content": "Auguste assigned a mission to the Sword of Convallaria, but it was a trap. Although you managed to get out of the encirclement, the Sword of Convallaria still suffered a certain loss.",
     "idsandbox_note": 0
   },
   {
@@ -12015,7 +12015,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "几名骑士团的骑士袭击了小镇，他们的目标明显是歌洛莉亚。\n你没有想到骑士团竟然敢如此明目张胆地袭击盟友，就在你不知道该选择哪种立场时，歌洛莉亚表示自己已经有了对策，随后寄出了几封书信。\n随后，奥古斯特没有再派人来骚扰小镇。",
+    "log_content": "Several knights from the Order attacked the town, and obviously, their target was Gloria. You didn't expect that the Order would dare to attack its ally blatantly. Just when you didn't know what choice to make, Gloria said that she had a solution and then sent out a few letters. After that, Auguste didn't send anyone to harass the town anymore.",
     "idsandbox_note": 0
   },
   {
@@ -12032,7 +12032,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "尽管你们对骑士同盟把你们出卖了的行为感到很愤怒，但眼下的当务之急依然是先解决掉奄奄一息的王国军，因此为了配合鲁特菲的计划，你和铃兰之剑展开了对王国军的进一步攻击。",
+    "log_content": "Although you were furious that the Union betrayed you, the top priority at the time was to take down the desperate King's Army. Therefore, you and the Sword of Convallaria launched another attack on the King's Army as Lutfi planned.",
     "idsandbox_note": 0
   },
   {
@@ -12066,7 +12066,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "麦莎成功地找到了歌洛莉亚遗失的圣枪，将它带了回来交给了歌洛莉亚。歌洛莉亚看着这把圣枪，想起了牺牲在这把枪下的泰登。面对迷茫而消沉的歌洛莉亚，麦莎用诚挚的话语鼓励了她。",
+    "log_content": "Maitha managed to find Gloria's missing Holy Lance and brought it back to her. Looking at the Holy Lance, Gloria thought of Teadon, who was killed by it. Maitha sincerely encouraged Gloria, who was confused and depressed.",
     "idsandbox_note": 0
   },
   {
@@ -12083,7 +12083,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "泰登牺牲后，歌洛莉亚陷入了消沉。麦莎找到你，告诉你铃兰之剑里有人找到了歌洛莉亚遗失的那把圣枪的线索，同时她也打探到骑士团也有人在寻找这把圣枪。麦莎向你提出一起帮歌洛莉亚找到她的那把圣枪，或许这能让歌洛莉亚重新振作起来。",
+    "log_content": "After Teadon's death, Gloria fell into depression. Maitha came to you and told you that someone in the Sword of Convallaria had found the trace of Gloria's missing Holy Lance, and she had also noticed that someone in the Order was also looking for it. Maitha suggested that you help Gloria find her spear as well to cheer her up.",
     "idsandbox_note": 0
   },
   {
@@ -12168,7 +12168,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "法卡尔找到你，向你汇报了一条紧急情报：一批来路不明的人进入了小镇，他们的言谈中提及了骑士同盟。法卡尔判断这批人是冲着歌洛莉亚来的，你立刻带人围住了这批可疑分子。然而战斗结束后你们才知道，这批人只是想来镇上搞点外快的小贼而已。\n看到法卡尔如此关心歌洛莉亚的安危，你感到很欣慰。",
+    "log_content": "Faycal reported a piece of urgent intelligence to you: a group of people of dubious backgrounds entered the town, and they mentioned the Union in conversation. Faycal concluded that they were here because of Gloria, so you immediately decided to surround them. However, when the battle was about to end, you realized that they were only some thieves who wanted to steal money in the town. You were gratified to see that Faycal cared so much about Gloria's safety.",
     "idsandbox_note": 0
   },
   {
@@ -12236,7 +12236,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你同歌洛莉亚漫步在小镇上，看着祥和的铃兰小镇，歌洛莉亚感叹这里就像战乱中的避风港。之后你们见到一个中年商贩，她怯生生地询问歌洛莉亚是否抓住了浪涌城事件的凶手，歌洛莉亚对已拥有和平却仍执着于寻找凶手的行为表示不解，得到的回应是商贩悲愤的控诉。\n你向歌洛莉亚表示，无论她作何选择，你都会为了这样的普通人战斗；而如果歌洛莉亚选择继续向前，铃兰之剑会陪她走到最后。",
+    "log_content": "You strolled around the Town of Convallaria with Gloria. Looking at the peaceful town, Gloria sighed with emotion that it was like a safe haven in the war. Then a middle-aged merchant timidly came up and asked if Gloria had caught the murderer of the Waverun City incident. Gloria asked the merchant wonderingly why she was so persistent in the truth, since the city had achieved peace. The merchant answered in a complaint filled with grief and indignation. You told Gloria that no matter what choice she made, you would always fight for the ordinary people like the merchant, and if she chose to move on, the Sword of Convallaria would accompany her to the end.",
     "idsandbox_note": 0
   },
   {
@@ -12355,7 +12355,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰之剑佣兵团在出发前一直在镇口驻足等待着歌洛莉亚，麦莎拿着歌洛莉亚的那把圣枪，坚定地认为歌洛莉亚一定会来。\n高洁的圣骑士没有令你们失望，她来到你们面前，拿回了那把圣枪，并表示要为真正的正义而战。",
+    "log_content": "Before leaving, the Sword of Convallaria Mercenary Group waited a long time for Gloria at the entrance of the town. Holding the Holy Lance in her hand, Maitha firmly believed that Gloria would show up. The noble and unsullied Paladin didn't disappoint you. She came to you, took back the spear, and said that she would fight for real justice.",
     "idsandbox_note": 0
   },
   {
@@ -12423,7 +12423,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "王国军颓势已现，晨曦堡内对迪塔利奥不满的人也越来越多。基于这些判断，鲁特菲策划了一场大规模进攻，将倒吊人主力和先锋营的残部引了出来。在这场战斗中，你协助鲁特菲击溃了倒吊人和先锋营，并打倒了索菲亚和泽维尔。",
+    "log_content": "The King's Army was losing, and more and more people in the Mornrays Castle were dissatisfied with Dantalion. Based on these speculations, Lutfi planned a large-scale attack to draw out the main force of the Hanged Men and the remnants of the Spear of Iria. In this battle, you assisted Lutfi in defeating the Hang Men and the Spear of Iria, as well as Safiyyah and Xavier.",
     "idsandbox_note": 0
   },
   {
@@ -12457,7 +12457,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "经过多日的激战，王国军终于被逼到了晨曦堡城下。你和骑士团的猛攻让王国军不得不集中大部分兵力出城迎战，这给了主和派贵族机会。最终，在你解决了王国军最后的有生力量的同时，迪塔利奥也被主和派贵族控制。\n伊利亚内战以骑士同盟和鲁特菲的胜利告终。\n",
+    "log_content": "After days of fierce fighting, the King's Army was finally forced to the Mornrays Castle The fierce attack from you and the Order forced most of the King's Army to gather out of the city to fight, which gave an opportunity to the noblemen who advocated peace In the end, after you defeated the last effective strength of the King's Army, Dantalion was also controlled by the noblemen The civil war of Iria ended with the victory of the Union and Lutfi",
     "idsandbox_note": 0
   },
   {
@@ -12474,7 +12474,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士同盟于近日举行了对伊南娜王女的公开处刑。奥古斯特当众判决伊南娜持有若干项罪名，并宣布即刻行刑。就在此时，歌洛莉亚冲上刑台，将奥古斯特的罪恶公之于众。一场恶战后，奥古斯特败逃。最终他在浪涌城的港口被骑士诸国同盟高阶骑士逮捕。",
+    "log_content": "Recently, the Union held a public execution of Princess Inanna. Auguste sentenced her to several charges in public and declared that she would be executed immediately. At this moment, Gloria rushed to the execution platform and exposed Auguste's sin to the public. After a fierce battle, Auguste was defeated and fled. In the end, he was arrested by the high-rank knights of the Union of Knight States at the port of Waverun City.",
     "idsandbox_note": 0
   },
   {
@@ -12525,7 +12525,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "歌洛莉亚突然造访小镇，告诉你她可能要去做一件非常危险的事情。她感谢你一直以来对她的帮助，并表示自己会为了真相和正义战斗到底。",
+    "log_content": "Gloria suddenly came to the town and told you that she might do something very dangerous. She thanked you for your help all the time and said that she would fight to the end for truth and justice.",
     "idsandbox_note": 0
   },
   {
@@ -12593,7 +12593,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士团团长奥古斯特突然对歌洛莉亚发出了通缉令，一群骑士也来到小镇上搜寻歌洛莉亚的下落。\n歌洛莉亚怎么会背叛骑士同盟？",
+    "log_content": "All of a sudden, Auguste, the Leader of the Order, issued a wanted notice to arrest Gloria. A group of knights also came to the town to look for her.\nWhy would Gloria betray the Union?",
     "idsandbox_note": 0
   },
   {
@@ -13358,7 +13358,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": true,
-    "log_content": "团长日记",
+    "log_content": "Leader's Diary",
     "idsandbox_note": 7
   },
   {
@@ -13499,7 +13499,7 @@
   },
   {
     "id": 674001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 674,
     "result_id": 1,
     "editor_name": "",
@@ -13703,7 +13703,7 @@
   },
   {
     "id": 685001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 685,
     "result_id": 1,
     "editor_name": "",
@@ -13754,7 +13754,7 @@
   },
   {
     "id": 687001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 687,
     "result_id": 1,
     "editor_name": "",
@@ -13788,7 +13788,7 @@
   },
   {
     "id": 688001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 688,
     "result_id": 1,
     "editor_name": "",
@@ -13822,7 +13822,7 @@
   },
   {
     "id": 689001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 689,
     "result_id": 1,
     "editor_name": "",
@@ -13856,7 +13856,7 @@
   },
   {
     "id": 690001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 690,
     "result_id": 1,
     "editor_name": "",
@@ -13890,7 +13890,7 @@
   },
   {
     "id": 691001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 691,
     "result_id": 1,
     "editor_name": "",
@@ -13941,7 +13941,7 @@
   },
   {
     "id": 693001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 693,
     "result_id": 1,
     "editor_name": "",
@@ -13975,7 +13975,7 @@
   },
   {
     "id": 694001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 694,
     "result_id": 1,
     "editor_name": "",
@@ -14174,12 +14174,12 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "不久前，一群王国军士兵闯入小镇，大肆搜捕。被他们搜捕的雇佣兵和铃兰之剑一同打退了他们。\n原来这名佣兵得罪了贵族，无处可去，加入了佣兵团。\n之后，又有刺客潜入小镇想要偷袭这名雇佣兵，你再次率兵打退了刺客，但刺客偷走了佣兵的钱袋。\n后来，你在小镇遇到了这名刺客，交谈中得知他是为了赚钱给妻子治病才接下偷袭雇佣兵的任务的。然而任务失败，他拿不到赏金治好来顺雇佣兵的钱，不久他的妻子也病亡了。",
+    "log_content": "Not long ago, a group of soldiers of the King's Army broke into the town and started a wanton manhunt. The mercenary that had arrested and the Sword of Convallaria beat them back together. It turned out that the man had offended the noblemen, and having nowhere to go, he joined the Mercenary Group. After that, such situation happened again. Another assassin sneaked into the town and wanted to attack the mercenary. You led the troop to beat the assassin back, but he stole a purse from the mercenary. Later, you met this assassin in the town and learned that he had taken the mission of sneaking an attack on the mercenary because he needed money to cure his ill wife. However, the mission failed. As he couldn't get the money, soon his wife died of illness.",
     "idsandbox_note": 0
   },
   {
     "id": 702002,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 702,
     "result_id": 2,
     "editor_name": "",
@@ -14259,7 +14259,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "不久前，一群王国军士兵闯入小镇，大肆搜捕。被他们搜捕的雇佣兵和铃兰之剑一同打退了他们。\n原来这名佣兵得罪了贵族，无处可去，加入了佣兵团。\n之后，又有刺客潜入小镇想要偷袭这名雇佣兵，你再次率兵打退了刺客，但刺客偷走了佣兵的钱袋。\n后来，你在小镇遇到了这名刺客，交谈中得知他是为了赚钱给妻子治病才接下偷袭雇佣兵的任务的。然而任务失败，他拿不到赏金治好来顺雇佣兵的钱，不久他的妻子也病亡了。他表示此次是来还钱的，而你给了他一笔钱让他安葬亡妻。\n几天后你再次见到这名刺客，他说他的妻子已经入土为安了，他很感谢你对他的宽恕，并加入了铃兰之剑。",
+    "log_content": "Not long ago, a group of soldiers of the King's Army broke into the town and started a wanton manhunt. The mercenary they had arrested and the Sword of Convallaria beat them back together. It turned out that the man had offended the noblemen, and having nowhere to go, he joined the Mercenary Group. After that, another assassin also sneaked into the town and wanted to attack the mercenary. You led the troop to beat the assassin back, but he stole a purse from the mercenary. Later, you met this assassin in the town and learned that he had taken the mission of sneaking an attack on the mercenary because he had no money to cure his wife. However, the mission failed. As he couldn't get the money, soon his wife died of illness. He said that he came here to pay back the money, but you gave him a sum of money to bury his wife. A few days later, when you met him again, he said that his wife had been buried and rest in peace. He was very grateful for your forgiveness and joined the Sword of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -14451,7 +14451,7 @@
   },
   {
     "id": 718001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 718,
     "result_id": 1,
     "editor_name": "",
@@ -14480,7 +14480,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一位叫做艾琳的骑士同盟的牧师来到小镇，向你传达了合作的请求，你对她表示欢迎。\n不久，骑士团路遇一帮匪徒，激战过后，一名骑士身负重伤，被带到小镇修养。\n某天你来到佣兵之家向艾琳询问那名受伤骑士的情况，她表示此人危在旦夕，如果要执意抢救，必然少不了一大笔医疗支出。\n你无力担负这笔开销。没过多久，这名骑士不治身亡。",
+    "log_content": "A priest from the Union, Irene, came to the town and wanted to cooperate with you. You expressed your welcome to her.\nNot long after, the Order encountered a group of gangsters on their way. After a fierce battle, a knight was seriously injured and taken to the town for recovery.\nOne day, when you came to the haven and asked Irene about the injured knight, she said that his injuries were critical, and if you insisted on rescuing him, it would inevitably cost a lot of money.\nYou couldn't afford it. Before long, the knight died.",
     "idsandbox_note": 0
   },
   {
@@ -14497,7 +14497,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一位叫做艾琳的骑士同盟的牧师来到小镇，向你传达了合作的请求，你对她表示欢迎。\n不久，骑士团路遇一帮匪徒，激战过后，一名骑士身负重伤，被带到小镇修养。\n某天你来到佣兵之家向艾琳询问那名受伤骑士的情况，她表示此人危在旦夕，如果要勉力救活，必然少不了一大笔医疗支出。\n最终你还是选择救下这名骑士。骑士康复后，他加入了铃兰之剑。",
+    "log_content": "A priest from the Union, Irene, came to the town and wanted to cooperate with you. You expressed your welcome to her. Not long after, the Order encountered a group of gangsters on their way. After a fierce battle, a knight was seriously injured and taken to the town for recovery. One day, when you came to the haven and asked Irene about the injured knight, she said that his injuries were critical, and if you insisted on rescuing him, it would inevitably cost a lot of money. Finally, you decided to save him. After the knight recovered, he joined the Sword of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -16656,7 +16656,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士团于近日举行了对伊南娜王女的公开处刑。你跟随鲁特菲来到了刑场，见到了冲进刑场营救王女的歌洛莉亚。\n眼看着歌洛莉亚很可能会送上性命，你就要冲出去救她，却被鲁特菲拦了下来，他劝你不要感情用事，坐视歌洛莉亚和奥古斯特两败俱伤将对伊利亚更有利。\n然而你无法眼睁睁看着歌洛莉亚身陷险境。面对阻挡你的鲁特菲，你也只能无奈将其打倒，而后冲向刑场。",
+    "log_content": "Recently, the Order held a public execution of Princess Inanna. You followed Lutfi to the execution ground and saw Gloria trying to rescue the Princess. Seeing that Gloria might get killed, you were about to rush out to save her but were stopped by Lutfi. He persuaded you not to do anything because he believed it would be better for Iria to let Gloria and Auguste fight against each other and get hurt. However, you couldn't watch her in danger. You had no choice but to knock down Lutfi and then rushed into the execution ground.",
     "idsandbox_note": 0
   },
   {
@@ -16690,7 +16690,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士团于近日举行了对伊南娜王女的公开处刑。你跟随鲁特菲来到了刑场，见到了冲进刑场营救王女的歌洛莉亚。\n眼看着歌洛莉亚很可能会送上性命，你就要冲出去救她，却被鲁特菲拦了下来，他劝你不要感情用事，坐视歌洛莉亚和奥古斯特两败俱伤将对伊利亚更有利。\n最终，你从大局出发，听从了鲁特菲的建议。",
+    "log_content": "Recently, the Order held a public execution of Princess Inanna. You followed Lutfi to the execution ground and saw Gloria trying to rescue the Princess. Seeing that Gloria might get killed, you were about to rush out to save her but were stopped by Lutfi. He persuaded you not to do anything because he believed it would be better for Iria to let Gloria and Auguste fight against each other and get hurt. In the end, you took Lutfi's advice to look at the big picture.",
     "idsandbox_note": 0
   },
   {
@@ -16865,7 +16865,7 @@
   },
   {
     "id": 800001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 800,
     "result_id": 1,
     "editor_name": "",
@@ -16899,7 +16899,7 @@
   },
   {
     "id": 801001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 801,
     "result_id": 1,
     "editor_name": "",
@@ -17137,7 +17137,7 @@
   },
   {
     "id": 814001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 814,
     "result_id": 1,
     "editor_name": "",
@@ -17171,7 +17171,7 @@
   },
   {
     "id": 815001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 815,
     "result_id": 1,
     "editor_name": "",
@@ -17205,7 +17205,7 @@
   },
   {
     "id": 816001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 816,
     "result_id": 1,
     "editor_name": "",
@@ -17239,7 +17239,7 @@
   },
   {
     "id": 817001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 817,
     "result_id": 1,
     "editor_name": "",
@@ -17540,7 +17540,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "近期有来自多个不同势力的人脱离了他们原本所在的阵营，加入了铃兰之剑。其中有一名前黑暗之光术师，起初他不肯透露加入铃兰之剑的原因，但过了段时间后他向你坦陈他是为了避免他的养子走上自己的老路，并对你愿意接纳他的养子表示感谢。",
+    "log_content": "Recently, many people from different factions had left their camp and joined the Sword of Convallaria. One of them was a Darklight priest. At first, he refused to tell you the reason why he joined the Sword of Convallaria. But after a period of time, he told you that he did it because he wanted to prevent his adopted son from embarking on his old path and thanked you for your generosity.",
     "idsandbox_note": 0
   },
   {
@@ -17608,7 +17608,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一名前罗迪尼亚法皇国的学者，他在铃兰之剑同罗迪尼亚法皇国全面开战后依然留在了铃兰之剑。这名学者表示，她的职责是拯救病痛，驱散黑暗，因此铃兰之剑是他最好的归宿。",
+    "log_content": "A former scholar of the Papal States of Rodinia chose to stay in the Sword of Convallaria after the all-out war between the Sword of Convallaria and the Papal States of Rodinia. He said that his duty was to save the pain and dispel the darkness, so the Sword of Convallaria was his best choice.",
     "idsandbox_note": 0
   },
   {
@@ -17778,7 +17778,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一间被废弃的仓库在精心改造后成为了一处供人休憩的温暖房间，佣兵们可以在这里养精蓄锐、疗愈伤痛。",
+    "log_content": "An abandoned warehouse had been renovated into a nice room for the mercenaries to rest and heal their wounds.",
     "idsandbox_note": 0
   },
   {
@@ -18497,7 +18497,7 @@
   },
   {
     "id": 888001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 888,
     "result_id": 1,
     "editor_name": "",
@@ -18548,7 +18548,7 @@
   },
   {
     "id": 890001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [1],
     "idsandbox_event": 890,
     "result_id": 1,
     "editor_name": "",
@@ -19852,7 +19852,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "近日，伊利亚王国为了掐断骑士同盟和浪涌军潜在的补给来源，让倒吊人袭击战线附近的城镇。 铃兰之剑及时获取了袭击的情报，你立即率部，与鲁特菲一同赶往那座城镇，保护受到攻击的镇民。经过一番艰苦的战斗，你们成功将大部分镇民带离战场，减少了平民的伤亡。",
+    "log_content": "Recently, the Kingdom of Iria sent the Hanged Men to attack towns near the battle line, trying to cut off the possible supply sources from the Union and the Waverun Legion. The Sword of Convallaria timely obtained the intelligence of the attack, so you immediately led your troop and rushed to the town with Lutfi to protect the townspeople under attack. After a tough battle, you successfully took most of the townspeople out of the battlefield and saved the civilians from injuries and death.",
     "idsandbox_note": 0
   },
   {
@@ -19886,7 +19886,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "罗迪尼亚法皇国的部队已经撤退，但有一批被他们雇佣的山贼还在小镇附近作祟。为了小镇的安全，你率兵击溃了这批山贼，并将俘虏送往浪涌城进行审判。",
+    "log_content": "The troops of the Papal States of Rodinia had retreated, but a group of bandits hired by them were still lurking near the town. For the safety of the town, you led your troop to defeat these bandits and sent the prisoners to Waverun City for trial.",
     "idsandbox_note": 0
   },
   {
@@ -19903,7 +19903,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰之剑佣兵团里一位士兵找到了你，请求你让他再去十字路要塞一趟，寻找他战友的遗物。你答应了他的请求，将诺埃尔战友的遗物带回来交给了他。",
+    "log_content": "A soldier of the Sword of Convallaria Mercenary Group came to you and asked for your permission to go back to the Crossroads Keep again and look for the \nremains of his comrade in arms. You agreed to his request and brought back the remains of Noel, his comrade in arms, to him.",
     "idsandbox_note": 0
   },
   {
@@ -19920,7 +19920,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "由于第二次攻城战的损失太大，铃兰之剑的士气十分低落，加上对于“惨胜”和骑士同盟的看法不一，佣兵团内部发生了多次斗殴事件。为了维护佣兵团的稳定和团结，你果断阻止了佣兵们的冲突继续升级。",
+    "log_content": "As the loss of the second siege battle was too much, the morale of the Sword of Convallaria was sinking low. In addition, there had been many fights within the Mercenary Group regarding the opinions of the \"miserable victory\" and the Union. To maintain the stability and unity of the Mercenary Group, you decisively stopped the conflict between the mercenaries from continuing to escalate.",
     "idsandbox_note": 0
   },
   {
@@ -19937,7 +19937,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一名在十字路攻防战中牺牲的铃兰之剑士兵的妻子向你控诉，撕心裂肺地质问你为什么没有保住他丈夫的命。\n之后在一次清剿流寇的作战中，你发现这名牺牲士兵的妻子加入了流寇与你为敌。你击倒了她，将她与她的丈夫合葬在一起。",
+    "log_content": "The wife of a soldier of the Sword of Convallaria, who had been killed in the Crossroads Battle, complained to you. She desperately asked why you hadn't kept her husband alive. Later, in a battle to eliminate the roving bandits, you found that the wife of the soldier was one of them. You killed her and buried her next to her husband.",
     "idsandbox_note": 0
   },
   {
@@ -19954,7 +19954,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "晨曦堡决战后的一次巡逻中，你发现了一支王国军溃兵。抱着减少不必要损失的考虑，你试着和这批散兵沟通了一番，最终成功将他们劝降。",
+    "log_content": "On a patrol after the final battle in the Mornrays Castle, you found the routed troops of the King's Army. In consideration of reducing unnecessary losses, you tried to communicate with the troops and finally persuaded them to surrender.",
     "idsandbox_note": 0
   },
   {
@@ -21110,7 +21110,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你从昏迷中醒来，发现自己身处一座冰冷的监狱，茫然无措的你正要被处决之时，一位名叫拉维耶的战士将你营救出狱，随她而行的还有两名分别叫做法卡尔与麦莎的帮手。\n这座名为浪涌城的都市陷入了一片动乱，人们游行示威，军队封锁城门，歹徒趁火打劫……几经周折你们逃出了浪涌城，最终抵达了拉维耶一行人的家园——铃兰小镇。",
+    "log_content": "When you woke up from a coma, you found yourself confused in a cold prison. When you were about to be executed, a soldier named Rawiyah rescued you from the prison. She was accompanied by two helpers, Faycal and Maitha. \nWaverun City was in turmoil. People protested, the army blocked the city gate, and the gangsters went looting and pillaging... You managed to escape from the city and finally arrived at the home of Rawiyah, the Town of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -21144,7 +21144,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你出色的能力赢得了拉维耶的信任，即使你们相识不久，拉维耶仍将你委任为铃兰之剑副团长。",
+    "log_content": "Your outstanding ability won Rawiyah's trust. Even if you hadn't known each other for a long time, Rawiyah still appointed you as the Deputy Leader of Sword of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -21161,7 +21161,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "第二王子鲁特菲在《浪涌城时报》上尖锐地批判了第一王子迪塔利奥：是迪塔利奥的残暴统治导致了浪涌城悲剧的发生，并间接致使王女伊南娜牺牲。伊利亚的形势每况愈下，但拉维耶认为不该轻信时报的一面之词。",
+    "log_content": "Prince Lutfi sharply criticized Prince Dantalion in the Waverun City Times, stating that it was Dantalion's brutal rule that caused the Waverun City tragedy and indirectly caused the death of Princess Inanna. The situation of Iria was getting worse and worse, but Rawiyah didn't think we should listen to one side of the story.",
     "idsandbox_note": 0
   },
   {
@@ -21195,7 +21195,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在浪涌城被你救下的那名少女，似乎受到了不小的精神创伤，你仍未能与她进行正常沟通。",
+    "log_content": "The girl who was saved by you in Waverun City was suffering from serious mental trauma, and you still couldn't communicate with her.",
     "idsandbox_note": 0
   },
   {
@@ -21246,7 +21246,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "萨曼莎，一名来自法皇国的光辉术士，在得知铃兰小镇涌入了许多负伤难民时，主动选择前来帮助救治。",
+    "log_content": "Samantha, a radiant priest from the Papal States, came to offer help when she heard that many injured refugees had swarmed into the Town of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -21722,7 +21722,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你接受法皇国的委托去追捕一名极度危险的魔女——贝拉，在与这名魔女交手之余，你发现她并非如法皇国描述的那样充满恶意。在你认定事件另有隐情后，你赶走了其他想要追捕这名魔女的赏金猎人，并为她在小镇上安排了一处落脚之地。",
+    "log_content": "You were entrusted by the Papal States to hunt down an extremely dangerous Sorceress, Beryl. When you fought with her, you found that she was not as malicious as the Papal States described. When you believed that there was more to the incident, you drove away other bounty hunters who were chasing after Beryl and found her a place to stay in the town.",
     "idsandbox_note": 0
   },
   {
@@ -21756,7 +21756,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "难民剧增带来了粮食匮乏的问题，在你前往浪涌城采购粮食的途中，救下了一名被山贼追杀的富商。这名富商曾从事晨曦堡与浪涌城之间的运输生意，如今财货两空，你便好心安排他前往铃兰小镇进行短暂的休憩。",
+    "log_content": "The sudden increase in the refugees brought about a shortage of food. On the way to Waverun City to buy food, you saved a merchant who was chased by bandits. The merchant once engaged in the transportation business between the Mornrays Castle and Waverun City, but now he lost both money and goods. You kindly took him to the Town of Convallaria for a brief rest.",
     "idsandbox_note": 0
   },
   {
@@ -21790,7 +21790,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "之前你在野外救下的那位年轻富商找到你，希望你护送他前往浪涌城，他声称到了浪涌城就会提供一批粮食作为报酬。\n护送途中有惊无险地击退一伙匪徒后，你们来到了浪涌城。在那里，一名骑士迎接了富商，并同意了他提出的为铃兰小镇提供粮食配额的请求。",
+    "log_content": "The young merchant you saved in the wilderness before came to you and hoped that you could escort him to Waverun City. He claimed that he would give you a batch of food as a reward when he got to the city. You managed to arrive at Waverun City after knocking back a group of gangsters on the way. A knight welcomed the merchant and agreed to his request of providing food for the town.",
     "idsandbox_note": 0
   },
   {
@@ -21807,7 +21807,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "极端组织“黑暗之光”不断地进行扩张，疯狂侵略着所经的每一个村镇，严重破坏了伊利亚的治安。你联合倒吊人艰难地抵御住了黑暗之光的袭击，并坚持到索菲亚前来接管防线。\n即便在这场战斗中倒吊人伤亡众多，但他们依然战斗到了最后，索菲亚告诉你这便是身为倒吊人的觉悟。",
+    "log_content": "An extremist organization, Darklight, continued to expand, madly invading every village and town that it passed through and seriously destroying the public security of Iria. You cooperated with the Hanged Men in resisting the attack of Darklight until Safiyyah came to take over the defensive line. Even though the Hanged Men suffered great casualties, they still fought to the end. Safiyyah told you that was the spirit of the Hanged Men.",
     "idsandbox_note": 0
   },
   {
@@ -21824,7 +21824,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "极端组织“黑暗之光”不断地进行扩张，疯狂侵略着所经的每一个村镇，严重破坏了伊利亚的治安。你联合倒吊人艰难地抵御住了黑暗之光的袭击，并坚持到索菲亚前来接管防线。\n即便在这场战斗中倒吊人伤亡众多，但他们依然战斗到了最后，索菲亚告诉你这便是身为倒吊人的觉悟。",
+    "log_content": "An extremist organization, Darklight, continued to expand, madly invading every village and town that it passed through and seriously destroying the public security of Iria. You cooperated with the Hanged Men in resisting the attack of Darklight until Safiyyah came to take over the defensive line. Even though the Hanged Men suffered great casualties, they still fought to the end. Safiyyah told you that was the spirit of the Hanged Men.",
     "idsandbox_note": 0
   },
   {
@@ -21892,7 +21892,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在铃兰之剑艰难地抵御黑暗之光入侵小镇之时，索菲亚率领倒吊人进行了解围。战后，索菲亚揭示了王女伊南娜仍然存活的事实，她就是在浪涌城被你解救下的那名女子。索菲亚解释道这是迪塔利奥的特别安排，并希望接下来铃兰之剑能够护送王女安全地返回晨曦堡。",
+    "log_content": "When the Sword of Convallaria was struggling to resist the invasion of Darklight into the town, Safiyyah led the Hanged Men to rescue you. After the battle, Safiyyah revealed the fact that Inanna was still alive, and she was the girl who was rescued by you in Waverun City. Safiyyah explained that it was a special plan of Dantalion and hoped that the Sword of Convallaria could escort the Princess back to the Mornrays Castle safely.",
     "idsandbox_note": 0
   },
   {
@@ -21926,7 +21926,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在铃兰小镇被黑暗之光大举围攻的情况下，萨曼莎以审判者的身份出手将入侵者歼灭。为了遏制目前正像瘟疫一般扩张的黑暗之光，拯救无数遇难之人。你选择与萨曼莎合作，前往矿坑城调查黑暗之光的线索。",
+    "log_content": "When Darklight launched a massive attack on the Town of Convallaria, Samantha, as the Judge, wiped out the invaders. In order to contain Darklight, which is currently expanding like a plague, and to save countless people in distress, you decided to work with Samantha to investigate the clues of Darklight in the Mine Pit.",
     "idsandbox_note": 0
   },
   {
@@ -21943,7 +21943,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "为了寻找到薇尔德部落，你求助了诺诺薇儿，于是她为你提供了薇尔塔山脉的地图和介绍信。通过在崎岖山脉的不断跋涉，你与伊南娜终于找寻到了薇尔德部落，然而薇尔德人一见面便对你兵戈相向。在混战中，你不断地解释并出示介绍信，薇尔德战士们才勉强停手并带你去往了部落。",
+    "log_content": "You asked NonoWill to help you find the Vlder Tribes, and she gave you a map of the Vltar Mountain and an introduction letter. After a long journey in the rugged mountains, you and Inanna finally found the Vlder Tribes, but they began to fight against you when they saw you. After you kept explaining and showing the introduction letter, the Vlder soldiers reluctantly stopped the melee and took you to the tribes.",
     "idsandbox_note": 0
   },
   {
@@ -21977,7 +21977,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "迪塔利奥亲自召见了你，现在他已经在旧贵族中安插了线人，也拉拢到了一位名叫“阿加塔·银狼”的露西亚佣兵团团长。你本打算先寻找到诺诺薇儿谈拢结盟一事，但迪塔利奥表示现在有一件更重要的事要做——会见鲁特菲。",
+    "log_content": "Dantalion summoned you. He had fit some informers among the old aristocracies and won over the leader of the Luccia Mercenary Group, Agata The Silverwolf. You had planned to find NonoWill to discuss the alliance, but Dantalion said that there was a more important thing for you to do now - to meet Lutfi.",
     "idsandbox_note": 0
   },
   {
@@ -22062,7 +22062,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在你与索菲亚寻找线索时，遇到了同样来收集证据的拉维耶。米格尔佣兵团现身并干扰你们的计划，你们合力冲出了重围。突围后，你们相互交换线索，发现安插在旧贵族中的线人原来是一个双面间谍，她真正服务的对象是法皇国，其目的是为了分散掉晨曦堡城防的注意力。",
+    "log_content": "When you and Safiyyah were looking for clues, you met a guy named Rawiyah who was doing the same thing. The Miguel Mercenary Group showed up and interfered with your plan, and you two worked together to break out of the siege. After that, you two exchanged clues with each other and found that the informer in the old aristocracies was a double agent. She actually served for the Papal States, and her real purpose was to loosen the defense of the Mornrays Castle.",
     "idsandbox_note": 0
   },
   {
@@ -22130,7 +22130,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士团完成了整备，准备再次对十字路要塞发起进攻。当你们的联军正在前线抵抗之时，鲁特菲来信称：骑士团派出了一支奇袭部队企图攻占伊利亚河大桥，切断十字路要塞和晨曦堡的联系。为了拖延时间，迪塔利奥令薇尔德与露西亚的部队直接与奇袭部队正面对抗，而铃兰之剑则负责短时间内捣毁骑士团的后勤枢纽。",
+    "log_content": "After getting ready, the Order planned to attack the Crossroads Keep again. When your allied forces were resisting at the front line, Lutfi wrote to you that the Order had sent a troop to launch a surprise attack, trying to take over the Iria Bridge and cut off the connection between the Crossroads Keep and the Mornrays Castle. Dantalion ordered the troops of Vlder and Luccia to directly resist the surprise attack to buy more time, and the Sword of Convallaria was responsible for destroying the logistics hub of the Order.",
     "idsandbox_note": 0
   },
   {
@@ -22147,7 +22147,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士团完成了整备，准备再次对十字路要塞发起进攻。当你们的联军正在前线抵抗之时，鲁特菲来信称：骑士团派出了一支奇袭部队企图攻占伊利亚河大桥，切断十字路要塞和晨曦堡的联系。为了拖延时间，迪塔利奥令薇尔德与露西亚的部队直接与奇袭部队正面对抗，而铃兰之剑则负责短时间内捣毁骑士团的后勤枢纽。",
+    "log_content": "After getting ready, the Order planned to attack the Crossroads Keep again. When your allied forces were resisting at the front line, Lutfi wrote to you that the Order had sent a troop to launch a surprise attack, trying to take over the Iria Bridge and cut off the connection between the Crossroads Keep and the Mornrays Castle. Dantalion ordered the troops of Vlder and Luccia to directly resist the surprise attack to buy more time, and the Sword of Convallaria was responsible for destroying the logistics hub of the Order.",
     "idsandbox_note": 0
   },
   {
@@ -22164,7 +22164,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你支持了伊南娜，选择对鲁特菲施以援手。但在见到鲁特菲时，他表示自己与迪塔利奥的观念水火不容，于是拒绝离开软禁处，他相信自己仍有击败迪塔利奥的一丝机会。",
+    "log_content": "You supported Inanna and decided to help Lutfi. When you met Lutfi, he said that he would never agree with Dantalion's ideas, so he refused to be released from house arrest. He believed that he still had a chance to defeat Dantalion.",
     "idsandbox_note": 0
   },
   {
@@ -22181,7 +22181,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "即便证据确凿，奥古斯特仍准备负隅顽抗，然而这不过是强弩之末。歌洛莉亚在意识到此次针对伊利亚的战争是一次不义之战后，协助你抓捕了奥古斯特，经过审判，奥古斯特被处以极刑，站在歌洛莉亚一侧的骑士则没有受到牵连。",
+    "log_content": "Even though the evidence was certain, Auguste still tried to put up a desperate struggle. However, it was just like a spent arrow. When Gloria realized that the war against Iria was unjust, she helped you arrest Auguste. After the trial, Auguste was sentenced to death, and the knights on Gloria's side were not involved.",
     "idsandbox_note": 0
   },
   {
@@ -22198,7 +22198,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "即便证据确凿，奥古斯特仍准备负隅顽抗，然而这不过是强弩之末。歌洛莉亚在意识到此次针对伊利亚的战争是一次不义之战后，协助你抓捕了奥古斯特，经过审判，奥古斯特被处以极刑，站在歌洛莉亚一侧的骑士则没有受到牵连。",
+    "log_content": "Even though the evidence was certain, Auguste still tried to put up a desperate struggle. However, it was just like a spent arrow. When Gloria realized that the war against Iria was unjust, she helped you arrest Auguste. After the trial, Auguste was sentenced to death, and the knights on Gloria's side were not involved.",
     "idsandbox_note": 0
   },
   {
@@ -22215,7 +22215,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "即便证据确凿，奥古斯特仍准备负隅顽抗，然而这不过是强弩之末。你没有放过任何入侵伊利亚的侵略者，将他们无差别地消灭殆尽。",
+    "log_content": "Even though the evidence was certain, Auguste still tried to put up a desperate struggle. However, it was just like a spent arrow. You killed all invaders to Iria.",
     "idsandbox_note": 0
   },
   {
@@ -22266,7 +22266,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一支来自薇尔德的舞团巡游到了铃兰小镇，随之而来的还有上次驱逐掉狼群的那名银发神秘人，他是名为伊奇的薇尔德舞团斥候，职责是保证舞团的安全。看来薇尔德人不光能歌善舞，也有饶勇善战之人存在。\n在进驻小镇的这段时间，舞团成员的华丽表演吸引了诸多的游客为她们驻足。而在人们的赞扬声中，你也听到了薇尔德的一些传闻：伊利亚和薇尔德曾经互为友邦，双方依照“上古盟约”建立着合作关系，只是不知何种缘由，伊利亚单方面背弃了这则盟约。这也许就是舞团成员总会给人一种距离感的原因。",
+    "log_content": "The Vlder Dance Troupe came to the Town of Convallaria, followed by the mysterious man with silver hair who expelled the wolves last time. He was the scout of the dance regiment, Iggy, who was responsible for protecting it. It seemed that the Vlderians were not only good at singing and dancing but also were brave to fight.\nDuring their stay in town, the gorgeous performance of the dance regiment attracted many tourists to stop and watch. In their praise, you heard some rumors about Vlder: Iria and Vlder used to be friendly to each other and cooperate per the \"Ancient Alliance\", but for some reason, Iria unilaterally broke it. This might be the reason why the members of the dance regiment always kept a distance from others.",
     "idsandbox_note": 0
   },
   {
@@ -22300,7 +22300,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "迪塔利奥在伊南娜的葬礼上举行了一场动员全国的演说，王国军的士气在短时间内迅速上升，并阻截了骑士同盟不断推进的战线。",
+    "log_content": "Dantalion gave a speech to mobilize the whole country at Inanna's funeral, quickly increasing the morale of the King's Army and thus blocking the Order, which was constantly advancing.",
     "idsandbox_note": 0
   },
   {
@@ -22436,7 +22436,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "伊利亚的形势依然没有好转，仍然有不断逃往铃兰小镇的难民。而与前几次不一样的是，这次出现了许多不明重症的伤患，贝拉与萨曼莎用各自独特的方式全力展开了救治。",
+    "log_content": "As the situation in Iria deteriorated, the refugees continued to flee to The Town of Convallaria. Unlike before, there was an unprecedented amount of people in critical condition. Beryl and Samantha gave their best efforts to save them using their own unique methods.",
     "idsandbox_note": 0
   },
   {
@@ -22674,7 +22674,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你帮助诺诺薇儿找回了她丢失的笛子，在铃兰之丘你与她相谈甚欢，诺诺薇儿告诉你薇尔德和伊利亚曾有过一段亲密无间的历史，只可惜往日不在，现在两者之间纵横着一条深深的鸿沟。",
+    "log_content": "You helped NonoWill get back her lost flute, and you had a good time with her on the Hill of Convallaria. She told you that there had been a time when Vlder and Iria were close, but unfortunately, there was a deep gap between them now.",
     "idsandbox_note": 0
   },
   {
@@ -22742,7 +22742,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "浪涌城被你救下的那名少女，在铃兰小镇的努力劳动并没有得到难民们的认可，反倒引起了对她贵族身份的猜疑，在群情激愤之时，艾达与你替她解了围。",
+    "log_content": "The girl you saved in Waverun City didn't get recognition from the refugees for her hard work in the Town of Convallaria, and instead, they questioned her aristocrat identity. You and Edda helped her out from the outraged crowd.",
     "idsandbox_note": 0
   },
   {
@@ -22844,7 +22844,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你护送王女一路抵达晨曦堡的行为，赢得了迪塔利奥的称赞。在迪塔利奥的口中，你得知了浪涌城所发生的事情是因为有骑士同盟在暗中作祟，可即便如此，迪塔利奥依然铤而走险地让伊南娜前往了浪涌城，以完成自己的计划。尽管种种意外曾令伊南娜身处险境，但也因此得知有骑士同盟以外的势力正偷偷觊觎着伊利亚。\n为了尽快结束战争，迪塔利奥下达了寻求联合的指示，薇尔德人则是第一个求助的对象。",
+    "log_content": "You escorted the Princess all the way to the Mornrays Castle and won the praise of Dantalion. You heard from Dantalion that what happened in Waverun City was caused by the secret action of the Union. Even so, Dantalion still took the risk to let Inanna go to Waverun City to complete his plan. Although all kinds of accidents had put Inanna in danger, you learned that there were factions other than the Union secretly coveting Iria. Dantalion issued an order to seek cooperation to end the war as soon as possible, and the Vlderians were the first object of help-seeking.",
     "idsandbox_note": 0
   },
   {
@@ -23235,7 +23235,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "因为法皇国的纵容，黑暗之光并没有被彻底根除，以致让黑暗之光的残党占据了矿坑城进行垂死挣扎。迪塔利奥决定实施对矿坑城断粮的战略，但伊南娜认为此举过于残酷，于是她决定瞒过迪塔利奥，秘密为矿坑城居民提供武器来对抗黑暗之光。",
+    "log_content": "Because of the connivance of the Papal States, Darklight was not completely eradicated. As a result, their remnants occupied the Mine Pit for a death struggle. Dantalion decided to implement the strategy of cutting off the grain source in the Mine Pit, but Inanna thought it was too cruel. So she decided to hide it from Dantalion and secretly provide weapons for the residents of the Mine Pit to resist Darklight.",
     "idsandbox_note": 0
   },
   {
@@ -23252,7 +23252,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "因为法皇国的纵容，黑暗之光并没有被彻底根除，以致让黑暗之光的残党占据了矿坑城进行垂死挣扎。迪塔利奥决定实施对矿坑城断粮的战略，但伊南娜认为此举过于残酷，于是她决定瞒过迪塔利奥，秘密为矿坑城居民提供武器来对抗黑暗之光。",
+    "log_content": "Because of the connivance of the Papal States, Darklight was not completely eradicated. As a result, their remnants occupied the Mine Pit for a death struggle. Dantalion decided to implement the strategy of cutting off the grain source in the Mine Pit, but Inanna thought it was too cruel. So she decided to hide it from Dantalion and secretly provide weapons for the residents of the Mine Pit to resist Darklight.",
     "idsandbox_note": 0
   },
   {
@@ -23269,7 +23269,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你支持了迪塔利奥的策略，矿坑城爆发了混乱。虽然黑暗之光被瓦解，但矿坑城内的居民变得更加窘迫。",
+    "log_content": "You supported the strategy of Dantalion, and the Mine Pit was in chaos. Although Darklight was disintegrated, the residents in the Mine Pit still lived in poverty.",
     "idsandbox_note": 0
   },
   {
@@ -23286,7 +23286,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "矿坑城的居民使用被秘密发配的武器打倒了黑暗之光，并活捉了黑暗之光头目费尔南多。",
+    "log_content": "The residents of the Mine Pit used the weapons secretly distributed to them to knock back Darklight and capture their leader, Fernando.",
     "idsandbox_note": 0
   },
   {
@@ -23371,7 +23371,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "盟友们以惨烈的牺牲，换取了第二次十字路会战的胜利，鲁特菲则因为泄露机密情报被骑士同盟所软禁，但迪塔利奥对此漠不关心，伊南娜为此与迪塔利奥产生了分歧。",
+    "log_content": "The allies had sacrificed their lives miserably in exchange for the victory of the Crossroads Battle II, and Lutfi had been put under house arrest by the Union because of revealing the confidential information. However, Dantalion didn't care about it, causing a disagreement between him and Inanna.",
     "idsandbox_note": 0
   },
   {
@@ -23388,7 +23388,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "盟友们以惨烈的牺牲，换取了第二次十字路会战的胜利，鲁特菲则因为泄露机密情报被骑士同盟所软禁，但迪塔利奥对此漠不关心，伊南娜为此与迪塔利奥产生了分歧。",
+    "log_content": "The allies had sacrificed their lives miserably in exchange for the victory of the Crossroads Battle II, and Lutfi had been put under house arrest by the Union because of revealing the confidential information. However, Dantalion didn't care about it, causing a disagreement between him and Inanna.",
     "idsandbox_note": 0
   },
   {
@@ -23422,7 +23422,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在和谈会议上，鲁特菲以自己的性命为代价，警示了迪塔利奥应看清世界变革的全貌。临死前，鲁特菲扔出了骑士同盟入侵伊利亚的铁证。",
+    "log_content": "During the peace talk, Lutfi, at the cost of his own life, warned Dantalion to look through the changes in the world. Before his death, Lutfi showed solid evidence that the Union invaded Iria.",
     "idsandbox_note": 0
   },
   {
@@ -23490,7 +23490,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "伊利亚彻底失去了与露西亚、薇尔德的合作关系。而更糟糕的是，在作战期间，薇尔德部落遭到了埃拉曼的袭击，其族人全部遭到奴役。迪塔利奥若无其事地表示，他用薇尔德的情报向埃拉曼换取了充足的战前物资。",
+    "log_content": "Iria had completely lost the cooperative relationship with Luccia and Vlder. The worse was that, during the battle, the Vlder Tribes were attacked by Elaman, and all clansmen were enslaved. As if nothing had happened, Dantalion gave Elaman the intelligence about Vlder in exchange for sufficient pre-war supplies.",
     "idsandbox_note": 0
   },
   {
@@ -23524,7 +23524,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "埃拉曼商人阿坎贝找上了你们，他表示想要赎回被奴役薇尔德人，需要与他做一笔不菲的交易。",
+    "log_content": "The Elaman merchant, Acambe, came to you and said that if you wanted to save the enslaved Vlderians, you needed to make a good deal with him.",
     "idsandbox_note": 0
   },
   {
@@ -23558,12 +23558,12 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "战后，迪塔利奥下令对旧贵族进行清算，你在旧贵族的家中查抄出了巨额资产。你将这些财富尽数上缴给了国库。",
+    "log_content": "After the battle, Dantalion ordered to conduct the liquidation of the old aristocrats, and you found a huge amount of assets in their homes. You turned in all these assets to the national treasury.",
     "idsandbox_note": 0
   },
   {
     "id": 1168001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [14],
     "idsandbox_event": 1168,
     "result_id": 1,
     "editor_name": "",
@@ -23575,7 +23575,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "你用之前在旧贵族家中清算出的资产赎回了一部分薇尔德人。",
+    "log_content": "You saved some Vlderians with the assets you had cleared in the old aristocrats' family.",
     "idsandbox_note": 0
   },
   {
@@ -23592,7 +23592,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "你没能支付赎回薇尔德人所需要的资金，他们全部作为奴隶被贩卖出去，抑或是在抵抗中丧命。",
+    "log_content": "You couldn't afford the ransom for all the enslaved Vlderians. They were all sold out as slaves or died in resistance.",
     "idsandbox_note": 0
   },
   {
@@ -23609,7 +23609,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你解救了部分薇尔德人，但薇尔德部族已被彻底打散，他们永远失去了自己的家园，所剩无几的薇尔德人只能选择各谋生路。",
+    "log_content": "You saved some Vlderians, but the Vlder Tribes were completely destroyed. They would never have their own home, and the few who survived could only find ways to make a living.",
     "idsandbox_note": 0
   },
   {
@@ -23694,7 +23694,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在重重阻力下，伊南娜最终动员起了矿坑城的民众们，反抗迪塔利奥的强硬统治。",
+    "log_content": "Under various difficulties, Inanna finally mobilized the citizens of the Mine Pit to resist the strong rule of Dantalion.",
     "idsandbox_note": 0
   },
   {
@@ -24017,7 +24017,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "萨曼莎收到大庇护所的调遣命令后与你不辞而别。贝拉也因自己没有救治好患者而陷入深深自责，准备动身离开，但临别前你劝住了贝拉，使她坚定了继续研究的决心。",
+    "log_content": "Samantha left without saying goodbye to you after receiving the dispatch order from the Grand Sanctuary. Beryl, who blamed herself for failing to treat the patients well, was also about to leave. You persuaded her and made her keep on studying.",
     "idsandbox_note": 0
   },
   {
@@ -24102,7 +24102,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "迪塔利奥想要重新获得浪涌城的主导权，但是派遣过去的王国军统统被民众驱逐而出。伊南娜难以接受迪塔利奥的强硬手段，于是不顾他的反对，前往矿坑城进行演讲。",
+    "log_content": "Dantalion wanted to regain control of Waverun City, but all members of the King's Army sent there were expelled by the public. It was hard for Inanna to accept the tough approach of Dantalion, so she went to the Mine Pit to give a speech regardless of his objection.",
     "idsandbox_note": 0
   },
   {
@@ -24119,7 +24119,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "法卡尔与你约好共同清理阻拦商路的狼群，然而办事心切的法卡尔却独自陷入了被狼群围困的险境。危急时刻，一位异乡神秘人现身并驱散了狼群，但还没来得及看清身影，神秘人就消失在了山林之中。",
+    "log_content": "Faycal and you agreed to clean up the wolves blocking the trade route together. However, Faycal was too anxious and fell into the danger of being surrounded by the wolves alone. At the critical moment, a mysterious stranger appeared and drove the wolves away. Before you could see the man clearly, he vanished in the forest.",
     "idsandbox_note": 0
   },
   {
@@ -24136,7 +24136,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "萨曼莎与贝拉协力救助患者的尝试发生了意外：一部分患者在不知名力量的催化下变成了可怕的魔物，原本就紧张的场面变得更加混乱……你奋力将魔物们制服，为二人治愈其他患者争取了时间，医疗秩序最后得到了恢复。",
+    "log_content": "Something unexpected happened during Samantha and Beryl's attempt to save the patients together: some patients turned into terrifying monsters catalyzed by unknown forces. The already-tense scene became even more chaotic... You struggled to subdue the monsters, buying time for Samantha and Beryl to heal the other patients and finally restoring the medical order.",
     "idsandbox_note": 0
   },
   {
@@ -24221,7 +24221,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "对于旧贵族在十字路会战的倒戈，迪塔利奥令索菲亚与朵亚揪出旧贵族中的主谋。另一方面，由于需要借助银狼佣兵团的兵力进行军队扩充，铃兰之剑上演了一出“强盗戏”，来终止银狼佣兵团与埃拉曼商人的押镖合约。虽然埃拉曼商人识破了这一计划，但却并没有进行责备，反而想以重金聘下铃兰之剑佣兵团，你婉言拒绝了。",
+    "log_content": "To deal with the defection of the old aristocracies at the Crossroads Battle, Dantalion requested Safiyyah and Doyah to find out their mastermind. At the same time, due to the need to expand the army with the help of the Silver Wolf Mercenary Group, the Sword of Convallaria pretended to be bandits to terminate the escort contract between the Silverwolf Mercenary Group and the Elaman merchants. Although the Elaman merchants saw through it, instead of rebuking you, they offered to hire the Sword of Convallaria Mercenary Group. You politely refused.",
     "idsandbox_note": 0
   },
   {
@@ -24646,7 +24646,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "按照约定，歌洛莉亚展开了调查。顺着她提供的线索，你也开始为她提供一系列的帮助。",
+    "log_content": "According to the agreement, Gloria launched an investigation. Following the clues she provided, you also began to help her.",
     "idsandbox_note": 0
   },
   {
@@ -24714,7 +24714,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "随着王国军的败退，骑士同盟对铃兰之剑下达了清扫十字路要塞战场的命令。",
+    "log_content": "With the defeat of the King's Army, the Union gave the order to clear the battlefield of the Crossroads Keep to the Sword of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -25207,7 +25207,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你的努力使铃兰小镇挺过了一段艰难的时光，镇民们为此举行了一场盛宴，你与同伴们饮得酣畅淋漓。然而在第二天醒来之后，你得知了拉维耶离开的消息，她现在将铃兰之剑全权托付给了你，只身去处理一件极其重要的事情。",
+    "log_content": "Your efforts helped the Town of Convallaria through a difficult time, so the townspeople held a feast for you and your companions to have a great drink. However, when you woke up the next day, you learned that Rawiyah had left. After entrusting you with the Sword of Convallaria, she was going to deal with a matter of the utmost importance.",
     "idsandbox_note": 0
   },
   {
@@ -25224,7 +25224,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰小镇附近不断有村落被一支不明来由的强大佣兵团劫掠，在追查到线索后，你清理了这帮为非作歹的恶徒。在他们的营帐里，你找到了法皇国在暗中支持他们的证据……",
+    "log_content": "Some villages near the Town of Convallaria were constantly being looted by a powerful mercenary group of an unknown origin, and after tracking down some clues, you took down this gang of villains. In their tents, you found the evidence that the Papal States were secretly supporting them...",
     "idsandbox_note": 0
   },
   {
@@ -25275,7 +25275,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "那位被你救下的年轻富商在小镇进行了一场激情的演讲，他批判了迪塔利奥的残暴统治，并希望伊利亚能够学习骑士同盟的开放制度。不少听众为他的大胆发言而惊叹。",
+    "log_content": "The young merchant who you rescued gave a passionate speech in the town, where he criticized the brutal rule of Dantalion and hoped that Iria would learn from the open system of the Union. Many listeners were amazed by his bold speech.",
     "idsandbox_note": 0
   },
   {
@@ -25292,7 +25292,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "那位被你救下的年轻富商在小镇进行了一场激情的演讲，他批判了迪塔利奥的残暴统治，并希望伊利亚能够学习骑士同盟的开放制度。不少听众为他的大胆发言而惊叹。",
+    "log_content": "The young merchant who you rescued gave a passionate speech in the town, where he criticized the brutal rule of Dantalion and hoped that Iria would learn from the open system of the Union. Many listeners were amazed by his bold speech.",
     "idsandbox_note": 0
   },
   {
@@ -25343,7 +25343,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一名气宇非凡的女骑士造访了小镇，她就是前来接送那名富商的使者，这不禁令人们猜测富商的身份并不简单。在富商平安抵达浪涌城后，他如约为小镇寄送了一批物资。",
+    "log_content": "A female knight with extraordinary temperament visited the town. She was a messenger who came to pick up the merchant, and people couldn't help but to guess that the identity of the merchant was not that simple. After the merchant arrived safely in Waverun City, he sent a batch of supplies to the town as promised.",
     "idsandbox_note": 0
   },
   {
@@ -25530,7 +25530,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你帮助伊奇处理了难以愈合的伤口，他的姐姐夏可露露为了向你表示感谢，献上了一支舞蹈。但在表演之时，旅店中一位商人挑起了麻烦，他盯上了诺诺薇儿，并蛮横地要求她跳一支舞，气氛变得十分焦灼，最终诺诺薇儿以一首动听的歌曲摆脱了商人的纠缠。\n似乎是有人看不惯这名商人的霸道作风，第二天他便被人发现曝尸山野。",
+    "log_content": "You helped Iggy dress a wound that was difficult to heal, and his sister SchackLulu presented a dance to express gratitude to you. But during the performance, a merchant in the tavern provoked trouble to NonoWill. He arrogantly asked her to dance, making the atmosphere very strained. In the end, Nono Will got rid of the merchant's entanglement with a beautiful song.\nIt seemed that someone could not stand the bullying behavior of this merchant, and the next day, he was found dead in the wilderness.",
     "idsandbox_note": 0
   },
   {
@@ -25700,7 +25700,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "前不久被你清算恶行的佣兵团想要向你复仇，然而却无济于事，法卡尔正要追击落败而逃的敌寇时，一位身手敏捷的面具刺客阻止了他的行为。与此同时，这支佣兵团中的一名神秘男子现身表示，这是一场没有收益的争斗，他们无意继续纠缠。在他们离开之后，拉维耶无比确信在浪涌城看到过那名神秘男子的身影。",
+    "log_content": "The mercenary group, which you recently liquidated, intended to take revenge on you, but to no avail. Faycal was about to pursue the defeated enemy who fled when a nimble masked assassin stopped him. At the same time, a mysterious man in the mercenary group showed up and claimed that since this was a fight without gain, they had no intention of continuing to entangle. After they left, Rawiyah was certain that he had seen the mysterious man in Waverun City.",
     "idsandbox_note": 0
   },
   {
@@ -26380,7 +26380,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "贝拉在铃兰小镇安定下来之后，开设了一间研究晶石的工坊，她声称只要能为她提供一点原材料，就可以为你制作出能应用在战场上的神奇晶术道具。",
+    "log_content": "After Beryl settled down in the Town of Convallaria, she opened a workshop to research Luxite, claiming that if someone could provide her with a little raw material, she could make magical props that were useful on the battlefield.",
     "idsandbox_note": 0
   },
   {
@@ -26397,7 +26397,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰之剑的事务日益繁多，麦莎还是选择一个人承担了许多工作，你了解到她曾是被小镇收养长大的遗孤，一直为回报小镇而默默地努力着。",
+    "log_content": "There were lots of affairs to deal with in the Sword of Convallaria, but Maitha still chose to take on many responsibilities by herself. You learned that she was an orphan who was adopted and raised in the town and had been working quietly in return.",
     "idsandbox_note": 0
   },
   {
@@ -26431,7 +26431,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你为了救济难民而调运的大量物资被小镇周围的劫匪盯上，在击退他们之后，你明白了乱世之下想要行善是一件何其奢侈的事情。",
+    "log_content": "A massive shipment of supplies you transported to relieve the refugees was targeted by robbers around the town. After knocking them back, you understood how extravagant it is to do good in troubled times.",
     "idsandbox_note": 0
   },
   {
@@ -26448,7 +26448,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你本好意护送难民绕过王国军的封锁渡河逃难，却被倒吊人发现并拦停。在与倒吊人交手时，这些难民暴露了自己骑士同盟间谍的身份，并被倒吊人当场处决。索菲亚在见证此事后给了你严厉的警告。",
+    "log_content": "With good intentions, you escorted the refugees to escape across the river bypassing the blockade of the King's Army, but it turned out to be discovered and stopped by the Hanged Men. When fighting against the Hanged Men, these refugees exposed their identity as spies of the Union and were executed right away. Safiyyah gave you a stern warning after witnessing this incident.",
     "idsandbox_note": 0
   },
   {
@@ -26601,7 +26601,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在途经铃兰小镇的难民队伍中，你再次遇到了那名和你协作冲出浪涌城城门的少女，她的名字是艾达，目前似乎是她和一些同样有勇气的难民在有序地组织着这支庞大的难民队伍。\n即便铃兰小镇的资源不足以接济这批难民，艾达仍十分有礼貌地请求为小镇劳动来换取生活物资。",
+    "log_content": "Among a group of refugees passing through the Town of Convallaria, you met the girl who rushed out of Waverun City with you. Her name was Edda, and it seemed that she and other brave refugees were properly organizing the group.\nEven though the resources of the Town of Convallaria were insufficient to support these refugees, Edda politely requested to work for the town in exchange for living supplies.",
     "idsandbox_note": 0
   },
   {
@@ -26686,7 +26686,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰之剑在十字路要塞攻防战中伤亡惨重，除此之外，许多王国军溃兵和匪徒依然残留在十字路要塞周边。为了重新稳定小镇安全，你决定采取行动，消除附近的隐患。",
+    "log_content": "The Sword of Convallaria suffered heavy casualties in the attack and defense battle of the Crossroads Keep. In addition, many defeated soldiers and bandits of the King's Army were still sticking around the Crossroads Keep. To re-stabilize the town, you decided to take action to eliminate such hidden dangers.",
     "idsandbox_note": 0
   },
   {
@@ -26703,7 +26703,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "随着王国军的败退，骑士同盟对铃兰之剑下达了清扫十字路要塞战场的命令。",
+    "log_content": "With the defeat of the King's Army, the Union gave the order to clear the battlefield of the Crossroads Keep to the Sword of Convallaria.",
     "idsandbox_note": 0
   },
   {
@@ -26720,7 +26720,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "歌洛莉亚给你带来了几封信，请求你将这几封信寄出，这能让小镇暂时规避危险。歌洛莉亚表示，至少要保护好小镇。",
+    "log_content": "Gloria brought several letters for you to send out, stating that they could prevent the town from danger temporarily. Gloria stated that her minimal goal was to protect the town.",
     "idsandbox_note": 0
   },
   {
@@ -27281,7 +27281,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰之剑、王国军、薇尔德、露西亚所组成的联军，于十字路要塞成功抵御了骑士同盟的进攻。但令人意想不到的是，萨曼莎竟也出现在了战场对抗骑士同盟。骑士同盟退回了浪涌城，等待下一轮的增援。",
+    "log_content": "The combined forces of the Sword of Convallaria, the King's Army, Vlder, and Luccia successfully resisted the attack of the Union at the Crossroads Keep. But unexpectedly, Samantha also appeared on the battlefield against the Union. The Union retreated to Waverun City, waiting for the next round of reinforcements.",
     "idsandbox_note": 0
   },
   {
@@ -27417,7 +27417,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "伊利亚旧贵族在晨曦堡发动了一场叛乱，但很快就被王国军镇压下去，伦伽勒在战时牺牲，米格尔与跟随着他的刺客也双双殒命。事后，旧贵族遭到处决或是监禁，伊利亚与法皇国的外交关系彻底崩塌。",
+    "log_content": "The old aristocracies of Iria launched a rebellion at the Mornrays Castle, but it were quickly suppressed by the King's Army. Nungal was killed in the battle, as well as Miguel and the assassins who followed him. After that, the old aristocracies were executed or imprisoned, and the diplomatic relations between Iria and the Papal States completely collapsed.",
     "idsandbox_note": 0
   },
   {
@@ -27609,7 +27609,7 @@
   },
   {
     "id": 1394001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [13],
     "idsandbox_event": 1394,
     "result_id": 1,
     "editor_name": "",
@@ -27621,12 +27621,12 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "战后，迪塔利奥下令对旧贵族进行清算，你在旧贵族的家中查抄出了巨额资产，迪塔利奥没有细究上缴的财产数目。",
+    "log_content": "After the war, Dantalion ordered the liquidation of the old aristocracies, and you found a huge amount of assets in their homes. Dantalion did not look into the amount of the assets you turned in.",
     "idsandbox_note": 0
   },
   {
     "id": 1395001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [14],
     "idsandbox_event": 1395,
     "result_id": 1,
     "editor_name": "",
@@ -27638,7 +27638,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "战后，迪塔利奥下令对旧贵族进行清算，你在旧贵族的家中查抄出了巨额资产，在清点过程中，迪塔利奥发现了账目之间的出入，你最终全部上缴了这笔清算出的财产。",
+    "log_content": "After the war, Dantalion ordered the liquidation of the old aristocracies, and you found a huge amount of assets in their homes. During counting, Dantalion found discrepancies between the accounts, and you eventually turned in all the liquidated assets.",
     "idsandbox_note": 0
   },
   {
@@ -27881,7 +27881,7 @@
   },
   {
     "id": 1407001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 1407,
     "result_id": 1,
     "editor_name": "",
@@ -28216,7 +28216,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "历尽重重困难，你与伊南娜终于见到了薇尔德族长——莉莉薇儿。薇尔德人之所以不那么友好，是因为伊利亚曾经背弃了“上古盟约”，那是一条伊利亚与薇尔德联合对抗埃拉曼帝国的盟约，而伊利亚却为了保全自己的利益出卖了薇尔德人，薇尔德因此遭到了惨重挫败，并蒙受了多年的歧视与苦难。为了重新建立合作所需的信任，伊南娜愿提供丰厚的回报，但莉莉薇儿再加一码：你们需要在短时间内抹除掉埃拉曼监视薇尔德的一个据点，她才愿意与伊利亚再次合作。",
+    "log_content": "After undergoing many difficulties, you and Inanna finally met LilyWill, the chieftain of Vlder. The reason why the Vlderians were less friendly was that Iria once reneged on the \"Ancient Alliance\", a covenant between Iria and Vlder against the Elaman Empire, but Iria betrayed Vlder to protect its own interests, making Vlder suffer a heavy defeat and endure years of discrimination and suffering. To re-establish the trust to work together, Inanna was willing to offer a good return, but LilyWill added one more condition: to quickly wipe out one more of Elaman's strongholds that spied on Vlder.",
     "idsandbox_note": 0
   },
   {
@@ -28233,7 +28233,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "为了彻底根除黑暗之光，伊利亚不得不配合法皇国对黑暗之光进行围剿。战场上，你见识到黑暗之光中有一个名为古兹曼的可怖魔人。在萨曼莎的协助下，你击败了古兹曼，而黑暗之光背后的秘密，可能比想象中的还要多……",
+    "log_content": "To completely eradicate Darklight, Iria had to cooperate with the Papal States to encircle and suppress Darklight. On the battlefield, you saw a terrifying devil named Guzman in Darklight. With Samantha's assistance, you defeated Guzman, and the secrets behind Darklight might be more than you think...",
     "idsandbox_note": 0
   },
   {
@@ -28250,7 +28250,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "为了彻底根除黑暗之光，伊利亚不得不配合法皇国对黑暗之光进行围剿。战场上，你见识到黑暗之光中有一个名为古兹曼的可怖魔人。在萨曼莎的协助下，你击败了古兹曼，而黑暗之光背后的秘密，可能比想象中的还要多……",
+    "log_content": "To completely eradicate Darklight, Iria had to cooperate with the Papal States to encircle and suppress Darklight. On the battlefield, you saw a terrifying devil named Guzman in Darklight. With Samantha's assistance, you defeated Guzman, and the secrets behind Darklight might be more than you think...",
     "idsandbox_note": 0
   },
   {
@@ -28267,7 +28267,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "解决掉黑暗之光本应是一件可喜的事，但你发现法皇国正将其大肆宣传为自己的功劳，以收揽民心。但王国军并没有停止行动，他们安插的线人已经在暮光城中找到了法皇国策划阴谋的种种证据。在你们前去取证时，却又意外地发现了骑士同盟入侵伊利亚的证物。",
+    "log_content": "Eliminating Darklight should be a gratifying thing, but you found that the Papal States was trumpeting it up to its credit to win over the people's support. But the King's army did not stop their actions, and the informants they fitted had already found evidence proving the plot of the Papal States in Lightgloam City. On your way to obtain the evidence, you accidentally found clues about the invasion of Iria by the Union.",
     "idsandbox_note": 0
   },
   {
@@ -28284,7 +28284,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在捣毁骑士同盟的后勤枢纽后，你及时进行回援，但薇尔德部队被全歼。",
+    "log_content": "After destroying the logistics hub of the Union, you returned for assistance in time, but Vlder troops were annihilated.",
     "idsandbox_note": 0
   },
   {
@@ -28301,7 +28301,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在捣毁骑士同盟的后勤枢纽后，你想要进行回援，但为时已晚，薇尔德部队被全歼，露西亚部队遭到重创。",
+    "log_content": "After destroying the logistics hub of the Union, you intended to return for assistance, but it was too late. Vlder's troops were wiped out, and Luccia's troops were severely damaged.",
     "idsandbox_note": 0
   },
   {
@@ -28318,7 +28318,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "矿坑城反抗王国军的战斗打响了，意外的是迪塔利奥没有派兵进行镇压。泽维尔想要刺杀伊南娜以阻止矿坑城的反抗，但最终失败。",
+    "log_content": "The battle against the King's Army in the Mine Pit began, and surprisingly, Dantalion did not send troops to suppress it. Xavier tried to assassinate Inanna to stop the revolt in the Mine Pit but ultimately failed.",
     "idsandbox_note": 0
   },
   {
@@ -28420,7 +28420,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在重重阻力下，伊南娜的演讲还是没能得到矿坑城民众们的认可。",
+    "log_content": "Despite many difficulties, Inanna's speech still failed to be recognized by the people of the Mine Pit.",
     "idsandbox_note": 0
   },
   {
@@ -28692,7 +28692,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "会晤上，迪塔利奥与鲁特菲针锋相对，鲁特菲斥责迪塔利奥残暴的统治手段，迪塔利奥批评鲁特菲投靠骑士同盟只会得到更彻底的奴役。诺诺薇儿无法直视这场虚伪的谈判，亲自上前欲要行刺迪塔利奥，以报伊利亚毁约之仇，得手前，迪塔利奥分析出了伊利亚与薇尔德的利益始终是捆绑在一起的，薇尔德只有选择合作才能不遭到其他势力的欺压，同时，迪塔利奥向诺诺薇儿许诺了十分优厚的结盟待遇。最终，诺诺薇儿答应会为结盟做出考虑。",
+    "log_content": "At the meeting, Dantalion and Lutfi confronted each other. Lutfi rebuked Dantalion's brutal rule, while Dantalion criticized Lutfi for defecting to the Union for only getting more complete enslavement. NonoWill could not stand this hypocritical negotiation, so she stepped forward to assassinate Dantalion to avenge Iria's renege on the covenant. Before she could kill him, Dantalion told her that the interests of Iria and Vlder were always tied together, and Vlder could only choose to cooperate in order not to be oppressed by other factions. Also, he promised NonoWill excellent conditions for the alliance. In the end, Nonowill said that she would think about it.",
     "idsandbox_note": 0
   },
   {
@@ -29423,7 +29423,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "你护送王女一路抵达晨曦堡的行为，赢得了迪塔利奥的称赞。在迪塔利奥的口中，你得知了浪涌城所发生的事情是因为有骑士同盟在暗中作祟，可即便如此，迪塔利奥依然铤而走险地让伊南娜前往了浪涌城，以完成自己的计划。尽管种种意外曾令伊南娜身处险境，但也因此得知有骑士同盟以外的势力正偷偷觊觎着伊利亚。\n为了尽快结束战争，迪塔利奥下达了寻求联合的指示，薇尔德人则是第一个求助的对象。",
+    "log_content": "You escorted the Princess all the way to the Mornrays Castle and won the praise of Dantalion. You heard from Dantalion that what happened in Waverun City was caused by the secret action of the Union. Even so, Dantalion still took the risk to let Inanna go to Waverun City to complete his plan. Although all kinds of accidents had put Inanna in danger, you learned that there were factions other than the Union secretly coveting Iria. Dantalion issued an order to seek cooperation to end the war as soon as possible, and the Vlderians were the first object of help-seeking.",
     "idsandbox_note": 0
   },
   {
@@ -29440,7 +29440,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "你护送王女一路抵达晨曦堡的行为，赢得了迪塔利奥的称赞。在迪塔利奥的口中，你得知了浪涌城所发生的事情是因为有骑士同盟在暗中作祟，可即便如此，迪塔利奥依然铤而走险地让伊南娜前往了浪涌城，以完成自己的计划。尽管种种意外曾令伊南娜身处险境，但也因此得知有骑士同盟以外的势力正偷偷觊觎着伊利亚。\n为了尽快结束战争，迪塔利奥下达了寻求联合的指示，薇尔德人则是第一个求助的对象。",
+    "log_content": "You escorted the Princess all the way to the Mornrays Castle and won the praise of Dantalion. You heard from Dantalion that what happened in Waverun City was caused by the secret action of the Union. Even so, Dantalion still took the risk to let Inanna go to Waverun City to complete his plan. Although all kinds of accidents had put Inanna in danger, you learned that there were factions other than the Union secretly coveting Iria. Dantalion issued an order to seek cooperation to end the war as soon as possible, and the Vlderians were the first object of help-seeking.",
     "idsandbox_note": 0
   },
   {
@@ -29904,7 +29904,7 @@
   },
   {
     "id": 1521001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [20],
     "idsandbox_event": 1521,
     "result_id": 1,
     "editor_name": "",
@@ -29938,7 +29938,7 @@
   },
   {
     "id": 1522001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [20],
     "idsandbox_event": 1522,
     "result_id": 1,
     "editor_name": "",
@@ -29972,7 +29972,7 @@
   },
   {
     "id": 1523001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [20],
     "idsandbox_event": 1523,
     "result_id": 1,
     "editor_name": "",
@@ -30006,7 +30006,7 @@
   },
   {
     "id": 1524001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [20],
     "idsandbox_event": 1524,
     "result_id": 1,
     "editor_name": "",
@@ -30040,7 +30040,7 @@
   },
   {
     "id": 1525001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [21],
     "idsandbox_event": 1525,
     "result_id": 1,
     "editor_name": "",
@@ -30074,7 +30074,7 @@
   },
   {
     "id": 1526001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [21],
     "idsandbox_event": 1526,
     "result_id": 1,
     "editor_name": "",
@@ -30108,7 +30108,7 @@
   },
   {
     "id": 1527001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [21],
     "idsandbox_event": 1527,
     "result_id": 1,
     "editor_name": "",
@@ -30142,7 +30142,7 @@
   },
   {
     "id": 1528001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [21],
     "idsandbox_event": 1528,
     "result_id": 1,
     "editor_name": "",
@@ -30176,7 +30176,7 @@
   },
   {
     "id": 1529001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [22],
     "idsandbox_event": 1529,
     "result_id": 1,
     "editor_name": "",
@@ -30210,7 +30210,7 @@
   },
   {
     "id": 1530001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [22],
     "idsandbox_event": 1530,
     "result_id": 1,
     "editor_name": "",
@@ -30244,7 +30244,7 @@
   },
   {
     "id": 1531001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [22],
     "idsandbox_event": 1531,
     "result_id": 1,
     "editor_name": "",
@@ -30278,7 +30278,7 @@
   },
   {
     "id": 1532001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [22],
     "idsandbox_event": 1532,
     "result_id": 1,
     "editor_name": "",
@@ -30635,7 +30635,7 @@
   },
   {
     "id": 1546001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [15],
     "idsandbox_event": 1546,
     "result_id": 1,
     "editor_name": "",
@@ -30669,7 +30669,7 @@
   },
   {
     "id": 1547001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [17],
     "idsandbox_event": 1547,
     "result_id": 1,
     "editor_name": "",
@@ -30703,7 +30703,7 @@
   },
   {
     "id": 1548001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [19],
     "idsandbox_event": 1548,
     "result_id": 1,
     "editor_name": "",
@@ -30737,7 +30737,7 @@
   },
   {
     "id": 1549001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [15],
     "idsandbox_event": 1549,
     "result_id": 1,
     "editor_name": "",
@@ -30771,7 +30771,7 @@
   },
   {
     "id": 1550001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [16],
     "idsandbox_event": 1550,
     "result_id": 1,
     "editor_name": "",
@@ -30805,7 +30805,7 @@
   },
   {
     "id": 1551001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [19],
     "idsandbox_event": 1551,
     "result_id": 1,
     "editor_name": "",
@@ -31077,7 +31077,7 @@
   },
   {
     "id": 1566001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [23],
     "idsandbox_event": 1566,
     "result_id": 1,
     "editor_name": "",
@@ -31111,7 +31111,7 @@
   },
   {
     "id": 1567001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [21],
     "idsandbox_event": 1567,
     "result_id": 1,
     "editor_name": "",
@@ -31145,7 +31145,7 @@
   },
   {
     "id": 1568001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [24],
     "idsandbox_event": 1568,
     "result_id": 1,
     "editor_name": "",
@@ -32131,7 +32131,7 @@
   },
   {
     "id": 1622001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [29],
     "idsandbox_event": 1622,
     "result_id": 1,
     "editor_name": "",
@@ -32165,7 +32165,7 @@
   },
   {
     "id": 1623001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [25],
     "idsandbox_event": 1623,
     "result_id": 1,
     "editor_name": "",
@@ -32199,7 +32199,7 @@
   },
   {
     "id": 1624001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [30],
     "idsandbox_event": 1624,
     "result_id": 1,
     "editor_name": "",
@@ -32233,7 +32233,7 @@
   },
   {
     "id": 1625001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [28],
     "idsandbox_event": 1625,
     "result_id": 1,
     "editor_name": "",
@@ -32267,7 +32267,7 @@
   },
   {
     "id": 1626001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [26],
     "idsandbox_event": 1626,
     "result_id": 1,
     "editor_name": "",
@@ -32301,7 +32301,7 @@
   },
   {
     "id": 1627001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [27],
     "idsandbox_event": 1627,
     "result_id": 1,
     "editor_name": "",
@@ -32607,7 +32607,7 @@
   },
   {
     "id": 1637001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 1637,
     "result_id": 1,
     "editor_name": "",
@@ -32641,7 +32641,7 @@
   },
   {
     "id": 1638001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 1638,
     "result_id": 1,
     "editor_name": "",
@@ -32675,7 +32675,7 @@
   },
   {
     "id": 1639001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 1639,
     "result_id": 1,
     "editor_name": "",
@@ -32726,7 +32726,7 @@
   },
   {
     "id": 1641001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 1641,
     "result_id": 1,
     "editor_name": "",
@@ -32760,7 +32760,7 @@
   },
   {
     "id": 1642001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [8],
     "idsandbox_event": 1642,
     "result_id": 1,
     "editor_name": "",
@@ -32840,7 +32840,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在你安葬了拉维耶，并宽慰了王女伊南娜后，鲁特菲拜访了你，他给你详细地阐述了伊利亚目前的困境和浪涌城悲剧背后的谜团，根据他的说法，残暴的迪塔利奥王子和图谋不轨的外国势力骑士同盟都必须被消灭，因此他正在筹划一个能够一石二鸟的计划。 他希望邀请你加入他的计划，而计划的第一步，就是要将伊南娜交给骑士同盟，并让圣骑士歌洛莉亚发下毒誓，保护伊南娜的生命安全，誓死查清浪涌城悲剧的真相。 你照做了。",
+    "log_content": "After you buried Rawiyah and comforted Princess Inanna, Lutfi visited you and explained in detail the current predicament of Iria and the mysteries behind the Waverun City tragedy. According to him, he was planning to eliminate the cruel Prince Dantalion and the scheming foreign force, the Union, at the same time. He wished you could join his plan, and the first step was to hand over Inanna to the Union, but the premise was that Paladin Gloria swore to protect Inanna and investigate the truth of the Waverun City tragedy. And you did so.",
     "idsandbox_note": 0
   },
   {
@@ -32857,7 +32857,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在你安葬了拉维耶，并宽慰了王女伊南娜后，鲁特菲拜访了你，他给你详细地阐述了伊利亚目前的困境和浪涌城悲剧背后的谜团，根据他的说法，残暴的迪塔利奥王子和图谋不轨的外国势力骑士同盟都必须被消灭，因此他正在筹划一个能够一石二鸟的计划。\n他希望邀请你加入他的计划，而计划的第一步，就是要将伊南娜交给骑士同盟，并让圣骑士歌洛莉亚发下毒誓，保护伊南娜的生命安全，誓死查清浪涌城悲剧的真相。\n你照做了。",
+    "log_content": "After you buried Rawiyah and comforted Princess Inanna, Lutfi visited you and explained in detail the current predicament of Iria and the mysteries behind the Waverun City tragedy. According to him, he was planning to eliminate the cruel Prince Dantalion and the scheming foreign force, the Union, at the same time. He wished you could join his plan, and the first step was to hand over Inanna to the Union, but the premise was that Paladin Gloria swore to protect Inanna and investigate the truth of the Waverun City tragedy. And you did so.",
     "idsandbox_note": 0
   },
   {
@@ -32908,7 +32908,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你率领铃兰之剑完成了一项骑士同盟下达的任务：切断十字路要塞周边的王国军补给据点。此役过后，十字路要塞攻城战最后的障碍得以清除。",
+    "log_content": "You led the Sword of Convallaria to complete a task from the Union: to cut off the supply strongholds of the King's Army around the Crossroads Keep. After this battle, the final obstacles in the siege battle of the Crossroads Keep were all cleared.",
     "idsandbox_note": 0
   },
   {
@@ -32925,7 +32925,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你率领铃兰之剑完成了一项骑士同盟下达的任务：切断十字路要塞周边的王国军补给据点。此役过后，十字路要塞攻城战最后的障碍得以清除。",
+    "log_content": "You led the Sword of Convallaria to complete a task from the Union: to cut off the supply strongholds of the King's Army around the Crossroads Keep. After this battle, the final obstacles in the siege battle of the Crossroads Keep were all cleared.",
     "idsandbox_note": 0
   },
   {
@@ -33350,7 +33350,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "小女孩的病情逐渐恶化，萨曼莎拼尽了所有的努力，也没能阻止小女孩生命的逝去。萨曼莎在陷入了极大的自责与痛苦的情绪后，她想清楚了伊利亚难民的苦难根源在于侵略者挑起的战争，以及暴君残酷的统治手段。于是萨曼莎决定改变一切，你们将一起去结束战争，追求伊利亚的和平。",
+    "log_content": "The little girl's condition gradually worsened, and despite Samantha's all efforts, she was unable to prevent the girl's passing. After falling into a great mood of remorse and pain, Samantha realized that the root cause of the suffering of the Iria's refugees was the war instigated by the invaders and the cruel ruling methods of the tyrant. So Samantha decided to change everything and set out to end the war and pursue the peace of Iria together with you.",
     "idsandbox_note": 0
   },
   {
@@ -33401,7 +33401,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你们在矿坑城阻止了黑暗之光对逃亡民众的迫害，并救下了一名与父母失散的小女孩，虽然小女孩病得很严重，但你们仍然决定帮助她到最后一刻。",
+    "log_content": "You stopped Darklight from persecuting the fleeing people in the Mine Pit and saved a little girl who was separated from her parents. Although the little girl was very sick, you still decided to help her until the last moment.",
     "idsandbox_note": 0
   },
   {
@@ -33418,7 +33418,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在摆脱黑暗之光的阻挠后，你们会见了艾达。现在的矿坑城几乎完全被黑暗之光控制，为了解放矿坑城的人民，首先要做的就是攻下被黑暗之光占领的矿区。",
+    "log_content": "After getting rid of the obstruction of Darklight, you met with Edda. The Mine Pit was almost completely controlled by Darklight. In order to free the people there, the first thing to do was to capture the mine occupied by Darklight.",
     "idsandbox_note": 0
   },
   {
@@ -33435,7 +33435,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你们赶走了黑暗之光在矿区的势力，同时也遭到了一群失去理智与知觉的人的袭击，小女孩的父亲也惨死在了矿区……但你们依旧没有放弃，继续寻找小女孩母亲的下落。",
+    "log_content": "You drove out the factions of Darklight in the Mine, but also suffered an attack from a group of irrational and senseless people. The little girl's father died tragically in the mine... but you still did not give up and continued to look for the whereabouts of the little girl's mother.",
     "idsandbox_note": 0
   },
   {
@@ -33452,7 +33452,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在经历了一些摩擦后，萨曼莎与艾达在作战方案上初步达成共识，在两人的配合之下，你们拆穿了黑暗之光教主费尔南多的谎言，鼓舞了更多人奋起反抗。最终，费尔南多不敌你们的进攻，逃之夭夭。",
+    "log_content": "After some friction, Samantha and Edda reached a preliminary consensus on the combat plan. With their cooperation, you exposed the lies of the cult leader Fernando of Darklight and inspired more people to rise up and resist. In the end, Fernando was defeated by your offensive and fled.",
     "idsandbox_note": 0
   },
   {
@@ -33469,7 +33469,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在矿区取得胜利后，萨曼莎与艾达彼此更加信任。你们决定采取进一步行动，以彻底瓦解黑暗之光。在讨伐黑暗之光的战斗中，费尔南多率领着身体被深度改造的实验人与你们展开了激战，萨曼莎的怒火被彻底点燃，最终你们将这支摒弃人道的军队打败。",
+    "log_content": "After the victory in the mine, Samantha and Ada began to trust each other more. You decided to take further action in order to completely dismantle Darklight. In the battle against Darklight, Fernando and his deeply modified experimenters engaged in a fierce battle with you. Samantha was much provoked, and finally, you defeated this inhumane army.",
     "idsandbox_note": 0
   },
   {
@@ -33537,7 +33537,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "小女孩的母亲也没能幸免遇难，她在黑暗之光的实验摧残下早已成为一具行尸走肉，最终也在爆炸中化为尘埃……你们向黑暗之光发起了总攻，击退了特兰奎洛，擒获了费尔南多，并将费尔南多移交给法皇国进行审判。同时，矿坑城也暂时由法皇国接管，艾达不满法皇国这种“窃取胜利”的行为，萨曼莎安抚了艾达，允诺法皇国会为目前民不聊生的矿坑城提供物资、维持秩序。",
+    "log_content": "The little girl's mother was also not spared, she had become a walking corpse, ravaged by Darklight's experiments, and was eventually turned into dust in the explosion... You launched a general attack on Darklight, repelled Tranquillo, captured Fernando and handed him over to the Papal States for trial. The Mine Pit was also temporarily taken over by the Papal States. As Edda was dissatisfied with the \"stealing victory\" behavior of the Papal States, Samantha pacified her, promising that the Papal States would provide supplies and maintain order for the currently struggling Mine Pit.",
     "idsandbox_note": 0
   },
   {
@@ -33554,7 +33554,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "因旧邦国曾经非常残暴地统治并压榨过伊利亚的人民，所以小镇里的居民普遍对邦国王子不抱好感。而你在寻找邦国王子的过程中，却发现手无寸铁的他试图在匪徒面前保护被追杀的平民，这与他在传闻中的形象出入颇大，你也因此感到意外。你帮助了他，并把他接回了小镇。",
+    "log_content": "Because the old State of Iria once ruled and oppressed the people of Iria very brutally, the residents of the town generally had a negative altitude toward Prince Taair. You were surprised to find the unarmed Prince Taair trying to protect the civilians being hunted from the bandits, which was quite different from his image in the rumors. You helped him and brought him back to the town.",
     "idsandbox_note": 0
   },
   {
@@ -33571,7 +33571,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一群黑暗之光的余党被法皇国与王国军围捕，你们拦住这些余党后，发现他们是连武器都不会使用的难民。原来他们是受到胁迫后才加入过黑暗之光，有些人只是因为走投无路、需要一个精神寄托才受到了黑暗之光的蒙骗。萨曼莎最终停止了对他们进行追责，放走了这群难民返回自己的家乡。萨曼莎在你面前下定了决心——他要为人们带来真正的信仰，能够予人希望与温暖的光辉……",
+    "log_content": "A group of Darklight Remnants were rounded up by the Papal States and the King's army. After intercepting these remnants, you found that they were refugees who could not even use weapons. It turned out that they were coerced into joining Darklight, and some of them were hoodwinked by Darklight only because they were desperate and needed a spiritual support. Samantha eventually stopped blaming them and let the refugees return to their homeland. Samantha made up her mind before you — she wanted to bring people true faith, which could give them light of hope and wamth...",
     "idsandbox_note": 0
   },
   {
@@ -33588,7 +33588,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "王国军对已经毫无抵抗能力的黑暗之光流民痛下杀手，萨曼莎无法接受这样的残杀，出手阻拦了王国军的暴行。在这件事情之后，萨曼莎也更坚定了伊利亚战乱的祸根来自法里斯家族的结论。",
+    "log_content": "The King's army ruthlessly killed the defenseless and homeless refugees of Darklight. Samantha could not accept such a massacre and intervened to stop the King's army's atrocities. After that, Samantha became even more convinced that the root of Iria's turmoil lay in the Faris Family.",
     "idsandbox_note": 0
   },
   {
@@ -33605,7 +33605,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "倒吊人奉迪塔利奥之命潜入了小镇，企图刺杀塔埃尔。随即，一位名叫米格尔的佣兵赶来，他受到法皇国的雇佣，协助你阻拦了倒吊人的行动。\n塔埃尔向你坦白，他为了摆脱自己的傀儡身份，曾多次计划尝试逃离监视，去研究自己所热爱的历史。而现在， 他终于明白自己的逃避不仅无法改变现实，还会给身边的人带来麻烦，他准备放弃自己的幻想，走进法皇国为其准备的“鸟笼”。",
+    "log_content": "The Hanged Men sneaked into the town on Dantalion's orders and attempted to assassinate Taair. However, a mercenary named Miguel, who was hired by the Papal States to assist you in stopping the Hanged Men's actions, arrived. Taair confessed to you that he had made several attempts to escape the surveillance in order to get rid of his puppet status and to study the history he loves. But then, he finally understood that his attempts to escape not only could not change reality, but also could bring trouble to those around him. He was ready to give up his illusions and entered the \"bird cage\" prepared for him by the Papal States.",
     "idsandbox_note": 0
   },
   {
@@ -33758,7 +33758,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与萨曼莎驱赶走了煽动浪涌城叛乱的倒吊人，帮助反抗军击垮了奴役矿工的旧邦国贵族。然而，这一切并没有彻底改变局势，伊利亚人民的反抗仍在继续……",
+    "log_content": "Samantha and you drove away the Hanged Men who incited the rebellion in Waverun City, and helped the resistant soldiers to defeat the Irian aristocrats who enslaved the miners. However, all of this did not completely change the situation, and the people of Iria continued to resist...",
     "idsandbox_note": 0
   },
   {
@@ -33775,7 +33775,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与萨曼莎驱赶走了煽动浪涌城叛乱的倒吊人，帮助反抗军击垮了奴役矿工的旧邦国贵族。然而，这一切并没有彻底改变局势，伊利亚人民的反抗仍在继续……",
+    "log_content": "Samantha and you drove away the Hanged Men who incited the rebellion in Waverun City, and helped the resistant soldiers to defeat the Irian aristocrats who enslaved the miners. However, all of this did not completely change the situation, and the people of Iria continued to resist...",
     "idsandbox_note": 0
   },
   {
@@ -33792,7 +33792,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与萨曼莎驱赶走了煽动浪涌城叛乱的倒吊人，帮助反抗军击垮了奴役矿工的旧邦国贵族。然而，这一切并没有彻底改变局势，伊利亚人民的反抗仍在继续……",
+    "log_content": "Samantha and you drove away the Hanged Men who incited the rebellion in Waverun City, and helped the resistant soldiers to defeat the Irian aristocrats who enslaved the miners. However, all of this did not completely change the situation, and the people of Iria continued to resist...",
     "idsandbox_note": 0
   },
   {
@@ -33809,7 +33809,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与萨曼莎驱赶走了煽动浪涌城叛乱的倒吊人，帮助反抗军击垮了奴役矿工的旧邦国贵族。然而，这一切并没有彻底改变局势，伊利亚人民的反抗仍在继续……",
+    "log_content": "Samantha and you drove away the Hanged Men who incited the rebellion in Waverun City, and helped the resistant soldiers to defeat the Irian aristocrats who enslaved the miners. However, all of this did not completely change the situation, and the people of Iria continued to resist...",
     "idsandbox_note": 0
   },
   {
@@ -33826,7 +33826,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "矿坑城爆发了大规模的叛乱，为了避免无谓的牺牲，你们急忙前赴矿坑城，却迎面遭遇前来支援反叛民众的王国军，一场惨烈的战斗已无法避免。最终，你们赶到了矿坑城，却目睹到了无数遇难者倒在血泊之中，愤怒的艾达也与你们正式决裂。",
+    "log_content": "A massive rebellion broke out in the Mine Pit. In order to avoid unnecessary sacrifices, you rushed to the Mine Pit, only to encounter the King's Army, who came to support the rebellious people, and a fierce battle was inevitable. Finally, you arrived at the Mine Pit, but witnessed countless victims laying in pools of blood, and the angry Edda also officially broke ties with you.",
     "idsandbox_note": 0
   },
   {
@@ -33843,7 +33843,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "卡丽丝派遣你前去清算想要逃跑的米格尔，在她的说法里，矿坑城的叛乱正是由米格尔所煽动。你与米格尔交手，他嘲笑你已经是法皇国合格的走狗。最终，米格尔与科尔不敌你们，重伤而死。",
+    "log_content": "Caris sent you to settle accounts with Miguel, who was trying to escape, and in her words, the rebellion in the Mine Pit was instigated by Miguel. During your confrontation with Miguel, he mocked you, saying that you were already a qualified lapdog of the Papal States. In the end, Miguel and Col were defeated by you and died from serious injuries.",
     "idsandbox_note": 0
   },
   {
@@ -33894,7 +33894,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在目睹法皇国镇压反抗的伊利亚民众的过程中，萨曼莎逐渐对法皇国，以及自己曾坚持的光辉之道产生了怀疑。在你的鼓励下，萨曼莎最终选择了直面内心，回归光辉的本善。随后，你们讨伐了法皇国派来统治矿坑城的傀儡费尔南多，博得了矿坑城居民的信任。",
+    "log_content": "In witnessing the suppression of the rebellious Irians by the Papal States, Samantha gradually became suspicious of the Papal States and the path to light she had insisted on. With your encouragement, Samantha finally chose to face her inner suspicion and return to the true essence of light. Afterward, you defeated Fernando, the puppet sent by the Papal States to rule the Mine Pit, and gained the trust of the Mine Pit's residents.",
     "idsandbox_note": 0
   },
   {
@@ -34047,7 +34047,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你用之前在旧贵族家中清算出的资产赎回了一部分薇尔德人。",
+    "log_content": "You saved some Vlderians with the assets you had cleared in the old aristocrats' family.",
     "idsandbox_note": 0
   },
   {
@@ -34064,7 +34064,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你没能支付赎回薇尔德人所需要的资金。薇尔德人均沦为奴隶被贩卖出去，抑或是在抵抗中丧命。",
+    "log_content": "You couldn't afford the ransom for all the enslaved Vlderians. The Vlderians were all sold out as slaves or died in resistance.",
     "idsandbox_note": 0
   },
   {
@@ -34200,7 +34200,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在萨曼莎的引荐下，你来到暮光城会见了她的老师——枢机卿卡丽丝，她是目前法皇国驻伊利亚的最高代表。卡丽丝赞扬了你剿灭黑暗之光的表现，并给了你一项重要委托：保护伊利亚邦国王室的后裔——塔埃尔王子。",
+    "log_content": "At Samantha's recommendation, you came to Lightgloam City to meet her mentor, Cardinal Caris, who was the highest representative of the Papal States in Iria. Caris praised your performance in eliminating Darklight and gave you an important quest: to protect Prince Taair, a descendant of the royal family of the State of Iria.",
     "idsandbox_note": 0
   },
   {
@@ -34285,7 +34285,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "塔埃尔刚在小镇安顿下来没多久，就神秘地失踪了。你急切地出去寻找，却发现他在山洞中和两名王国军士兵相谈甚欢。塔埃尔非常熟知伊利亚过去的历史，在他讲述伊利亚历史的过程中，你与王国军都慢慢放下警惕，安静倾听，短暂地和平相处。",
+    "log_content": "Taair mysteriously disappeared shortly after settling down in the town. You went out to search for him anxiously, only to find him chatting happily with two soldiers of the King's Army in a cave. Taair knew the history of Iria well, and as he narrated it, both you and the soldiers of the King's Army slowly let down your guard, briefly enjoying a peaceful coexistence.",
     "idsandbox_note": 0
   },
   {
@@ -34472,7 +34472,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "萨曼莎向你转达了卡丽丝的作战计划：潜入骑士团与伊利亚的秘密和谈地点，暗杀掉迪塔利奥与鲁特菲，随后嫁祸给骑士同盟。尽管你与萨曼莎都认为这不是最好的路，但你们也想不出更好的办法。你下定决心后，参与了计划，刺杀了鲁特菲。事后，你与萨曼莎虽然内心都很痛苦，但为了伊利亚的和平，你们已经做好了觉悟……",
+    "log_content": "Samantha told you Caris's operation plan: sneak into the secret place of peace talks between the Order and Iria, assassinate Dantalion and Lutfi, and then blame the Union. Although Samantha and you both believed that this was not the best plan, you could not come up with a better solution. After making the decision, you participated in the plan and assassinated Lutfi. Afterward, although Samantha and you were both in great pain, for the peace of Iria, you had already made up your mind...",
     "idsandbox_note": 27
   },
   {
@@ -34727,7 +34727,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "法皇国与伊利亚联军一步步粉碎了骑士团的防守，泰登与歌洛莉亚在关键战役中相继战死，奥古斯特被迫撤退，法皇国也对战役的主要参与者进行封赏。你回到了小镇，那名孤独的少女向你坦白身份，她就是早已被宣布在浪涌城牺牲的王女伊南娜，她将回到伊利亚，去承担自己的责任。索菲亚前来接送王女，最终你与伊南娜依依惜别。",
+    "log_content": "The allied force of the Papal States and Iria smashed the defense of the Order step by step, and Teadon and Gloria died in the key campaign. Auguste was forced to retreat, and the Papal States rewarded the main participants in the battle. You returned to the town, where the lonely maiden told you her identity. She was Princess Inanna who had already been announced to be sacrificed in Waverun City. She would return to Iria to assume her duties. Safiyyah came to escort the Princess, and finally you said goodbye to Inanna.",
     "idsandbox_note": 0
   },
   {
@@ -34812,7 +34812,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "伊利亚王女的出现打乱了法皇国复辟邦国的计划，卡丽丝决定以让伊利亚成为法皇国的附庸为条件展开和谈，你与萨曼莎将会作为法皇国的代表出使伊利亚。为了伊利亚的和平，你与萨曼莎只能勉力一试。如预想一般，伊南娜拒绝了和谈内容。本次和谈虽以失败告终，但伊南娜仍希望与你们继续寻求伊利亚的和平。",
+    "log_content": "The appearance of Princess of Iria disrupted the plan of the Papal States to restore the State, so Caris decided to start peace talks on the condition of making Iria a vassal of the Papal States. Samantha and you would serve as representatives of the Papal State in the negotiations with Iria. For the peace of Iria, Samantha and you could only do your best. As expected, Inanna refused the condition. Although the peace talks ended in failure, Inanna still wished to continue seeking peace in Iria with your help.",
     "idsandbox_note": 0
   },
   {
@@ -34863,7 +34863,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "塔埃尔前来拜访了你，他肯定了你为追求和平所做出的一切努力，个人确实难以左右历史的巨轮。而塔埃尔则选择用笔墨将伊利亚的历史记录下来，他将一本还未完成的书交予你。随后，他释然地接受自己将成为一枚棋子的命运……",
+    "log_content": "Taair came to visit you and praised all your efforts in the pursuit of peace. He understood that individuals could hardly influence the course of history. Taair chose to write down the history of Iria with his pen, and he handed you an unfinished book. Afterward, he accepted his fate of becoming a pawn with relief ...",
     "idsandbox_note": 28
   },
   {
@@ -35084,7 +35084,7 @@
     "event_battle_id": 0,
     "enable_log": false,
     "enable_log_scenario": false,
-    "log_content": "尽管你们的所行之路早已遍布牺牲，但你依然帮助萨曼莎坚定了继续走下去的决心。费尔南多摇身一变成为了法皇国的喉舌，他试图劝降矿坑城内的反抗者。愤怒的民众强烈要求对费尔南多进行审判。但此时的你们，除了平息双方的冲突，保护费尔南多以外，别无他法。",
+    "log_content": "Although your path has been paved with sacrifices, you still helped Samantha to strengthen her resolve to continue. Fernando transformed into the mouthpiece of the Papal States and tried to persuade the rebels in the Mine Pit to surrender. The angry public strongly demanded that Fernando be brought to trial. But you, at that moment, had no choice but to calm both side's conflict and protect Fernando.",
     "idsandbox_note": 0
   },
   {
@@ -35203,7 +35203,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与萨曼莎回到了暮光城，在接待你的酒席上，你与塔埃尔说出了各自的期待与无奈。谈话的过程中，艾达突然出现，要带走塔埃尔作为与法皇国谈判的筹码。在你们僵持之时，艾达手下的一名战士用利箭射向了你，塔埃尔却一把把你推开。最后，塔埃尔劝你不要为自己复仇，并在对伊利亚的无限怀念中，永远闭上了双眼。",
+    "log_content": "Samantha and you returned to Lightgloam City and attended a banquet held in your honor. During the conversation, you and Taair expressed your hopes and frustrations. Suddenly, Edda appeared and wanted to take Taair away as a bargaining chip for negotiations with the Papal States. While you were in a stalemate with Edda, one of Edda's warriors shot a sharp arrow towards you, but Taair pushed you away. In the end, Taair convinced you not to seek revenge for him and closed his eyes forever in eternal remembrance of Iria.",
     "idsandbox_note": 0
   },
   {
@@ -35322,7 +35322,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "米格尔受到了嘉西娅的致命袭击，临终前，他向你坦白了是自己为了法皇国亲手杀掉了拉维耶。在生命的最后，他给了你浪涌城惨剧真相的证据，并将科尔托付于你。",
+    "log_content": "Miguel was fatally attacked by Garcia, and on his deathbed, he told you that he had killed Rawiyah with his own hands for the sake of the Papal States. In his final moment, he gave you the evidence of the truth behind the Waverun City Tragedy and entrusted Col to you.",
     "idsandbox_note": 0
   },
   {
@@ -35373,7 +35373,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "贝拉向萨曼莎揭露了法皇国大庇护所的阴谋：大庇护所会从被收养的孩子们中筛选出具有天赋的个体集中培养，而其余孩子们的命运则是成为晶石实验的对象。萨曼莎顾不得多想，赶紧随你们一起去暮光城的庇护所寻找孩子们，并发现了实验的幕后黑手特兰奎洛。原来正是他接受了法皇国的支持，一手主导了大庇护所的晶石实验。在你们击杀特兰奎洛，带走了剩下的孩子们后，贝拉彻底炸毁了这座泯灭人性的实验室。",
+    "log_content": "Beryl revealed to Samantha the conspiracy of the Grand Sanctuary of the Papal States: the Grand Sanctuary would select the gifted individuals from the adopted children and concentrate on their training, while the rest of the children would be the subjects of Luxite experiments. Samantha did not hesitate and quickly went with you to the Sanctuary in Lightgloam City to search for the children. There, you discovered the mastermind behind the experiment, Tranquillo. It turned out that it was he who accepted the support of the Papal States and led the Luxite experiments in the Grand Sanctuary. After you killed Tranquillo and took away the remaining children, Beryl completely destroyed this dehumanizing laboratory.",
     "idsandbox_note": 30
   },
   {
@@ -35628,7 +35628,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与萨曼莎前往了晨曦堡进行和谈，而索菲亚却在会议上出示了法皇国策动浪涌城惨案的铁证。在你们无言以对时，法皇国的其他审判者趁机完成了对法里斯王的刺杀。当嘉西娅准备再度出手时，索菲亚替伊南娜挡下了致命一击，愤怒的伊南娜下达了向法皇国全面开战的指令……事态已发展到无可挽回的地步，你带着萨曼莎逃出了晨曦堡。为了掩护大家撤退，法卡尔在战乱中身负重伤，最终不治身亡……铃兰之剑佣兵团内部因此产生了巨大分歧，大家带着各自的成见相继出走。",
+    "log_content": "Samantha and You went to the Mornrays Castle for peace talks, while Safiyyah presented hard evidence of the Papal States' instigation of the Waverun City tragedy at the meeting. While you were speechless, the other Judges of the Papal States completed the assassination of King Faris. When Garcia was ready to attack again, Safiyyah took the fatal attack for Inanna, and the enraged Inanna issued an order to wage a full-scale war against the Papal States... The situation was irreversible, and you and Samantha escaped from the Mornrays Castle. In order to cover the retreat, Faycal was seriously wounded in the war and eventually died... The Sword of Convallaria Mercenary Group was thus severely divided within itself, with each member leaving one after another with their own prejudices.",
     "idsandbox_note": 0
   },
   {
@@ -35645,7 +35645,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "根据萨曼莎调查得到的消息，你们已经确认了法皇国的炸矿行动，不论你们对曾经走过的路有多懊悔与惋惜，都改变不了这个事实：你们的选择，将会决定伊利亚的命运。",
+    "log_content": "According to the information obtained by Samantha, you have confirmed the mining explosion operation of the Papal States. No matter how much you regretted and lamented the path you had taken, the fact remained: your choice would determine the fate of Iria.",
     "idsandbox_note": 0
   },
   {
@@ -35849,7 +35849,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你们铤而走险，策划了一场大戏：在塔埃尔接受伊利亚王位禅让之时，将王位移交给了伊南娜，并由伊南娜亲自戳破法皇国的谎言。塔埃尔的演讲非常成功，而伊南娜也得到了伊利亚人的拥戴与认可，成为了伊利亚的女王。自此之后，伊利亚人将会重新团结起来，捍卫伊利亚的独立。",
+    "log_content": "You rolled the dice and orchestrated a spectacle: while ascending to the throne, Taair surprisingly passed it to Inanna, who then took the lid off the Papal States' lies. Taair's stirring speech was a big success. Inanna also managed to become the queen of Iria, recognized and supported by the people. Henceforth, the Irians will once more stand side by side to defend Iria's hard-won independence.",
     "idsandbox_note": 0
   },
   {
@@ -35900,7 +35900,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "根据萨曼莎调查得到的消息，你们已经确认了法皇国的炸矿行动。铃兰之剑与萨曼莎独自前赴阻拦法皇国，却遭到了法皇国大规模部队如潮水般的攻击。战斗中，泽维尔、索菲亚与艾达率领援军纷纷登场。一场苦战之后，萨曼莎击败了嘉西娅，赢得了战斗的胜利。在嘉西娅的墓边，萨曼莎告诉了你她对光辉之道的新认识：真爱世人，回归初心。反法皇国的部队在小镇会合，大家的下一步目标直指暮光城，决战的序幕正式拉开。",
+    "log_content": "According to the information obtained by Samantha, you have confirmed the mining explosion operation of the Papal States. The Sword of Convallaria and Samantha went alone to intercept the Papal States, but they were attacked by the massive forces of the Papal States. In the battle, Xavier, Safiyyah and Edda arrived and led reinforcements to join the fight. After a bitter battle, Samantha defeated Garcia and won the battle. At Garcia's tomb, Samantha shared with you her new understanding of the path to light: Turely love the world, and remain the original aspiration. The anti-Papal States forces gathered in the town, and everyone's next goal was directed towards Lightgloam City, where the curtain was officially raised for the final battle.",
     "idsandbox_note": 0
   },
   {
@@ -36189,7 +36189,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "为了对抗骑士团，伊利亚与法皇国组成了联军。与此同时，一个噩耗向你传来：拉维耶在独自调查浪涌城惨案的过程中不幸牺牲。听闻拉维耶的死讯后，铃兰之剑全员陷入了巨大的悲痛之中。法卡尔将拉维耶的死归咎于骑士团，这似乎也是目前相对合理的推测。",
+    "log_content": "In order to fight against the Order, Iria and the Papal States formed an alliance. At the same time, sad news came to you: Rawiyah unfortunately died while investigating the Waverun City tragedy alone. Upon hearing the news of Rawiyah's death, all the members of the Sword of Convallaria fell into great sorrow. Faycal blamed the Order for Rawiyah's death, which seemed to be a relatively reasonable speculation at that point.",
     "idsandbox_note": 0
   },
   {
@@ -37724,7 +37724,7 @@
   },
   {
     "id": 1923001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [31],
     "idsandbox_event": 1923,
     "result_id": 1,
     "editor_name": "",
@@ -37758,7 +37758,7 @@
   },
   {
     "id": 1924001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [18],
     "idsandbox_event": 1924,
     "result_id": 1,
     "editor_name": "",
@@ -37792,7 +37792,7 @@
   },
   {
     "id": 1925001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [19],
     "idsandbox_event": 1925,
     "result_id": 1,
     "editor_name": "",
@@ -37962,7 +37962,7 @@
   },
   {
     "id": 1930001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [29],
     "idsandbox_event": 1930,
     "result_id": 1,
     "editor_name": "",
@@ -38047,7 +38047,7 @@
   },
   {
     "id": 1933001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [25],
     "idsandbox_event": 1933,
     "result_id": 1,
     "editor_name": "",
@@ -38132,7 +38132,7 @@
   },
   {
     "id": 1936001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [30],
     "idsandbox_event": 1936,
     "result_id": 1,
     "editor_name": "",
@@ -38705,7 +38705,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "尽管你们的所行之路早已遍布牺牲，但你依然帮助萨曼莎坚定了继续走下去的决心。费尔南多摇身一变成为了法皇国的喉舌，他试图劝降矿坑城内的反抗者。愤怒的民众强烈要求对费尔南多进行审判。但此时的你们，除了平息双方的冲突，保护费尔南多以外，别无他法。",
+    "log_content": "Although your path has been paved with sacrifices, you still helped Samantha to strengthen her resolve to continue. Fernando transformed into the mouthpiece of the Papal States and tried to persuade the rebels in the Mine Pit to surrender. The angry public strongly demanded that Fernando be brought to trial. But you, at that moment, had no choice but to calm both side's conflict and protect Fernando.",
     "idsandbox_note": 0
   },
   {
@@ -38875,7 +38875,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与萨曼莎驱赶走了煽动浪涌城叛乱的倒吊人，帮助反抗军击垮了奴役矿工的旧邦国贵族。然而，这一切并没有彻底改变局势，伊利亚人民的反抗仍在继续……",
+    "log_content": "Samantha and you drove away the Hanged Men who incited the rebellion in Waverun City, and helped the resistant soldiers to defeat the Irian aristocrats who enslaved the miners. However, all of this did not completely change the situation, and the people of Iria continued to resist...",
     "idsandbox_note": 0
   },
   {
@@ -39594,7 +39594,7 @@
   },
   {
     "id": 2002001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [29],
     "idsandbox_event": 2002,
     "result_id": 1,
     "editor_name": "",
@@ -39764,7 +39764,7 @@
   },
   {
     "id": 2011001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [30],
     "idsandbox_event": 2011,
     "result_id": 1,
     "editor_name": "",
@@ -39934,7 +39934,7 @@
   },
   {
     "id": 2020001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [32],
     "idsandbox_event": 2020,
     "result_id": 1,
     "editor_name": "",
@@ -40988,7 +40988,7 @@
   },
   {
     "id": 2063001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [29],
     "idsandbox_event": 2063,
     "result_id": 1,
     "editor_name": "",
@@ -41022,7 +41022,7 @@
   },
   {
     "id": 2064001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [30],
     "idsandbox_event": 2064,
     "result_id": 1,
     "editor_name": "",
@@ -41056,7 +41056,7 @@
   },
   {
     "id": 2065001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [32],
     "idsandbox_event": 2065,
     "result_id": 1,
     "editor_name": "",
@@ -41090,7 +41090,7 @@
   },
   {
     "id": 2066001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [29],
     "idsandbox_event": 2066,
     "result_id": 1,
     "editor_name": "",
@@ -41124,7 +41124,7 @@
   },
   {
     "id": 2067001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [30],
     "idsandbox_event": 2067,
     "result_id": 1,
     "editor_name": "",
@@ -41158,7 +41158,7 @@
   },
   {
     "id": 2068001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [32],
     "idsandbox_event": 2068,
     "result_id": 1,
     "editor_name": "",
@@ -41680,7 +41680,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你在匪徒的包围之中解救下了一位商人——阿坎贝。为了开辟出一条极具潜力的商路，阿坎贝带领着一众商队从埃拉曼长途跋涉而来。由于你及时出手相助，他向铃兰小镇贱卖了一批生活急需物资，并诚邀你与他共同成立一家商会，以改善小镇的民生问题。",
+    "log_content": "Amidst the bandit's siege, you rescued a merchant — Acambe. To forge a promising trade route, Acambe led a caravan from Elaman. Grateful for your help, he sold essential goods to the Town of Convallaria at a bargain and proposed to jointly establish a trading post to improve the town's welfare.",
     "idsandbox_note": 0
   },
   {
@@ -41748,7 +41748,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在蔻蔻娜的请求下，你解救了一批正在被追杀的奴隶，当你们正在与奴隶贩子对峙时，阿坎贝突然手刃了奴隶主。事后，阿坎贝向蔻蔻娜讲述了她父亲与矿工起义的故事。",
+    "log_content": "At Cocoa's request, you intervened to save a group of fleeing slaves. In the confrontation, Acambe unexpectedly killed their slaver, then revealed to Cocoa the uprising involving her father and other miners.",
     "idsandbox_note": 0
   },
   {
@@ -41765,7 +41765,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在蔻蔻娜的请求下，你解救了一批正在被追杀的奴隶，当你们正在与奴隶贩子对峙时，阿坎贝突然手刃了奴隶主。事后，阿坎贝向蔻蔻娜讲述了她父亲与矿工起义的故事。",
+    "log_content": "At Cocoa's request, you intervened to save a group of fleeing slaves. In the confrontation, Acambe unexpectedly killed their slaver, then revealed to Cocoa the uprising involving her father and other miners.",
     "idsandbox_note": 0
   },
   {
@@ -41782,7 +41782,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "拉维耶突然出现并击退了想要堵截你商队的米格尔。在拉维耶离开的这段时间里，她一直在追查浪涌城惨案的真相，同时还得知了法皇国一直试图在伊利亚制造混乱、安插眼线的举措。",
+    "log_content": "Suddenly, Rawiyah appeared, driving off an ambush by Miguel. In her absence, she has been investigating the truth behind the Waverun City Massacre, uncovering Papal States' schemes to sow chaos and plant spies in Iria.",
     "idsandbox_note": 0
   },
   {
@@ -41799,7 +41799,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你和蔻蔻娜决定一起去营救阿坎贝。在击败了追捕阿坎贝的不朽军后，阿坎贝向你透露了一份关键情报——伊利亚军械贸易的源头在被一位大武器商人牢牢控制着，而他正准备再次制造一起浪涌城惨案程度的事件。当你们拦截了正运送着大型爆炸物的商队后，你们发现这名大武器商人的真面目竟是卡达尔。",
+    "log_content": "You and Cocoa united to rescue Acambe. Defeating the Faceless, Acambe revealed vital information—the source of Iria's arms trade, controlled by a powerful dealer planning another Waverun City Massacre-level event. Intercepting a caravan carrying explosives, you discovered the arms dealer's true identity: Kadar.",
     "idsandbox_note": 0
   },
   {
@@ -41935,7 +41935,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与阿坎贝顺利建成了铃兰商会，并通过贸易手段不断地解决了小镇的粮食与药物的短缺问题，随之而来的，也包括与晶石贸易相关的契机。",
+    "log_content": "You and Acambe swiftly erected the Convallaria Trading Post, resolving the town's shortages of food and medicine through trade. This endeavor also opened doors to Luxite trade opportunities.",
     "idsandbox_note": 0
   },
   {
@@ -42020,7 +42020,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "浪涌城被你救下的那位少女，如今透露出了自己身为王女的身份，所谓国葬只不过是迪塔利奥演的一出戏。在惊讶之余，她向你表露了合作的心愿——她不想再依靠王室那两个可疑的哥哥，而是通过自己的力量独立调查出浪涌城事件的真相。",
+    "log_content": "The girl you saved in Waverun City revealed herself as a Princess, unveiling the \"state funeral\" as a ruse orchestrated by Dantalion. More surprisingly, she expressed her desire to collaborate, determined to uncover the truth behind the Waverun City incident independently from her dubious brothers.",
     "idsandbox_note": 0
   },
   {
@@ -42037,7 +42037,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "蓬勃发展的商会使你有了足够的资源安顿难民。但恰巧就在这时，小镇上的旅店发生了一起命案——一位贩奴商人在与薇尔德舞团发生冲突后惨遭杀害，你很快查清了这是夏可露露所为，而导致案件发生的深层原因是薇尔德人长期遭受过被奴役的痛苦。",
+    "log_content": "Amidst the bustling trading post, resources abound to settle refugees. However, tranquility was shattered as a slaver was found murdered after a clash with the Vlderian Dance Troupe. Investigation revealed SchackLulu as the culprit, exposing the Vlderian's enduring anguish from past enslavement as the root cause.",
     "idsandbox_note": 0
   },
   {
@@ -42088,7 +42088,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "黑暗之光愈发频繁的活动恶化了贸易的安全，不过你依然成功派遣商队抵达了矿坑城，协助艾达的建设计划。为了逆转目前发展趋于停滞的商会，你决定前往埃拉曼寻找更大的商机。",
+    "log_content": "Despite Darklight's escalating threats, your caravans have successfully reached Mine Pit, supporting Edda's development plans. To reinvigorate the sluggish trading post, you embarked on a journey to Elaman in search of greater opportunities.",
     "idsandbox_note": 0
   },
   {
@@ -42326,7 +42326,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你为“万事通”带去了他所需要的货物，但他似乎是一个爱找麻烦的商人，在纠缠过程中与你大打出手。在场面焦灼之时，一位名叫霍玛的人突然出现并调停了局面，在得知你的经历后，她主动与你结交了朋友。",
+    "log_content": "You delivered the goods to \"Mr. Know-It-All,\" but he proved to be a troublemaker, sparking a brawl. Suddenly, Homa appeared, mediating the situation. Impressed by your resilience, she befriended you willingly.",
     "idsandbox_note": 0
   },
   {
@@ -42411,7 +42411,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "一位名叫蔻蔻娜的奇怪少女到访了小镇，她同时拥有着伊利亚人和薇尔德人的血统。蔻蔻娜很早就开始四处旅行，目的是为了寻找伊利亚邦国时期矿工起义的消息。",
+    "log_content": "A strange girl named Cocoa arrived in town, her bloodline a mix of Irian and Vlderian. Cocoa, an avid traveler from a young age, roamed in pursuit of intel about the miner uprising during the State of Iria era.",
     "idsandbox_note": 0
   },
   {
@@ -42445,7 +42445,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在经商途中，你碰见了遭到王国军盘查的霍玛，情急之下，霍玛借用了你的经商执照躲过了一劫。",
+    "log_content": "During your trade journey, you came across Homa facing scrutiny from the King's Army. In a rush, she swiftly borrowed your merchant license to slip past the inspection, narrowly escaping trouble.",
     "idsandbox_note": 0
   },
   {
@@ -42462,7 +42462,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰节就要到了，你与阿坎贝就此策划了一场大型庆祝活动，这不仅能够提高铃兰商会的知名度，也是一个缓和各大势力间冲突的好机会。",
+    "log_content": "As the Convallaria Festival approached, you and Acambe were orchestrating a spectacular event. It was not just about putting Convallaria Trading Post on the map, but also a chance to smooth over conflicts between rival factions.",
     "idsandbox_note": 0
   },
   {
@@ -42513,7 +42513,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你发现了蔻蔻娜耳朵的秘密：她在说谎的时候耳朵会立起来。",
+    "log_content": "You've uncovered Cocoa's secret: her ears perk up when she's lying.",
     "idsandbox_note": 0
   },
   {
@@ -42615,7 +42615,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你们为铃兰节精心准备了一场宴会，各大势力的代表也纷纷到场展开和谈，但由于彼此的需求相互冲突，难以调和，宴会最终不欢而散。你和阿坎贝决定重新制定计划，寻找解决冲突——抑或是借助冲突增强自身实力的办法。",
+    "log_content": "Despite the elaborate preparations for the Convallaria Festival banquet, tensions among the factions proved insurmountable, leading to a dismal dispersal. Determined to navigate the conflicts, you and Acambe set out to devise a new plan—or resolution—to seize opportunities amidst chaos and strengthen yourselves.",
     "idsandbox_note": 0
   },
   {
@@ -42734,7 +42734,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "骑士同盟宣布将对十字路要塞展开军事行动，而恰巧就在此时，从浪涌城购置的食物导致了多起伊利亚民众的中毒事件，铃兰商会迅速被卷入了舆论的风波……",
+    "log_content": "Amid the Union's declaration of military action against Crossroads Keep, multiple cases of food poisoning in Iria, linked to supplies from Waverun City procured by Convallaria Trading Post, thrust you into a whirlwind of public scrutiny…",
     "idsandbox_note": 0
   },
   {
@@ -42768,7 +42768,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "蔻蔻娜和你讲述了自己母亲的记忆，并拜托你帮忙向阿坎贝询问关于矿工起义的历史。",
+    "log_content": "Cocoa confided her mother's memories to you, urging you to seek Acambe's insight into the history of the miner's uprising.",
     "idsandbox_note": 0
   },
   {
@@ -42836,7 +42836,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你在为中毒事件焦头烂额之时，霍玛为你提供了相关线索，并借机与你建立了合作。可不料霍玛跟阿坎贝起了口角，在他们争执一番后，阿坎贝向你道出了矿工起义失败的原因，以及蔻蔻娜母亲去世的真相。",
+    "log_content": "In the midst of the poisoning crisis, Homa offered vital leads and struck a collaboration. Yet, tensions flared between Homa and Acambe. Following their clash, Acambe unveiled the reasons for the miner's uprising's downfall and the truth surrounding Cocoa's mother's death.",
     "idsandbox_note": 0
   },
   {
@@ -42904,7 +42904,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "十字路要塞战役爆发了，许多商人趁势售卖军械大发战争财，王国军与骑士同盟双方均在战斗中损失严重，而胜利的天平也并未倾向任何一方。你与伊南娜决定联手拉拢各方势力的商人，遏制军械的销量。",
+    "log_content": "Amidst the Crossroads Keep battle, a lot of merchants seized the opportunity to profit from the war's chaos. With both the King's Army and the Union sustaining heavy losses, victory remained elusive. Teaming up, you and Inanna aimed to rally merchants across factions to halt the sale of arms.",
     "idsandbox_note": 0
   },
   {
@@ -43057,7 +43057,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你援助薇尔德人抵御了黑暗之光的威胁，并帮助他们建立起了晶石产业。为了能够在贸易事业上协作共赢，铃兰商会与矿坑城和薇尔德部族共同成立了“狐与松鼠”晶石采矿联合体。",
+    "log_content": "You lent a hand to the Vlderians, thwarting Darklight's menace and kickstarting their Luxite industry. To ensure prosperous trade, Convallaria Trading Post, Mine Pit, and Vlder Tribes united under the banner of the \"Fox and Squirrel\" Luxite Mining Syndicate.",
     "idsandbox_note": 0
   },
   {
@@ -43074,7 +43074,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你援助薇尔德人抵御了黑暗之光的威胁，并帮助他们建立起了晶石产业。为了能够在贸易事业上协作共赢，铃兰商会与矿坑城和薇尔德部族共同成立了“狐与松鼠”晶石采矿联合体。",
+    "log_content": "You lent a hand to the Vlderians, thwarting Darklight's menace and kickstarting their Luxite industry. To ensure prosperous trade, Convallaria Trading Post, Mine Pit, and Vlder Tribes united under the banner of the \"Fox and Squirrel\" Luxite Mining Syndicate.",
     "idsandbox_note": 0
   },
   {
@@ -43193,7 +43193,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "十字路要塞的战斗再度打响，但这一次你通过联结其他势力，将反对战争的呼声推向了高潮。",
+    "log_content": "As the Crossroads Keep battle erupted once more, you forged alliances with other factions, amplifying the voices against war to a crescendo.",
     "idsandbox_note": 0
   },
   {
@@ -43380,7 +43380,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "阿坎贝在军械贸易破产后选择了逃离巨额债务。不久之后，霍玛写信告诉你，阿坎贝已经被埃拉曼派出的不朽军抓住，而根据埃拉曼的法律，国家商人在破产之后会将会被革去身份，等待阿坎贝的将是被贬为奴隶的下场。",
+    "log_content": "Amidst the ruins of her arms trade, Acambe fled to dodge staggering debts. Soon after, Homa's letter revealed Acambe's capture by Elaman's ruthless enforcers, the Faceless. Under Elaman's iron law, bankrupt National Merchants lose their identity, leaving Acambe to face the harrowing fate of slavery.",
     "idsandbox_note": 0
   },
   {
@@ -43856,7 +43856,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "“罗迪尼亚贸易组织”很快会在和谈会议后正式成立，世界的新秩序也将在其规则下重新建立。",
+    "log_content": "The \"Rodinia Trade Organization\" is set to formalize soon after the peace talks, heralding a new world order under its auspices.",
     "idsandbox_note": 0
   },
   {
@@ -43873,7 +43873,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "“罗迪尼亚贸易组织”很快会在和谈会议后正式成立，世界的新秩序也将在其规则下重新建立。",
+    "log_content": "The \"Rodinia Trade Organization\" is set to formalize soon after the peace talks, heralding a new world order under its auspices.",
     "idsandbox_note": 0
   },
   {
@@ -44536,7 +44536,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "特兰奎洛独自一人出现在了小镇，他希望向你购得一本关于“璀璨之光”历史的古书。",
+    "log_content": "Alone, Tranquillo emerged in the town, seeking to buy an ancient book detailing the history of the \"Divine Light\" from you.",
     "idsandbox_note": 0
   },
   {
@@ -44553,7 +44553,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "王国军对铃兰商会加重了课税为经营带来了困难，阿坎贝反而建议你将生意做到晨曦堡以广开财源。蔻蔻娜在这时申请加入商会打工为你们出力。",
+    "log_content": "The increased taxation from the King's Army posed challenges for Convallaria Trading Post's operations. However, Acambe suggested expanding business to Mornrays Castle to diversify revenue streams. Meanwhile, Cocoa applied to join the trading post, offering her assistance during this time of need.",
     "idsandbox_note": 0
   },
   {
@@ -44592,7 +44592,7 @@
   },
   {
     "id": 2269001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [15],
     "idsandbox_event": 2269,
     "result_id": 1,
     "editor_name": "",
@@ -44672,7 +44672,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "倒吊人指挥官索菲亚主动拜访了你，希望能与铃兰商会缓解先前的紧张关系。同时，一位拥有“爱国商人”名号的经商者卡达尔为铃兰商会提供了支持，向你介绍了暮光城生意的门路。",
+    "log_content": "The H. M. Commander, Safiyyah, paid you a visit, seeking to ease tensions with the Convallaria Trading Post. Meanwhile, the renowned \"patriotic merchant,\" Kadar, extended support to the trading post, introducing avenues for business in Lightgloam City.",
     "idsandbox_note": 0
   },
   {
@@ -45114,7 +45114,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "你与伊南娜拟定了晶石贸易策略，目标在于降低先遣骑士团发动进攻的意愿，以及打破法皇国垄断晶石的计划。迪塔利奥知悉后给予了你们一定支持。",
+    "log_content": "You and Inanna devised a Luxite trade strategy aimed at reducing the Advance Order's willingness to launch attacks and breaking the Papal States' Luxite monopoly. Upon learning of this plan, Dantalion provided significant support for your cause.",
     "idsandbox_note": 0
   },
   {
@@ -45199,7 +45199,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "为了揭发卡达尔的阴谋，阿坎贝鼓起勇气公开忏悔了自己过往的罪行，法皇国企图插手伊利亚局势的意图随之破灭。同时，骑士同盟和王国军也被迫停火参与调查，十字路要塞暂时进入中立状态，伊南娜将主持各方势力的新一轮和谈。",
+    "log_content": "In a bold move to expose Kadar's scheme, Acambe courageously confessed her past misdeeds, shattering the Papal States' attempt to intervene in the Iria situation. Meanwhile, the Union and King's Army were compelled to cease fire and join the investigation, leading to a temporary neutral state at Crossroads Keep. Inanna will preside over a new round of negotiations among the factions.",
     "idsandbox_note": 0
   },
   {
@@ -45323,7 +45323,7 @@
   },
   {
     "id": 2310001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [29],
     "idsandbox_event": 2310,
     "result_id": 1,
     "editor_name": "",
@@ -45403,7 +45403,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "各方势力正在和谈会议上起草贸易协定，伊南娜则建议你在这段时间内加快收集浪涌城事件的相关证据，以在谈判中争取优势。而得知了父母亲真相后的蔻蔻娜，内心陷入了强烈的矛盾。",
+    "log_content": "As various factions drafted trade agreements during the peace talks, Inanna suggested accelerating the collection of evidence related to the Waverun City incident to gain an advantage in negotiations. Meanwhile, Cocoa, grappling with the truth about her parents, found herself in a profound internal conflict.",
     "idsandbox_note": 0
   },
   {
@@ -45692,7 +45692,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "黑暗之光对小镇发动了大规模袭击，潮水般的敌人让你陷入了艰难的境况，在防线濒临溃败时，黑暗之光的进攻戛然而止——这归因于阿坎贝用动用了大量财力收买了费尔南多。",
+    "log_content": "Darklight launched a massive assault on the town, overwhelming you with a tide of enemies. As your defenses teetered on the brink of collapse, Darklight's attack abruptly halted—thanks to Acambe, who used considerable financial resources to bribe Fernando.",
     "idsandbox_note": 0
   },
   {
@@ -45726,7 +45726,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "有人试图再次制造浪涌城惨案的消息引爆了民众情绪。伊南娜在此时向世人宣布了自己仍然存活的真相，并决定公开讯问卡达尔。心虚的卡达尔企图袭击阿坎贝以销毁对自己的不利证据，但最终被你们识破并挫败。随后，卡达尔坦白了自己即为法皇国眼线的身份，以及当年亲自搅黄了矿工起义的事实。",
+    "log_content": "News of an attempt to recreate the tragedy of Waverun City ignited public outrage. Inanna seized the moment to announce her survival to the world and decided to publicly interrogate Kadar. Feeling cornered, Kadar attempted to attack Acambe to destroy incriminating evidence against himself, but his plot was uncovered and thwarted by you. Subsequently, Kadar confessed to being a spy for the Papal States and admitted to sabotaging the miner's uprising years ago.",
     "idsandbox_note": 0
   },
   {
@@ -45930,7 +45930,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在商会的生意蒸蒸日上之时，出现了一些倒买倒卖的投机商人与你们进行恶性竞争，更有甚者企图雇佣佣兵进行暴力干预。你联合了一些商人伙伴进行抗衡，经历了多次粮价的涨落后，市场最终被稳定下来。",
+    "log_content": "Amidst the thriving business at the trading post, some unscrupulous speculators engaged in cutthroat competition, resorting to underhanded tactics and even attempting to hire mercenaries for violent intervention. In response, you united with fellow merchants to counter their actions. After enduring several fluctuations in grain prices, the market finally stabilized.",
     "idsandbox_note": 0
   },
   {
@@ -46015,7 +46015,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "在前往埃拉曼的路途中，你的商队被沙漠风暴摧毁，而你也看到了自己运送货箱中的“货物”——一群活生生的人，而这笔高利润的生意竟是奴隶买卖，你立刻放走了他们。\n你只身继续前进，幸运地寻找到了一处清泉，并顺势救下了一位名叫露卡玛尔的溺水者。你最终成功抵达了拉比亚绿洲，这里存在着繁华的集市。虽然“货物”的丢失让你惹上了一些麻烦，但你也顺利卖掉了残存在手中的一些其他商品。此外，你还遇见了一位自称“万事通”并试图与你合作的奇怪家伙。",
+    "log_content": "Amidst your journey to Elaman, a desert tempest shattered your caravan, revealing a horrifying truth—living souls trapped in your cargo, victims of the slave trade. Appalled, you released them immediately.\nPressing on alone, you chanced upon a life-saving oasis and rescued a drowning person named Lukamar. Finally reaching Rabi'a Oasis, bustling with commerce, you navigated trouble from the lost cargo but managed to sell off the remaining goods. Along the way, you encountered an odd figure named Mr. Know-It-All, eager to strike a partnership.",
     "idsandbox_note": 0
   },
   {
@@ -46100,7 +46100,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰商会的贸易量开始逐渐恢复，矿坑城的晶石开采力也在逐步提升，鲁特菲因此倡议你开拓浪涌城的晶石市场。",
+    "log_content": "As Convallaria Trading Post's trade volume gradually recovered and Mine Pit's Luxite mining capacity increased, Lutfi proposed that you expand into Waverun City's Luxite trading market.",
     "idsandbox_note": 0
   },
   {
@@ -46134,7 +46134,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "铃兰商会在浪涌城的贸易中大赚了一笔，但商队在归途时遭到了王国军的阻拦，王国军认为你与骑士同盟密切的贸易往来存在出卖国家利益的嫌疑，当王国军准备扣押你的货物时，歌洛莉亚和泰登替出面你解了围。即便如此，伊南娜更加怀疑歌洛莉亚的好意背后另有企图，而歌洛莉亚对此表示，她只是想帮助需要帮助的人，前来伊利亚的目的也是为了查出浪涌城事件的真相。",
+    "log_content": "Convallaria Trading Post made a fortune in Waverun City's trade, but on the return journey, the caravan was intercepted by the King's Army. They suspected your close trade ties with the Union were betraying national interests. Just as the King's Army prepared to confiscate your goods, Gloria and Teadon stepped in to resolve the situation. Despite their intervention, Inanna became more suspicious of Gloria's intentions, while Gloria maintained that she only wanted to help those in need and came to Iria only to uncover the truth behind the Waverun City incident.",
     "idsandbox_note": 0
   },
   {
@@ -46542,7 +46542,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "鲁特菲与你进行了一次秘密会谈，他向你坦言：奥古斯特于他有弑母之仇，所以他想要获得你的协助，共同扳倒奥古斯特。并且，鲁特菲手上也掌握住了先遣骑士团谋划浪涌城事件的证据。",
+    "log_content": "In a covert rendezvous, Lutfi confided in you: he held a grudge against Auguste for murdering his mother. Seeking your aid, he proposed a partnership to topple Auguste. Additionally, Lutfi held evidence implicating the Advance Order in the Waverun City incident.",
     "idsandbox_note": 0
   },
   {
@@ -46780,7 +46780,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "随着军备物资的供应减少，骑士同盟和王国军双双被迫停战。而铃兰商会在此时被指控作假，即将面临审讯以及被取消营商资格的危险。最终，霍玛替你揽下了所有的责任，并承担了被驱逐出伊利亚的惩罚。",
+    "log_content": "As the supply of military resources dwindled, both the Union and the King's Army were forced into a ceasefire. Meanwhile, Convallaria Trading Post was accused of fraud and faced interrogation and the risk of having its business license revoked. Ultimately, Homa took full responsibility on your behalf and bore the punishment of being expelled from Iria.",
     "idsandbox_note": 0
   },
   {
@@ -47074,7 +47074,7 @@
   },
   {
     "id": 2402001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [15],
     "idsandbox_event": 2402,
     "result_id": 1,
     "editor_name": "",
@@ -47346,7 +47346,7 @@
   },
   {
     "id": 2416001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [29],
     "idsandbox_event": 2416,
     "result_id": 1,
     "editor_name": "",
@@ -48400,7 +48400,7 @@
   },
   {
     "id": 2471001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [33],
     "idsandbox_event": 2471,
     "result_id": 1,
     "editor_name": "",
@@ -48434,7 +48434,7 @@
   },
   {
     "id": 2472001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [15],
     "idsandbox_event": 2472,
     "result_id": 1,
     "editor_name": "",
@@ -49279,7 +49279,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "“罗迪尼亚贸易组织”很快会在和谈会议后正式成立，世界的新秩序也将在其规则下重新建立。",
+    "log_content": "The \"Rodinia Trade Organization\" is set to formalize soon after the peace talks, heralding a new world order under its auspices.",
     "idsandbox_note": 0
   },
   {
@@ -49296,7 +49296,7 @@
     "event_battle_id": 0,
     "enable_log": true,
     "enable_log_scenario": false,
-    "log_content": "“罗迪尼亚贸易组织”很快会在和谈会议后正式成立，世界的新秩序也将在其规则下重新建立。",
+    "log_content": "The \"Rodinia Trade Organization\" is set to formalize soon after the peace talks, heralding a new world order under its auspices.",
     "idsandbox_note": 0
   },
   {
@@ -49335,7 +49335,7 @@
   },
   {
     "id": 2517001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [33],
     "idsandbox_event": 2517,
     "result_id": 1,
     "editor_name": "",
@@ -49590,7 +49590,7 @@
   },
   {
     "id": 2529001,
-    "m_sandbox_event_consumes": [],
+    "m_sandbox_event_consumes": [33],
     "idsandbox_event": 2529,
     "result_id": 1,
     "editor_name": "",

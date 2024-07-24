@@ -2,42 +2,42 @@
   {
     "id": 1,
     "type": "normal",
-    "name": "普通主题",
+    "name": "Regular theme",
     "desc": "默认主题家具",
     "icon": ""
   },
   {
     "id": 2,
     "type": "newyear",
-    "name": "新春主题",
+    "name": "Spring Festival theme",
     "desc": "新春限时出售主题家具",
     "icon": ""
   },
   {
     "id": 3,
     "type": "halloween",
-    "name": "万圣节主题",
+    "name": "Halloween theme",
     "desc": "万圣节限时出售主题家具",
     "icon": ""
   },
   {
     "id": 4,
     "type": "elysiumInitial",
-    "name": "乐土初始家具",
+    "name": "Elysium initial furniture",
     "desc": "乐土初始家具",
     "icon": ""
   },
   {
     "id": 5,
     "type": "socDefault",
-    "name": "铃兰小镇",
+    "name": "Initial",
     "desc": "铃兰小镇",
     "icon": ""
   },
   {
     "id": 6,
     "type": "special",
-    "name": "特别纪念",
+    "name": "Special",
     "desc": "特别纪念",
     "icon": ""
   }

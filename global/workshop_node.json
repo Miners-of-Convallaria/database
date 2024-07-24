@@ -1,314 +1,314 @@
 [
   {
     "id": 1,
-    "m_workshop_node_levels": [],
-    "name": "诸神黄昏",
+    "m_workshop_node_levels": [1, 2, 3, 4, 5, 6, 7],
+    "name": "Ragnarok",
     "editor_name": "投石机准备_超级_限定2",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 3,
     "icon": "",
-    "tag": "高级战术"
+    "tag": "Advanced"
   },
   {
     "id": 2,
-    "m_workshop_node_levels": [],
-    "name": "生命礼赞",
+    "m_workshop_node_levels": [8, 9, 10, 11, 12, 13, 14],
+    "name": "Hymn of Life",
     "editor_name": "军队盛宴_超级_限定1",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 3,
     "icon": "",
-    "tag": "高级战术"
+    "tag": "Advanced"
   },
   {
     "id": 3,
-    "m_workshop_node_levels": [],
-    "name": "英雄无敌",
+    "m_workshop_node_levels": [15, 16, 17, 18, 19, 20, 21],
+    "name": "Invincible Hero",
     "editor_name": "坚守命令_超级_限定2",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 3,
     "icon": "",
-    "tag": "高级战术"
+    "tag": "Advanced"
   },
   {
     "id": 4,
-    "m_workshop_node_levels": [],
-    "name": "决战号角",
+    "m_workshop_node_levels": [22, 23, 24, 25, 26, 27, 28],
+    "name": "War Horn",
     "editor_name": "集火命令_中级",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 5,
-    "m_workshop_node_levels": [],
-    "name": "天降神兵",
+    "m_workshop_node_levels": [29, 30, 31, 32, 33, 34, 35],
+    "name": "Divine Weapon",
     "editor_name": "佣兵召唤_超级_限定2",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 3,
     "icon": "",
-    "tag": "高级战术"
+    "tag": "Advanced"
   },
   {
     "id": 6,
-    "m_workshop_node_levels": [],
-    "name": "铃兰旗帜",
+    "m_workshop_node_levels": [36, 37, 38, 39, 40, 41, 42],
+    "name": "Flag of Convallaria",
     "editor_name": "铃兰旗帜_超级_限定2",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 3,
     "icon": "",
-    "tag": "高级战术"
+    "tag": "Advanced"
   },
   {
     "id": 8,
-    "m_workshop_node_levels": [],
-    "name": "火焰雨",
+    "m_workshop_node_levels": [50, 51, 52, 53, 54, 55, 56],
+    "name": "Rain of Flame",
     "editor_name": "火箭发射_中级_限定1",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 9,
-    "m_workshop_node_levels": [],
-    "name": "行军号令",
+    "m_workshop_node_levels": [57, 58, 59, 60, 61, 62, 63],
+    "name": "March Command",
     "editor_name": "急行军_中级_限定1",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 11,
-    "m_workshop_node_levels": [],
-    "name": "召唤爆炸桶",
+    "m_workshop_node_levels": [71, 72, 73, 74, 75, 76, 77],
+    "name": "Summon Explosive Barrel",
     "editor_name": "放置炸药_中级",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 12,
-    "m_workshop_node_levels": [],
-    "name": "攻击号令",
+    "m_workshop_node_levels": [78, 79, 80, 81, 82, 83, 84],
+    "name": "Attack Order",
     "editor_name": "战前动员_中级",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 13,
-    "m_workshop_node_levels": [],
-    "name": "雷击",
+    "m_workshop_node_levels": [85, 86, 87, 88, 89, 90, 91],
+    "name": "Thunderstruck",
     "editor_name": "狙击支援_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   },
   {
     "id": 14,
-    "m_workshop_node_levels": [],
-    "name": "加急指令",
+    "m_workshop_node_levels": [92, 93, 94, 95, 96, 97, 98],
+    "name": "Urgent Order",
     "editor_name": "加急命令_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   },
   {
     "id": 15,
-    "m_workshop_node_levels": [],
-    "name": "机动指令",
+    "m_workshop_node_levels": [99, 100, 101, 102, 103, 104, 105],
+    "name": "Maneuver Command",
     "editor_name": "奇袭战术_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   },
   {
     "id": 16,
-    "m_workshop_node_levels": [],
-    "name": "奇袭指令",
+    "m_workshop_node_levels": [106, 107, 108, 109, 110, 111, 112],
+    "name": "Raid Order",
     "editor_name": "告知弱点_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   },
   {
     "id": 18,
-    "m_workshop_node_levels": [],
-    "name": "布置守卫假人",
+    "m_workshop_node_levels": [120, 121, 122, 123, 124, 125, 126],
+    "name": "Guarding Dummy Deployment",
     "editor_name": "稻草人_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   },
   {
     "id": 19,
-    "m_workshop_node_levels": [],
-    "name": "初始战术点提升",
+    "m_workshop_node_levels": [127, 128, 129, 130, 131, 132, 133, 134, 135, 136],
+    "name": "Increase Initial TP",
     "editor_name": "战术点初始提升",
     "type": 1,
     "content_type": 2,
     "weight": 1,
     "category": 4,
     "icon": "online_tech_004",
-    "tag": "战术天赋"
+    "tag": "Tactical Talent"
   },
   {
     "id": 21,
-    "m_workshop_node_levels": [],
-    "name": "战术点上限提升",
+    "m_workshop_node_levels": [137, 138, 139, 140, 141, 142, 143, 144, 145, 146],
+    "name": "Increase Max TP",
     "editor_name": "战术点上限提升",
     "type": 1,
     "content_type": 2,
     "weight": 1,
     "category": 4,
     "icon": "online_tech_023",
-    "tag": "战术天赋"
+    "tag": "Tactical Talent"
   },
   {
     "id": 22,
-    "m_workshop_node_levels": [],
-    "name": "战术点回复提升",
+    "m_workshop_node_levels": [147, 148, 149, 150, 151, 152, 153, 154, 155, 156],
+    "name": "Increase TP Recovery",
     "editor_name": "战术点回复提升",
     "type": 1,
     "content_type": 2,
     "weight": 1,
     "category": 4,
     "icon": "online_tech_003",
-    "tag": "战术天赋"
+    "tag": "Tactical Talent"
   },
   {
     "id": 23,
-    "m_workshop_node_levels": [],
-    "name": "高级战术点储备强化",
+    "m_workshop_node_levels": [157, 158, 159, 160, 161],
+    "name": "Enhance Advanced TP Reserve",
     "editor_name": "战术点储备强化（王国军限定）",
     "type": 2,
     "content_type": 2,
     "weight": 1,
     "category": 4,
     "icon": "online_tech_001",
-    "tag": "战术天赋"
+    "tag": "Tactical Talent"
   },
   {
     "id": 24,
-    "m_workshop_node_levels": [],
-    "name": "高级战术点回复强化",
+    "m_workshop_node_levels": [162, 163, 164, 165, 166],
+    "name": "Enhance Advanced TP Recovery",
     "editor_name": "战术点回复强化（王国军限定）",
     "type": 2,
     "content_type": 2,
     "weight": 1,
     "category": 4,
     "icon": "online_tech_003",
-    "tag": "战术天赋"
+    "tag": "Tactical Talent"
   },
   {
     "id": 25,
-    "m_workshop_node_levels": [],
-    "name": "安魂曲",
+    "m_workshop_node_levels": [167, 168, 169, 170, 171, 172, 173],
+    "name": "Requiem",
     "editor_name": "伪报_中级_限定1",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 26,
-    "m_workshop_node_levels": [],
-    "name": "追击指令",
+    "m_workshop_node_levels": [174, 175, 176, 177, 178, 179, 180],
+    "name": "Pursuit Order",
     "editor_name": "乘胜追击_中级_限定1",
     "type": 2,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 27,
-    "m_workshop_node_levels": [],
-    "name": "防御号令",
+    "m_workshop_node_levels": [181, 182, 183, 184, 185, 186, 187],
+    "name": "Defense Order",
     "editor_name": "防御号令_中级",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 2,
     "icon": "",
-    "tag": "中级战术"
+    "tag": "Intermediate"
   },
   {
     "id": 28,
-    "m_workshop_node_levels": [],
-    "name": "战术会议",
+    "m_workshop_node_levels": [188, 189, 190, 191, 192, 193, 194],
+    "name": "Tactical Meeting",
     "editor_name": "战术会议_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   },
   {
     "id": 29,
-    "m_workshop_node_levels": [],
-    "name": "布置陷阱",
+    "m_workshop_node_levels": [195, 196, 197, 198, 199, 200, 201],
+    "name": "Trap Placing",
     "editor_name": "布置陷阱_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   },
   {
     "id": 30,
-    "m_workshop_node_levels": [],
-    "name": "和风守护",
+    "m_workshop_node_levels": [202, 203, 204, 205, 206, 207, 208],
+    "name": "Zephyr Guard",
     "editor_name": "和风守护_普通",
     "type": 1,
     "content_type": 1,
     "weight": 1,
     "category": 1,
     "icon": "",
-    "tag": "普通战术"
+    "tag": "Common"
   }
 ]

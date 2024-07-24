@@ -7,1066 +7,1280 @@
     "bg_texture": "",
     "idintelligence_group": 1,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 1
   },
   {
     "id": 13,
-    "name": "伊利亚王国",
+    "name": "Kingdom of Iria",
     "editor_name": "0001-百科-伊利亚王国",
-    "manifest_content": "伊利亚王国有着悠久的历史，地处大陆西侧，南部东部与多个大国接壤，西部北部靠海，航运发达。\n数年前，国王患病修养，目前的实际统治者是第一王子迪塔利奥。\n因发现了大量的晶石矿藏，各个国家纷纷开始试图干涉伊利亚的内务，使其成为了漩涡的中心。",
+    "manifest_content": "The Kingdom of Iria has a long history. Located on the western part of the continent, it borders multiple large countries to the east and south and is near the sea to the west and north, which makes it a transportation hub. Several years ago, the king fell ill and began to convalesce. Since then, Prince Dantalion has been the actual ruler. Due to the discovery of large Luxite deposits, various countries started attempting to interfere with Iria's internal affairs, turning it into the center of a maelstrom.",
     "bg_texture": "event_iriamap",
     "idintelligence_group": 3,
     "group_priority": 20,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 14,
-    "name": "伊利亚的历史",
+    "name": "Iria's History",
     "editor_name": "0002.百科-伊利亚的历史",
-    "manifest_content": "伊利亚历史分为三个时期。\n古伊利亚是一个由“十三贤人”制度统治的富足国度，但毁于埃拉曼帝国的征服。\n第二次光辉之战后，伊利亚从埃拉曼脱离，成为罗迪尼亚法皇国的附庸国，称为“伊利亚邦国”。\n晶石矿脉发现后，伊利亚邦国的冷酷统治被现任国王法里斯推翻，建立了现在的伊利亚王国。",
+    "manifest_content": "Iria's history is divided into three periods. Ancient Iria once was a prosperous kingdom ruled by the \"Thirteen Sages\" system, but then it was destroyed by the conquest of the Elaman Empire. After the Radiant War II, Iria separated from Elaman and became a vassal state of the Papal States of Rodinia, known as the \"State of Iria\". After the discovery of Luxite lodes, the current King Faris overthrew the ruthless rule of the State of Iria and established the present-day Kingdom of Iria.",
     "bg_texture": "event_iriamap",
     "idintelligence_group": 3,
     "group_priority": 19,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 15,
-    "name": "拉维耶",
+    "name": "Rawiyah",
     "editor_name": "0003.百科-拉维耶",
-    "manifest_content": "小镇佣兵团的领导者和总教官，平时总是一副吊儿郎当的样子，嗜酒如命。但其实很有正义感，是个热心肠的女人。\n并不是本地人，多年前来到小镇定居，并组建了佣兵团保护着小镇，受到镇民和佣兵们的爱戴与支持。\n精通各种武器和小队战术的强大战士，见识广阔，绝非一般流浪者，但本人对过去的经历绝口不提。",
+    "manifest_content": "She is the Leader and Chief Instructor of the Mercenary Group in the town, who usually appears carefree and is addicted to drinking. However, she is actually very righteous and warm-hearted. She is not a native of the town. Many years ago, she settled down here and formed a mercenary group to protect the town. She is beloved and supported by both the townspeople and the mercenaries. She is a powerful warrior skilled in various weapons and squad tactics. With a broad range of knowledge, she is not an ordinary wanderer. However, she remains tight-lipped about her experiences.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 3,
     "group_priority": 18,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 16,
-    "name": "铃兰小镇",
+    "name": "The Town of Convallaria",
     "editor_name": "0004.百科-铃兰小镇",
-    "manifest_content": "王国交通要冲，“十字路”西侧的小镇，起初是一片供来往商队休息的平地，随着贸易的发达，逐渐形成了一个具备各种功能的小镇。\n因镇南长满了铃兰花的“铃兰之丘”而得名，一度汇集了大量来往的客商，日益繁荣。\n国王称病，第一王子迪塔利奥掌权后，随着伊利亚局势逐渐动荡，略有衰落。\n内战爆发前有千人左右的规模，成立了佣兵团“铃兰之剑”以对付野兽和强盗。",
+    "manifest_content": "It is a crucial transportation hub of the kingdom. Located to the west of the \"Crossroads,\" the town was initially a flat land for caravans to rest. With the development of trade, it gradually evolved into a multifunctional town with various amenities. The town was named after the \"Hill of Convallaria\" to the south, which is covered with blooming Convallaria. It once attracted a mass of travelling merchants and became increasingly prosperous. After the king fell ill and Prince Dantalion took over the kingdom, the situation in Iria gradually became unstable, leading to a slight decline in the town's prosperity. Before the outbreak of the civil war, the town had a population of around a thousand and even established a mercenary group, the \"Sword of Convallaria\", to combat against beasts and bandits.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 3,
     "group_priority": 17,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 17,
-    "name": "铃兰之丘",
+    "name": "The Hill of Convallaria",
     "editor_name": "0005.百科-铃兰之丘",
-    "manifest_content": "小镇南部的小山丘，可以俯瞰整个小镇，因为长满了铃兰花，因此被称为“铃兰之丘”。\n因为可以在这里登高远眺，顺着商路远远地看到离去或归来的亲友，因此小镇的居民们形成了“凡有亲友远行，会在铃兰之丘为其祈福”的习俗。\n山丘上有一所废弃数年的庇护之光庇护所。",
+    "manifest_content": "It is a small hill to the south of the town which overlooks the entire area. It is covered with Convallaria, earning it the name of the \"Hill of Convallaria.\" As the hill provides a panoramic view of the surrounding area, people can see their loved ones departing or returning along the trade route. Thus, the townspeople have formed a tradition of \"praying for the safety of their loved ones on the Hill of Convallaria whenever they depart on a journey.\" There is an abandoned sanctuary, the Light of Sanctuary, on the hill that has been unused for years.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 3,
     "group_priority": 16,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 18,
-    "name": "铃兰之剑佣兵团",
+    "name": "Sword of Convallaria Mercenary Group",
     "editor_name": "0006.百科-铃兰之剑佣兵团",
-    "manifest_content": "最近几年，由小镇的居民委托拉维耶牵头成立的佣兵团，以“铃兰之剑”命名。\n早年间，商路繁荣，来往的商队护卫保证了小镇的安定，但随着商路逐渐凋敝和山贼的滋生，保卫小镇成为了迫切的需求。\n因此“铃兰之剑”就成了小镇和平稳定的最大依靠。",
+    "manifest_content": "It is a mercenary group which was formed under the leadership of Rawiyah in recent years as entrusted by the townspeople and was named after the \"Sword of Convallaria.\" \nIn earlier times, as the trade route was prosperous, the escorts of the caravans ensured the stability of the town. However, as the trade route gradually declined and bandits proliferated, the defense of the town became an urgent need. \nTherefore, the \"Sword of Convallaria\" became the greatest reliance for the peace and stability of the town.",
     "bg_texture": "event_letter",
     "idintelligence_group": 3,
     "group_priority": 15,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 19,
-    "name": "浪涌城",
+    "name": "Waverun City",
     "editor_name": "0007.百科-港都",
-    "manifest_content": "浪涌城浪涌城，位于王国西北部，伊利亚河入海口的港口都市，是伊利亚王国最重要的港口。因为近十年的晶石海洋贸易路线而快速发展，是伊利亚最富裕的城市。\n因为晶石贸易，催生出了大量的商人与新兴阶层，也导致了较大的贫富差距。",
+    "manifest_content": "It is a seaport located in the northwest of the kingdom and at the estuary of the Iria River and the most important harbor of the Kingdom of Iria. Furthermore, it has rapidly developed due to the Luxite maritime trade route in the past decade and is the wealthiest city in Iria. The Luxite trade has given rise to a large number of merchants and emerging social classes, but it has also resulted in a significant wealth gap.",
     "bg_texture": "event_vendor",
     "idintelligence_group": 3,
     "group_priority": 14,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 20,
-    "name": "浪涌城悲剧",
+    "name": "Waverun City Tragedy",
     "editor_name": "0008.事件-港都惨案",
-    "manifest_content": "在浪涌城由巡游演变而来的暴动，导致了包括妇女儿童在内的数千人的死伤，这场灾难引起了全世界的关注。\n各方对于事件的起因各执一词，相互指责，罗迪尼亚法皇国和骑士诸国同盟有较大嫌疑，但王国军“自导自演”的声音也不绝于耳。\n冲突中，前往调停的伊南娜王女也被囚禁，并遭到了残忍的处决，但也有传闻声称牺牲掉的只是一个替身。",
+    "manifest_content": "It is a riot that originated from a parade in Waverun City and resulted in the casualties of thousands of people, including women and children. This disaster then was in the world's spotlight. Different parties held different views on the cause of the incident, blaming each other. The Papal States of Rodinia and the Union of Knight States were suspected to be involved, but there were also voices claiming that the King's Army staged the incident themselves. During the conflict, Princess Inanna, who went to mediate, was imprisoned and subjected to a cruel execution. However, there were also rumors claiming that the one who was sacrificed was only a body double.",
     "bg_texture": "event_ruins",
     "idintelligence_group": 4,
     "group_priority": 10,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 4
   },
   {
     "id": 21,
-    "name": "庇护日",
+    "name": "Sanctuary Day",
     "editor_name": "0009.百科-圣祈日",
-    "manifest_content": "庇护之光的传统节日，在罗迪尼亚法皇国统治的时期被带到伊利亚，是整个伊利亚最大规模的节日庆典。\n以往，庇护日期间，居民会走上街头载歌载舞，还有装饰繁杂的花车进行巡游，许多民俗，小吃和商品都只在庇护日期间才能见到。\n但今年，因为紧张的局势，庇护日的气氛逐渐变得微妙起来。",
+    "manifest_content": "It is a traditional festival of the \"Light of Sanctuary\" which was brought to Iria during the reign of the Papal States of Rodinia. It has become the biggest festival celebration in Iria. During the festival, the townspeople used to take to the streets for singing and dancing, while intricately decorated floats paraded through the town. Many folk customs, snacks, and goods were only available during the festival. However, this year, due to the tense situation, the atmosphere of the Sanctuary Day has gradually become delicate and sensitive.",
     "bg_texture": "event_portcity",
     "idintelligence_group": 3,
     "group_priority": 13,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 22,
-    "name": "难民潮",
+    "name": "Wave of Refugees",
     "editor_name": "0010.事件-难民潮",
-    "manifest_content": "随着冲突规模的扩大，大量民众为躲避危险逃离家园，沦为难民，他们中的大部分正在向着晨曦堡前进，以求得到庇护。",
+    "manifest_content": "With the conflict escalating in scale, many civilians have become refugees fleeing their homes in search of safety. Most of them are now heading towards the Mornrays Castle for refuge.",
     "bg_texture": "event_refugees",
     "idintelligence_group": 4,
     "group_priority": 9,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 4
   },
   {
     "id": 24,
-    "name": "法卡尔",
+    "name": "Faycal",
     "editor_name": "0012.伊利亚王国-法卡尔",
-    "manifest_content": "阴郁倔强，缺乏安全感的佣兵少年。\n外地逃难来的孤儿，尽管得到了镇民和拉维耶的帮助，但逃难的经历在他心中留下了难以磨灭的痛苦。\n对人充满了防备之心，不会轻易相信别人。\n只要能够活下去，能够保护大家，什么代价都愿意付出。\n性格不太好，不太会说话。",
+    "manifest_content": "He is a mercenary boy who is gloomy and stubborn and lacks a sense of security. \nHe is an orphan who fled from another place and has received help from the townspeople and Rawiyah. However, the experience of fleeing has left an indelible pain in his heart, \nmaking him full of mistrust towards people and unable to easily trust others. He is willing to pay any price as long as he can survive and protect everyone. He has a difficult personality and is not very talkative.",
     "bg_texture": "event_letter",
     "idintelligence_group": 5,
     "group_priority": 10,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 25,
-    "name": "麦莎",
+    "name": "Maitha",
     "editor_name": "0013.伊利亚王国-麦莎",
-    "manifest_content": "善良活泼，大大咧咧的佣兵少女。\n外地逃难来的孤儿，在镇民和拉维耶的帮助下才健康长大。\n为人乐观坚强，永不放弃。\n富有正义感和同情心，愿望是保护家人、保护小镇、保护所有人。",
+    "manifest_content": "She is a kind and lively mercenary girl who is carefree and easygoing. \nShe is an orphan who fled from another place and grew up healthily with the help of the townspeople and Rawiyah. \nShe is optimistic and strong-willed and never gives up. \nFull of justice and compassion, she desires to protect her family, the town, and everyone around her.",
     "bg_texture": "event_letter",
     "idintelligence_group": 5,
     "group_priority": 9,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 26,
-    "name": "内战的爆发",
+    "name": "Outbreak of the Civil War",
     "editor_name": "0014.百科-内战的爆发",
-    "manifest_content": "光辉历999年3月的浪涌城悲剧后，一部分商人和贵族宣布不再承认伊利亚王国王室的合法性，组成“浪涌军”，意图推翻当局的统治。\n在浪涌城事件数周后，伊利亚的实际统治者，第一王子迪塔利奥在王女伊南娜的葬礼上发表了公开讲话，表明伊利亚王室绝不向残暴的反叛者妥协，将出兵平定叛乱，为死难者与王女雪耻。\n至此，伊利亚内战彻底爆发。",
+    "manifest_content": "After the Waverun City tragedy in March of the year 999 of the Radiant Calendar, some merchants and nobles declared that they no longer recognized the legitimacy of the royal family of the Kingdom of Iria and formed the \"Waverun Legion\" with the intention of overthrowing the ruling authority. \nA few weeks after the Waverun City incident, the actual ruler of Iria — Prince Dantalion — delivered a public speech at the funeral of Princess Inanna, stating that the Iria's royal family would never compromise with the cruel rebels and would send troops to quell the rebellion, seeking revenge for the victims and the Princess. \nFrom that moment on, the civil war in Iria broke out completely.",
     "bg_texture": "event_war",
     "idintelligence_group": 3,
     "group_priority": 12,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 27,
-    "name": "伊利亚的矛盾",
+    "name": "Conflicts in Iria",
     "editor_name": "0015.伊利亚王国-伊利亚的矛盾",
-    "manifest_content": "伊利亚境内有大量不同的文化，民族与种族，长久的历史孕育了大量不同背景，阶级和文化的矛盾主体。\n近几年，主要的矛盾集中在对于晶石利益的分配和文化冲突上。\n晶石贸易产生了大量财富，孕育了新贵族和商人，但因为分配不均，民众生活却并未改善。\n此外，信奉正统庇护之光的底层伊利亚民众，与晶石贸易带来的庇护派信众，也有较大的矛盾。",
+    "manifest_content": "Iria is home to different cultures, ethnicities, and races. Its long history has given birth to a multitude of conflicts based on different backgrounds, classes, and cultures. In recent years, the main conflicts have focused on the distribution of Luxite resources and cultural clashes. The Luxite trade has generated a vast amount of wealth, creating new aristocrats and merchants. However, due to unequal distribution, the lives of the common people have not improved. In addition, there is also a significant conflict between the lower-class citizens who embrace the orthodox Light of Sanctuary and the believers of the Light of Protection brought from the Luxite trade.",
     "bg_texture": "event_iriamap",
     "idintelligence_group": 5,
     "group_priority": 8,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 28,
-    "name": "骑士团建立安全区",
+    "name": "Safe Zone Established by the Order",
     "editor_name": "0016.事件-骑士团建立安全区",
-    "manifest_content": "强大的外国势力，骑士诸国同盟近日以调停人的身份高调介入伊利亚局势，并以维护评议会在伊利亚的利益为名，派出特遣骑士团。\n评议会呼吁各方停火，并在北部设立非交战区保护侨民。\n一些战斗力强大的骑士以调查浪涌城事件真相为名开始在伊利亚活跃。\n由于拒绝王国军通过安全区平叛，北部的王国军不得不停止进军。",
+    "manifest_content": "Recently, the Union of Knight States, a mighty foreign force, has intervened in the situation of Iria as a mediator and dispatched the Advance Order to uphold the interests of the Council of Knights in Iria. The Council of Knights called for a ceasefire and established a non-combat zone in the north to protect the refugees. A group of powerful knights also became active in Iria under the pretext of investigating the truth behind the Waverun City incident. The northern King's Army had to stop their progress to suppress the rebellion because the safe zone refused to let them pass through.",
     "bg_texture": "event_knights",
     "idintelligence_group": 4,
     "group_priority": 8,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 4
   },
   {
     "id": 29,
-    "name": "罗迪尼亚法皇国的干涉",
+    "name": "Interference of the Papal States of Rodinia",
     "editor_name": "0017.事件-教皇国的干涉",
-    "manifest_content": "在如今的伊利亚王国之前，伊利亚是受罗迪尼亚法皇国控制的附庸国。\n现今的伊利亚国王法里斯推翻了罗迪尼亚法皇国控制的“伊利亚邦国”，争取到了伊利亚的自治，但罗迪尼亚法皇国一直对此事耿耿于怀，并对前傀儡王室提供庇护。\n显然，他们此时出兵控制暮光城，是对伊利亚王国的报复，而他们的报复不会就此结束。",
+    "manifest_content": "Iria was a vassal state of the Papal States of Rodinia before its autonomy. Faris, the current King of Iria, overthrew the \"State of Iria\" controlled by the Papal States of Rodinia and won autonomy for Iria. However, the Papal States of Rodinia has always held a grudge over this matter and provided refuge for the former puppet royal family. Apparently, their current invasion of Lightgloam City is a retaliation against the Kingdom of Iria, and their retaliation is unlikely to end there.",
     "bg_texture": "event_conspiracy",
     "idintelligence_group": 4,
     "group_priority": 7,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 4
   },
   {
     "id": 30,
-    "name": "王国军反攻",
+    "name": "Counterattack of the King's Army",
     "editor_name": "0018.事件-政府军反攻",
-    "manifest_content": "王国军在第一王子迪塔利奥的率领下，正分多路向浪涌城挺进。\n不论是士气还是装备，仓促组织起来的浪涌军似乎都不是对手。\n但王国军漫长的补给线将会是一个软肋，如果补给遭到频繁袭击，那么很可能功亏一篑。",
+    "manifest_content": "Under the leadership of Prince Dantalion, the King's Army is marching towards Waverun City from multiple directions. \nThe hastily organized Waverun Legion seems to be no match for the King's Army, neither in morale nor in equipment. However, the long supply line of the King's Army may be a vulnerability. If their supply is frequently attacked, they may suffer a major setback.",
     "bg_texture": "event_war",
     "idintelligence_group": 4,
     "group_priority": 6,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 4
   },
   {
     "id": 31,
-    "name": "泥潭中的王国军",
+    "name": "King's Army in Trouble",
     "editor_name": "0019.事件-泥潭中的政府军",
-    "manifest_content": "由于补给线频繁遭到毁灭式袭击，王国军已经缺少粮食，陷入泥潭。而这正是骑士团的杰作。\n有人目击到训练有素而强大的先遣骑士团骑士们摧枯拉朽地突破了营地，毁灭了整个补给站。\n看来骑士团并没有“恪守中立”，他们已经半公开的介入了这场内战。\n另一方面，罗迪尼亚法皇国在暮光城组织的复国军，也严重威胁着王国军的侧翼。\n王国军已经逐渐陷入泥潭之中，寸步难行。",
+    "manifest_content": "Due to the frequent devastating attacks on their supply line, the King's Army has run out of food and is now stuck in a quagmire, which is precisely the strategy of the Order. Some witnesses reported that the well-trained and powerful Advance Order broke through the camp and destroyed the entire supply station with ease. It appears that the Order have not been \"neutral\" as they claimed, as they have semi-publicly intervened in the civil war. \nAt the same time, the Restoration Army organized by the Papal States of Rodinia in Lightgloam City also poses a serious threat to the flank of the King's Army. \nThe King's Army is in such trouble that it is unable to make any progress.",
     "bg_texture": "event_iriariver",
     "idintelligence_group": 4,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 4
   },
   {
     "id": 32,
-    "name": "佣兵行会",
+    "name": "Mercenary Guild",
     "editor_name": "0020.百科-佣兵行会",
-    "manifest_content": "全称“佣兵产业联盟委员会”，他们评定的佣兵团等级在所有大陆上都有较高的效力。\n本质上是一个佣兵任务平台，通过抽成的方式维持运作，但也有传闻说如果付出重金可以从佣兵行会获取佣兵团的情报，但行会一直保持否认。\n情报能力很强，稍微崭露头角的佣兵团都会被他们邀请进行评级，纳入平台之中。",
+    "manifest_content": "Its full name is the \"Council of Mercenary Group Industrial Alliance\", and the mercenary group ranks it evaluates have a high level of effectiveness across all continents. Essentially, it is a platform for mercenary quests that operates by taking a commission. However, there are rumors that valuable information about mercenary groups can be obtained from the Mercenary Guild by paying a large sum of money, but it has consistently denied these claims. It has a strong intelligence-gathering ability, and even slightly prominent mercenary groups are invited by it to be evaluated and included in the platform.",
     "bg_texture": "event_letter",
     "idintelligence_group": 3,
     "group_priority": 11,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 33,
-    "name": "十字路",
+    "name": "Crossroads",
     "editor_name": "0021.百科-十字路口",
-    "manifest_content": "伊利亚王国有两条重要的主要道路，分别从南北，东西贯通整个国家，两条道路在伊利亚的中心地带的交汇处，被称为“十字路”，是非常重要的交通枢纽。 \n两条主干道东接沙漠商路通往埃拉曼帝国，西至港口都市浪涌城，南经暮光城通往罗迪尼亚法皇国，北至晨曦堡。 \n十字路有着重要的军事堡垒，保障商路畅通，也是历次伊利亚地区战争的必争之地。",
+    "manifest_content": "There are two important main roads in the Kingdom of Iria that run from north to south and from east to west respectively across the entire country. The intersection of these two roads in the central region of Iria is known as the \"Crossroads\" and is a vital transportation hub. The two main roads connect to the desert trade route leading to the Elaman Empire in the east and to the port city of Waverun City in the west. The roads go south through Lightgloam City to the Papal States of Rodinia and go north to the Mornrays Castle. The Crossroads also houses important military fortresses that ensure the smooth flow of trade routes, and it has been a contested area in numerous regional conflicts in Iria.",
     "bg_texture": "event_fort",
     "idintelligence_group": 3,
     "group_priority": 10,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 34,
-    "name": "骑士诸国同盟",
+    "name": "Union of Knight States",
     "editor_name": "0022.百科-骑士评议会",
-    "manifest_content": "骑士诸国同盟的历史要追溯到第一次光辉之战，为罗迪尼亚法皇国立下汗马功劳的骑士团们在占领的土地上形成了诸多邦国。这些邦国在第二次光辉之战后与罗迪尼亚法皇国产生分歧，最终彻底决裂，形成了一个独立的政治实体，即现今的骑士诸国同盟。\n出于政治地缘与获取晶石的考虑，评议会一直积极和伊利亚展开贸易，新贵族和商人大多是评议会贸易的受益者。\n庇护派是骑士同盟基于正统庇护之光创立的新教派。",
+    "manifest_content": "The history of the Union of Knight States can be traced back to the Radiant War I, where the Order, who contributed greatly to the Papal States of Rodinia, formed many states on the occupied lands. These states eventually had a falling out with the Papal States of Rodinia after the Radiant War II, leading to a complete rupture and the formation of an independent political entity, which is now known as the Union of Knight States. In consideration of geographical politics, as well as the desire to obtain Luxite, the Council of Knights has been actively engaging in trade with Iria. As a result, many new aristocrats and merchants have benefited greatly. The Light of Protection is a new religious sect founded by the Union based on the orthodox Light of Sanctuary.",
     "bg_texture": "event_knights",
     "idintelligence_group": 3,
     "group_priority": 9,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 35,
-    "name": "罗迪尼亚法皇国",
+    "name": "Papal States of Rodinia",
     "editor_name": "0023.百科-教皇国",
-    "manifest_content": "罗迪尼亚法皇国是大陆上历史最为悠久的政治势力之一，是一个基于庇护之光的附庸政体。\n通过第一次光辉之战，罗迪尼亚法皇国拥有了大片的领土与资源，尽管二次光辉之战受挫且随后骑士诸国同盟从中独立，但罗迪尼亚法皇国依然是大陆上首屈一指的大国。\n罗迪尼亚法皇国宣称所有的晶石都是法皇国的所有物，因此和拥有晶石矿脉的伊利亚关系恶劣。先是傀儡统治，后来又通过伊利亚协定迫使伊利亚割让了三分之一的领土与矿脉。",
+    "manifest_content": "The Papal States of Rodinia is one of the oldest political powers on the continent and is a vassal state based on the Light of Sanctuary. Through the Radiant War I, the Papal States of Rodinia acquired vast territories and resources. Despite setbacks in the Radiant War II and the subsequent independence of the Union of Knight States, the Papal States of Rodinia remains one of the foremost powers on the continent. The Papal States of Rodinia claims that it is the owner to all Luxite, leading to a strained relation with Iria, which possesses Luxite lodes. The Papal States of Rodinia resorted to puppet rule first and then signed the Treaty of Iria to force Iria into ceding one-third of its territory and Luxite lodes.",
     "bg_texture": "event_crystal",
     "idintelligence_group": 3,
     "group_priority": 7,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 36,
-    "name": "暮光城",
+    "name": "Lightgloam City",
     "editor_name": "0024.百科-旧都",
-    "manifest_content": "旧都暮光城，位于伊利亚南部，罗迪尼亚法皇国统治时期的首都，在伊利亚独立战争中被战火焚毁大半。\n通往罗迪尼亚法皇国的商路通过这里，尽管由于独立后罗迪尼亚法皇国的贸易制裁，商路已经基本荒废。\n仍然有许多亲法皇国的民众居住在此，也是法皇国针对伊利亚间谍活动的大本营。",
+    "manifest_content": "Lightgloam City, located in the southern region of Iria, was the capital of the Papal States of Rodinia during its reign. It was largely destroyed during Iria's War of Independence. The trade route leading to the Papal States of Rodinia passes through this city, but due to trade sanctions imposed by the Papal States of Rodinia after Iria's independence, the trade route has become largely abandoned. Despite this, many pro-Papal States residents still reside in this city, making it a major hub for the Papal States's espionage activities against Iria.",
     "bg_texture": "event_iriamap",
     "idintelligence_group": 3,
     "group_priority": 6,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 37,
-    "name": "黑暗之光",
+    "name": "Darklight",
     "editor_name": "0025.黑暗之光-黑暗之光",
-    "manifest_content": "黑暗之光是盘踞在伊利亚的极端组织，利用蛊惑，欺骗，甚至是绑架等种种手段发展自身的势力，主张“只有毁灭才能迎来新生”的扭曲观念。\n以往遭到伊利亚王室的严厉打击，但由于内战的爆发，大量的难民被欺骗加入黑暗之光，帮助他们进行前所未有的扩张与掠夺。",
+    "manifest_content": "Darklight is an extremist organization entrenched in Iria that uses various tactics, such as manipulation, deception, and even kidnapping, to expand its power. The organization advocates for a twisted belief that \"only destruction can give birth to new life.\" In the past, Darklight faced severe crackdowns from the Iria's royal family. However, due to the outbreak of the civil war, a mass of refugees were deceived into joining the organization, leading to unprecedented expansion and plundering of resources.",
     "bg_texture": "event_darkritual",
     "idintelligence_group": 8,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 8
   },
   {
     "id": 38,
-    "name": "矿坑城",
+    "name": "Mine Pit",
     "editor_name": "0026.百科-矿坑市",
-    "manifest_content": "以中部台地伊利亚河以南的低品质晶石矿场为中心的庞大贫民窟。从邦国时期开始，无数平民或是被强迫，或是为了生计聚集于此，从事着采矿和周边产业。多年下来，矿坑城已经成为一座庞大的贫民窟。此地鱼龙混杂，收容着大量难民与无家可归的人，黑暗之光的大本营就位于矿坑城错综复杂的矿道与贫民窟中。",
+    "manifest_content": "It is a vast slum centered around the low-quality Luxite mines located to the south of the Iria River on the Central Tableland. Since the state period, countless peasants have been forced to gather in this area for mining and related industries to make a living. Over the years, the Mine Pit has become a massive slum. The area is a mix of different groups, sheltering a great many refugees and homeless peoples. The headquarters of Darklight is located in the complex network of mines and slums in the Mine Pit.",
     "bg_texture": "event_minecity",
     "idintelligence_group": 3,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 39,
-    "name": "三位继承人",
+    "name": "Three Heirs",
     "editor_name": "0027.伊利亚王国-三位继承人",
-    "manifest_content": "伊利亚国王法里斯有三名子嗣——第一王子迪塔利奥，第二王子鲁特菲，王女伊南娜。\n目前，伊利亚的国事由第一王子迪塔利奥一手操办，特工组织“倒吊人”也在他的掌控之中，但他在激进地强化中央统治，因此国内的温和派，以及新贵族与商人团体对他多有不满。\n第二王子鲁特菲则是新贵族与商人团体的代表，他主张伊利亚更加温和，包容和开放。\n王女伊南娜并没有切实的王室资源，但广受人民的爱戴，在民间也不乏让王女继位的声音。",
+    "manifest_content": "Iria's King Faris has three heirs: Prince Dantalion, Prince Lutfi, and Princess Inanna. Currently, the affairs of Iria are solely managed by Prince Dantalion. The agent organization, the Hanged Men, is also under his control. However, his radical reinforcement of central rule has led to discontent among the moderates within the kingdom, as well as among the new aristocrats and merchants. By contrast, Prince Lutfi, as a representative of new aristocrats and merchants, advocates for a more moderate, inclusive, and open Iria. Princess Inanna, although lacking tangible royal resources, is widely beloved by the people and has garnered support for her ascension to the throne among the common folk.",
     "bg_texture": "event_iriariver",
     "idintelligence_group": 5,
     "group_priority": 7,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 40,
-    "name": "晨曦堡",
+    "name": "Mornrays Castle",
     "editor_name": "0028.百科-王都",
-    "manifest_content": "王都晨曦堡，前身是伊利亚邦国时期所建的大型驻兵要塞，建设在薇尔塔山和中央台地交汇处的险要山地上，十字路的北端。\n王都人口约3万，远少于浪涌城，人口主要由驻军、实权者家族、和为前两者服务的平民构成，因此作为都市的机能并不太完整，主要作为政治军事中心，商业工业农业都不发达，非常依赖十字路带来的生活物资。",
+    "manifest_content": "The Mornrays Castle was formerly a large garrison fortress built during the period of the State of Iria. It is located at the northern end of the Crossroads on a mountainous terrain where the Vltar Mountain and the Central Tableland meet. The Mornrays Castle has a population of around 30,000, much smaller than that of Waverun City. The population is mainly composed of garrisons, powerful families, and civilians who serve the former two groups, so its function as a city is not complete. The Mornrays Castle is the political and military center of the Kingdom of Iria, with underdeveloped business, industry, and agriculture, heavily reliant on supplies transported by the Crossroads.",
     "bg_texture": "event_fort",
     "idintelligence_group": 3,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 41,
-    "name": "黑暗之光的扩张",
+    "name": "Expansion of Darklight",
     "editor_name": "0029.黑暗之光-黑暗之光的扩张",
-    "manifest_content": "最新的情报显示，黑暗之光正在以可怕的速度扩张。一方面，王国军忙于正面战场，无暇顾及地方统治，让黑暗之光获得了大量的土地和资源；另一方面，大量无家可归，无人救助的难民遭到黑暗之光的蛊惑，成为了源源不断的兵员。\n如果再这样下去，黑暗之光迟早会威胁到小镇。",
+    "manifest_content": "Recent intelligence reports that Darklight is rapidly expanding at a terrifying pace. This is because the King's Army is preoccupied with the front lines and has little time to focus on local governance, allowing Darklight to gain access to a large amount of land and resources. Furthermore, a mass of homeless and unassisted refugees have fallen under the influence of Darklight, becoming a continuous source of troops for the organization. If not contained, Darklight will inevitably pose a threat to the town sooner or later.",
     "bg_texture": "event_darkritual",
     "idintelligence_group": 8,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 8
   },
   {
     "id": 42,
-    "name": "第二王子鲁特菲",
+    "name": "Prince Lutfi",
     "editor_name": "0030.伊利亚王国-二皇子鲁特菲",
-    "manifest_content": "伊利亚王国的第二王子。\n尽管贵为王子，但为人亲和，平常喜欢微服私访，结交形形色色的人。\n谈吐不凡，对伊利亚的未来有属于自己的独到看法，并为之奋斗着。\n十分欣赏佣兵团的能力和志向，时常为佣兵团提供帮助。\n似乎也很喜欢铃兰花。",
+    "manifest_content": "He is the second prince of the Kingdom of Iria who, \nknown for being approachable and down-to-earth, often disguises himself and mingles with people from all walks of life. \nHe has a remarkable eloquence and unique vision for the future of Iria, which he strives to achieve. \nHe greatly admires the capabilities and aspirations of the Mercenary Group and often provides assistance to it. \nFurthermore, he also seems to have a thing for Convallaria.",
     "bg_texture": "event_news",
     "idintelligence_group": 5,
     "group_priority": 6,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 43,
-    "name": "佣兵长期契约",
+    "name": "Long-Term Mercenary Contract",
     "editor_name": "0031.其他-佣兵长期契约",
-    "manifest_content": "佣兵团可以和政治实体，团体，或任何个人签订长期契约，这种长期契约会将双方单纯的雇佣关系转变为从属关系。\n尽管不能通过长期契约“加入”一个势力，但就势力本身而言，对佣兵团发布长期契约本身就是一种信任的表现。\n长期契约可以随时终止，但发起终止的一方会承受一定的代价，以及另一方遭受背叛的怒火。",
+    "manifest_content": "A mercenary group can sign long-term contracts with political entities, organizations or individuals, transforming their simple employment relationship into a subordinate one. Although the mercenary group cannot \"join\" a faction through a long-term contract, issuing such contracts is itself a manifestation of trust towards the mercenary group by the faction. These long-term contracts can be terminated at any time, but the party initiating the termination will bear a certain cost and face the anger of betrayal from the other party.",
     "bg_texture": "event_letter",
     "idintelligence_group": 9,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 9
   },
   {
     "id": 44,
-    "name": "十字路要塞",
+    "name": "Crossroads Keep",
     "editor_name": "0032.百科-十字路口堡",
-    "manifest_content": "十字路要塞是伊利亚三大堡垒之一，是和王都晨曦堡，被毁前的旧都暮光城齐名的重要军事要塞，长期由王国军的精锐部队驻守。\n它控制着两条商路以及伊利亚河，源源不断的水源和囤积的物资足以让守军在围攻中坚持数年。\n此外，它还和王都的要塞成掎角之势，可以互相策应，任何草率的对十字路要塞的进攻都不会有任何结果。",
+    "manifest_content": "The Crossroad Keep is one of the three major fortresses in Iria. It is an important military stronghold on par with the Mornrays Castle and the former capital of Lightgloam City before its destruction. It has long been garrisoned by elite troops of the King's Army. It controls two major trade routes and the Iria River, with a continuous supply of water and stockpiled supplies sufficient to keep the defenders under siege for several years. In addition, it is strategically positioned to complement the defenses of the Mornrays Castle, supporting each other. Any hasty attack on the Crossroad Keep would be futile.",
     "bg_texture": "event_fort",
     "idintelligence_group": 3,
     "group_priority": 3,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 45,
-    "name": "先遣骑士团",
+    "name": "The Advance Order",
     "editor_name": "0033.骑士评议会-先遣骑士团",
-    "manifest_content": "骑士诸国同盟在需要对某个地区进行快速干涉的时候，就会抽调精锐组成一支临时的“先遣骑士团”，这种快速反应部队具备强大的作战能力和敌后游击能力，先遣骑士团的骑士们足以在野战中决定一场中等规模战役的胜负，但他们更擅长通过破坏，伏击，袭扰来毁灭交战某一方的补给线，从而获得更大的战果。",
+    "manifest_content": "When the Union of Knight States needs to intervene in a region quickly, it will deploy an elite force called the \"Advance Order\", which possesses strong combat and guerrilla capabilities. The knights of the Advance Order are capable of determining the outcome of a medium-sized battle in the field, but they are even more adept at destroying supply lines through sabotage, ambushes, and raids, thereby achieving greater military success.",
     "bg_texture": "event_knights",
     "idintelligence_group": 6,
     "group_priority": 6,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 6
   },
   {
     "id": 46,
-    "name": "浪涌军",
+    "name": "Waverun Legion",
     "editor_name": "0034.伊利亚王国-自由军",
-    "manifest_content": "由浪涌城的新贵族和商人们组织起来的军队，目的旨在推翻伊利亚王国的统治，他们大多由对王室不满或被特工组织“倒吊人”侵害的受害者组成，其中也不乏一些投机分子和壮丁。\n由于成员复杂，缺乏训练，装备不足，浪涌军的战斗力明显低于王国军，但他们擅长以人海战术和各种诡计摧毁王国军的防御，并且可以在少数精锐的带领下快速扩大战果。",
+    "manifest_content": "It is an army organized by the new aristocrats and merchants of Waverun City, with the aim of overthrowing the rule of the Kingdom of Iria. Members of the Waverun Legion are mostly people dissatisfied with the government and victims of the agent organization of \"the Hanged Men\", as well as some opportunistic individuals and conscripts.\nDue to its diverse membership, lack of training, and inadequate equipment, the Waverun Legion's attack is significantly lower than that of the King's Army. However, they are skilled at using the tactic of overwhelming numbers and various tricks to destroy the King's Army's defenses. Additionally, they can rapidly expand their military success with the leadership of a few elites.",
     "bg_texture": "event_war",
     "idintelligence_group": 5,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 47,
-    "name": "歌洛莉亚",
+    "name": "Gloria",
     "editor_name": "0035.骑士评议会-歌洛莉亚",
-    "manifest_content": "骑士诸国同盟，先遣骑士团的特派骑士。\n高洁而美丽的女性骑士，为人正直，强大而又富有同情心。\n对正义有强烈的坚持，誓言毁灭一切邪恶，惩戒一切暴行与不义。\n虽然是先遣骑士团的一员，但似乎有很大的自主行动权。\n目的似乎也与其他骑士有所不同。",
+    "manifest_content": "She is the Special Knight from the Advance Order of the Union of Knight States. \nShe is a noble and beautiful knight, known for her integrity, strength, and compassion. \nShe has a strong commitment to justice and vows to destroy all evil and punish all wrongdoings and injustice. \nAlthough she is a member of the Advance Order, she seems to have significant autonomy, \nand her goals may differ from those of other knights.",
     "bg_texture": "event_knights",
     "idintelligence_group": 6,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 6
   },
   {
     "id": 48,
-    "name": "十字路西端的战斗",
+    "name": "Battles at the West of the Crossroads",
     "editor_name": "0036.事件-十字路口西端的战斗",
-    "manifest_content": "由于补给线被破坏，王国军原本三个月内平叛的计划彻底宣告失败，在付出了一系列代价后，王国军成功退回十字路要塞东侧。\n西侧的大片土地都被浪涌军所占领，双方以十字路要塞为界，暂时陷入了对峙。\n浪涌军的领导人公开表示即将进攻十字路要塞，浪涌军也确实在进行着准备。",
+    "manifest_content": "Due to the destruction of its supply lines, the King's Army, who planed to suppress the rebellion within three months, was completely failed. After paying a series of costs, the King's Army successfully retreated to the east of the Crossroads Keep. As a large area of land to the west was occupied by the Waverun Legion, both parties were temporarily deadlocked with the Crossroad Keep as the boundary. The leader of the Waverun Legion publicly announced their intention to attack the Crossroad Keep, and the Waverun Legion was indeed making preparations.",
     "bg_texture": "event_news",
     "idintelligence_group": 4,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 4
   },
   {
     "id": 51,
-    "name": "罗迪尼亚法皇国与骑士诸国同盟",
+    "name": "The Papal States of Rodinia and the Union of Knight States",
     "editor_name": "0039.百科-教皇国与骑士团",
-    "manifest_content": "第一次光辉之战中，信仰庇护之光的骑士团为罗迪尼亚法皇国立下了汗马功劳，但随后为了限制这些建立了邦国的骑士团，罗迪尼亚法皇国开始挑拨骑士团国之间进行战争。\n在多个骑士团被毁灭，包括四大骑士王之一的无数骑士死于战乱后，骑士们终于坐下来进行协议，建立了骑士诸国同盟。\n第二次光辉之战后，惨胜的罗迪尼亚法皇国无力约束骑士同盟，后者成功独立。随后的几十年间，由于地缘，贸易和宗教的关系，两者的关系越来越差，如今已有水火之势。",
+    "manifest_content": "In the Radiant War I, the Order believing in the Light of Sanctuary played a crucial role in establishing the Papal States of Rodinia. However, to restrict the power of the newly established states of the Order, the Papal States of Rodinia began to incite wars between the Knights' States. After multiple Knight States were destroyed and countless knights, including one of the four Knight Kings, died in the wars, the knights finally sat down to negotiate and established the Union of Knight States. \nAfter the Radiant War II, as the Papal States of Rodinia with a Pyrrhic victory was unable to control the Union, the latter successfully gained independence. Over the next few decades, due to geographical, trade, and religious differences, the relationship between the two parties worsened, and now they are on the brink of conflict.",
     "bg_texture": "event_conspiracy",
     "idintelligence_group": 3,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 52,
-    "name": "鱼龙混杂",
+    "name": "Mixed Bag",
     "editor_name": "0040.其他-鱼龙混杂",
-    "manifest_content": "随着战争陷入白热化，伊利亚的情况每况愈下。\n这种时候，铃兰小镇作为难得的平静之地，就引来了大量怀着各种不同目的的人，包括避难者，商人，以及各个势力的情报人员。\n好在似乎没有人打算破坏小镇，相反他们很乐于有这么一个可以相对安定的搜集情报的地点。",
+    "manifest_content": "As the war intensifies, the situation in Iria is deteriorating rapidly. At this time, the Town of Convallaria, as a rare haven of peace, has attracted many people with different purposes, including refugees, merchants, and intelligence personnel from various factions. Fortunately, it seems that no one intends to disrupt the town, and instead, they are happy to have a relatively stable place to gather intelligence.",
     "bg_texture": "event_vendor",
     "idintelligence_group": 9,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 9
   },
   {
     "id": 53,
-    "name": "索菲亚",
+    "name": "Safiyyah",
     "editor_name": "0041.伊利亚王国-索菲亚",
-    "manifest_content": "伊利亚王国特工机构“倒吊人”的最高指挥官。\n优雅，冷酷而致命的女人。\n身世和履历都不为人知，比起人，她更像是一个坚决贯彻伊利亚国家意志的机器。\n绝不妥协，绝不放弃，绝不怜悯。",
+    "manifest_content": "She is the supreme commander of the \"Hanged Men\", an agent organization of the Kingdom of Iria. \nShe is elegant, cold-hearted, and deadly. \nWith unknown background and resume, she seems more like a machine that is determined to uphold the will of the Iria than a person. \nShe never compromises, never gives up, and never shows mercy.",
     "bg_texture": "event_fort",
     "idintelligence_group": 5,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 54,
-    "name": "倒吊人",
+    "name": "The Hanged Men",
     "editor_name": "0042.伊利亚王国-倒吊人",
-    "manifest_content": "伊利亚王国的秘密部队，由第一王子迪塔利奥亲手创建，通过一些非常手段为王国处理棘手的问题。由于其常年营造出的恐怖形象，不少人对其怀有敌意，称呼其为“蝙蝠”。",
+    "manifest_content": "It is a secret police force of the Kingdom of Iria created by Prince Dantalion, which uses illegal means to handle difficult problems for the kingdom. Many people hold hostility towards it and call it the \"Bat\" for its terrible image showed over the years.",
     "bg_texture": "event_conspiracy",
     "idintelligence_group": 5,
     "group_priority": 3,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 55,
-    "name": "受人爱戴的王女",
+    "name": "Beloved Princess",
     "editor_name": "0043.伊利亚王国-受人爱戴的三王女",
-    "manifest_content": "伊利亚的三位继承者中，最受人爱戴的就是王女伊南娜。\n虽然她在朝中缺乏有利的政治盟友，但她经常提出一些温和的，对底层百姓有益的政治纲领，这为她在底层收获了大量民众的支持。\n尽管有些纲领看起来有些一厢情愿，但并不是无稽之谈，或许她缺少的只是一股强大的，能够帮她推行策略的力量罢了。",
+    "manifest_content": "Among the three heirs of Iria, the most beloved is Princess Inanna. Although she lacks favorable political allies in the court, she often proposes moderate political programs that benefit the lower class, which has earned her a significant amount of support from the people at the grassroots level. Some of her programs may seem like wishful thinking, but they are not baseless claims. Perhaps what she lacks is just a powerful force that can help her implement her strategies.",
     "bg_texture": "event_iriariver",
     "idintelligence_group": 5,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 56,
-    "name": "骑士誓约",
+    "name": "Oath of Knights",
     "editor_name": "0044.骑士评议会-骑士誓言",
-    "manifest_content": "骑士在特定场合下公开许下纯洁而不可撤销的誓约，骑士从此将不惜以生命和荣耀履行誓约，直至誓约完成，任何对誓约的质疑被视为对所有骑士的侮辱，而中途放弃誓约者将永久失去骑士的荣耀。",
+    "manifest_content": "They are the pure and irrevocable oath made by knights in certain occasions. From then on, the knights will spare no effort to fulfill the oath with their life and honor until it is completed. Any doubts about the oath are considered an insult to all knights, and whoever abandons the oath midway will permanently lose the honor of being a knight.",
     "bg_texture": "event_knights",
     "idintelligence_group": 6,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 6
   },
   {
     "id": 58,
-    "name": "两个霸权的对抗",
+    "name": "Confrontation of Two Hegemonies",
     "editor_name": "0046.百科-两个霸权的对抗",
-    "manifest_content": "罗迪尼亚法皇国与骑士诸国同盟的紧张关系持续了很久，最早可以追溯到第一次光辉之战。光辉之战结束后，为了控制骑士诸国，罗迪尼亚法皇国一直在挑起骑士团内部的战争。\n在多个骑士团国被毁灭，包括四大骑士王之一的无数骑士死于战乱后，骑士们终于坐下来进行协议，形成了现在的骑士诸国同盟。\n第二次光辉之战后，发觉罗迪尼亚法皇国开始衰弱的骑士同盟果断寻求了政治独立，随后，暗处的对抗就没有停息过。\n特工，间谍，策反……当这一切到达顶峰的时候，他们在伊利亚的土地上展开了一场代理人战争。",
+    "manifest_content": "The tension between the Papal States of Rodinia and the Union of Knight States has lasted for a long time, dating back to the Radiant War I. After the Radiant War, in order to control the Knights' States, the Papal States of Rodinia has been inciting wars within the Order. After multiple Knights' States were destroyed and countless knights, including one of the four Knight Kings, died in the wars, the knights finally sat down to negotiate and established the current Union of the Knights’ States. \nAfter the Radiant War II, the Union, realizing the decline of the Papal States of Rodinia, resolutely sought political independence. Since then, the hidden conflicts between the two sides have never stopped. \nWith espionage, spying, and subversion, they reached their peak and started a proxy war on the land of Iria.",
     "bg_texture": "event_war",
     "idintelligence_group": 3,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 59,
-    "name": "奥古斯特",
+    "name": "Auguste",
     "editor_name": "0047.骑士评议会-奥古斯特",
-    "manifest_content": "骑士诸国同盟，先遣骑士团的团长。\n不苟言笑，严肃而高高在上的强大骑士。\n表面上只是听命行事的军人，但折断又被修补的大剑和失去的眼睛暗示着似乎有不一样的过往。\n受命带领整个骑士团前往伊利亚执行任务，但似乎有着别的目的。",
+    "manifest_content": "He is the Leader of the Advance Order of the Union of Knight States. \nHe is a powerful knight who is serious, aloof, and high and mighty. \nOn the surface, he is just a military man who follows orders, but his broken and repaired greatsword and lost eye imply that he may have a different past. He is tasked to lead the entire Order to carry out a mission in Iria, but it seems that he has another purpose.",
     "bg_texture": "event_knights",
     "idintelligence_group": 6,
     "group_priority": 3,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 6
   },
   {
     "id": 60,
-    "name": "复国军",
+    "name": "Restoration Army",
     "editor_name": "0048.教皇国-护教军",
-    "manifest_content": "以暮光城为基地，罗迪尼亚法皇国收买了大量的佣兵，平民甚至是盗匪，将他们当做军队使用。这只佣兵军团由虔诚且有能力的当地信众作为军队骨干，在伊利亚的土地上不断地展开行动，为罗迪尼亚法皇国攫取利益。\n这也是罗迪尼亚法皇国的常用手段，他们很少直接出兵干涉，而是派出一些光辉侍者，就地组织罗迪尼亚法皇国雇佣军。\n雇佣军团的实力比浪涌军强一些，但人员构成更加复杂，导致不同的雇佣军团单位的战斗力差距巨大。",
+    "manifest_content": "Taking Lightgloam City as the base, the Papal States of Rodinia has bought a mass of mercenaries, civilians, and even bandits, as its army. The mercenary group consists of devout and capable local believers as the backbone of the army. They continuously carry out operations on the land of Iria, seeking to gain benefits for the Papal States of Rodinia. This is also a common tactic used by the Papal States of Rodinia. They rarely send troops to intervene directly, but instead send Radiant Servant to organize local mercenaries on the spot. The strength of the mercenary group is stronger than that of the Waverun Legion, but its personnel composition is more complicated, leading to a huge disparity in combat effectiveness among different mercenary units.",
     "bg_texture": "event_news",
     "idintelligence_group": 7,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 7
   },
   {
     "id": 61,
-    "name": "伊利亚的势力派系",
+    "name": "Iria's Government Factions",
     "editor_name": "0049.伊利亚王国-伊利亚的政府派系",
-    "manifest_content": "伊利亚内部势力主要有三个派系：旧贵族，商人和军方。\n旧贵族是老国王法里斯革命前就存在的邦国贵族，为了避免更多的战争，在新国家构建的时候，老国王保留了这些旧贵族在内部势力。由于历史原因，他们普遍亲近罗迪尼亚法皇国，对第一王子迪塔利奥的政策最为不满。\n商人是随着晶石贸易崛起的新贵族，他们主张开放，反对任何形式的战争，因此也是主和派的主要来源。\n军方是老国王法里斯的亲信派系，目前最为支持迪塔利奥王子的统一行动。",
+    "manifest_content": "Iria is mainly controlled by three factions: Irian aristocrats, merchants, and the military.\nIrian aristocrats refer to the pre-revolutionary nobles. In order to avoid further conflicts, the old King Faris retained these nobles in the government when the new country was formed. Due to historical reasons, they generally have a pro-Papal States of Rodinia stance and are most dissatisfied with the policies of Prince Dantalion.\nMerchants are the new aristocrats who have risen with the emergence of Luxite trade. They are the main supporters of the doves, advocating for openness and opposing any form of war.\nThe military is the faction consisting of the old King Faris's loyalists and currently the most supportive of Prince Dantalion's unifying actions.",
     "bg_texture": "event_conspiracy",
     "idintelligence_group": 5,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 62,
-    "name": "骑士们的堕落",
+    "name": "Fall of the Knights",
     "editor_name": "0050.骑士评议会-骑士们的堕落",
-    "manifest_content": "和任何一个国家一样，二次光辉之战之后长久的和平，和骑士诸国同盟国力的上升，使得骑士们变得更加傲慢、固执、脱离实际。许多骑士美德仅仅挂在口边，崇尚决斗鄙视实战，对其他国家不屑一顾。\n另一方面，财富的积累，让骑士们开始追求奢华堕落的贵族生活，他们越来越频繁的宴会，越来越像艺术品的铠甲，无止尽的对于艺术收藏的追求，以至于作为最高荣誉的圣骑士封号也变成一种能送人的礼物。",
+    "manifest_content": "Like that in any other country, the prolonged peace after the Radiant War II, along with the rise of the Union of Knight States, has made the knights more arrogant, stubborn, and out of touch with reality. Many knights only pay lip service to the virtues they uphold, and they value dueling over practical combat. They also tend to look down on other countries. Also, the accumulation of wealth has led the knights to pursue a luxurious and decadent noble lifestyle, with increasingly frequent banquets, more armors that look more like works of art, and an endless pursuit of art collections. Even the title of Paladin, the highest honor, has become a gift that can be given away.",
     "bg_texture": "event_knights",
     "idintelligence_group": 6,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 6
   },
   {
     "id": 63,
-    "name": "歌洛莉亚与奥古斯特",
+    "name": "Gloria and Auguste",
     "editor_name": "0051.骑士评议会-歌洛莉亚与奥古斯特",
-    "manifest_content": "最近骑士团内流行开一则传闻，说先遣骑士团原本并不包括歌洛莉亚。\n她之所以出现在伊利亚，是因为对浪涌城屠杀的愤慨和对正义的追求。\n为此，她不惜强行加入先遣骑士团，就是为了寻求这场惨剧的真相。\n但奥古斯特团长又是为了什么呢？真的是如他所说，早日为伊利亚带来和平吗？",
+    "manifest_content": "Recently, a rumor is spreading within the Order that the Advance Order did not originally include Gloria. \nShe appeared in Iria out of indignation towards the massacre in Waverun City and her pursuit of justice. For this reason, she forcibly joined the Advance Order, seeking the truth behind the tragic event. \nBut what about Leader Auguste? Is he really trying to bring peace to Iria as he claims?",
     "bg_texture": "event_conspiracy",
     "idintelligence_group": 6,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 6
   },
   {
     "id": 65,
-    "name": "伊利亚大桥",
+    "name": "Iria Bridge",
     "editor_name": "0052.百科-伊利亚大桥",
-    "manifest_content": "伊利亚河自东向西流经伊利亚，是伊利亚最主要的农业和生活用水来源，但湍急的伊利亚河也将伊利亚南北分割开来，造成了交通不便。\n为了解决这一问题，几百年来，伊利亚人一直试图在伊利亚河上架设各种桥梁，目前使用最频繁的，是伊利亚共和国时期修建的一座大桥。\n似乎在设计之初，这座大桥的选址就考虑到了将伊利亚河作为战略屏障的需要。只需要少数军队即可完成封锁，阻断前往晨曦堡的道路。",
+    "manifest_content": "The Iria River flows from east to west through Iria and is the main source of agricultural and domestic water in Iria. However, the turbulent Iria River also divides Iria into north and south, causing transportation inconvenience. To solve this problem, the people of Iria have been trying to build various bridges over the Iria River for hundreds of years. The most frequently used bridge was built during the period of the Republic of Iria. \nIt seems that when the bridge was designed, the Iria River was taken into consideration as a strategic barrier, for only a few troops can complete the blockade and cut off the way to the Mornrays Castle.",
     "bg_texture": "event_iriamap",
     "idintelligence_group": 3,
     "group_priority": 22,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 66,
-    "name": "晶石",
+    "name": "Luxite",
     "editor_name": "0053.百科-晶石",
-    "manifest_content": "蕴含着强大能量的神秘矿物，通常以晶体形式存在。\n每块晶石都含有不同强度和性质的能量，目前关于晶石的用途开发主要集中通过精神力激发晶石本身的能量，以释放出各种晶石术这一方面。此外，晶石还可以激发人体潜能。\n此外，晶石还有着各种各样的工业，材料，武器用途。考虑到更多的尚不明确的功能，晶石成为了全世界争夺的战略物资。",
+    "manifest_content": "Luxite is a mysterious mineral that contains powerful energy and typically exists in crystal form. Each Luxite contains the energy of different intensities and properties. Currently, the development of Luxite usage mainly focuses on using mental power to stimulate the energy within the Luxite, releasing various Luxite Blessings. Luxite can also stimulate human potential. Furthermore, Luxite also have various industrial, material, and weapon applications. With many unclear functions, Luxite has become a strategic resource that is being fought over worldwide.",
     "bg_texture": "event_crystal",
     "idintelligence_group": 3,
     "group_priority": 21,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 3
   },
   {
     "id": 67,
-    "name": "泰登",
+    "name": "Teadon",
     "editor_name": "0054.骑士团评议会-泰登",
-    "manifest_content": "骑士诸国同盟的退役骑士，先遣骑士团歌洛莉亚部的副官。\n泰登的家族世代服侍罗兰家，泰登与歌洛莉亚的父亲在少年时期便已相识。歌洛莉亚的父亲离世后，泰登代替自己的挚友照看培养歌洛莉亚。\n泰登为人宽厚、持重，相较于刚正不阿的歌洛莉亚，泰登处事的手段更加圆融，经常协助歌洛莉亚处理一些棘手的事务。",
+    "manifest_content": "He is a retired knight of the Union of Knight States and the adjutant of Gloria's division of the Advance Order. The Teadon family has been serving the Roland Family for generations. Teadon and Gloria's father have known each other since they were young. After Gloria's father passed away, Teadon took care of her and raised her for his close friend. Teadon is kind and dignified, and compared to Gloria's strictness, Teadon's approach is more diplomatic. He often assists Gloria in handling difficult affairs.",
     "bg_texture": "event_knights",
     "idintelligence_group": 6,
     "group_priority": 7,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 6
   },
   {
     "id": 68,
-    "name": "泽维尔",
+    "name": "Xavier",
     "editor_name": "0055.伊利亚王国-泽维尔",
-    "manifest_content": "泽维尔是伊利亚王国军的一名青年将领，出身贫寒的他进入军队后，凭借优异的表现和积极奋进的作风得到王国军元帅马格努斯的赏识，被对方收入麾下担任要职。\n泽维尔将伊利亚第一王子迪塔利奥视作偶像，在他心目中，迪塔利奥是伊利亚王国最后的希望，是值得自己毕生追随的人。",
+    "manifest_content": "Xavier is a young commander in the King's Army of Iria. Coming from a poor background, he caught the eye of Marshal Magnus with his outstanding performance and proactive attitude after joining the army, and then was given an important position. Xavier idolizes Prince Dantalion and sees him as the last hope of the Kingdom of Iria. In his mind, Dantalion is someone worth following for his entire life.",
     "bg_texture": "event_conspiracy",
     "idintelligence_group": 5,
     "group_priority": 12,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 69,
-    "name": "骑士团的援助工作",
+    "name": "Aid Work of the Order",
     "editor_name": "0056.骑士团评议会-骑士团的援助工作",
-    "manifest_content": "骑士团一直在伊利亚进行各种的援助工作，起初，这些来自评议会的骑士们调集了大量的物资，为伊利亚的难民提供了必要的粮食和生活用品。\n但渐渐的，有留言称这些骑士总是会要求难民们“对宣传工作予以配合”，大量的记者来到战区进行报道，其中不乏对伊利亚王国的抨击文章。",
+    "manifest_content": "The Order has been providing various forms of aid work in Iria. At first, the knights from the Council of Knights mobilized a large amount of supplies, providing necessary food and daily necessities for the refugees in Iria. But gradually, there were rumors claiming that these knights always demanded that the refugees \"cooperate with their propaganda work\", as a result of which, many journalists who came to the war zone wrote some articles criticizing the Kingdom of Iria.",
     "bg_texture": "event_news",
     "idintelligence_group": 5,
     "group_priority": 13,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 70,
-    "name": "马格努斯",
+    "name": "Magnus",
     "editor_name": "0057.伊利亚王国-马格努斯",
-    "manifest_content": "冷静沉稳，雷厉风行的硬派军人。\n在三十余年的戎马生涯里，马格努斯磨练出了优秀的军事能力，更是在伊利亚独立战争中立下了汗马功劳。伊利亚王国取得独立后，马格努斯众望所归地成为了伊利亚王国军的最高统帅。\n马格努斯是法里斯王忠实的追随者和捍卫者，法里斯王退隐后，作为法里斯王意志的代表手握军权注视着局面的演变，目前支持第一王子迪塔利奥，是后者的重要后盾。",
+    "manifest_content": "He is a calm and hard-line solider who acts swiftly and decisively. Over his 30-year military career, Magnus honed his excellent military skills and made great contributions during the Iria's War of Independence. After the Kingdom of Iria gained independence, Magnus became the supreme commander of the King's Army, enjoying great popularity among the people. Magnus is a loyal follower and defender of King Faris. After King Faris retired, Magnus became the representative of King Faris' will, holding military power and observing the situation. He currently supports Prince Dantalion as an important pillar.",
     "bg_texture": "event_conspiracy",
     "idintelligence_group": 5,
     "group_priority": 14,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 5
   },
   {
     "id": 71,
-    "name": "浪涌城事件",
+    "name": "Waverun City Incident",
     "editor_name": "人文-0001-浪涌城事件",
-    "manifest_content": "光辉历999年庇护日，伊利亚港口都市浪涌城发生暴动，暴徒高喊着打倒王室的口号烧杀抢掠，并与王国军发生血腥冲突，许多无辜平民被卷入其中。",
+    "manifest_content": "On the Sanctuary Day of the year 999 of the Radiant Calendar, a riot happened in Waverun City, a seaport of Iria. Rioters burned, killed, and pillaged while shouting the slogan of overthrowing the royal family, and finally initiated a bloody conflict with the King's Army. Many innocent civilians were involved.",
     "bg_texture": "event_ruins",
     "idintelligence_group": 10,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 72,
-    "name": "伊利亚王国",
+    "name": "Kingdom of Iria",
     "editor_name": "势力-0001-伊利亚王国",
-    "manifest_content": "伊利亚王国，是一个拥有悠久历史的小国，因蕴藏着丰富的晶石资源而被各大强国觊觎着。目前的实际掌权者是国王法里斯的长子，第一王子迪塔利奥。",
+    "manifest_content": "The Kingdom of Iria is a small kingdom with a long history coveted by the great powers because of its rich Luxite resources. Currently, its actual ruler is the eldest son of King Faris, Prince Dantalion.",
     "bg_texture": "event_iriakingdom",
     "idintelligence_group": 11,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 73,
-    "name": "铃兰小镇",
+    "name": "The Town of Convallaria",
     "editor_name": "地理-0001-铃兰小镇",
-    "manifest_content": "位于伊利亚王国中部的小镇，因盛开铃兰花而得名。铃兰小镇毗邻十字路地区，是来往商队的主要落脚点。 然而随着近年来伊利亚局势逐渐动荡，匪盗猖獗，贸易受阻，小镇也日渐萧条。铃兰之剑佣兵团就驻扎于此，于乱世中守护着小镇的和平。",
+    "manifest_content": "It is a small town located in the central part of the Kingdom of Iria and named after the blooming convallaria. The Town of Convallaria, adjacent to the Crossroads, is the main foothold for caravans. However, as the situation in Iria has gradually become unstable with rampant banditry and hindered trade, the Town of Convallaria has also become increasingly sluggish. The Sword of Convallaria Mercenary Group is stationed here to protect the town in turbulent days.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 12,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 74,
-    "name": "铃兰之剑佣兵团",
+    "name": "Sword of Convallaria Mercenary Group",
     "editor_name": "势力-0002-铃兰之剑佣兵团",
-    "manifest_content": "几年前，由拉维耶牵头成立的佣兵团，以“铃兰之剑”命名。说是佣兵团其实主要还是由小镇居民组成，在这日渐纷乱的局势中，小镇必须依靠自己的力量来保卫家园。在有闲暇的时候也会像真正的佣兵一样完成委托赚些开销，铃兰之剑在附近的村镇中逐渐有了不小的名声。",
+    "manifest_content": "It is a mercenary group established by Rawiyah a few years ago and named after the \"Sword of Convallaria\". Its members are mainly residents of the town because they must protect their homeland on their own in this increasingly chaotic situation. The Sword of Convallaria Mercenary Group completes quests like real mercenaries when they have the time, gradually gaining a considerable reputation in nearby villages and towns.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 11,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 75,
-    "name": "训练场",
+    "name": "Training Ground",
     "editor_name": "教学-0002-训练场",
-    "manifest_content": "铃兰之剑佣兵们训练提升自己的场地。佣兵们可在此与别人练习，获得一些战斗经验，也可在此突破自己，领悟新的本事，如果你得到了特殊的项目方案，还可以对佣兵进行针对性的特别训练。无论如何，对于那些队伍中的精锐来说，这片地方将让他们超越自己，往更强的方向前进。",
+    "manifest_content": "It is a place for the mercenaries of the Sword of Convallariato train and improve themselves. Mercenaries can practice with others to gain some battle experience or make breakthroughs and learn new tactics here. In case of obtaining special programs, you can assign targeted tailored training to mercenaries. In any case, it is a place for the finest mercenaries to surpass themselves and become stronger.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 13,
     "group_priority": 3,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 13
   },
   {
     "id": 77,
-    "name": "佣兵之家",
+    "name": "Haven",
     "editor_name": "教学-0001-佣兵之家",
-    "manifest_content": "温馨舒适的佣兵休养之家，佣兵征战多日疲惫之后，即可在此稍事歇息，恢复精力。当然，进一步的装修也能令这里的居住环境更为宜人，佣兵们的休养效率自然也会提高。就连武器也要保养修复，佣兵也概莫能外。",
+    "manifest_content": "It is a warm and comfortable house for mercenaries who have been fighting for days to rest and refresh. There is no doubt that further decoration can make the living environment more comfortable and naturally improve the rest for mercenaries. Even weapons need to be maintained and repaired, not to mention the mercenaries.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 13,
     "group_priority": 1,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 13
   },
   {
     "id": 78,
-    "name": "旅店",
+    "name": "Tavern",
     "editor_name": "教学-0003-旅店",
-    "manifest_content": "小镇的旅店全天面向客人开放，在这里你可以遇见许多深藏不露的高手。许多佣兵也会来此等候慧眼识珠的老板，在微醺的气氛下签下一份佣兵合约，这就是神秘而又必然的缘分。",
+    "manifest_content": "The hotel in the small town is open to guests all day, where you can meet many hidden masters. Many mercenaries would wait for bosses of true wit and sign a contract while they are pleasantly tipsy, which is a mysterious and inevitable fate.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 13,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 13
   },
   {
     "id": 79,
-    "name": "罗迪尼亚法皇国",
+    "name": "Papal States",
     "editor_name": "势力-0003-罗迪尼亚法皇国",
-    "manifest_content": "罗迪尼亚法皇国是大陆上历史最为悠久的政治势力之一，是一个基于庇护之光信仰的神权政体，由法皇直辖的光辉之城和周围忠于法皇的大小邦国所组成。\n作为大陆最大的宗教——“庇护之光”，千年来在全世界都有着无数的虔诚信徒，众多国家都以庇护之光为国教，而法皇国就是所有信仰庇护之光国家的宗主国，这也让其成为千年来当之无愧的第一强权国家。",
+    "manifest_content": "The Papal States of Rodinia is one of the oldest political forces on the continent and a theocracy believing in the Light of Sanctuary. It is composed of Radiant City under the jurisdiction of the Hierophant and surrounding states loyal to him.\nThe \"Light of Sanctuary\", the largest religion on the continent, has had countless devout followers all over the world for the past thousand years. Many countries regard the Light of Sanctuary as their national religion, and the Papal States is their metropolitan state, making it the most powerful country in millennia.",
     "bg_texture": "event_papal",
     "idintelligence_group": 11,
     "group_priority": 3,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 80,
-    "name": "铁匠铺",
+    "name": "Forge",
     "editor_name": "教学-0004-铁匠铺",
-    "manifest_content": "铃兰小镇的铁匠铺，可以在此下订单打造武器和装具。铁匠可以打造通用的装备，也可以根据设计蓝图来设计锻造定制装备，在此见证熔炉与蓝图碰撞出的花火吧！\n",
+    "manifest_content": "It is the forge in the Town of Convallaria, where you can place orders for forging weapons and trinkets Blacksmiths can forge general or customized gear per the design blueprint Witness the sparks by the collision between the burning furnace and the blueprint here!",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 13,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 13
   },
   {
     "id": 81,
-    "name": "薇尔德人",
+    "name": "Vlderians",
     "editor_name": "人文-0002-薇尔德人",
-    "manifest_content": "居住在薇尔塔山脉的古老种族。薇尔德人有部分犬科系动物外观特征，无论男女都是勇敢的战士，在山地战场更是如鱼得水。薇尔德的女性以能歌善舞闻名于世，族长一般也由女性担任。",
+    "manifest_content": "They are an ancient race inhabiting the Vltar Mountain. The Vlderians have some canine appearance characteristics and are brave warriors regardless of gender, especially on mountainous battlefields. Female Vlderians are renowned for their ability to sing and dance, and the Clan Leader of Vlderians is usually a woman.",
     "bg_texture": "event_vilder",
     "idintelligence_group": 10,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 82,
-    "name": "魔女",
+    "name": "Sorceress",
     "editor_name": "人文-0003-魔女",
-    "manifest_content": "魔女被法皇国认为是“受混沌蛊惑，在人世间传播异端邪恶的女性”而常年悬赏抓捕，传说她们极端邪恶且拥有可怕的力量。也有传言称魔女私下研究晶石，只是因为威胁到了法皇国对晶石研究的垄断而被污名化。",
+    "manifest_content": "Sorceresses are considered by the Papal States to be \"women who are bewitched by chaos and spread heretical evil in the world\", so they are often hunted down with a reward. It is said that they are extremely evil and possess terrifying power. Another rumor has it that sorceresses study Luxite in secret but are stigmatized because they threaten the monopoly of the Papal States on Luxite research.",
     "bg_texture": "event_crystal",
     "idintelligence_group": 10,
     "group_priority": 3,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 83,
-    "name": "晶石",
+    "name": "Luxite",
     "editor_name": "人文-0004-晶石",
-    "manifest_content": "蕴含着强大能量的神秘矿物，通常呈现出晶体状。十余年前的一次地震后，人们在光辉之城地下首次发现了晶石矿脉。法皇随即宣称晶石是光辉的赐予，并强硬地将晶石的开采研究纳入庇护之光的管理之下。每块晶石蕴含着不同强度和性质的能量，除了通过特定物理手段外，部分拥有强大精神力量的人也能以精神波动共振的方式使晶石进入激发状态，以释放出晶石蕴含的能量。除此之外，晶石能量还会对生命体和物质产生种种神奇的影响，这使得晶石成为一种世界瞩目的战略资源。目前已知的晶石矿脉几乎全部处于法皇国的控制之下，但伊利亚境内发现的矿脉打破了法皇国对晶石的垄断地位。",
+    "manifest_content": "It is a mysterious mineral containing great energy, usually in the form of crystals. More than ten years ago, the Luxite lobes were first discovered underground in Radiant City after an earthquake. The Hierophant immediately declared that Luxite was a gift from the light and put the mining and research of Luxite under the management of the Light of Sanctuary by force. Each Luxite contains the energy of different intensities and properties. In addition to specific physical means, some people with strong spiritual power can also activate Luxite and release the energy by using spiritual wave resonance. Moreover, Luxite energy has various magical effects on living organisms and matter, making it one of the strategic resources in the world. At present, almost all known Luxite lobes are controlled by the Papal States, but those discovered in Iria have broken the monopoly of the Papal States.",
     "bg_texture": "event_crystal",
     "idintelligence_group": 10,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 84,
-    "name": "晶石工坊",
+    "name": "Luxite Workshop",
     "editor_name": "教学-0005-晶石工坊",
-    "manifest_content": "全称“天才贝拉的晶石工坊”，里面充满着叫不出名字的实验材料。贝拉专长于从晶石实验中炼化出各种奇怪的实验产物，这些实验产物的存在本身就足够神秘，但说不定在战场上能有神奇的作用。作为代价，贝拉需要你帮忙打打杂，或是多多使用这些实验物，为其新发明提供更多灵感。",
+    "manifest_content": "Its full name is \"Luxite Workshop of Gifted Beryl\", which is filled with unnamed experimental materials. Beryl specializes in refining various strange and mysterious experimental products from Luxite that may have magical effects on the battlefield. If you want some of these, Beryl will ask you to do the chores or use these experimental products more often to inspire her for new inventions.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 13,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 13
   },
   {
     "id": 85,
-    "name": "骑士同盟",
+    "name": "The Union",
     "editor_name": "势力-0004-骑士同盟",
-    "manifest_content": "全名“骑士诸国同盟”，是由13个骑士团国组成的国家同盟，是极其强大的军事强国，以评议协商的制度来处理同盟重大政事。\n出于政治地缘与获取晶石的考虑，骑士同盟一直积极和伊利亚展开贸易，在伊利亚尤其是浪涌城具有强大的影响力。",
+    "manifest_content": "Its full name is \"the Union of the Knights' States\", which is a national alliance composed of 13 Knight State with great military power. It handles major political affairs of the alliance through an evaluation and consultation system.\nIn consideration of geographical politics, as well as the desire to obtain Luxite, the Union has been actively engaged in trade with Iria and has a strong influence there, especially in Waverun City.",
     "bg_texture": "event_knights",
     "idintelligence_group": 11,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 86,
-    "name": "先遣骑士团",
+    "name": "The Advance Order",
     "editor_name": "势力-0005-先遣骑士团",
-    "manifest_content": "骑士同盟派遣至伊利亚的先遣部队，以评议会直属骑士奥古斯特为团长，由从各骑士团国抽调的精锐组成。开战后，先遣骑士团迅速到达并驻扎在浪涌城，并控制了浪涌城周边的广大地区。这些装备精良、训练有素的骑士们足以影响一个小国的命运。",
+    "manifest_content": "It is the advance troop sent by the Union to Iria, which is led by Auguste, a knight in the Council of Knights, and composed of elites from the various Knights' States. After the war began, the Advance Order quickly arrived and stationed in Waverun City, and took control of the vast area nearby. The well-equipped and well-trained knights are enough to influence the fate of a small country.",
     "bg_texture": "event_knights",
     "idintelligence_group": 11,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 87,
-    "name": "圣骑士",
+    "name": "Paladin",
     "editor_name": "人文-0005-圣骑士",
-    "manifest_content": "骑士同盟内部经过一系列严格的考核、评估、测试后，会对一些德行高尚的精锐骑士授予“圣骑士”的称号与勋章。获得“圣骑士”称号的人将被看做是骑士楷模、骑士精神的化身。\n随着骑士同盟的强大繁荣，许多骑士开始耽于享乐，骑士精神也变成一些人的嘴边话术。甚至“圣骑士”这种崇高的荣耀称号，也会沦落为送人的礼物。",
+    "manifest_content": "After a series of strict examinations, assessments, and tests within the Union, select elite knights with a noble virtue are awarded the title of \"Paladin.\" Paladins are regarded as the model of knighthood and perfect chivalry.\nHowever, as the Union has grown increasingly stronger and prosperous, many knights began to overindulge in pleasure. The spirit of knighthood itself has become a point of contention. Even the lofty title of \"Paladin\" has lost much of its weight.",
     "bg_texture": "event_knights",
     "idintelligence_group": 10,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 88,
-    "name": "庇护之光",
+    "name": "Light of Sanctuary",
     "editor_name": "人文-0006-庇护之光",
-    "manifest_content": "庇护之光是罗迪尼亚大陆最大的宗教，千年来有着无数虔诚的信徒和无上的荣耀。庇护之光的信徒信仰光辉，信奉以光辉庇护世人的教义，而法皇作为光辉在世间的唯一代言人，是所有信徒国家的共主。\n因为前次光辉之战的后续影响，虽然法皇仍然是世界上最有地位的人物，但法皇国的权势已大不如前。在这种形势下，庇护之光的信徒中对庇护之光的未来逐渐出现了不同的思考。",
+    "manifest_content": "The Light of Sanctuary is the largest religion in Rodinia, with countless devout followers and supreme glory for thousands of years. Followers of the Light of Sanctuary believe in the light and uphold the doctrine of protecting the world with the light. As the sole spokesperson of the belief, the Hierophant is the leader of all states believing in the Light of Sanctuary.\nDue to the subsequent impact of the previous Radiant War, the Papal States has lost most of his power, though he remains the most influential figure in the world. In this situation, followers of the Light of Sanctuary have gradually thought differently about the future.",
     "bg_texture": "event_papal",
     "idintelligence_group": 10,
     "group_priority": 6,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 89,
-    "name": "薇尔德舞娘",
+    "name": "Vlderian Dancer",
     "editor_name": "人文-0007-薇尔德舞娘",
-    "manifest_content": "来自薇尔德的舞女，常以专业舞团的组合形式出现在薇尔德以外的地方。舞娘所跳的薇尔德舞蹈柔弛曼妙，婉转时如水流般平静，快步时又如狂风般迅烈，深受伊利亚人喜欢，但很少人知道，薇尔德舞蹈也是薇尔德人的战斗之舞，绝非花瓶之流。\n此外，薇尔德人在伊利亚与埃拉曼饱受压迫，有些当地贵族就会从奴隶贩子手中高价买入薇尔德舞女来为其表演。",
+    "manifest_content": "They are dancers from Vlder who often appear outside Vlder in the form of professional dance regiment. Their dance is gentle, relaxed, and graceful. The slow moves are calm as water flows, and the fast paces are swift as the fierce wind. The Irians love it, but few people know that the dance is not just a show but a battle tactic of the Vlderians.\nIn addition, the Vlderians are oppressed in Iria and Elaman, and some local aristocrats even can buy Vlder dancers at high prices from slave traders to perform for them.",
     "bg_texture": "event_vilder",
     "idintelligence_group": 10,
     "group_priority": 7,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 90,
-    "name": "伊利亚大桥",
+    "name": "Iria Bridge",
     "editor_name": "地理-0002-伊利亚大桥",
-    "manifest_content": "伊利亚河自东向西流经伊利亚，是伊利亚最主要的农业和生活用水来源。但湍急的伊利亚河也将伊利亚南北分割开来，造成了交通不便。伊利亚大桥的建立就是为了联通南北。作为跨越大河的必经之路，只要少数军队即可对其完成封锁，阻断南岸前往晨曦堡的道路。",
+    "manifest_content": "The Iria River flows from east to west through Iria and is the main source of agricultural and domestic water in Iria. However, the turbulent Iria River also divides Iria into north and south, causing transportation inconvenience. The Iria Bridge was established to connect the north and south. A few troops can block the road from the south bank to Mornrays Castle, the only way to cross the river.",
     "bg_texture": "event_iriariver",
     "idintelligence_group": 12,
     "group_priority": 2,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 91,
-    "name": "黑暗之光",
+    "name": "Darklight",
     "editor_name": "势力-0006-黑暗之光",
-    "manifest_content": "盘踞在矿坑城的邪教组织。黑暗之光的教徒憎恨这个世界的一切，他们认为自己被赐予使命：让黑暗吞噬这世界的一切，从而迎来纯净的黎明之光，为此他们不择手段，毫不吝惜自己的生命。随着伊利亚局势的崩坏，越来越多对生活绝望的人被蛊惑加入，黑暗之光迅速壮大，向瘟疫一样向外扩散。",
+    "manifest_content": "It is a cult organization entrenched in the Mine Pit. Believers of Darklight hate everything in the world. They believe that they have been assigned a mission to let darkness devour everything in the world and usher in the pure salvation light. To complete this mission, they will do anything without hesitating to sacrifice their lives. As the situation in Iria was getting worse, more and more people who were desperate for life were tempted to join Darklight, so it grew rapidly and spread outward like a plague.",
     "bg_texture": "event_darklight",
     "idintelligence_group": 11,
     "group_priority": 6,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 92,
-    "name": "矿坑城",
+    "name": "Mine Pit",
     "editor_name": "地理-0003-矿坑城",
-    "manifest_content": "以中部台地伊利亚河以南的低品质晶石矿场为中心的庞大贫民窟。从邦国时期开始，无数平民或是被强迫，或是为了生计聚集于此，从事着采矿和周边产业。多年下来，矿坑城已经成为一座庞大的贫民窟。此地鱼龙混杂，收容着大量难民与无家可归的人，黑暗之光的大本营就位于矿坑城错综复杂的矿道与贫民窟中。",
+    "manifest_content": "It is a vast slum centered around the low-quality Luxite mines located to the south of the Iria River on the Central Tableland. Since the state period, countless peasants have been forced to gather in this area for mining and related industries to make a living. Over the years, the Mine Pit has become a massive slum. The area is a mix of different groups, sheltering a great many refugees and homeless peoples. The headquarters of Darklight is located in the complex network of mines and slums in the Mine Pit.",
     "bg_texture": "event_minecity",
     "idintelligence_group": 12,
     "group_priority": 3,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 93,
-    "name": "倒吊人",
+    "name": "The Hanged Men",
     "editor_name": "势力-0007-倒吊人",
-    "manifest_content": "伊利亚王国的秘密部队，最高指挥官是索菲亚。倒吊人由第一王子迪塔利奥亲手创建，通过一些非常手段为王国处理棘手的问题。由于其长年营造出的恐怖形象，不少人对其怀有敌意，称呼其为“蝙蝠”。",
+    "manifest_content": "It is a secret police force of the Kingdom of Iria called the Hanged Men whose highest commander is Safiyyah. It is created by Prince Dantalion, which uses illegal means to handle difficult problems for the kingdom. Many people hold hostility towards it and call it the \"Bat\" for its terrible image showed over the years.",
     "bg_texture": "event_iriakingdom",
     "idintelligence_group": 11,
     "group_priority": 7,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 94,
-    "name": "浪涌军",
+    "name": "Waverun Legion",
     "editor_name": "势力-0008-浪涌军",
-    "manifest_content": "浪涌城事件后，在骑士同盟的暗中扶持下成立的准军事组织。他们大多是由趁乱打劫的投机分子、暴徒以及叛变的王国军构成。浪涌军一边痛斥着迪塔利奥堕落残暴的统治，一边以劫掠烧杀的手段贯彻着他们口中的“正义与自由”。",
+    "manifest_content": "It is a paramilitary organization established under the covert support of the Union after the Waverun City incident. It is mostly composed of opportunists and rioters who take advantage of prevailing chaos as well as the rebellious King's Army. The Waverun Legion denounces Dantalion's corrupt and brutal rule while pursuing their so-called \"justice and freedom\" by looting, burning, and killing.",
     "bg_texture": "event_port",
     "idintelligence_group": 11,
     "group_priority": 8,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 95,
-    "name": "铃兰节",
+    "name": "Convallaria Festival",
     "editor_name": "人文-0008-铃兰节",
-    "manifest_content": "铃兰小镇里一年一度的重大节日，每当铃兰花盛开的季节，当地居民会准备好丰膳美食，款待客人。在铃兰节当天，人们会制作有铃兰图案的小饼干分享给身边的人。铃兰寓意幸福、希望，人们认为只要在这天吃到铃兰饼，就会被赋予好运，幸福常伴。（麦莎注：铃兰饼里没有铃兰花哦！）",
+    "manifest_content": "It is an annual major festival in the Town of Convallaria. During the blooming season of convallaria, local residents will prepare abundant food to entertain guests. On the day of the Convallaria Festival, people will make small cookies with a convellaria pattern to share with others. Convallaria symbolizes happiness and hope. People believe that those having convallaria cookies on this day will be blessed with long-lasting good luck and happiness. (Maitha: There is no convallaria in convallaria cookies!)",
     "bg_texture": "event_citylive",
     "idintelligence_group": 10,
     "group_priority": 8,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 96,
-    "name": "十字路要塞",
+    "name": "Crossroads Keep",
     "editor_name": "地理-0004-十字路要塞",
-    "manifest_content": "十字路要塞是伊利亚的重要军事堡垒，位于王国内两条重要商路交错的咽喉地区，长期由王国军的精锐部队驻守。 它控制着伊利亚的重要商路、后勤补给以及伊利亚河大桥。要塞中囤积的物资足以让守军在围攻下坚持数年。 此外，它还是王都晨曦堡的绝对屏障，任何意图进犯王都的势力都无法绕开这座固若金汤的要塞。",
+    "manifest_content": "The Crossroads Keep is an important military fortress in Iria. It is located at the crossroads of two significant trade routes in the kingdom and has long been garrisoned by elite troops of the King's Army. It controls Iria's significant trade routes, logistical supplies, and the Iria Bridge. The materials stocked up in the Crossroads Keep are enough to keep the defenders under siege alive for several years. Besides, it is also the absolute barrier of the Mornrays Castle to prevent Iria from invasion by any force.",
     "bg_texture": "event_fort",
     "idintelligence_group": 12,
     "group_priority": 4,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 97,
-    "name": "先锋营",
+    "name": "Spear of Iria",
     "editor_name": "势力-0009-先锋营",
-    "manifest_content": "由伊利亚王国军内部的精锐战力组成的战斗营，由王国军将领泽维尔率领，成员大多是激进的伊利亚爱国者，早已立下誓言为伊利亚拼命奋战，死而后已。 无论是战斗意志还是训练水平，先锋营都远胜于一般的王国军。",
+    "manifest_content": "It is a battalion composed of elite warriors within the King's Army and led by General Xavier. Most of the soldiers are radical Irian patriots who have made a pledge to fight fiercely for Iria until death. The Spear of Iria is superior to the ordinary King's Army in combat will and training level.",
     "bg_texture": "event_iriakingdom",
     "idintelligence_group": 11,
     "group_priority": 9,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 98,
-    "name": "审判者",
+    "name": "The Judge",
     "editor_name": "势力-0010-审判者",
-    "manifest_content": "直属于法皇的特别组织。成员身份神秘，只有接受并通过特殊仪式的虔诚信徒才有资格成为审判者的一员。审判者作为法皇的代理人，对内监督庇护之光的虔诚与纯洁，对外惩罚异端、震慑一切法皇国的敌人。",
+    "manifest_content": "It is a special organization directly under the Hierophant. The members have mysterious identities. Only devout believers who have accepted and passed special ceremonies are eligible to become a member of the Judge. The Judge, as the agent of the Hierophant, supervises the piety and purity of the Light of Sanctuary internally and punishes heretics and enemies who intimidate the Papal States externally.",
     "bg_texture": "event_papal",
     "idintelligence_group": 11,
     "group_priority": 10,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 99,
-    "name": "晨曦堡",
+    "name": "Mornrays Castle",
     "editor_name": "地理-0005-晨曦堡",
-    "manifest_content": "晨曦堡是伊利亚王国的都城，前身是伊利亚邦国时期所建的大型驻兵要塞，建设在十字路北端的险要山地之上。 王都人口约3万，远少于浪涌城。王都的人口主要由驻军、实权者家族和为前两者服务的平民构成，因此作为都市的机能并不完整。晨曦堡是伊利亚王国的政治军事中心，商业、工业与农业都不发达，非常依赖十字路输送而来的物资。",
+    "manifest_content": "The Mornrays Castle is the capital of the Kingdom of Iria built on the dangerous hilly area at the northern end of the Crossroads, formerly a large garrison built during the period of the State of Iria. The population of the Mornrays Castle is about 30,000, far less than that of Waverun City. The population of the Mornrays Castle is mainly composed of garrisons, powerful families, and civilians who serve the first two groups, so its function as a city is not complete. The Mornrays Castle is the political and military center of the Kingdom of Iria, with underdeveloped business, industry, and agriculture, heavily reliant on supplies transported by the Crossroads.",
     "bg_texture": "event_kingcity",
     "idintelligence_group": 12,
     "group_priority": 5,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 100,
-    "name": "浪涌城",
+    "name": "Waverun City",
     "editor_name": "地理-0006-浪涌城",
-    "manifest_content": "位于伊利亚西海岸、伊利亚河入海口的港口都市，也是伊利亚最富裕、人口最多的城市。浪涌城是伊利亚的对外贸易枢纽，连接着十字路交通线与骑士同盟的海洋贸易航线，因为近十年的晶石贸易而快速发展。浪涌城汇集了来自各国的商人，对骑士同盟更是具有非同一般的战略地位。近年来，骑士同盟不断通过各种手段扩大着自己在浪涌城的影响力。",
+    "manifest_content": "It is a seaport located on the west coast of Iria and at the estuary of the Iria River. It is also the wealthiest and most populous city in Iria. Waverun City is the foreign trading hub of Iria, connecting the Crossroads' transport line with the Union's marine trade route. It has developed rapidly due to the Luxite trade in recent ten years. Waverun City is a gathering place for merchants from various countries and holds a remarkable strategic position in the Union. In recent years, the Union has continuously expanded its influence in Waverun City by all means.",
     "bg_texture": "event_port",
     "idintelligence_group": 12,
     "group_priority": 6,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 101,
-    "name": "埃拉曼",
+    "name": "Elaman",
     "editor_name": "势力-0011-埃拉曼",
-    "manifest_content": "埃拉曼是一个由游牧民族发展而来的古老帝国，历史上曾靠武力征服了大片领地。而如今，这个帝国自上至下的一切都与商业贸易息息相关。埃拉曼依靠柔软的外交手段与贸易优势在各大强国之间游走，攫取最大化的利益。埃拉曼武装商队的足迹遍布世界各地，商人们相信一切皆有价，即使是活生生的人也不例外。",
+    "manifest_content": "Elaman is an ancient empire established by nomadic people. It conquered vast territories by force in history. Now, it has turned into a commerce-dominated empire. Elaman relies on soft diplomatic means and trade advantages to maneuver major powers and seize maximum benefits. Elaman's armed caravans travel throughout the world, and their merchants believe that everything, even real people, has value.",
     "bg_texture": "event_solomon",
     "idintelligence_group": 11,
     "group_priority": 11,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 102,
-    "name": "银狼佣兵团",
+    "name": "Silver Wolf Mercenary Group",
     "editor_name": "势力-0012-银狼佣兵团",
-    "manifest_content": "隶属于露西亚帝国，由阿加塔·银狼创建并直接领导的佣兵团。其成员大都是从露西亚冰原的寒风中磨砺而出的强大战士。银狼佣兵团凭借其强大的军事素养，组织纪律，受到商业巨擘埃拉曼人的青睐，双方建立着长期稳定的合作关系。",
+    "manifest_content": "It is a mercenary group belonging to the Empire of Luccia, which was founded and directly led by Agata The Silverwolf. Most of its members are strong warriors honed from the icy wind of Luccia Tundra. The Silver Wolf Mercenary Group is favored by the commercial giant Elamanians due to its good military literacy and organizational discipline, so they have established a long-term and stable cooperative relationship.",
     "bg_texture": "event_war",
     "idintelligence_group": 11,
     "group_priority": 12,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 103,
-    "name": "米格尔佣兵团",
+    "name": "Miguel Mercenary Group",
     "editor_name": "势力-0013-米格尔佣兵团",
-    "manifest_content": "受雇于罗迪尼亚法皇国，由米格尔直接领导的佣兵团。米格尔佣兵团的前身是一支游荡在罗迪尼亚大陆上的盗匪集团。得益于米格尔行事高效、手段狠辣、时局把握灵活的行事风格，米格尔佣兵团发展为了一支不可小觑的势力。",
+    "manifest_content": "It is a mercenary group employed by the Papal States of Rodinia and directly led by Miguel. The predecessor of the Miguel Mercenary Group was a bandit group wandering in Rodinia. Under Miguel's efficient, ruthless, and flexible style of grasping the situation, the Miguel Mercenary Group has developed into a force that cannot be overlooked.",
     "bg_texture": "event_war",
     "idintelligence_group": 11,
     "group_priority": 13,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 11
   },
   {
     "id": 104,
-    "name": "伊利亚王室成员",
+    "name": "Members of Iria's Royal Family",
     "editor_name": "人文-0009-伊利亚王室成员",
-    "manifest_content": "伊利亚王室由伊利亚国王及其亲族构成。主要人物有：法里斯国王，第一王子迪塔里奥，第二王子路特菲，王女伊南娜。",
+    "manifest_content": "Iria's royal family is composed of the King of Iria and his relatives. The dominating figures are King Faris, Prince Dantalion, Prince Lutfi, and Princess Inanna.",
     "bg_texture": "event_iriakingdom",
     "idintelligence_group": 10,
     "group_priority": 9,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 105,
-    "name": "大庇护所",
+    "name": "Grand Sanctuary",
     "editor_name": "人文-0010-国葬仪式",
-    "manifest_content": "伊利亚王国的最高仪式之一，为王室的重要成员以及功勋人士举行的葬礼，备受伊利亚人及国际社会关注。",
+    "manifest_content": "It is one of the supreme ceremonies in the Kingdom of Iria. It is the funeral for dominating figures of the royal family and meritorious individuals, which gathers attention from the Irians and the international community.",
     "bg_texture": "event_iriakingdom",
     "idintelligence_group": 10,
     "group_priority": 10,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 106,
-    "name": "魔人",
+    "name": "Mutant",
     "editor_name": "人文-0011-魔人",
-    "manifest_content": "原本只是受到了黑暗之光袭击的普通人类，但他们的伤口却像是受到诅咒一样迟迟不能愈合。如果这些人没有及时得到充分的治疗，极有可能变异为行尸走肉般可怕的怪物。",
+    "manifest_content": "They are actually humans attacked by Darklight, but they seem to be cursed because their wounds cannot heal. If they do not receive timely and sufficient treatment, they are highly likely to mutate into terrifying monsters like the walking dead.",
     "bg_texture": "event_darkritual",
     "idintelligence_group": 10,
     "group_priority": 11,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 107,
-    "name": "大庇护所",
+    "name": "Grand Sanctuary",
     "editor_name": "地理-0007-大庇护所",
-    "manifest_content": "位于罗迪尼亚法皇国圣城。大庇护所发挥着布道、研学、教养追随者、救急扶危的职能。许多无处可归的孤儿们被收养至此。",
+    "manifest_content": "It is the Divine City in the Papal States of Rodinia. The Grand Sanctuary plays the role of preaching, studying, nurturing followers, and emergency care. Many homeless orphans have been adopted here.",
     "bg_texture": "event_papal",
     "idintelligence_group": 12,
     "group_priority": 7,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 108,
-    "name": "晶石火枪",
+    "name": "Luxite Firelock",
     "editor_name": "人文-0012-晶石火枪",
-    "manifest_content": "由鲁特菲在和谈会议上首次展示的新型武器。晶石火枪由美尼亚所发明，其运作方式为利用晶石能量驱动抛射物来杀伤目标。美尼亚人通过特殊的工艺改良了对晶石能量的利用率，使得该武器中的晶石装置可以反复击发，使用者在很长一段时间内只需添加弹丸即可持续作战。晶石火枪是集成了晶石、铸造、装配等前沿技术的产物。虽然目前晶石火枪的威力有限，美尼亚仅将其作为赠品给予鲁特菲，但鲁特菲仍从中预言：世界即将发生一场剧变。",
+    "manifest_content": "It is the new weapon first presented by Lutfi at the peace negotiation. The Luxite firelock was invented by Menia, which uses Luxite energy to drive projectiles to shoot targets. The Menians have improved the utilization of Luxite energy with special techniques, allowing repeated firing of the Luxite device inside and thus ensuring long-term fighting for users simply by reloading. The Luxite firelock is a product that integrates advanced technologies, such as Luxite, casting, and assembly. Menia gave the Luxite firelock to Lutfi as a gift, which only had limited power for now, but Lutfi predicted that the world was about to endure a major change for the new weapon.",
     "bg_texture": "event_money",
     "idintelligence_group": 10,
     "group_priority": 12,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 109,
-    "name": "枢机卿",
+    "name": "Bishop",
     "editor_name": "人文-0013-枢机卿",
-    "manifest_content": "法皇国高层的管理人员，负责分担法皇行政职务、主持法皇国以及各地辖区的庇护之光仪式。枢机卿由法皇亲自任命，且职权仅次于法皇。枢机卿的权力视法皇国在当地的影响力而有所不同，在从属法皇国多年的邦国里，枢机卿在政务管理上拥有极大的话语权。",
+    "manifest_content": "The Bishop is the senior manager of the Papal States. Responsible for undertaking the administrative duties and presiding over the Light of Sanctuary ceremony of the Papal States and various jurisdictions, the Bishop is appointed by the Hierophant. They have authority second only to that of the Hierophant themselves. The authority of the Bishop varies depending on the influence of the Hierophant in the local area. They have a decisive say in government management in those states that have been subordinate to the Papal States for years.",
     "bg_texture": "event_papal",
     "idintelligence_group": 10,
     "group_priority": 13,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 110,
-    "name": "伊利亚邦国",
+    "name": "State of Iria",
     "editor_name": "人文-0014-伊利亚邦国",
-    "manifest_content": "第二次光辉之战后，统治伊利亚数百年的埃拉曼帝国战败。伊利亚被割让为附庸于法皇国的邦国，并立庇护之光为国教。后在法里斯领导的起义下，伊利亚邦国的统治被推翻，独立为伊利亚王国。",
+    "manifest_content": "After the Radiant War II, the Elaman Empire, which had ruled Iria for hundreds of years, was defeated. Iria was ceded as a vassal state to the Papal States of Rodinia, and set the Light of Sanctuary to oversee the state's religion. Later, under the uprising led by Faris, the rule of the State of Iria was overthrown, and the independent Kingdom of Iria was established.",
     "bg_texture": "event_iriakingdom",
     "idintelligence_group": 10,
     "group_priority": 14,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 111,
-    "name": "旧贵族",
+    "name": "Old Aristocracies",
     "editor_name": "人文-0015-旧贵族",
-    "manifest_content": "在伊利亚邦国时期拥有特权的贵族集团，大多数旧贵族凭借特权积累了庞大的财富，其存在受到法皇国一定的保护。伊利亚王国独立后，旧贵族的大部分权力被分让给法里斯王室，即使旧贵族对外宣称支持法里斯王室的统治，但仍企图复辟邦国，重获那时的权力与地位。",
+    "manifest_content": "They are the privileged aristocratic group existing during the period of the State of Iria when most old aristocracies accumulated a great fortune through their privileges. They are protected by the Papal States. Since the independence of the Kingdom of Iria, the most authority of the old aristocracies was ceded to the Faris family. Even though the old aristocracies declared their support for the rule of the Faris family, they still attempted to restore the state and regain the power and position they owned back then.",
     "bg_texture": "event_iriakingdom",
     "idintelligence_group": 10,
     "group_priority": 15,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 112,
-    "name": "异变者",
+    "name": "Mutant",
     "editor_name": "人文-0016-异变者",
-    "manifest_content": "黑暗之光长期秘密在矿坑城进行惨无人道的晶石人体实验，根据晶石种类、实验的方式以及人体特性的差异，晶石人体实验将会促成人体不同程度的异变。晶石人体实验的失败率极高，失败的实验品必定会遭到晶石的反噬，凄惨死去。剩余幸存者的肉体将会与晶石融合，获得强大的晶石之力。随着晶石逐渐侵入肉体内部与神经中枢，实验体终将失去所有理智、感知与语言功能，彻底沦为一具行尸走肉。\n另外，受到晶石人体实验污染的各种生物也会产生异变，随着污染的加深，受污染生物的骨骼结构将会逐渐溶解，最终异变为一滩烂泥状的怪物。由于这些变异生物在拖拽黏糊糊的身体行动时常发出“噗露噗露”的声音，矿坑城的目击者便以“噗露噗露”命名它们，在他们心中，这就是死亡逐渐逼近的警告。",
+    "manifest_content": "For an extended period of time, the Darklight has been secretly using Luxites to conduct outrageous human experiments in the Mine Pit. These experiments can lead to various mutations of the human body based on different stone types, research approaches, and subject characteristics. They have an extremely high failure rate, where Luxites in failed experiments invariably backfire on the subjects and cause miserable deaths. On the other hand, the survivors will merge with the stones and gain extraordinary powers. However, as the Luxite invades the flesh and central nervous system, the subject will ultimately lose all their senses, rationality, and linguistic capabilities, thus reduced to a living corpse.\nIn addition, creatures contaminated by the human experiments also undergo mutations. As their skeletal structure gradually dissolves from the exacerbating contamination, they will eventually devolve into mud-like monsters. People in the Mine Pit have named these mutant creatures \"Purupuru\" after the burbling noises they make when dragging their squishy torsos to move around. The ominous sound cautions against death drawing near.",
     "bg_texture": "event_darkritual",
     "idintelligence_group": 10,
     "group_priority": 16,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 113,
-    "name": "米格尔的清单",
+    "name": "Miguel's List",
     "editor_name": "人文-0017-米格尔的清单",
-    "manifest_content": "法皇国秘密交给佣兵米格尔的任务清单，清单页面末尾盖上了法皇国的“光辉”印戳。\n根据任务清单里的内容，浪涌城惨剧的真相开始逐步明晰地呈现了出来，米格尔受法皇国指派完成了以下任务：\n1、卧底渗透入骑士同盟内部，赢得骑士同盟的信任。\n2、在王女演讲当天混入平民当中，尽可能煽动浪涌城的平民，帮助骑士同盟在浪涌城制造动乱。\n3、让王女在这场混乱中殒命，直接挑起平民对王国军的武装对抗，将事态激化到骑士同盟与王国军都无法控制的程度，让双方势力都猝不及防地被快速卷入一场大战当中，互相消耗。\n4、搜集骑士同盟策划浪涌城惨案的证据，留作法皇国扳倒骑士同盟并进一步控制伊利亚的后手。",
+    "manifest_content": "A to-do list issued by the Papal States, secretly handed to a mercenary called Miguel. One could see the \"Radiant\" stamp signifying the authorities at the end of the list.\nIts content reveals what truly happened at the Waverun City Tragedy. Miguel was assigned the following tasks by the Papal States:\n1. Infiltrate the Union undercover and gain their trust.\n2. On the day of the Princess' speech, help the Union incite a riot in Waverun City by blending in with and instigating the civilians.\n3. Ensure the Princess dies in the riot to start an armed conflict between the civilians and the King's Army. Escalate the situation beyond the control of the Union and the King's Army to engage the two parties off guard in a battle that wears them out.\n4. Gather evidence that the Union is behind the Waverun City Tragedy, which the Papal States may leverage to overthrow the Union and gain control over Iria.",
     "bg_texture": "event_letter",
     "idintelligence_group": 10,
     "group_priority": 17,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 114,
-    "name": "拉维耶的日记",
+    "name": "Rawiyah's Diary",
     "editor_name": "人文-0018-拉维耶的日记",
-    "manifest_content": "米格尔转交给你们的日记，封面上还残存着拉维耶斑驳的血迹，日记中拉维耶片段式地记录了自己在浪涌城的调查过程：\n\n“根据线人的情报，在浪涌城惨剧发生前，倒吊人就已经提前做好了要全面战斗的准备，难道迪塔利奥早就知道这一切会发生吗？这还只是我的猜测，我还需要更多的证据。”\n\n“在跟踪了几个事发当天参与煽动民众的佣兵后，我能肯定他们无一例外都跟骑士同盟有一腿，如果能找到骑士同盟和浪涌城惨案有关的铁证的话……或许一切就都能水落石出。”\n\n“竟然是骑士同盟煽动起了浪涌城的暴乱，没想到骑士同盟竟然使用如此卑劣的手段，我必须把这一切公之于众！”\n\n那个身影……好熟悉……那个家伙该不会是……”",
+    "manifest_content": "You received the diary from Miguel, its cover still stained with Rawiyah's blood. Rawiyah recorded her investigation in Waverun City in bits and pieces:\n\n\"According to the informant, the Hanged Men had already made preparation for full-scale battle prior to the Waverun City Tragedy. Had Dantalion known what was coming? I need more evidence to prove my speculation.\"\n\n\"After following several mercenaries who instigated the crowd on the day of the incident, I've become certain that they all had something to do with the Union. If only I could find solid evidence of the Union's involvement in the Tragedy... Perhaps the truth will come out.\"\n\n\"It was the Union that incited the riot in Waverun City! Who'd have thought they'd resort to such despicable means? The people must know!\"\n\n\"That figure... It rings a bell... Could it be...\"",
     "bg_texture": "event_letter",
     "idintelligence_group": 10,
     "group_priority": 18,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 115,
-    "name": "暮光城",
+    "name": "Lightgloam City",
     "editor_name": "地理-0008-暮光城",
-    "manifest_content": "位于伊利亚南方，曾是伊利亚邦国的首都。伊利亚内战中，法皇国以扶持邦国王室后裔的名义占据了暮光城，并派遣枢机卿管理此地。自此之后，暮光城成为了法皇国在伊利亚地区的政治中心。",
+    "manifest_content": "Located in the south of Iria, Lightgloam City was once the capital of the State of Iria. During the Irian Civil War, the Papal States occupied Lightgloam City under the excuse of supporting the royal descendants and later sent Bishops to rule the city. Since then, Lightgloam City has become the political center of the Papal States in Iria.",
     "bg_texture": "event_papal",
     "idintelligence_group": 12,
     "group_priority": 8,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 116,
-    "name": "神罚",
+    "name": "Divine Punishment",
     "editor_name": "人文-0019-神罚",
-    "manifest_content": "法皇国的审判者使用自身特有的能力引发晶石能量剧烈波动，伴随着晶石的破碎，爆发的能量连续轰击周围，其惊人的破坏力犹如上天降下的怒罚一般。审判者常以“神罚”处决那些亵渎光辉的罪大恶极之人。",
+    "manifest_content": "The Judge of the Papal States channels their distinct innate power to induce tremendous Luxite energy fluctuations that shatter the crystal. The resulting energy blast continuously assaults its surroundings with an appalling magnitude of destruction comparable to divine punishments delivered in heaven's wrath. The \"Divine Punishment\" is often used to execute the heinous sinners that desecrate the Radiant.",
     "bg_texture": "event_papal",
     "idintelligence_group": 10,
     "group_priority": 19,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 117,
-    "name": "铃兰花冠",
+    "name": "Crown of Convallaria",
     "editor_name": "人文-0020-铃兰花冠",
-    "manifest_content": "由铃兰花及其花藤编织的精美花冠，舒展的藤蔓上还画着一只歪歪扭扭的小猫咪，将花冠衬托得越发可爱。花冠中心的晶石闪烁着莹莹星光，为花冠增添了一份静谧与神圣的色彩。",
+    "manifest_content": "The exquisite crown woven from May lilies and their vines appears more adorable with the little kitten sketched on the yawning vines. A celestial glow emanates from the Luxite at the center, lending a touch of serenity and holiness to the crown.",
     "bg_texture": "event_linglanhome",
     "idintelligence_group": 10,
     "group_priority": 20,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 118,
-    "name": "铃兰商会",
+    "name": "Convallaria Trading Post",
     "editor_name": "人文-0021-铃兰商会",
-    "manifest_content": "于铃兰小镇成立，联合多个行业商人的组织。旨在加强对民生资源的保障、促进生产与商业发展、维护贸易秩序以及处理贸易纠纷等问题。",
+    "manifest_content": "Established in the Town of Convallaria, it's an organization that unites merchants from various industries. Its aim is to strengthen the guarantee of livelihood resources, promote production and commercial development, maintain trade order, and handle trade disputes.",
     "bg_texture": "event_money",
     "idintelligence_group": 10,
     "group_priority": 21,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 119,
-    "name": "狐与松鼠晶石采矿联合体",
+    "name": "Fox and Squirrel Crystal Mining Syndicate",
     "editor_name": "人文-0022-狐与松鼠晶石采矿联合体",
-    "manifest_content": "简称“狐与松鼠”，是由矿坑城和薇尔德的代表在共同磋商下建立起来的利益同盟。旨在让被压迫的矿坑城和薇尔德民众拥有属于自己的晶石产能，并汇成合力参与市场竞争，其产业的利润用于哺育民生建设。其办事处设立在铃兰商会。",
+    "manifest_content": "Known as \"Fox and Squirrel,\" it is a benefit alliance established through joint consultations by representatives from Mine Pit and Vlder. Its purpose is to allow the oppressed people of Mine Pit and Vlder to have their own Luxite production capabilities, join forces in market competition, and use the profits from the industry to nurture the construction of livelihood. Its office is set up in Convallaria Trading Post.",
     "bg_texture": "event_shakehands",
     "idintelligence_group": 10,
     "group_priority": 22,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 120,
-    "name": "矿工起义",
+    "name": "Uprising by Miners",
     "editor_name": "人文-0023-矿工起义",
-    "manifest_content": "于伊利亚邦国时期，由伊利亚矿工所发起的，一场反抗法皇国剥削的大规模起义运动。而在起义过程中，工人群体内部出现了少部分叛徒，致使法皇国掌握了起义运动的情况，使起义运动最终走向了失败。",
+    "manifest_content": "During the era of the State of Iria, a large-scale uprising movement initiated by Irian miners to resist the exploitation of the Papal States. However, during the uprising, a small number of traitors emerged within the labor group, allowing the Papal States to grasp the situation of the movement, leading to its eventual failure.",
     "bg_texture": "event_rebellion",
     "idintelligence_group": 10,
     "group_priority": 23,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 121,
-    "name": "罗迪尼亚贸易组织",
+    "name": "Rodinia Trade Organization",
     "editor_name": "人文-0024-罗迪尼亚贸易组织",
-    "manifest_content": "由各经济体依托“罗迪尼亚贸易协定”所组成的组织。旨在通过贸易协调成员之间的利益冲突，停止战争，并在战后协调各缔约方之间的贸易往来。",
+    "manifest_content": "An organization formed based on the \"Rodinia Trade Agreement\". It aims to mediate conflicts of interest between members through trade, stop wars, and coordinate trade relations between the signatories after the war.",
     "bg_texture": "event_trade",
     "idintelligence_group": 10,
     "group_priority": 24,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   },
   {
     "id": 122,
-    "name": "拉比亚绿洲",
+    "name": "Rabi'a Oasis",
     "editor_name": "地理-0009-拉比亚绿洲",
-    "manifest_content": "伊利亚境内最接近埃拉曼领土的贸易站，相比伊利亚商人，埃拉曼商人在此处的势力更加强大。这里鱼龙混杂，但生意机会也很多。",
+    "manifest_content": "The trade station in Iria closest to the territory of Elaman, where Elamanian merchants have a stronger influence than those from Iria. It's a mixed bag, but there are many business opportunities.",
     "bg_texture": "event_solomon",
     "idintelligence_group": 12,
     "group_priority": 9,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 123,
-    "name": "大沙海",
+    "name": "Great Sand Sea",
     "editor_name": "地理-0010-大沙海",
-    "manifest_content": "罗迪尼亚大陆上最大的沙漠，出入拉比亚绿洲的商队往往需要穿越这片环境恶劣的地带。大沙海盛行强风，时常会形成沙暴，为穿行者带来极大困扰。",
+    "manifest_content": "The largest desert on Rodinia. Caravans entering and leaving the Rabi'a Oasis need to traverse this harsh environment. Strong winds prevail in the Great Sand Sea, often forming sandstorms, causing great trouble to passersby.",
     "bg_texture": "event_smalloasis",
     "idintelligence_group": 12,
     "group_priority": 10,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 12
   },
   {
     "id": 124,
-    "name": "大哈沙",
+    "name": "Great Hashah",
     "editor_name": "人文-0025-大哈沙",
-    "manifest_content": "大哈沙是埃拉曼帝国的帝王称号，埃拉曼境内一切的拥有者。新一代的大哈沙上位后，通过“国家商人”制度，让埃拉曼进入了新的繁盛时期。坊间传闻其个性古怪莫测，常与水相伴。",
+    "manifest_content": "The emperor title of the Elaman Empire, the owner of everything within the territory of Elaman. After the new Great Hashah took the throne, through the \"National Merchant\" system, Elaman entered a new era of prosperity. It is rumored that he has a peculiar and unpredictable personality, often associated with water.",
     "bg_texture": "event_solomon",
     "idintelligence_group": 10,
     "group_priority": 25,
-    "sort_id": 0
+    "sort_id": 0,
+    "has_group": true,
+    "idgroup": 10
   }
 ]

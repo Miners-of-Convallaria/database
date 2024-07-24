@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "m_system_redirects": [],
-    "name": "史诗光淬溶剂",
-    "desc": "史诗级别的装备，通用升星素材。",
+    "m_system_redirects": [1009],
+    "name": "Epic Light-quenching Solvent",
+    "desc": "Epic gear, and universal star level up material.",
     "rarity": 3,
     "star": 1,
     "system_redirect_ids": "1009",
@@ -11,9 +11,9 @@
   },
   {
     "id": 2,
-    "m_system_redirects": [],
-    "name": "传说光淬溶剂",
-    "desc": "传说级别的装备，通用升星素材。",
+    "m_system_redirects": [1009],
+    "name": "Legendary Light-quenching Solvent",
+    "desc": "Legendary gear, and universal star level up material.",
     "rarity": 4,
     "star": 1,
     "system_redirect_ids": "1009",

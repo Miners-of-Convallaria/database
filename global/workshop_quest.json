@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "材料募集：小段木材",
+    "name": "Material: Small timber",
     "editor_name": "1~2级资源1-1",
     "desc": "",
     "duration": 2,
@@ -20,7 +20,7 @@
   },
   {
     "id": 3,
-    "name": "材料募集：小块铁锭",
+    "name": "Material: Small ingot iron",
     "editor_name": "1~2级资源1-3",
     "desc": "",
     "duration": 2,
@@ -39,7 +39,7 @@
   },
   {
     "id": 4,
-    "name": "材料募集：大段木材",
+    "name": "Material: Large timber",
     "editor_name": "1~2级资源2-1",
     "desc": "",
     "duration": 2,
@@ -58,7 +58,7 @@
   },
   {
     "id": 6,
-    "name": "材料募集：大块铁锭",
+    "name": "Material: Large ingot iron",
     "editor_name": "1~2级资源2-3",
     "desc": "",
     "duration": 2,
@@ -77,7 +77,7 @@
   },
   {
     "id": 7,
-    "name": "金币募集：启动资金",
+    "name": "Coin: Start-up funds",
     "editor_name": "2~3级资源3",
     "desc": "",
     "duration": 2,
@@ -96,7 +96,7 @@
   },
   {
     "id": 8,
-    "name": "材料募集：小捆木材",
+    "name": "Material: Small bundle of wooden sticks",
     "editor_name": "3~4级资源1-1",
     "desc": "",
     "duration": 2,
@@ -115,7 +115,7 @@
   },
   {
     "id": 10,
-    "name": "材料募集：小箱铁锭",
+    "name": "Material: Small box of ingot iron",
     "editor_name": "3~4级资源1-3",
     "desc": "",
     "duration": 2,
@@ -134,7 +134,7 @@
   },
   {
     "id": 11,
-    "name": "材料募集：大捆木材",
+    "name": "Material: Large bundle of wooden sticks",
     "editor_name": "3~4级资源2-1",
     "desc": "",
     "duration": 2,
@@ -153,7 +153,7 @@
   },
   {
     "id": 13,
-    "name": "材料募集：大箱铁锭",
+    "name": "Material: Large box of ingot iron",
     "editor_name": "3~4级资源2-3",
     "desc": "",
     "duration": 2,
@@ -172,7 +172,7 @@
   },
   {
     "id": 14,
-    "name": "金币募集：实验经费",
+    "name": "Coin: Experimental funds",
     "editor_name": "3~4级资源3",
     "desc": "",
     "duration": 2,
@@ -191,7 +191,7 @@
   },
   {
     "id": 15,
-    "name": "金币募集：修缮工坊",
+    "name": "Coin: Workshop renovation",
     "editor_name": "3~4级资源4",
     "desc": "",
     "duration": 2,
@@ -210,7 +210,7 @@
   },
   {
     "id": 17,
-    "name": "资源募集：维护器材",
+    "name": "Resource: Equipment maintenance",
     "editor_name": "4级资源4-1",
     "desc": "",
     "duration": 2,
@@ -229,7 +229,7 @@
   },
   {
     "id": 18,
-    "name": "资源募集：熔炼矿物",
+    "name": "Resource: Mineral fusing",
     "editor_name": "4级资源4-3",
     "desc": "",
     "duration": 2,
@@ -248,7 +248,7 @@
   },
   {
     "id": 19,
-    "name": "材料募集：小堆木材",
+    "name": "Material: Small pile of timber",
     "editor_name": "5~6级资源1-1",
     "desc": "",
     "duration": 2,
@@ -267,7 +267,7 @@
   },
   {
     "id": 21,
-    "name": "材料募集：小车铁锭",
+    "name": "Material: Small cart of ingot iron",
     "editor_name": "5~6级资源1-3",
     "desc": "",
     "duration": 2,
@@ -286,7 +286,7 @@
   },
   {
     "id": 22,
-    "name": "材料募集：大堆木材",
+    "name": "Material: Large pile of timber",
     "editor_name": "5~6级资源2-1",
     "desc": "",
     "duration": 2,
@@ -305,7 +305,7 @@
   },
   {
     "id": 24,
-    "name": "材料募集：大车铁锭",
+    "name": "Material: Large cart of ingot iron",
     "editor_name": "5~6级资源2-3",
     "desc": "",
     "duration": 2,
@@ -324,7 +324,7 @@
   },
   {
     "id": 25,
-    "name": "金币募集：大笔采购",
+    "name": "Coin: Bulk purchase",
     "editor_name": "5~6级资源3",
     "desc": "",
     "duration": 2,
@@ -343,7 +343,7 @@
   },
   {
     "id": 26,
-    "name": "金币募集：扩建工坊",
+    "name": "Coin: Workshop expansion",
     "editor_name": "5~6级资源4",
     "desc": "",
     "duration": 2,
@@ -362,7 +362,7 @@
   },
   {
     "id": 27,
-    "name": "资源募集：打造工具",
+    "name": "Resource: Tools forging",
     "editor_name": "5~6级资源4-1",
     "desc": "",
     "duration": 2,
@@ -381,7 +381,7 @@
   },
   {
     "id": 28,
-    "name": "资源募集：研发配方",
+    "name": "Resource: Formulation development",
     "editor_name": "5~6级资源4-3",
     "desc": "",
     "duration": 2,
@@ -400,7 +400,7 @@
   },
   {
     "id": 29,
-    "name": "简单：切割石材",
+    "name": "Easy: Cut stones",
     "editor_name": "1~2级劳务1-1",
     "desc": "",
     "duration": 2,
@@ -419,7 +419,7 @@
   },
   {
     "id": 30,
-    "name": "简单：外出采购",
+    "name": "Easy: Go shopping",
     "editor_name": "1~2级劳务1-2",
     "desc": "",
     "duration": 2,
@@ -438,7 +438,7 @@
   },
   {
     "id": 31,
-    "name": "简单：提炼原料",
+    "name": "Easy: Extract raw materials",
     "editor_name": "1~2级劳务1-3",
     "desc": "",
     "duration": 2,
@@ -457,7 +457,7 @@
   },
   {
     "id": 32,
-    "name": "简单：打扫工坊",
+    "name": "Easy: Clean the workshop",
     "editor_name": "1~2级劳务1-4",
     "desc": "",
     "duration": 2,
@@ -476,7 +476,7 @@
   },
   {
     "id": 33,
-    "name": "简单：保养器材",
+    "name": "Easy: Maintain the equipment",
     "editor_name": "1~2级劳务1-5",
     "desc": "",
     "duration": 2,
@@ -495,7 +495,7 @@
   },
   {
     "id": 34,
-    "name": "复杂：切割石材",
+    "name": "Complex: Cut stones",
     "editor_name": "1~2级劳务2-1",
     "desc": "",
     "duration": 2,
@@ -514,7 +514,7 @@
   },
   {
     "id": 35,
-    "name": "复杂：外出采购",
+    "name": "Complex: Go shopping",
     "editor_name": "1~2级劳务2-2",
     "desc": "",
     "duration": 2,
@@ -533,7 +533,7 @@
   },
   {
     "id": 36,
-    "name": "复杂：提炼原料",
+    "name": "Complex: Extract raw materials",
     "editor_name": "1~2级劳务2-3",
     "desc": "",
     "duration": 2,
@@ -552,7 +552,7 @@
   },
   {
     "id": 37,
-    "name": "复杂：打扫工坊",
+    "name": "Complex: Clean the workshop",
     "editor_name": "1~2级劳务2-4",
     "desc": "",
     "duration": 2,
@@ -571,7 +571,7 @@
   },
   {
     "id": 38,
-    "name": "复杂：保养器材",
+    "name": "Complex: Maintain the equipment",
     "editor_name": "1~2级劳务2-5",
     "desc": "",
     "duration": 2,
@@ -590,7 +590,7 @@
   },
   {
     "id": 39,
-    "name": "困难：切割石材",
+    "name": "Challenge: Cut stones",
     "editor_name": "1~2级劳务3-1",
     "desc": "",
     "duration": 2,
@@ -609,7 +609,7 @@
   },
   {
     "id": 40,
-    "name": "困难：外出采购",
+    "name": "Challenge: Go shopping",
     "editor_name": "1~2级劳务3-2",
     "desc": "",
     "duration": 2,
@@ -628,7 +628,7 @@
   },
   {
     "id": 41,
-    "name": "困难：提炼原料",
+    "name": "Challenge: Extract raw materials",
     "editor_name": "1~2级劳务3-3",
     "desc": "",
     "duration": 2,
@@ -647,7 +647,7 @@
   },
   {
     "id": 42,
-    "name": "困难：打扫工坊",
+    "name": "Challenge: Clean the workshop",
     "editor_name": "1~2级劳务3-4",
     "desc": "",
     "duration": 2,
@@ -666,7 +666,7 @@
   },
   {
     "id": 43,
-    "name": "困难：保养器材",
+    "name": "Challenge: Maintain the equipment",
     "editor_name": "1~2级劳务3-5",
     "desc": "",
     "duration": 2,
@@ -685,7 +685,7 @@
   },
   {
     "id": 44,
-    "name": "临时：搬运物资",
+    "name": "Temporary: Handle the materials",
     "editor_name": "3~4级劳务1-1",
     "desc": "",
     "duration": 2,
@@ -704,7 +704,7 @@
   },
   {
     "id": 45,
-    "name": "临时：捕捉昆虫",
+    "name": "Temporary: Catch insects",
     "editor_name": "3~4级劳务1-2",
     "desc": "",
     "duration": 2,
@@ -723,7 +723,7 @@
   },
   {
     "id": 46,
-    "name": "临时：提炼晶石",
+    "name": "Temporary: Refine Luxite",
     "editor_name": "3~4级劳务1-3",
     "desc": "",
     "duration": 2,
@@ -742,7 +742,7 @@
   },
   {
     "id": 47,
-    "name": "临时：修补坩埚",
+    "name": "Temporary: Fix the crucible",
     "editor_name": "3~4级劳务1-4",
     "desc": "",
     "duration": 2,
@@ -761,7 +761,7 @@
   },
   {
     "id": 48,
-    "name": "临时：清理废渣",
+    "name": "Temporary: Clean up slags",
     "editor_name": "3~4级劳务1-5",
     "desc": "",
     "duration": 2,
@@ -780,7 +780,7 @@
   },
   {
     "id": 49,
-    "name": "全天：搬运物资",
+    "name": "All-day: Handle the materials",
     "editor_name": "3~4级劳务2-1",
     "desc": "",
     "duration": 2,
@@ -799,7 +799,7 @@
   },
   {
     "id": 50,
-    "name": "全天：捕捉昆虫",
+    "name": "All-day: Catch insects",
     "editor_name": "3~4级劳务2-2",
     "desc": "",
     "duration": 2,
@@ -818,7 +818,7 @@
   },
   {
     "id": 51,
-    "name": "全天：提炼晶石",
+    "name": "All-day: Refine Luxite",
     "editor_name": "3~4级劳务2-3",
     "desc": "",
     "duration": 2,
@@ -837,7 +837,7 @@
   },
   {
     "id": 52,
-    "name": "全天：修补坩埚",
+    "name": "All-day: Fix the crucible",
     "editor_name": "3~4级劳务2-4",
     "desc": "",
     "duration": 2,
@@ -856,7 +856,7 @@
   },
   {
     "id": 53,
-    "name": "全天：清理废渣",
+    "name": "All-day: Clean up slags",
     "editor_name": "3~4级劳务2-5",
     "desc": "",
     "duration": 2,
@@ -875,7 +875,7 @@
   },
   {
     "id": 54,
-    "name": "通宵：搬运物资",
+    "name": "All-night: Handle the materials",
     "editor_name": "3~4级劳务3-1",
     "desc": "",
     "duration": 2,
@@ -894,7 +894,7 @@
   },
   {
     "id": 55,
-    "name": "通宵：捕捉昆虫",
+    "name": "All-night: Catch insects",
     "editor_name": "3~4级劳务3-2",
     "desc": "",
     "duration": 2,
@@ -913,7 +913,7 @@
   },
   {
     "id": 56,
-    "name": "通宵：提炼晶石",
+    "name": "All-night: Refine Luxite",
     "editor_name": "3~4级劳务3-3",
     "desc": "",
     "duration": 2,
@@ -932,7 +932,7 @@
   },
   {
     "id": 57,
-    "name": "通宵：修补坩埚",
+    "name": "All-night: Fix the crucible",
     "editor_name": "3~4级劳务3-4",
     "desc": "",
     "duration": 2,
@@ -951,7 +951,7 @@
   },
   {
     "id": 58,
-    "name": "通宵：清理废渣",
+    "name": "All-night: Clean up slags",
     "editor_name": "3~4级劳务3-5",
     "desc": "",
     "duration": 2,
@@ -970,7 +970,7 @@
   },
   {
     "id": 59,
-    "name": "临时：扩建施工",
+    "name": "Temporary: Expansion construction",
     "editor_name": "5~6级劳务1-1",
     "desc": "",
     "duration": 2,
@@ -989,7 +989,7 @@
   },
   {
     "id": 60,
-    "name": "临时：采摘草药",
+    "name": "Temporary: Pick herbs",
     "editor_name": "5~6级劳务1-2",
     "desc": "",
     "duration": 2,
@@ -1008,7 +1008,7 @@
   },
   {
     "id": 61,
-    "name": "临时：研发配方",
+    "name": "Temporary: Develop formulas",
     "editor_name": "5~6级劳务1-3",
     "desc": "",
     "duration": 2,
@@ -1027,7 +1027,7 @@
   },
   {
     "id": 62,
-    "name": "临时：抢修屋顶",
+    "name": "Temporary: Rush to repair the roof",
     "editor_name": "5~6级劳务1-4",
     "desc": "",
     "duration": 2,
@@ -1046,7 +1046,7 @@
   },
   {
     "id": 63,
-    "name": "临时：测试药剂",
+    "name": "Temporary: Test the potions",
     "editor_name": "5~6级劳务1-5",
     "desc": "",
     "duration": 2,
@@ -1065,7 +1065,7 @@
   },
   {
     "id": 64,
-    "name": "全天：扩建施工",
+    "name": "All-day: Expansion construction",
     "editor_name": "5~6级劳务2-1",
     "desc": "",
     "duration": 2,
@@ -1084,7 +1084,7 @@
   },
   {
     "id": 65,
-    "name": "全天：采摘草药",
+    "name": "All-day: Pick herbs",
     "editor_name": "5~6级劳务2-2",
     "desc": "",
     "duration": 2,
@@ -1103,7 +1103,7 @@
   },
   {
     "id": 66,
-    "name": "全天：研发配方",
+    "name": "All-day: Develop formulas",
     "editor_name": "5~6级劳务2-3",
     "desc": "",
     "duration": 2,
@@ -1122,7 +1122,7 @@
   },
   {
     "id": 67,
-    "name": "全天：抢修屋顶",
+    "name": "All-day: Rush to repair the roof",
     "editor_name": "5~6级劳务2-4",
     "desc": "",
     "duration": 2,
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 68,
-    "name": "全天：测试药剂",
+    "name": "All-day: Test the potions",
     "editor_name": "5~6级劳务2-5",
     "desc": "",
     "duration": 2,
@@ -1160,7 +1160,7 @@
   },
   {
     "id": 69,
-    "name": "通宵：扩建施工",
+    "name": "All-night: Expansion construction",
     "editor_name": "5~6级劳务3-1",
     "desc": "",
     "duration": 2,
@@ -1179,7 +1179,7 @@
   },
   {
     "id": 70,
-    "name": "通宵：采摘草药",
+    "name": "All-night: Pick herbs",
     "editor_name": "5~6级劳务3-2",
     "desc": "",
     "duration": 2,
@@ -1198,7 +1198,7 @@
   },
   {
     "id": 71,
-    "name": "通宵：研发配方",
+    "name": "All-night: Develop formulas",
     "editor_name": "5~6级劳务3-3",
     "desc": "",
     "duration": 2,
@@ -1217,7 +1217,7 @@
   },
   {
     "id": 72,
-    "name": "通宵：抢修屋顶",
+    "name": "All-night: Rush to repair the roof",
     "editor_name": "5~6级劳务3-4",
     "desc": "",
     "duration": 2,
@@ -1236,7 +1236,7 @@
   },
   {
     "id": 73,
-    "name": "通宵：测试药剂",
+    "name": "All-night: Test the potions",
     "editor_name": "5~6级劳务3-5",
     "desc": "",
     "duration": 2,
@@ -1255,7 +1255,7 @@
   },
   {
     "id": 77,
-    "name": "实战测试：超重药剂",
+    "name": "Task: Overweight Potion",
     "editor_name": "1~6级战斗限时1",
     "desc": "",
     "duration": 4,
@@ -1274,7 +1274,7 @@
   },
   {
     "id": 78,
-    "name": "实战测试：光之降临",
+    "name": "Task: Light Rinse",
     "editor_name": "1~6级战斗限时2",
     "desc": "",
     "duration": 4,
@@ -1293,7 +1293,7 @@
   },
   {
     "id": 79,
-    "name": "实战测试：灵动之风",
+    "name": "Task: Nimble Wind",
     "editor_name": "1~6级战斗限时3",
     "desc": "",
     "duration": 4,
@@ -1312,7 +1312,7 @@
   },
   {
     "id": 80,
-    "name": "实战测试：缠绕枷锁",
+    "name": "Task: Tangled Shackles",
     "editor_name": "1~6级战斗限时4",
     "desc": "",
     "duration": 4,
@@ -1331,7 +1331,7 @@
   },
   {
     "id": 81,
-    "name": "实战测试：沉默戏法",
+    "name": "Task: Trick of Silence",
     "editor_name": "1~6级战斗限时5",
     "desc": "",
     "duration": 4,
@@ -1350,7 +1350,7 @@
   },
   {
     "id": 82,
-    "name": "实战测试：酸性药剂",
+    "name": "Task: Acid Potion",
     "editor_name": "1~6级战斗限时6",
     "desc": "",
     "duration": 4,
@@ -1369,7 +1369,7 @@
   },
   {
     "id": 83,
-    "name": "实战测试：荆棘大地",
+    "name": "Task: Thorny Ground",
     "editor_name": "1~6级战斗限时7",
     "desc": "",
     "duration": 4,
@@ -1388,7 +1388,7 @@
   },
   {
     "id": 84,
-    "name": "实战测试：和平信标",
+    "name": "Task: Peace Beacon",
     "editor_name": "1~6级战斗限时8",
     "desc": "",
     "duration": 4,
@@ -1407,7 +1407,7 @@
   },
   {
     "id": 85,
-    "name": "实战测试：光之奇迹",
+    "name": "Task: Miracle of Light",
     "editor_name": "1~6级战斗限时9",
     "desc": "",
     "duration": 4,
@@ -1426,7 +1426,7 @@
   },
   {
     "id": 86,
-    "name": "实战测试：否决屏障",
+    "name": "Task: Veto Barrier",
     "editor_name": "1~6级战斗限时10",
     "desc": "",
     "duration": 4,
@@ -1445,7 +1445,7 @@
   },
   {
     "id": 87,
-    "name": "材料募集：小段木材",
+    "name": "Material: Small timber",
     "editor_name": "1~2级资源1-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1464,7 +1464,7 @@
   },
   {
     "id": 88,
-    "name": "材料募集：小块铁锭",
+    "name": "Material: Small ingot iron",
     "editor_name": "1~2级资源1-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1483,7 +1483,7 @@
   },
   {
     "id": 89,
-    "name": "材料募集：大段木材",
+    "name": "Material: Large timber",
     "editor_name": "1~2级资源2-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1502,7 +1502,7 @@
   },
   {
     "id": 90,
-    "name": "材料募集：大块铁锭",
+    "name": "Material: Large ingot iron",
     "editor_name": "1~2级资源2-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 91,
-    "name": "资金募集：启动资金",
+    "name": "Funds: Start-up funds",
     "editor_name": "2~3级资源3_CD+",
     "desc": "",
     "duration": 3,
@@ -1540,7 +1540,7 @@
   },
   {
     "id": 92,
-    "name": "材料募集：小捆木材",
+    "name": "Material: Small bundle of wooden sticks",
     "editor_name": "3~4级资源1-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1559,7 +1559,7 @@
   },
   {
     "id": 93,
-    "name": "材料募集：小箱铁锭",
+    "name": "Material: Small box of ingot iron",
     "editor_name": "3~4级资源1-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1578,7 +1578,7 @@
   },
   {
     "id": 94,
-    "name": "材料募集：大捆木材",
+    "name": "Material: Large bundle of wooden sticks",
     "editor_name": "3~4级资源2-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 95,
-    "name": "材料募集：大箱铁锭",
+    "name": "Material: Large box of ingot iron",
     "editor_name": "3~4级资源2-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1616,7 +1616,7 @@
   },
   {
     "id": 96,
-    "name": "资金募集：实验经费",
+    "name": "Funds: Experimental funds",
     "editor_name": "3~4级资源3_CD+",
     "desc": "",
     "duration": 3,
@@ -1635,7 +1635,7 @@
   },
   {
     "id": 97,
-    "name": "资金募集：修缮工坊",
+    "name": "Funds: Workshop renovation",
     "editor_name": "3~4级资源4_CD+",
     "desc": "",
     "duration": 3,
@@ -1654,7 +1654,7 @@
   },
   {
     "id": 98,
-    "name": "资源募集：维护器材",
+    "name": "Resource: Equipment maintenance",
     "editor_name": "4级资源4-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 99,
-    "name": "资源募集：熔炼矿物",
+    "name": "Resource: Mineral fusing",
     "editor_name": "4级资源4-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1692,7 +1692,7 @@
   },
   {
     "id": 100,
-    "name": "材料募集：小堆木材",
+    "name": "Material: Small pile of timber",
     "editor_name": "5~6级资源1-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1711,7 +1711,7 @@
   },
   {
     "id": 101,
-    "name": "材料募集：小车铁锭",
+    "name": "Material: Small cart of ingot iron",
     "editor_name": "5~6级资源1-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1730,7 +1730,7 @@
   },
   {
     "id": 102,
-    "name": "材料募集：大堆木材",
+    "name": "Material: Large pile of timber",
     "editor_name": "5~6级资源2-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1749,7 +1749,7 @@
   },
   {
     "id": 103,
-    "name": "材料募集：大车铁锭",
+    "name": "Material: Large cart of ingot iron",
     "editor_name": "5~6级资源2-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1768,7 +1768,7 @@
   },
   {
     "id": 104,
-    "name": "资金募集：大笔采购",
+    "name": "Funds: Bulk purchase",
     "editor_name": "5~6级资源3_CD+",
     "desc": "",
     "duration": 3,
@@ -1787,7 +1787,7 @@
   },
   {
     "id": 105,
-    "name": "资金募集：扩建工坊",
+    "name": "Funds: Workshop expansion",
     "editor_name": "5~6级资源4_CD+",
     "desc": "",
     "duration": 3,
@@ -1806,7 +1806,7 @@
   },
   {
     "id": 106,
-    "name": "资源募集：打造工具",
+    "name": "Resource: Tools forging",
     "editor_name": "5~6级资源4-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1825,7 +1825,7 @@
   },
   {
     "id": 107,
-    "name": "资源募集：研发配方",
+    "name": "Resource: Formulation development",
     "editor_name": "5~6级资源4-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1844,7 +1844,7 @@
   },
   {
     "id": 108,
-    "name": "简单：切割石材",
+    "name": "Easy: Cut stones",
     "editor_name": "1~2级劳务1-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1863,7 +1863,7 @@
   },
   {
     "id": 109,
-    "name": "简单：外出采购",
+    "name": "Easy: Go shopping",
     "editor_name": "1~2级劳务1-2_CD+",
     "desc": "",
     "duration": 3,
@@ -1882,7 +1882,7 @@
   },
   {
     "id": 110,
-    "name": "简单：提炼原料",
+    "name": "Easy: Extract raw materials",
     "editor_name": "1~2级劳务1-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1901,7 +1901,7 @@
   },
   {
     "id": 111,
-    "name": "简单：打扫工坊",
+    "name": "Easy: Clean the workshop",
     "editor_name": "1~2级劳务1-4_CD+",
     "desc": "",
     "duration": 3,
@@ -1920,7 +1920,7 @@
   },
   {
     "id": 112,
-    "name": "简单：保养器材",
+    "name": "Easy: Maintain the equipment",
     "editor_name": "1~2级劳务1-5_CD+",
     "desc": "",
     "duration": 3,
@@ -1939,7 +1939,7 @@
   },
   {
     "id": 113,
-    "name": "复杂：切割石材",
+    "name": "Complex: Cut stones",
     "editor_name": "1~2级劳务2-1_CD+",
     "desc": "",
     "duration": 3,
@@ -1958,7 +1958,7 @@
   },
   {
     "id": 114,
-    "name": "复杂：外出采购",
+    "name": "Complex: Go shopping",
     "editor_name": "1~2级劳务2-2_CD+",
     "desc": "",
     "duration": 3,
@@ -1977,7 +1977,7 @@
   },
   {
     "id": 115,
-    "name": "复杂：提炼原料",
+    "name": "Complex: Extract raw materials",
     "editor_name": "1~2级劳务2-3_CD+",
     "desc": "",
     "duration": 3,
@@ -1996,7 +1996,7 @@
   },
   {
     "id": 116,
-    "name": "复杂：打扫工坊",
+    "name": "Complex: Clean the workshop",
     "editor_name": "1~2级劳务2-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2015,7 +2015,7 @@
   },
   {
     "id": 117,
-    "name": "复杂：保养器材",
+    "name": "Complex: Maintain the equipment",
     "editor_name": "1~2级劳务2-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2034,7 +2034,7 @@
   },
   {
     "id": 118,
-    "name": "困难：切割石材",
+    "name": "Challenge: Cut stones",
     "editor_name": "1~2级劳务3-1_CD+",
     "desc": "",
     "duration": 3,
@@ -2053,7 +2053,7 @@
   },
   {
     "id": 119,
-    "name": "困难：外出采购",
+    "name": "Challenge: Go shopping",
     "editor_name": "1~2级劳务3-2_CD+",
     "desc": "",
     "duration": 3,
@@ -2072,7 +2072,7 @@
   },
   {
     "id": 120,
-    "name": "困难：提炼原料",
+    "name": "Challenge: Extract raw materials",
     "editor_name": "1~2级劳务3-3_CD+",
     "desc": "",
     "duration": 3,
@@ -2091,7 +2091,7 @@
   },
   {
     "id": 121,
-    "name": "困难：打扫工坊",
+    "name": "Challenge: Clean the workshop",
     "editor_name": "1~2级劳务3-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2110,7 +2110,7 @@
   },
   {
     "id": 122,
-    "name": "困难：保养器材",
+    "name": "Challenge: Maintain the equipment",
     "editor_name": "1~2级劳务3-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2129,7 +2129,7 @@
   },
   {
     "id": 123,
-    "name": "临时：搬运物资",
+    "name": "Temporary: Handle the materials",
     "editor_name": "3~4级劳务1-1_CD+",
     "desc": "",
     "duration": 3,
@@ -2148,7 +2148,7 @@
   },
   {
     "id": 124,
-    "name": "临时：捕捉昆虫",
+    "name": "Temporary: Catch insects",
     "editor_name": "3~4级劳务1-2_CD+",
     "desc": "",
     "duration": 3,
@@ -2167,7 +2167,7 @@
   },
   {
     "id": 125,
-    "name": "临时：提炼晶石",
+    "name": "Temporary: Refine Luxite",
     "editor_name": "3~4级劳务1-3_CD+",
     "desc": "",
     "duration": 3,
@@ -2186,7 +2186,7 @@
   },
   {
     "id": 126,
-    "name": "临时：修补坩埚",
+    "name": "Temporary: Fix the crucible",
     "editor_name": "3~4级劳务1-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2205,7 +2205,7 @@
   },
   {
     "id": 127,
-    "name": "临时：清理废渣",
+    "name": "Temporary: Clean up slags",
     "editor_name": "3~4级劳务1-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2224,7 +2224,7 @@
   },
   {
     "id": 128,
-    "name": "全天：搬运物资",
+    "name": "All-day: Handle the materials",
     "editor_name": "3~4级劳务2-1_CD+",
     "desc": "",
     "duration": 3,
@@ -2243,7 +2243,7 @@
   },
   {
     "id": 129,
-    "name": "全天：捕捉昆虫",
+    "name": "All-day: Catch insects",
     "editor_name": "3~4级劳务2-2_CD+",
     "desc": "",
     "duration": 3,
@@ -2262,7 +2262,7 @@
   },
   {
     "id": 130,
-    "name": "全天：提炼晶石",
+    "name": "All-day: Refine Luxite",
     "editor_name": "3~4级劳务2-3_CD+",
     "desc": "",
     "duration": 3,
@@ -2281,7 +2281,7 @@
   },
   {
     "id": 131,
-    "name": "全天：修补坩埚",
+    "name": "All-day: Fix the crucible",
     "editor_name": "3~4级劳务2-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2300,7 +2300,7 @@
   },
   {
     "id": 132,
-    "name": "全天：清理废渣",
+    "name": "All-day: Clean up slags",
     "editor_name": "3~4级劳务2-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2319,7 +2319,7 @@
   },
   {
     "id": 133,
-    "name": "通宵：搬运物资",
+    "name": "All-night: Handle the materials",
     "editor_name": "3~4级劳务3-1_CD+",
     "desc": "",
     "duration": 3,
@@ -2338,7 +2338,7 @@
   },
   {
     "id": 134,
-    "name": "通宵：捕捉昆虫",
+    "name": "All-night: Catch insects",
     "editor_name": "3~4级劳务3-2_CD+",
     "desc": "",
     "duration": 3,
@@ -2357,7 +2357,7 @@
   },
   {
     "id": 135,
-    "name": "通宵：提炼晶石",
+    "name": "All-night: Refine Luxite",
     "editor_name": "3~4级劳务3-3_CD+",
     "desc": "",
     "duration": 3,
@@ -2376,7 +2376,7 @@
   },
   {
     "id": 136,
-    "name": "通宵：修补坩埚",
+    "name": "All-night: Fix the crucible",
     "editor_name": "3~4级劳务3-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2395,7 +2395,7 @@
   },
   {
     "id": 137,
-    "name": "通宵：清理废渣",
+    "name": "All-night: Clean up slags",
     "editor_name": "3~4级劳务3-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2414,7 +2414,7 @@
   },
   {
     "id": 138,
-    "name": "临时：扩建施工",
+    "name": "Temporary: Expansion construction",
     "editor_name": "5~6级劳务1-1_CD+",
     "desc": "",
     "duration": 3,
@@ -2433,7 +2433,7 @@
   },
   {
     "id": 139,
-    "name": "临时：采摘草药",
+    "name": "Temporary: Pick herbs",
     "editor_name": "5~6级劳务1-2_CD+",
     "desc": "",
     "duration": 3,
@@ -2452,7 +2452,7 @@
   },
   {
     "id": 140,
-    "name": "临时：研发配方",
+    "name": "Temporary: Develop formulas",
     "editor_name": "5~6级劳务1-3_CD+",
     "desc": "",
     "duration": 3,
@@ -2471,7 +2471,7 @@
   },
   {
     "id": 141,
-    "name": "临时：抢修屋顶",
+    "name": "Temporary: Rush to repair the roof",
     "editor_name": "5~6级劳务1-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2490,7 +2490,7 @@
   },
   {
     "id": 142,
-    "name": "临时：测试药剂",
+    "name": "Temporary: Test the potions",
     "editor_name": "5~6级劳务1-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 143,
-    "name": "全天：扩建施工",
+    "name": "All-day: Expansion construction",
     "editor_name": "5~6级劳务2-1_CD+",
     "desc": "",
     "duration": 3,
@@ -2528,7 +2528,7 @@
   },
   {
     "id": 144,
-    "name": "全天：采摘草药",
+    "name": "All-day: Pick herbs",
     "editor_name": "5~6级劳务2-2_CD+",
     "desc": "",
     "duration": 3,
@@ -2547,7 +2547,7 @@
   },
   {
     "id": 145,
-    "name": "全天：研发配方",
+    "name": "All-day: Develop formulas",
     "editor_name": "5~6级劳务2-3_CD+",
     "desc": "",
     "duration": 3,
@@ -2566,7 +2566,7 @@
   },
   {
     "id": 146,
-    "name": "全天：抢修屋顶",
+    "name": "All-day: Rush to repair the roof",
     "editor_name": "5~6级劳务2-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2585,7 +2585,7 @@
   },
   {
     "id": 147,
-    "name": "全天：测试药剂",
+    "name": "All-day: Test the potions",
     "editor_name": "5~6级劳务2-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2604,7 +2604,7 @@
   },
   {
     "id": 148,
-    "name": "通宵：扩建施工",
+    "name": "All-night: Expansion construction",
     "editor_name": "5~6级劳务3-1_CD+",
     "desc": "",
     "duration": 3,
@@ -2623,7 +2623,7 @@
   },
   {
     "id": 149,
-    "name": "通宵：采摘草药",
+    "name": "All-night: Pick herbs",
     "editor_name": "5~6级劳务3-2_CD+",
     "desc": "",
     "duration": 3,
@@ -2642,7 +2642,7 @@
   },
   {
     "id": 150,
-    "name": "通宵：研发配方",
+    "name": "All-night: Develop formulas",
     "editor_name": "5~6级劳务3-3_CD+",
     "desc": "",
     "duration": 3,
@@ -2661,7 +2661,7 @@
   },
   {
     "id": 151,
-    "name": "通宵：抢修屋顶",
+    "name": "All-night: Rush to repair the roof",
     "editor_name": "5~6级劳务3-4_CD+",
     "desc": "",
     "duration": 3,
@@ -2680,7 +2680,7 @@
   },
   {
     "id": 152,
-    "name": "通宵：测试药剂",
+    "name": "All-night: Test the potions",
     "editor_name": "5~6级劳务3-5_CD+",
     "desc": "",
     "duration": 3,
@@ -2699,7 +2699,7 @@
   },
   {
     "id": 153,
-    "name": "简单：切割石材",
+    "name": "Easy: Cut stones",
     "editor_name": "1~2级劳务1-1_CD++",
     "desc": "",
     "duration": 4,
@@ -2718,7 +2718,7 @@
   },
   {
     "id": 154,
-    "name": "简单：外出采购",
+    "name": "Easy: Go shopping",
     "editor_name": "1~2级劳务1-2_CD++",
     "desc": "",
     "duration": 4,
@@ -2737,7 +2737,7 @@
   },
   {
     "id": 155,
-    "name": "简单：提炼原料",
+    "name": "Easy: Extract raw materials",
     "editor_name": "1~2级劳务1-3_CD++",
     "desc": "",
     "duration": 4,
@@ -2756,7 +2756,7 @@
   },
   {
     "id": 156,
-    "name": "简单：打扫工坊",
+    "name": "Easy: Clean the workshop",
     "editor_name": "1~2级劳务1-4_CD++",
     "desc": "",
     "duration": 4,
@@ -2775,7 +2775,7 @@
   },
   {
     "id": 157,
-    "name": "简单：保养器材",
+    "name": "Easy: Maintain the equipment",
     "editor_name": "1~2级劳务1-5_CD++",
     "desc": "",
     "duration": 4,
@@ -2794,7 +2794,7 @@
   },
   {
     "id": 158,
-    "name": "复杂：切割石材",
+    "name": "Complex: Cut stones",
     "editor_name": "1~2级劳务2-1_CD++",
     "desc": "",
     "duration": 4,
@@ -2813,7 +2813,7 @@
   },
   {
     "id": 159,
-    "name": "复杂：外出采购",
+    "name": "Complex: Go shopping",
     "editor_name": "1~2级劳务2-2_CD++",
     "desc": "",
     "duration": 4,
@@ -2832,7 +2832,7 @@
   },
   {
     "id": 160,
-    "name": "复杂：提炼原料",
+    "name": "Complex: Extract raw materials",
     "editor_name": "1~2级劳务2-3_CD++",
     "desc": "",
     "duration": 4,
@@ -2851,7 +2851,7 @@
   },
   {
     "id": 161,
-    "name": "复杂：打扫工坊",
+    "name": "Complex: Clean the workshop",
     "editor_name": "1~2级劳务2-4_CD++",
     "desc": "",
     "duration": 4,
@@ -2870,7 +2870,7 @@
   },
   {
     "id": 162,
-    "name": "复杂：保养器材",
+    "name": "Complex: Maintain the equipment",
     "editor_name": "1~2级劳务2-5_CD++",
     "desc": "",
     "duration": 4,
@@ -2889,7 +2889,7 @@
   },
   {
     "id": 163,
-    "name": "困难：切割石材",
+    "name": "Challenge: Cut stones",
     "editor_name": "1~2级劳务3-1_CD++",
     "desc": "",
     "duration": 4,
@@ -2908,7 +2908,7 @@
   },
   {
     "id": 164,
-    "name": "困难：外出采购",
+    "name": "Challenge: Go shopping",
     "editor_name": "1~2级劳务3-2_CD++",
     "desc": "",
     "duration": 4,
@@ -2927,7 +2927,7 @@
   },
   {
     "id": 165,
-    "name": "困难：提炼原料",
+    "name": "Challenge: Extract raw materials",
     "editor_name": "1~2级劳务3-3_CD++",
     "desc": "",
     "duration": 4,
@@ -2946,7 +2946,7 @@
   },
   {
     "id": 166,
-    "name": "困难：打扫工坊",
+    "name": "Challenge: Clean the workshop",
     "editor_name": "1~2级劳务3-4_CD++",
     "desc": "",
     "duration": 4,
@@ -2965,7 +2965,7 @@
   },
   {
     "id": 167,
-    "name": "困难：保养器材",
+    "name": "Challenge: Maintain the equipment",
     "editor_name": "1~2级劳务3-5_CD++",
     "desc": "",
     "duration": 4,
@@ -2984,7 +2984,7 @@
   },
   {
     "id": 168,
-    "name": "临时：搬运物资",
+    "name": "Temporary: Handle the materials",
     "editor_name": "3~4级劳务1-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3003,7 +3003,7 @@
   },
   {
     "id": 169,
-    "name": "临时：捕捉昆虫",
+    "name": "Temporary: Catch insects",
     "editor_name": "3~4级劳务1-2_CD++",
     "desc": "",
     "duration": 4,
@@ -3022,7 +3022,7 @@
   },
   {
     "id": 170,
-    "name": "临时：提炼晶石",
+    "name": "Temporary: Refine Luxite",
     "editor_name": "3~4级劳务1-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3041,7 +3041,7 @@
   },
   {
     "id": 171,
-    "name": "临时：修补坩埚",
+    "name": "Temporary: Fix the crucible",
     "editor_name": "3~4级劳务1-4_CD++",
     "desc": "",
     "duration": 4,
@@ -3060,7 +3060,7 @@
   },
   {
     "id": 172,
-    "name": "临时：清理废渣",
+    "name": "Temporary: Clean up slags",
     "editor_name": "3~4级劳务1-5_CD++",
     "desc": "",
     "duration": 4,
@@ -3079,7 +3079,7 @@
   },
   {
     "id": 173,
-    "name": "全天：搬运物资",
+    "name": "All-day: Handle the materials",
     "editor_name": "3~4级劳务2-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3098,7 +3098,7 @@
   },
   {
     "id": 174,
-    "name": "全天：捕捉昆虫",
+    "name": "All-day: Catch insects",
     "editor_name": "3~4级劳务2-2_CD++",
     "desc": "",
     "duration": 4,
@@ -3117,7 +3117,7 @@
   },
   {
     "id": 175,
-    "name": "全天：提炼晶石",
+    "name": "All-day: Refine Luxite",
     "editor_name": "3~4级劳务2-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3136,7 +3136,7 @@
   },
   {
     "id": 176,
-    "name": "全天：修补坩埚",
+    "name": "All-day: Fix the crucible",
     "editor_name": "3~4级劳务2-4_CD++",
     "desc": "",
     "duration": 4,
@@ -3155,7 +3155,7 @@
   },
   {
     "id": 177,
-    "name": "全天：清理废渣",
+    "name": "All-day: Clean up slags",
     "editor_name": "3~4级劳务2-5_CD++",
     "desc": "",
     "duration": 4,
@@ -3174,7 +3174,7 @@
   },
   {
     "id": 178,
-    "name": "通宵：搬运物资",
+    "name": "All-night: Handle the materials",
     "editor_name": "3~4级劳务3-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3193,7 +3193,7 @@
   },
   {
     "id": 179,
-    "name": "通宵：捕捉昆虫",
+    "name": "All-night: Catch insects",
     "editor_name": "3~4级劳务3-2_CD++",
     "desc": "",
     "duration": 4,
@@ -3212,7 +3212,7 @@
   },
   {
     "id": 180,
-    "name": "通宵：提炼晶石",
+    "name": "All-night: Refine Luxite",
     "editor_name": "3~4级劳务3-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3231,7 +3231,7 @@
   },
   {
     "id": 181,
-    "name": "通宵：修补坩埚",
+    "name": "All-night: Fix the crucible",
     "editor_name": "3~4级劳务3-4_CD++",
     "desc": "",
     "duration": 4,
@@ -3250,7 +3250,7 @@
   },
   {
     "id": 182,
-    "name": "通宵：清理废渣",
+    "name": "All-night: Clean up slags",
     "editor_name": "3~4级劳务3-5_CD++",
     "desc": "",
     "duration": 4,
@@ -3269,7 +3269,7 @@
   },
   {
     "id": 183,
-    "name": "临时：扩建施工",
+    "name": "Temporary: Expansion construction",
     "editor_name": "5~6级劳务1-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3288,7 +3288,7 @@
   },
   {
     "id": 184,
-    "name": "临时：采摘草药",
+    "name": "Temporary: Pick herbs",
     "editor_name": "5~6级劳务1-2_CD++",
     "desc": "",
     "duration": 4,
@@ -3307,7 +3307,7 @@
   },
   {
     "id": 185,
-    "name": "临时：研发配方",
+    "name": "Temporary: Develop formulas",
     "editor_name": "5~6级劳务1-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3326,7 +3326,7 @@
   },
   {
     "id": 186,
-    "name": "临时：抢修屋顶",
+    "name": "Temporary: Rush to repair the roof",
     "editor_name": "5~6级劳务1-4_CD++",
     "desc": "",
     "duration": 4,
@@ -3345,7 +3345,7 @@
   },
   {
     "id": 187,
-    "name": "临时：测试药剂",
+    "name": "Temporary: Test the potions",
     "editor_name": "5~6级劳务1-5_CD++",
     "desc": "",
     "duration": 4,
@@ -3364,7 +3364,7 @@
   },
   {
     "id": 188,
-    "name": "全天：扩建施工",
+    "name": "All-day: Expansion construction",
     "editor_name": "5~6级劳务2-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3383,7 +3383,7 @@
   },
   {
     "id": 189,
-    "name": "全天：采摘草药",
+    "name": "All-day: Pick herbs",
     "editor_name": "5~6级劳务2-2_CD++",
     "desc": "",
     "duration": 4,
@@ -3402,7 +3402,7 @@
   },
   {
     "id": 190,
-    "name": "全天：研发配方",
+    "name": "All-day: Develop formulas",
     "editor_name": "5~6级劳务2-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3421,7 +3421,7 @@
   },
   {
     "id": 191,
-    "name": "全天：抢修屋顶",
+    "name": "All-day: Rush to repair the roof",
     "editor_name": "5~6级劳务2-4_CD++",
     "desc": "",
     "duration": 4,
@@ -3440,7 +3440,7 @@
   },
   {
     "id": 192,
-    "name": "全天：测试药剂",
+    "name": "All-day: Test the potions",
     "editor_name": "5~6级劳务2-5_CD++",
     "desc": "",
     "duration": 4,
@@ -3459,7 +3459,7 @@
   },
   {
     "id": 193,
-    "name": "通宵：扩建施工",
+    "name": "All-night: Expansion construction",
     "editor_name": "5~6级劳务3-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3478,7 +3478,7 @@
   },
   {
     "id": 194,
-    "name": "通宵：采摘草药",
+    "name": "All-night: Pick herbs",
     "editor_name": "5~6级劳务3-2_CD++",
     "desc": "",
     "duration": 4,
@@ -3497,7 +3497,7 @@
   },
   {
     "id": 195,
-    "name": "通宵：研发配方",
+    "name": "All-night: Develop formulas",
     "editor_name": "5~6级劳务3-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3516,7 +3516,7 @@
   },
   {
     "id": 196,
-    "name": "通宵：抢修屋顶",
+    "name": "All-night: Rush to repair the roof",
     "editor_name": "5~6级劳务3-4_CD++",
     "desc": "",
     "duration": 4,
@@ -3535,7 +3535,7 @@
   },
   {
     "id": 197,
-    "name": "通宵：测试药剂",
+    "name": "All-night: Test the potions",
     "editor_name": "5~6级劳务3-5_CD++",
     "desc": "",
     "duration": 4,
@@ -3554,7 +3554,7 @@
   },
   {
     "id": 198,
-    "name": "材料募集：小段木材",
+    "name": "Material: Small timber",
     "editor_name": "1~2级资源1-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3573,7 +3573,7 @@
   },
   {
     "id": 199,
-    "name": "材料募集：小块铁锭",
+    "name": "Material: Small ingot iron",
     "editor_name": "1~2级资源1-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3592,7 +3592,7 @@
   },
   {
     "id": 200,
-    "name": "材料募集：大段木材",
+    "name": "Material: Large timber",
     "editor_name": "1~2级资源2-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3611,7 +3611,7 @@
   },
   {
     "id": 201,
-    "name": "材料募集：大块铁锭",
+    "name": "Material: Large ingot iron",
     "editor_name": "1~2级资源2-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3630,7 +3630,7 @@
   },
   {
     "id": 202,
-    "name": "资金募集：启动资金",
+    "name": "Funds: Start-up funds",
     "editor_name": "2~3级资源3_CD++",
     "desc": "",
     "duration": 4,
@@ -3649,7 +3649,7 @@
   },
   {
     "id": 203,
-    "name": "材料募集：小捆木材",
+    "name": "Material: Small bundle of wooden sticks",
     "editor_name": "3~4级资源1-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3668,7 +3668,7 @@
   },
   {
     "id": 204,
-    "name": "材料募集：小箱铁锭",
+    "name": "Material: Small box of ingot iron",
     "editor_name": "3~4级资源1-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3687,7 +3687,7 @@
   },
   {
     "id": 205,
-    "name": "材料募集：大捆木材",
+    "name": "Material: Large bundle of wooden sticks",
     "editor_name": "3~4级资源2-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3706,7 +3706,7 @@
   },
   {
     "id": 206,
-    "name": "材料募集：大箱铁锭",
+    "name": "Material: Large box of ingot iron",
     "editor_name": "3~4级资源2-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3725,7 +3725,7 @@
   },
   {
     "id": 207,
-    "name": "资金募集：实验经费",
+    "name": "Funds: Experimental funds",
     "editor_name": "3~4级资源3_CD++",
     "desc": "",
     "duration": 4,
@@ -3744,7 +3744,7 @@
   },
   {
     "id": 208,
-    "name": "资金募集：修缮工坊",
+    "name": "Funds: Workshop renovation",
     "editor_name": "3~4级资源4_CD++",
     "desc": "",
     "duration": 4,
@@ -3763,7 +3763,7 @@
   },
   {
     "id": 209,
-    "name": "资源募集：维护器材",
+    "name": "Resource: Equipment maintenance",
     "editor_name": "4级资源4-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3782,7 +3782,7 @@
   },
   {
     "id": 210,
-    "name": "资源募集：熔炼矿物",
+    "name": "Resource: Mineral fusing",
     "editor_name": "4级资源4-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3801,7 +3801,7 @@
   },
   {
     "id": 211,
-    "name": "材料募集：小堆木材",
+    "name": "Material: Small pile of timber",
     "editor_name": "5~6级资源1-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3820,7 +3820,7 @@
   },
   {
     "id": 212,
-    "name": "材料募集：小车铁锭",
+    "name": "Material: Small cart of ingot iron",
     "editor_name": "5~6级资源1-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3839,7 +3839,7 @@
   },
   {
     "id": 213,
-    "name": "材料募集：大堆木材",
+    "name": "Material: Large pile of timber",
     "editor_name": "5~6级资源2-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3858,7 +3858,7 @@
   },
   {
     "id": 214,
-    "name": "材料募集：大车铁锭",
+    "name": "Material: Large cart of ingot iron",
     "editor_name": "5~6级资源2-3_CD++",
     "desc": "",
     "duration": 4,
@@ -3877,7 +3877,7 @@
   },
   {
     "id": 215,
-    "name": "资金募集：大笔采购",
+    "name": "Funds: Bulk purchase",
     "editor_name": "5~6级资源3_CD++",
     "desc": "",
     "duration": 4,
@@ -3896,7 +3896,7 @@
   },
   {
     "id": 216,
-    "name": "资金募集：扩建工坊",
+    "name": "Funds: Workshop expansion",
     "editor_name": "5~6级资源4_CD++",
     "desc": "",
     "duration": 4,
@@ -3915,7 +3915,7 @@
   },
   {
     "id": 217,
-    "name": "资源募集：打造工具",
+    "name": "Resource: Tools forging",
     "editor_name": "5~6级资源4-1_CD++",
     "desc": "",
     "duration": 4,
@@ -3934,7 +3934,7 @@
   },
   {
     "id": 218,
-    "name": "资源募集：研发配方",
+    "name": "Resource: Formulation development",
     "editor_name": "5~6级资源4-3_CD++",
     "desc": "",
     "duration": 4,

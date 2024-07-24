@@ -2,7 +2,7 @@
   {
     "id": 1,
     "idonline_operation_activity": 1,
-    "name": "第一天",
+    "name": "Day 1",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "idonline_operation_activity": 1,
-    "name": "第二天",
+    "name": "Day 2",
     "desc": "",
     "treasure_type": 121,
     "treasure_param0": 1,
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "idonline_operation_activity": 1,
-    "name": "第三天",
+    "name": "Day 3",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "idonline_operation_activity": 1,
-    "name": "第四天",
+    "name": "Day 4",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "idonline_operation_activity": 1,
-    "name": "第五天",
+    "name": "Day 5",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "idonline_operation_activity": 1,
-    "name": "第六天",
+    "name": "Day 6",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "idonline_operation_activity": 1,
-    "name": "第七天",
+    "name": "Day 7",
     "desc": "",
     "treasure_type": 147,
     "treasure_param0": 27,
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "idonline_operation_activity": 41,
-    "name": "回归第1日",
+    "name": "Welcome Back: Day 1",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "idonline_operation_activity": 41,
-    "name": "回归第2日",
+    "name": "Welcome Back: Day 2",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "idonline_operation_activity": 41,
-    "name": "回归第3日",
+    "name": "Welcome Back: Day 3",
     "desc": "",
     "treasure_type": 114,
     "treasure_param0": 1,
@@ -122,7 +122,7 @@
   {
     "id": 11,
     "idonline_operation_activity": 41,
-    "name": "回归第4日",
+    "name": "Welcome Back: Day 4",
     "desc": "",
     "treasure_type": 137,
     "treasure_param0": 3,
@@ -134,7 +134,7 @@
   {
     "id": 12,
     "idonline_operation_activity": 41,
-    "name": "回归第5日",
+    "name": "Welcome Back: Day 5",
     "desc": "",
     "treasure_type": 137,
     "treasure_param0": 2,
@@ -146,7 +146,7 @@
   {
     "id": 13,
     "idonline_operation_activity": 41,
-    "name": "回归第6日",
+    "name": "Welcome Back: Day 6",
     "desc": "",
     "treasure_type": 121,
     "treasure_param0": 1,
@@ -158,7 +158,7 @@
   {
     "id": 14,
     "idonline_operation_activity": 41,
-    "name": "回归第7日",
+    "name": "Welcome Back: Day 7",
     "desc": "",
     "treasure_type": 137,
     "treasure_param0": 4,
@@ -170,7 +170,7 @@
   {
     "id": 15,
     "idonline_operation_activity": 47,
-    "name": "工会建设每日大奖",
+    "name": "Guild Contribution Daily Rewards",
     "desc": "",
     "treasure_type": 0,
     "treasure_param0": 0,

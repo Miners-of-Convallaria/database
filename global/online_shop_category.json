@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "充值",
+    "name": "Astral Gems",
     "icon": "icon_pay",
     "is_show": false,
     "order_id": 3,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "兑换",
+    "name": "Exchange",
     "icon": "icon_exchange",
     "is_show": true,
     "order_id": 4,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "礼包",
+    "name": "Pack",
     "icon": "icon_gift",
     "is_show": false,
     "order_id": 2,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "推荐",
+    "name": "Featured",
     "icon": "icon_recommend",
     "is_show": true,
     "order_id": 1,

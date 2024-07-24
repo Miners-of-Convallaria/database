@@ -2,40 +2,40 @@
   {
     "id": 1,
     "m_sandbox_effects": [],
-    "name": "战争倾向：自由通行",
-    "desc": "请维持战争倾向低于100以避免伊利亚战争的全面爆发。",
+    "name": "War Propensity: Free Passage",
+    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
     "value": 0,
     "sandbox_effect_ids": ""
   },
   {
     "id": 2,
     "m_sandbox_effects": [],
-    "name": "战争倾向：阴云密布",
-    "desc": "请维持战争倾向低于100以避免伊利亚战争的全面爆发。",
+    "name": "War Propensity: Ominous Clouds",
+    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
     "value": 40,
     "sandbox_effect_ids": ""
   },
   {
     "id": 3,
     "m_sandbox_effects": [],
-    "name": "战争倾向：剑拔弩张",
-    "desc": "请维持战争倾向低于100以避免伊利亚战争的全面爆发。",
+    "name": "War Propensity: Tensions Rise",
+    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
     "value": 60,
     "sandbox_effect_ids": ""
   },
   {
     "id": 4,
     "m_sandbox_effects": [],
-    "name": "战争倾向：兵戈扰攘",
-    "desc": "请维持战争倾向低于100以避免伊利亚战争的全面爆发。",
+    "name": "War Propensity:  Turmoil and Tumult",
+    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
     "value": 80,
     "sandbox_effect_ids": ""
   },
   {
     "id": 5,
     "m_sandbox_effects": [],
-    "name": "战争倾向：战火纷飞",
-    "desc": "请维持战争倾向低于100以避免伊利亚战争的全面爆发。",
+    "name": "War Propensity: Raging War",
+    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
     "value": 100,
     "sandbox_effect_ids": ""
   }

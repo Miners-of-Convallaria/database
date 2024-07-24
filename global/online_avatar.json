@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "主角外观一",
+    "name": "Appearance 1",
     "editor_name": "男主",
     "image": "playermset01",
     "gender": 1,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "主角外观二",
+    "name": "Appearance 2",
     "editor_name": "女主",
     "image": "playerfset01",
     "gender": 2,

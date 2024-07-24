@@ -2,113 +2,113 @@
   {
     "id": 2,
     "editor_name": "QV3-P1-01-港都惨剧",
-    "name": "浪涌城惨剧",
+    "name": "Waverun City Tragedy",
     "type": 4,
-    "desc": "光辉历999年3月，浪涌城的庇护日巡游演变成了武装冲突，大量平民在冲突中伤亡\n前往与示威者对话的伊利亚王女伊南娜也卷入其中被害身亡\n数日后，示威者组成“浪涌军”，他们主张现任国家领袖，第一王子迪塔利奥应为浪涌城事件负责，交出权力并接受审判\n迪塔利奥则宣称这是污蔑与叛乱，整军平叛局\n势急速恶化，由诸多骑士同盟国联合而成的军事强权——“骑士诸国同盟”宣称支持“伊利亚民众反抗暴政的诉求”，派出了一支先遣骑士团，控制了浪涌城周边\n另一方面，南部的罗迪尼亚法皇国也趁虚而入占领了旧都暮光城，与浪涌军遥相呼应\n这个地处关键位置的小国，再次烽烟四起……",
+    "desc": "In the year 999, March of the Radiant Calendar, the Sanctuary Day parade in Waverun City erupted into armed conflict, leaving many civilians dead.\nPrincess Inanna of Iria, seeking to negotiate with the protesters, tragically lost her life in the chaos.\nSoon after, the protesters formed the \"Waverun Legion,\" demanding accountability from Prince Dantalion for the violence and calling for his resignation and trial.\nDantalion dismissed the accusations as treason, rallying his forces to quell the rebellion.\nTensions escalated rapidly as \"The Union of Knight States,\" a powerful military coalition, declared support for the Irian people's resistance against tyranny, sending the Advance Order to secure Waverun City's outskirts.\nMeanwhile, the Papal States of Rodinia seized its old capital, Lightgloam City, further complicating the situation.\nIn this critical moment, a small nation was once again engulfed in the flames of conflict.",
     "duration": 8
   },
   {
     "id": 3,
     "editor_name": "QV3-P1-18：三王女国葬和伊利亚的反击",
-    "name": "伊南娜王女国葬和伊利亚的反击",
+    "name": "Princess Inanna's State Funeral and Iria's Strike Back",
     "type": 4,
-    "desc": "距离浪涌城事件已经过去了一个月，王国军的平叛行动依然处在僵局之中\n风雨飘摇之际，第一王子迪塔利奥在晨曦堡为被害的伊南娜王女举行了国葬\n在葬礼上，迪塔利奥驳斥了浪涌城事件的传闻，表示罗迪尼亚法皇国和骑士诸国同盟才是惨剧的策划者，并呼吁民众团结一致，驱逐侵略者\n国葬和演讲让王国军士气大振，再次投入了战斗",
+    "desc": "It had been a month since the Waverun City incident, and the King's Army's efforts to quell the rebellion are still at a deadlock.\nIn this period of unrest, Prince Dantalion held a state funeral for the murdered Princess Inanna in the Mornrays Castle.\nAt the funeral, Dantalion refuted the rumors about the cause of the incident, accusing the Papal States of Rodinia and the Union of Knight States of orchestrating the tragedy. He called on the people to unite and expel the invaders.\nThe King's Army, whose morale was greatly improved by the state funeral and speech, promptly rejoined the battle.",
     "duration": 8
   },
   {
     "id": 4,
     "editor_name": "QV3-P2-01：战局扩大",
-    "name": "战局扩大",
+    "name": "Escalated Battle",
     "type": 4,
-    "desc": "几周过去，战火如燎原之势席卷伊利亚\n王国军，骑士同盟与法皇国，不断增兵\n三方在各条战线上反复拉锯冲突，大批民众流离失所，陷入绝境\n绝望的战火中，许多走投无路的人受到蛊惑，逃往了东南部的矿坑城\n盘踞在那里的“黑暗之光”趁机扩张，从隐秘行事，转为公开活动",
+    "desc": "In just a few weeks, war engulfed Iria like wildfire.\nThe King's Army, the Union, and the Papal States poured troops into the fray.\nOn every front, relentless skirmishes drove countless civilians into desperation.\nIn the desperate turmoil, many desperate souls fled to the southeast's Mine Pit.\nSeizing the chaos, \"Darklight\" expanded openly from its hidden base.",
     "duration": 8
   },
   {
     "id": 5,
     "editor_name": "QV3-P2-11：黑暗之光崛起",
-    "name": "黑暗之光崛起",
+    "name": "Spread of Darklight",
     "type": 4,
-    "desc": "就在前线的战局陷入胶着的时候，在伊利亚王国东部的矿坑城，发生了一起叛乱\n长期盘踞在这里的邪恶组织“黑暗之光”宣布矿坑城完全独立，并开始向周边扩张\n大量难民被“审判”、“天罚”等教义所蛊惑，成为了黑暗之光的帮凶\n在击败了几支羸弱的王国军镇压部队后，黑暗之光已经成为了一支不容小觑的邪恶势力\n他们不断扩张，对占领区进行残酷的统治和残忍的掠夺，所有反抗者都遭到了冷酷的镇压\n小镇的周边，已经出现了黑暗之光的侦察兵……",
+    "desc": "As the frontline reached a stalemate, rebellion erupted in the eastern Mine Pit of the Kingdom of Iria.\nThe notorious \"Darklight\" declared Mine Pit's complete independence, swiftly expanding its influence.\nRefugees, swayed by radical doctrines, joined Darklight's ranks.\nAfter defeating some weak King's Army units, Darklight has emerged as a formidable evil force.\nExpanding relentlessly, they ruled with brutality, crushing all resistance mercilessly.\nDarklight scouts have lurked on the town's outskirts…",
     "duration": 8
   },
   {
     "id": 6,
     "editor_name": "QV3-P3-01：契约",
-    "name": "契约",
+    "name": "Contract",
     "type": 1,
-    "desc": "铃兰之剑与骑士同盟签订了合作契约\n骑士团将会入驻并保护小镇\n骑士同盟的目标是进攻十字路要塞\n为了控制这个重要的交通枢纽，骑士团会在小镇附近修筑作为补给中心的营寨\n铃兰之剑也将参与其中，成为关键的力量……",
+    "desc": "The Sword of Convallaria allied with the Union.\nThe Order would establish a camp nearby and protect the town.\nThe Union aimed to seize Crossroads Keep.\nTo secure the strategic hub, the Order would fortify a camp near the town as a supply center.\nThe Sword of Convallaria joined as a key force in the operation…",
     "duration": 8
   },
   {
     "id": 7,
     "editor_name": "QV3-P4-01：十字路口攻略战开始",
-    "name": "十字路攻略战开始",
+    "name": "Crossroads Conquest Begins",
     "type": 3,
-    "desc": "经过接连不断的奋战，骑士团和铃兰之剑成功孤立了十字路要塞\n骑士团和法皇国的军队将发起总攻，两面夹击十字路要塞\n王国军的未来，似乎岌岌可危……",
+    "desc": "After bloody battles, the Order finally completed the isolation of the Crossroads Keep with the help of the Sword of Convallaria…\nThe Order and the army of the Papal States surrounded the Crossroads Keep from two sides.\nIt seems that the fate of King's Army is on the edge…",
     "duration": 8
   },
   {
     "id": 8,
     "editor_name": "QV3-P5-战云密布",
-    "name": "战云密布",
+    "name": "War Clouds Gathering",
     "type": 3,
-    "desc": "尽管骑士同盟对十字路要塞的围攻遭受了失败，但内忧外患的王国军却也无法展开反攻\n过去的数个月里，双方只能在十字路要塞对峙，互相袭扰\n王国军没能乘胜追击，给了骑士同盟重整旗鼓的机会\n同时，主张和谈的声音也在王国军内部出现，这进一步导致王国军缺乏战斗意志\n骑士同盟展开了新一轮的进军，再次瞄准了十字路要塞\n为了避免骑士同盟击败王国军，法皇国将协助伊利亚，阻止骑士同盟",
+    "desc": "Despite the Union's initial failure to besiege Crossroads Keep, the beleaguered King's Army was unable to launch a counterattack.\nFor the past few months, both sides have maintained a stalemate along the line of Crossroads Keep, engaging in minor skirmishes.\nThe King's Army's failure to continue their victorious pursuit gave the Union the opportunity to regroup.\nMeanwhile, voices advocating peace talks with the Union were gradually emerging, further undermining the King's Army's will to fight.\nThe Union launched a new large-scale offensive, once again targeting Crossroads Keep.\nTo prevent the Union from quickly defeating the King's Army, the Papal States explicitly stated that they would assist Iria in stopping the Union.",
     "duration": 8
   },
   {
     "id": 9,
     "editor_name": "QV3-P6-01：第二次十字路口会战决战开幕",
-    "name": "决战开幕",
+    "name": "Beginning of the Final Battle",
     "type": 3,
-    "desc": "经过与法皇国和王国军的艰难战斗，骑士同盟再一次完成了对十字路要塞的包围\n骑士们表现出前所未有的决心，誓要攻陷十字路要塞\n而另一方面，在法皇国的帮助下，王国军巩固了十字路要塞的防御，严阵以待\n这场战役，将会决定伊利亚的命运\n而铃兰之剑，也承担了重要的进攻任务……",
+    "desc": "The Union once again successfully besieged Crossroads Keep after a tough battle with the Papal States and the King's Army.\nThis time, the Union showed unprecedented determination, vowing to conquer Crossroads Keep.\nOn the other hand, seemingly well-prepared, the King's Army significantly enhanced the defense of Crossroads Keep with the help of the Papal States.\nWithout a doubt, the victor of this final battle will determine the fate of Iria.\nMeanwhile, the Sword of Convallaria also took on important offensive tasks…",
     "duration": 4
   },
   {
     "id": 10,
     "editor_name": "QV3-P6-08：骑士团攻占十字路要塞",
-    "name": "骑士同盟攻占十字路要塞",
+    "name": "Union Captures Crossroads Keep",
     "type": 4,
-    "desc": "残酷的第二次十字路要塞战役，最终以骑士同盟的胜利告终\n而这也意味着骑士同盟已经在这场战争中，取得了前所未有的决定性优势\n岌岌可危的王国军放弃了对伊利亚河的封锁，撤回王都，准备背水一战\n但涌入的难民让物资匮乏的晨曦堡雪上加霜\n任何人都明白，局势已经无法逆转\n是战是和，王国军必须做出选择",
+    "desc": "The cruel second Crossroads Keep campaign finally ended with the victory of the Union.\nIt also means that the Union has gained unprecedented decisive advantages in this war.\nThe precarious King's Army abandoned the blockade of the Iria River and retreated to the capital, preparing for a last stand.\nHowever, the influx of refugees only worsened the scarcity of supplies in the Mornrays Castle.\nEveryone knows that the situation is irreversible.\nNow the King's Army must decide whether to fight or surrender…",
     "duration": 4
   },
   {
     "id": 11,
     "editor_name": "QV3-P7-二王子线-01：决战王都",
-    "name": "决战晨曦堡",
+    "name": "Final Battle in the Mornrays Castle",
     "type": 3,
-    "desc": "尽管有传言骑士同盟会在取得胜利后进行和谈，但骑士团还是继续跨过伊利亚河，向晨曦堡挺进\n现在只有两个选择摆在伊利亚王室的面前\n投降并等待骑士同盟的裁决，或是进行一场没有任何胜算的防御战\n而在此时，一直身为骑士同盟忠实盟友的鲁特菲，主动申请了正面攻击晨曦堡的任务\n似乎这也是他计划的一部分……",
+    "desc": "While some people believe that the Union might negotiate peace after their victory, the Order continued to cross the Iria River, advancing toward the Mornrays Castle.\nNow, the Kingdom of Iria is left with only two options: surrender and await the Union's judgment, or engage in a defense battle with no chance of winning.\nAt this time, Lutfi, a longtime loyal ally of the Union, voluntarily applied for the task of attacking the Mornrays Castle head-on.\nIt seems that this is also part of his plan…",
     "duration": 4
   },
   {
     "id": 12,
     "editor_name": "QV3-P7-二王子线-05：伊利亚内战结束",
-    "name": "伊利亚内战结束",
+    "name": "End of Iria's Internal War",
     "type": 4,
-    "desc": "伊利亚王都晨曦堡开城投降\n持续一年多的第二次伊利亚战争，随着第一王子迪塔利奥被捕而终结\n作为这场战争的胜利者，骑士同盟与临时监国的第二王子鲁特菲签订了条约\n但是，鲁特菲又准备如何处理骑士同盟\n这个笼罩在伊利亚头上的庞然大物……",
+    "desc": "Iria's capital, Mornrays Castle, surrendered.\nThe Second Iria War, lasting for over a year, came to an end with the capture of Prince Dantalion.\nAs the absolute victor of this war, the Union signed a treaty with the interim regent, Prince Lutfi.\nBut for Lutfi, how will he deal with the Union?\nThe behemoth looming over Iria…",
     "duration": 4
   },
   {
     "id": 13,
     "editor_name": "QV3-P7-歌洛莉亚线-02：骑士团的战略",
-    "name": "骑士同盟的战略",
+    "name": "Strategy of the Union",
     "type": 4,
-    "desc": "已经夺得十字路要塞的骑士同盟，显然不会满足于眼前的胜利\n稍作休整后，骑士团向晨曦堡发起了进攻\n伊利亚王国军构建了层层防线严阵以待，试图迟滞骑士团的进攻\n并且派出由倒吊人配合的游击部队袭扰骑士团\n残酷的伊利亚战争，进行到下一个阶段",
+    "desc": "The Union, who have already captured Crossroads Keep, will obviously not be satisfied with the current victory.\nAfter a brief rest, the Order launched an attack on the Mornrays Castle.\nThe King's Army of Iria built multiple lines of defense, trying to delay the Order's attack.\nGuerrilla units were also sent out, in conjunction with the Hanged Men, to disrupt the Order's rear.\nA new round of war has once again ignited.",
     "duration": 3
   },
   {
     "id": 14,
     "editor_name": "QV3-P7-歌洛莉亚线-07：前线情报1",
-    "name": "前线情报",
+    "name": "Frontline Intel",
     "type": 1,
-    "desc": "尽管王国军做出了最大的努力，但在巨大的实力差距面前，还是无法阻挡骑士团推进到晨曦堡下\n面对近在眼前的胜利，骑士们士气空前高涨\n另一边，王国军却士气低落，物资匮乏\n双方将在晨曦堡展开最后的决战\n但显然这场战役的结果，并没有太多悬念",
+    "desc": "Despite the King's Army's best efforts, they were unable to block the Order's advance to the Mornrays Castle in the face of a huge power gap.\nFaced with the victory near at hand, the morale of the Order's members is unprecedentedly high. As for the King's Army, their morale is low and supplies are scarce.\nThe two sides will have their final battle around the Mornrays Castle.\nBut obviously, there is not much suspense about the outcome of this campaign.",
     "duration": 2
   },
   {
     "id": 15,
     "editor_name": "QV3-P7-歌洛莉亚线-11：前线情报2",
-    "name": "前线情报2",
+    "name": "Frontline Intel 2",
     "type": 1,
-    "desc": "付出了巨大的代价后，骑士团终于攻陷了晨曦堡\n大量支持迪塔利奥的贵族，主战派官员，以及倒吊人的成员都被关押或处决\n晨曦堡陷落，标志着伊利亚内战的正式结束\n同时也意味着，奥古斯特终于可以腾出手来\n解决先遣骑士团内部的一些问题了……",
+    "desc": "After paying a heavy price, the Order finally captured the capital, Mornrays Castle.\nPlenty of nobles who is on Dantalion's side, pro-war officials, and the Hanged Men members were imprisoned or executed.\nThe fall of the Mornrays Castle marked the official end of the Iria civil war.\nIt also means that Auguste can now \ndeal with some internal issues within the Advance Order…",
     "duration": 2
   }
 ]

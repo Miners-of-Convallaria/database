@@ -3,7 +3,7 @@
     "id": 1,
     "m_rate_up_idss": [],
     "idgacha_package": 1,
-    "name": "邂逅角色",
+    "name": "Summon a character",
     "editor_name": "常驻卡包活动",
     "is_open": true,
     "time_type": 1,
@@ -15,14 +15,14 @@
     "rate_up_probability": 0,
     "label_icon": "10000",
     "advertisement": "Advertisement_10000",
-    "tip": "有机会邂逅当前版本内的任意角色",
+    "tip": "Chance to get any released characters",
     "sort_id": 10000
   },
   {
     "id": 2,
     "m_rate_up_idss": [],
     "idgacha_package": 2,
-    "name": "新手召唤角色",
+    "name": "Novice Gacha",
     "editor_name": "新手必得",
     "is_open": true,
     "time_type": 3,
@@ -34,14 +34,14 @@
     "rate_up_probability": 0,
     "label_icon": "0001",
     "advertisement": "Advertisement_0001",
-    "tip": "<#b4f6c4>{count}</color>次内，必得一名<#ffc8c1>传说级</color>角色",
+    "tip": "Guaranteed to get one <#ffc8c1>Legendary</color> character within <#b4f6c4>{count}</color> summon(s).",
     "sort_id": 1
   },
   {
     "id": 10,
     "m_rate_up_idss": [],
     "idgacha_package": 6,
-    "name": "神兵宝藏",
+    "name": "Mighty Weapons",
     "editor_name": "常驻武器卡池",
     "is_open": true,
     "time_type": 1,
@@ -53,14 +53,14 @@
     "rate_up_probability": 0,
     "label_icon": "20000",
     "advertisement": "Advertisement_20000",
-    "tip": "投影更加强力的装备参与战斗吧",
+    "tip": "Fight with more powerful gear!",
     "sort_id": 20000
   },
   {
     "id": 13,
     "m_rate_up_idss": [],
     "idgacha_package": 11,
-    "name": "乱世中的天真烂漫",
+    "name": "Innocence amid Chaos",
     "editor_name": "【UP0-1】小魔女、面具刺客",
     "is_open": true,
     "time_type": 2,
@@ -72,14 +72,14 @@
     "rate_up_probability": 75,
     "label_icon": "innocenceinchaos",
     "advertisement": "Advertisement_InnocenceInChaos",
-    "tip": "<#ffc8c1>科尔、贝拉</color>限时邂逅概率UP！",
+    "tip": "<#ffc8c1>Col & Beryl</color> Chance UP!",
     "sort_id": 3080
   },
   {
     "id": 63,
     "m_rate_up_idss": [],
     "idgacha_package": 66,
-    "name": "正义的旗帜",
+    "name": "Flag of Justice",
     "editor_name": "【CBT】【INEW1-1】歌洛莉亚",
     "is_open": true,
     "time_type": 2,
@@ -91,7 +91,7 @@
     "rate_up_probability": 50,
     "label_icon": "gloria_cbt",
     "advertisement": "Advertisement_Gloria_CBT",
-    "tip": "<#ffc8c1>歌洛莉亚</color>限时邂逅概率UP！",
+    "tip": "<#ffc8c1>Gloria</color> Chance UP!",
     "sort_id": 3000
   }
 ]

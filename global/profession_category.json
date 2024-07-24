@@ -1,41 +1,41 @@
 [
   {
     "id": 1,
-    "m_profession_restrains": [],
+    "m_profession_restrains": [2, 4],
     "type": "Defender",
-    "name": "防御者",
+    "name": "Defender",
     "desc": "",
     "icon": "smallflag_bg_1"
   },
   {
     "id": 2,
-    "m_profession_restrains": [],
+    "m_profession_restrains": [5, 6],
     "type": "Assaulter",
-    "name": "突袭者",
+    "name": "Seeker",
     "desc": "",
     "icon": "smallflag_bg_2"
   },
   {
     "id": 3,
-    "m_profession_restrains": [],
+    "m_profession_restrains": [13],
     "type": "Destoryer",
-    "name": "毁灭者",
+    "name": "Destroyer",
     "desc": "",
     "icon": "smallflag_bg_3"
   },
   {
     "id": 4,
-    "m_profession_restrains": [],
+    "m_profession_restrains": [9, 10],
     "type": "Breaker",
-    "name": "粉碎者",
+    "name": "Breaker",
     "desc": "",
     "icon": "smallflag_bg_4"
   },
   {
     "id": 5,
-    "m_profession_restrains": [],
+    "m_profession_restrains": [11],
     "type": "Watcher",
-    "name": "守望者",
+    "name": "Watcher",
     "desc": "",
     "icon": "smallflag_bg_5"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "m_profession_restrains": [],
     "type": "Void",
-    "name": "无属性",
+    "name": "No Attribute",
     "desc": "",
     "icon": "smallflag_bg_6"
   }

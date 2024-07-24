@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_boss_armor_reduces": [],
+    "m_boss_armor_reduces": [1, 2, 6],
     "name": "Boss甲1",
     "desc": "test",
     "damage_factor": 0,
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "m_boss_armor_reduces": [],
+    "m_boss_armor_reduces": [4, 5],
     "name": "BOSS甲测试",
     "desc": "test",
     "damage_factor": 10,
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "m_boss_armor_reduces": [],
+    "m_boss_armor_reduces": [8],
     "name": "女骑士BOSS甲",
     "desc": "承受10次攻击破甲。存在护甲时免疫控制类异常和打断，受到来自正、侧面近战伤害降低50%。",
     "damage_factor": 1,
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "m_boss_armor_reduces": [],
+    "m_boss_armor_reduces": [13],
     "name": "面具刺客专用-BOSS甲",
     "desc": "承受20次攻击破甲。破甲2回合后复原。存在护甲时免疫控制类异常、击退和打断，物理防御力、魔法防御力大幅度提升",
     "damage_factor": 5,

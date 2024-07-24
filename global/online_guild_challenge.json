@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "m_normal_quests": [],
-    "m_boss_quests": [],
-    "m_online_guild_challenge_score_treasures": [],
+    "m_normal_quests": [1, 2, 3, 4],
+    "m_boss_quests": [1],
+    "m_online_guild_challenge_score_treasures": [1, 2],
     "name": "公会战测试难度1",
     "level": 10,
     "loop_method": 3,
@@ -19,8 +19,8 @@
   },
   {
     "id": 2,
-    "m_normal_quests": [],
-    "m_boss_quests": [],
+    "m_normal_quests": [1, 2, 3, 4],
+    "m_boss_quests": [1],
     "m_online_guild_challenge_score_treasures": [],
     "name": "公会战测试难度2",
     "level": 20,
@@ -37,8 +37,8 @@
   },
   {
     "id": 3,
-    "m_normal_quests": [],
-    "m_boss_quests": [],
+    "m_normal_quests": [1, 2, 3, 4],
+    "m_boss_quests": [1],
     "m_online_guild_challenge_score_treasures": [],
     "name": "公会战测试难度3",
     "level": 15,
@@ -55,8 +55,8 @@
   },
   {
     "id": 4,
-    "m_normal_quests": [],
-    "m_boss_quests": [],
+    "m_normal_quests": [1, 2, 3, 4],
+    "m_boss_quests": [1],
     "m_online_guild_challenge_score_treasures": [],
     "name": "公会战测试难度4",
     "level": 20,
@@ -73,8 +73,8 @@
   },
   {
     "id": 5,
-    "m_normal_quests": [],
-    "m_boss_quests": [],
+    "m_normal_quests": [1, 2, 3, 4],
+    "m_boss_quests": [1],
     "m_online_guild_challenge_score_treasures": [],
     "name": "公会战测试难度5",
     "level": 25,

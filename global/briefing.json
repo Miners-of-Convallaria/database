@@ -1,2004 +1,2004 @@
 [
   {
     "id": 33,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [126, 127, 128],
+    "m_briefing_pages": [102, 103, 104, 105, 106],
     "name": "zhm测的",
     "editor_name": "zhm"
   },
   {
     "id": 34,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [144, 145, 981, 982, 983, 984, 985, 986],
+    "m_briefing_pages": [131, 132, 133, 134, 1548],
     "name": "工作委托",
     "editor_name": "带分支的工作委托测试"
   },
   {
     "id": 35,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [1226, 1227, 1228, 1229, 1230],
+    "m_briefing_pages": [346, 1923, 1924, 1925],
     "name": "简报功能优化测试0614",
     "editor_name": "简报功能优化测试0614"
   },
   {
     "id": 59,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [1251, 1252],
+    "m_briefing_pages": [242],
     "name": "沙盒战斗测试",
     "editor_name": "沙盒战斗测试"
   },
   {
     "id": 143,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵行会来信",
+    "m_briefing_pages": [1436],
+    "name": "Letter from Mercenary Guild",
     "editor_name": "P2-02-02：目标：S级佣兵团"
   },
   {
     "id": 189,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "一封来自佣兵行会的信件",
+    "m_briefing_pages": [1413],
+    "name": "A letter from Mercenary Guild",
     "editor_name": "佣兵团评级上升：青铜级"
   },
   {
     "id": 190,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "一封来自佣兵行会的信件",
+    "m_briefing_pages": [1415],
+    "name": "A letter from Mercenary Guild",
     "editor_name": "佣兵团评级上升：白银级"
   },
   {
     "id": 191,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "一封来自佣兵行会的信件",
+    "m_briefing_pages": [1417],
+    "name": "A letter from Mercenary Guild",
     "editor_name": "佣兵团评级上升：黄金级"
   },
   {
     "id": 192,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "一封来自佣兵行会的信件",
+    "m_briefing_pages": [1419],
+    "name": "A letter from Mercenary Guild",
     "editor_name": "佣兵团评级上升（白金级）"
   },
   {
     "id": 193,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵之家扩建",
+    "m_briefing_options": [1350, 1351],
+    "m_briefing_pages": [1464, 1993, 1994, 1995],
+    "name": "Expansion of Haven",
     "editor_name": "疗养院扩建"
   },
   {
     "id": 199,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "黑暗之光的报复",
+    "m_briefing_pages": [1288],
+    "name": "Revenge of Darklight",
     "editor_name": "黑暗之光的报复"
   },
   {
     "id": 200,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "成功抵抗黑暗之光",
+    "m_briefing_pages": [1350],
+    "name": "Successfully Repel the Darklight",
     "editor_name": "成功抵抗黑暗之光"
   },
   {
     "id": 202,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "弃暗投明",
+    "m_briefing_options": [1346, 1347],
+    "m_briefing_pages": [1451, 1987, 1988, 1989],
+    "name": "Forsake Darkness for Light",
     "editor_name": "【弃暗投明】（黑暗之光暗法）"
   },
   {
     "id": 203,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "弃暗投明",
+    "m_briefing_options": [1348, 1349],
+    "m_briefing_pages": [1452, 1990, 1991, 1992],
+    "name": "Forsake Darkness for Light",
     "editor_name": "【弃暗投明】（黑暗之光火法）"
   },
   {
     "id": 204,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "暗夜中的微光",
+    "m_briefing_pages": [1324],
+    "name": "Dim Light in the Dark Night",
     "editor_name": "暗夜中的微光"
   },
   {
     "id": 205,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "光辉的教义",
+    "m_briefing_pages": [1301],
+    "name": "Radiant Doctrine",
     "editor_name": "圣光的教义"
   },
   {
     "id": 206,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "流浪的薇尔德人",
+    "m_briefing_options": [1188],
+    "m_briefing_pages": [1454, 1818],
+    "name": "Wandering Vlderian",
     "editor_name": "流浪的薇尔德人"
   },
   {
     "id": 207,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "拯救薇尔德舞娘",
+    "m_briefing_pages": [1329],
+    "name": "Save the Vlder Dancer",
     "editor_name": "拯救薇尔德舞娘"
   },
   {
     "id": 267,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "与王国军和法皇国关系改变",
+    "m_briefing_pages": [1565],
+    "name": "Worsened Relations",
     "editor_name": "骑士团共通线P3-教皇国的不满王国军的不满-0015"
   },
   {
     "id": 269,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "诱饵作战",
+    "m_briefing_pages": [1567],
+    "name": "Decoy Operation",
     "editor_name": "骑士团共通线P3-营地战斗事件-0017"
   },
   {
     "id": 271,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "十字路会战准备：攻占瞭望塔",
+    "m_briefing_pages": [1569],
+    "name": "Taking down the Watchtower",
     "editor_name": "骑士团共通线P3-会战准备-0019"
   },
   {
     "id": 272,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "最后准备",
+    "m_briefing_pages": [1570],
+    "name": "Final Preparation",
     "editor_name": "骑士团共通线P3-最后准备-0020"
   },
   {
     "id": 273,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "浪涌军的到来",
+    "m_briefing_pages": [1571],
+    "name": "Arrival of Waverun Legion",
     "editor_name": "骑士团共通线P3-帮助自由军-0021"
   },
   {
     "id": 274,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "白热化",
+    "m_briefing_options": [1320, 1321],
+    "m_briefing_pages": [1573, 1799, 1800, 1945],
+    "name": "Heated",
     "editor_name": "骑士团共通线P4-前线作战二选一-0023"
   },
   {
     "id": 275,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "最终十字路攻略战",
+    "m_briefing_pages": [1572],
+    "name": "The Final Crossroads Siege",
     "editor_name": "骑士团共通P4-最终十字路口攻略战-0024"
   },
   {
     "id": 278,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "训练场使用说明",
+    "m_briefing_pages": [1581, 1640, 1843],
+    "name": "Instructions of the Training Ground",
     "editor_name": "通用线路P1-在训练场与拉维耶对话-0026"
   },
   {
     "id": 279,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵之家",
+    "m_briefing_pages": [1582],
+    "name": "Haven",
     "editor_name": "共通线：佣兵之家-I019"
   },
   {
     "id": 280,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "旅店",
+    "m_briefing_pages": [1583],
+    "name": "Tavern",
     "editor_name": "共通线：旅店-I018"
   },
   {
     "id": 281,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "铁匠铺的开张",
+    "m_briefing_pages": [1584],
+    "name": "Opening of the Blacksmith's Shop",
     "editor_name": "通用线路P1-难民铁匠-0038"
   },
   {
     "id": 288,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "难民营发生暴动 ",
+    "m_briefing_pages": [1591],
+    "name": "Riot in the Refugee Camp",
     "editor_name": "骑士团共通P4-解决白头盔-0036"
   },
   {
     "id": 289,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "《浪涌城时报》特别报道",
+    "m_briefing_pages": [1592],
+    "name": "Special Report of Waverun City Times",
     "editor_name": "骑士团共通P4-解决白头盔-0037"
   },
   {
     "id": 298,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "战云密布",
+    "m_briefing_pages": [1601],
+    "name": "War Clouds Gathering",
     "editor_name": "骑士团共通P5-战云密布-0045"
   },
   {
     "id": 301,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "蝙蝠之影",
+    "m_briefing_pages": [1604],
+    "name": "Shadow of the Bat",
     "editor_name": "骑士团共通P5-歌洛莉亚的调查1-0048"
   },
   {
     "id": 302,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "第二次十字路会战决战前夕",
+    "m_briefing_pages": [1605],
+    "name": "Eve of the Final Battle of the Second Crossroads Siege",
     "editor_name": "骑士团共通P5-第二次十字路口会战决战前夕-0049"
   },
   {
     "id": 303,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "瓮中捉鳖",
+    "m_briefing_pages": [1606],
+    "name": "Fish in A Barrel",
     "editor_name": "骑士团共通P5-重创王国军-0050"
   },
   {
     "id": 305,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "幸运的胜利",
+    "m_briefing_pages": [1608],
+    "name": "Lucky Victory",
     "editor_name": "骑士团二王子线P6-打扫战场-0054"
   },
   {
     "id": 306,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "决定命运的一战",
+    "m_briefing_pages": [1609],
+    "name": "The Decisive Battle",
     "editor_name": "骑士团歌洛莉亚线P6-重振佣兵团-0055"
   },
   {
     "id": 307,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "宴会邀请",
+    "m_briefing_pages": [1610],
+    "name": "An Invitation to Dinner",
     "editor_name": "骑士团歌洛莉亚线P6-宴会邀请与歌洛莉亚的计划-0056"
   },
   {
     "id": 308,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "灯红酒绿",
+    "m_briefing_pages": [1611],
+    "name": "Debauchery",
     "editor_name": "骑士团歌洛莉亚线P6-宴会、真相与泰登之死-0057"
   },
   {
     "id": 314,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "骑士同盟的突袭",
+    "m_briefing_pages": [1629],
+    "name": "Assault of the Union",
     "editor_name": "骑士团歌洛莉亚线P7-骑士团的袭击-0059"
   },
   {
     "id": 315,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "对王女的审判",
+    "m_briefing_pages": [1630],
+    "name": "The Trial of Princess Inanna",
     "editor_name": "骑士团歌洛莉亚线P7-对三王女的审判-0060"
   },
   {
     "id": 316,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "搜查令",
+    "m_briefing_pages": [1631],
+    "name": "Search Warrant",
     "editor_name": "骑士团二王子线P7-搜查令-0058"
   },
   {
     "id": 320,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "歌洛莉亚的来信",
+    "m_briefing_pages": [1645],
+    "name": "A Letter from Gloria",
     "editor_name": "骑士团共通P5-歌洛莉亚的调查2-前置-0041附属A"
   },
   {
     "id": 321,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "鲁特菲的来信",
+    "m_briefing_pages": [1648],
+    "name": "A Letter from Lutfi",
     "editor_name": "骑士团共通P5-歌洛莉亚的调查2-前置-0041附属Ｂ"
   },
   {
     "id": 376,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "讣告",
+    "m_briefing_pages": [1748],
+    "name": "Obituary",
     "editor_name": "骑士团共通P5-歌洛莉亚的调查3-二王子线-0044(附属A）"
   },
   {
     "id": 377,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "鲁特菲的信",
+    "m_briefing_pages": [1750],
+    "name": "A Letter from Lutfi",
     "editor_name": "骑士团共通P5-歌洛莉亚的调查3-二王子线-0044（附属B）"
   },
   {
     "id": 379,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "拉维耶的资助",
+    "m_briefing_pages": [1752],
+    "name": "Financial Support from Rawiyah",
     "editor_name": "非主线事件-拉维耶的资助-0004"
   },
   {
     "id": 381,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "铁矿踪迹",
+    "m_briefing_options": [1352, 1353],
+    "m_briefing_pages": [1755, 1852, 1996, 1997],
+    "name": "Traces of Iron Mine",
     "editor_name": "非主线事件-铁矿踪迹-0006"
   },
   {
     "id": 383,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "蝗灾",
+    "m_briefing_options": [1356, 1357],
+    "m_briefing_pages": [1757, 1854, 1855, 2000],
+    "name": "Plague of Locusts",
     "editor_name": "非主线事件-蝗灾-0009"
   },
   {
     "id": 384,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "暴雨",
+    "m_briefing_options": [1358, 1359],
+    "m_briefing_pages": [1758, 1881, 1882, 2001],
+    "name": "Storm",
     "editor_name": "非主线事件-暴雨-0010"
   },
   {
     "id": 385,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "丰收",
+    "m_briefing_pages": [1759],
+    "name": "Good Harvest",
     "editor_name": "非主线事件-丰收-0011"
   },
   {
     "id": 386,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "饥荒",
+    "m_briefing_options": [1360, 1361],
+    "m_briefing_pages": [1760, 1857, 1858, 2002],
+    "name": "Famine",
     "editor_name": "非主线事件-饥荒-0014"
   },
   {
     "id": 387,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "干旱",
+    "m_briefing_options": [1362, 1363],
+    "m_briefing_pages": [1761, 1859, 1860, 2003],
+    "name": "Drought",
     "editor_name": "非主线事件-干旱-0013"
   },
   {
     "id": 388,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "黑暗之光收买人心",
+    "m_briefing_options": [1364, 1365],
+    "m_briefing_pages": [1762, 1861, 1862, 2004],
+    "name": "Darklight Winning People Over",
     "editor_name": "非主线事件-黑暗之光收买人心-0012"
   },
   {
     "id": 389,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "重伤的骑士",
+    "m_briefing_pages": [1763],
+    "name": "Gravely Injured Knight",
     "editor_name": "非主线事件-骑士团招募事件-0092"
   },
   {
     "id": 394,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "拉维耶的来信",
+    "m_briefing_pages": [1771],
+    "name": "A Letter from Rawiyah",
     "editor_name": "骑士团共通P4-三王女伊南娜V3-0061"
   },
   {
     "id": 408,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵行会的信件",
+    "m_briefing_pages": [1807],
+    "name": "A Letter from the Mercenary Guild",
     "editor_name": "行会的试炼"
   },
   {
     "id": 420,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "节日将至",
+    "m_briefing_pages": [1841],
+    "name": "The Coming of Festival",
     "editor_name": "AT1-铃兰节-0115"
   },
   {
     "id": 423,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "镇民请求援救",
+    "m_briefing_options": [1316, 1317],
+    "m_briefing_pages": [1864, 1865, 1866, 1944],
+    "name": "Townsfolk Calling for Help",
     "editor_name": "骑士团共通线P3-二王子的委托-0018"
   },
   {
     "id": 440,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [1221, 1222, 1223],
+    "m_briefing_pages": [1900, 1901, 1902, 1903, 1904],
     "name": "2022/6/7测试用",
     "editor_name": "2022/6/7测试用"
   },
   {
     "id": 441,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "鲁特菲的来信",
+    "m_briefing_pages": [1906],
+    "name": "A Letter from Lutfi",
     "editor_name": "骑士团追加-二王子的来信-I005"
   },
   {
     "id": 442,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "歌洛莉亚的来信",
+    "m_briefing_options": [1224, 1225, 1236],
+    "m_briefing_pages": [1907, 1908, 1909, 1910],
+    "name": "A Letter from Gloria",
     "editor_name": "骑士团追加-歌洛莉亚的来信-I006"
   },
   {
     "id": 443,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "萨曼莎来信",
+    "m_briefing_pages": [1912],
+    "name": "A Letter from Samantha",
     "editor_name": "骑士团追加-萨曼莎来信-I001"
   },
   {
     "id": 444,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "罗迪尼亚法皇国内讧",
+    "m_briefing_pages": [1914],
+    "name": "Infighting of Papal States of Rodinia",
     "editor_name": "骑士团追加-法皇国内讧-I003"
   },
   {
     "id": 445,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "萨曼莎最后的来信",
+    "m_briefing_pages": [1916],
+    "name": "The Last Letter from Samantha",
     "editor_name": "骑士团追加-萨曼莎最后的来信-I004"
   },
   {
     "id": 446,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王女的去向",
+    "m_briefing_pages": [1922],
+    "name": "The Whereabouts of Princess Inanna",
     "editor_name": "骑士团追加-三王女的去向-I009"
   },
   {
     "id": 448,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "2022/6/15有选项的反馈页测试简报",
+    "m_briefing_options": [1231, 1232, 1233],
+    "m_briefing_pages": [1927, 1928, 1929, 1930, 1931],
+    "name": "2022/6/15Test Briefing of Feedback Page with Options",
     "editor_name": "2022/6/15有选项的反馈页测试简报"
   },
   {
     "id": 449,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "2022/6/15无选项反馈测试用简报",
+    "m_briefing_pages": [1932],
+    "name": "2022/6/15Test Briefing of Feedback Page without Options",
     "editor_name": "2022/6/15无选项反馈测试用简报"
   },
   {
     "id": 450,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [1234, 1235],
+    "m_briefing_pages": [1933, 1934, 1935, 1936],
     "name": "沙盒提示追加测试简报(有选项)2022/6/16",
     "editor_name": "沙盒提示追加测试简报(有选项)2022/6/16"
   },
   {
     "id": 451,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_pages": [1937],
     "name": "沙盒提示追加测试简报（无选项）2022/6/16",
     "editor_name": "沙盒提示追加测试简报（无选项）2022/6/16"
   },
   {
     "id": 454,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "萨曼莎来信",
+    "m_briefing_pages": [1941],
+    "name": "A Letter from Samantha",
     "editor_name": "骑士团追加-萨曼莎来信-I001"
   },
   {
     "id": 458,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国一线情报\n",
+    "m_briefing_pages": [1955],
+    "name": "Frontline Intelligence of the Papal States",
     "editor_name": "教皇国影响力提升下-附属简报"
   },
   {
     "id": 459,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "难民中的少女",
+    "m_briefing_pages": [1957],
+    "name": "Maiden Among The Refugees",
     "editor_name": "共通线：少女引导人民-I001"
   },
   {
     "id": 460,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "萨曼莎进驻来信",
+    "m_briefing_pages": [1958],
+    "name": "A Letter from Samantha",
     "editor_name": "共通线：萨曼莎进驻来信-I002"
   },
   {
     "id": 461,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "魔女逮捕令",
+    "m_briefing_pages": [1960],
+    "name": "Warrant for Sorceress",
     "editor_name": "共通线：魔女通缉令-I003"
   },
   {
     "id": 462,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "邻村遇袭",
+    "m_briefing_pages": [1961],
+    "name": "Nearby Villages Were Attacked",
     "editor_name": "共通线：邻村遇袭-I004"
   },
   {
     "id": 463,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵团来袭",
+    "m_briefing_pages": [1962, 1963],
+    "name": "A Mercenary Group Came to Attack",
     "editor_name": "共通线：佣兵团来袭-I005"
   },
   {
     "id": 464,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "稳定小镇",
+    "m_briefing_pages": [1964],
+    "name": "Stabilize the Town",
     "editor_name": "共通线：稳定小镇-I006"
   },
   {
     "id": 465,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "出现大量患者",
+    "m_briefing_pages": [1965],
+    "name": "Influx of the Sickly",
     "editor_name": "共通线：黑暗之光受害者出现-I007"
   },
   {
     "id": 466,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "阶段性救治有效",
+    "m_briefing_pages": [1966],
+    "name": "Effective Phase-based Treatment",
     "editor_name": "共通线：阶段性救治有效-I008"
   },
   {
     "id": 467,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "粮食危机",
+    "m_briefing_pages": [1967],
+    "name": "Food Crisis",
     "editor_name": "共通线：粮食危机-I009"
   },
   {
     "id": 468,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "富商的来信",
+    "m_briefing_pages": [1968],
+    "name": "A Letter from the Merchant",
     "editor_name": "共通线：二王子寄物资-I010"
   },
   {
     "id": 469,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "治疗的曙光",
+    "m_briefing_pages": [1969],
+    "name": "The Hope of Treatment",
     "editor_name": "共通线：治疗的曙光-I011"
   },
   {
     "id": 470,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "萨曼莎离开小镇",
+    "m_briefing_pages": [1970],
+    "name": "Samantha Left the Town",
     "editor_name": "共通线：萨曼莎离开小镇-I012"
   },
   {
     "id": 471,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "商人暴毙",
+    "m_briefing_pages": [1971],
+    "name": "Sudden Death of the Merchant",
     "editor_name": "共通线：奴隶商人暴毙-I013"
   },
   {
     "id": 472,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "举报黑暗之光",
+    "m_briefing_pages": [1972],
+    "name": "Report Darklight",
     "editor_name": "共通线：举报黑暗之光-I014"
   },
   {
     "id": 473,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "求援",
+    "m_briefing_options": [1340, 1341, 1342],
+    "m_briefing_pages": [1976, 1977, 1978, 1979, 1980],
+    "name": "Call for Help",
     "editor_name": "共通线：求援-I015"
   },
   {
     "id": 476,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "训练场",
+    "m_briefing_pages": [2005],
+    "name": "Training Ground",
     "editor_name": "共通线：训练场-I016"
   },
   {
     "id": 477,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "晶石工坊",
+    "m_briefing_pages": [2006],
+    "name": "Luxite Workshop",
     "editor_name": "共通线：晶石工坊-I017"
   },
   {
     "id": 478,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵团评级上升：光辉级",
+    "m_briefing_pages": [2007],
+    "name": "The Mercenary Group Rank rised to: Radiant",
     "editor_name": "佣兵团评级上升：光辉级"
   },
   {
     "id": 480,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "三王女的回归",
+    "m_briefing_pages": [2014],
+    "name": "The Return of the Princess",
     "editor_name": "王国军线：三王女的回归-I003"
   },
   {
     "id": 481,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "再续上古盟约",
+    "m_briefing_pages": [2015],
+    "name": "Renewal of the Ancient Alliance",
     "editor_name": "王国军线：收服诺诺薇儿-I004"
   },
   {
     "id": 482,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "联手剿灭黑暗之光",
+    "m_briefing_pages": [2016],
+    "name": "Unite Against Darklight",
     "editor_name": "王国军线：去干黑暗之光-I005"
   },
   {
     "id": 483,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "大王子的警告",
+    "m_briefing_pages": [2017],
+    "name": "A Prince's Warning",
     "editor_name": "王国军线：大王子的警告-I008"
   },
   {
     "id": 484,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王国军的赞扬",
+    "m_briefing_pages": [2018],
+    "name": "Praise from King's Army",
     "editor_name": "王国军线：通报表扬-I001"
   },
   {
     "id": 485,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "二王子的来信",
+    "m_briefing_pages": [2019],
+    "name": "A Letter from the Second Prince",
     "editor_name": "王国军线：二王子告密-I009"
   },
   {
     "id": 486,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "第一王子的来信",
+    "m_briefing_pages": [2020],
+    "name": "Letter from the Great Prince",
     "editor_name": "王国军线：大王子要钱-有信物-I011"
   },
   {
     "id": 487,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "黄昏中的元帅",
+    "m_briefing_pages": [2021],
+    "name": "Marshal at Dusk",
     "editor_name": "王国军线：马格努斯来投奔-I014"
   },
   {
     "id": 488,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "小镇居民的感激",
+    "m_briefing_pages": [2022],
+    "name": "The Gratitude of the Townspeople",
     "editor_name": "王国军线：民众表扬-I002\n"
   },
   {
     "id": 489,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "第一王子的来信",
+    "m_briefing_options": [1416],
+    "m_briefing_pages": [2023, 2048, 2049],
+    "name": "Letter from the Great Prince",
     "editor_name": "王国军线：大王子要钱-没信物且好感不够-I012"
   },
   {
     "id": 490,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "诺诺薇儿的留信",
+    "m_briefing_pages": [2024],
+    "name": "Letters from Nono Will",
     "editor_name": "王国军线：寻找诺诺薇儿-附属简报"
   },
   {
     "id": 491,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "炸矿结果",
+    "m_briefing_pages": [2025, 2026],
+    "name": "Blasting Result",
     "editor_name": "王国军线：炸矿结果-I015"
   },
   {
     "id": 492,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "第一王子的来信",
+    "m_briefing_options": [1394],
+    "m_briefing_pages": [2027, 2046, 2047],
+    "name": "Letter from the Great Prince",
     "editor_name": "王国军线：大王子要钱-没信物且好感很高-I013"
   },
   {
     "id": 494,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "回援伊利亚",
+    "m_briefing_pages": [2029],
+    "name": "Return to Iria",
     "editor_name": "王国军线：回援伊利亚-I006"
   },
   {
     "id": 495,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "饥荒中的矿坑城",
+    "m_briefing_pages": [2030],
+    "name": "The Mine Pit in Famine",
     "editor_name": "王国军线：断粮结果-I007"
   },
   {
     "id": 496,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "完全清算",
+    "m_briefing_pages": [2031, 2076],
+    "name": "Complete Liquidation",
     "editor_name": "王国军线：完全清算/抄家-I010"
   },
   {
     "id": 498,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [1374, 1375, 1376, 1381, 1382, 1383, 1384],
+    "m_briefing_pages": [2036, 2037, 2038, 2039],
     "name": "2022/11/21七选项测试",
     "editor_name": "2022/11/21七选项测试"
   },
   {
     "id": 499,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_options": [1385, 1386, 1387, 1388, 1389, 1390, 1391, 1392, 1393],
+    "m_briefing_pages": [2040, 2041, 2042, 2043, 2044, 2045],
     "name": "2022/11/21 奇怪的多选项方案测试",
     "editor_name": "2022/11/21 奇怪的多选项方案测试"
   },
   {
     "id": 500,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "宣扬威名",
+    "m_briefing_options": [1396, 1397],
+    "m_briefing_pages": [2050, 2052, 2053, 2054],
+    "name": "Build Your Prestige",
     "editor_name": "王国军线：考试胜利后难度选择-I017"
   },
   {
     "id": 501,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "擒获费尔南多",
+    "m_briefing_pages": [2051],
+    "name": "Capture Fernando",
     "editor_name": "王国军线：擒获费尔南多-I016"
   },
   {
     "id": 502,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "弃暗投明",
+    "m_briefing_options": [1398, 1399],
+    "m_briefing_pages": [2055, 2056, 2057, 2058],
+    "name": "Forsake Darkness for Light",
     "editor_name": "【弃暗投明】（黑暗之光暗法）"
   },
   {
     "id": 503,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "弃暗投明",
+    "m_briefing_options": [1400, 1401],
+    "m_briefing_pages": [2059, 2060, 2061, 2062],
+    "name": "Forsake Darkness for Light",
     "editor_name": "【弃暗投明】（黑暗之光暗法）"
   },
   {
     "id": 504,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
+    "m_briefing_pages": [2063],
     "name": "2023/2/21 这是一个占位简报",
     "editor_name": "2023/2/21 这是一个占位简报"
   },
   {
     "id": 505,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "骑士同盟的来信",
+    "m_briefing_pages": [2064],
+    "name": "Letter from The Union",
     "editor_name": "骑士团线：骑士同盟的来信"
   },
   {
     "id": 506,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王国军的来信",
+    "m_briefing_pages": [2065],
+    "name": "Letter from King's Army",
     "editor_name": "王国军线：王国军的来信-I018"
   },
   {
     "id": 507,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王国军声望提升：中立",
+    "m_briefing_pages": [2066],
+    "name": "Reputation with King's Army: Neutral",
     "editor_name": "王国军线：王国军声望中立-I019"
   },
   {
     "id": 508,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "骑士同盟声望提升：中立",
+    "m_briefing_pages": [2067],
+    "name": "Reputation with the Union: Neutral",
     "editor_name": "骑士同盟声望提升：中立"
   },
   {
     "id": 509,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "骑士同盟声望提升：友好",
+    "m_briefing_pages": [2068],
+    "name": "Reputation with the Union: Friendly",
     "editor_name": "骑士同盟声望提升：友好"
   },
   {
     "id": 510,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "骑士同盟声望提升：信赖",
+    "m_briefing_pages": [2069],
+    "name": "Reputation with the Union: Honored",
     "editor_name": "骑士同盟声望提升：信赖"
   },
   {
     "id": 511,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "骑士同盟声望提升：盟友",
+    "m_briefing_pages": [2070],
+    "name": "Reputation with the Union: Allied",
     "editor_name": "骑士同盟声望提升：盟友\n"
   },
   {
     "id": 512,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王国军声望提升：友好",
+    "m_briefing_pages": [2071],
+    "name": "Reputation with King's Army: Friendly",
     "editor_name": "王国军线：王国军声望友好-I020"
   },
   {
     "id": 513,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王国军声望提升：信赖",
+    "m_briefing_pages": [2072],
+    "name": "Reputation with King's Army: Honored",
     "editor_name": "王国军线：王国军声望信赖-I021"
   },
   {
     "id": 514,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王国军声望提升：盟友",
+    "m_briefing_pages": [2073],
+    "name": "Reputation with King's Army: Allied",
     "editor_name": "王国军线：王国军声望盟友-I022"
   },
   {
     "id": 515,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "搜寻薇尔德人下落",
+    "m_briefing_pages": [2074],
+    "name": "The Search for the Vlderian",
     "editor_name": "王国军线：搜寻薇尔德人下落-I023"
   },
   {
     "id": 516,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "游街",
+    "m_briefing_pages": [2075],
+    "name": "A Solemn March",
     "editor_name": "王国军线：骑士团来和谈-I024"
   },
   {
     "id": 517,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "艾达的关心",
+    "m_briefing_pages": [2077],
+    "name": "Edda's Concern",
     "editor_name": "王国军线：艾达的最后关怀-I025"
   },
   {
     "id": 518,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "坚定的模样",
+    "m_briefing_pages": [2078],
+    "name": "A Firm Appearance",
     "editor_name": "王国军线：三王女的决心模样-I026"
   },
   {
     "id": 519,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "艾达的感谢",
+    "m_briefing_pages": [2079],
+    "name": "Edda's Thanks",
     "editor_name": "王国军线：艾达的礼物-I027"
   },
   {
     "id": 520,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "银狼的计划",
+    "m_briefing_pages": [2080],
+    "name": "The Silver Wolf's Plan",
     "editor_name": "王国军线：银狼的计划-I028"
   },
   {
     "id": 521,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "战报·露西亚",
+    "m_briefing_pages": [2081],
+    "name": "Battle Report - Luccia",
     "editor_name": "王国军线：战报·露西亚-I029"
   },
   {
     "id": 522,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "战报·正面",
+    "m_briefing_pages": [2082],
+    "name": "Battle report - Front",
     "editor_name": "王国军线：战报·正面-I030"
   },
   {
     "id": 523,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "战报·薇尔德",
+    "m_briefing_pages": [2083],
+    "name": "Battle Report - Vlder",
     "editor_name": "王国军线：战报·薇尔德-I031"
   },
   {
     "id": 524,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "作战计划",
+    "m_briefing_pages": [2084],
+    "name": "Operational Plan",
     "editor_name": "王国军线：作战计划-I032"
   },
   {
     "id": 525,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "出差准备",
+    "m_briefing_pages": [2085],
+    "name": "Preparation for Business Trip",
     "editor_name": "王国军线：准备共乘马车-I033"
   },
   {
     "id": 526,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "抄家完结",
+    "m_briefing_pages": [2086],
+    "name": "End of Property Acquisition",
     "editor_name": "王国军线：抄家完结-I034"
   },
   {
     "id": 527,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "第一王子的来信",
+    "m_briefing_pages": [2087],
+    "name": "Letter from the Great Prince",
     "editor_name": "王国军线：大王子要钱-\n没信物且好感不够且没钱-I035"
   },
   {
     "id": 528,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "第一王子的来信",
+    "m_briefing_pages": [2088],
+    "name": "Letter from the Great Prince",
     "editor_name": "王国军线：大王子要钱-\n没信物且好感很高且没钱-I036"
   },
   {
     "id": 529,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "秘密金库",
+    "m_briefing_pages": [2089],
+    "name": "Secret Vault",
     "editor_name": "王国军线：抄秘密金库-I037"
   },
   {
     "id": 530,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "行动扑空",
+    "m_briefing_pages": [2090],
+    "name": "Action Fans the Air",
     "editor_name": "王国军线：抄家扑空-I038"
   },
   {
     "id": 531,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "贵族行贿",
+    "m_briefing_options": [1404, 1405],
+    "m_briefing_pages": [2091, 2098, 2099, 2100],
+    "name": "Noble Bribe",
     "editor_name": "王国军线：贵族行贿-I039"
   },
   {
     "id": 532,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "萨曼莎的异常",
+    "m_briefing_pages": [2092],
+    "name": "Samantha's Solemnity",
     "editor_name": "王国军线：萨曼莎的异常-I040"
   },
   {
     "id": 533,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "迪塔利奥的邀约",
+    "m_briefing_pages": [2093],
+    "name": "Invitation from Dantalion",
     "editor_name": "王国军线：大王子的邀约信-I041"
   },
   {
     "id": 534,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "无依无靠",
+    "m_briefing_options": [1402, 1403],
+    "m_briefing_pages": [2094, 2095, 2096, 2097],
+    "name": "Helpless",
     "editor_name": "王国军线：抄第二个旧贵族家-是否同情家属-I043"
   },
   {
     "id": 535,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "贝拉留信",
+    "m_briefing_pages": [2101],
+    "name": "Beryl's Letter",
     "editor_name": "法皇国线：小魔女的离开-I003"
   },
   {
     "id": 536,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "阴云中的伊利亚",
+    "m_briefing_pages": [2102],
+    "name": "Iria in the Clouds",
     "editor_name": "法皇国线：炸矿通知（表）-I001"
   },
   {
     "id": 537,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "往事回顾",
+    "m_briefing_pages": [2103],
+    "name": "Review of Past Events",
     "editor_name": "法皇国线：里线前情回顾-I002"
   },
   {
     "id": 538,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "再次消失的王子",
+    "m_briefing_pages": [2104],
+    "name": "The Prince Disappears (Again)",
     "editor_name": "法皇国线：邦国王子失踪-I005"
   },
   {
     "id": 539,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "塔埃尔的来信",
+    "m_briefing_pages": [2105],
+    "name": "Letter from Taair",
     "editor_name": "法皇国线：历史研究-I004"
   },
   {
     "id": 540,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "米格尔的来信",
+    "m_briefing_pages": [2108],
+    "name": "Letter from Miguel",
     "editor_name": "法皇国线：鹰隼来信-I007"
   },
   {
     "id": 541,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "追捕令",
+    "m_briefing_pages": [2109],
+    "name": "Warrant of Arrest",
     "editor_name": "法皇国线：米格尔的下落-I010"
   },
   {
     "id": 542,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "枢机卿来信",
+    "m_briefing_pages": [2110],
+    "name": "Letter from the Cardinal",
     "editor_name": "法皇国线：法皇之手的保护任务-I012"
   },
   {
     "id": 543,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "伊利亚的命运",
+    "m_briefing_pages": [2112],
+    "name": "The Fate of Iria",
     "editor_name": "法皇国线：炸矿通知（里）-I006"
   },
   {
     "id": 544,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "分裂的铃兰之剑",
+    "m_briefing_pages": [2113],
+    "name": "Divided Sword of Convallaria",
     "editor_name": "法皇国线：佣兵团的分裂-I008"
   },
   {
     "id": 545,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国停火",
+    "m_briefing_pages": [2114],
+    "name": "Cease-fire of Papal States",
     "editor_name": "法皇国线：法皇国停火-I009"
   },
   {
     "id": 546,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "雷雨将至",
+    "m_briefing_pages": [2115],
+    "name": "A Storm Approaches",
     "editor_name": "法皇国线：二次起义-I011"
   },
   {
     "id": 547,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "诺诺薇儿的离开",
+    "m_briefing_pages": [2116],
+    "name": "The Departure of NonoWill",
     "editor_name": "法皇国线：诺诺告别-I013"
   },
   {
     "id": 548,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "矿洞之乱",
+    "m_briefing_pages": [2117],
+    "name": "The Chaos of Mines",
     "editor_name": "法皇国线：晶石矿之乱-I014"
   },
   {
     "id": 549,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王女摄政",
+    "m_briefing_pages": [2118],
+    "name": "Regent of Princess",
     "editor_name": "法皇国线：法皇之手谈判邀请-I015"
   },
   {
     "id": 550,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "撤退的骑士",
+    "m_briefing_pages": [2119],
+    "name": "The Retreating Knights",
     "editor_name": "法皇国线：联合行动-I016"
   },
   {
     "id": 551,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "不作为的援军",
+    "m_briefing_pages": [2120],
+    "name": "Delayed Reinforcements",
     "editor_name": "法皇国线：十字路口决战-I017"
   },
   {
     "id": 552,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "姗姗来迟的客人",
+    "m_briefing_pages": [2121],
+    "name": "A Belated Guest",
     "editor_name": "法皇国线：迟迟未到-I018"
   },
   {
     "id": 553,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "黑暗的秘密",
+    "m_briefing_pages": [2122],
+    "name": "The Secret of Darkness",
     "editor_name": "法皇国线：黑光对抗战后-I019"
   },
   {
     "id": 554,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "揭穿谎言",
+    "m_briefing_pages": [2123],
+    "name": "Expose a Lie",
     "editor_name": "法皇国线：费尔南多的蛊惑-I020"
   },
   {
     "id": 555,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "点亮黑暗的火焰",
+    "m_briefing_pages": [2124],
+    "name": "Light the Flame in Darkness",
     "editor_name": "法皇国线：反抗之声-I021"
   },
   {
     "id": 559,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "王国军线：索菲亚的邀请信-I044",
+    "m_briefing_pages": [2133, 2134, 2135],
+    "name": "King's Army Line: Invitation Letter from Safiyyah-I044",
     "editor_name": "王国军线：索菲亚的邀请信-I044"
   },
   {
     "id": 560,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国声望提升：信赖",
+    "m_briefing_pages": [2137],
+    "name": "Reputation with the Papal States: Honored",
     "editor_name": "法皇国线：法皇国声望提升：信赖-I022"
   },
   {
     "id": 561,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国声望提升：友好 ",
+    "m_briefing_pages": [2138],
+    "name": "Reputation with the Papal States: Friendly",
     "editor_name": "法皇国线：法皇国声望提升：友好 -I023"
   },
   {
     "id": 562,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国声望提升：盟友",
+    "m_briefing_pages": [2139],
+    "name": "Reputation with the Papal States: Allied",
     "editor_name": "法皇国线：法皇国声望提升：盟友-I024"
   },
   {
     "id": 563,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国声望提升：中立",
+    "m_briefing_pages": [2140],
+    "name": "Reputation with the Papal States: Neutral",
     "editor_name": "法皇国线：法皇国声望提升：中立-I025"
   },
   {
     "id": 564,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "至诚庇护仪式",
+    "m_briefing_pages": [2141, 2142],
+    "name": "Chosen Ritual",
     "editor_name": "法皇国线：至诚庇护仪式-I026"
   },
   {
     "id": 565,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "光辉赐福",
+    "m_briefing_pages": [2143],
+    "name": "Blessing of Radiant",
     "editor_name": "法皇国线：光辉赐福-I027"
   },
   {
     "id": 567,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "塔埃尔的问候",
+    "m_briefing_pages": [2145],
+    "name": "Greetings from Taair",
     "editor_name": "法皇国线：塔埃尔的宽慰-I028"
   },
   {
     "id": 568,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "政治风波",
+    "m_briefing_pages": [2146],
+    "name": "Political Turmoil",
     "editor_name": "法皇国线：王女掌权-I029"
   },
   {
     "id": 569,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "晋升为青铜级佣兵团",
+    "m_briefing_pages": [2147],
+    "name": "Promoted to Bronze mercenary group",
     "editor_name": "共通线：二章青铜佣兵证明-I020"
   },
   {
     "id": 570,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "晋升为白银级佣兵团",
+    "m_briefing_pages": [2148],
+    "name": "Promoted to Silver mercenary group",
     "editor_name": "共通线：三章白银佣兵证明-I021"
   },
   {
     "id": 571,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "来自异域的建筑师",
+    "m_briefing_pages": [2149],
+    "name": "Foreign Architect",
     "editor_name": "共通线：来自异域的建筑师-II001"
   },
   {
     "id": 572,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵行会的首次赞助",
+    "m_briefing_pages": [2150],
+    "name": "Mercenary Guild's First Sponsorship",
     "editor_name": "共通线：佣兵行会的首次赞助-II002"
   },
   {
     "id": 573,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "佣兵行会的后续赞助",
+    "m_briefing_pages": [2151],
+    "name": "Sponsorship by the Mercenary Guild",
     "editor_name": "共通线：佣兵行会的后续赞助-II003"
   },
   {
     "id": 574,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "小帮手",
+    "m_briefing_pages": [2152],
+    "name": "Little Helper",
     "editor_name": "共通线：高效工作1-II004"
   },
   {
     "id": 575,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "神奇的照明工具",
+    "m_briefing_pages": [2153],
+    "name": "Magic Lighting Tool",
     "editor_name": "共通线：高效工作2-II005"
   },
   {
     "id": 576,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "献给姐姐的舞",
+    "m_briefing_pages": [2154],
+    "name": "A Dance Dedicated to Sister",
     "editor_name": "科技招募：薇尔德舞娘2-II006"
   },
   {
     "id": 577,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "奇袭奴隶贩",
+    "m_briefing_options": [1408, 1409],
+    "m_briefing_pages": [2155, 2157, 2158, 2159],
+    "name": "Surprise Attack on Slave Traders",
     "editor_name": "科技招募：薇尔德弓兵-II007A"
   },
   {
     "id": 578,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "急速出发",
+    "m_briefing_pages": [2156],
+    "name": "Make a Haste",
     "editor_name": "骑士团线：歌洛莉亚没有求援"
   },
   {
     "id": 579,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "奇袭奴隶贩",
+    "m_briefing_options": [1410, 1411],
+    "m_briefing_pages": [2160, 2161, 2162, 2163],
+    "name": "Surprise Attack on Slave Traders",
     "editor_name": "科技招募：薇尔德弓兵-II007B"
   },
   {
     "id": 580,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "奇袭奴隶贩",
+    "m_briefing_options": [1412, 1413],
+    "m_briefing_pages": [2164, 2165, 2166, 2167],
+    "name": "Surprise Attack on Slave Traders",
     "editor_name": "科技招募：薇尔德弓兵-II007B"
   },
   {
     "id": 581,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "可疑的万事通",
+    "m_briefing_pages": [2168],
+    "name": "The Suspicious Mr. Know-It-All",
     "editor_name": "埃拉曼线：拉比亚绿洲-开拓市场R1B-绿洲小镇麻烦 -I001"
   },
   {
     "id": 582,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "权力与规则",
+    "m_briefing_pages": [2169],
+    "name": "Power and Rules",
     "editor_name": "埃拉曼线：暮光城-贿赂法皇国R1B-贿赂成功-I002"
   },
   {
     "id": 583,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "关系缓和",
+    "m_briefing_pages": [2170],
+    "name": "Thawing Relations",
     "editor_name": "埃拉曼线：晨曦堡-前往晨曦堡R1B-索菲亚的拉拢-I003"
   },
   {
     "id": 584,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "神秘的竞争对手",
+    "m_briefing_pages": [2171],
+    "name": "Mysterious Rival",
     "editor_name": "埃拉曼线：浪涌城-二王子晶石生意R2B-神秘竞争对手-I004"
   },
   {
     "id": 585,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "鲁特菲的信",
+    "m_briefing_pages": [2172],
+    "name": "A Letter from Lutfi",
     "editor_name": "埃拉曼线：晨曦堡-前往晨曦堡R1G-爱的放纵-I005"
   },
   {
     "id": 586,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "鲁特菲的信",
+    "m_briefing_pages": [2173],
+    "name": "A Letter from Lutfi",
     "editor_name": "埃拉曼线：二王子的先一步笼络-I006"
   },
   {
     "id": 587,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "村庄里的重型武器",
+    "m_briefing_pages": [2174],
+    "name": "Heavy Weapons in the Village",
     "editor_name": "埃拉曼线：周边小镇-重型武器出现R1B-获得重型武器-I008"
   },
   {
     "id": 588,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "栽赃",
+    "m_briefing_pages": [2176],
+    "name": "Framed",
     "editor_name": "埃拉曼线：拉比亚绿洲-开拓市场R2B-绿洲小镇冲突-I009"
   },
   {
     "id": 589,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "沙漠风暴",
+    "m_briefing_pages": [2177, 2190],
+    "name": "Desert Storm",
     "editor_name": "埃拉曼线：拉比亚绿洲-开拓市场R1B-沙漠风暴 -I010"
   },
   {
     "id": 590,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "神秘的商机",
+    "m_briefing_pages": [2178, 2189],
+    "name": "Mysterious Business Opportunity",
     "editor_name": "埃拉曼线：拉比亚绿洲-开拓市场R1G-可疑的商机-I011"
   },
   {
     "id": 591,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "本地商会的感谢",
+    "m_briefing_pages": [2179],
+    "name": "Gratitude from the Local Trading Post",
     "editor_name": "埃拉曼线：浪涌城-恶意竞争R2B-本地商会的感谢-I012"
   },
   {
     "id": 592,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "深入调查",
+    "m_briefing_pages": [2180],
+    "name": "In-depth Investigation",
     "editor_name": "埃拉曼线：诺诺薇儿献歌+奴隶商人暴毙-I013"
   },
   {
     "id": 593,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "交易成本增加",
+    "m_briefing_pages": [2181],
+    "name": "Trading Costs Increase",
     "editor_name": "埃拉曼线：浪涌城-恶意竞争R1G-浪涌城收益变低-I014"
   },
   {
     "id": 594,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "金钱的力量",
+    "m_briefing_pages": [2182],
+    "name": "The Power of Coin",
     "editor_name": "埃拉曼线：阿坎贝解围黑暗之光危机-I007"
   },
   {
     "id": 595,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "充足的物资",
+    "m_briefing_pages": [2183],
+    "name": "Ample Supplies",
     "editor_name": "埃拉曼线：浪涌城-特产换药R1B-阶段救治有效-I015"
   },
   {
     "id": 596,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "第一桶金",
+    "m_briefing_pages": [2184],
+    "name": "First Pot of Gold",
     "editor_name": "埃拉曼线：浪涌城-特产换药R1G-和二王子整装出发-I016"
   },
   {
     "id": 597,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "周边小镇的状况",
+    "m_briefing_pages": [2185],
+    "name": "The Situation in the Surrounding Towns",
     "editor_name": "埃拉曼线：新闻-周边小镇的状况-I017"
   },
   {
     "id": 598,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "立竿见影",
+    "m_briefing_pages": [2186],
+    "name": "Immediate Results",
     "editor_name": "埃拉曼线：立竿见影-I018"
   },
   {
     "id": 599,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "先锋",
+    "m_briefing_pages": [2187],
+    "name": "Vanguard",
     "editor_name": "埃拉曼线：矿坑城-恢复晶石生产R2B-开矿之前-I019"
   },
   {
     "id": 600,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "黑暗之光即将来袭",
+    "m_briefing_pages": [2188],
+    "name": "Inbound Darklight",
     "editor_name": "埃拉曼线：黑暗之光准备来袭-I020"
   },
   {
     "id": 601,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "联合进军",
+    "m_briefing_pages": [2191],
+    "name": "Joint March",
     "editor_name": "法皇国线：确立目标-I032"
   },
   {
     "id": 602,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "订单到期",
+    "m_briefing_pages": [2192],
+    "name": "Order Expiry",
     "editor_name": "埃拉曼线：没给够骑士团晶石-I021"
   },
   {
     "id": 603,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "订单到期",
+    "m_briefing_pages": [2193],
+    "name": "Order Expiry",
     "editor_name": "埃拉曼线：给够骑士团晶石-I022"
   },
   {
     "id": 604,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国证据处理决定",
+    "m_briefing_options": [1414, 1415],
+    "m_briefing_pages": [2194, 2195, 2196, 2197],
+    "name": "Papal States Evidence Disposal Decision",
     "editor_name": "埃拉曼线：法皇国证据的处理决定 -I023"
   },
   {
     "id": 605,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "二王子收到木马",
+    "m_briefing_pages": [2198],
+    "name": "The Second Prince Receives a Wooden Horse",
     "editor_name": "埃拉曼线：二王子收到木马-I024"
   },
   {
     "id": 606,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "新的雇主",
+    "m_briefing_pages": [2199],
+    "name": "New Employers",
     "editor_name": "埃拉曼线：暮光城-收买米格尔R1G收买米格尔的机会-I025"
   },
   {
     "id": 607,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "谈判结束",
+    "m_briefing_pages": [2200],
+    "name": "End of Negotiation",
     "editor_name": "埃拉曼线：尘埃落定 -I026"
   },
   {
     "id": 608,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "谈判前夕",
+    "m_briefing_pages": [2201],
+    "name": "Eve of Negotiation",
     "editor_name": "埃拉曼线：谈判的筹码-I027"
   },
   {
     "id": 609,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "消息败露？",
+    "m_briefing_pages": [2202],
+    "name": "News Exposed?",
     "editor_name": "埃拉曼线：二王子被奥古斯特杀-I028"
   },
   {
     "id": 610,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "阿坎贝的下落",
+    "m_briefing_pages": [2203],
+    "name": "Acambe's Whereabouts",
     "editor_name": "埃拉曼线：二哈的不死军 -I029"
   },
   {
     "id": 611,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "霍玛来信",
+    "m_briefing_pages": [2204, 2205, 2206],
+    "name": "Letter from Homa",
     "editor_name": "埃拉曼线：阿坎贝遇险-I030"
   },
   {
     "id": 612,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "停火之后",
+    "m_briefing_pages": [2207],
+    "name": "After the Ceasefire",
     "editor_name": "埃拉曼线：铸剑为犁-I031"
   },
   {
     "id": 613,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "黑暗之光解散",
+    "m_briefing_pages": [2208],
+    "name": "Disbandment of Darklight",
     "editor_name": "埃拉曼线：黑暗之光-帮助黑光改邪归正R1B-解散黑光 -I032"
   },
   {
     "id": 614,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "武器订单",
+    "m_briefing_pages": [2209],
+    "name": "Weapon Orders",
     "editor_name": "埃拉曼线：浪涌城/晨曦堡-军火定单R1G-同时的军火订单-I033"
   },
   {
     "id": 615,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "舆论发酵",
+    "m_briefing_pages": [2210],
+    "name": "Brewing of Public Opinion",
     "editor_name": "埃拉曼线：投毒事件-I034"
   },
   {
     "id": 616,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "铃兰节",
+    "m_briefing_pages": [2211],
+    "name": "Convallaria Festival",
     "editor_name": "埃拉曼线：第一次和谈-I035"
   },
   {
     "id": 617,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "压力考验",
+    "m_briefing_pages": [2212],
+    "name": "Pressure Test",
     "editor_name": "埃拉曼线：双方征募兵力-I036"
   },
   {
     "id": 618,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "黑暗之光的内斗",
+    "m_briefing_pages": [2213],
+    "name": "Internal Feud within Darklight",
     "editor_name": "埃拉曼线：黑暗之光-帮助黑暗之光改邪归正R1B-黑暗之光继续存在 -I037"
   },
   {
     "id": 619,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "周边小镇恢复自主",
+    "m_briefing_pages": [2214],
+    "name": "Surrounding Towns Regain Autonomy",
     "editor_name": "埃拉曼线：周边小镇-援建周边小镇R1B-周边小镇摆脱影响B -I038"
   },
   {
     "id": 620,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "停火",
+    "m_briefing_pages": [2215],
+    "name": "Ceasefire",
     "editor_name": "埃拉曼线：阿坎贝的陷阱-I039"
   },
   {
     "id": 621,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "塔埃尔的感谢",
+    "m_briefing_pages": [2216],
+    "name": "Taair's Gratitude",
     "editor_name": "埃拉曼线：周边小镇-塔埃尔的收藏R1B-塔埃尔的感谢 -I040"
   },
   {
     "id": 622,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "晶石出世",
+    "m_briefing_pages": [2217],
+    "name": "Luxite Emergence",
     "editor_name": "埃拉曼线：薇尔德-晶石贸易委托R3B-晶石出世 -I041"
   },
   {
     "id": 623,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "鲁特菲的邀约",
+    "m_briefing_pages": [2218],
+    "name": "Lutfi's Invitation",
     "editor_name": "埃拉曼线：浪涌城-评议会手谕R1G-附属简报-二王子手下 -I042"
   },
   {
     "id": 624,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "路遇袭兵",
+    "m_briefing_pages": [2219],
+    "name": "Ambushed on the Road",
     "editor_name": "埃拉曼线：晨曦堡-护送前往晨曦堡R1B-路遇袭兵 -I043"
   },
   {
     "id": 625,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "最后的裁决",
+    "m_briefing_pages": [2220],
+    "name": "The Final Judgment",
     "editor_name": "埃拉曼线：阿坎贝的等待-I044"
   },
   {
     "id": 626,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "民众的呼声",
+    "m_briefing_pages": [2221],
+    "name": "The Voice of the People",
     "editor_name": "埃拉曼线：民众的呼声-I045"
   },
   {
     "id": 627,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "伊南娜的决心",
+    "m_briefing_pages": [2222],
+    "name": "Inanna's Determination",
     "editor_name": "埃拉曼线：王女准备公开听证-I046"
   },
   {
     "id": 628,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "真假军械商",
+    "m_briefing_pages": [2223],
+    "name": "The Real and Fake Arms Dealers",
     "editor_name": "埃拉曼线：合力击败幕后黑手-I047"
   },
   {
     "id": 629,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "迪塔利奥的回信",
+    "m_briefing_pages": [2224],
+    "name": "Dantalion's Reply",
     "editor_name": "埃拉曼线：大王子的回信-I048"
   },
   {
     "id": 630,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国的暗算",
+    "m_briefing_pages": [2225],
+    "name": "The Papal States' Backstab",
     "editor_name": "埃拉曼线：法皇国的暗算 -I049"
   },
   {
     "id": 631,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "诺诺薇尔的反思",
+    "m_briefing_pages": [2226],
+    "name": "NonoWill's Reflection",
     "editor_name": "埃拉曼线：薇尔德-援建薇尔德R1B-薇尔德反馈援助 -I050"
   },
   {
     "id": 632,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "蔻蔻娜的求助",
+    "m_briefing_pages": [2227],
+    "name": "Cocoa's Plea for Help",
     "editor_name": "埃拉曼线：薇尔德-援建薇尔德R1G-混血少女请求追杀奴隶主-I051"
   },
   {
     "id": 633,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "乐业安居",
+    "m_briefing_pages": [2228],
+    "name": "Peaceful Livelihood",
     "editor_name": "埃拉曼线：周边小镇-援建周边小镇R3B-周边小镇摆脱影响A -I052"
   },
   {
     "id": 634,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "热心的爱国商人",
+    "m_briefing_pages": [2229],
+    "name": "Enthusiastic Patriotic Merchants",
     "editor_name": "埃拉曼线：晨曦堡-护送前往晨曦堡R1G-热心帮助 -I053"
   },
   {
     "id": 635,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "开矿成功",
+    "m_briefing_pages": [2230],
+    "name": "Mining Success",
     "editor_name": "埃拉曼线：矿坑城-恢复晶石生产R2B-矿坑城自己开矿 -I054"
   },
   {
     "id": 636,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "杳无音信",
+    "m_briefing_pages": [2231],
+    "name": "Gone without a Trace",
     "editor_name": "埃拉曼线：杳无音信-I055"
   },
   {
     "id": 637,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "其利断金",
+    "m_briefing_pages": [2232],
+    "name": "Cuts Through All",
     "editor_name": "埃拉曼线：矿坑城-恢复晶石生产R2B-成功帮助矿坑城开矿 -I056"
   },
   {
     "id": 638,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "矿坑城的新发现",
+    "m_briefing_pages": [2233],
+    "name": "New Discovery in Mine Pit",
     "editor_name": "埃拉曼线：矿坑城-恢复晶石生产R1B-发现新矿脉 -I057"
   },
   {
     "id": 639,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "患难见真情",
+    "m_briefing_pages": [2234],
+    "name": "Adversity Reveals True Friendship",
     "editor_name": "埃拉曼线：矿坑城-建立矿坑城R3B-坚持援助矿坑城的结果 -I058"
   },
   {
     "id": 640,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "商路重开",
+    "m_briefing_pages": [2235],
+    "name": "Trade Routes Reopened",
     "editor_name": "埃拉曼线：浪涌城商路重开-I059"
   },
   {
     "id": 641,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "艾达的提醒",
+    "m_briefing_pages": [2236],
+    "name": "Edda's Reminder",
     "editor_name": "埃拉曼线：矿坑城-建立矿坑城R3B-黑暗之光抢食物-I060"
   },
   {
     "id": 642,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "艾达的感谢",
+    "m_briefing_pages": [2237],
+    "name": "Edda's Gratitude",
     "editor_name": "埃拉曼线：矿坑城-建立矿坑城R2B-艾达感谢武器 -I061"
   },
   {
     "id": 643,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "艾达的来信",
+    "m_briefing_pages": [2238],
+    "name": "Edda's Letter",
     "editor_name": "埃拉曼线：矿坑城-建立矿坑城R1B-艾达感谢信1 -I062"
   },
   {
     "id": 644,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "短暂繁荣",
+    "m_briefing_pages": [2239],
+    "name": "Fleeting Prosperity",
     "editor_name": "埃拉曼线：短暂繁荣-I063"
   },
   {
     "id": 645,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "粮价回稳",
+    "m_briefing_pages": [2240],
+    "name": "Stabilization of Grain Prices",
     "editor_name": "埃拉曼线：周边小镇-稳定粮价R3B-第三次稳定粮价-I064"
   },
   {
     "id": 646,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "不安分的粮食投机者",
+    "m_briefing_pages": [2241],
+    "name": "Restless Grain Speculators",
     "editor_name": "埃拉曼线：周边小镇-稳定粮价R2B-第二次稳定粮价-I065"
   },
   {
     "id": 647,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "稳定粮价的举措",
+    "m_briefing_pages": [2242],
+    "name": "Measures to Stabilize Grain Prices",
     "editor_name": "埃拉曼线：周边小镇-稳定粮价R1B-第一次稳定粮价-I066"
   },
   {
     "id": 648,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "出现粮食投机者",
+    "m_briefing_pages": [2243],
+    "name": "Speculators Emerge",
     "editor_name": "埃拉曼线：周边小镇-稳定粮价R1G-出现粮食投机-I067"
   },
   {
     "id": 649,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "联合矿坑城",
+    "m_briefing_pages": [2244],
+    "name": "United with Mine Pit",
     "editor_name": "埃拉曼线：矿坑城-恢复晶石生产R1B-联合矿坑城 -I068"
   },
   {
     "id": 650,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "狐与松鼠正式成立",
+    "m_briefing_pages": [2245],
+    "name": "Fox and Squirrel Officially Established",
     "editor_name": "埃拉曼线：薇尔德-援建薇尔德R2B-薇尔德中立+矿坑城薇尔德联合倾向-I069"
   },
   {
     "id": 651,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "米格尔出卖法皇国",
+    "m_briefing_pages": [2246],
+    "name": "Miguel Betrays the Papal States",
     "editor_name": "埃拉曼线：米格尔出卖法皇国-I070"
   },
   {
     "id": 652,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "鹦鹉人被驱逐",
+    "m_briefing_pages": [2247],
+    "name": "Parrotfolk Exiled",
     "editor_name": "埃拉曼线：鹦鹉人被驱逐-I071"
   },
   {
     "id": 653,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2248, 2249],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-薇尔德1-I072"
   },
   {
     "id": 654,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2250, 2251],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-薇尔德2-I073"
   },
   {
     "id": 655,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2252, 2253],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-薇尔德3-I074"
   },
   {
     "id": 656,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2254, 2255],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-暮光城1-I075"
   },
   {
     "id": 657,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2256, 2257],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-暮光城2-I076"
   },
   {
     "id": 658,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2258, 2259],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-暮光城3-I077"
   },
   {
     "id": 659,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2260, 2261],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-晨曦堡1-I078"
   },
   {
     "id": 660,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2262, 2263],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-晨曦堡2-I079"
   },
   {
     "id": 661,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2264, 2265],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-晨曦堡3-I080"
   },
   {
     "id": 662,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2266, 2267],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-拉比亚绿洲1-I081"
   },
   {
     "id": 663,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2268, 2269],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-拉比亚绿洲2-I082"
   },
   {
     "id": 664,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2270, 2271],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-矿坑城1-I083"
   },
   {
     "id": 665,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2272, 2273],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-矿坑城2-I084"
   },
   {
     "id": 666,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2274, 2275],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-矿坑城3-I085"
   },
   {
     "id": 667,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2276, 2277],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-风谷镇1-I086"
   },
   {
     "id": 668,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2278, 2279],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-风谷镇2-I087"
   },
   {
     "id": 669,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2280, 2281],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-风谷镇3-I088"
   },
   {
     "id": 670,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2282, 2283],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-浪涌城1-I089"
   },
   {
     "id": 671,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2284, 2285],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-浪涌城2-I090"
   },
   {
     "id": 672,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "当地知名度上升",
+    "m_briefing_pages": [2286, 2287],
+    "name": "Local Reputation Increases",
     "editor_name": "埃拉曼线：发展度简报-浪涌城3-I091"
   },
   {
     "id": 673,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "晶石损失",
+    "m_briefing_pages": [2288],
+    "name": "Luxite Loss",
     "editor_name": "埃拉曼线：晶石损失-I092"
   },
   {
     "id": 674,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "特兰奎洛的下场",
+    "m_briefing_pages": [2289],
+    "name": "Tranquillo's Demise",
     "editor_name": "埃拉曼线：暮光城-交易特兰奎洛R1B-交易特兰奎洛结果-简报-I093"
   },
   {
     "id": 675,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "特兰奎洛失踪",
+    "m_briefing_pages": [2290],
+    "name": "Tranquillo's Disappearance",
     "editor_name": "埃拉曼线：暮光城-交易特兰奎洛R1B-没有交易特兰奎洛-I094"
   },
   {
     "id": 676,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "法皇国抛售晶石",
+    "m_briefing_pages": [2291, 2292],
+    "name": "The Papal States' Luxite Sale",
     "editor_name": "埃拉曼线：法皇国抛售晶石-I095"
   },
   {
     "id": 677,
-    "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "宣扬商会",
+    "m_briefing_options": [1417, 1418],
+    "m_briefing_pages": [2293, 2294, 2295, 2296],
+    "name": "Promote the Trading Post",
     "editor_name": "埃拉曼线：宣扬品牌-I096"
   },
   {
     "id": 678,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "自由商队数量增加",
+    "m_briefing_pages": [2297],
+    "name": "Number of Free Caravans Increases",
     "editor_name": "埃拉曼线：晨曦堡发展度获取自由商队-I097"
   },
   {
     "id": 679,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "自由商队数量增加",
+    "m_briefing_pages": [2298],
+    "name": "Number of Free Caravans Increases",
     "editor_name": "埃拉曼线：绿洲发展度获取自由商队-I098"
   },
   {
     "id": 680,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "香料狂热",
+    "m_briefing_pages": [2299],
+    "name": "Spice Frenzy",
     "editor_name": "埃拉曼线：拉比亚绿洲开启香料热-I099"
   },
   {
     "id": 688,
     "m_briefing_options": [],
-    "m_briefing_pages": [],
-    "name": "特兰奎洛失踪",
+    "m_briefing_pages": [2317],
+    "name": "Tranquillo's Disappearance",
     "editor_name": "埃拉曼线：暮光城-交易特兰奎洛R1B-无书且推迟交易特兰奎洛-I100"
   }
 ]

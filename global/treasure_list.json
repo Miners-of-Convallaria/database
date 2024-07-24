@@ -1,132 +1,132 @@
 [
   {
     "id": 1,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [1],
     "name": "贸易机会_药物紧缺"
   },
   {
     "id": 2,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [2, 28],
     "name": "贸易机会_抑制粮食投机"
   },
   {
     "id": 3,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [3, 29],
     "name": "贸易机会_地方保护"
   },
   {
     "id": 4,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [4, 30],
     "name": "贸易机会_建立矿坑城"
   },
   {
     "id": 5,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [5, 55],
     "name": "贸易机会_开拓市场"
   },
   {
     "id": 6,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [6, 32],
     "name": "贸易机会_调查炸药生产"
   },
   {
     "id": 7,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [7, 33],
     "name": "贸易机会_矿坑城的经济支柱"
   },
   {
     "id": 8,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [8],
     "name": "贸易机会_鲁特菲的承诺"
   },
   {
     "id": 9,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [9, 35],
     "name": "贸易机会_历史爱好者"
   },
   {
     "id": 10,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [10, 36],
     "name": "贸易机会_修复关系"
   },
   {
     "id": 11,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [11, 37],
     "name": "贸易机会_贿赂费尔南多"
   },
   {
     "id": 12,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [12, 38],
     "name": "贸易机会_贿赂法皇国贵族"
   },
   {
     "id": 13,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [13, 39],
     "name": "贸易机会_编织幸运"
   },
   {
     "id": 14,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [14, 40, 53],
     "name": "贸易机会_薪火相传"
   },
   {
     "id": 15,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [15, 41],
     "name": "贸易机会_卡达尔的委托"
   },
   {
     "id": 16,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [16, 42],
     "name": "贸易机会_霍玛的事业"
   },
   {
     "id": 17,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [17, 54],
     "name": "贸易机会_血辙"
   },
   {
     "id": 18,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [18, 44],
     "name": "贸易机会_照亮黑暗"
   },
   {
     "id": 19,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [19, 45],
     "name": "贸易机会_睦“林”友好"
   },
   {
     "id": 20,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [20, 46],
     "name": "贸易机会_引渡叛徒"
   },
   {
     "id": 21,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [21, 47],
     "name": "贸易机会_历史铭刻者"
   },
   {
     "id": 22,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [22, 48],
     "name": "贸易机会_晶石纪元"
   },
   {
     "id": 23,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [23, 49],
     "name": "贸易机会_王权收集癖"
   },
   {
     "id": 24,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [24],
     "name": "贸易机会_高级染料"
   },
   {
     "id": 25,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [25],
     "name": "贸易机会_获取法皇国罪证"
   },
   {
     "id": 26,
-    "m_treasure_list_bonuss": [],
+    "m_treasure_list_bonuss": [26],
     "name": "贸易机会_获取骑士团罪证"
   }
 ]

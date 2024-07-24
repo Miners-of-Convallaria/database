@@ -2,19 +2,19 @@
   {
     "id": 1,
     "type": "tactics",
-    "name": "战术",
+    "name": "Tactics",
     "editor_name": "战术"
   },
   {
     "id": 2,
     "type": "attack",
-    "name": "进攻",
+    "name": "Attack",
     "editor_name": "进攻"
   },
   {
     "id": 3,
     "type": "survival",
-    "name": "生存",
+    "name": "Survival",
     "editor_name": "生存"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": 2,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [19],
     "idcapital_area": 4,
     "name": "旗帜1",
     "model": "qizhi_01_1",
@@ -9,7 +9,7 @@
   },
   {
     "id": 3,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [20],
     "idcapital_area": 4,
     "name": "旗帜2",
     "model": "qizhi_02_1",
@@ -17,7 +17,7 @@
   },
   {
     "id": 4,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [21],
     "idcapital_area": 4,
     "name": "树桩和斧头",
     "model": "shuzhuang_1",
@@ -25,7 +25,7 @@
   },
   {
     "id": 6,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [3, 4],
     "idcapital_area": 4,
     "name": "箭靶1",
     "model": "empty",
@@ -33,7 +33,7 @@
   },
   {
     "id": 7,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [5, 6],
     "idcapital_area": 4,
     "name": "箭靶2",
     "model": "empty",
@@ -41,7 +41,7 @@
   },
   {
     "id": 8,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [7, 8],
     "idcapital_area": 4,
     "name": "箭靶3",
     "model": "empty",
@@ -49,7 +49,7 @@
   },
   {
     "id": 9,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [9, 10],
     "idcapital_area": 4,
     "name": "箭靶4",
     "model": "empty",
@@ -57,7 +57,7 @@
   },
   {
     "id": 10,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [11, 12],
     "idcapital_area": 4,
     "name": "木桩1",
     "model": "empty",
@@ -65,7 +65,7 @@
   },
   {
     "id": 11,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [13, 14],
     "idcapital_area": 4,
     "name": "木桩2",
     "model": "empty",
@@ -73,7 +73,7 @@
   },
   {
     "id": 12,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [15, 16],
     "idcapital_area": 4,
     "name": "木桩3",
     "model": "empty",
@@ -81,7 +81,7 @@
   },
   {
     "id": 13,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [17, 18],
     "idcapital_area": 4,
     "name": "木桩4",
     "model": "empty",
@@ -89,7 +89,7 @@
   },
   {
     "id": 14,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [22],
     "idcapital_area": 4,
     "name": "箭塔1",
     "model": "jianta_01_1",
@@ -97,7 +97,7 @@
   },
   {
     "id": 15,
-    "m_capital_area_parts_upgrades": [],
+    "m_capital_area_parts_upgrades": [23],
     "idcapital_area": 4,
     "name": "箭塔2",
     "model": "jianta_01_1",

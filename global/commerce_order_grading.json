@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "order_grading_name": "保本",
+    "order_grading_name": "Break-Even",
     "type": "",
     "editor_name": "评级1",
-    "order_difficulty_name": "极易",
+    "order_difficulty_name": "Extremely Easy",
     "name": "评级1"
   },
   {
     "id": 2,
-    "order_grading_name": "薄利",
+    "order_grading_name": "Slim Profit",
     "type": "",
     "editor_name": "评级2",
-    "order_difficulty_name": "简单",
+    "order_difficulty_name": "Easy",
     "name": "评级2"
   },
   {
     "id": 3,
-    "order_grading_name": "小赚",
+    "order_grading_name": "Small Earnings",
     "type": "",
     "editor_name": "评级3",
-    "order_difficulty_name": "普通",
+    "order_difficulty_name": "Common",
     "name": "评级3"
   },
   {
     "id": 4,
-    "order_grading_name": "大赚",
+    "order_grading_name": "Big Profit",
     "type": "",
     "editor_name": "评级4",
-    "order_difficulty_name": "困难",
+    "order_difficulty_name": "Hard",
     "name": "评级4"
   },
   {
     "id": 5,
-    "order_grading_name": "暴利",
+    "order_grading_name": "Windfall",
     "type": "",
     "editor_name": "评级5",
-    "order_difficulty_name": "极难",
+    "order_difficulty_name": "Extremely Difficult",
     "name": "评级5"
   }
 ]

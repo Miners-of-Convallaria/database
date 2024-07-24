@@ -1,80 +1,80 @@
 [
   {
     "id": 1,
-    "m_intelligences": [],
-    "name": "测试-默认组",
+    "m_intelligences": [4],
+    "name": "Test - Default Group",
     "icon": "icon"
   },
   {
     "id": 2,
     "m_intelligences": [],
-    "name": "测试-伊利亚宫廷相关",
+    "name": "Test - Irian Court Related",
     "icon": "icon"
   },
   {
     "id": 3,
-    "m_intelligences": [],
-    "name": "百科",
+    "m_intelligences": [13, 14, 15, 16, 17, 18, 19, 21, 26, 32, 33, 34, 35, 36, 38, 40, 44, 51, 58, 65, 66],
+    "name": "Encyclopedia",
     "icon": "icon"
   },
   {
     "id": 4,
-    "m_intelligences": [],
-    "name": "事件",
+    "m_intelligences": [20, 22, 28, 29, 30, 31, 48],
+    "name": "Event",
     "icon": "icon"
   },
   {
     "id": 5,
-    "m_intelligences": [],
-    "name": "伊利亚王国",
+    "m_intelligences": [24, 25, 27, 39, 42, 46, 53, 54, 55, 61, 68, 69, 70],
+    "name": "Kingdom of Iria",
     "icon": "icon"
   },
   {
     "id": 6,
-    "m_intelligences": [],
-    "name": "骑士诸国同盟",
+    "m_intelligences": [45, 47, 56, 59, 62, 63, 67],
+    "name": "Union of Knight States",
     "icon": "icon"
   },
   {
     "id": 7,
-    "m_intelligences": [],
-    "name": "罗迪尼亚法皇国",
+    "m_intelligences": [60],
+    "name": "Papal States",
     "icon": "icon"
   },
   {
     "id": 8,
-    "m_intelligences": [],
-    "name": "黑暗之光",
+    "m_intelligences": [37, 41],
+    "name": "Darklight",
     "icon": "icon"
   },
   {
     "id": 9,
-    "m_intelligences": [],
-    "name": "其他",
+    "m_intelligences": [43, 52],
+    "name": "Others",
     "icon": "icon"
   },
   {
     "id": 10,
-    "m_intelligences": [],
-    "name": "人文",
+    "m_intelligences": [71, 81, 82, 83, 87, 88, 89, 95, 104, 105, 106, 108, 109, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 124],
+    "name": "Culture",
     "icon": "icon"
   },
   {
     "id": 11,
-    "m_intelligences": [],
-    "name": "势力",
+    "m_intelligences": [72, 74, 79, 85, 86, 91, 93, 94, 97, 98, 101, 102, 103],
+    "name": "Faction",
     "icon": "icon"
   },
   {
     "id": 12,
-    "m_intelligences": [],
-    "name": "地理",
+    "m_intelligences": [73, 90, 92, 96, 99, 100, 107, 115, 122, 123],
+    "name": "Geography",
     "icon": "icon"
   },
   {
     "id": 13,
-    "m_intelligences": [],
-    "name": "教学",
+    "m_intelligences": [75, 77, 78, 80, 84],
+    "name": "Instruction",
     "icon": "icon"
   }
 ]

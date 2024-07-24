@@ -2,7 +2,7 @@
   {
     "id": 1001,
     "name": "沙盒入口",
-    "desc": "命运的螺旋",
+    "desc": "Spiral of Destinies",
     "system": 36,
     "param0": 0,
     "param1": 0,
@@ -11,7 +11,7 @@
   {
     "id": 1002,
     "name": "抽卡系统",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 0,
     "param1": 0,
@@ -20,7 +20,7 @@
   {
     "id": 1003,
     "name": "网游主线",
-    "desc": "愚者的旅程",
+    "desc": "The Fool's Journey",
     "system": 29,
     "param0": 0,
     "param1": 0,
@@ -29,7 +29,7 @@
   {
     "id": 1004,
     "name": "网游日常活动",
-    "desc": "交错的世界",
+    "desc": "Crossing Worlds",
     "system": 22,
     "param0": 0,
     "param1": 0,
@@ -38,7 +38,7 @@
   {
     "id": 1005,
     "name": "每日任务",
-    "desc": "任务",
+    "desc": "Quest",
     "system": 35,
     "param0": 0,
     "param1": 0,
@@ -47,7 +47,7 @@
   {
     "id": 1006,
     "name": "角色一览",
-    "desc": "角色",
+    "desc": "Characters",
     "system": 38,
     "param0": 0,
     "param1": 0,
@@ -56,7 +56,7 @@
   {
     "id": 1007,
     "name": "竞技场玩法",
-    "desc": "荣耀之战",
+    "desc": "Clash",
     "system": 37,
     "param0": 0,
     "param1": 0,
@@ -65,7 +65,7 @@
   {
     "id": 1008,
     "name": "竞技场任务",
-    "desc": "荣耀之战-任务",
+    "desc": "Clash - Quest",
     "system": 56,
     "param0": 0,
     "param1": 0,
@@ -74,7 +74,7 @@
   {
     "id": 1009,
     "name": "纯文本-限时活动",
-    "desc": "限时活动掉落",
+    "desc": "Limited-Time Event Reward",
     "system": 0,
     "param0": 0,
     "param1": 0,
@@ -83,7 +83,7 @@
   {
     "id": 1010,
     "name": "纯文本-罕见武器",
-    "desc": "限时活动掉落",
+    "desc": "Limited-Time Event Reward",
     "system": 0,
     "param0": 0,
     "param1": 0,
@@ -92,7 +92,7 @@
   {
     "id": 1011,
     "name": "纯文本-罕见护石",
-    "desc": "限时活动掉落",
+    "desc": "Limited-Time Event Reward",
     "system": 0,
     "param0": 0,
     "param1": 0,
@@ -101,7 +101,7 @@
   {
     "id": 1012,
     "name": "网游科技",
-    "desc": "天赋",
+    "desc": "Talent",
     "system": 49,
     "param0": 0,
     "param1": 0,
@@ -110,7 +110,7 @@
   {
     "id": 1013,
     "name": "纯文本-礼包码",
-    "desc": "礼包码兑换",
+    "desc": "Gift Code Exchange",
     "system": 0,
     "param0": 0,
     "param1": 0,
@@ -119,7 +119,7 @@
   {
     "id": 1101,
     "name": "常驻商店",
-    "desc": "兑换-常驻商店",
+    "desc": "Exchange - Regular",
     "system": 33,
     "param0": 2,
     "param1": 3,
@@ -128,7 +128,7 @@
   {
     "id": 1102,
     "name": "随机商店",
-    "desc": "购物-随机商店",
+    "desc": "Random",
     "system": 40,
     "param0": 2,
     "param1": 6,
@@ -137,7 +137,7 @@
   {
     "id": 1103,
     "name": "网游武器商店",
-    "desc": "兑换-装备商店",
+    "desc": "Exchange - Gear Shop",
     "system": 33,
     "param0": 2,
     "param1": 7,
@@ -146,7 +146,7 @@
   {
     "id": 1201,
     "name": "网游背包-武器界面",
-    "desc": "仓库-装备",
+    "desc": "Inventory - Gear",
     "system": 39,
     "param0": 4,
     "param1": 0,
@@ -155,7 +155,7 @@
   {
     "id": 1202,
     "name": "网游背包-护石界面",
-    "desc": "仓库-塔罗之语",
+    "desc": "Inventory - Tarot Whisper",
     "system": 39,
     "param0": 6,
     "param1": 0,
@@ -164,7 +164,7 @@
   {
     "id": 2101,
     "name": "日常活动-武器本",
-    "desc": "神兵试炼",
+    "desc": "Weaponry Trial",
     "system": 27,
     "param0": 0,
     "param1": 0,
@@ -173,7 +173,7 @@
   {
     "id": 2102,
     "name": "日常活动-武器本-系列1",
-    "desc": "神兵试炼-1",
+    "desc": "Weaponry Trial - 1",
     "system": 27,
     "param0": 4,
     "param1": 0,
@@ -182,7 +182,7 @@
   {
     "id": 2103,
     "name": "日常活动-武器本-系列2",
-    "desc": "神兵试炼-2",
+    "desc": "Weaponry Trial - 2",
     "system": 27,
     "param0": 5,
     "param1": 0,
@@ -191,7 +191,7 @@
   {
     "id": 2104,
     "name": "日常活动-武器本-系列3",
-    "desc": "神兵试炼-3",
+    "desc": "Weaponry Trial - 3",
     "system": 27,
     "param0": 9,
     "param1": 0,
@@ -200,7 +200,7 @@
   {
     "id": 2201,
     "name": "日常活动-碎片本",
-    "desc": "记忆寻回",
+    "desc": "Memory Retrieval",
     "system": 26,
     "param0": 0,
     "param1": 0,
@@ -209,7 +209,7 @@
   {
     "id": 2301,
     "name": "日常活动-经验本",
-    "desc": "实战训练",
+    "desc": "Level-up Training",
     "system": 23,
     "param0": 1,
     "param1": 0,
@@ -218,7 +218,7 @@
   {
     "id": 2401,
     "name": "日常活动-进阶本",
-    "desc": "进阶试炼",
+    "desc": "Rank-up Trial",
     "system": 25,
     "param0": 0,
     "param1": 0,
@@ -227,7 +227,7 @@
   {
     "id": 2402,
     "name": "日常活动-进阶本-粉碎者",
-    "desc": "进阶试炼-粉碎者试炼",
+    "desc": "Rank-up Trial - Breaker Trial",
     "system": 25,
     "param0": 7,
     "param1": 0,
@@ -236,7 +236,7 @@
   {
     "id": 2403,
     "name": "日常活动-进阶本-突袭者",
-    "desc": "进阶试炼-突袭者试炼",
+    "desc": "Rank-up Trial - Seeker Trial",
     "system": 25,
     "param0": 12,
     "param1": 0,
@@ -245,7 +245,7 @@
   {
     "id": 2404,
     "name": "日常活动-进阶本-防御者",
-    "desc": "进阶试炼-防御者试炼",
+    "desc": "Rank-up Trial - Defender Trial",
     "system": 25,
     "param0": 13,
     "param1": 0,
@@ -254,7 +254,7 @@
   {
     "id": 2405,
     "name": "日常活动-进阶本-毁灭者",
-    "desc": "进阶试炼-毁灭者试炼",
+    "desc": "Rank-up Trial - Destroyer Trial",
     "system": 25,
     "param0": 19,
     "param1": 0,
@@ -263,7 +263,7 @@
   {
     "id": 2406,
     "name": "日常活动-进阶本-守望者",
-    "desc": "进阶试炼-守望者试炼",
+    "desc": "Rank-up Trial - Watcher Trial",
     "system": 25,
     "param0": 20,
     "param1": 0,
@@ -272,7 +272,7 @@
   {
     "id": 2501,
     "name": "日常活动-锻造本",
-    "desc": "光辉锻铸",
+    "desc": "Radiant Forging",
     "system": 44,
     "param0": 0,
     "param1": 0,
@@ -281,7 +281,7 @@
   {
     "id": 2601,
     "name": "日常活动-护石本",
-    "desc": "塔罗遗力",
+    "desc": "Tarot Residual",
     "system": 46,
     "param0": 0,
     "param1": 0,
@@ -290,7 +290,7 @@
   {
     "id": 2602,
     "name": "日常活动-护石本-系列1",
-    "desc": "塔罗遗力-1",
+    "desc": "Tarot Residual - 1",
     "system": 46,
     "param0": 3,
     "param1": 0,
@@ -299,7 +299,7 @@
   {
     "id": 2603,
     "name": "日常活动-护石本-系列2",
-    "desc": "塔罗遗力-2",
+    "desc": "Tarot Residual - 2",
     "system": 46,
     "param0": 10,
     "param1": 0,
@@ -308,7 +308,7 @@
   {
     "id": 2604,
     "name": "日常活动-护石本-系列3",
-    "desc": "塔罗遗力-3",
+    "desc": "Tarot Residual - 3",
     "system": 46,
     "param0": 11,
     "param1": 0,
@@ -317,7 +317,7 @@
   {
     "id": 2701,
     "name": "日常活动-科技本",
-    "desc": "星辰试炼",
+    "desc": "Star Trial",
     "system": 45,
     "param0": 0,
     "param1": 0,
@@ -326,7 +326,7 @@
   {
     "id": 2702,
     "name": "日常活动-科技本-系列1",
-    "desc": "星辰试炼-1",
+    "desc": "Star Trial - 1",
     "system": 45,
     "param0": 16,
     "param1": 0,
@@ -335,7 +335,7 @@
   {
     "id": 2703,
     "name": "日常活动-科技本-系列2",
-    "desc": "星辰试炼-2",
+    "desc": "Star Trial - 2",
     "system": 45,
     "param0": 21,
     "param1": 0,
@@ -344,7 +344,7 @@
   {
     "id": 2704,
     "name": "日常活动-科技本-系列3",
-    "desc": "星辰试炼-3",
+    "desc": "Star Trial - 3",
     "system": 45,
     "param0": 22,
     "param1": 0,
@@ -353,7 +353,7 @@
   {
     "id": 2801,
     "name": "日常活动-周常本",
-    "desc": "征服之塔",
+    "desc": "Tower of Conquest",
     "system": 48,
     "param0": 0,
     "param1": 0,
@@ -362,7 +362,7 @@
   {
     "id": 4001,
     "name": "网游主线-第0章",
-    "desc": "愚者的旅程-破碎的时空",
+    "desc": "The Fool's Journey - The Rift",
     "system": 29,
     "param0": 8,
     "param1": 0,
@@ -371,7 +371,7 @@
   {
     "id": 4002,
     "name": "网游主线-第1章",
-    "desc": "愚者的旅程-一个人的战斗",
+    "desc": "The Fool's Journey - One Fighter",
     "system": 29,
     "param0": 2,
     "param1": 0,
@@ -380,7 +380,7 @@
   {
     "id": 4003,
     "name": "网游主线-第2章",
-    "desc": "愚者的旅程-手足",
+    "desc": "The Fool's Journey - Brothers",
     "system": 29,
     "param0": 3,
     "param1": 0,
@@ -389,7 +389,7 @@
   {
     "id": 4004,
     "name": "网游主线-第3章",
-    "desc": "愚者的旅程-流浪者之书",
+    "desc": "The Fool's Journey - The Book of Wanderer",
     "system": 29,
     "param0": 4,
     "param1": 0,
@@ -398,7 +398,7 @@
   {
     "id": 4101,
     "name": "网游主线-第0章-关卡5",
-    "desc": "愚者的旅程-关卡0-5",
+    "desc": "The Fool's Journey - Stage 0-5",
     "system": 29,
     "param0": 8,
     "param1": 101,
@@ -407,7 +407,7 @@
   {
     "id": 4102,
     "name": "网游主线-第0章-关卡10",
-    "desc": "愚者的旅程-关卡0-10",
+    "desc": "The Fool's Journey - Stage 0-10",
     "system": 29,
     "param0": 8,
     "param1": 107,
@@ -416,7 +416,7 @@
   {
     "id": 4103,
     "name": "网游主线-第1章-关卡5",
-    "desc": "愚者的旅程-关卡1-5",
+    "desc": "The Fool's Journey - Stage 1-5",
     "system": 29,
     "param0": 2,
     "param1": 9,
@@ -425,7 +425,7 @@
   {
     "id": 4104,
     "name": "网游主线-第1章-关卡11",
-    "desc": "愚者的旅程-关卡1-11",
+    "desc": "The Fool's Journey - Stage 1-11",
     "system": 29,
     "param0": 2,
     "param1": 32,
@@ -434,7 +434,7 @@
   {
     "id": 4105,
     "name": "网游主线-第1章-关卡17",
-    "desc": "愚者的旅程-关卡1-17",
+    "desc": "The Fool's Journey - Stage 1-17",
     "system": 29,
     "param0": 2,
     "param1": 79,
@@ -443,7 +443,7 @@
   {
     "id": 4106,
     "name": "网游主线-第2章-关卡5",
-    "desc": "愚者的旅程-关卡2-5",
+    "desc": "The Fool's Journey - Stage 2-5",
     "system": 29,
     "param0": 3,
     "param1": 15,
@@ -452,7 +452,7 @@
   {
     "id": 4107,
     "name": "网游主线-第2章-关卡11",
-    "desc": "愚者的旅程-关卡2-11",
+    "desc": "The Fool's Journey - Stage 2-11",
     "system": 29,
     "param0": 3,
     "param1": 111,
@@ -461,7 +461,7 @@
   {
     "id": 4108,
     "name": "网游主线-第2章-关卡17",
-    "desc": "愚者的旅程-关卡2-17",
+    "desc": "The Fool's Journey - Stage 2-17",
     "system": 29,
     "param0": 3,
     "param1": 128,
@@ -470,7 +470,7 @@
   {
     "id": 4109,
     "name": "网游主线-第3章-关卡6",
-    "desc": "愚者的旅程-关卡3-6",
+    "desc": "The Fool's Journey - Stage 3-6",
     "system": 29,
     "param0": 4,
     "param1": 22,
@@ -479,7 +479,7 @@
   {
     "id": 4110,
     "name": "网游主线-第3章-关卡10",
-    "desc": "愚者的旅程-关卡3-10",
+    "desc": "The Fool's Journey - Stage 3-10",
     "system": 29,
     "param0": 4,
     "param1": 120,
@@ -488,7 +488,7 @@
   {
     "id": 4111,
     "name": "网游主线-第3章-关卡16",
-    "desc": "愚者的旅程-关卡3-16",
+    "desc": "The Fool's Journey - Stage 3-16",
     "system": 29,
     "param0": 4,
     "param1": 123,
@@ -497,7 +497,7 @@
   {
     "id": 5000,
     "name": "测试充值付费钻商店",
-    "desc": "测试充值付费钻商店",
+    "desc": "Test Paid Diamond Shop",
     "system": 33,
     "param0": 1,
     "param1": 1,
@@ -506,7 +506,7 @@
   {
     "id": 5001,
     "name": "常驻商店",
-    "desc": "兑换-常驻商店",
+    "desc": "Exchange - Regular",
     "system": 33,
     "param0": 2,
     "param1": 3,
@@ -515,7 +515,7 @@
   {
     "id": 5002,
     "name": "测试充值免费钻商店",
-    "desc": "测试充值免费钻商店",
+    "desc": "Test Free Diamond Shop",
     "system": 33,
     "param0": 1,
     "param1": 5,
@@ -524,7 +524,7 @@
   {
     "id": 5003,
     "name": "测试商店月卡推荐页跳转",
-    "desc": "测试商店月卡推荐页跳转",
+    "desc": "Jump to Test Shop Monthly Pass Recommendation Page",
     "system": 33,
     "param0": 4,
     "param1": 1,
@@ -533,7 +533,7 @@
   {
     "id": 5005,
     "name": "网游背包-武器拆解界面",
-    "desc": "仓库-装备拆解",
+    "desc": "Inventory - Gear Breakdown",
     "system": 39,
     "param0": 5,
     "param1": 0,
@@ -542,7 +542,7 @@
   {
     "id": 5006,
     "name": "网游背包-护石拆解界面",
-    "desc": "仓库-塔罗之语拆解",
+    "desc": "Inventory - Tarot Whisper Breakdown",
     "system": 39,
     "param0": 7,
     "param1": 0,
@@ -551,7 +551,7 @@
   {
     "id": 5007,
     "name": "日常活动-锻造本-第8关",
-    "desc": "光辉锻铸-关卡8",
+    "desc": "Radiant Forging - Stage 8",
     "system": 44,
     "param0": 15,
     "param1": 106,
@@ -560,7 +560,7 @@
   {
     "id": 5008,
     "name": "日常活动-锻造本-第9关",
-    "desc": "光辉锻铸-关卡9",
+    "desc": "Radiant Forging - Stage 9",
     "system": 44,
     "param0": 15,
     "param1": 107,
@@ -569,7 +569,7 @@
   {
     "id": 5009,
     "name": "日常活动-锻造本-第10关",
-    "desc": "光辉锻铸-关卡10",
+    "desc": "Radiant Forging - Stage 10",
     "system": 44,
     "param0": 15,
     "param1": 108,
@@ -578,7 +578,7 @@
   {
     "id": 5010,
     "name": "日常活动-锻造本-第11关",
-    "desc": "光辉锻铸-关卡11",
+    "desc": "Radiant Forging - Stage 11",
     "system": 44,
     "param0": 15,
     "param1": 198,
@@ -623,7 +623,7 @@
   {
     "id": 5016,
     "name": "抽卡系统-骑士们的誓言",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 5,
     "param1": 0,
@@ -632,7 +632,7 @@
   {
     "id": 5017,
     "name": "抽卡系统-侍奉光辉的人们",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 27,
     "param1": 0,
@@ -641,7 +641,7 @@
   {
     "id": 5018,
     "name": "抽卡系统-乱世中的天真烂漫",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 13,
     "param1": 0,
@@ -650,7 +650,7 @@
   {
     "id": 5019,
     "name": "抽卡系统-守护铃兰之誓",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 17,
     "param1": 0,
@@ -659,7 +659,7 @@
   {
     "id": 5020,
     "name": "抽卡系统-铁与血的意志",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 20,
     "param1": 0,
@@ -668,7 +668,7 @@
   {
     "id": 5021,
     "name": "抽卡系统-王女与骑士",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 16,
     "param1": 0,
@@ -677,7 +677,7 @@
   {
     "id": 5022,
     "name": "抽卡系统-危险的味道",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 15,
     "param1": 0,
@@ -686,7 +686,7 @@
   {
     "id": 5023,
     "name": "抽卡系统-银狼女王",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 6,
     "param1": 0,
@@ -695,7 +695,7 @@
   {
     "id": 5024,
     "name": "抽卡系统-野犬的饥眸",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 21,
     "param1": 0,
@@ -704,7 +704,7 @@
   {
     "id": 5025,
     "name": "抽卡系统-守护薇尔塔之风",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 19,
     "param1": 0,
@@ -713,7 +713,7 @@
   {
     "id": 5026,
     "name": "抽卡系统-月夜的歌声",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 18,
     "param1": 0,
@@ -749,7 +749,7 @@
   {
     "id": 5030,
     "name": "网游主线-星级宝箱跳转",
-    "desc": "愚者的旅程-星级收集奖励",
+    "desc": "The Fool's Journey - Star Collection Rewards",
     "system": 29,
     "param0": 0,
     "param1": 0,
@@ -767,7 +767,7 @@
   {
     "id": 5032,
     "name": "抽卡系统-月光下的少年",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 22,
     "param1": 0,
@@ -776,7 +776,7 @@
   {
     "id": 5033,
     "name": "抽卡系统-骑士们的誓言-复刻1",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 25,
     "param1": 0,
@@ -785,7 +785,7 @@
   {
     "id": 5034,
     "name": "抽卡系统-少女好奇的视线",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 23,
     "param1": 0,
@@ -794,7 +794,7 @@
   {
     "id": 5035,
     "name": "抽卡系统-少年守护的决意",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 24,
     "param1": 0,
@@ -803,7 +803,7 @@
   {
     "id": 5036,
     "name": "抽卡系统-乱世中的天真烂漫-复刻1",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 26,
     "param1": 0,
@@ -812,7 +812,7 @@
   {
     "id": 5037,
     "name": "抽卡系统-光辉与守护之箭",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 17,
     "param1": 0,
@@ -821,7 +821,7 @@
   {
     "id": 5038,
     "name": "抽卡系统-夜路中的灯火",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 31,
     "param1": 0,
@@ -839,7 +839,7 @@
   {
     "id": 5040,
     "name": "抽卡系统-破碎的命途",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 33,
     "param1": 0,
@@ -848,7 +848,7 @@
   {
     "id": 5041,
     "name": "抽卡系统-薇尔塔山的月光",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 32,
     "param1": 0,
@@ -875,7 +875,7 @@
   {
     "id": 5044,
     "name": "永久代行券-每日活力礼盒",
-    "desc": "礼包-每周活力礼盒",
+    "desc": "Pack - Weekly Stamina Box",
     "system": 33,
     "param0": 3,
     "param1": 8,
@@ -884,7 +884,7 @@
   {
     "id": 5045,
     "name": "抽卡系统-冰原的怒吼",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 34,
     "param1": 0,
@@ -893,7 +893,7 @@
   {
     "id": 5046,
     "name": "抽卡系统-凛冬将至",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 35,
     "param1": 0,
@@ -902,7 +902,7 @@
   {
     "id": 5047,
     "name": "抽卡系统-飘散的命运",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 37,
     "param1": 0,
@@ -920,7 +920,7 @@
   {
     "id": 5050,
     "name": "抽卡系统-王女与骑士【UP3-2】",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 36,
     "param1": 0,
@@ -929,7 +929,7 @@
   {
     "id": 5051,
     "name": "抽卡系统-永夜之绊",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 39,
     "param1": 0,
@@ -938,7 +938,7 @@
   {
     "id": 5052,
     "name": "抽卡系统--铁与血的意志-复刻4-2",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 40,
     "param1": 0,
@@ -947,7 +947,7 @@
   {
     "id": 5053,
     "name": "抽卡系统--俱灰之形",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 38,
     "param1": 0,
@@ -956,7 +956,7 @@
   {
     "id": 5054,
     "name": "抽卡系统--稚嫩的决意",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 41,
     "param1": 0,
@@ -1001,7 +1001,7 @@
   {
     "id": 5060,
     "name": "抽卡系统-故事里的原风景",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 42,
     "param1": 0,
@@ -1010,7 +1010,7 @@
   {
     "id": 5061,
     "name": "抽卡系统-初生的微光",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 43,
     "param1": 0,
@@ -1037,7 +1037,7 @@
   {
     "id": 5064,
     "name": "抽卡系统-黄金心",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 44,
     "param1": 0,
@@ -1046,7 +1046,7 @@
   {
     "id": 5065,
     "name": "抽卡系统-如风飘零",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 45,
     "param1": 0,
@@ -1055,7 +1055,7 @@
   {
     "id": 5066,
     "name": "日常活动-护石本",
-    "desc": "塔罗遗力",
+    "desc": "Tarot Residual",
     "system": 46,
     "param0": 0,
     "param1": 0,
@@ -1082,7 +1082,7 @@
   {
     "id": 5069,
     "name": "抽卡系统-逐光之誓",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 46,
     "param1": 0,
@@ -1091,7 +1091,7 @@
   {
     "id": 5070,
     "name": "抽卡系统-蜿蜒幽香",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 47,
     "param1": 0,
@@ -1100,7 +1100,7 @@
   {
     "id": 5071,
     "name": "抽卡系统-浴血的守望",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 49,
     "param1": 0,
@@ -1109,7 +1109,7 @@
   {
     "id": 5072,
     "name": "抽卡系统-喧嚣的新朋友们",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 48,
     "param1": 0,
@@ -1136,7 +1136,7 @@
   {
     "id": 5076,
     "name": "抽卡系统-熠耀之心",
-    "desc": "邂逅",
+    "desc": "Summon",
     "system": 34,
     "param0": 50,
     "param1": 0,
@@ -1154,7 +1154,7 @@
   {
     "id": 5102,
     "name": "抽卡系统-正义的旗帜",
-    "desc": "邂逅",
+    "desc": "",
     "system": 34,
     "param0": 63,
     "param1": 0,

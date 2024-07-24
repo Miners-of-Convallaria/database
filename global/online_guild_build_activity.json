@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_online_guild_build_activity_daily_beacons": [],
+    "m_online_guild_build_activity_daily_beacons": [1, 2, 3, 4, 5, 6, 7],
     "start_at": 1707062400,
     "play_end_at": 1707667200,
     "end_at": 1707926400,

@@ -6,7 +6,7 @@
     "desc": "可选择射程范围内的敌对单位或中立单位货物件为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "desc": "可选择射程范围内的我方单位或物件为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "desc": "可选择射程范围内的所有单位或物件为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "desc": "可选择射程范围内的任意地面格为目标",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "desc": "可选择射程范围内的没有单位占据的地面格（可以有可站立物件）为目标",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "desc": "可选择射程范围内的没有单位且没有场景物体占据的地面格为目标",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "desc": "原地释放",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "desc": "只可以施法者自己为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "desc": "选择4个方向",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "desc": "可选择己方单位附近范围内的敌对单位或中立单位货物件为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "desc": "可选择己方单位附近范围内的没有单位占据的地面格（可以有可站立物件）为目标",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "desc": "可选择射程范围内的所有物件为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "desc": "可选择射程范围内的敌对单位或中立单位货物件占据的地面格为目标",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "desc": "可选择射程范围内的没有被友方占据的地面格",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "desc": "可选择己方单位附近范围内的友方单位为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "desc": "可选择场上任一我方单位",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "desc": "可选择己方单位附近的任意地面格为目标",
     "icon": "",
     "is_block": true,
-    "short_name": "对地面"
+    "short_name": "Ground"
   },
   {
     "id": 18,
@@ -159,6 +159,6 @@
     "desc": "可选择射程范围内的所有陷阱为目标",
     "icon": "",
     "is_block": false,
-    "short_name": "对单位"
+    "short_name": "Unit"
   }
 ]

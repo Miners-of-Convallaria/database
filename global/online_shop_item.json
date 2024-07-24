@@ -2,7 +2,7 @@
   {
     "id": 1,
     "idonline_shop": 1,
-    "name": "60颗干涉之力",
+    "name": "Astral Gem",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -29,7 +29,7 @@
   {
     "id": 3,
     "idonline_shop": 1,
-    "name": "300颗干涉之力",
+    "name": "Astral Gem",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -56,7 +56,7 @@
   {
     "id": 4,
     "idonline_shop": 1,
-    "name": "680颗干涉之力",
+    "name": "Astral Gem",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -83,7 +83,7 @@
   {
     "id": 5,
     "idonline_shop": 1,
-    "name": "980颗干涉之力",
+    "name": "Astral Gem",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -110,7 +110,7 @@
   {
     "id": 6,
     "idonline_shop": 1,
-    "name": "1980颗干涉之力",
+    "name": "Astral Gem",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -137,7 +137,7 @@
   {
     "id": 7,
     "idonline_shop": 1,
-    "name": "3280颗干涉之力",
+    "name": "Astral Gem",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -164,7 +164,7 @@
   {
     "id": 16,
     "idonline_shop": 3,
-    "name": "秘缘",
+    "name": "Secret Fate",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -191,7 +191,7 @@
   {
     "id": 20,
     "idonline_shop": 5,
-    "name": "60颗希望晶石",
+    "name": "Hope Luxite",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -218,7 +218,7 @@
   {
     "id": 21,
     "idonline_shop": 5,
-    "name": "300颗希望晶石",
+    "name": "Hope Luxite",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -245,7 +245,7 @@
   {
     "id": 22,
     "idonline_shop": 5,
-    "name": "680颗希望晶石",
+    "name": "Hope Luxite",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -272,7 +272,7 @@
   {
     "id": 23,
     "idonline_shop": 5,
-    "name": "980颗希望晶石",
+    "name": "Hope Luxite",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -299,7 +299,7 @@
   {
     "id": 24,
     "idonline_shop": 5,
-    "name": "1980颗希望晶石",
+    "name": "Hope Luxite",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -326,7 +326,7 @@
   {
     "id": 25,
     "idonline_shop": 5,
-    "name": "3280颗希望晶石",
+    "name": "Hope Luxite",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -353,7 +353,7 @@
   {
     "id": 28,
     "idonline_shop": 3,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -380,7 +380,7 @@
   {
     "id": 66,
     "idonline_shop": 7,
-    "name": "随机传说装备",
+    "name": "Random Legendary Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -407,7 +407,7 @@
   {
     "id": 68,
     "idonline_shop": 7,
-    "name": "随机传说装具",
+    "name": "Random Legendary Trinket",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -434,7 +434,7 @@
   {
     "id": 69,
     "idonline_shop": 7,
-    "name": "随机史诗装备",
+    "name": "Random Epic Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -461,7 +461,7 @@
   {
     "id": 70,
     "idonline_shop": 7,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -488,7 +488,7 @@
   {
     "id": 71,
     "idonline_shop": 7,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -515,7 +515,7 @@
   {
     "id": 75,
     "idonline_shop": 4,
-    "name": "免费钻付费钻1:1兑换",
+    "name": "Free diamond ×1 = Paid diamond ×1",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -542,7 +542,7 @@
   {
     "id": 76,
     "idonline_shop": 4,
-    "name": "150免费钻兑换1张秘缘",
+    "name": "Free diamond ×150 = Secret Fate ×1",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -569,7 +569,7 @@
   {
     "id": 77,
     "idonline_shop": 9,
-    "name": "希望的祝福",
+    "name": "Blessings of Hope",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -596,7 +596,7 @@
   {
     "id": 78,
     "idonline_shop": 10,
-    "name": "丰收的祝词",
+    "name": "Cornucopia Blessing",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -623,7 +623,7 @@
   {
     "id": 79,
     "idonline_shop": 10,
-    "name": "丰收的赞歌",
+    "name": "Cornucopia Praise",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -650,7 +650,7 @@
   {
     "id": 80,
     "idonline_shop": 10,
-    "name": "丰收的祝词+丰收的赞歌",
+    "name": "Cornucopia Blessing+Praise",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -677,7 +677,7 @@
   {
     "id": 81,
     "idonline_shop": 6,
-    "name": "领悟之力",
+    "name": "Castalia",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -704,7 +704,7 @@
   {
     "id": 82,
     "idonline_shop": 6,
-    "name": "随机传说装具",
+    "name": "Random Legendary Trinket",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -731,7 +731,7 @@
   {
     "id": 83,
     "idonline_shop": 6,
-    "name": "随机传说装备",
+    "name": "Random Legendary Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -758,7 +758,7 @@
   {
     "id": 84,
     "idonline_shop": 6,
-    "name": "随机传说武器",
+    "name": "Random Legendary Weapon",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -785,7 +785,7 @@
   {
     "id": 85,
     "idonline_shop": 6,
-    "name": "随机传说塔罗之语（系列Ⅰ）",
+    "name": "Random Legendary Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -812,7 +812,7 @@
   {
     "id": 86,
     "idonline_shop": 8,
-    "name": "希望的祝福",
+    "name": "Blessings of Hope",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -839,7 +839,7 @@
   {
     "id": 96,
     "idonline_shop": 1,
-    "name": "6480颗干涉之力",
+    "name": "Astral Gem",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -866,7 +866,7 @@
   {
     "id": 97,
     "idonline_shop": 5,
-    "name": "6480颗希望晶石",
+    "name": "Hope Luxite",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -893,7 +893,7 @@
   {
     "id": 99,
     "idonline_shop": 3,
-    "name": "命运之钥",
+    "name": "Key of Destiny",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -920,7 +920,7 @@
   {
     "id": 100,
     "idonline_shop": 6,
-    "name": "随机史诗装备",
+    "name": "Random Epic Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -947,7 +947,7 @@
   {
     "id": 101,
     "idonline_shop": 6,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -974,7 +974,7 @@
   {
     "id": 10001,
     "idonline_shop": 8,
-    "name": "每日训练指南",
+    "name": "Daily Training Guide",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1001,7 +1001,7 @@
   {
     "id": 10002,
     "idonline_shop": 8,
-    "name": "每日锻造指南",
+    "name": "Daily Forging Guide",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1028,7 +1028,7 @@
   {
     "id": 10003,
     "idonline_shop": 8,
-    "name": "每日占卜指南",
+    "name": "Daily Divination Guide",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1055,7 +1055,7 @@
   {
     "id": 10004,
     "idonline_shop": 8,
-    "name": "每周领悟礼盒",
+    "name": "Weekly Inspiration Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1082,7 +1082,7 @@
   {
     "id": 10005,
     "idonline_shop": 8,
-    "name": "每周锻造礼盒",
+    "name": "Weekly Forging Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1109,7 +1109,7 @@
   {
     "id": 10006,
     "idonline_shop": 8,
-    "name": "每周刻印礼盒",
+    "name": "Weekly Engraving Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1136,7 +1136,7 @@
   {
     "id": 10007,
     "idonline_shop": 8,
-    "name": "每周进阶礼盒",
+    "name": "Weekly Rank-up Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1163,7 +1163,7 @@
   {
     "id": 10008,
     "idonline_shop": 8,
-    "name": "每周星辰礼盒",
+    "name": "Weekly Star Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1190,7 +1190,7 @@
   {
     "id": 10009,
     "idonline_shop": 8,
-    "name": "每月邂逅礼包",
+    "name": "Weekly Summon Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1217,7 +1217,7 @@
   {
     "id": 10010,
     "idonline_shop": 8,
-    "name": "团长启程礼包",
+    "name": "Leader's Start-up Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1244,7 +1244,7 @@
   {
     "id": 10011,
     "idonline_shop": 8,
-    "name": "超值邂逅礼包",
+    "name": "Super Summon Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1271,7 +1271,7 @@
   {
     "id": 10012,
     "idonline_shop": 8,
-    "name": "超值领悟礼包",
+    "name": "Castalia Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1298,7 +1298,7 @@
   {
     "id": 10013,
     "idonline_shop": 8,
-    "name": "新任晋升赠礼",
+    "name": "New Promotion Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1325,7 +1325,7 @@
   {
     "id": 10014,
     "idonline_shop": 8,
-    "name": "10级晋升赠礼",
+    "name": "Lv. 10 Promotion Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 1711944000,
@@ -1346,13 +1346,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0015",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到10级",
+    "buy_condition_desc": "Reach Voyager Level 10",
     "relative_time_at": 0
   },
   {
     "id": 10015,
     "idonline_shop": 8,
-    "name": "20级晋升赠礼",
+    "name": "Lv. 20 Promotion Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1373,13 +1373,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0016",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 10016,
     "idonline_shop": 8,
-    "name": "30级晋升赠礼",
+    "name": "Lv. 30 Promotion Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1400,13 +1400,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0017",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 10017,
     "idonline_shop": 8,
-    "name": "40级晋升赠礼",
+    "name": "Lv. 40 Promotion Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1427,13 +1427,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0018",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 10018,
     "idonline_shop": 8,
-    "name": "50级晋升赠礼",
+    "name": "Lv. 50 Promotion Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1454,13 +1454,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0019",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 10019,
     "idonline_shop": 8,
-    "name": "60级晋升赠礼",
+    "name": "Lv. 60 Promotion Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1481,13 +1481,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0020",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到60级",
+    "buy_condition_desc": "Reach Voyager Level 60",
     "relative_time_at": 0
   },
   {
     "id": 10020,
     "idonline_shop": 8,
-    "name": "10级晋升礼包",
+    "name": "Lv. 10 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1508,13 +1508,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0021",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到10级",
+    "buy_condition_desc": "Reach Voyager Level 10",
     "relative_time_at": 0
   },
   {
     "id": 10021,
     "idonline_shop": 8,
-    "name": "20级晋升礼包",
+    "name": "Lv. 20 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1535,13 +1535,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0022",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 10022,
     "idonline_shop": 8,
-    "name": "30级晋升礼包",
+    "name": "Lv. 30 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1562,13 +1562,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0023",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 10023,
     "idonline_shop": 8,
-    "name": "40级晋升礼包",
+    "name": "Lv. 40 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1589,13 +1589,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0024",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 10024,
     "idonline_shop": 8,
-    "name": "50级晋升礼包",
+    "name": "Lv. 50 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1616,13 +1616,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0025",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 10025,
     "idonline_shop": 8,
-    "name": "60级晋升礼包",
+    "name": "Lv. 60 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1643,13 +1643,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0026",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到60级",
+    "buy_condition_desc": "Reach Voyager Level 60",
     "relative_time_at": 0
   },
   {
     "id": 10026,
     "idonline_shop": 8,
-    "name": "初级进阶精选",
+    "name": "Basic Rank-up Selection",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1670,13 +1670,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0027",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到35级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.35",
     "relative_time_at": 0
   },
   {
     "id": 10027,
     "idonline_shop": 8,
-    "name": "中级进阶精选",
+    "name": "Intermediate Rank-up Selection",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1697,13 +1697,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0028",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 10028,
     "idonline_shop": 8,
-    "name": "高级进阶精选",
+    "name": "Advanced Rank-up Selection",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1724,13 +1724,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0029",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到55级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.55",
     "relative_time_at": 0
   },
   {
     "id": 10029,
     "idonline_shop": 8,
-    "name": "特级进阶精选",
+    "name": "Premium Rank-up Selection",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1751,13 +1751,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0030",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到60级",
+    "buy_condition_desc": "Reach Voyager Level 60",
     "relative_time_at": 0
   },
   {
     "id": 10030,
     "idonline_shop": 8,
-    "name": "每周免费赠礼",
+    "name": "Weekly Free Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1784,7 +1784,7 @@
   {
     "id": 10033,
     "idonline_shop": 11,
-    "name": "领悟之力",
+    "name": "Castalia",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1811,7 +1811,7 @@
   {
     "id": 10034,
     "idonline_shop": 11,
-    "name": "秘缘",
+    "name": "Secret Fate",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1838,7 +1838,7 @@
   {
     "id": 10035,
     "idonline_shop": 11,
-    "name": "随机传说装具",
+    "name": "Random Legendary Trinket",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1865,7 +1865,7 @@
   {
     "id": 10036,
     "idonline_shop": 11,
-    "name": "随机传说武器",
+    "name": "Random Legendary Weapon",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1892,7 +1892,7 @@
   {
     "id": 10037,
     "idonline_shop": 11,
-    "name": "随机传说塔罗之语（系列Ⅰ）",
+    "name": "Random Legendary Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1919,7 +1919,7 @@
   {
     "id": 10038,
     "idonline_shop": 11,
-    "name": "随机史诗塔罗之语（系列Ⅰ）",
+    "name": "Random Epic Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1946,7 +1946,7 @@
   {
     "id": 10039,
     "idonline_shop": 11,
-    "name": "无名的星耀",
+    "name": "Unnamed Star Glow",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -1973,7 +1973,7 @@
   {
     "id": 10040,
     "idonline_shop": 11,
-    "name": "无名的星芒",
+    "name": "Unnamed Starlight",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2000,7 +2000,7 @@
   {
     "id": 10041,
     "idonline_shop": 11,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2027,7 +2027,7 @@
   {
     "id": 10042,
     "idonline_shop": 11,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2054,7 +2054,7 @@
   {
     "id": 10043,
     "idonline_shop": 11,
-    "name": "史诗级光辉铸铁",
+    "name": "Epic Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2081,7 +2081,7 @@
   {
     "id": 10044,
     "idonline_shop": 11,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2108,7 +2108,7 @@
   {
     "id": 10045,
     "idonline_shop": 11,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2135,7 +2135,7 @@
   {
     "id": 10046,
     "idonline_shop": 11,
-    "name": "无名的白金职阶勋章",
+    "name": "Unnamed Platinum Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2162,7 +2162,7 @@
   {
     "id": 10051,
     "idonline_shop": 11,
-    "name": "无名的黄金职阶勋章",
+    "name": "Unnamed Gold Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2189,7 +2189,7 @@
   {
     "id": 10052,
     "idonline_shop": 11,
-    "name": "无名的白银职阶勋章",
+    "name": "Unnamed Silver Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2216,7 +2216,7 @@
   {
     "id": 10053,
     "idonline_shop": 11,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2243,7 +2243,7 @@
   {
     "id": 10054,
     "idonline_shop": 11,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2270,7 +2270,7 @@
   {
     "id": 10055,
     "idonline_shop": 12,
-    "name": "秘缘",
+    "name": "Secret Fate",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2297,7 +2297,7 @@
   {
     "id": 10056,
     "idonline_shop": 12,
-    "name": "随机传说装备",
+    "name": "Random Legendary Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2324,7 +2324,7 @@
   {
     "id": 10057,
     "idonline_shop": 12,
-    "name": "无名的星辰",
+    "name": "Unnamed Stars",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2351,7 +2351,7 @@
   {
     "id": 10058,
     "idonline_shop": 12,
-    "name": "无名的星耀",
+    "name": "Unnamed Star Glow",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2378,7 +2378,7 @@
   {
     "id": 10059,
     "idonline_shop": 12,
-    "name": "无名的星芒",
+    "name": "Unnamed Starlight",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2405,7 +2405,7 @@
   {
     "id": 10060,
     "idonline_shop": 12,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2432,7 +2432,7 @@
   {
     "id": 10061,
     "idonline_shop": 12,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2459,7 +2459,7 @@
   {
     "id": 10062,
     "idonline_shop": 12,
-    "name": "史诗级光辉铸铁",
+    "name": "Epic Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2486,7 +2486,7 @@
   {
     "id": 10063,
     "idonline_shop": 12,
-    "name": "精英级光辉铸铁",
+    "name": "Rare Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2513,7 +2513,7 @@
   {
     "id": 10064,
     "idonline_shop": 12,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2540,7 +2540,7 @@
   {
     "id": 10065,
     "idonline_shop": 12,
-    "name": "随机传说塔罗之语（系列Ⅰ）",
+    "name": "Random Legendary Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2567,7 +2567,7 @@
   {
     "id": 10066,
     "idonline_shop": 12,
-    "name": "随机史诗塔罗之语（系列Ⅰ）",
+    "name": "Random Epic Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2594,7 +2594,7 @@
   {
     "id": 10067,
     "idonline_shop": 12,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2621,7 +2621,7 @@
   {
     "id": 10068,
     "idonline_shop": 12,
-    "name": "无名的白金职阶勋章",
+    "name": "Unnamed Platinum Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2648,7 +2648,7 @@
   {
     "id": 10069,
     "idonline_shop": 12,
-    "name": "无名的黄金职阶勋章",
+    "name": "Unnamed Gold Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2675,7 +2675,7 @@
   {
     "id": 10070,
     "idonline_shop": 12,
-    "name": "无名的白银职阶勋章",
+    "name": "Unnamed Silver Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2702,7 +2702,7 @@
   {
     "id": 10071,
     "idonline_shop": 12,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2729,7 +2729,7 @@
   {
     "id": 10072,
     "idonline_shop": 12,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2756,7 +2756,7 @@
   {
     "id": 10077,
     "idonline_shop": 13,
-    "name": "随机史诗塔罗之语（系列Ⅰ）",
+    "name": "Random Epic Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2777,13 +2777,13 @@
     "is_open": true,
     "icon": "random_charm3_series1",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到35级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.35",
     "relative_time_at": 0
   },
   {
     "id": 10078,
     "idonline_shop": 13,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2804,13 +2804,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 10079,
     "idonline_shop": 13,
-    "name": "史诗级光辉铸铁",
+    "name": "Epic Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2831,13 +2831,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 10080,
     "idonline_shop": 13,
-    "name": "精英级光辉铸铁",
+    "name": "Rare Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2858,13 +2858,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 10081,
     "idonline_shop": 13,
-    "name": "普通级光辉铸铁",
+    "name": "Common Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2885,13 +2885,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 10082,
     "idonline_shop": 13,
-    "name": "无名的白金职阶勋章",
+    "name": "Unnamed Platinum Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2912,13 +2912,13 @@
     "is_open": true,
     "icon": "treasure_onlineunitrankmaterial_chest4",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 10083,
     "idonline_shop": 13,
-    "name": "无名的黄金职阶勋章",
+    "name": "Unnamed Gold Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2939,13 +2939,13 @@
     "is_open": true,
     "icon": "treasure_onlineunitrankmaterial_chest3",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 10084,
     "idonline_shop": 13,
-    "name": "无名的白银职阶勋章",
+    "name": "Unnamed Silver Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2966,13 +2966,13 @@
     "is_open": true,
     "icon": "treasure_onlineunitrankmaterial_chest2",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到25级",
+    "buy_condition_desc": "Reach Voyager Lv.25",
     "relative_time_at": 0
   },
   {
     "id": 10085,
     "idonline_shop": 13,
-    "name": "无名的青铜职阶勋章",
+    "name": "Unnamed Bronze Class Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -2999,7 +2999,7 @@
   {
     "id": 10086,
     "idonline_shop": 13,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3020,13 +3020,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到15级",
+    "buy_condition_desc": "Reach Voyager Level 15",
     "relative_time_at": 0
   },
   {
     "id": 10087,
     "idonline_shop": 13,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3047,13 +3047,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 10088,
     "idonline_shop": 13,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3074,13 +3074,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 10089,
     "idonline_shop": 13,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3107,7 +3107,7 @@
   {
     "id": 10090,
     "idonline_shop": 13,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3134,7 +3134,7 @@
   {
     "id": 10091,
     "idonline_shop": 11,
-    "name": "精英级光辉铸铁",
+    "name": "Rare Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3161,7 +3161,7 @@
   {
     "id": 10092,
     "idonline_shop": 11,
-    "name": "光辉铸铁",
+    "name": "Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3188,7 +3188,7 @@
   {
     "id": 10095,
     "idonline_shop": 3,
-    "name": "“无名”的塔罗",
+    "name": "Nameless Tarot",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3215,7 +3215,7 @@
   {
     "id": 10097,
     "idonline_shop": 4,
-    "name": "200钻买改名卡",
+    "name": "200 Diamonds for a Name Change Card",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3242,7 +3242,7 @@
   {
     "id": 10120,
     "idonline_shop": 8,
-    "name": "启程特别邂逅",
+    "name": "Voyager's Chosen Ally",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3269,7 +3269,7 @@
   {
     "id": 10121,
     "idonline_shop": 8,
-    "name": "进阶武器礼包",
+    "name": "Advanced Weapon Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3296,7 +3296,7 @@
   {
     "id": 10122,
     "idonline_shop": 8,
-    "name": "进阶装具礼包",
+    "name": "Advanced Trinket Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3323,7 +3323,7 @@
   {
     "id": 10123,
     "idonline_shop": 8,
-    "name": "每日塔罗指南",
+    "name": "Daily Tarot Guide",
     "tag": 0,
     "start_at": 0,
     "end_at": 1711944000,
@@ -3350,7 +3350,7 @@
   {
     "id": 10124,
     "idonline_shop": 8,
-    "name": "每周活力礼盒",
+    "name": "Weekly Stamina Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3377,7 +3377,7 @@
   {
     "id": 10125,
     "idonline_shop": 8,
-    "name": "每周刻印礼盒",
+    "name": "Weekly Engraving Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 1711944000,
@@ -3398,13 +3398,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0038",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 10126,
     "idonline_shop": 8,
-    "name": "每月超值特典",
+    "name": "Monthly Value Offer",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3431,7 +3431,7 @@
   {
     "id": 10127,
     "idonline_shop": 8,
-    "name": "每月邂逅特典",
+    "name": "Monthly Summon Offer",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3458,7 +3458,7 @@
   {
     "id": 10128,
     "idonline_shop": 13,
-    "name": "随机传说塔罗之语（系列Ⅰ）",
+    "name": "Random Legendary Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3479,13 +3479,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 10129,
     "idonline_shop": 13,
-    "name": "同心之缘",
+    "name": "Bond Charm",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3506,13 +3506,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 10148,
     "idonline_shop": 4,
-    "name": "6480RMB兑换64800付费钻",
+    "name": "6,480 RMB for 64,800 Paid Diamonds",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3539,7 +3539,7 @@
   {
     "id": 10149,
     "idonline_shop": 7,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3566,7 +3566,7 @@
   {
     "id": 10150,
     "idonline_shop": 12,
-    "name": "乐土币（少量）",
+    "name": "Elysium Coin (Few)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3593,7 +3593,7 @@
   {
     "id": 10152,
     "idonline_shop": 11,
-    "name": "乐土币（少量）",
+    "name": "Elysium Coin (Few)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3620,7 +3620,7 @@
   {
     "id": 10155,
     "idonline_shop": 16,
-    "name": "魅影长桌",
+    "name": "Phantom Long Table",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3647,7 +3647,7 @@
   {
     "id": 10156,
     "idonline_shop": 16,
-    "name": "魅影落地灯",
+    "name": "Phantom Floor Lamp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3674,7 +3674,7 @@
   {
     "id": 10157,
     "idonline_shop": 16,
-    "name": "魅影橱柜",
+    "name": "Phantom Cabinet",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3701,7 +3701,7 @@
   {
     "id": 10158,
     "idonline_shop": 16,
-    "name": "魅影武器横架",
+    "name": "Phantom Weapon Rack (Horizontal)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3728,7 +3728,7 @@
   {
     "id": 10159,
     "idonline_shop": 16,
-    "name": "秘缘",
+    "name": "Secret Fate",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3755,7 +3755,7 @@
   {
     "id": 10160,
     "idonline_shop": 16,
-    "name": "随机传说装具",
+    "name": "Random Legendary Trinket",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3782,7 +3782,7 @@
   {
     "id": 10161,
     "idonline_shop": 16,
-    "name": "随机传说装备",
+    "name": "Random Legendary Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3809,7 +3809,7 @@
   {
     "id": 10162,
     "idonline_shop": 16,
-    "name": "随机传说武器",
+    "name": "Random Legendary Weapon",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3836,7 +3836,7 @@
   {
     "id": 10163,
     "idonline_shop": 16,
-    "name": "无名的星辰",
+    "name": "Unnamed Stars",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3863,7 +3863,7 @@
   {
     "id": 10164,
     "idonline_shop": 16,
-    "name": "无名的星耀",
+    "name": "Unnamed Star Glow",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3890,7 +3890,7 @@
   {
     "id": 10165,
     "idonline_shop": 16,
-    "name": "无名的星芒",
+    "name": "Unnamed Starlight",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3917,7 +3917,7 @@
   {
     "id": 10166,
     "idonline_shop": 16,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3944,7 +3944,7 @@
   {
     "id": 10167,
     "idonline_shop": 16,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3971,7 +3971,7 @@
   {
     "id": 10168,
     "idonline_shop": 16,
-    "name": "史诗级光辉铸铁",
+    "name": "Epic Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -3998,7 +3998,7 @@
   {
     "id": 10169,
     "idonline_shop": 16,
-    "name": "精英级光辉铸铁",
+    "name": "Rare Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4025,7 +4025,7 @@
   {
     "id": 10170,
     "idonline_shop": 16,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4052,7 +4052,7 @@
   {
     "id": 10171,
     "idonline_shop": 16,
-    "name": "随机传说塔罗之语（系列Ⅰ）",
+    "name": "Random Legendary Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4079,7 +4079,7 @@
   {
     "id": 10172,
     "idonline_shop": 16,
-    "name": "随机史诗塔罗之语（系列Ⅰ）",
+    "name": "Random Epic Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4106,7 +4106,7 @@
   {
     "id": 10173,
     "idonline_shop": 16,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4133,7 +4133,7 @@
   {
     "id": 10174,
     "idonline_shop": 14,
-    "name": "秘缘",
+    "name": "Secret Fate",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4160,7 +4160,7 @@
   {
     "id": 10175,
     "idonline_shop": 14,
-    "name": "随机传说装具",
+    "name": "Random Legendary Trinket",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4187,7 +4187,7 @@
   {
     "id": 10176,
     "idonline_shop": 14,
-    "name": "随机传说装备",
+    "name": "Random Legendary Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4214,7 +4214,7 @@
   {
     "id": 10177,
     "idonline_shop": 14,
-    "name": "随机传说武器",
+    "name": "Random Legendary Weapon",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4241,7 +4241,7 @@
   {
     "id": 10178,
     "idonline_shop": 14,
-    "name": "无名的传说级刻印匣",
+    "name": "Unnamed Legendary Engraving Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4268,7 +4268,7 @@
   {
     "id": 10179,
     "idonline_shop": 14,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4295,7 +4295,7 @@
   {
     "id": 10180,
     "idonline_shop": 14,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4322,7 +4322,7 @@
   {
     "id": 10181,
     "idonline_shop": 14,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4349,7 +4349,7 @@
   {
     "id": 10182,
     "idonline_shop": 14,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4376,7 +4376,7 @@
   {
     "id": 10183,
     "idonline_shop": 14,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4403,7 +4403,7 @@
   {
     "id": 10184,
     "idonline_shop": 15,
-    "name": "乐土币（少量）",
+    "name": "Elysium Coin (Few)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4430,7 +4430,7 @@
   {
     "id": 10185,
     "idonline_shop": 15,
-    "name": "魅影火焰盏",
+    "name": "Phantom Fire Lantern",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4457,7 +4457,7 @@
   {
     "id": 10186,
     "idonline_shop": 15,
-    "name": "魅影落地镜",
+    "name": "Phantom Floor Mirror",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4484,7 +4484,7 @@
   {
     "id": 10187,
     "idonline_shop": 15,
-    "name": "魅影矮盆栽",
+    "name": "Phantom Small Bonsai",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4511,7 +4511,7 @@
   {
     "id": 10188,
     "idonline_shop": 15,
-    "name": "魅影水晶球",
+    "name": "Phantom Crystal Ball",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4538,7 +4538,7 @@
   {
     "id": 10189,
     "idonline_shop": 15,
-    "name": "秘缘",
+    "name": "Secret Fate",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4565,7 +4565,7 @@
   {
     "id": 10190,
     "idonline_shop": 15,
-    "name": "领悟之力",
+    "name": "Castalia",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4592,7 +4592,7 @@
   {
     "id": 10191,
     "idonline_shop": 15,
-    "name": "同心之缘",
+    "name": "Bond Charm",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4619,7 +4619,7 @@
   {
     "id": 10192,
     "idonline_shop": 15,
-    "name": "随机传说装具",
+    "name": "Random Legendary Trinket",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4646,7 +4646,7 @@
   {
     "id": 10193,
     "idonline_shop": 15,
-    "name": "随机传说装备",
+    "name": "Random Legendary Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4673,7 +4673,7 @@
   {
     "id": 10194,
     "idonline_shop": 15,
-    "name": "随机传说武器",
+    "name": "Random Legendary Weapon",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4700,7 +4700,7 @@
   {
     "id": 10195,
     "idonline_shop": 15,
-    "name": "无名的星辰",
+    "name": "Unnamed Stars",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4727,7 +4727,7 @@
   {
     "id": 10196,
     "idonline_shop": 15,
-    "name": "无名的星耀",
+    "name": "Unnamed Star Glow",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4754,7 +4754,7 @@
   {
     "id": 10197,
     "idonline_shop": 15,
-    "name": "无名的星芒",
+    "name": "Unnamed Starlight",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4781,7 +4781,7 @@
   {
     "id": 10198,
     "idonline_shop": 15,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4808,7 +4808,7 @@
   {
     "id": 10199,
     "idonline_shop": 15,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4835,7 +4835,7 @@
   {
     "id": 10200,
     "idonline_shop": 15,
-    "name": "史诗级光辉铸铁",
+    "name": "Epic Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4862,7 +4862,7 @@
   {
     "id": 10201,
     "idonline_shop": 15,
-    "name": "精英级光辉铸铁",
+    "name": "Rare Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4889,7 +4889,7 @@
   {
     "id": 10202,
     "idonline_shop": 15,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4916,7 +4916,7 @@
   {
     "id": 10203,
     "idonline_shop": 15,
-    "name": "随机传说塔罗之语（系列Ⅰ）",
+    "name": "Random Legendary Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4943,7 +4943,7 @@
   {
     "id": 10204,
     "idonline_shop": 15,
-    "name": "随机史诗塔罗之语（系列Ⅰ）",
+    "name": "Random Epic Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4970,7 +4970,7 @@
   {
     "id": 10205,
     "idonline_shop": 15,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -4997,7 +4997,7 @@
   {
     "id": 10206,
     "idonline_shop": 15,
-    "name": "无名的白金职阶勋章",
+    "name": "Unnamed Platinum Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5024,7 +5024,7 @@
   {
     "id": 10207,
     "idonline_shop": 15,
-    "name": "无名的黄金职阶勋章",
+    "name": "Unnamed Gold Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5051,7 +5051,7 @@
   {
     "id": 10208,
     "idonline_shop": 15,
-    "name": "无名的白银职阶勋章",
+    "name": "Unnamed Silver Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5078,7 +5078,7 @@
   {
     "id": 10209,
     "idonline_shop": 15,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5105,7 +5105,7 @@
   {
     "id": 10210,
     "idonline_shop": 15,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5132,7 +5132,7 @@
   {
     "id": 11211,
     "idonline_shop": 3,
-    "name": "同心之缘",
+    "name": "Bond Charm",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5159,7 +5159,7 @@
   {
     "id": 11212,
     "idonline_shop": 8,
-    "name": "限定春日邂逅特典",
+    "name": "Limited Spring Day Special Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5186,7 +5186,7 @@
   {
     "id": 11213,
     "idonline_shop": 8,
-    "name": "限定春日自选装备",
+    "name": "Limited Spring Day Gear Selection",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5213,7 +5213,7 @@
   {
     "id": 11214,
     "idonline_shop": 8,
-    "name": "限定春日邂逅礼盒",
+    "name": "Limited Spring Day Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5240,7 +5240,7 @@
   {
     "id": 11215,
     "idonline_shop": 8,
-    "name": "限定春日锻造指南",
+    "name": "Limited Spring Day Forging Guide",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5267,7 +5267,7 @@
   {
     "id": 11216,
     "idonline_shop": 8,
-    "name": "限定春日自选塔罗",
+    "name": "Limited Spring Day Tarot Selection",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5294,7 +5294,7 @@
   {
     "id": 11217,
     "idonline_shop": 8,
-    "name": "限定春日进阶礼盒",
+    "name": "Limited Spring Day Rank-up Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5321,7 +5321,7 @@
   {
     "id": 11218,
     "idonline_shop": 8,
-    "name": "限定春日锻造礼盒",
+    "name": "Limited Spring Day Forging Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5348,7 +5348,7 @@
   {
     "id": 11219,
     "idonline_shop": 8,
-    "name": "限定春日刻印特典",
+    "name": "Limited Spring Day Engraving Special Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5375,7 +5375,7 @@
   {
     "id": 11220,
     "idonline_shop": 13,
-    "name": "随机传说塔罗之语（系列Ⅱ）",
+    "name": "Random Legendary Tarot Whisper (Series II)",
     "tag": 0,
     "start_at": 1708473600,
     "end_at": 0,
@@ -5402,7 +5402,7 @@
   {
     "id": 11221,
     "idonline_shop": 13,
-    "name": "无名的传说级刻印匣",
+    "name": "Unnamed Legendary Engraving Chest",
     "tag": 0,
     "start_at": 1708473600,
     "end_at": 0,
@@ -5429,7 +5429,7 @@
   {
     "id": 11222,
     "idonline_shop": 13,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 1708473600,
     "end_at": 0,
@@ -5456,7 +5456,7 @@
   {
     "id": 11223,
     "idonline_shop": 13,
-    "name": "无名的白金职阶勋章",
+    "name": "Unnamed Platinum Rank Medal",
     "tag": 0,
     "start_at": 1708473600,
     "end_at": 0,
@@ -5483,7 +5483,7 @@
   {
     "id": 11224,
     "idonline_shop": 17,
-    "name": "随机传说装具",
+    "name": "Random Legendary Trinket",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5504,13 +5504,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11225,
     "idonline_shop": 17,
-    "name": "随机传说装备",
+    "name": "Random Legendary Gear",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5531,13 +5531,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 11226,
     "idonline_shop": 17,
-    "name": "随机传说武器",
+    "name": "Random Legendary Weapon",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5558,13 +5558,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 11227,
     "idonline_shop": 17,
-    "name": "无名的传说级刻印匣",
+    "name": "Unnamed Legendary Engraving Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5585,13 +5585,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11228,
     "idonline_shop": 17,
-    "name": "无名的史诗级刻印匣",
+    "name": "Unnamed Epic Engraving Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5612,13 +5612,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11229,
     "idonline_shop": 17,
-    "name": "无名的星辰",
+    "name": "Unnamed Stars",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5639,13 +5639,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到60级",
+    "buy_condition_desc": "Reach Voyager Level 60",
     "relative_time_at": 0
   },
   {
     "id": 11230,
     "idonline_shop": 17,
-    "name": "无名的星耀",
+    "name": "Unnamed Star Glow",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5666,13 +5666,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 11231,
     "idonline_shop": 17,
-    "name": "无名的星芒",
+    "name": "Unnamed Starlight",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5693,13 +5693,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到35级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.35",
     "relative_time_at": 0
   },
   {
     "id": 11232,
     "idonline_shop": 17,
-    "name": "无名的星屑",
+    "name": "Unnamed Star Dust",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5720,13 +5720,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到15级",
+    "buy_condition_desc": "Reach Voyager Level 15",
     "relative_time_at": 0
   },
   {
     "id": 11233,
     "idonline_shop": 17,
-    "name": "随机传说塔罗之语（系列Ⅰ）",
+    "name": "Random Legendary Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5747,13 +5747,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 11234,
     "idonline_shop": 17,
-    "name": "随机史诗塔罗之语（系列Ⅰ）",
+    "name": "Random Epic Tarot Whisper (Series I)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5774,13 +5774,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到35级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.35",
     "relative_time_at": 0
   },
   {
     "id": 11235,
     "idonline_shop": 17,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5801,13 +5801,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11236,
     "idonline_shop": 17,
-    "name": "史诗级光辉铸铁",
+    "name": "Epic Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5828,13 +5828,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 11237,
     "idonline_shop": 17,
-    "name": "精英级光辉铸铁",
+    "name": "Rare Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5855,13 +5855,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 11238,
     "idonline_shop": 17,
-    "name": "光辉铸铁",
+    "name": "Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5882,13 +5882,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 11239,
     "idonline_shop": 13,
-    "name": "随机塔罗之语宝箱（系列Ⅱ）",
+    "name": "Random Tarot Whisper Chest (Series II)",
     "tag": 0,
     "start_at": 1708473600,
     "end_at": 0,
@@ -5909,13 +5909,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 11240,
     "idonline_shop": 17,
-    "name": "无名的白金职阶勋章",
+    "name": "Unnamed Platinum Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5936,13 +5936,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11241,
     "idonline_shop": 17,
-    "name": "无名的黄金职阶勋章",
+    "name": "Unnamed Gold Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5963,13 +5963,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 11242,
     "idonline_shop": 17,
-    "name": "无名的白银职阶勋章",
+    "name": "Unnamed Silver Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -5990,13 +5990,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到25级",
+    "buy_condition_desc": "Reach Voyager Lv.25",
     "relative_time_at": 0
   },
   {
     "id": 11243,
     "idonline_shop": 17,
-    "name": "无名的青铜职阶勋章",
+    "name": "Unnamed Bronze Class Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6023,7 +6023,7 @@
   {
     "id": 11244,
     "idonline_shop": 17,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6044,13 +6044,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到15级",
+    "buy_condition_desc": "Reach Voyager Level 15",
     "relative_time_at": 0
   },
   {
     "id": 11245,
     "idonline_shop": 17,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6071,13 +6071,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 11246,
     "idonline_shop": 17,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6098,13 +6098,13 @@
     "is_open": true,
     "icon": "",
     "allow_multiple": true,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 11247,
     "idonline_shop": 17,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6131,7 +6131,7 @@
   {
     "id": 11248,
     "idonline_shop": 17,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6158,7 +6158,7 @@
   {
     "id": 11268,
     "idonline_shop": 16,
-    "name": "无名的白金职阶勋章",
+    "name": "Unnamed Platinum Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6185,7 +6185,7 @@
   {
     "id": 11269,
     "idonline_shop": 16,
-    "name": "无名的黄金职阶勋章",
+    "name": "Unnamed Gold Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6212,7 +6212,7 @@
   {
     "id": 11270,
     "idonline_shop": 16,
-    "name": "无名的白银职阶勋章",
+    "name": "Unnamed Silver Rank Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6239,7 +6239,7 @@
   {
     "id": 11271,
     "idonline_shop": 16,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6266,7 +6266,7 @@
   {
     "id": 11272,
     "idonline_shop": 16,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6293,7 +6293,7 @@
   {
     "id": 11273,
     "idonline_shop": 16,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6320,7 +6320,7 @@
   {
     "id": 11274,
     "idonline_shop": 16,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6347,7 +6347,7 @@
   {
     "id": 11275,
     "idonline_shop": 16,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6374,7 +6374,7 @@
   {
     "id": 11276,
     "idonline_shop": 16,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6401,7 +6401,7 @@
   {
     "id": 11277,
     "idonline_shop": 16,
-    "name": "乐土币",
+    "name": "Elysium Coin",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6428,7 +6428,7 @@
   {
     "id": 11278,
     "idonline_shop": 16,
-    "name": "乐土币（少量）",
+    "name": "Elysium Coin (Few)",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6455,7 +6455,7 @@
   {
     "id": 11279,
     "idonline_shop": 3,
-    "name": "无名的白金职阶勋章",
+    "name": "Platinum Breaker Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6482,7 +6482,7 @@
   {
     "id": 11280,
     "idonline_shop": 3,
-    "name": "传说级光辉铸铁",
+    "name": "Legendary Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6509,7 +6509,7 @@
   {
     "id": 11281,
     "idonline_shop": 8,
-    "name": "10级晋升礼包",
+    "name": "Lv. 10 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6530,13 +6530,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0054",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到10级",
+    "buy_condition_desc": "Reach Voyager Level 10",
     "relative_time_at": 0
   },
   {
     "id": 11282,
     "idonline_shop": 8,
-    "name": "20级晋升礼包",
+    "name": "Lv. 20 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6557,13 +6557,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0055",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 11283,
     "idonline_shop": 8,
-    "name": "30级晋升礼包",
+    "name": "Lv. 30 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6584,13 +6584,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0056",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 11284,
     "idonline_shop": 8,
-    "name": "40级晋升礼包",
+    "name": "Lv. 40 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6611,13 +6611,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0057",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 11285,
     "idonline_shop": 8,
-    "name": "50级晋升礼包",
+    "name": "Lv. 50 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6638,13 +6638,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0058",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11286,
     "idonline_shop": 8,
-    "name": "60级晋升礼包",
+    "name": "Lv. 60 Promotion Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6665,13 +6665,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0059",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到60级",
+    "buy_condition_desc": "Reach Voyager Level 60",
     "relative_time_at": 0
   },
   {
     "id": 11287,
     "idonline_shop": 8,
-    "name": "每月邂逅礼盒",
+    "name": "Monthly Summon Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6698,7 +6698,7 @@
   {
     "id": 11288,
     "idonline_shop": 8,
-    "name": "每月邂逅特典",
+    "name": "Monthly Summon Offer",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6725,7 +6725,7 @@
   {
     "id": 11289,
     "idonline_shop": 8,
-    "name": "每月甄选特典",
+    "name": "Monthly Selection Special Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6752,7 +6752,7 @@
   {
     "id": 11290,
     "idonline_shop": 8,
-    "name": "每月训练礼盒",
+    "name": "Monthly Training Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6779,7 +6779,7 @@
   {
     "id": 11291,
     "idonline_shop": 8,
-    "name": "每月冶粉礼盒",
+    "name": "Monthly Radiant Powder Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6800,13 +6800,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0076",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到15级",
+    "buy_condition_desc": "Reach Voyager Level 15",
     "relative_time_at": 0
   },
   {
     "id": 11292,
     "idonline_shop": 8,
-    "name": "每月塔罗礼盒",
+    "name": "Monthly Tarot Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6827,13 +6827,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0079",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 11293,
     "idonline_shop": 8,
-    "name": "每月进阶礼盒",
+    "name": "Weekly Rank-up Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6860,7 +6860,7 @@
   {
     "id": 11294,
     "idonline_shop": 8,
-    "name": "每月训练礼包",
+    "name": "Monthly Training Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6881,13 +6881,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0074",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到20级",
+    "buy_condition_desc": "Reach Voyager Lv.20",
     "relative_time_at": 0
   },
   {
     "id": 11295,
     "idonline_shop": 8,
-    "name": "每月铸铁礼盒",
+    "name": "Monthly Radiant Ore Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6908,13 +6908,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0066",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到15级",
+    "buy_condition_desc": "Reach Voyager Level 15",
     "relative_time_at": 0
   },
   {
     "id": 11296,
     "idonline_shop": 8,
-    "name": "每月冶粉礼包",
+    "name": "Monthly Radiant Powder Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6935,13 +6935,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0077",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 11297,
     "idonline_shop": 8,
-    "name": "每月塔罗礼包",
+    "name": "Monthly Tarot Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6962,13 +6962,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0080",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到40级",
+    "buy_condition_desc": "Reach Voyager Level 40",
     "relative_time_at": 0
   },
   {
     "id": 11298,
     "idonline_shop": 8,
-    "name": "每月进阶礼包",
+    "name": "Monthly Rank-up Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -6989,13 +6989,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0065",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到35级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.35",
     "relative_time_at": 0
   },
   {
     "id": 11299,
     "idonline_shop": 8,
-    "name": "每月铸铁礼包",
+    "name": "Monthly Radiant Ore Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7016,13 +7016,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0067",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 11300,
     "idonline_shop": 8,
-    "name": "每月训练特典",
+    "name": "Monthly Training Special Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7043,13 +7043,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0075",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到35级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.35",
     "relative_time_at": 0
   },
   {
     "id": 11301,
     "idonline_shop": 8,
-    "name": "每月冶粉特典",
+    "name": "Monthly Radiant Powder Special Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7070,13 +7070,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0078",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 11302,
     "idonline_shop": 8,
-    "name": "每月塔罗特典",
+    "name": "Monthly Tarot Special Gift",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7097,13 +7097,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0081",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11303,
     "idonline_shop": 8,
-    "name": "每月甄选礼包",
+    "name": "Monthly Selection Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7124,13 +7124,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0071",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到50级",
+    "buy_condition_desc": "Reach Voyager Level 50",
     "relative_time_at": 0
   },
   {
     "id": 11304,
     "idonline_shop": 8,
-    "name": "每周甄选礼盒",
+    "name": "Weekly Selection Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7151,13 +7151,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0062",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 11305,
     "idonline_shop": 8,
-    "name": "每周活力礼盒",
+    "name": "Weekly Stamina Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7184,7 +7184,7 @@
   {
     "id": 11306,
     "idonline_shop": 8,
-    "name": "每周甄选礼包",
+    "name": "Weekly Selection Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7205,13 +7205,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0063",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 11307,
     "idonline_shop": 8,
-    "name": "每周塔罗礼盒",
+    "name": "Weekly Tarot Chest",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7232,13 +7232,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0068",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到30级",
+    "buy_condition_desc": "Reach Voyager Level 30",
     "relative_time_at": 0
   },
   {
     "id": 11308,
     "idonline_shop": 8,
-    "name": "每周刻印礼盒",
+    "name": "Weekly Engraving Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7259,13 +7259,13 @@
     "is_open": true,
     "icon": "online_shop_gift_0069",
     "allow_multiple": false,
-    "buy_condition_desc": "旅人等级达到45级",
+    "buy_condition_desc": "Unlocked at Voyager Lv.45",
     "relative_time_at": 0
   },
   {
     "id": 11309,
     "idonline_shop": 3,
-    "name": "星之微粒",
+    "name": "Star Particles",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7292,7 +7292,7 @@
   {
     "id": 11310,
     "idonline_shop": 3,
-    "name": "史诗级光辉铸铁",
+    "name": "Epic Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7319,7 +7319,7 @@
   {
     "id": 11311,
     "idonline_shop": 3,
-    "name": "塔罗精粹",
+    "name": "Tarot Essence",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7346,7 +7346,7 @@
   {
     "id": 11312,
     "idonline_shop": 3,
-    "name": "光辉冶粉",
+    "name": "Radiant Powder",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7373,7 +7373,7 @@
   {
     "id": 11313,
     "idonline_shop": 3,
-    "name": "无名的黄金职阶勋章",
+    "name": "Gold Breaker Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7400,7 +7400,7 @@
   {
     "id": 11314,
     "idonline_shop": 3,
-    "name": "公共经验",
+    "name": "Common Exp",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7427,7 +7427,7 @@
   {
     "id": 11315,
     "idonline_shop": 3,
-    "name": "精英级光辉铸铁",
+    "name": "Rare Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7454,7 +7454,7 @@
   {
     "id": 11316,
     "idonline_shop": 3,
-    "name": "无名的白银职阶勋章",
+    "name": "Silver Breaker Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7481,7 +7481,7 @@
   {
     "id": 11317,
     "idonline_shop": 3,
-    "name": "光辉铸铁",
+    "name": "Radiant Ore",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7508,7 +7508,7 @@
   {
     "id": 11318,
     "idonline_shop": 3,
-    "name": "无名的青铜职阶勋章",
+    "name": "Bronze Breaker Medal",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7535,7 +7535,7 @@
   {
     "id": 11319,
     "idonline_shop": 8,
-    "name": "每周领悟礼包",
+    "name": "Weekly Inspiration Pack",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7562,7 +7562,7 @@
   {
     "id": 11320,
     "idonline_shop": 8,
-    "name": "每周活力礼盒",
+    "name": "Weekly Stamina Box",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7589,7 +7589,7 @@
   {
     "id": 11321,
     "idonline_shop": 16,
-    "name": "领悟之力",
+    "name": "Castalia",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,
@@ -7616,7 +7616,7 @@
   {
     "id": 11322,
     "idonline_shop": 16,
-    "name": "头像框：旋转乐园",
+    "name": "Avatar Frame: Revolving Paradise",
     "tag": 0,
     "start_at": 0,
     "end_at": 0,

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "CommonMain",
-    "name": "通用主武器",
+    "name": "Universal Primary Weapon",
     "main_hand": true,
     "order_id": 6,
     "icon": ""
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "type": "CommonOffhand",
-    "name": "通用副武器",
+    "name": "Universal Secondary Weapon",
     "main_hand": false,
     "order_id": 7,
     "icon": ""
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "type": "Sword",
-    "name": "剑",
+    "name": "Sword",
     "main_hand": true,
     "order_id": 1,
     "icon": ""
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "type": "Spear",
-    "name": "枪",
+    "name": "Spear",
     "main_hand": true,
     "order_id": 2,
     "icon": ""
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "type": "Axe",
-    "name": "斧",
+    "name": "Axe",
     "main_hand": true,
     "order_id": 3,
     "icon": ""
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "type": "Bow",
-    "name": "弓",
+    "name": "Bow",
     "main_hand": true,
     "order_id": 5,
     "icon": ""
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "type": "Staff",
-    "name": "杖",
+    "name": "Staff",
     "main_hand": true,
     "order_id": 4,
     "icon": ""
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "type": "Shield",
-    "name": "盾牌（废弃）",
+    "name": "Shield (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "type": "Jewelry",
-    "name": "首饰（废弃）",
+    "name": "Jewelry (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "type": "Knife",
-    "name": "暗器（废弃）",
+    "name": "Hidden Weapon (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "type": "Quiver",
-    "name": "箭袋（废弃）",
+    "name": "Quiver (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "type": "LightKnife",
-    "name": "轻飞刀（废弃）",
+    "name": "Light Flying Dagger (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "type": "IceCrystal",
-    "name": "冰魔晶（废弃）",
+    "name": "Ice Magic Luxite (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "type": "ReserveSpear",
-    "name": "备用枪（废弃）",
+    "name": "Spare Spear (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "type": "CrossbowQuiver",
-    "name": "弩箭袋（废弃）",
+    "name": "Crossbow Quiver (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "type": "ThrowAxe",
-    "name": "投斧（废弃）",
+    "name": "Throwing Axe (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -130,7 +130,7 @@
   {
     "id": 17,
     "type": "CrystalNecklace",
-    "name": "信物（废弃）",
+    "name": "Token (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "type": "DarkCrystal",
-    "name": "暗魔晶（废弃）",
+    "name": "Dark Magic Luxite (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "type": "Brassart",
-    "name": "手甲（废弃）",
+    "name": "Hand Armor (Deserted)",
     "main_hand": false,
     "order_id": 0,
     "icon": ""

@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "name": "必得",
+    "name": "Guaranteed",
     "editor_name": "角色新手池规则",
     "type": 1,
     "guaranteed_count": 30
   },
   {
     "id": 2,
-    "name": "常驻",
+    "name": "Standard",
     "editor_name": "角色常驻池规则",
     "type": 1,
     "guaranteed_count": 0
   },
   {
     "id": 3,
-    "name": "初遇",
+    "name": "Debut",
     "editor_name": "新角色UP池规则",
     "type": 1,
     "guaranteed_count": 180
   },
   {
     "id": 4,
-    "name": "重逢",
+    "name": "Destined",
     "editor_name": "老角色2UP池规则",
     "type": 1,
     "guaranteed_count": 180
   },
   {
     "id": 101,
-    "name": "常驻",
+    "name": "Standard",
     "editor_name": "武器常驻池规则",
     "type": 2,
     "guaranteed_count": 0

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_shop_sales": [],
+    "m_shop_sales": [1],
     "name": "测试商店1",
     "editor_name": "测试商店1",
     "duration": 3,
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "m_shop_sales": [],
+    "m_shop_sales": [2],
     "name": "测试商店2",
     "editor_name": "测试商店2",
     "duration": 3,
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "m_shop_sales": [],
+    "m_shop_sales": [35, 36, 37, 191, 192, 193, 194],
     "name": "商店3",
     "editor_name": "商店3",
     "duration": 4,
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "m_shop_sales": [],
+    "m_shop_sales": [49, 50, 51, 195, 196, 197, 198],
     "name": "商店4",
     "editor_name": "商店4",
     "duration": 4,
@@ -45,7 +45,7 @@
   },
   {
     "id": 6,
-    "m_shop_sales": [],
+    "m_shop_sales": [21, 22, 23, 187, 188, 189, 190],
     "name": "商店2",
     "editor_name": "商店2",
     "duration": 4,
@@ -56,7 +56,7 @@
   },
   {
     "id": 7,
-    "m_shop_sales": [],
+    "m_shop_sales": [7, 8, 9, 91, 186],
     "name": "商店1",
     "editor_name": "商店1",
     "duration": 4,
@@ -67,7 +67,7 @@
   },
   {
     "id": 8,
-    "m_shop_sales": [],
+    "m_shop_sales": [65, 66, 67],
     "name": "商店5",
     "editor_name": "商店5",
     "duration": 4,
@@ -78,7 +78,7 @@
   },
   {
     "id": 12,
-    "m_shop_sales": [],
+    "m_shop_sales": [105, 132, 133, 200, 201, 202],
     "name": "铁匠铺商人",
     "editor_name": "铁匠铺商人1-1",
     "duration": 8,
@@ -89,7 +89,7 @@
   },
   {
     "id": 13,
-    "m_shop_sales": [],
+    "m_shop_sales": [182, 183, 184, 185, 210, 211, 212],
     "name": "骑士团商人",
     "editor_name": "骑士团商人",
     "duration": 99,
@@ -100,7 +100,7 @@
   },
   {
     "id": 14,
-    "m_shop_sales": [],
+    "m_shop_sales": [137, 138],
     "name": "训练达人",
     "editor_name": "训练商人1-1",
     "duration": 2,
@@ -111,7 +111,7 @@
   },
   {
     "id": 15,
-    "m_shop_sales": [],
+    "m_shop_sales": [167, 168, 169],
     "name": "神秘建筑师",
     "editor_name": "科技商人1-1",
     "duration": 2,
@@ -122,7 +122,7 @@
   },
   {
     "id": 16,
-    "m_shop_sales": [],
+    "m_shop_sales": [139, 140],
     "name": "训练达人",
     "editor_name": "训练商人1-2",
     "duration": 2,
@@ -133,7 +133,7 @@
   },
   {
     "id": 17,
-    "m_shop_sales": [],
+    "m_shop_sales": [170, 171, 172, 173],
     "name": "神秘建筑师",
     "editor_name": "科技商人1-2",
     "duration": 2,
@@ -144,7 +144,7 @@
   },
   {
     "id": 18,
-    "m_shop_sales": [],
+    "m_shop_sales": [143, 144],
     "name": "训练达人",
     "editor_name": "训练商人2-1",
     "duration": 2,
@@ -155,7 +155,7 @@
   },
   {
     "id": 19,
-    "m_shop_sales": [],
+    "m_shop_sales": [145, 146],
     "name": "训练达人",
     "editor_name": "训练商人2-2",
     "duration": 2,
@@ -166,7 +166,7 @@
   },
   {
     "id": 22,
-    "m_shop_sales": [],
+    "m_shop_sales": [118, 134, 135, 203, 204, 205],
     "name": "铁匠铺商人",
     "editor_name": "铁匠铺商人1-2",
     "duration": 8,
@@ -177,7 +177,7 @@
   },
   {
     "id": 23,
-    "m_shop_sales": [],
+    "m_shop_sales": [131, 136, 206, 207, 208, 209],
     "name": "铁匠铺商人",
     "editor_name": "铁匠铺商人1-3",
     "duration": 8,
@@ -188,7 +188,7 @@
   },
   {
     "id": 24,
-    "m_shop_sales": [],
+    "m_shop_sales": [141, 142],
     "name": "训练达人",
     "editor_name": "训练商人1-3",
     "duration": 2,
@@ -199,7 +199,7 @@
   },
   {
     "id": 25,
-    "m_shop_sales": [],
+    "m_shop_sales": [147, 148],
     "name": "训练达人",
     "editor_name": "训练商人2-3",
     "duration": 2,
@@ -210,7 +210,7 @@
   },
   {
     "id": 26,
-    "m_shop_sales": [],
+    "m_shop_sales": [164, 165, 166],
     "name": "铁匠铺商人",
     "editor_name": "铁匠铺商人2",
     "duration": 8,
@@ -221,7 +221,7 @@
   },
   {
     "id": 27,
-    "m_shop_sales": [],
+    "m_shop_sales": [174, 175, 176],
     "name": "神秘建筑师",
     "editor_name": "科技商人1-3",
     "duration": 2,
@@ -232,7 +232,7 @@
   },
   {
     "id": 28,
-    "m_shop_sales": [],
+    "m_shop_sales": [215, 216, 217, 304],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商1-1",
     "duration": 8,
@@ -243,7 +243,7 @@
   },
   {
     "id": 29,
-    "m_shop_sales": [],
+    "m_shop_sales": [220, 221, 222, 309],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商2-1",
     "duration": 8,
@@ -254,7 +254,7 @@
   },
   {
     "id": 30,
-    "m_shop_sales": [],
+    "m_shop_sales": [225, 226, 227, 330, 331],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商3-1",
     "duration": 8,
@@ -265,7 +265,7 @@
   },
   {
     "id": 31,
-    "m_shop_sales": [],
+    "m_shop_sales": [230, 231, 232, 233, 362, 363],
     "name": "骑士团供应商",
     "editor_name": "AT2-中期-势力线供应商-骑士团",
     "duration": 8,
@@ -276,7 +276,7 @@
   },
   {
     "id": 32,
-    "m_shop_sales": [],
+    "m_shop_sales": [237, 238, 239, 364, 365, 366],
     "name": "普通供应商",
     "editor_name": "AT2-中期-共通供应商1-1",
     "duration": 8,
@@ -287,7 +287,7 @@
   },
   {
     "id": 33,
-    "m_shop_sales": [],
+    "m_shop_sales": [242, 243, 244, 245, 431, 432],
     "name": "骑士团供应商",
     "editor_name": "AT2-后期-势力线供应商-骑士团",
     "duration": 8,
@@ -298,7 +298,7 @@
   },
   {
     "id": 34,
-    "m_shop_sales": [],
+    "m_shop_sales": [249, 250, 251, 278, 403],
     "name": "普通供应商",
     "editor_name": "AT2-后期-共通供应商1-1",
     "duration": 8,
@@ -309,7 +309,7 @@
   },
   {
     "id": 35,
-    "m_shop_sales": [],
+    "m_shop_sales": [254, 255, 256, 286, 425],
     "name": "普通供应商",
     "editor_name": "AT2-后期-共通供应商2-1",
     "duration": 8,
@@ -320,7 +320,7 @@
   },
   {
     "id": 36,
-    "m_shop_sales": [],
+    "m_shop_sales": [257, 258, 259, 260, 261],
     "name": "旅行商人",
     "editor_name": "AT2-全时期-罕见供应商1",
     "duration": 1,
@@ -331,7 +331,7 @@
   },
   {
     "id": 37,
-    "m_shop_sales": [],
+    "m_shop_sales": [433, 434, 435, 436],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商2-1",
     "duration": 8,
@@ -342,7 +342,7 @@
   },
   {
     "id": 38,
-    "m_shop_sales": [],
+    "m_shop_sales": [467, 468, 469, 470],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商3-1",
     "duration": 8,
@@ -353,7 +353,7 @@
   },
   {
     "id": 39,
-    "m_shop_sales": [],
+    "m_shop_sales": [271, 272, 273, 274, 275, 276],
     "name": "骑士团低价材料商",
     "editor_name": "AT2-后期-骑士团官方低价材料商",
     "duration": 30,
@@ -364,7 +364,7 @@
   },
   {
     "id": 40,
-    "m_shop_sales": [],
+    "m_shop_sales": [279, 280, 281, 282, 404],
     "name": "普通供应商",
     "editor_name": "AT2-后期-共通供应商1-2",
     "duration": 8,
@@ -375,7 +375,7 @@
   },
   {
     "id": 41,
-    "m_shop_sales": [],
+    "m_shop_sales": [283, 284, 285, 287, 426],
     "name": "普通供应商2",
     "editor_name": "AT2-后期-共通供应商2-2",
     "duration": 8,
@@ -386,7 +386,7 @@
   },
   {
     "id": 42,
-    "m_shop_sales": [],
+    "m_shop_sales": [288, 289, 290, 291, 427],
     "name": "普通供应商2",
     "editor_name": "AT2-后期-共通供应商2-3",
     "duration": 8,
@@ -397,7 +397,7 @@
   },
   {
     "id": 43,
-    "m_shop_sales": [],
+    "m_shop_sales": [292, 293, 294, 295, 428],
     "name": "普通供应商2",
     "editor_name": "AT2-后期-共通供应商2-4",
     "duration": 8,
@@ -408,7 +408,7 @@
   },
   {
     "id": 44,
-    "m_shop_sales": [],
+    "m_shop_sales": [296, 297, 298, 299, 429],
     "name": "普通供应商2",
     "editor_name": "AT2-后期-共通供应商2-5",
     "duration": 8,
@@ -419,7 +419,7 @@
   },
   {
     "id": 45,
-    "m_shop_sales": [],
+    "m_shop_sales": [300, 301, 302, 303, 430],
     "name": "普通供应商2",
     "editor_name": "AT2-后期-共通供应商2-6",
     "duration": 8,
@@ -430,7 +430,7 @@
   },
   {
     "id": 46,
-    "m_shop_sales": [],
+    "m_shop_sales": [305, 306, 307, 308],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商1-2",
     "duration": 8,
@@ -441,7 +441,7 @@
   },
   {
     "id": 47,
-    "m_shop_sales": [],
+    "m_shop_sales": [310, 311, 312, 313],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商2-2",
     "duration": 8,
@@ -452,7 +452,7 @@
   },
   {
     "id": 48,
-    "m_shop_sales": [],
+    "m_shop_sales": [314, 315, 316, 317],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商2-3",
     "duration": 8,
@@ -463,7 +463,7 @@
   },
   {
     "id": 49,
-    "m_shop_sales": [],
+    "m_shop_sales": [318, 319, 320, 321],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商2-4",
     "duration": 8,
@@ -474,7 +474,7 @@
   },
   {
     "id": 50,
-    "m_shop_sales": [],
+    "m_shop_sales": [322, 323, 324, 325],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商2-5",
     "duration": 8,
@@ -485,7 +485,7 @@
   },
   {
     "id": 51,
-    "m_shop_sales": [],
+    "m_shop_sales": [326, 327, 328, 329],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商2-6",
     "duration": 8,
@@ -496,7 +496,7 @@
   },
   {
     "id": 52,
-    "m_shop_sales": [],
+    "m_shop_sales": [332, 333, 334, 335, 336],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商3-2",
     "duration": 8,
@@ -507,7 +507,7 @@
   },
   {
     "id": 53,
-    "m_shop_sales": [],
+    "m_shop_sales": [337, 338, 339, 340, 341],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商3-3",
     "duration": 8,
@@ -518,7 +518,7 @@
   },
   {
     "id": 54,
-    "m_shop_sales": [],
+    "m_shop_sales": [342, 343, 344, 345, 346],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商3-4",
     "duration": 8,
@@ -529,7 +529,7 @@
   },
   {
     "id": 55,
-    "m_shop_sales": [],
+    "m_shop_sales": [347, 348, 349, 350, 351],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商3-5",
     "duration": 8,
@@ -540,7 +540,7 @@
   },
   {
     "id": 56,
-    "m_shop_sales": [],
+    "m_shop_sales": [352, 353, 354, 355, 356],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商3-6",
     "duration": 8,
@@ -551,7 +551,7 @@
   },
   {
     "id": 57,
-    "m_shop_sales": [],
+    "m_shop_sales": [357, 358, 359, 360, 361],
     "name": "基础供应商",
     "editor_name": "AT2-早期-基础供应商3-7",
     "duration": 8,
@@ -562,7 +562,7 @@
   },
   {
     "id": 58,
-    "m_shop_sales": [],
+    "m_shop_sales": [367, 368, 369, 370, 371, 372],
     "name": "普通供应商",
     "editor_name": "AT2-中期-共通供应商1-2",
     "duration": 8,
@@ -573,7 +573,7 @@
   },
   {
     "id": 59,
-    "m_shop_sales": [],
+    "m_shop_sales": [373, 374, 375, 376, 377, 378],
     "name": "普通供应商",
     "editor_name": "AT2-中期-共通供应商1-3",
     "duration": 8,
@@ -584,7 +584,7 @@
   },
   {
     "id": 60,
-    "m_shop_sales": [],
+    "m_shop_sales": [379, 380, 381, 382, 383, 384],
     "name": "普通供应商",
     "editor_name": "AT2-中期-共通供应商1-4",
     "duration": 8,
@@ -595,7 +595,7 @@
   },
   {
     "id": 61,
-    "m_shop_sales": [],
+    "m_shop_sales": [385, 386, 387, 388, 389, 390],
     "name": "普通供应商",
     "editor_name": "AT2-中期-共通供应商1-5",
     "duration": 8,
@@ -606,7 +606,7 @@
   },
   {
     "id": 62,
-    "m_shop_sales": [],
+    "m_shop_sales": [391, 392, 393, 394, 395, 396],
     "name": "普通供应商",
     "editor_name": "AT2-中期-共通供应商1-6",
     "duration": 8,
@@ -617,7 +617,7 @@
   },
   {
     "id": 63,
-    "m_shop_sales": [],
+    "m_shop_sales": [397, 398, 399, 400, 401, 402],
     "name": "普通供应商",
     "editor_name": "AT2-中期-共通供应商1-7",
     "duration": 8,
@@ -628,7 +628,7 @@
   },
   {
     "id": 64,
-    "m_shop_sales": [],
+    "m_shop_sales": [405, 406, 407, 408, 409],
     "name": "普通供应商",
     "editor_name": "AT2-后期-共通供应商1-3",
     "duration": 8,
@@ -639,7 +639,7 @@
   },
   {
     "id": 65,
-    "m_shop_sales": [],
+    "m_shop_sales": [410, 411, 412, 413, 414],
     "name": "普通供应商",
     "editor_name": "AT2-后期-共通供应商1-4",
     "duration": 8,
@@ -650,7 +650,7 @@
   },
   {
     "id": 66,
-    "m_shop_sales": [],
+    "m_shop_sales": [415, 416, 417, 418, 419],
     "name": "普通供应商",
     "editor_name": "AT2-后期-共通供应商1-5",
     "duration": 8,
@@ -661,7 +661,7 @@
   },
   {
     "id": 67,
-    "m_shop_sales": [],
+    "m_shop_sales": [420, 421, 422, 423, 424],
     "name": "普通供应商",
     "editor_name": "AT2-后期-共通供应商1-6",
     "duration": 8,
@@ -672,7 +672,7 @@
   },
   {
     "id": 68,
-    "m_shop_sales": [],
+    "m_shop_sales": [439, 440, 441, 442],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商2-2",
     "duration": 8,
@@ -683,7 +683,7 @@
   },
   {
     "id": 69,
-    "m_shop_sales": [],
+    "m_shop_sales": [445, 446, 447, 448],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商2-3",
     "duration": 8,
@@ -694,7 +694,7 @@
   },
   {
     "id": 70,
-    "m_shop_sales": [],
+    "m_shop_sales": [451, 452, 453, 454],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商2-4",
     "duration": 8,
@@ -705,7 +705,7 @@
   },
   {
     "id": 71,
-    "m_shop_sales": [],
+    "m_shop_sales": [457, 458, 459, 460],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商2-5",
     "duration": 8,
@@ -716,7 +716,7 @@
   },
   {
     "id": 72,
-    "m_shop_sales": [],
+    "m_shop_sales": [463, 464, 465, 466],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商2-6",
     "duration": 8,
@@ -727,7 +727,7 @@
   },
   {
     "id": 73,
-    "m_shop_sales": [],
+    "m_shop_sales": [471, 472, 473, 474],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商3-2",
     "duration": 8,
@@ -738,7 +738,7 @@
   },
   {
     "id": 74,
-    "m_shop_sales": [],
+    "m_shop_sales": [475, 476, 477, 478],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商3-3",
     "duration": 8,
@@ -749,7 +749,7 @@
   },
   {
     "id": 75,
-    "m_shop_sales": [],
+    "m_shop_sales": [479, 480, 481, 482],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商3-4",
     "duration": 8,
@@ -760,7 +760,7 @@
   },
   {
     "id": 76,
-    "m_shop_sales": [],
+    "m_shop_sales": [483, 484, 485, 486],
     "name": "随军商人",
     "editor_name": "AT2-全时期-罕见供应商3-5",
     "duration": 8,
@@ -771,7 +771,7 @@
   },
   {
     "id": 77,
-    "m_shop_sales": [],
+    "m_shop_sales": [487, 488, 489, 490],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-1-锻造1",
     "duration": 5,
@@ -782,7 +782,7 @@
   },
   {
     "id": 78,
-    "m_shop_sales": [],
+    "m_shop_sales": [491, 492, 493, 494],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-1-锻造2",
     "duration": 5,
@@ -793,7 +793,7 @@
   },
   {
     "id": 79,
-    "m_shop_sales": [],
+    "m_shop_sales": [495, 496, 497, 498],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-1-锻造3",
     "duration": 5,
@@ -804,7 +804,7 @@
   },
   {
     "id": 80,
-    "m_shop_sales": [],
+    "m_shop_sales": [499, 500, 501, 502],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-1-训练1",
     "duration": 5,
@@ -815,7 +815,7 @@
   },
   {
     "id": 81,
-    "m_shop_sales": [],
+    "m_shop_sales": [503, 504, 505, 506],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-1-训练2",
     "duration": 5,
@@ -826,7 +826,7 @@
   },
   {
     "id": 82,
-    "m_shop_sales": [],
+    "m_shop_sales": [507, 508, 509, 510],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-1-训练3",
     "duration": 5,
@@ -837,7 +837,7 @@
   },
   {
     "id": 83,
-    "m_shop_sales": [],
+    "m_shop_sales": [511, 512, 513, 514, 515, 516],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-1-杂货1",
     "duration": 5,
@@ -848,7 +848,7 @@
   },
   {
     "id": 84,
-    "m_shop_sales": [],
+    "m_shop_sales": [517, 518, 519, 520, 521, 522],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-1-杂货2",
     "duration": 5,
@@ -859,7 +859,7 @@
   },
   {
     "id": 85,
-    "m_shop_sales": [],
+    "m_shop_sales": [523, 524, 525, 526, 527, 528],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-1-杂货3",
     "duration": 5,
@@ -870,7 +870,7 @@
   },
   {
     "id": 86,
-    "m_shop_sales": [],
+    "m_shop_sales": [529, 530, 531, 532, 533, 534],
     "name": "骑士同盟供应商",
     "editor_name": "CB2-常规-骑士团商人-1-1",
     "duration": 5,
@@ -881,7 +881,7 @@
   },
   {
     "id": 87,
-    "m_shop_sales": [],
+    "m_shop_sales": [535, 536, 537, 538, 539, 540],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-1-1",
     "duration": 5,
@@ -892,7 +892,7 @@
   },
   {
     "id": 88,
-    "m_shop_sales": [],
+    "m_shop_sales": [541, 542, 543, 544, 545, 546],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-1-2",
     "duration": 5,
@@ -903,7 +903,7 @@
   },
   {
     "id": 89,
-    "m_shop_sales": [],
+    "m_shop_sales": [547, 548, 549, 550, 551, 552],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-1-3",
     "duration": 5,
@@ -914,7 +914,7 @@
   },
   {
     "id": 90,
-    "m_shop_sales": [],
+    "m_shop_sales": [553, 554, 555, 556, 557],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-2-锻造1",
     "duration": 5,
@@ -925,7 +925,7 @@
   },
   {
     "id": 91,
-    "m_shop_sales": [],
+    "m_shop_sales": [558, 559, 560, 561, 562],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-2-锻造2",
     "duration": 5,
@@ -936,7 +936,7 @@
   },
   {
     "id": 92,
-    "m_shop_sales": [],
+    "m_shop_sales": [563, 564, 565, 566, 567],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-2-锻造3",
     "duration": 5,
@@ -947,7 +947,7 @@
   },
   {
     "id": 93,
-    "m_shop_sales": [],
+    "m_shop_sales": [568, 569, 570, 571, 572],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-2-训练1",
     "duration": 5,
@@ -958,7 +958,7 @@
   },
   {
     "id": 94,
-    "m_shop_sales": [],
+    "m_shop_sales": [573, 574, 575, 576, 577],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-2-训练2",
     "duration": 5,
@@ -969,7 +969,7 @@
   },
   {
     "id": 95,
-    "m_shop_sales": [],
+    "m_shop_sales": [578, 579, 580, 581, 582],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-2-训练3",
     "duration": 5,
@@ -980,7 +980,7 @@
   },
   {
     "id": 96,
-    "m_shop_sales": [],
+    "m_shop_sales": [583, 584, 585, 586, 587, 588],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-2-杂货1",
     "duration": 5,
@@ -991,7 +991,7 @@
   },
   {
     "id": 97,
-    "m_shop_sales": [],
+    "m_shop_sales": [589, 590, 591, 592, 593, 594],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-2-杂货2",
     "duration": 5,
@@ -1002,7 +1002,7 @@
   },
   {
     "id": 98,
-    "m_shop_sales": [],
+    "m_shop_sales": [595, 596, 597, 598, 599, 600],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-2-杂货3",
     "duration": 5,
@@ -1013,7 +1013,7 @@
   },
   {
     "id": 99,
-    "m_shop_sales": [],
+    "m_shop_sales": [601, 602, 603, 604, 605, 606],
     "name": "骑士同盟供应商",
     "editor_name": "CB2-常规-骑士团商人-2-1",
     "duration": 5,
@@ -1024,7 +1024,7 @@
   },
   {
     "id": 100,
-    "m_shop_sales": [],
+    "m_shop_sales": [607, 608, 609, 610, 611, 612],
     "name": "骑士同盟供应商",
     "editor_name": "CB2-常规-骑士团商人-2-2",
     "duration": 5,
@@ -1035,7 +1035,7 @@
   },
   {
     "id": 101,
-    "m_shop_sales": [],
+    "m_shop_sales": [613, 614, 615, 616, 617, 618],
     "name": "骑士同盟供应商",
     "editor_name": "CB2-常规-骑士团商人-2-3",
     "duration": 5,
@@ -1046,7 +1046,7 @@
   },
   {
     "id": 102,
-    "m_shop_sales": [],
+    "m_shop_sales": [619, 620, 621, 622, 623],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-3-锻造1",
     "duration": 5,
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 103,
-    "m_shop_sales": [],
+    "m_shop_sales": [624, 625, 626, 627, 628],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-3-锻造2",
     "duration": 5,
@@ -1068,7 +1068,7 @@
   },
   {
     "id": 104,
-    "m_shop_sales": [],
+    "m_shop_sales": [629, 630, 631, 632, 633],
     "name": "铁匠铺商人",
     "editor_name": "CB2-常规-商人-3-锻造3",
     "duration": 5,
@@ -1079,7 +1079,7 @@
   },
   {
     "id": 105,
-    "m_shop_sales": [],
+    "m_shop_sales": [634, 635, 636, 637, 638],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-3-训练1",
     "duration": 5,
@@ -1090,7 +1090,7 @@
   },
   {
     "id": 106,
-    "m_shop_sales": [],
+    "m_shop_sales": [639, 640, 641, 642, 643],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-3-训练2",
     "duration": 5,
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 107,
-    "m_shop_sales": [],
+    "m_shop_sales": [644, 645, 646, 647, 648],
     "name": "训练达人",
     "editor_name": "CB2-常规-商人-3-训练3",
     "duration": 5,
@@ -1112,7 +1112,7 @@
   },
   {
     "id": 108,
-    "m_shop_sales": [],
+    "m_shop_sales": [649, 650, 651, 652, 653, 654],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-3-杂货1",
     "duration": 5,
@@ -1123,7 +1123,7 @@
   },
   {
     "id": 109,
-    "m_shop_sales": [],
+    "m_shop_sales": [655, 656, 657, 658, 659, 660],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-3-杂货2",
     "duration": 5,
@@ -1134,7 +1134,7 @@
   },
   {
     "id": 110,
-    "m_shop_sales": [],
+    "m_shop_sales": [661, 662, 663, 664, 665, 666],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-商人-3-杂货3",
     "duration": 5,
@@ -1145,7 +1145,7 @@
   },
   {
     "id": 111,
-    "m_shop_sales": [],
+    "m_shop_sales": [667, 668, 669, 670, 671, 672],
     "name": "骑士同盟供应商",
     "editor_name": "CB2-常规-骑士团商人-3-1",
     "duration": 5,
@@ -1156,7 +1156,7 @@
   },
   {
     "id": 112,
-    "m_shop_sales": [],
+    "m_shop_sales": [673, 674, 675, 676],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-2-1",
     "duration": 5,
@@ -1167,7 +1167,7 @@
   },
   {
     "id": 113,
-    "m_shop_sales": [],
+    "m_shop_sales": [677, 678, 679, 680],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-2-2",
     "duration": 5,
@@ -1178,7 +1178,7 @@
   },
   {
     "id": 114,
-    "m_shop_sales": [],
+    "m_shop_sales": [681, 682, 683, 684],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-2-3",
     "duration": 5,
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 115,
-    "m_shop_sales": [],
+    "m_shop_sales": [685, 686, 687, 688, 689, 690],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-杂货商人-4-1",
     "duration": 5,
@@ -1200,7 +1200,7 @@
   },
   {
     "id": 116,
-    "m_shop_sales": [],
+    "m_shop_sales": [691, 692, 693, 694, 695, 696],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-杂货商人-4-2",
     "duration": 5,
@@ -1211,7 +1211,7 @@
   },
   {
     "id": 117,
-    "m_shop_sales": [],
+    "m_shop_sales": [697, 698, 699, 700, 701, 702],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-杂货商人-4-3",
     "duration": 5,
@@ -1222,7 +1222,7 @@
   },
   {
     "id": 118,
-    "m_shop_sales": [],
+    "m_shop_sales": [703, 704, 705, 706, 707, 708],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-杂货商人-4-4",
     "duration": 5,
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 119,
-    "m_shop_sales": [],
+    "m_shop_sales": [709, 710, 711, 712, 713, 714],
     "name": "杂货店老板",
     "editor_name": "CB2-常规-杂货商人-4-5",
     "duration": 5,
@@ -1244,7 +1244,7 @@
   },
   {
     "id": 120,
-    "m_shop_sales": [],
+    "m_shop_sales": [715, 716, 717, 718, 719, 720],
     "name": "骑士同盟供应商",
     "editor_name": "CB2-常规-骑士团商人-4-1",
     "duration": 5,
@@ -1255,7 +1255,7 @@
   },
   {
     "id": 121,
-    "m_shop_sales": [],
+    "m_shop_sales": [721, 722, 723, 724, 725, 726],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-3-1",
     "duration": 5,
@@ -1266,7 +1266,7 @@
   },
   {
     "id": 122,
-    "m_shop_sales": [],
+    "m_shop_sales": [727, 728, 729, 730, 731, 732],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-3-2",
     "duration": 5,
@@ -1277,7 +1277,7 @@
   },
   {
     "id": 123,
-    "m_shop_sales": [],
+    "m_shop_sales": [733, 734, 735, 736, 737, 738],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-3-3",
     "duration": 5,
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 124,
-    "m_shop_sales": [],
+    "m_shop_sales": [739, 740, 741, 742, 743, 744],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-3-4",
     "duration": 5,
@@ -1299,7 +1299,7 @@
   },
   {
     "id": 125,
-    "m_shop_sales": [],
+    "m_shop_sales": [745, 746, 747, 748, 749, 750],
     "name": "伊利亚供应商",
     "editor_name": "CB2-常规-伊利亚商人-3-5",
     "duration": 5,
@@ -1310,7 +1310,7 @@
   },
   {
     "id": 126,
-    "m_shop_sales": [],
+    "m_shop_sales": [751, 752, 753, 754, 755, 756],
     "name": "骑士同盟资材供应商",
     "editor_name": "CB2-特殊-骑士团材料商人",
     "duration": 5,
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 127,
-    "m_shop_sales": [],
+    "m_shop_sales": [757, 758, 759, 760, 761, 762],
     "name": "伊利亚装备供应商",
     "editor_name": "CB2-特殊-王国军武器商人-1-1",
     "duration": 10,
@@ -1332,7 +1332,7 @@
   },
   {
     "id": 128,
-    "m_shop_sales": [],
+    "m_shop_sales": [763, 764, 765, 766, 767, 768],
     "name": "伊利亚装备供应商",
     "editor_name": "CB2-特殊-王国军武器商人-1-2",
     "duration": 10,
@@ -1343,7 +1343,7 @@
   },
   {
     "id": 129,
-    "m_shop_sales": [],
+    "m_shop_sales": [769, 770, 771, 772, 773, 774],
     "name": "伊利亚装备供应商",
     "editor_name": "CB2-特殊-王国军武器商人-1-3",
     "duration": 10,
@@ -1354,7 +1354,7 @@
   },
   {
     "id": 130,
-    "m_shop_sales": [],
+    "m_shop_sales": [775, 776, 777, 778, 779, 780],
     "name": "伊利亚装备供应商",
     "editor_name": "CB2-特殊-王国军武器商人-1-4",
     "duration": 10,
@@ -1365,7 +1365,7 @@
   },
   {
     "id": 131,
-    "m_shop_sales": [],
+    "m_shop_sales": [781, 782, 783, 784, 785, 786],
     "name": "伊利亚装备供应商",
     "editor_name": "CB2-特殊-王国军武器商人-1-5",
     "duration": 10,
@@ -1376,7 +1376,7 @@
   },
   {
     "id": 132,
-    "m_shop_sales": [],
+    "m_shop_sales": [787, 788, 789, 790, 791, 792],
     "name": "贝拉",
     "editor_name": "CB2-特殊-贝拉商人",
     "duration": 2,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 133,
-    "m_shop_sales": [],
+    "m_shop_sales": [793, 794, 795, 796],
     "name": "神秘商人",
     "editor_name": "CB2-特殊-材料走私商人",
     "duration": 2,
@@ -1398,7 +1398,7 @@
   },
   {
     "id": 134,
-    "m_shop_sales": [],
+    "m_shop_sales": [797, 798, 799, 800, 801, 802],
     "name": "苏莱曼装备商贩",
     "editor_name": "CB2-特殊-苏莱曼武器商人-1-1",
     "duration": 8,
@@ -1409,7 +1409,7 @@
   },
   {
     "id": 135,
-    "m_shop_sales": [],
+    "m_shop_sales": [803, 804, 805, 806, 807, 808],
     "name": "苏莱曼装备商贩",
     "editor_name": "CB2-特殊-苏莱曼武器商人-1-2",
     "duration": 8,
@@ -1420,7 +1420,7 @@
   },
   {
     "id": 136,
-    "m_shop_sales": [],
+    "m_shop_sales": [809, 810, 811, 812, 813, 814],
     "name": "苏莱曼装备商贩",
     "editor_name": "CB2-特殊-苏莱曼武器商人-1-3",
     "duration": 8,
@@ -1431,7 +1431,7 @@
   },
   {
     "id": 137,
-    "m_shop_sales": [],
+    "m_shop_sales": [815, 816, 817, 818, 819, 820],
     "name": "苏莱曼装备商贩",
     "editor_name": "CB2-特殊-苏莱曼武器商人-1-4",
     "duration": 8,
@@ -1442,7 +1442,7 @@
   },
   {
     "id": 138,
-    "m_shop_sales": [],
+    "m_shop_sales": [821, 822, 823, 824, 825, 826],
     "name": "苏莱曼装备商贩",
     "editor_name": "CB2-特殊-苏莱曼武器商人-1-5",
     "duration": 8,
@@ -1453,7 +1453,7 @@
   },
   {
     "id": 139,
-    "m_shop_sales": [],
+    "m_shop_sales": [827, 828, 829, 830],
     "name": "神秘建筑师",
     "editor_name": "CB2-特殊-小镇科技商人-1-1",
     "duration": 8,
@@ -1464,7 +1464,7 @@
   },
   {
     "id": 140,
-    "m_shop_sales": [],
+    "m_shop_sales": [831, 832, 833, 834],
     "name": "神秘建筑师",
     "editor_name": "CB2-特殊-小镇科技商人-1-2",
     "duration": 8,
@@ -1475,7 +1475,7 @@
   },
   {
     "id": 141,
-    "m_shop_sales": [],
+    "m_shop_sales": [835, 836, 837, 838],
     "name": "神秘建筑师",
     "editor_name": "CB2-特殊-小镇科技商人-1-3",
     "duration": 8,
@@ -1486,7 +1486,7 @@
   },
   {
     "id": 142,
-    "m_shop_sales": [],
+    "m_shop_sales": [839, 840, 841, 842],
     "name": "神秘建筑师",
     "editor_name": "CB2-特殊-小镇科技商人-1-4",
     "duration": 8,
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 143,
-    "m_shop_sales": [],
+    "m_shop_sales": [843, 844, 845, 846],
     "name": "神秘建筑师",
     "editor_name": "CB2-特殊-小镇科技商人-1-5",
     "duration": 8,
@@ -1508,7 +1508,7 @@
   },
   {
     "id": 144,
-    "m_shop_sales": [],
+    "m_shop_sales": [847, 848, 849, 850, 851, 852],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-1-1",
     "duration": 5,
@@ -1519,7 +1519,7 @@
   },
   {
     "id": 145,
-    "m_shop_sales": [],
+    "m_shop_sales": [853, 854, 855, 856, 857, 858],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-1-2",
     "duration": 5,
@@ -1530,7 +1530,7 @@
   },
   {
     "id": 146,
-    "m_shop_sales": [],
+    "m_shop_sales": [859, 860, 861, 862, 863, 864],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-1-3",
     "duration": 5,
@@ -1541,7 +1541,7 @@
   },
   {
     "id": 147,
-    "m_shop_sales": [],
+    "m_shop_sales": [865, 866, 867, 868],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-2-1",
     "duration": 5,
@@ -1552,7 +1552,7 @@
   },
   {
     "id": 148,
-    "m_shop_sales": [],
+    "m_shop_sales": [869, 870, 871, 872],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-2-2",
     "duration": 5,
@@ -1563,7 +1563,7 @@
   },
   {
     "id": 149,
-    "m_shop_sales": [],
+    "m_shop_sales": [873, 874, 875, 876],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-2-3",
     "duration": 5,
@@ -1574,7 +1574,7 @@
   },
   {
     "id": 150,
-    "m_shop_sales": [],
+    "m_shop_sales": [877, 878, 879, 880, 881, 882],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-3-1",
     "duration": 5,
@@ -1585,7 +1585,7 @@
   },
   {
     "id": 151,
-    "m_shop_sales": [],
+    "m_shop_sales": [883, 884, 885, 886, 887, 888],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-3-2",
     "duration": 5,
@@ -1596,7 +1596,7 @@
   },
   {
     "id": 152,
-    "m_shop_sales": [],
+    "m_shop_sales": [889, 890, 891, 892, 893, 894],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-3-3",
     "duration": 5,
@@ -1607,7 +1607,7 @@
   },
   {
     "id": 153,
-    "m_shop_sales": [],
+    "m_shop_sales": [895, 896, 897, 898, 899, 900],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-3-4",
     "duration": 5,
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 154,
-    "m_shop_sales": [],
+    "m_shop_sales": [901, 902, 903, 904, 905, 906],
     "name": "法皇国供应商",
     "editor_name": "OBT1-常规-法皇国商人-3-5",
     "duration": 5,
@@ -1629,7 +1629,7 @@
   },
   {
     "id": 155,
-    "m_shop_sales": [],
+    "m_shop_sales": [907, 908, 909, 910, 911, 912, 913, 914],
     "name": "小镇特产商贩",
     "editor_name": "铃兰土特产商人1",
     "duration": 5,
@@ -1640,7 +1640,7 @@
   },
   {
     "id": 156,
-    "m_shop_sales": [],
+    "m_shop_sales": [915, 916, 917, 918, 919, 920, 921, 922],
     "name": "浪涌城贸易商",
     "editor_name": "浪涌城货物商人1",
     "duration": 5,
@@ -1651,7 +1651,7 @@
   },
   {
     "id": 157,
-    "m_shop_sales": [],
+    "m_shop_sales": [923, 924, 925, 926, 927, 928, 929, 930],
     "name": "风谷镇贸易商",
     "editor_name": "风谷镇货物商人1",
     "duration": 5,
@@ -1662,7 +1662,7 @@
   },
   {
     "id": 158,
-    "m_shop_sales": [],
+    "m_shop_sales": [931, 932, 933, 934, 935, 936, 937, 938],
     "name": "矿坑城贸易商",
     "editor_name": "矿坑城货物商人1",
     "duration": 5,
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 159,
-    "m_shop_sales": [],
+    "m_shop_sales": [939, 940, 941, 942, 943, 944, 945, 946],
     "name": "晨曦堡贸易商",
     "editor_name": "晨曦堡货物商人1",
     "duration": 5,
@@ -1684,7 +1684,7 @@
   },
   {
     "id": 160,
-    "m_shop_sales": [],
+    "m_shop_sales": [947, 948, 949, 950, 951, 952, 953, 954],
     "name": "薇尔德部族贸易商",
     "editor_name": "薇尔德部族货物商人1",
     "duration": 5,
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 161,
-    "m_shop_sales": [],
+    "m_shop_sales": [982, 983, 984],
     "name": "晨曦堡贸易商",
     "editor_name": "晨曦堡货物商人2",
     "duration": 3,
@@ -1706,7 +1706,7 @@
   },
   {
     "id": 162,
-    "m_shop_sales": [],
+    "m_shop_sales": [989, 990, 992, 993],
     "name": "浪涌城贸易商",
     "editor_name": "浪涌城货物商人2",
     "duration": 3,
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 163,
-    "m_shop_sales": [],
+    "m_shop_sales": [997, 998, 999, 1000],
     "name": "矿坑城贸易商",
     "editor_name": "矿坑城货物商人2",
     "duration": 3,
@@ -1728,7 +1728,7 @@
   },
   {
     "id": 164,
-    "m_shop_sales": [],
+    "m_shop_sales": [1007, 1008],
     "name": "薇尔德部族贸易商",
     "editor_name": "薇尔德部族货物商人2",
     "duration": 3,
@@ -1739,7 +1739,7 @@
   },
   {
     "id": 165,
-    "m_shop_sales": [],
+    "m_shop_sales": [1014, 1015, 1016, 1017],
     "name": "风谷镇贸易商",
     "editor_name": "风谷镇货物商人2",
     "duration": 3,
@@ -1750,7 +1750,7 @@
   },
   {
     "id": 166,
-    "m_shop_sales": [],
+    "m_shop_sales": [1021, 1022],
     "name": "高级晶石商人测试",
     "editor_name": "高级晶石商人测试",
     "duration": 5,
@@ -1761,7 +1761,7 @@
   },
   {
     "id": 167,
-    "m_shop_sales": [],
+    "m_shop_sales": [1023, 1024, 1025, 1026, 1027, 1028],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人1-1",
     "duration": 3,
@@ -1772,7 +1772,7 @@
   },
   {
     "id": 168,
-    "m_shop_sales": [],
+    "m_shop_sales": [1029, 1030, 1031, 1032, 1033, 1034],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人1-2",
     "duration": 3,
@@ -1783,7 +1783,7 @@
   },
   {
     "id": 169,
-    "m_shop_sales": [],
+    "m_shop_sales": [1035, 1036, 1037, 1038, 1039, 1040],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人1-3",
     "duration": 3,
@@ -1794,7 +1794,7 @@
   },
   {
     "id": 170,
-    "m_shop_sales": [],
+    "m_shop_sales": [1041, 1042, 1043, 1044, 1045, 1046],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人1-4",
     "duration": 3,
@@ -1805,7 +1805,7 @@
   },
   {
     "id": 171,
-    "m_shop_sales": [],
+    "m_shop_sales": [1047, 1048, 1049, 1050, 1051, 1052],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人2-1",
     "duration": 3,
@@ -1816,7 +1816,7 @@
   },
   {
     "id": 172,
-    "m_shop_sales": [],
+    "m_shop_sales": [1053, 1054, 1055, 1056, 1057, 1058],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人2-2",
     "duration": 3,
@@ -1827,7 +1827,7 @@
   },
   {
     "id": 173,
-    "m_shop_sales": [],
+    "m_shop_sales": [1059, 1060, 1061, 1062, 1063, 1064],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人2-3",
     "duration": 3,
@@ -1838,7 +1838,7 @@
   },
   {
     "id": 174,
-    "m_shop_sales": [],
+    "m_shop_sales": [1065, 1066, 1067, 1068, 1069, 1070],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人3-1",
     "duration": 3,
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 175,
-    "m_shop_sales": [],
+    "m_shop_sales": [1071, 1072, 1073, 1074, 1075, 1076],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人3-2",
     "duration": 3,
@@ -1860,7 +1860,7 @@
   },
   {
     "id": 176,
-    "m_shop_sales": [],
+    "m_shop_sales": [1077, 1078, 1079, 1080, 1081, 1082],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人3-3",
     "duration": 3,
@@ -1871,7 +1871,7 @@
   },
   {
     "id": 177,
-    "m_shop_sales": [],
+    "m_shop_sales": [1083, 1084, 1085, 1086, 1087, 1088],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人4-1",
     "duration": 3,
@@ -1882,7 +1882,7 @@
   },
   {
     "id": 178,
-    "m_shop_sales": [],
+    "m_shop_sales": [1089, 1090, 1091, 1092, 1093, 1094],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人4-2",
     "duration": 3,
@@ -1893,7 +1893,7 @@
   },
   {
     "id": 179,
-    "m_shop_sales": [],
+    "m_shop_sales": [1095, 1096, 1097, 1098, 1099, 1100],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人5-1",
     "duration": 3,
@@ -1904,7 +1904,7 @@
   },
   {
     "id": 180,
-    "m_shop_sales": [],
+    "m_shop_sales": [1101, 1102, 1103, 1104, 1105, 1106],
     "name": "晶石商人",
     "editor_name": "埃拉曼线-晶石商人5-2",
     "duration": 3,

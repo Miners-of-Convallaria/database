@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "m_blessing_upgrades": [],
+    "m_blessing_upgrades": [1, 2, 3, 4, 5],
     "type": "Prayer",
-    "name": "赐福仪式",
+    "name": "General Ritual",
     "editor_name": "集体祈祷",
     "desc": "赐福仪式",
     "usage": 1,
@@ -20,9 +20,9 @@
   },
   {
     "id": 2,
-    "m_blessing_upgrades": [],
+    "m_blessing_upgrades": [6, 7, 8, 9, 10],
     "type": "Baptism",
-    "name": "至诚庇护仪式",
+    "name": "Chosen Ritual",
     "editor_name": "特别洗礼",
     "desc": "至诚庇护仪式",
     "usage": 1,
@@ -41,7 +41,7 @@
     "id": 3,
     "m_blessing_upgrades": [],
     "type": "Revelation",
-    "name": "光辉的眷顾",
+    "name": "Fortune Blessing",
     "editor_name": "顿悟",
     "desc": "光辉的眷顾",
     "usage": 2,

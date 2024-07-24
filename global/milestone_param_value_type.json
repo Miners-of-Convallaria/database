@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "CharacterLevel",
-    "name": "佣兵团等级",
+    "name": "Mercenary Group Level",
     "param_name": "",
     "param_type": "",
     "show_table": "",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "type": "CharacterReputation",
-    "name": "佣兵团评分",
+    "name": "Mercenary Group Score",
     "param_name": "",
     "param_type": "",
     "show_table": "",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "type": "CharacterTitle",
-    "name": "佣兵团评级",
+    "name": "Mercenary Group Rank",
     "param_name": "",
     "param_type": "",
     "show_table": "character_title",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "type": "CharacterCountryStability",
-    "name": "国家安定度",
+    "name": "National Stability",
     "param_name": "",
     "param_type": "",
     "show_table": "",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "type": "FactionReputation",
-    "name": "势力声望",
+    "name": "Reputation",
     "param_name": "势力ID",
     "param_type": "faction",
     "show_table": "",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "type": "FactionReputationLevel",
-    "name": "势力声望等级",
+    "name": "Reputation Level",
     "param_name": "势力ID",
     "param_type": "faction",
     "show_table": "faction_reputation_level",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "type": "FactionInfluence",
-    "name": "势力影响力",
+    "name": "Faction Influence",
     "param_name": "势力ID",
     "param_type": "faction",
     "show_table": "",

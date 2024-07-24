@@ -1,158 +1,158 @@
 [
   {
     "id": 1,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "土地",
     "mobility": 10,
     "rain_mobility": 15,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18",
-    "desc": "【土地】不会被[火属性]攻击点燃。",
+    "desc": "Land. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain1"
   },
   {
     "id": 2,
-    "m_operations": [],
+    "m_operations": [2, 10, 12, 14, 15, 17, 18],
     "type": "Grass",
     "name": "草地",
     "mobility": 10,
     "rain_mobility": 15,
     "material_name": "grass",
     "operations": "2|10|12|14|15|17|18",
-    "desc": "【草地】会被[火属性]攻击点燃。",
+    "desc": "Lawn. Can be ignited by [Fire] attacks.",
     "icon": "terrain2"
   },
   {
     "id": 3,
-    "m_operations": [],
+    "m_operations": [2, 10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "草丛",
     "mobility": 10,
     "rain_mobility": 15,
     "material_name": "grass",
     "operations": "2|10|12|14|15|17|18",
-    "desc": "【草丛】会被[火属性]攻击被点燃。",
+    "desc": "Grass. Can be ignited by [Fire] attacks.",
     "icon": "terrain3"
   },
   {
     "id": 4,
-    "m_operations": [],
+    "m_operations": [12, 14, 15, 17, 18],
     "type": "",
     "name": "沙地",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "12|14|15|17|18",
-    "desc": "【沙地】不会被[火属性]攻击点燃。",
+    "desc": "Sand. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain4"
   },
   {
     "id": 5,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "岩场",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18",
-    "desc": "【岩场】不会被[火属性]攻击点燃。",
+    "desc": "Crag. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain5"
   },
   {
     "id": 6,
-    "m_operations": [],
+    "m_operations": [12, 14, 15, 17, 18],
     "type": "",
     "name": "碎石",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "12|14|15|17|18",
-    "desc": "【碎石】不会被[火属性]攻击点燃。",
+    "desc": "Gravel. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain6"
   },
   {
     "id": 7,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "Wasteland",
     "name": "荒地",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18",
-    "desc": "【荒地】不会被[火属性]攻击点燃。",
+    "desc": "Wasteland. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain7"
   },
   {
     "id": 8,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "湿地",
     "mobility": 10,
     "rain_mobility": 15,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18",
-    "desc": "【湿地】不会被[火属性]攻击点燃。",
+    "desc": "Wetland. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain8"
   },
   {
     "id": 9,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "道路",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18",
-    "desc": "【道路】不会被[火属性]攻击点燃。",
+    "desc": "Road. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain9"
   },
   {
     "id": 10,
-    "m_operations": [],
+    "m_operations": [2, 10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "木板",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "wood",
     "operations": "2|10|12|14|15|17|18",
-    "desc": "【木板】会被[火属性]攻击点燃。",
+    "desc": "Plank. Can be ignited by [Fire] attacks.",
     "icon": "terrain10"
   },
   {
     "id": 11,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "石板",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18",
-    "desc": "【石板】不会被[火属性]攻击点燃。",
+    "desc": "Slate. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain11"
   },
   {
     "id": 12,
-    "m_operations": [],
+    "m_operations": [12, 14, 15, 17, 18],
     "type": "",
     "name": "石墙",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "12|14|15|17|18",
-    "desc": "【石墙】不会被[火属性]攻击点燃。",
+    "desc": "Stonewall. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain12"
   },
   {
     "id": 13,
-    "m_operations": [],
+    "m_operations": [2, 12, 14, 15, 17, 18],
     "type": "",
     "name": "屋顶",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "2|12|14|15|17|18",
-    "desc": "【屋顶】会被[火属性]攻击点燃。",
+    "desc": "Roof. Can be ignited by [Fire] attacks.",
     "icon": "terrain10"
   },
   {
@@ -164,7 +164,7 @@
     "rain_mobility": 10,
     "material_name": "",
     "operations": "",
-    "desc": "【浅水】禁行，可被推落。",
+    "desc": "Shallow water. Inaccessible. Characters can be pushed into it.",
     "icon": "terrain14"
   },
   {
@@ -176,7 +176,7 @@
     "rain_mobility": 10,
     "material_name": "",
     "operations": "",
-    "desc": "【深水】禁行，可被推落。",
+    "desc": "Deep water. Inaccessible. Characters can be pushed into it.",
     "icon": "terrain15"
   },
   {
@@ -188,7 +188,7 @@
     "rain_mobility": 10,
     "material_name": "",
     "operations": "",
-    "desc": "【海洋】禁行，可被推落。",
+    "desc": "Ocean. Inaccessible. Characters can be pushed into it.",
     "icon": "terrain16"
   },
   {
@@ -200,7 +200,7 @@
     "rain_mobility": 20,
     "material_name": "dirt",
     "operations": "",
-    "desc": "【流沙】暂无",
+    "desc": "Quicksand. No effect.",
     "icon": "terrain17"
   },
   {
@@ -212,91 +212,91 @@
     "rain_mobility": 20,
     "material_name": "",
     "operations": "",
-    "desc": "【毒沼】不会被[火属性]攻击点燃。",
+    "desc": "Toxic Swamp. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain18"
   },
   {
     "id": 19,
-    "m_operations": [],
+    "m_operations": [2],
     "type": "",
     "name": "焦油",
     "mobility": 20,
     "rain_mobility": 20,
     "material_name": "",
     "operations": "2",
-    "desc": "【焦油】",
+    "desc": "Tar",
     "icon": "terrain19"
   },
   {
     "id": 20,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "雪原",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18",
-    "desc": "【雪原】不会被[火属性]攻击点燃。",
+    "desc": "Snow. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain20"
   },
   {
     "id": 21,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "雪道",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18",
-    "desc": "【雪道】不会被[火属性]攻击点燃。",
+    "desc": "Snow Covered Road. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain21"
   },
   {
     "id": 22,
-    "m_operations": [],
+    "m_operations": [2, 10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "雪木板",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "wood",
     "operations": "2|10|12|14|15|17|18",
-    "desc": "【雪木板】会被[火属性]攻击点燃。",
+    "desc": "Snow Covered Plank. Can be ignited by [Fire] attacks.",
     "icon": "terrain22"
   },
   {
     "id": 23,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "雪石板",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18",
-    "desc": "【雪石板】不会被[火属性]攻击点燃。",
+    "desc": "Snow Covered Slate. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain23"
   },
   {
     "id": 24,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "雪石墙",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18",
-    "desc": "【雪石墙】不会被[火属性]攻击点燃。",
+    "desc": "Snow Covered Stonewall. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain24"
   },
   {
     "id": 25,
-    "m_operations": [],
+    "m_operations": [10, 12, 14, 15, 17, 18],
     "type": "",
     "name": "雪屋顶",
     "mobility": 10,
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18",
-    "desc": "【雪屋顶】不会被[火属性]攻击点燃。",
+    "desc": "Snow Covered Roof. Cannot be ignited by [Fire] attacks.",
     "icon": "terrain25"
   },
   {
@@ -308,7 +308,7 @@
     "rain_mobility": 10,
     "material_name": "",
     "operations": "",
-    "desc": "【光滑的冰面】在上面被击退无法停下（不计击退距离），无法被[火属性]攻击点燃。",
+    "desc": "Slick Ice. Cannot be ignited by [Fire] attacks. A character is unable to stop on it if being knocked back. The tiles passed on ice does not count towards knock-back distance.",
     "icon": "terrain26"
   },
   {
@@ -320,7 +320,7 @@
     "rain_mobility": 1000,
     "material_name": "",
     "operations": "",
-    "desc": "【虚空】禁行，可被推落。",
+    "desc": "Void. Inaccessible. Characters can be pushed into it.",
     "icon": "terrain27"
   },
   {
@@ -332,7 +332,7 @@
     "rain_mobility": 0,
     "material_name": "",
     "operations": "",
-    "desc": "【禁行】不可进入。",
+    "desc": "No entry. Inaccessible.",
     "icon": "terrain28"
   },
   {
@@ -344,7 +344,7 @@
     "rain_mobility": 0,
     "material_name": "",
     "operations": "",
-    "desc": "【禁行】不可进入，可跳过。",
+    "desc": "No entry. Inaccessible but can be jumped over.",
     "icon": "terrain28"
   },
   {
@@ -356,7 +356,7 @@
     "rain_mobility": 0,
     "material_name": "",
     "operations": "",
-    "desc": "【禁行】不可进入，阻挡射线。",
+    "desc": "[No Entry] Inaccessible, blocks lasers.",
     "icon": "terrain28"
   }
 ]

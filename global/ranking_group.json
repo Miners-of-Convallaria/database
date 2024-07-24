@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "m_rankings": [],
-    "name": "战斗力",
+    "m_rankings": [1, 2, 3],
+    "name": "Battle Power",
     "icon": "icon_fight",
     "order_id": 0,
     "is_show": true,
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "m_rankings": [],
-    "name": "成就",
+    "m_rankings": [4],
+    "name": "Achievements",
     "icon": "icon_achievement",
     "order_id": 0,
     "is_show": true,
@@ -19,8 +19,8 @@
   },
   {
     "id": 3,
-    "m_rankings": [],
-    "name": "见闻等级",
+    "m_rankings": [5, 6],
+    "name": "Knowledge Level",
     "icon": "icon_transcripts",
     "order_id": 0,
     "is_show": true,
@@ -28,8 +28,8 @@
   },
   {
     "id": 4,
-    "m_rankings": [],
-    "name": "荣耀之战",
+    "m_rankings": [7],
+    "name": "Clash",
     "icon": "icon_pvp",
     "order_id": 0,
     "is_show": true,
@@ -37,8 +37,8 @@
   },
   {
     "id": 5,
-    "m_rankings": [],
-    "name": "逆境之塔",
+    "m_rankings": [8],
+    "name": "Tower of Adversity",
     "icon": "icon_abyss",
     "order_id": 0,
     "is_show": true,

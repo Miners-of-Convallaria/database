@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [1, 2, 3, 10],
     "name": "测试笔记",
     "editor_name": "测试笔记",
     "text": "→我不能确定这是不是一个正确的选择，但我还是和骑士团签订了契约。\n→拉维耶走后，小镇的情况虽然有所好转，但这个国家的情况却在急速恶化。\n→东面的矿坑市已经成了黑暗之光的据点，各种真真假假的情报和流言都表明那里已经成了可怕的人间炼狱。\n→更糟糕的是，黑暗之光并不满足于控制矿坑市，他们的信徒组成的军队正在不断地向外扩张——更准确的说是吞食这些村镇。\n→铃兰小镇也没有例外，我们不可能凭借自己的力量抵挡黑暗之光，于是我们向骑士团求救了，他们也回应了我们的求援。\n→为首的圣骑士——歌洛莉亚与泰登携带着一只人数不多",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [4, 12, 13],
     "name": "另一个测试笔记",
     "editor_name": "测试笔记zhm",
     "text": "这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。这是一个由zhm创建的测试笔记。",
@@ -20,7 +20,7 @@
     "m_sandbox_note_selections": [],
     "name": "第一次的笔记",
     "editor_name": "QV3-P1-第一次的笔记",
-    "text": "已经过去一周了，记忆还是没有恢复。\n为了避免再次失忆，我打算把现在经历的重要事情都写下来。\n我加入了“铃兰之剑”佣兵团，感谢他们能够在这乱世之中接纳来历不明的我。\n伊利亚内战已经全面爆发，外部势力骑士同盟和罗迪尼亚法皇国也干预了这场战争。\n战争暂时还没有波及到小镇，铃兰之剑看起来也有自保能力。\n我打算好好帮助铃兰之剑，尽全力保护这个来之不易的栖身之所。",
+    "text": "It's been a week, but my memory hasn't recovered. \nIn case of repeated memory losses, I'd like to write down all the important things I've experienced. \nI've joined \"the Sword of Convallaria\" Mercenary Group. I'm really thankful that they accepted me in such turbulent days. \nThe civil war of Iria has broken out, and the external forces, the Union and the Papal States of Rodinia, have also intervened in it. \nThe war has not yet spread to the town, and the Sword of Convallaria seems to be able to protect itself. \nI'm going to help the Sword of Convallaria and do my best to protect this hard-won shelter.",
     "first_selection": 0
   },
   {
@@ -28,39 +28,39 @@
     "m_sandbox_note_selections": [],
     "name": "寻求某一势力的帮助",
     "editor_name": "QV3-P2-寻求某一势力的帮助",
-    "text": "我们成功地抵御了山贼的袭击，这是令人振奋的胜利。\n但一想到罗迪尼亚法皇国招募的那些匪徒，我就非常担忧。\n伊利亚的局势不断恶化，如果战火烧到小镇，我们肯定无法和骑士同盟或者王国军这样的势力抗衡的。\n在我们被这些强大势力袭击的时候，又会有谁来救我们呢？\n覆巢之下无完卵，只要战争不结束，小镇就不能算是彻底安全。\n况且，谁取得这场战争的胜利，会带领伊利亚走向怎样的未来，和我们也是息息相关的。\n哪怕没有足以改变战局的力量，我们也理应做出选择。不仅仅是为了一时苟延残喘，也是为了长远的和平。",
+    "text": "We successfully resisted the attack of the bandits, which is a stimulating victory. \nBut I'm very worried when I think of the bandits recruited by the Papal States of Rodinia. \nThe situation of Iria is getting worse. If the war spreads to the town, we will not be able to contend against the Union or the King's Army. \nWho will rescue us when we're attacked by these strong forces? \nWhen the nest overturns, no egg remains intact. As long as the war is not over, the town will not be safe. \nWe also have a stake in the winner of the war and the future of Iria. \nEven if we're not strong enough to change the situation, we should make a choice. It's not only for temporary survival, but also for long-term peace.",
     "first_selection": 0
   },
   {
     "id": 5,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [5],
     "name": "参与十字路口要塞攻城战前",
     "editor_name": "QV3-P3-参与十字路口要塞攻城战前",
-    "text": "佣兵团里的一些人和一部分镇上的居民，并不赞同我和骑士同盟缔结契约。\n但之前黑暗之光对小镇的进攻，证明了如果没有强大势力的庇护，我们根本活不到现在。\n哪怕代价是帮他们作战，为他们流血。\n就算只是为了保护小镇，也必须想办法帮助骑士同盟结束这场战争。\n下一步，骑士同盟已经确定将会进攻十字路要塞。\n铃兰之剑只能选择加入，并且承受代价……",
+    "text": "Some people in the Mercenary Group and some residents in the town didn't agree with me to form an alliance with the Union. \nBut the former attacks on the town by Darklight have proved that we would not have survived if without the protection of a strong force. \nEven if I have to fight and bleed for them. \nTo protect the town, I must help the Union end the war. \nNext, the Union will attack the Crossroads Keep. \nThe Sword of Convallaria has no choice but to join and pay the price...",
     "first_selection": 5
   },
   {
     "id": 6,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [6],
     "name": "十字路口会战后的反思（无信标）",
     "editor_name": "QV3-P4-十字路口会战后的反思（无信物）",
-    "text": "刚刚结束的十字路要塞攻城战，让我真正意识到了什么是战争。\n王国军誓死坚守，罗迪尼亚法皇国也出卖了我们，整个战局一败涂地，连麦莎都受了重伤。\n好在歌洛莉亚和泰登回来援救，让大部分人都活了下来。\n而这场战争，还远远没有结束。\n鲁特菲带来了一枚勋章，以表彰铃兰之剑的英勇作战。\n我没有感激他，但他却并不气愤。\n这位一直以来都很平易近人的王子似乎话里有话。",
+    "text": "The just-concluded siege battle at the Crossroads Keep made me realize what the war is. \nThe King's Army defended to death, and the Papal States of Rodinia betrayed us. We were soundly defeated, and even Maitha was seriously injured. \nFortunately, Gloria and Teadon came back and saved most of the people. \nBut the war is far from over. \nLutfi brought a medal to honor the Sword of Convallaria. \nI didn't appreciate him, but he wasn't angry. \nThe approachable prince indicated something in his words.",
     "first_selection": 6
   },
   {
     "id": 7,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [7],
     "name": "十字路口会战后的反思（歌洛莉亚信标）",
     "editor_name": "QV3-P4-十字路口会战后的反思（歌洛莉亚信物）",
-    "text": "刚刚结束的十字路要塞攻城战，让我真正意识到了什么是战争。\n王国军誓死坚守，罗迪尼亚法皇国也出卖了我们，整个战局一败涂地，连麦莎都受了重伤。\n而这场战争，还远远没有结束。\n歌洛莉亚带来了一枚勋章，并且代表骑士团向我们道了歉。\n的确，虽然骑士团没有很好地组织撤退，但战败的根本原因还是因为法皇国背信弃义。\n况且正是因为歌洛莉亚和泰登回来援救，才让大部分人都活了下来。\n关于歌洛莉亚……",
+    "text": "The just-concluded siege battle at the Crossroads Keep made me realize what the war is. \nThe King's Army defended to death, and the Papal States of Rodinia betrayed us. We were soundly defeated, and even Maitha was seriously injured. \nBut the war is far from over. \nGloria brought a medal and apologized to us on behalf of the Order. \nIt is true that the Order did not arrange their retreat well, but the root cause for the defeat was the betrayal of the Papal States. \nMoreover, if it weren't for Gloria and Teadon's timely rescue, most of the people would not have survived. \nAbout Gloria...",
     "first_selection": 7
   },
   {
     "id": 8,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [8],
     "name": "关于二王子的计划",
     "editor_name": "QV3-P4-关于二王子的计划",
-    "text": "拉维耶……\n收留我、培养我，让我成为铃兰之剑团长的那个人永远地走了……\n佣兵团所有人都陷入了悲痛之中，尤其是麦莎和法卡尔。\n拉维耶，我们的大姐头，愿你在天国安息。\n\n歌洛莉亚来小镇接走了王女。\n我按照鲁特菲的吩咐，成功劝说歌洛莉亚立下了保护伊南娜的骑士誓约。\n伊南娜殿下应该不会有事，但鲁特菲的计划到底是什么呢？",
+    "text": "Rawiyah...\nThe person who took me in, trained me, and made me the Leader of the Sword of Convallaria is gone forever...\nThe Mercenary Group fell into great grief, especially Maitha and Faycal. \nRawiyah, our Big Sister, may you rest in peace in heaven. \n\nGloria came to the town and picked up the Princess. \nAs instructed by Lutfi, I persuaded Gloria to take the Oath of Knights to protect Inanna. \nPrincess Inanna should be fine, but what is Lutfi's plan?",
     "first_selection": 8
   },
   {
@@ -68,7 +68,7 @@
     "m_sandbox_note_selections": [],
     "name": "调查的结果（二王子线）",
     "editor_name": "QV3-P5-调查的结果（二王子线）",
-    "text": "浪涌城事件的调查，已经有结果了。\n第一王子迪塔利奥，和先遣骑士团团长奥古斯特，就是罪魁祸首。\n鲁特菲计划让骑士同盟与王国军两败俱伤，再一一解决。\n尽管他没有透露计划细节，但他保证伊利亚会迎来独立的和平。\n虽然这意味着出卖歌洛莉亚，但我实在没办法相信她。\n哪怕她是正义的，正直的，但就如同鲁特菲所说的，这样一个巨大的阴谋，不可能只由几个人完成。\n歌洛莉亚又凭什么靠一个人与整个骑士同盟对抗呢？\n接下来，我们的行动，就是要先帮助骑士同盟再一次进攻十字路要塞。\n但我们会成功的，我们会为伊利亚迎来和平，来告慰拉维耶和其他遇难者的在天之灵。\n只要再给我们一点点时间。",
+    "text": "The truth of the Waverun City incident has already been found. \nPrince Dantalion and Auguste, Master of the Advance Order, are the chief culprits. \nLutfi planned to involve the Union and the King's Army into a lose-lose situation and then take care of them one by one. \nAlthough he did not disclose the details, he promised that Iria would usher in independent peace. \nIt also means that I have to betray Gloria. To be honest, I really can't believe her either. \nEven if she is just and righteous, but as Lutfi said, such a huge conspiracy could not be completed by just a few people. \nHow could Gloria fight against the Union by herself? \nOur next action is to help the Union attack the Crossroads Keep again. \nWe will succeed and bring peace to Iria to console Rawiyah and other victims in heaven. \nWe just need a little more time.",
     "first_selection": 0
   },
   {
@@ -76,7 +76,7 @@
     "m_sandbox_note_selections": [],
     "name": "迫近的真相（歌洛莉亚线）",
     "editor_name": "QV3-P5-迫近的真相（歌洛莉亚线）",
-    "text": "浪涌城事件的调查，已经有结果了。\n第一王子迪塔利奥，和先遣骑士团团长奥古斯特，就是罪魁祸首。\n鲁特菲计划让骑士同盟与王国军两败俱伤，再一一解决。\n他没有透露计划细节，但他保证伊利亚会迎来独立的和平。\n这一切看上去都很美好，但一切真的会如他所想顺利展开吗？\n这个世界上没有完美的计划，我宁可相信那些有着高尚品德的人。\n尽管骑士同盟和这场阴谋脱不开关系，但我还是相信歌洛莉亚。\n就如同我们约定的那样，我帮助骑士同盟打赢第二次十字路会战，击败王国军，让刽子手迪塔利奥付出代价。\n而她继续调查骑士同盟的堕落者，将他们绳之以法。\n\n尽管这不会是一条很好走的路，但我们会成功的。\n我们会为伊利亚迎来和平，来告慰拉维耶和其他遇难者的在天之灵。",
+    "text": "The truth of the Waverun City incident has already been found. \nPrince Dantalion and Auguste, Master of the Advance Order, are the chief culprits. \nLutfi planned to involve the Union and the King's Army into a lose-lose situation and then take care of them one by one. \nAlthough he didn't disclose the details, he promised that Iria would usher in an independent peace. \nEverything looks fine, but will it go smoothly as he wants? \nThere is no perfect plan in this world. I'd rather believe the people with a noble virtue. \nAlthough the Union is closely related to the conspiracy, I still believe Gloria. \nAs we agreed, I will help the Union win the Crossroads Battle II and defeat the King's Army, making the executioner, Dantalion, pay the price. \nShe will continue to investigate the degenerates of the Union and bring them to justice. \nAlthough it's difficult, we will succeed. \nWe will bring peace to Iria to console Rawiyah and other victims in heaven.",
     "first_selection": 0
   },
   {
@@ -84,7 +84,7 @@
     "m_sandbox_note_selections": [],
     "name": "变局（二王子线）",
     "editor_name": "QV3-P6-变局（二王子线）",
-    "text": "事情的反转实在是太剧烈了。\n尽管很艰苦，但我们还是取得了第二次十字路会战的胜利。\n在权谋背后，鲁特菲也展现出了他值得尊敬的一面。\n在攻城战中，他不计损失地援救铃兰之剑，随后又为了争取主和派的支持深入王国军控制区。\n他是真心希望尽早给伊利亚带来和平的。\n这份努力也得到了回报——王国军的现任指挥官，马格努斯元帅带来了老国王法里斯的口谕。\n他们已经默认了鲁特菲的胜利。\n只要再加把劲，也许就可以彻底解决王国军的问题。\n在那之后，就是骑士同盟了。\n尽管鲁特菲还没有告诉我他该如何解决骑士同盟的问题，但我相信他一定有所准备。\n一切都在往好的方向发展，终于，在经历过这么多困难后，我似乎终于看到和平的曙光了……",
+    "text": "The reversal is so dramatic. \nAlthough it was tough, we won the Crossroads Battle II. \nBehind the politics, Lutfi also showed that he is respectable to some extent. \nHe recklessly rescued the Sword of Convallaria in the siege battle, and then went deep into the controlled area of the King's Army to win the support of the doves. \nHe sincerely hopes to bring peace to Iria as soon as possible. \nHis effort was rewarded, as Marshal Magnus, the current commander of the King's Army, brought the old King Faris' verbal instructions. \nThey have silently recognized Lutfi's victory. \nWith more efforts, we can solve the problem of the King's Army completely. \nAnd the next target is the Union. \nEven though Lutfi hasn't told me how he would take care of the Union, I'm sure he is prepared. \nEverything is going better. Finally, after surviving so many hardships, I see the dawn of peace...",
     "first_selection": 0
   },
   {
@@ -92,7 +92,7 @@
     "m_sandbox_note_selections": [],
     "name": "行动开始（歌洛莉亚线）",
     "editor_name": "QV3-P6-行动开始（歌洛莉亚线）",
-    "text": "第二次十字路要塞攻城战，对铃兰之剑来说太惨痛了。\n我们被当成弃子，毫无意义地被抛弃在战场上。\n我并不认为泰登的话错了，伊利亚人的自由需要自己用生命和鲜血去争取。\n但我最大的担心是，泰登没有正面回应我的那个问题。\n在这一切结束后，等待我们的真的是许诺中的自由的新伊利亚吗，还是一个被骑士同盟操控的国家呢？\n唯一能够让我感觉到些许庆幸的是，骑士同盟里还有歌洛莉亚这样正直的人。\n我现在能做的，就是帮助她找到证据，揪出骑士同盟里的堕落者。\n但要对同僚兵戎相向……这样巨大的精神压力，歌洛莉亚真的能够承受得了吗？\n也许在这之后，我可以跟她好好谈一谈……\n明天，奥古斯特会举办一场宴会，歌洛莉亚会趁这个机会找到决定性的证据。\n我能做的，就是牵制好奥古斯特，给她争取更多的时间。\n希望这一切真的值得。",
+    "text": "The Crossroads Battle II was too painful for the Sword of Convallaria. \nWe were abandoned on the battlefield as a piece to be sacrificed. \nI don't think Teadon is wrong. Irians have to fight for freedom with their own lives and blood. \nWhat worries me most is that Teadon didn't respond positively to my question. \nAfter all this, will Iria be free and new as promised or controlled by the Union? \nThe only thing that makes me glad is that there are still righteous people like Gloria in the Union. \nWhat I can do now is to help her find the evidence and uncover the degenerates in the Union. \nBut can Gloria bear the great mental pressure of meeting her colleagues with force? \nMaybe I should have a talk with her after this...\nIn the banquet held by Auguste tomorrow, Gloria will take this opportunity to find the decisive evidence. \nWhat I can do is to distract Auguste and buy her more time. \nI hope it's really worth it.",
     "first_selection": 0
   },
   {
@@ -100,7 +100,7 @@
     "m_sandbox_note_selections": [],
     "name": "黎明之前",
     "editor_name": "QV3-P7-黎明之前（二王子线）",
-    "text": "\n\n战争结束了。\n迪塔利奥试图凭借晨曦堡进行最后的坚守，让更多人为他的野心陪葬，我们和鲁特菲则是联手通过一系列的行动化解了他的阴谋，以最小的代价拿下了王都。\n鲁特菲已经带着他的人接管了晨曦堡，他将以第二王子的身份暂时监国，虽然很难说伊利亚已经开始复苏，但至少局势不再恶化了，我们清理了盗匪，击败了黑暗之光的垂死挣扎，收拢了剩下的还效忠于迪塔利奥的王国军……除了少数的疯子，已经没有人想要继续这场战争了。\n大家都已经见到太多牺牲了。\n唯一令人不安的是，歌洛莉亚被骑士同盟正式宣布为叛徒，奥古斯特对歌洛莉亚展开了搜捕。\n在我看来，歌洛莉亚是一个高洁的人，她是绝对不会背弃自己的信仰的。\n所以……难道说……这是鲁特菲的计划的一环？\n此外，他还告诉我，骑士同盟很可能要通过审判伊南娜，彻底解决浪涌城悲剧，不过他让我不要紧张，他自然有办法保住伊南娜的性命。\n他已经表现出了足够让我信任的能力，所以我不会怀疑他，只需要等着他告诉我计划的全貌就好了。\n希望一切都能够按照计划。\n希望黎明能早日到来……彻底到来。\n \n \n         \n",
+    "text": "The war is over.\n\nDantalion tried to make a hold for a stand at the Mornrays Castle and sacrifice more people for his ambition. But we shattered his dream with Lutfi and took down the Mornrays Castle at minimal cost.\n\nLutfi has taken over the Mornrays Castle with his men, and he will supervise the country temporarily as the second prince. Although it is too early to say that Iria has begun to recover, at least its situation is no longer getting worse. We have cleaned up the bandits, defeated Darklight, and subdued the rest of the King's army who were loyal to Dantalion. No one wants to continue this war except a few lunatics. We have seen too many people sacrificed.\n\nThe only disturbing thing is that Gloria was officially declared a traitor by the Union. Auguste has launched a manhunt for her. In my opinion, Gloria is so noble that she will never turn her back on her faith. So is it a part of Lutfi's plan? He also told me that the Union would judge Inanna to put an end to the Waverun City tragedy, but he told me not to be nervous because he could keep Inanna alive. The ability he showed has earned my trust, so I won't doubt him and will just wait for him to tell me the whole plan.\n\nI hope everything will go according to his plan. I hope the dawn will come soon, completely.",
     "first_selection": 0
   },
   {
@@ -108,7 +108,7 @@
     "m_sandbox_note_selections": [],
     "name": "真相与信任",
     "editor_name": "QV3-P7-真相与信任（歌洛莉亚线）",
-    "text": "伊利亚的内战已经彻底结束了。\n理论上说，我们一直以来所期盼的和平已经到来了。\n但这不是真正的和平，这只是一场肮脏的交易。\n骑士同盟发动了伊利亚的内战，再以解放者的身份推翻伊利亚王室。\n我几乎不会质疑，骑士同盟会成为一个新的骑在伊利亚头上的残暴统治者。\n这样的和平没有任何的意义。\n好在，并不是所有骑士同盟的成员都认同并参与了这场阴谋。\n歌洛莉亚依然坚守着自己的诺言，并且为之奋战着。\n骑士同盟是一个恐怖的霸权，但不论它有多强大，我都相信歌洛莉亚。\n相信她绝对不会退缩，不会放弃，不会屈服。\n敬所有为了真相和正义永不放弃的勇士。\n致所有在浪涌城事件和伊利亚内战中无辜死去的冤魂。",
+    "text": "The civil war of Iria is over. \nIn theory, the peace we've been waiting for has come. \nBut it is not real peace, and it's just a dirty deal. \nThe Union launched the civil war in Iria and then overthrew the royal family of Iria. \nI'm sure that the Union will be a new cruel ruler to oppress Iria. \nSuch a peace is meaningless. \nFortunately, not all the members of the Union agreed with and participated in the conspiracy. \nGloria still sticks to her promise and fights for it. \nThe Union is a terrifying hegemony. No matter how powerful it is, I believe Gloria. \nI believe she will never back down, give up or give in. \nHere's to all brave warriors who never give up for truth and justice. \nHere's to all innocent dead in the Waverun City incident and the civil war of Iria.",
     "first_selection": 0
   },
   {
@@ -116,15 +116,15 @@
     "m_sandbox_note_selections": [],
     "name": "第一次的笔记",
     "editor_name": "QV3-P1-第一次的笔记（二周目）",
-    "text": "已经过去一周了，记忆还是没有恢复。\n身份，过往，目标，亲友……统统都没有任何线索，我仿佛根本不是这个世界的人，没有在这个世界上留下任何的痕迹。\n为了避免再次失忆的可能，我打算把现在经历的重要事情都写下来。\n加入铃兰之剑也已经过了一周了，对于失忆的我来说，能够找到这么一个可以信赖的栖身之地真是最大的幸运。\n小镇外面的局势越来越糟糕了，王国军和浪涌军的内战已经全面爆发，外部势力骑士同盟和罗迪尼亚法皇国也干预了这场战争。\n铃兰之剑似乎还有自保的能力，但我总觉得有些不安。\n也许接下来，应该更加主动地出击，将威胁消弭于无形吧。",
+    "text": "It's been a week, but my memory hasn't recovered. \nIdentity, past, goals, family and friends... are all without any clues. It is as if I'm not from this world and haven't left any traces in it. \nIn case of repeated memory losses, I'd like to write down all the important things I've experienced. \nIt's been a week since I joined the Sword of Convallaria. For me, who has lost memory, it is the greatest blessing to find such a trust-worthy place to stay. \nThe situation outside the town is getting worse. The civil war between the King's Army and the Waverun Legion has broken out, and the Union and the Papal States of Rodinia have also intervened in this war. \nThe Sword of Convallaria seems to be able to protect itself, but I still feel a little uneasy. \nNext, maybe we should attack more actively to clear all the threats.",
     "first_selection": 0
   },
   {
     "id": 16,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [9],
     "name": "二王子的来信",
     "editor_name": "QV3-P5-二王子的来信",
-    "text": "如他早就说过的，鲁特菲准备开始针对骑士同盟的计划了。\n他希望我在关键时候不要第一时间帮助歌洛莉亚，以妨碍她的调查。\n歌洛莉亚是一个值得信赖的骑士，我相信她确实是在不惜一切代价寻找真相。\n但鲁特菲有个更大的计划，他考虑的不仅是真相，还有如何解决骑士同盟。\n如果歌洛莉亚真的向我求援，我应该帮助她吗？\n我应该信任鲁特菲和他的计划吗？\n\n",
+    "text": "As he said before, Lutfi is going to start the plan against the Union \nHe hoped that I would not help Gloria immediately to hinder her investigation \nGloria is a trust-worthy knight, and I believe she is discovering the truth at all costs \nHowever, Lutfi has a bigger plan, the purpose of which is not only to find the truth, but also to wipe out the Union \nIf Gloria asks me for help, should I help her? \nShould I trust Lutfi and his plan?",
     "first_selection": 9
   },
   {
@@ -132,7 +132,7 @@
     "m_sandbox_note_selections": [],
     "name": "共通线-第一章： 团长的笔记1",
     "editor_name": "共通线-第一章： 团长的笔记1",
-    "text": "自我在监狱中醒来，到如今铃兰小镇安身立命，已经过去了一段时间。我仍旧没有想起来我是谁，世界也是完全陌生的。为了避免再次失忆，我打算将我所经历的重要的事情都记录下来。\n想来最近真的发生了不少大事，伊利亚的内战已经全面爆发，我与几个新认识的伙伴从浪涌城死里逃生，感谢他们接纳来历不明的我，还让我加入了他们的佣兵团铃兰之剑，成为了助理团长。\n目前外界动荡不安，铃兰之剑好似在风雨中飘摇的小舟，想必迟早会被卷入波涛之中，而我，则会用尽全力，保护好这个来之不易的栖身之所。",
+    "text": "It has been some time since I woke up in the prison and settled down in the Town of Convallaria. I still can't remember who I am, and the world is also completely strange to me. In case of repeated memory losses, I'd like to write down all the important things I've experienced.\nA lot of things happened recently. The civil war of Iria has broken out, and I escaped from Waverun City with several new friends. I'm really thankful that they accepted me in such turbulent days and let me join the Sword of Convallaria Mercenary Group and become the Vice Leader.\nThe outside world is in turmoil now, and the Sword of Convallaria is just like a small boat swaying in the wind and rain, which will be swallowed by the Bernardows sooner or later. I will try my best to protect this hard-won shelter.",
     "first_selection": 0
   },
   {
@@ -140,7 +140,7 @@
     "m_sandbox_note_selections": [],
     "name": "共通线-第一章： 团长的笔记2",
     "editor_name": "共通线-第一章：团长的笔记2",
-    "text": "最近小镇越来越热闹了，来了许多新伙伴，美丽神秘的薇尔德舞团，医者仁心的光辉术师萨曼莎，任性跳脱的魔女贝拉……她们的到来让小镇变得生机勃勃起来。\n当然，最近小镇的麻烦也不少，难民涌入，盗匪猖獗，佣兵团的袭击接踵而至……幸好我们成功地阻挡了这些危机，保护了小镇。\n还有一件最重要的事，拉维耶离开了，将团长之位留给了我。这是一副沉重的担子，我却不得不接受，我似乎一直是被命运推着走的，而此时此刻，我却肩负起了别人的命运，我真的可以胜任团长吗？\n我又应该带领铃兰之剑，走向何方呢？",
+    "text": "The town has become more and more bustling recently. Many new friends have come, including the beautiful and mysterious Vlder Dance Troupe, the kind-hearted Radiant Priest Samantha, and the lively Sorceress Beryl... They make the town full of vigor.\nOf course, there were also many troubles in the town, such as the influx of refugees, the rampant banditry, and attacks by other mercenary groups... Fortunately, we managed to forestall these crises and protect the town.\nThe most important thing is that Rawiyah has gone, leaving me as the Leader. It's a heavy burden that I have to accept. I have always been pushed by the destiny, but now, I'm responsible for the destinies of others. Can I be a competent leader?\nAnd where should I lead the Sword of Convallaria to?",
     "first_selection": 0
   },
   {
@@ -148,7 +148,7 @@
     "m_sandbox_note_selections": [],
     "name": "共通线-第二章： 黑暗之光后（王国军线）",
     "editor_name": "共通线-第二章： 黑暗之光后（王国军线）",
-    "text": "对于和王国军的合作，许多镇民表示不理解与不赞成。但黑暗之光危机已经充分说明了，我们必须借助他人的力量，才能在乱世中生存。\n王国军会帮助小镇，也证明了他们并不是无药可救，无论如何，为了小镇的安全，现在只能走一步算一步了。接下来我将护送王女伊南娜去晨曦堡，也即将会见伊利亚的第一王子，迈出与王国军合作的第一步。",
+    "text": "Many townspeople do not understand or approve of the cooperation with the King's army. However, the crisis caused by Darklight has told us that we must rely on other people to survive in such turbulent days. \nThe King's army helped the town and proved that they are not totally unreliable. For the safety of the town, we can only take one step at a time. I will escort Princess Inanna to the Mornrays Castle and meet Prince Dantalion, taking the first step in the cooperation with the King's army.",
     "first_selection": 0
   },
   {
@@ -156,7 +156,7 @@
     "m_sandbox_note_selections": [],
     "name": "王国军线-第一章： 第一次十字路口会战之前",
     "editor_name": "王国军线-第一章： 第一次十字路口会战之前",
-    "text": "与王国军缔结同盟后，又发生了许多事情，我和伊南娜一同远赴薇尔德，才知道诺诺薇儿竟然是薇尔德族长的妹妹，其实很多事情之前已经有所预兆，我应该早些察觉到的。\n除此之外，王室别庄一场会面可以看出，伊利亚三位王室成员之间的关系远比我想象中的复杂许多，不过好在薇尔德已经同意与我们合作，一切都朝着我们所希望的方向发展，接下来，就要迎接十字路会战了。",
+    "text": "After forming an alliance with the King's Army, several things have happened. When Inanna and I arrived in Vlder, we realized that NonoWill is the sister of the chieftain. \nIn addition, at the meeting with Iria's royal family, I learned first-hand that the royal relationships are far more complex than I ever imagined. Fortunately, Vlder had agreed to make a pact with us. Everything is going better than we hoped. Now it's time to head to Crossroads Keep.",
     "first_selection": 0
   },
   {
@@ -164,7 +164,7 @@
     "m_sandbox_note_selections": [],
     "name": "王国军线-第一章： 第一次十字路口会战结束后",
     "editor_name": "王国军线-第一章： 第一次十字路口会战结束后",
-    "text": "十字路会战暂时告一段落了，但骑士同盟肯定不会就此善罢甘休，他们只是在等待增援，不久之后便会卷土重来。\n自从铃兰之剑加入王国军后，发生了太多事情，觐见王子，远赴薇尔德，庄园会面，再到这场大战……\n幸好我们是暂时的赢家，这一切也多亏了露西亚和薇尔德人的相助。接下来我们还需要继续招兵买马，邀请更多的盟友加入我们，只有这样，才能赢得最终的胜利。",
+    "text": "The battle of Crossroads Keep had finally come to an end, but that won't be the last of the Union's forces. Once they receive reinforcements, they will surely return. \nSince working with the King's Army, many events have transpired: the meeting with Dantalion, the journey to Vlder, the meeting at the royal manor, all that of which led to here. \nFortunately, thanks to the help of Luccia and the Vlderians, we made it. We must continue recruit more allies. Only then can we finally achieve victory.",
     "first_selection": 0
   },
   {
@@ -172,7 +172,7 @@
     "m_sandbox_note_selections": [],
     "name": "王国军线-第二章： 第二次十字路口会战前",
     "editor_name": "王国军线-第二章： 第二次十字路口会战前",
-    "text": "露西亚佣兵团同意与我们合作并且入驻了小镇，这个好消息大大鼓舞了团队的士气。令人意外的是旧贵族居然在此时发动了政变，幸好这场政变很快被镇压下来，米格尔和他的跟班也死在我们的手下。而彻查之后的证据居然直指法皇国，无论此事真相是如何，我们与法皇国是注定无法成为同伴了。\n而近期最令人欣喜的事情，是我再次见到拉维耶了，那个收留我，培养我的大姐头，相信很快她便会重归小镇，期待着我们再次并肩作战的那天。",
+    "text": "The Luccia Mercenary Group agreed to join forces with us and settled down in the town, which greatly boosted our morale. Surprisingly, the old aristocracies launched a coup at the time. Fortunately, it was quickly suppressed, with Miguel and his men defeated. The evidence found pointed to the Papal States. No matter what the truth is, we will not cooperate with them. \n The good news is that I saw Rawiyah again, who once took me in and trained me. I believe she will return to the town soon, and I'm looking forward to fighting alongside her.",
     "first_selection": 0
   },
   {
@@ -180,7 +180,7 @@
     "m_sandbox_note_selections": [],
     "name": "王国军线-第三章：第二次十字路口会战后（不歼灭骑士团）",
     "editor_name": "王国军线-第三章：第二次十字路口会战后（不歼灭骑士团）",
-    "text": "事情发展得太出乎意料了，尽管很艰难，但我们还是取得了第二次十字路会战的胜利。只是这胜利的代价，未免太过惨重了……\n薇尔德与露西亚相继被抛弃，曾经的盟友一个一个的牺牲在我们的面前，虽说战争无情，可我们却为了最终的胜利，选择牺牲他们……作为战胜的一方，我没有丝毫胜利的喜悦。\n战争结束后的和谈也十分不顺利，意外的消息接踵而至，原来浪涌城的悲剧，奥古斯特与第二王子鲁特菲就是始作俑者，我虽然早有预料，可当真相揭露的那一刻，还是久久无法回神。\n最终奥古斯特得到了他应有的惩罚，并没有因他牵连到骑士团众多骑士……接下来就是收拾伊利亚的残局了，希望能早日看到和平的曙光……",
+    "text": "Although it was a long and arduous battle, we were able to claim victory at the second battle of Crossroads Keep... but at a great cost. \nThe war was a merciless one with our allies sacrificed. Vlder and Luccia were left to fend for themselves, as our main forces pushed forward for the final victory. \nThe post war negotiations were not going as planned, and unexpected news come one after another. It turned out that Auguste and Prince Lutfi were the instigators of the Waverun City incident. Although I had anticipated it, I couldn't recover for a long time when it was finally revealed. \nIn the end, Auguste was punished accordingly, although The Union were not implicated... Next, we must clean up the aftermath, but... Luckily, I'm starting to see peace on the horizon.",
     "first_selection": 0
   },
   {
@@ -188,7 +188,7 @@
     "m_sandbox_note_selections": [],
     "name": "王国军线-第三章：第二次十字路口会战后（歼灭骑士团）",
     "editor_name": "王国军线-第三章：第二次十字路口会战后（歼灭骑士团）",
-    "text": "事情发展得太出乎意料了，尽管很艰难，但我们还是取得了第二次十字路会战的胜利。只是这胜利的代价，未免太过惨重了……\n薇尔德与露西亚相继被抛弃，曾经的盟友一个一个的牺牲在我们的面前，虽说战争无情，可我们却为了最终的胜利，选择牺牲他们……作为战胜的一方，我没有丝毫胜利的喜悦。战争结束后的和谈也十分不顺利，意外的消息接踵而至，原来浪涌城的悲剧，奥古斯特与第二王子鲁特菲就是始作俑者，我虽然早有预料，可当真相揭露的那一刻，还是久久无法回神。\n最终我们没有放过那些骑士们，当然也包括罪魁祸首奥古斯特……这样做是否太残忍了？我仍有犹疑，但眼下也只能如此。接下来就是收拾残局了，希望能早日看到和平的曙光……",
+    "text": "Although it was a long and arduous battle, we were able to claim victory at the second battle of Crossroads Keep... but at a great cost. \nThe war was a merciless one with our allies sacrificed. Vlder and Luccia were left to fend for themselves, as our main forces pushed forward for the final victory. \nThe post war negotiations were not going as planned, and unexpected news come one after another. It turned out that Auguste and Prince Lutfi were the instigators of the Waverun City incident. Although I had anticipated it, I couldn't recover for a long time when it was finally revealed. \nIn the end, Auguste and the Union were punished accordingly. I'm worried that we might've gone too far. But I was not left with many options. Next, we must clean up the aftermath, but... Luckily, I'm starting to see peace on the horizon.",
     "first_selection": 0
   },
   {
@@ -196,7 +196,7 @@
     "m_sandbox_note_selections": [],
     "name": "王国军线-第三章：反思诺诺薇儿事件",
     "editor_name": "王国军线-第三章：反思诺诺薇儿事件",
-    "text": "我还记得薇尔德舞团初来小镇时的样子，她们是那样美丽动人，而诺诺薇儿的歌声，是那样悠扬动听，令人难忘……\n不过几个月的时间，一切都变了……\n就像是看着鲜艳的花朵枯萎，却无能为力，而造就这一切的，不仅仅是战争，还有王国军，还有……我自己。\n她们不应该有这样的结果，到底是哪里出了问题……我又犯了怎样的错误？",
+    "text": "I still remember when the Vlder Dance Troupe first came to the town. They were so beautiful, and NonoWill's singing was so melodious and unforgettable...\nHowever, everything changed in a few months...\nIt feels like watching a bright flowers wither. There wasn't anything I could have done to have intervened. All this was because of the war, the King's Army, and myself. \nThey didn't deserve any of this. The guilt and the mistakes continued to swirl through my head. I could only think of what I could have done...",
     "first_selection": 0
   },
   {
@@ -204,7 +204,7 @@
     "m_sandbox_note_selections": [],
     "name": "矿坑城事件后笔记",
     "editor_name": "法皇国线-第一章：矿坑城事件后笔记",
-    "text": "我们彻底拔除了矿坑城的黑暗之光，解放了许多苦难中的人。矿坑城与小镇的人们都在欢庆这场胜利，但我知道，黑夜并没有彻底结束……\n握着小女孩那冰冷的手，我的内心早已被悲痛侵占……有多少人像她一样，在这场毫无人性的战争中失去了所有。有多少人背井离乡，忍受着漂泊之苦，又有多少人无路可走，被黑暗之光欺骗压榨，跌入无尽深渊。\n我绝不能再让这样的悲剧上演。萨曼莎想结束战争，想将光辉重新带回这个世界，这条路十分艰难，但与如今被黑夜与战乱笼罩的伊利亚相比，却是真正的希望。\n",
+    "text": "We eliminated the Darklight in the Mine Pit and liberated many suffering people. People in The Mine Pit and surrounding towns are celebrating our victory, but I know that the dark night isn't over...\nHolding the cold hands of a little girl, I felt the great weight of sorrow in my heart. Too many people have lost everything in this inhumane war. How many people have fled from their homes and were forced to wander, had no way out, or were deceived by the Darklight, only to fall into the endless abyss?\nI will never allow such a tragedy to happen again. Samantha wants to end the war and bring the light back to the world. The road ahead is difficult, but compared to the situation in Iria, which is shrouded in darkness and war, there is true hope.",
     "first_selection": 0
   },
   {
@@ -212,15 +212,15 @@
     "m_sandbox_note_selections": [],
     "name": "刺杀结束后笔记",
     "editor_name": "法皇国线-第二章：刺杀结束后笔记",
-    "text": "直到现在，我依然会怀疑这场刺杀行动是否正确。我甚至也不清楚，这种怀疑究竟是来自我内心的软弱，抑或是来自对我们所行之路的担忧。但无论如何，我的双手已经沾上了鲜血。\n萨曼莎安慰了我，我能看出她心中的愧疚。但我也清楚，她这一路走来所要承受的痛苦远甚于我。这就是她的光辉之道，为了他人美好的未来，全然不顾自己。\n为了伊利亚的和平，为了不再发生那些悲剧，我必须战胜内心的彷徨，这条路曲折而漫长。所幸，我有萨曼莎这样一个彼此信任，可以并肩而行的战友。",
+    "text": "I still doubt whether the assassination is correct until now. I don't even know if the doubt comes from my inner weakness or from the concerns about the way we are going. Anyway, my hands have been stained with blood.\nSamantha comforted me. I could feel the guilt in her heart. But I know that she has suffered far more than me along the way. This is her path to the Radiant, disregarding herself and doing all for the better future of others.\nFor the peace of Iria and for all tragedies, I must overcome my inner uncertainty, although this road is winding and long. Fortunately, I have Samantha, and we are comrades who trust each other and can fight side by side.",
     "first_selection": 0
   },
   {
     "id": 28,
-    "m_sandbox_note_selections": [],
+    "m_sandbox_note_selections": [14],
     "name": "和谈失败后的笔记",
     "editor_name": "法皇国线-第三章：和谈失败后的笔记",
-    "text": "法皇国与伊利亚联手击溃了骑士团，我与萨曼莎也作为法皇国的使者与伊利亚展开和谈，这是我们离伊利亚的和平最近的时刻。\n尽管塔埃尔提醒过我，伊利亚与法皇国之间构怨颇深，但我却依然不愿错过这个机会，为了我们曾经的努力，为了死去的拉维耶，为了更多战乱中的人民。",
+    "text": "The Papal States and Iria worked together to defeat the Order. Samantha and I were made envoys of the Papal States and sent to negotiate with Iria. Peace finally seemed to be on the horizon. \nTaair warned me about the deep wounds between the two nations, but I still felt hopeful that we might achieve a lasting peace. If there is any meaning to be found in Rawiyah's death or any of those whom we've lost, I must do this.",
     "first_selection": 14
   },
   {
@@ -228,7 +228,7 @@
     "m_sandbox_note_selections": [],
     "name": "邦国王子死后笔记",
     "editor_name": "法皇国线-第四章-表线：邦国王子死后笔记",
-    "text": "局势逐渐恶化到令人窒息的程度。法皇国一直在镇压浪涌城与矿坑城民众的反抗，无数平民在我们面前流血牺牲，但我们却无法从根源上阻止这一切。\n甚至……我们还不得不去保护费尔南多这个禽兽。最终，艾达也与我们决裂，而我的好友塔埃尔也被牵连遇害……\n萨曼莎内心始终处于痛苦与无奈之中，我只能尽力安慰她。有时我在想，如果当初我与萨曼莎做出另外一些选择，结局会不会有所不同，但这些只是我自己的幻想罢了。\n回头望去，这条路满是泥泞与血污。有太多的哀号与咒骂在我们耳后徘徊，许多重要的人离我们而去……\n我和萨曼莎都清楚，我们的双手早已染满罪孽。但……这都是我和她共同的决定，与其耽溺于懊悔之中，我们必须做更多事情来补救，为了伊利亚的和平，为了那些早已离我们而去的人……",
+    "text": "The situation has gradually become suffocating. The Papal States has been suppressing the resistance of civilians in Waverun City and the Mine Pit. Countless civilians were killed, but we couldn't stop it.\nWe even had to protect the heinous Fernando. In the end, Edda broke with us, and my friend Taair was implicated and killed...\nSamantha is in pain and helplessness, and what can I do is to comfort her. Sometimes I wonder if the result would change if Samantha and I had made other choices. But it's just my imagination.\nLooking back, this road is covered in mud and blood. Many people wail and curse behind us, while many important people have left us...\nSamantha and I know that our hands are stained with sin. But... this is a decision we made together. For the peace of Iria and for those who have left us, instead of indulging in regret, we must do more to remedy the situation...",
     "first_selection": 0
   },
   {
@@ -236,7 +236,7 @@
     "m_sandbox_note_selections": [],
     "name": "新计划笔记",
     "editor_name": "法皇国线-第四章-里线：新计划笔记",
-    "text": "我们做的每一个决定就像行走于悬崖之缘，稍有不慎就会滑落深谷。但，萨曼莎最终做了正确的选择。这一次，我们坚定地站在反抗法皇国的民众这边，同时处决了罪大恶极的费尔南多，解救了那些差点被送进大庇护所这座炼狱里的孩子们，也看清了法皇国的真面目。\n在做这一个个关键抉择的过程中，萨曼莎也慢慢挣脱了束缚自身的枷锁，她的眼神不再迷茫、忧虑与痛苦，反而变得前所未有地坚定。光辉之道不该是牺牲铸就的道路，它本来就应当如此纯粹、明亮、推崇善良与关爱世人。与萨曼莎相处这么久，我相信，这才是萨曼莎应当走的路，也是萨曼莎真正的本心。\n但预示着新的希望的道路，前方却有着万重高山般的阻拦。要反抗法皇国这样的庞然大国，我们的力量还是太小了……但我们不会放弃，在有限的条件下，我们最终拟定了一个计划，并且已经找到了坚定的盟友。这个计划谈不上周密，甚至更像是孤注一掷，但我相信着这个计划的每一个执行者：塔埃尔、艾达、伊南娜。\n最后，我只能向光辉祈愿，希望我们的计划一切顺利……",
+    "text": "Every time we make a decision, it feels like we were walking on the edge of a cliff, and any carelessness would lead us to the deep valley. Finally, Samantha made the right choices. This time, we stood by the people who resisted the Papal States. We executed the heinous Fernando, rescued the children who were to be sent to the Grand Sanctuary, and also saw the true face of the Papal States.\nSamantha gradually broke away from the self-inflicted shackles when she made these critical choices. Her eyes are no longer confused, worried and painful, but become much firmer than ever before. The path to the light should not be built by sacrifice. It should be pure and bright, advocating kindness and care for the world. I have known Samantha for a long time, and I believe that this is the path she should take, and it is also her true intention.\nHowever, the path that heralds new hope is full of difficulties. We're too weak to resist the huge Papal States... But we will never give up. Despite the limited conditions, we have finally drawn up a plan and found the allies with a firm will. This plan is not careful and even seems desperate, but I believe in every executor of this plan: Taair, Edda, and Inanna.\nFinally, I can only pray to the Radiant that all will go well with our plan...",
     "first_selection": 0
   },
   {
@@ -244,7 +244,7 @@
     "m_sandbox_note_selections": [],
     "name": "王国军线-第四章：关于演讲失败的笔记",
     "editor_name": "王国军线-第四章：关于演讲失败的笔记",
-    "text": "在矿坑城，我们最终没能获得足够多的支持者……\n回想过去的种种，对于获得足够多的支持，最为关键的地方应该是——在迪塔利奥试图让矿坑城断粮时，在与骑士团的决战中我们回援同盟时，以及在凑齐赎买薇尔德人的赎金时……我们或许可以处理地更加妥善。\n如今，境况已不可挽回，但我们还可以和仍在支持我们的人一起，努力面对未来。",
+    "text": "We failed to gather enough supporters in the Mine Pit...\nLooking back, there were key moments that perhaps we could've handled better. When Dantalion attempted cutting off the Mine Pit's food supply, when we helped fight back the Order, and when we dealt with the ransoms for the Vlderians... Maybe we could've done more. \nWhat's done is done. All we can do is use the support we do have, and keep moving forward.",
     "first_selection": 0
   },
   {
@@ -252,7 +252,7 @@
     "m_sandbox_note_selections": [],
     "name": "埃拉曼线-第一章：笔记P2",
     "editor_name": "埃拉曼线-第一章：笔记P2",
-    "text": "自我在地牢中醒来，到如今在铃兰小镇安身立命，已经过去了几个月。\n拉维耶将铃兰之剑佣兵团托付给我，而我却阴差阳错地当上了铃兰商会的会长。\n既然都是为了铃兰小镇，我想这应该没有什么问题。\n这段时间里，我们在浪涌城碰见的那个女孩加入了我们。她向我披露了她的真实身份是伊利亚的王女，对此我颇感意外，但却似乎在情理之中。\n处理薇尔德舞团的案件之时，我没想到自己会把夏可露露逼得那么紧，现在回想起来我欠她一个道歉。\n这段时间最令我有成就感的，就是协助艾达他们一起将废弃的矿坑城重新翻新，容纳了更多难民人口。\n矿坑城有足够大的地方，但是土地却很贫瘠，粮食补给品更加依赖外界。或许当什么时候他们有了自己的核心产业，与外部进行合理的交换，矿坑城的人们才能算是真正地拥有了新家吧。\n为了弥补黑暗之光造成的损失，我得动身前往拉比亚绿洲了。\n虽然是一个陌生又遥远的地方，但我却对那里会发生的事情充满期待。",
+    "text": "It's been a few months since I woke up in the dungeon and settled in the Town of Convallaria.\nRawiyah entrusted me with the Sword of Convallaria Mercenary Group, and I somehow became the president of the Convallaria Trading Post.\nSince it's all for the Town of Convallaria, I think there should be no problem.\nDuring this time, the girl we met in Waverun City joined us. She revealed to me that she was the princess of Iria, which was surprising but seemed reasonable.\nWhen dealing with the Vlderian Dance Troupe case, I didn't expect to push SchackLulu so hard. Thinking of it, I owe her an apology.\nThe most fulfilling thing during this time was helping Edda and others renovate the abandoned Mine Pit, accommodating more refugees.\nThe Mine Pit is large enough, but the land is barren, and food supplies rely more on the outside world. Perhaps when they have their own core industry and conduct reasonable exchanges with the outside world, the people of the Mine Pit can truly have a new home.\nTo make up for the loss caused by Darklight, I have to go to Rabi'a Oasis.\nAlthough it's a strange and distant place, I'm full of anticipation for what will happen there.",
     "first_selection": 0
   },
   {
@@ -260,7 +260,7 @@
     "m_sandbox_note_selections": [],
     "name": "埃拉曼线-第二章：笔记P3",
     "editor_name": "埃拉曼线-第二章：笔记P3",
-    "text": "没想到我送往拉比亚绿洲的货物，居然会是活生生的人类。\n我不希望自己被捆着双手双脚，塞入密不透风的囚车中，所以我选择了帮助他们逃走。\n虽然这一行为造成了一些后续影响，但似乎并不都是坏事。总之，我并不后悔这个决定。\n拉比亚绿洲确实是一个新奇的地方，我感觉自己似乎永远也逛不完，但根据阿坎贝曾经的说法，哈沙拉姆的大巴扎比这里的集市还要大得多得多，实在是难以令人想象。\n经历了一些风波之后，我终于再次见到了阿坎贝，令我感到迷茫的是，他居然使用金钱就轻松解决了黑暗之光的危机。黑暗之光到底是怎样的组织？金钱的作用到底还能有多么强大？\n在各自与先遣骑士团和王国军交往后，我发现了商会与佣兵团的待遇不同，双方皆不会关心你的立场究竟站在哪一边，这似乎是一个默认的规则。\n新的伙伴在继续增加，这个有着神奇耳朵的新朋友，正在为我们的长期征战的压抑气氛带来改变。\n当初我想，举办一次盛大的铃兰节，把大家都撮合到一块，一定是个非常好的想法。\n但事实证明，这是一个非常天真的想法。",
+    "text": "I didn't expect the goods I sent to Rabi'a Oasis to be living humans.\nI don't want to be tied up and stuffed into a sealed prison car, so I chose to help them escape.\nAlthough it had some subsequent impacts, not all of them seem bad. Anyway, I don't regret this decision.\nRabi'a Oasis is indeed a novel place, and I feel like I can never finish exploring it. However, according to what Acambe once said, the Grand Bazaar in Hashalaram is much bigger than the market here, which is hard to imagine.\nAfter some turbulence, I finally met Acambe again. What baffles me is that he easily solved the crisis of Darklight with money. What kind of organization is Darklight? How powerful can money be?\nAfter each had dealings with the Advance Order and King's Army, I found that the treatment of the Trading Post and the Mercenary Group was different. Neither side cares about where you stand, which seems to be a default rule.\nNew partners are continuing to increase, and this new friend with magical ears is changing the oppressive atmosphere of our long-term campaign.\nI thought that holding a grand Convallaria Festival and bringing everyone together would be a great idea.\nBut it turns out, this was a very naive thought.",
     "first_selection": 0
   },
   {
@@ -268,7 +268,7 @@
     "m_sandbox_note_selections": [],
     "name": "埃拉曼线-第三章：笔记P4",
     "editor_name": "埃拉曼线-第三章：笔记P4",
-    "text": "多亏霍玛找到了关键证据，使得铃兰小镇洗清了嫌疑。\n原本我对鲁特菲有着不错的好感，但是他为了保全自己而牺牲我们的做法，使我非常失望。\n这段时间里，我和阿坎贝因为武器贸易的问题分道扬镳，各自经营。\n但我十分肯定，不会有任何一种和平是通过向战争的双方输送大量武器得到的。\n这段时间里我不停地帮助艾达和诺诺薇儿她们，最终，她们也共同成立了一个有力的新组织。\n我认为，这才是能够通往和平的一条有效路径。",
+    "text": "Thanks to Homa finding the crucial evidence, The Town of Convallaria was cleared of suspicion.\nI used to have a good impression of Lutfi, but his decision to sacrifice us to save himself greatly disappointed me.\nDuring this time, Acambe and I went our separate ways due to disagreements over weapon trading.\nBut I am certain that no peace can be achieved by supplying plenty of weapons to both sides of a war.\nI've been constantly helping Edda and NonoWill, and eventually, they jointly established a powerful new organization.\nI believe this is an effective path to peace.",
     "first_selection": 0
   },
   {
@@ -276,7 +276,7 @@
     "m_sandbox_note_selections": [],
     "name": "埃拉曼线-第四章：笔记P5",
     "editor_name": "埃拉曼线-第四章：笔记P5",
-    "text": "终于，我们的付出有了质的变化，先遣骑士团和伊利亚王国军同意停火了。\n但这也让阿坎贝的武器生意遭受了重创，当我刚开始担心他的时候，我却踩中了他过去留下的陷阱，这样两败俱伤的局面难道就这样不可避免吗？\n霍玛在这样的时刻无私地挺身而出，主动替我扛下了罪责，对此我十分愧疚。更甚至，她在得到阿坎贝遭遇不测的消息时，也是第一时间通知我，即便她与阿坎贝似乎相处得不太愉快。\n而当我们救出阿坎贝后，没想到武器贸易的背后，居然还能牵扯出阿坎贝和蔻蔻娜父母之间的过往恩怨。\n他们之间的故事，让我感受到了人们关系的复杂，不知道阿坎贝未来还会怎样面对蔻蔻娜。\n但这一切恩恩怨怨，都被十字路要塞的中立化所冲淡，感谢聪慧勇敢的伊南娜所做出的努力。\n如今大部分伊利亚人都沉浸在和平即将到来的喜悦之中，但在这之前，还有一些最后的困难需要面对。",
+    "text": "Finally, our efforts have brought about substantial changes, with the Advance Order and King's Army agreeing to a ceasefire.\nBut this also dealt severe damage to Acambe's weapon business. Just when I started to worry about him, I fell into a trap he had set in the past. Is this lose-lose situation inevitable?\nHoma selflessly stepped forward at this moment, actively taking the blame for me, for which I feel very guilty. Moreover, she was the first to notify me when she heard about Acambe's misfortune, even though she and Acambe didn't seem to get along well.\nWhen we rescued Acambe, we didn't expect that the weapon trade would involve past grievances between Acambe and Cocoa's parents.\nTheir story made me realize the complexity of human relationships. I don't know how Acambe will face Cocoa in the future.\nBut all these grudges have been diluted by the neutrality of the Crossroads Keep, thanks to the efforts of the wise and brave Inanna.\nNow most of the Irians are immersed in the joy of the impending peace, but before that, there are some final difficulties to face.",
     "first_selection": 0
   }
 ]

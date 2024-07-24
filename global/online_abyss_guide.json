@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "m_online_abyss_guide_quests": [],
-    "name": "浅层1",
+    "m_online_abyss_guide_quests": [1, 2, 3],
+    "name": "Shallow Level 1",
     "prev_guide_id": 0,
     "battle_field_group_id": 1,
     "difficulty_level": 40,
@@ -14,8 +14,8 @@
   },
   {
     "id": 2,
-    "m_online_abyss_guide_quests": [],
-    "name": "浅层2",
+    "m_online_abyss_guide_quests": [4, 5, 6],
+    "name": "Shallow Level 2",
     "prev_guide_id": 1,
     "battle_field_group_id": 2,
     "difficulty_level": 45,
@@ -27,8 +27,8 @@
   },
   {
     "id": 3,
-    "m_online_abyss_guide_quests": [],
-    "name": "浅层3",
+    "m_online_abyss_guide_quests": [7, 8, 9],
+    "name": "Shallow Level 3",
     "prev_guide_id": 2,
     "battle_field_group_id": 3,
     "difficulty_level": 50,
@@ -40,8 +40,8 @@
   },
   {
     "id": 4,
-    "m_online_abyss_guide_quests": [],
-    "name": "浅层4",
+    "m_online_abyss_guide_quests": [10, 11, 12],
+    "name": "Shallow Level 4",
     "prev_guide_id": 3,
     "battle_field_group_id": 4,
     "difficulty_level": 55,

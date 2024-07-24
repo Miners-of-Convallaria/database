@@ -2,7 +2,7 @@
   {
     "id": 1,
     "idcapital_npc": 1,
-    "name": "酒店老板",
+    "name": "Tavern owner",
     "editor_name": "酒店老板",
     "unit_model_id": 66,
     "palette": "HplayerGodfatherMset01_palette",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "idcapital_npc": 2,
-    "name": "铁匠",
+    "name": "Blacksmith",
     "editor_name": "铁匠",
     "unit_model_id": 43,
     "palette": "militaryBerserkerMset02_palette",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "idcapital_npc": 3,
-    "name": "训练场教官",
+    "name": "Training Officer",
     "editor_name": "训练场教官",
     "unit_model_id": 20,
     "palette": "iriaFireWizzardF_palette",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "idcapital_npc": 4,
-    "name": "医生",
+    "name": "Doctor",
     "editor_name": "医生",
     "unit_model_id": 91,
     "palette": "iriaPriestFset02_palette",
@@ -38,7 +38,7 @@
   {
     "id": 9,
     "idcapital_npc": 9,
-    "name": "助手",
+    "name": "Assistant",
     "editor_name": "助手",
     "unit_model_id": 28,
     "palette": "papalPriestF_palette",
@@ -47,7 +47,7 @@
   {
     "id": 10,
     "idcapital_npc": 10,
-    "name": "小姐姐",
+    "name": "Young Lady",
     "editor_name": "小姐姐",
     "unit_model_id": 56,
     "palette": "npc05_palette",
@@ -56,7 +56,7 @@
   {
     "id": 11,
     "idcapital_npc": 11,
-    "name": "小女孩",
+    "name": "Little girl",
     "editor_name": "小女孩",
     "unit_model_id": 59,
     "palette": "npc08_palette",
@@ -65,7 +65,7 @@
   {
     "id": 12,
     "idcapital_npc": 12,
-    "name": "戴帽子的老妇人",
+    "name": "Granny with a Hat",
     "editor_name": "戴帽子老妇人",
     "unit_model_id": 58,
     "palette": "npc07_palette",
@@ -74,7 +74,7 @@
   {
     "id": 13,
     "idcapital_npc": 13,
-    "name": "老爷爷",
+    "name": "Gramp",
     "editor_name": "老爷爷",
     "unit_model_id": 57,
     "palette": "npc06_palette",
@@ -83,7 +83,7 @@
   {
     "id": 14,
     "idcapital_npc": 14,
-    "name": "伊利亚火法",
+    "name": "Iria Fire Conjurer",
     "editor_name": "伊利亚火法",
     "unit_model_id": 20,
     "palette": "iriaFireWizzardF_palette",
@@ -92,7 +92,7 @@
   {
     "id": 15,
     "idcapital_npc": 15,
-    "name": "麦莎",
+    "name": "Maitha",
     "editor_name": "麦莎",
     "unit_model_id": 36,
     "palette": "HplayerMercenarygirlFset01_palette",
@@ -101,7 +101,7 @@
   {
     "id": 16,
     "idcapital_npc": 16,
-    "name": "法卡尔",
+    "name": "Faycal",
     "editor_name": "法卡尔",
     "unit_model_id": 38,
     "palette": "HplayerMercenaryboyMset01_palette",
@@ -110,7 +110,7 @@
   {
     "id": 17,
     "idcapital_npc": 17,
-    "name": "商店组测试",
+    "name": "Shop Group Test",
     "editor_name": "商店组测试",
     "unit_model_id": 38,
     "palette": "HplayerMercenaryboyMset01_palette",
@@ -119,7 +119,7 @@
   {
     "id": 18,
     "idcapital_npc": 18,
-    "name": "商店测试",
+    "name": "Shop Test",
     "editor_name": "商店测试",
     "unit_model_id": 36,
     "palette": "HplayerMercenarygirlFset01_palette",
@@ -128,7 +128,7 @@
   {
     "id": 19,
     "idcapital_npc": 19,
-    "name": "拉维耶",
+    "name": "Rawiyah",
     "editor_name": "拉维耶",
     "unit_model_id": 41,
     "palette": "HplayerSisterlavierF_palette",
@@ -137,7 +137,7 @@
   {
     "id": 20,
     "idcapital_npc": 20,
-    "name": "阿莱克斯",
+    "name": "Alex",
     "editor_name": "阿莱克斯",
     "unit_model_id": 80,
     "palette": "HpapalSamanthaFset01_palette",
@@ -146,7 +146,7 @@
   {
     "id": 21,
     "idcapital_npc": 21,
-    "name": "难民小偷",
+    "name": "Refugee thief",
     "editor_name": "难民小偷",
     "unit_model_id": 37,
     "palette": "banditAssassinMset01_palette",
@@ -155,7 +155,7 @@
   {
     "id": 22,
     "idcapital_npc": 22,
-    "name": "镇民青年男",
+    "name": "Town Dude",
     "editor_name": "镇民青年男",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -164,7 +164,7 @@
   {
     "id": 23,
     "idcapital_npc": 23,
-    "name": "镇民戴帽大妈",
+    "name": "Town Matron with a Hat",
     "editor_name": "镇民戴帽大妈",
     "unit_model_id": 60,
     "palette": "npc10_palette",
@@ -173,7 +173,7 @@
   {
     "id": 24,
     "idcapital_npc": 24,
-    "name": "教皇国冰法",
+    "name": "Papal States Ice Conjurer",
     "editor_name": "教皇国冰法",
     "unit_model_id": 27,
     "palette": "papalIcewizzardF_palette",
@@ -182,7 +182,7 @@
   {
     "id": 25,
     "idcapital_npc": 25,
-    "name": "骑士团牧师02",
+    "name": "Order Priest 02",
     "editor_name": "骑士团牧师02",
     "unit_model_id": 24,
     "palette": "knightsPriestF_palette",
@@ -191,7 +191,7 @@
   {
     "id": 26,
     "idcapital_npc": 26,
-    "name": "伊利亚弓箭手01",
+    "name": "Iria Archer 01",
     "editor_name": "伊利亚弓箭手01",
     "unit_model_id": 19,
     "palette": "iriaArcherF_palette",
@@ -200,7 +200,7 @@
   {
     "id": 27,
     "idcapital_npc": 27,
-    "name": "雇佣兵（绿头巾）",
+    "name": "Mercenary (with a green headband)",
     "editor_name": "雇佣兵（绿头巾）",
     "unit_model_id": 6,
     "palette": "banditLancerM_palette",
@@ -209,7 +209,7 @@
   {
     "id": 28,
     "idcapital_npc": 28,
-    "name": "骑士团士兵01",
+    "name": "Order Soldier 01",
     "editor_name": "骑士团士兵01",
     "unit_model_id": 22,
     "palette": "knightsGuardianM_palette",
@@ -218,7 +218,7 @@
   {
     "id": 29,
     "idcapital_npc": 29,
-    "name": "薇尔德舞娘",
+    "name": "Vlderian Dancer",
     "editor_name": "薇尔德舞娘",
     "unit_model_id": 31,
     "palette": "HvilderDancerFset01_palette",
@@ -227,7 +227,7 @@
   {
     "id": 31,
     "idcapital_npc": 31,
-    "name": "薇尔德弓箭手",
+    "name": "Vlder Archer",
     "editor_name": "薇尔德弓箭手",
     "unit_model_id": 32,
     "palette": "vilderArcherF_palette",
@@ -236,7 +236,7 @@
   {
     "id": 32,
     "idcapital_npc": 32,
-    "name": "占位角色",
+    "name": "Placeholder character",
     "editor_name": "占位角色",
     "unit_model_id": 29,
     "palette": "",
@@ -245,7 +245,7 @@
   {
     "id": 33,
     "idcapital_npc": 33,
-    "name": "歌洛莉亚",
+    "name": "Gloria",
     "editor_name": "歌洛莉亚",
     "unit_model_id": 17,
     "palette": "HknightsPaladinFset01_palette",
@@ -254,7 +254,7 @@
   {
     "id": 34,
     "idcapital_npc": 34,
-    "name": "伊利亚剑盾兵01",
+    "name": "Irian Guard 01",
     "editor_name": "伊利亚剑盾兵01",
     "unit_model_id": 63,
     "palette": "iriaGuardianMset01_palette",
@@ -263,7 +263,7 @@
   {
     "id": 35,
     "idcapital_npc": 35,
-    "name": "骑士团士兵02",
+    "name": "Order Soldier 02",
     "editor_name": "骑士团士兵02",
     "unit_model_id": 22,
     "palette": "knightsGuardianM_palette",
@@ -272,7 +272,7 @@
   {
     "id": 36,
     "idcapital_npc": 36,
-    "name": "骑士团枪兵",
+    "name": "Pikeman of the Order",
     "editor_name": "骑士团枪兵",
     "unit_model_id": 23,
     "palette": "knightsLancerM_palette",
@@ -281,7 +281,7 @@
   {
     "id": 37,
     "idcapital_npc": 37,
-    "name": "修女",
+    "name": "Nun",
     "editor_name": "修女",
     "unit_model_id": 60,
     "palette": "npc10_palette",
@@ -290,7 +290,7 @@
   {
     "id": 38,
     "idcapital_npc": 38,
-    "name": "系统商店商人：阿莱克斯",
+    "name": "Merchant of System Shop: Alex",
     "editor_name": "系统商店商人：阿莱克斯",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -299,7 +299,7 @@
   {
     "id": 39,
     "idcapital_npc": 39,
-    "name": "鲁特菲殿下",
+    "name": "Prince Lutfi",
     "editor_name": "鲁特菲殿下",
     "unit_model_id": 52,
     "palette": "HiriaSprinceMset01_palette",
@@ -308,7 +308,7 @@
   {
     "id": 40,
     "idcapital_npc": 40,
-    "name": "三王女（村民装备）",
+    "name": "Lonesome Maiden",
     "editor_name": "三王女（村民装备）",
     "unit_model_id": 53,
     "palette": "HiriaLadymunaFset02_palette",
@@ -317,7 +317,7 @@
   {
     "id": 42,
     "idcapital_npc": 42,
-    "name": "无法者弩兵",
+    "name": "Outlaw Crossbowman",
     "editor_name": "无法者弩兵",
     "unit_model_id": 4,
     "palette": "banditCrossbowM2_palette",
@@ -326,7 +326,7 @@
   {
     "id": 43,
     "idcapital_npc": 43,
-    "name": "索菲亚",
+    "name": "Safiyyah",
     "editor_name": "索菲亚",
     "unit_model_id": 42,
     "palette": "HpoliceLeaderF_palette",
@@ -335,7 +335,7 @@
   {
     "id": 44,
     "idcapital_npc": 44,
-    "name": "秘密警察剑士",
+    "name": "Secret Service Swordsman",
     "editor_name": "秘密警察剑士",
     "unit_model_id": 40,
     "palette": "policeLongswordMset01_palette",
@@ -344,7 +344,7 @@
   {
     "id": 45,
     "idcapital_npc": 45,
-    "name": "奥古斯特",
+    "name": "Auguste",
     "editor_name": "奥古斯特",
     "unit_model_id": 47,
     "palette": "HknightsCaptainMset01_palette",
@@ -353,7 +353,7 @@
   {
     "id": 48,
     "idcapital_npc": 48,
-    "name": "剧情占位角色（黑暗之光冰法）",
+    "name": "Darklight Ice Conjurer",
     "editor_name": "剧情占位角色（黑暗之光冰法）",
     "unit_model_id": 27,
     "palette": "darklightIcewizzardMset01_palette",
@@ -362,7 +362,7 @@
   {
     "id": 49,
     "idcapital_npc": 49,
-    "name": "教皇国牧师",
+    "name": "Papal States Priest",
     "editor_name": "教皇国牧师",
     "unit_model_id": 28,
     "palette": "papalPriestF_palette",
@@ -371,7 +371,7 @@
   {
     "id": 50,
     "idcapital_npc": 50,
-    "name": "酒吧老板（演出用）",
+    "name": "Bar owner (for performances)",
     "editor_name": "酒吧老板（演出用）",
     "unit_model_id": 66,
     "palette": "HplayerGodfatherMset01_palette",
@@ -380,7 +380,7 @@
   {
     "id": 51,
     "idcapital_npc": 51,
-    "name": "鲍勃",
+    "name": "Bob",
     "editor_name": "次级对话01-鲍勃",
     "unit_model_id": 57,
     "palette": "npc06_palette",
@@ -389,7 +389,7 @@
   {
     "id": 52,
     "idcapital_npc": 52,
-    "name": "利亚姆",
+    "name": "Liam",
     "editor_name": "次级对话02-利亚姆",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -398,7 +398,7 @@
   {
     "id": 53,
     "idcapital_npc": 53,
-    "name": "诺埃尔",
+    "name": "Noelle",
     "editor_name": "次级对话03-诺埃尔",
     "unit_model_id": 67,
     "palette": "npc12_palette",
@@ -407,7 +407,7 @@
   {
     "id": 54,
     "idcapital_npc": 54,
-    "name": "蒂姆",
+    "name": "Tim",
     "editor_name": "次级对话04-蒂姆",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -416,7 +416,7 @@
   {
     "id": 55,
     "idcapital_npc": 55,
-    "name": "难民青年",
+    "name": "Refugee",
     "editor_name": "次级对话05-难民青年",
     "unit_model_id": 43,
     "palette": "militaryBerserkerM_palette",
@@ -425,7 +425,7 @@
   {
     "id": 56,
     "idcapital_npc": 56,
-    "name": "杰克",
+    "name": "Jack",
     "editor_name": "次级对话06-杰克",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -434,7 +434,7 @@
   {
     "id": 57,
     "idcapital_npc": 57,
-    "name": "汤米",
+    "name": "Tommy",
     "editor_name": "次级对话07-汤米",
     "unit_model_id": 48,
     "palette": "militaryGuardianM_palette",
@@ -443,7 +443,7 @@
   {
     "id": 58,
     "idcapital_npc": 58,
-    "name": "小孩",
+    "name": "Kid",
     "editor_name": "次级对话08-小孩",
     "unit_model_id": 59,
     "palette": "npc08_palette",
@@ -452,7 +452,7 @@
   {
     "id": 60,
     "idcapital_npc": 60,
-    "name": "骑士山姆",
+    "name": "Knight Sam",
     "editor_name": "次级对话10-骑士山姆",
     "unit_model_id": 23,
     "palette": "knightsLancerM_palette",
@@ -461,7 +461,7 @@
   {
     "id": 61,
     "idcapital_npc": 61,
-    "name": "骑士托德",
+    "name": "Knight Todd",
     "editor_name": "次级对话11-骑士托德",
     "unit_model_id": 23,
     "palette": "knightsLancerM_palette",
@@ -470,7 +470,7 @@
   {
     "id": 62,
     "idcapital_npc": 62,
-    "name": "骑士贡特拉尔",
+    "name": "Knight Gunther",
     "editor_name": "次级对话12-骑士贡特拉尔",
     "unit_model_id": 23,
     "palette": "knightsLancerM_palette",
@@ -479,7 +479,7 @@
   {
     "id": 63,
     "idcapital_npc": 63,
-    "name": "骑士克莱德",
+    "name": "Knight Kleid",
     "editor_name": "次级对话13-骑士克莱德",
     "unit_model_id": 23,
     "palette": "knightsLancerM_palette",
@@ -488,7 +488,7 @@
   {
     "id": 64,
     "idcapital_npc": 64,
-    "name": "吉姆",
+    "name": "Jim",
     "editor_name": "次级对话14-吉姆",
     "unit_model_id": 48,
     "palette": "militaryGuardianM_palette",
@@ -497,7 +497,7 @@
   {
     "id": 65,
     "idcapital_npc": 65,
-    "name": "拉尔夫",
+    "name": "Ralph",
     "editor_name": "次级对话15-拉尔夫",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -506,7 +506,7 @@
   {
     "id": 66,
     "idcapital_npc": 66,
-    "name": "霍利",
+    "name": "Holly",
     "editor_name": "次级对话16-霍利",
     "unit_model_id": 48,
     "palette": "militaryGuardianM_palette",
@@ -515,7 +515,7 @@
   {
     "id": 67,
     "idcapital_npc": 67,
-    "name": "尼克",
+    "name": "Nick",
     "editor_name": "次级对话17-尼克",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -524,7 +524,7 @@
   {
     "id": 68,
     "idcapital_npc": 68,
-    "name": "神秘人",
+    "name": "You-Know-Who",
     "editor_name": "神秘人（训练事件用NPC)",
     "unit_model_id": 27,
     "palette": "papalIcewizzardF_palette",
@@ -533,7 +533,7 @@
   {
     "id": 70,
     "idcapital_npc": 70,
-    "name": "记者拉尔",
+    "name": "Reporter Raul",
     "editor_name": "记者拉尔",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -542,7 +542,7 @@
   {
     "id": 71,
     "idcapital_npc": 71,
-    "name": "泰登",
+    "name": "Teadon",
     "editor_name": "泰登",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -560,7 +560,7 @@
   {
     "id": 75,
     "idcapital_npc": 75,
-    "name": "超卷级IPAD精",
+    "name": "Super IPAD",
     "editor_name": "超卷级IPAD精",
     "unit_model_id": 52,
     "palette": "HiriaSprinceMset01_palette",
@@ -596,7 +596,7 @@
   {
     "id": 79,
     "idcapital_npc": 81,
-    "name": "王国军长官皮克兰",
+    "name": "King's Army Commander Picklan",
     "editor_name": "",
     "unit_model_id": 63,
     "palette": "iriaGuardianMset01_palette",
@@ -605,7 +605,7 @@
   {
     "id": 80,
     "idcapital_npc": 82,
-    "name": "测试NPC（小百合用）",
+    "name": "Test NPC (for Little Lily)",
     "editor_name": "测试NPC（小百合用）",
     "unit_model_id": 42,
     "palette": "HpoliceLeaderF_palette",
@@ -614,7 +614,7 @@
   {
     "id": 81,
     "idcapital_npc": 84,
-    "name": "白头盔",
+    "name": "White Helmet",
     "editor_name": "白头盔",
     "unit_model_id": 22,
     "palette": "knightsGuardianM_palette",
@@ -623,7 +623,7 @@
   {
     "id": 82,
     "idcapital_npc": 83,
-    "name": "萨曼莎",
+    "name": "Samantha",
     "editor_name": "萨曼莎",
     "unit_model_id": 80,
     "palette": "HpapalSamanthaFset01_palette",
@@ -632,7 +632,7 @@
   {
     "id": 83,
     "idcapital_npc": 85,
-    "name": "老骑士里斯坦夫",
+    "name": "Old Knight Christophe",
     "editor_name": "老骑士里斯坦夫",
     "unit_model_id": 22,
     "palette": "knightsGuardianM_palette",
@@ -641,7 +641,7 @@
   {
     "id": 84,
     "idcapital_npc": 86,
-    "name": "女骑士克莱尔",
+    "name": "Lady Knight Clair",
     "editor_name": "女骑士克莱尔",
     "unit_model_id": 24,
     "palette": "knightsPriestF_palette",
@@ -650,7 +650,7 @@
   {
     "id": 85,
     "idcapital_npc": 59,
-    "name": "小孩的父亲",
+    "name": "Kid's Father",
     "editor_name": "小孩的父亲",
     "unit_model_id": 67,
     "palette": "npc12_palette",
@@ -659,7 +659,7 @@
   {
     "id": 86,
     "idcapital_npc": 87,
-    "name": "王国军士兵",
+    "name": "King's Army Soldier",
     "editor_name": "王国军士兵",
     "unit_model_id": 63,
     "palette": "iriaGuardianMset01_palette",
@@ -668,7 +668,7 @@
   {
     "id": 87,
     "idcapital_npc": 88,
-    "name": "泰登·阿尔弗雷德·伊格纳提伍兹",
+    "name": "Teadon Alfred Ignatius",
     "editor_name": "泰登",
     "unit_model_id": 84,
     "palette": "HknightsOldknightMset01_palette",
@@ -677,7 +677,7 @@
   {
     "id": 91,
     "idcapital_npc": 82,
-    "name": "测试NPC2（小百合用）",
+    "name": "Test NPC 2 (for Little Lily)",
     "editor_name": "测试NPC2（小百合用）",
     "unit_model_id": 28,
     "palette": "papalPriestF_palette",
@@ -686,7 +686,7 @@
   {
     "id": 92,
     "idcapital_npc": 90,
-    "name": "贝拉（伊利亚火法）",
+    "name": "Beryl (Iria Fire Conjurer)",
     "editor_name": "贝拉（伊利亚火法）",
     "unit_model_id": 20,
     "palette": "iriaFireWizzardF_palette",
@@ -695,7 +695,7 @@
   {
     "id": 93,
     "idcapital_npc": 91,
-    "name": "暴民巨斧兵",
+    "name": "Mob Axman",
     "editor_name": "暴民巨斧兵",
     "unit_model_id": 43,
     "palette": "militaryBerserkerM_palette",
@@ -704,7 +704,7 @@
   {
     "id": 94,
     "idcapital_npc": 92,
-    "name": "暴民剑盾兵",
+    "name": "Mob Guard",
     "editor_name": "暴民剑盾兵",
     "unit_model_id": 48,
     "palette": "militaryGuardianM_palette",
@@ -713,7 +713,7 @@
   {
     "id": 96,
     "idcapital_npc": 93,
-    "name": "斯科",
+    "name": "Scot",
     "editor_name": "斯科",
     "unit_model_id": 37,
     "palette": "mercenaryAssassinM_palette",
@@ -722,7 +722,7 @@
   {
     "id": 97,
     "idcapital_npc": 94,
-    "name": "暴民掷弹手",
+    "name": "Rioter Grenadier",
     "editor_name": "暴民掷弹手",
     "unit_model_id": 8,
     "palette": "darklightBomberM_palette",
@@ -731,7 +731,7 @@
   {
     "id": 100,
     "idcapital_npc": 96,
-    "name": "雇佣兵刺客",
+    "name": "Recruited Assassin",
     "editor_name": "雇佣兵刺客",
     "unit_model_id": 37,
     "palette": "mercenaryAssassinMset01_palette",
@@ -740,7 +740,7 @@
   {
     "id": 102,
     "idcapital_npc": 98,
-    "name": "难民爆破手",
+    "name": "Refugee Sapper",
     "editor_name": "难民爆破手",
     "unit_model_id": 49,
     "palette": "militaryBomberM_palette",
@@ -749,7 +749,7 @@
   {
     "id": 103,
     "idcapital_npc": 99,
-    "name": "黑暗之光火法",
+    "name": "Darklight Fire Conjurer",
     "editor_name": "黑暗之光火法",
     "unit_model_id": 27,
     "palette": "darklightFirewizzardFset01_palette",
@@ -758,7 +758,7 @@
   {
     "id": 104,
     "idcapital_npc": 100,
-    "name": "雇佣兵弓兵",
+    "name": "Mercenary Archer",
     "editor_name": "雇佣兵弓兵",
     "unit_model_id": 64,
     "palette": "mercenaryArcherMset01_palette",
@@ -767,7 +767,7 @@
   {
     "id": 105,
     "idcapital_npc": 101,
-    "name": "教皇国弩兵",
+    "name": "Papal States Crossbowman",
     "editor_name": "教皇国弩兵",
     "unit_model_id": 26,
     "palette": "papalCrossbowM_palette",
@@ -776,7 +776,7 @@
   {
     "id": 107,
     "idcapital_npc": 30,
-    "name": "薇尔德刺客",
+    "name": "Vlder Assassin",
     "editor_name": "薇尔德刺客",
     "unit_model_id": 30,
     "palette": "vilderAssassinM_palette",
@@ -785,7 +785,7 @@
   {
     "id": 110,
     "idcapital_npc": 102,
-    "name": "测试0001",
+    "name": "Test 0001",
     "editor_name": "测试0001",
     "unit_model_id": 30,
     "palette": "vilderAssassinM_palette",
@@ -794,7 +794,7 @@
   {
     "id": 111,
     "idcapital_npc": 103,
-    "name": "定制瘸腿商人",
+    "name": "Customized Crippled Merchant",
     "editor_name": "定制瘸腿商人",
     "unit_model_id": 92,
     "palette": "npc16_palette",
@@ -803,7 +803,7 @@
   {
     "id": 113,
     "idcapital_npc": 104,
-    "name": "平民05（镇民少女）",
+    "name": "Civilian 05 (Town maiden)",
     "editor_name": "平民05（镇民少女）",
     "unit_model_id": 56,
     "palette": "npc05_palette",
@@ -812,7 +812,7 @@
   {
     "id": 114,
     "idcapital_npc": 105,
-    "name": "平民06（镇民老大爷）",
+    "name": "Civilian 06 (Town grandpa)",
     "editor_name": "平民06（镇民老大爷）",
     "unit_model_id": 57,
     "palette": "npc06_palette",
@@ -821,7 +821,7 @@
   {
     "id": 115,
     "idcapital_npc": 106,
-    "name": "平民07（镇民大妈）",
+    "name": "Civilian 07 (Town aunt)",
     "editor_name": "平民07（镇民大妈）",
     "unit_model_id": 58,
     "palette": "npc07_palette",
@@ -830,7 +830,7 @@
   {
     "id": 116,
     "idcapital_npc": 107,
-    "name": "平民08（黄毛小孩）",
+    "name": "Civilian 08 (Kid with yellow hair)",
     "editor_name": "平民08（黄毛小孩）",
     "unit_model_id": 59,
     "palette": "npc08_palette",
@@ -839,7 +839,7 @@
   {
     "id": 117,
     "idcapital_npc": 108,
-    "name": "平民09（黑毛小孩）",
+    "name": "Civilian 09 (Kid with black hair)",
     "editor_name": "平民09（黑毛小孩）",
     "unit_model_id": 101,
     "palette": "npc09_palette",
@@ -848,7 +848,7 @@
   {
     "id": 118,
     "idcapital_npc": 109,
-    "name": "平民010（普通修女）",
+    "name": "Civilian 010 (Ordinary nun)",
     "editor_name": "平民010（普通修女）",
     "unit_model_id": 60,
     "palette": "npc10_palette",
@@ -857,7 +857,7 @@
   {
     "id": 119,
     "idcapital_npc": 110,
-    "name": "平民011（绿衣普通青年）",
+    "name": "Civilian 011 (Ordinary youth in green)",
     "editor_name": "平民011（绿衣普通青年）",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -866,7 +866,7 @@
   {
     "id": 120,
     "idcapital_npc": 111,
-    "name": "平民013（绿衣贵族）",
+    "name": "Civilian 013 (Nobleman in green)",
     "editor_name": "平民013（绿衣贵族）",
     "unit_model_id": 85,
     "palette": "npc13_palette",
@@ -875,7 +875,7 @@
   {
     "id": 121,
     "idcapital_npc": 112,
-    "name": "平民012（黑衣普通青年）",
+    "name": "Civilian 012 (Ordinary youth in black)",
     "editor_name": "平民012（黑衣普通青年）",
     "unit_model_id": 67,
     "palette": "npc12_palette",
@@ -884,7 +884,7 @@
   {
     "id": 122,
     "idcapital_npc": 113,
-    "name": "平民014（黄毛贵族）",
+    "name": "Civilian 014 (Nobleman with yellow hair)",
     "editor_name": "平民014（黄毛贵族）",
     "unit_model_id": 86,
     "palette": "npc14_palette",
@@ -893,7 +893,7 @@
   {
     "id": 123,
     "idcapital_npc": 114,
-    "name": "平民015（中分贵族））",
+    "name": "Civilian 015 (Nobility with Parted Hair)",
     "editor_name": "平民015（中分贵族）",
     "unit_model_id": 87,
     "palette": "npc15_palette",
@@ -902,7 +902,7 @@
   {
     "id": 124,
     "idcapital_npc": 115,
-    "name": "平民016（瘸腿商人）",
+    "name": "Civilian 016 (Lame merchant)",
     "editor_name": "平民016（瘸腿商人）",
     "unit_model_id": 92,
     "palette": "npc16_palette",
@@ -911,7 +911,7 @@
   {
     "id": 125,
     "idcapital_npc": 116,
-    "name": "拉维耶之墓",
+    "name": "Rawiyah's Grave",
     "editor_name": "拉维耶之墓",
     "unit_model_id": 99,
     "palette": "SwordBurial_palette",
@@ -920,7 +920,7 @@
   {
     "id": 126,
     "idcapital_npc": 117,
-    "name": "骑士团士兵03",
+    "name": "Order Soldier 03",
     "editor_name": "骑士团士兵03",
     "unit_model_id": 22,
     "palette": "knightsGuardianM_palette",
@@ -929,7 +929,7 @@
   {
     "id": 127,
     "idcapital_npc": 118,
-    "name": "马格努斯",
+    "name": "Magnus",
     "editor_name": "马格努斯",
     "unit_model_id": 89,
     "palette": "HiriaCommanderMset01_palette",
@@ -938,7 +938,7 @@
   {
     "id": 128,
     "idcapital_npc": 119,
-    "name": "无法者弩兵",
+    "name": "Outlaw Crossbowman",
     "editor_name": "无法者弩兵",
     "unit_model_id": 4,
     "palette": "banditCrossbowM2_palette",
@@ -947,7 +947,7 @@
   {
     "id": 130,
     "idcapital_npc": 120,
-    "name": "自由军爆破手",
+    "name": "Waverun Legion Sapper",
     "editor_name": "自由军爆破手",
     "unit_model_id": 49,
     "palette": "militaryBomberM_palette",
@@ -956,7 +956,7 @@
   {
     "id": 131,
     "idcapital_npc": 122,
-    "name": "骑士团商人（骑士团剑盾兵）",
+    "name": "The Order Merchant (Order Guard)",
     "editor_name": "骑士团商人（骑士团剑盾兵）",
     "unit_model_id": 22,
     "palette": "knightsGuardianM_palette",
@@ -965,7 +965,7 @@
   {
     "id": 133,
     "idcapital_npc": 123,
-    "name": "铁匠铺商人",
+    "name": "Forge merchant",
     "editor_name": "铁匠铺商人（定制瘸腿商人）",
     "unit_model_id": 92,
     "palette": "npc16_palette",
@@ -974,7 +974,7 @@
   {
     "id": 134,
     "idcapital_npc": 124,
-    "name": "训练达人",
+    "name": "Training expert",
     "editor_name": "训练达人",
     "unit_model_id": 85,
     "palette": "npc13_palette",
@@ -983,7 +983,7 @@
   {
     "id": 135,
     "idcapital_npc": 125,
-    "name": "神秘建筑师",
+    "name": "Mystery architect",
     "editor_name": "神秘建筑师",
     "unit_model_id": 86,
     "palette": "npc14_palette",
@@ -992,7 +992,7 @@
   {
     "id": 137,
     "idcapital_npc": 127,
-    "name": "莉莉薇儿",
+    "name": "LilyWill",
     "editor_name": "莉莉薇儿",
     "unit_model_id": 107,
     "palette": "HvilderSisterchiefFset01_palette",
@@ -1001,7 +1001,7 @@
   {
     "id": 139,
     "idcapital_npc": 95,
-    "name": "萨曼莎修女",
+    "name": "Nun Samantha",
     "editor_name": "萨曼莎修女",
     "unit_model_id": 104,
     "palette": "HpapalSamanthaFset02_palette",
@@ -1010,7 +1010,7 @@
   {
     "id": 140,
     "idcapital_npc": 128,
-    "name": "诺诺薇儿",
+    "name": "NonoWill",
     "editor_name": "诺诺薇儿",
     "unit_model_id": 108,
     "palette": "HvilderSistersingerFset01_palette",
@@ -1019,7 +1019,7 @@
   {
     "id": 141,
     "idcapital_npc": 129,
-    "name": "演出用贝拉（小魔女）",
+    "name": "Beryl (Little Sorceress) for performances",
     "editor_name": "演出用贝拉（小魔女）",
     "unit_model_id": 105,
     "palette": "HplayerLittlewitchFset01_palette",
@@ -1028,7 +1028,7 @@
   {
     "id": 142,
     "idcapital_npc": 130,
-    "name": "骑士团巨斧兵01",
+    "name": "Order Axman 01",
     "editor_name": "骑士团巨斧兵01",
     "unit_model_id": 21,
     "palette": "knightsBerserkerM_palette",
@@ -1037,7 +1037,7 @@
   {
     "id": 143,
     "idcapital_npc": 110,
-    "name": "圣诞老人色NPC11",
+    "name": "Santa Claus Color NPC 11",
     "editor_name": "圣诞老人色NPC11",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -1046,7 +1046,7 @@
   {
     "id": 144,
     "idcapital_npc": 110,
-    "name": "平民011（圣诞普通青年）",
+    "name": "Civilian 011 (Xmas Common Youth)",
     "editor_name": "平民011（圣诞普通青年）",
     "unit_model_id": 67,
     "palette": "npc11_palette",
@@ -1055,7 +1055,7 @@
   {
     "id": 145,
     "idcapital_npc": 110,
-    "name": "平民011（黑衣状态）",
+    "name": "Civilian 011 (In Black)",
     "editor_name": "平民011（黑衣状态）",
     "unit_model_id": 67,
     "palette": "npc12_palette",
@@ -1064,7 +1064,7 @@
   {
     "id": 146,
     "idcapital_npc": 131,
-    "name": "测试NPC11",
+    "name": "Test NPC 11",
     "editor_name": "测试NPC11",
     "unit_model_id": 67,
     "palette": "npc12_palette",
@@ -1082,7 +1082,7 @@
   {
     "id": 148,
     "idcapital_npc": 133,
-    "name": "迪塔利奥",
+    "name": "Dantalion",
     "editor_name": "大王子",
     "unit_model_id": 106,
     "palette": "HiriaFprinceMset01_palette",
@@ -1091,7 +1091,7 @@
   {
     "id": 150,
     "idcapital_npc": 134,
-    "name": "拉维耶剑冢",
+    "name": "Rawiyah's sword tomb",
     "editor_name": "拉维耶剑冢",
     "unit_model_id": 99,
     "palette": "SwordBurial_palette",
@@ -1100,7 +1100,7 @@
   {
     "id": 151,
     "idcapital_npc": 135,
-    "name": "拉维耶剑冢",
+    "name": "Rawiyah's sword tomb",
     "editor_name": "拉维耶剑冢",
     "unit_model_id": 99,
     "palette": "SwordBurial_palette",
@@ -1109,7 +1109,7 @@
   {
     "id": 152,
     "idcapital_npc": 136,
-    "name": "秘密警察弩刺",
+    "name": "Secret Service Crossbow Assassin",
     "editor_name": "秘密警察弩刺",
     "unit_model_id": 46,
     "palette": "policeNightwalkerMset01_palette",
@@ -1118,7 +1118,7 @@
   {
     "id": 153,
     "idcapital_npc": 137,
-    "name": "艾达",
+    "name": "Edda",
     "editor_name": "艾达",
     "unit_model_id": 139,
     "palette": "HplayerLeaderadaFset01_palette",
@@ -1127,7 +1127,7 @@
   {
     "id": 154,
     "idcapital_npc": 40,
-    "name": "三王女（公主装备）",
+    "name": "Princess (Princess Outfit)",
     "editor_name": "三王女（公主装备）",
     "unit_model_id": 144,
     "palette": "HiriaLadymunaFset03_palette",
@@ -1136,7 +1136,7 @@
   {
     "id": 155,
     "idcapital_npc": 139,
-    "name": "演出用阿列克谢",
+    "name": "Alexei for performances",
     "editor_name": "演出用阿列克谢",
     "unit_model_id": 117,
     "palette": "HluciaYoungcolonelMset01_palette",
@@ -1145,7 +1145,7 @@
   {
     "id": 156,
     "idcapital_npc": 140,
-    "name": "泽维尔",
+    "name": "Xavier",
     "editor_name": "泽维尔",
     "unit_model_id": 90,
     "palette": "HiriaYoungcolonelMset01_palette",
@@ -1154,7 +1154,7 @@
   {
     "id": 157,
     "idcapital_npc": 97,
-    "name": "雇佣兵长枪兵",
+    "name": "Mercenary Pikeman",
     "editor_name": "雇佣兵长枪兵",
     "unit_model_id": 79,
     "palette": "mercenaryLancerMset01_palette",
@@ -1163,7 +1163,7 @@
   {
     "id": 158,
     "idcapital_npc": 141,
-    "name": "闹事的商人（NPC19)",
+    "name": "Trouble-making merchant (NPC 19)",
     "editor_name": "闹事的商人（NPC19)",
     "unit_model_id": 123,
     "palette": "npc19_palette",
@@ -1172,7 +1172,7 @@
   {
     "id": 159,
     "idcapital_npc": 141,
-    "name": "闹事的商人（NPC20)",
+    "name": "Troublemaker Merchant (NPC 20)",
     "editor_name": "闹事的商人（NPC20)",
     "unit_model_id": 123,
     "palette": "npc20_palette",
@@ -1181,7 +1181,7 @@
   {
     "id": 160,
     "idcapital_npc": 126,
-    "name": "伊奇（灰狼）",
+    "name": "Iggy (Gray wolf)",
     "editor_name": "伊奇（灰狼）",
     "unit_model_id": 142,
     "palette": "HvilderGraywolfMset01_palette",
@@ -1190,7 +1190,7 @@
   {
     "id": 161,
     "idcapital_npc": 142,
-    "name": "小魔女的背包",
+    "name": "Sorceress's backpack",
     "editor_name": "小魔女的背包",
     "unit_model_id": 145,
     "palette": "zlittlewitchbag_palette",
@@ -1199,7 +1199,7 @@
   {
     "id": 162,
     "idcapital_npc": 143,
-    "name": "贝拉",
+    "name": "Beryl",
     "editor_name": "贝拉",
     "unit_model_id": 105,
     "palette": "HplayerLittlewitchFset01_palette",
@@ -1208,7 +1208,7 @@
   {
     "id": 163,
     "idcapital_npc": 144,
-    "name": "（废弃）诺诺薇尔",
+    "name": "NonoWill",
     "editor_name": "（废弃）诺诺薇尔",
     "unit_model_id": 108,
     "palette": "HvilderSistersingerFset01_palette",
@@ -1217,7 +1217,7 @@
   {
     "id": 164,
     "idcapital_npc": 145,
-    "name": "演出用银狼",
+    "name": "Silver wolf for performances",
     "editor_name": "演出用银狼",
     "unit_model_id": 174,
     "palette": "HluciaSilverwolfFset01_palette",
@@ -1226,7 +1226,7 @@
   {
     "id": 165,
     "idcapital_npc": 146,
-    "name": "阿坎贝",
+    "name": "Acambe",
     "editor_name": "阿坎贝",
     "unit_model_id": 152,
     "palette": "HsolomonBusinessmanMset01_palette",
@@ -1235,7 +1235,7 @@
   {
     "id": 166,
     "idcapital_npc": 147,
-    "name": "黑道商人（NPC26）",
+    "name": "Mob Merchant (NPC 26)",
     "editor_name": "黑道商人（NPC26）",
     "unit_model_id": 127,
     "palette": "npc26_palette",
@@ -1244,7 +1244,7 @@
   {
     "id": 167,
     "idcapital_npc": 148,
-    "name": "异域商人（NPC29）",
+    "name": "Exotic Merchant (NPC 29)",
     "editor_name": "异域商人（NPC29）",
     "unit_model_id": 143,
     "palette": "npc29_palette",
@@ -1253,7 +1253,7 @@
   {
     "id": 168,
     "idcapital_npc": 149,
-    "name": "骑士团枪骑士（首领级）",
+    "name": "Lancer of the Order (Leader)",
     "editor_name": "骑士团枪骑士（首领级）",
     "unit_model_id": 153,
     "palette": "knightsLancerM2set01_palette",
@@ -1262,7 +1262,7 @@
   {
     "id": 169,
     "idcapital_npc": 150,
-    "name": "骑士团巨斧兵02",
+    "name": "Order Axman 02",
     "editor_name": "骑士团巨斧兵02",
     "unit_model_id": 21,
     "palette": "knightsBerserkerM_palette",
@@ -1271,7 +1271,7 @@
   {
     "id": 170,
     "idcapital_npc": 151,
-    "name": "骑士团牧师01",
+    "name": "Order Priest 01",
     "editor_name": "骑士团牧师01",
     "unit_model_id": 24,
     "palette": "knightsPriestF_palette",
@@ -1280,7 +1280,7 @@
   {
     "id": 171,
     "idcapital_npc": 152,
-    "name": "伊利亚弓箭手02",
+    "name": "Iria archer 02",
     "editor_name": "伊利亚弓箭手02",
     "unit_model_id": 19,
     "palette": "iriaArcherF_palette",
@@ -1289,7 +1289,7 @@
   {
     "id": 172,
     "idcapital_npc": 153,
-    "name": "伊利亚长枪兵01",
+    "name": "Irian Pikeman 01",
     "editor_name": "伊利亚长枪兵01",
     "unit_model_id": 50,
     "palette": "iriaLancerMset01_palette",
@@ -1298,7 +1298,7 @@
   {
     "id": 173,
     "idcapital_npc": 154,
-    "name": "伊利亚牧师01（首领级）",
+    "name": "Iria priest 01 (Leader)",
     "editor_name": "伊利亚牧师01（首领级）",
     "unit_model_id": 140,
     "palette": "iriaDoctorFset01_palette",
@@ -1307,7 +1307,7 @@
   {
     "id": 174,
     "idcapital_npc": 155,
-    "name": "佣兵之家女佣",
+    "name": "Maidservant of the Haven",
     "editor_name": "佣兵之家女佣",
     "unit_model_id": 91,
     "palette": "iriaPriestFset01_palette",
@@ -1316,7 +1316,7 @@
   {
     "id": 175,
     "idcapital_npc": 156,
-    "name": "教皇国长枪兵01（首领级）",
+    "name": "Papal Pikeman 01 (Leader)",
     "editor_name": "教皇国长枪兵01（首领级）",
     "unit_model_id": 141,
     "palette": "papalLancerMset01_palette",
@@ -1325,7 +1325,7 @@
   {
     "id": 176,
     "idcapital_npc": 157,
-    "name": "教皇国暗法（首领级）",
+    "name": "Dark Chaplain of the Papal States (Leader)",
     "editor_name": "教皇国暗法（首领级）",
     "unit_model_id": 151,
     "palette": "papalDarkwizzardFset01_palette",
@@ -1334,7 +1334,7 @@
   {
     "id": 177,
     "idcapital_npc": 155,
-    "name": "佣兵之家女佣2",
+    "name": "Mercenary Home Maid 2",
     "editor_name": "佣兵之家女佣2",
     "unit_model_id": 91,
     "palette": "iriaPriestFset02_palette",
@@ -1343,7 +1343,7 @@
   {
     "id": 178,
     "idcapital_npc": 158,
-    "name": "秘密继子",
+    "name": "Secret stepson",
     "editor_name": "秘密继子",
     "unit_model_id": 128,
     "palette": "npc27_palette",
@@ -1352,7 +1352,7 @@
   {
     "id": 179,
     "idcapital_npc": 159,
-    "name": "苏莱曼监视者",
+    "name": "Elaman spy",
     "editor_name": "苏莱曼监视者",
     "unit_model_id": 129,
     "palette": "npc28_palette",
@@ -1361,7 +1361,7 @@
   {
     "id": 180,
     "idcapital_npc": 160,
-    "name": "苏莱曼普通商人1",
+    "name": "Suleiman Common Merchant 1",
     "editor_name": "苏莱曼普通商人1",
     "unit_model_id": 143,
     "palette": "npc29_palette",
@@ -1370,7 +1370,7 @@
   {
     "id": 181,
     "idcapital_npc": 160,
-    "name": "苏莱曼普通商人2",
+    "name": "Suleiman Common Merchant 2",
     "editor_name": "苏莱曼普通商人2",
     "unit_model_id": 143,
     "palette": "npc30_palette",
@@ -1379,7 +1379,7 @@
   {
     "id": 182,
     "idcapital_npc": 161,
-    "name": "派普（商人）1",
+    "name": "Pipe (Merchant) 1",
     "editor_name": "派普（商人）1",
     "unit_model_id": 127,
     "palette": "npc26_palette",
@@ -1388,7 +1388,7 @@
   {
     "id": 183,
     "idcapital_npc": 161,
-    "name": "派普（商人）2",
+    "name": "Pipe (Merchant) 2",
     "editor_name": "派普（商人）2",
     "unit_model_id": 127,
     "palette": "npc26_palette",
@@ -1397,7 +1397,7 @@
   {
     "id": 184,
     "idcapital_npc": 162,
-    "name": "教皇国暗法（首领级）2",
+    "name": "Dark Chaplain of the Papal States (Leader) 2",
     "editor_name": "教皇国暗法（首领级）2",
     "unit_model_id": 151,
     "palette": "papalDarkwizzardFset01_palette",
@@ -1415,7 +1415,7 @@
   {
     "id": 186,
     "idcapital_npc": 164,
-    "name": "夏可露露（英雄舞娘）",
+    "name": "SchackLulu (Hero dancer)",
     "editor_name": "夏可露露（英雄舞娘）",
     "unit_model_id": 158,
     "palette": "HvilderDancerFset01_palette",
@@ -1424,7 +1424,7 @@
   {
     "id": 194,
     "idcapital_npc": 165,
-    "name": "次级对话：黑毛小孩NPC09",
+    "name": "Secondary dialogue: Kid with black hair NPC 09",
     "editor_name": "次级对话：黑毛小孩NPC09",
     "unit_model_id": 101,
     "palette": "npc09_palette",
@@ -1433,7 +1433,7 @@
   {
     "id": 195,
     "idcapital_npc": 166,
-    "name": "倒吊人双子（兄）",
+    "name": "The Hanged Men Siblings - Brother",
     "editor_name": "内尔伽勒",
     "unit_model_id": 165,
     "palette": "HpoliceTwinsMset01_palette",
@@ -1442,7 +1442,7 @@
   {
     "id": 196,
     "idcapital_npc": 167,
-    "name": "倒吊人双子（妹）",
+    "name": "The Hanged Men Siblings - Sister",
     "editor_name": "仑伽勒",
     "unit_model_id": 166,
     "palette": "HpoliceTwinsFset01_palette",
@@ -1451,7 +1451,7 @@
   {
     "id": 197,
     "idcapital_npc": 168,
-    "name": "演出用倒吊人双子（兄）内尔伽勒",
+    "name": "Nergal (The Hanged Men Siblings - Brother) in Performance",
     "editor_name": "演出用倒吊人双子（兄）内尔伽勒",
     "unit_model_id": 165,
     "palette": "HpoliceTwinsMset01_palette",
@@ -1460,7 +1460,7 @@
   {
     "id": 198,
     "idcapital_npc": 169,
-    "name": "演出用倒吊人双子（妹）仑伽勒",
+    "name": "Pigeon pair of the Hanged Men (Younger sister) Lengale for performances",
     "editor_name": "演出用倒吊人双子（妹）仑伽勒",
     "unit_model_id": 166,
     "palette": "HpoliceTwinsFset01_palette",
@@ -1469,7 +1469,7 @@
   {
     "id": 199,
     "idcapital_npc": 170,
-    "name": "次级对话用雇佣兵（刺客）",
+    "name": "Mercenary (Assassin) in Secondary Dialogue",
     "editor_name": "次级对话用雇佣兵（刺客）",
     "unit_model_id": 37,
     "palette": "mercenaryAssassinMset01_palette",
@@ -1478,7 +1478,7 @@
   {
     "id": 230,
     "idcapital_npc": 186,
-    "name": "次级对话用雇佣兵（雇佣兵剑盾兵）",
+    "name": "Mercenary (Mercenary Guard) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（雇佣兵剑盾兵）",
     "unit_model_id": 65,
     "palette": "mercenaryGuardianMset01_palette",
@@ -1487,7 +1487,7 @@
   {
     "id": 231,
     "idcapital_npc": 187,
-    "name": "次级对话用雇佣兵（雇佣兵巨斧兵）",
+    "name": "Mercenary (Mercenary Axeman) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（雇佣兵巨斧兵）",
     "unit_model_id": 71,
     "palette": "mercenaryBerserkerFset01_palette",
@@ -1496,7 +1496,7 @@
   {
     "id": 232,
     "idcapital_npc": 188,
-    "name": "次级对话用雇佣兵（雇佣兵弓兵）",
+    "name": "Mercenary (Mercenary archer) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（雇佣兵弓兵）",
     "unit_model_id": 64,
     "palette": "mercenaryArcherMset01_palette",
@@ -1505,7 +1505,7 @@
   {
     "id": 233,
     "idcapital_npc": 189,
-    "name": "次级对话用雇佣兵（精英火法）",
+    "name": "Mercenary (Elite Fire Conjurer) in Secondary Dialogue",
     "editor_name": "次级对话用雇佣兵（精英火法）",
     "unit_model_id": 20,
     "palette": "iriaFireWizzardF_palette",
@@ -1514,7 +1514,7 @@
   {
     "id": 234,
     "idcapital_npc": 190,
-    "name": "次级对话用雇佣兵（雇佣兵长枪兵）",
+    "name": "Mercenary (Mercenary Pikeman) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（雇佣兵长枪兵）",
     "unit_model_id": 79,
     "palette": "mercenaryLancerMset01_palette",
@@ -1523,7 +1523,7 @@
   {
     "id": 235,
     "idcapital_npc": 191,
-    "name": "次级对话用雇佣兵（无法者刺客）",
+    "name": "Mercenary (Outlaw assassin) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（无法者刺客）",
     "unit_model_id": 37,
     "palette": "banditAssassinMset01_palette",
@@ -1532,7 +1532,7 @@
   {
     "id": 236,
     "idcapital_npc": 192,
-    "name": "次级对话用雇佣兵（无法者剑盾兵）",
+    "name": "Mercenary (Outlaw Guard) in Secondary Dialogue",
     "editor_name": "次级对话用雇佣兵（无法者剑盾兵）",
     "unit_model_id": 5,
     "palette": "banditGuardianM_palette",
@@ -1541,7 +1541,7 @@
   {
     "id": 237,
     "idcapital_npc": 193,
-    "name": "次级对话用雇佣兵（无法者巨斧兵）",
+    "name": "Mercenary (Outlaw Axeman) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（无法者巨斧兵）",
     "unit_model_id": 3,
     "palette": "banditBerserkerFset01_palette",
@@ -1550,7 +1550,7 @@
   {
     "id": 238,
     "idcapital_npc": 194,
-    "name": "次级对话用雇佣兵（无法者弓兵）",
+    "name": "Mercenary (Outlaw archer) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（无法者弓兵）",
     "unit_model_id": 1,
     "palette": "banditArcherM3_palette",
@@ -1559,7 +1559,7 @@
   {
     "id": 239,
     "idcapital_npc": 195,
-    "name": "次级对话用雇佣兵（无法者弩兵）",
+    "name": "Mercenary (Outlaw crossbowman) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（无法者弩兵）",
     "unit_model_id": 4,
     "palette": "banditCrossbowM2_palette",
@@ -1568,7 +1568,7 @@
   {
     "id": 240,
     "idcapital_npc": 196,
-    "name": "次级对话用雇佣兵（无法者长枪兵）",
+    "name": "Mercenary (Outlaw Pikeman) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（无法者长枪兵）",
     "unit_model_id": 6,
     "palette": "banditLancerM_palette",
@@ -1577,7 +1577,7 @@
   {
     "id": 241,
     "idcapital_npc": 197,
-    "name": "次级对话用雇佣兵（民兵剑盾兵）",
+    "name": "Mercenary (Militia Guard) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（民兵剑盾兵）",
     "unit_model_id": 48,
     "palette": "militaryGuardianM_palette",
@@ -1586,7 +1586,7 @@
   {
     "id": 242,
     "idcapital_npc": 198,
-    "name": "次级对话用雇佣兵（民兵巨斧兵）",
+    "name": "Mercenary (Militia Axeman) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（民兵巨斧兵）",
     "unit_model_id": 43,
     "palette": "militaryBerserkerM_palette",
@@ -1595,7 +1595,7 @@
   {
     "id": 243,
     "idcapital_npc": 199,
-    "name": "次级对话用雇佣兵（民兵弩兵）",
+    "name": "Mercenary (Militia crossbowman) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（民兵弩兵）",
     "unit_model_id": 72,
     "palette": "militaryCrossbowMset01_palette",
@@ -1604,7 +1604,7 @@
   {
     "id": 244,
     "idcapital_npc": 200,
-    "name": "次级对话用雇佣兵（民兵爆破手）",
+    "name": "Mercenary (Militia Bomber) for secondary dialogues",
     "editor_name": "次级对话用雇佣兵（民兵爆破手）",
     "unit_model_id": 49,
     "palette": "militaryBomberM_palette",
@@ -1613,7 +1613,7 @@
   {
     "id": 245,
     "idcapital_npc": 201,
-    "name": "次级对话用阿列克谢",
+    "name": "Alexei for secondary dialogues",
     "editor_name": "次级对话用阿列克谢",
     "unit_model_id": 117,
     "palette": "HluciaYoungcolonelMset01_palette",
@@ -1622,7 +1622,7 @@
   {
     "id": 246,
     "idcapital_npc": 202,
-    "name": "次级对话用苏莱曼商人(棕头巾）",
+    "name": "Elaman merchant (with a brown headband) for secondary dialogues",
     "editor_name": "次级对话用苏莱曼商人(棕头巾）",
     "unit_model_id": 143,
     "palette": "npc29_palette",
@@ -1631,7 +1631,7 @@
   {
     "id": 247,
     "idcapital_npc": 203,
-    "name": "次级对话用苏莱曼商人(紫头巾）",
+    "name": "Elaman merchant (with a purple headband) for secondary dialogues",
     "editor_name": "次级对话用苏莱曼商人(紫头巾）",
     "unit_model_id": 143,
     "palette": "npc30_palette",
@@ -1640,7 +1640,7 @@
   {
     "id": 248,
     "idcapital_npc": 204,
-    "name": "级对话用伊利亚商人（绿衣)",
+    "name": "Secondary Dialogue Iria Merchant (In Green)",
     "editor_name": "级对话用伊利亚商人（绿衣)",
     "unit_model_id": 123,
     "palette": "npc20_palette",
@@ -1649,7 +1649,7 @@
   {
     "id": 249,
     "idcapital_npc": 205,
-    "name": "演出用伊利亚商人（棕衣）",
+    "name": "Iria Merchant (In Brown) in Performance",
     "editor_name": "演出用伊利亚商人（棕衣）",
     "unit_model_id": 123,
     "palette": "npc19_palette",
@@ -1658,7 +1658,7 @@
   {
     "id": 250,
     "idcapital_npc": 205,
-    "name": "演出用伊利亚商人（绿衣）",
+    "name": "Iria Merchant (In Green) in Performance",
     "editor_name": "演出用伊利亚商人（绿衣）",
     "unit_model_id": 123,
     "palette": "npc20_palette",
@@ -1667,7 +1667,7 @@
   {
     "id": 251,
     "idcapital_npc": 206,
-    "name": "演出用茉茉",
+    "name": "Momo for performances",
     "editor_name": "演出用茉茉",
     "unit_model_id": 162,
     "palette": "HvilderWitchFset01_palette",
@@ -1676,7 +1676,7 @@
   {
     "id": 252,
     "idcapital_npc": 207,
-    "name": "次级对话用茉茉",
+    "name": "Momo for secondary dialogues",
     "editor_name": "次级对话用茉茉",
     "unit_model_id": 162,
     "palette": "HvilderWitchFset01_palette",
@@ -1685,7 +1685,7 @@
   {
     "id": 253,
     "idcapital_npc": 208,
-    "name": "次级对话用银狼",
+    "name": "Silver wolf for secondary dialogues",
     "editor_name": "次级对话用银狼",
     "unit_model_id": 174,
     "palette": "HluciaSilverwolfFset01_palette",
@@ -1694,7 +1694,7 @@
   {
     "id": 254,
     "idcapital_npc": 209,
-    "name": "演出用费尔南多",
+    "name": "Fernando for performances",
     "editor_name": "演出用费尔南多",
     "unit_model_id": 112,
     "palette": "HdarklightFernandoMset01_palette",
@@ -1703,7 +1703,7 @@
   {
     "id": 255,
     "idcapital_npc": 210,
-    "name": "次级对话用费尔南多",
+    "name": "Fernando for secondary dialogues",
     "editor_name": "次级对话用费尔南多",
     "unit_model_id": 112,
     "palette": "HdarklightFernandoMset01_palette",
@@ -1712,7 +1712,7 @@
   {
     "id": 256,
     "idcapital_npc": 211,
-    "name": "演出用嘉西娅",
+    "name": "Garcia for performances",
     "editor_name": "演出用嘉西娅",
     "unit_model_id": 164,
     "palette": "HpapalJudgercFset01_palette",
@@ -1721,7 +1721,7 @@
   {
     "id": 257,
     "idcapital_npc": 212,
-    "name": "次级对话用嘉西娅",
+    "name": "Garcia for secondary dialogues",
     "editor_name": "次级对话用嘉西娅",
     "unit_model_id": 164,
     "palette": "HpapalJudgercFset01_palette",
@@ -1730,7 +1730,7 @@
   {
     "id": 258,
     "idcapital_npc": 213,
-    "name": "骑士团商人（骑士团剑盾兵）",
+    "name": "The Order Merchant (Order Guard)",
     "editor_name": "骑士团商人（骑士团剑盾兵）",
     "unit_model_id": 22,
     "palette": "knightsGuardianM_palette",
@@ -1739,7 +1739,7 @@
   {
     "id": 259,
     "idcapital_npc": 214,
-    "name": "王国军商人（伊利亚剑盾兵）",
+    "name": "King's Army Merchant (Irian Guard)",
     "editor_name": "王国军商人（伊利亚剑盾兵）",
     "unit_model_id": 63,
     "palette": "iriaGuardianMset01_palette",
@@ -1748,7 +1748,7 @@
   {
     "id": 260,
     "idcapital_npc": 215,
-    "name": "王国军商人（伊利亚剑盾兵）",
+    "name": "King's Army Merchant (Irian Guard)",
     "editor_name": "王国军商人（伊利亚剑盾兵）",
     "unit_model_id": 63,
     "palette": "iriaGuardianMset01_palette",
@@ -1757,7 +1757,7 @@
   {
     "id": 261,
     "idcapital_npc": 216,
-    "name": "小魔女商人",
+    "name": "Little Sorceress merchant",
     "editor_name": "小魔女商人",
     "unit_model_id": 105,
     "palette": "HplayerLittlewitchFset01_palette",
@@ -1766,7 +1766,7 @@
   {
     "id": 262,
     "idcapital_npc": 217,
-    "name": "次级对话用贝拉（小魔女）",
+    "name": "Beryl (Little Sorceress) for secondary dialogues",
     "editor_name": "次级对话用贝拉（小魔女）",
     "unit_model_id": 105,
     "palette": "HplayerLittlewitchFset01_palette",
@@ -1775,7 +1775,7 @@
   {
     "id": 263,
     "idcapital_npc": 218,
-    "name": "演出用薇尔德舞娘",
+    "name": "Vlderian dancer for performances",
     "editor_name": "演出用薇尔德舞娘",
     "unit_model_id": 31,
     "palette": "HvilderDancerFset01_palette",
@@ -1784,7 +1784,7 @@
   {
     "id": 264,
     "idcapital_npc": 219,
-    "name": "次级对话用薇尔德舞娘",
+    "name": "Vlderian dancer for secondary dialogues",
     "editor_name": "次级对话用薇尔德舞娘",
     "unit_model_id": 31,
     "palette": "HvilderDancerFset01_palette",
@@ -1793,7 +1793,7 @@
   {
     "id": 265,
     "idcapital_npc": 220,
-    "name": "演出用薇尔德弓箭手",
+    "name": "Vlder archer for performances",
     "editor_name": "演出用薇尔德弓箭手",
     "unit_model_id": 32,
     "palette": "vilderArcherF_palette",
@@ -1802,7 +1802,7 @@
   {
     "id": 266,
     "idcapital_npc": 221,
-    "name": "次级对话用薇尔弓箭手",
+    "name": "Vlder archer for secondary dialogues",
     "editor_name": "次级对话用薇尔弓箭手",
     "unit_model_id": 32,
     "palette": "vilderArcherF_palette",
@@ -1811,7 +1811,7 @@
   {
     "id": 267,
     "idcapital_npc": 222,
-    "name": "次级对话用伊利亚牧师（首领级）",
+    "name": "Iria priest (Leader) for secondary dialogues",
     "editor_name": "次级对话用伊利亚牧师（首领级）",
     "unit_model_id": 140,
     "palette": "iriaDoctorFset01_palette",
@@ -1820,7 +1820,7 @@
   {
     "id": 268,
     "idcapital_npc": 223,
-    "name": "演出用伊利亚牧师（首领级）",
+    "name": "Iria priest (Leader) for performances",
     "editor_name": "演出用伊利亚牧师（首领级）",
     "unit_model_id": 140,
     "palette": "iriaDoctorFset01_palette",
@@ -1829,7 +1829,7 @@
   {
     "id": 269,
     "idcapital_npc": 224,
-    "name": "演出用伊利亚枪兵",
+    "name": "Iria spearman for performances",
     "editor_name": "演出用伊利亚枪兵",
     "unit_model_id": 50,
     "palette": "iriaLancerMset01_palette",
@@ -1838,7 +1838,7 @@
   {
     "id": 270,
     "idcapital_npc": 225,
-    "name": "次级对话用伊利亚枪兵",
+    "name": "Iria spearman for secondary dialogues",
     "editor_name": "次级对话用伊利亚枪兵",
     "unit_model_id": 50,
     "palette": "iriaLancerMset01_palette",
@@ -1847,7 +1847,7 @@
   {
     "id": 271,
     "idcapital_npc": 226,
-    "name": "次级对话用伊利亚弓箭兵",
+    "name": "Iria archer for secondary dialogues",
     "editor_name": "次级对话用伊利亚弓箭兵",
     "unit_model_id": 19,
     "palette": "iriaArcherF_palette",
@@ -1856,7 +1856,7 @@
   {
     "id": 272,
     "idcapital_npc": 227,
-    "name": "演出用伊利亚弓箭兵",
+    "name": "Iria archer for performances",
     "editor_name": "演出用伊利亚弓箭兵",
     "unit_model_id": 19,
     "palette": "iriaArcherF_palette",
@@ -1865,7 +1865,7 @@
   {
     "id": 273,
     "idcapital_npc": 228,
-    "name": "演出用伊利亚剑盾兵",
+    "name": "Irian Guard for performances",
     "editor_name": "演出用伊利亚剑盾兵",
     "unit_model_id": 63,
     "palette": "iriaGuardianMset01_palette",
@@ -1874,7 +1874,7 @@
   {
     "id": 276,
     "idcapital_npc": 229,
-    "name": "次级对话用伊利亚弓剑盾兵",
+    "name": "Irian Guard for secondary dialogues",
     "editor_name": "次级对话用伊利亚弓剑盾兵",
     "unit_model_id": 63,
     "palette": "iriaGuardianMset01_palette",
@@ -1883,7 +1883,7 @@
   {
     "id": 277,
     "idcapital_npc": 230,
-    "name": "次级对话用伊利亚火法（首领级）",
+    "name": "Iria Fire Chaplain (Leader) for secondary dialogues",
     "editor_name": "次级对话用伊利亚火法（首领级）",
     "unit_model_id": 116,
     "palette": "iriaFireWizzardF2set01_palette",
@@ -1892,7 +1892,7 @@
   {
     "id": 278,
     "idcapital_npc": 231,
-    "name": "演出用伊利亚火法（首领级）",
+    "name": "Iria Fire Chaplain (Leader) for performances",
     "editor_name": "演出用伊利亚火法（首领级）",
     "unit_model_id": 116,
     "palette": "iriaFireWizzardF2set01_palette",
@@ -1901,7 +1901,7 @@
   {
     "id": 279,
     "idcapital_npc": 232,
-    "name": "演出用骑士团精英剑士B",
+    "name": "Order Swordsman B (Elite) in Performance",
     "editor_name": "演出用骑士团精英剑士B",
     "unit_model_id": 156,
     "palette": "knightsLongswordF2set01_palette",
@@ -1910,7 +1910,7 @@
   {
     "id": 280,
     "idcapital_npc": 233,
-    "name": "次级对话用骑士团精英剑士A",
+    "name": "Order Swordsman A (Elite) in Secondary Dialogue",
     "editor_name": "次级对话用骑士团精英剑士A",
     "unit_model_id": 177,
     "palette": "knightsLongswordFset01_palette",
@@ -1919,7 +1919,7 @@
   {
     "id": 281,
     "idcapital_npc": 234,
-    "name": "次级对话用骑士团精英剑士B",
+    "name": "Order Swordsman B (Elite) in Secondary Dialogue",
     "editor_name": "次级对话用骑士团精英剑士B",
     "unit_model_id": 156,
     "palette": "knightsLongswordF2set01_palette",
@@ -1928,7 +1928,7 @@
   {
     "id": 282,
     "idcapital_npc": 235,
-    "name": "演出用骑士团精英剑士A",
+    "name": "Order Swordsman A (Elite) in Performance",
     "editor_name": "演出用骑士团精英剑士A",
     "unit_model_id": 177,
     "palette": "knightsLongswordFset01_palette",
@@ -1937,7 +1937,7 @@
   {
     "id": 283,
     "idcapital_npc": 236,
-    "name": "演出用邦国王子塔埃尔",
+    "name": "Prince Taair for performances",
     "editor_name": "演出用邦国王子塔埃尔",
     "unit_model_id": 179,
     "palette": "HpapalPrinceMset01_palette",
@@ -1946,7 +1946,7 @@
   {
     "id": 284,
     "idcapital_npc": 237,
-    "name": "次级对话用邦国王子塔埃尔",
+    "name": "Prince Taair for secondary dialogues",
     "editor_name": "次级对话用邦国王子塔埃尔",
     "unit_model_id": 179,
     "palette": "HpapalPrinceMset01_palette",
@@ -1955,7 +1955,7 @@
   {
     "id": 285,
     "idcapital_npc": 238,
-    "name": "历史书",
+    "name": "History book",
     "editor_name": "历史书",
     "unit_model_id": 182,
     "palette": "zprincebook_palette",
@@ -1964,7 +1964,7 @@
   {
     "id": 286,
     "idcapital_npc": 239,
-    "name": "演出用科尔",
+    "name": "Col for performances",
     "editor_name": "演出用科尔",
     "unit_model_id": 16,
     "palette": "HbanditThemaskMset01_palette",
@@ -1973,7 +1973,7 @@
   {
     "id": 287,
     "idcapital_npc": 240,
-    "name": "次级对话用科尔",
+    "name": "Col for secondary dialogues",
     "editor_name": "次级对话用科尔",
     "unit_model_id": 16,
     "palette": "HbanditThemaskMset01_palette",
@@ -1982,7 +1982,7 @@
   {
     "id": 289,
     "idcapital_npc": 241,
-    "name": "次级对话用小屁孩A",
+    "name": "Spoiled brat A for secondary dialogues",
     "editor_name": "次级对话用小屁孩A",
     "unit_model_id": 191,
     "palette": "npc35_palette",
@@ -1991,7 +1991,7 @@
   {
     "id": 290,
     "idcapital_npc": 242,
-    "name": "次级对话用小屁孩B",
+    "name": "Spoiled brat B for secondary dialogues",
     "editor_name": "次级对话用小屁孩B",
     "unit_model_id": 192,
     "palette": "npc36_palette",
@@ -2000,7 +2000,7 @@
   {
     "id": 291,
     "idcapital_npc": 243,
-    "name": "次级对话用小屁孩C",
+    "name": "Spoiled brat C for secondary dialogues",
     "editor_name": "次级对话用小屁孩C",
     "unit_model_id": 193,
     "palette": "npc37_palette",
@@ -2009,7 +2009,7 @@
   {
     "id": 292,
     "idcapital_npc": 244,
-    "name": "演出用小屁孩C",
+    "name": "Spoiled brat C for performances",
     "editor_name": "演出用小屁孩C",
     "unit_model_id": 193,
     "palette": "npc37_palette",
@@ -2018,7 +2018,7 @@
   {
     "id": 293,
     "idcapital_npc": 245,
-    "name": "演出用小屁孩B",
+    "name": "Spoiled brat B for performances",
     "editor_name": "演出用小屁孩B",
     "unit_model_id": 192,
     "palette": "npc36_palette",
@@ -2027,7 +2027,7 @@
   {
     "id": 294,
     "idcapital_npc": 246,
-    "name": "演出用小屁孩A",
+    "name": "Spoiled brat A for performances",
     "editor_name": "演出用小屁孩A",
     "unit_model_id": 191,
     "palette": "npc35_palette",
@@ -2036,7 +2036,7 @@
   {
     "id": 295,
     "idcapital_npc": 247,
-    "name": "次级对话用伊南娜（公主）",
+    "name": "Inanna (Princess) used in a secondary dialogue",
     "editor_name": "次级对话用伊南娜（公主）",
     "unit_model_id": 144,
     "palette": "HiriaLadymunaFset03_palette",
@@ -2045,7 +2045,7 @@
   {
     "id": 296,
     "idcapital_npc": 248,
-    "name": "次级对话用伊南娜（难民）",
+    "name": "Inanna (Refugee) for secondary dialogues",
     "editor_name": "次级对话用伊南娜（难民）",
     "unit_model_id": 53,
     "palette": "HiriaLadymunaFset02_palette",
@@ -2054,7 +2054,7 @@
   {
     "id": 297,
     "idcapital_npc": 249,
-    "name": "枢机主教卡莉丝",
+    "name": "Cardinal Caris",
     "editor_name": "枢机主教卡莉丝",
     "unit_model_id": 195,
     "palette": "HpapalBishopFset01_palette",
@@ -2063,7 +2063,7 @@
   {
     "id": 298,
     "idcapital_npc": 250,
-    "name": "演出用枢机主教卡丽丝",
+    "name": "Bishop Caris for performances",
     "editor_name": "演出用枢机主教卡丽丝",
     "unit_model_id": 195,
     "palette": "HpapalBishopFset01_palette",
@@ -2072,7 +2072,7 @@
   {
     "id": 300,
     "idcapital_npc": 251,
-    "name": "演出用光辉卫士长列奥尼德",
+    "name": "Radiant Sergeant Leonide for performances",
     "editor_name": "演出用光辉卫士长列奥尼德",
     "unit_model_id": 184,
     "palette": "HpapalCommanderMset01_palette",
@@ -2081,7 +2081,7 @@
   {
     "id": 301,
     "idcapital_npc": 252,
-    "name": "教皇国剑盾兵",
+    "name": "Papal Guard",
     "editor_name": "教皇国剑盾兵",
     "unit_model_id": 173,
     "palette": "papalGuardianMset01_palette",
@@ -2090,7 +2090,7 @@
   {
     "id": 302,
     "idcapital_npc": 253,
-    "name": "教皇国弩刺",
+    "name": "Crossbowman of the Papal States",
     "editor_name": "教皇国弩刺",
     "unit_model_id": 172,
     "palette": "papalNightwalkerMset01_palette",
@@ -2099,7 +2099,7 @@
   {
     "id": 303,
     "idcapital_npc": 254,
-    "name": "教皇国投枪兵",
+    "name": "Papal Pikeman",
     "editor_name": "教皇国投枪兵",
     "unit_model_id": 118,
     "palette": "papalJavelinFset01_palette",
@@ -2108,7 +2108,7 @@
   {
     "id": 304,
     "idcapital_npc": 255,
-    "name": "教皇国魔战士",
+    "name": "Magical Soldier of the Papal States",
     "editor_name": "教皇国魔战士",
     "unit_model_id": 141,
     "palette": "papalLancerMset01_palette",
@@ -2117,7 +2117,7 @@
   {
     "id": 305,
     "idcapital_npc": 256,
-    "name": "次级对话用教皇国佣兵头子",
+    "name": "Mercenary leader of the Papal States for secondary dialogues",
     "editor_name": "次级对话用教皇国佣兵头子",
     "unit_model_id": 120,
     "palette": "HpapalMercenaryleaderMset01_palette",
@@ -2126,7 +2126,7 @@
   {
     "id": 306,
     "idcapital_npc": 257,
-    "name": "演出用教皇国佣兵头子",
+    "name": "Mercenary leader of the Papal States for performances",
     "editor_name": "演出用教皇国佣兵头子",
     "unit_model_id": 120,
     "palette": "HpapalMercenaryleaderMset01_palette",
@@ -2135,7 +2135,7 @@
   {
     "id": 307,
     "idcapital_npc": 258,
-    "name": "教皇国牧师",
+    "name": "Papal States Priest",
     "editor_name": "教皇国牧师",
     "unit_model_id": 28,
     "palette": "papalPriestF_palette",
@@ -2153,7 +2153,7 @@
   {
     "id": 309,
     "idcapital_npc": 260,
-    "name": "演出用黑暗之光冰法",
+    "name": "Ice Mage of Darklight in Performance",
     "editor_name": "演出用黑暗之光冰法",
     "unit_model_id": 201,
     "palette": "darklightIcewizzardMset01_palette",
@@ -2162,7 +2162,7 @@
   {
     "id": 310,
     "idcapital_npc": 261,
-    "name": "演出用伊利亚修女",
+    "name": "Iria Sister in Performance",
     "editor_name": "演出用伊利亚修女",
     "unit_model_id": 91,
     "palette": "iriaPriestFset01_palette",
@@ -2171,7 +2171,7 @@
   {
     "id": 311,
     "idcapital_npc": 262,
-    "name": "演出用黑暗之光暗法",
+    "name": "Dark Mage of Darklight in Performance",
     "editor_name": "演出用黑暗之光暗法",
     "unit_model_id": 10,
     "palette": "darklightDarkwizzardF_palette",
@@ -2180,7 +2180,7 @@
   {
     "id": 313,
     "idcapital_npc": 263,
-    "name": "次级对话用黑暗之光暗法",
+    "name": "Dark Mage of Darklight in Secondary Dialogue",
     "editor_name": "次级对话用黑暗之光暗法",
     "unit_model_id": 10,
     "palette": "darklightDarkwizzardF_palette",
@@ -2189,7 +2189,7 @@
   {
     "id": 314,
     "idcapital_npc": 264,
-    "name": "演出用黑暗之光火法",
+    "name": "Flame Mage of Darklight in Performance",
     "editor_name": "演出用黑暗之光火法",
     "unit_model_id": 201,
     "palette": "papalIcewizzardF_palette",
@@ -2198,7 +2198,7 @@
   {
     "id": 315,
     "idcapital_npc": 265,
-    "name": "次级对话用黑暗之光火法",
+    "name": "Flame Mage of Darklight in Secondary Dialogue",
     "editor_name": "次级对话用黑暗之光火法",
     "unit_model_id": 201,
     "palette": "papalIcewizzardF_palette",
@@ -2207,7 +2207,7 @@
   {
     "id": 316,
     "idcapital_npc": 266,
-    "name": "演出用雇佣兵精英巨斧兵",
+    "name": "Elite Mercenary Axeman in Performance",
     "editor_name": "演出用雇佣兵精英巨斧兵",
     "unit_model_id": 71,
     "palette": "mercenaryBerserkerFset01_palette",
@@ -2216,7 +2216,7 @@
   {
     "id": 317,
     "idcapital_npc": 267,
-    "name": "蔻蔻娜的日记本",
+    "name": "Cocoa's Diary",
     "editor_name": "蔻蔻娜的日记本",
     "unit_model_id": 213,
     "palette": "Cocoabook_palette",
@@ -2225,7 +2225,7 @@
   {
     "id": 318,
     "idcapital_npc": 268,
-    "name": "法皇国商人（法皇国士兵）",
+    "name": "Papal States Merchant (Papal States Soldier)",
     "editor_name": "法皇国商人（法皇国士兵）",
     "unit_model_id": 173,
     "palette": "papalGuardianMset01_palette",
@@ -2234,7 +2234,7 @@
   {
     "id": 319,
     "idcapital_npc": 269,
-    "name": "演出用科尔（正太装备）",
+    "name": "Col",
     "editor_name": "演出用科尔（正太装备）",
     "unit_model_id": 206,
     "palette": "HbanditThemaskMset02_palette",
@@ -2243,7 +2243,7 @@
   {
     "id": 320,
     "idcapital_npc": 270,
-    "name": "次级对话用科尔（正太装备）",
+    "name": "Col (Shota Outfit) in Secondary Dialogue",
     "editor_name": "次级对话用科尔（正太装备）",
     "unit_model_id": 206,
     "palette": "HbanditThemaskMset02_palette",
@@ -2252,7 +2252,7 @@
   {
     "id": 321,
     "idcapital_npc": 271,
-    "name": "次级对话用科尔（面具装备）",
+    "name": "Col (Mask) in Secondary Dialogue",
     "editor_name": "次级对话用科尔（面具装备）",
     "unit_model_id": 16,
     "palette": "HbanditThemaskMset01_palette",
@@ -2261,7 +2261,7 @@
   {
     "id": 322,
     "idcapital_npc": 272,
-    "name": "演出用科尔（面具装备）",
+    "name": "Col (Mask) in Performance",
     "editor_name": "演出用科尔（面具装备）",
     "unit_model_id": 16,
     "palette": "HbanditThemaskMset01_palette",
@@ -2270,7 +2270,7 @@
   {
     "id": 323,
     "idcapital_npc": 273,
-    "name": "演出用特兰奎洛",
+    "name": "Tranquillo in Performance",
     "editor_name": "演出用特兰奎洛",
     "unit_model_id": 204,
     "palette": "",
@@ -2279,7 +2279,7 @@
   {
     "id": 324,
     "idcapital_npc": 274,
-    "name": "演出用古兹曼",
+    "name": "Guzman in Performance",
     "editor_name": "演出用古兹曼",
     "unit_model_id": 93,
     "palette": "",
@@ -2288,7 +2288,7 @@
   {
     "id": 325,
     "idcapital_npc": 275,
-    "name": "次级对话用古兹曼",
+    "name": "Guzman in Secondary Dialogue",
     "editor_name": "次级对话用古兹曼",
     "unit_model_id": 93,
     "palette": "",
@@ -2297,7 +2297,7 @@
   {
     "id": 326,
     "idcapital_npc": 276,
-    "name": "演出用席梦娜",
+    "name": "Simona in Performance",
     "editor_name": "演出用席梦娜",
     "unit_model_id": 176,
     "palette": "",
@@ -2306,7 +2306,7 @@
   {
     "id": 327,
     "idcapital_npc": 277,
-    "name": "次级对话用席梦娜",
+    "name": "Simona in Secondary Dialogue",
     "editor_name": "次级对话用席梦娜",
     "unit_model_id": 176,
     "palette": "",
@@ -2315,7 +2315,7 @@
   {
     "id": 328,
     "idcapital_npc": 278,
-    "name": "演出用监视者",
+    "name": "Watcher in Performance",
     "editor_name": "演出用监视者",
     "unit_model_id": 129,
     "palette": "",
@@ -2324,7 +2324,7 @@
   {
     "id": 329,
     "idcapital_npc": 279,
-    "name": "次级对话用监视者",
+    "name": "Watcher in Secondary Dialogue",
     "editor_name": "次级对话用监视者",
     "unit_model_id": 129,
     "palette": "",
@@ -2333,7 +2333,7 @@
   {
     "id": 330,
     "idcapital_npc": 280,
-    "name": "演出用蔻蔻娜",
+    "name": "Cocoa in Performance",
     "editor_name": "演出用蔻蔻娜",
     "unit_model_id": 215,
     "palette": "",
@@ -2342,7 +2342,7 @@
   {
     "id": 331,
     "idcapital_npc": 281,
-    "name": "次级对话用蔻蔻娜",
+    "name": "Cocoa in Secondary Dialogue",
     "editor_name": "次级对话用蔻蔻娜",
     "unit_model_id": 215,
     "palette": "",
@@ -2351,7 +2351,7 @@
   {
     "id": 335,
     "idcapital_npc": 283,
-    "name": "次级对话用蔻蔻娜（背包装备）",
+    "name": "Cocoa (Backpack) in Secondary Dialogue",
     "editor_name": "次级对话用蔻蔻娜（背包装备）",
     "unit_model_id": 214,
     "palette": "",
@@ -2360,7 +2360,7 @@
   {
     "id": 336,
     "idcapital_npc": 282,
-    "name": "演出用蔻蔻娜（背包装备）",
+    "name": "Cocoa (Backpack) in Performance",
     "editor_name": "演出用蔻蔻娜（背包装备）",
     "unit_model_id": 214,
     "palette": "",
@@ -2378,7 +2378,7 @@
   {
     "id": 338,
     "idcapital_npc": 284,
-    "name": "演出用监视者",
+    "name": "Watcher in Performance",
     "editor_name": "演出用监视者",
     "unit_model_id": 129,
     "palette": "",
@@ -2387,7 +2387,7 @@
   {
     "id": 339,
     "idcapital_npc": 285,
-    "name": "次级对话用监视者",
+    "name": "Watcher in Secondary Dialogue",
     "editor_name": "次级对话用监视者",
     "unit_model_id": 129,
     "palette": "",
@@ -2396,7 +2396,7 @@
   {
     "id": 340,
     "idcapital_npc": 286,
-    "name": "演出用爱国商人卡达尔",
+    "name": "Performance Patriot Merchant Kadar",
     "editor_name": "演出用爱国商人卡达尔",
     "unit_model_id": 193,
     "palette": "",
@@ -2405,7 +2405,7 @@
   {
     "id": 341,
     "idcapital_npc": 287,
-    "name": "商会-浪涌城商人",
+    "name": "Trading Post - Waverun City Merchant",
     "editor_name": "商会-浪涌城商人",
     "unit_model_id": 87,
     "palette": "",
@@ -2414,7 +2414,7 @@
   {
     "id": 342,
     "idcapital_npc": 288,
-    "name": "商会-南方小镇商人",
+    "name": "Trading Post - Southern Town Merchant",
     "editor_name": "商会-南方小镇商人",
     "unit_model_id": 67,
     "palette": "npc12_palette",
@@ -2423,7 +2423,7 @@
   {
     "id": 343,
     "idcapital_npc": 289,
-    "name": "商会-矿坑城商人",
+    "name": "Trading Post - The Mine Pit Merchant",
     "editor_name": "商会-矿坑城商人",
     "unit_model_id": 65,
     "palette": "mercenaryGuardianMset02_palette",
@@ -2432,7 +2432,7 @@
   {
     "id": 344,
     "idcapital_npc": 290,
-    "name": "商会-晨曦堡商人",
+    "name": "Trading Post - Mornrays Castle Merchant",
     "editor_name": "商会-晨曦堡商人",
     "unit_model_id": 123,
     "palette": "npc20_palette",
@@ -2441,7 +2441,7 @@
   {
     "id": 345,
     "idcapital_npc": 291,
-    "name": "商会-薇尔德商人",
+    "name": "Trading Post - Vlderian Merchant",
     "editor_name": "商会-薇尔德商人",
     "unit_model_id": 30,
     "palette": "",
@@ -2450,7 +2450,7 @@
   {
     "id": 346,
     "idcapital_npc": 292,
-    "name": "系统NPC-商会系统入口",
+    "name": "System NPC - Trading Post System Entry",
     "editor_name": "系统NPC-商会系统入口",
     "unit_model_id": 143,
     "palette": "",
@@ -2459,7 +2459,7 @@
   {
     "id": 347,
     "idcapital_npc": 293,
-    "name": "系统NPC-订单系统入口",
+    "name": "System NPC - Order System Entry",
     "editor_name": "系统NPC-订单系统入口",
     "unit_model_id": 207,
     "palette": "",
@@ -2468,7 +2468,7 @@
   {
     "id": 348,
     "idcapital_npc": 294,
-    "name": "次级对话用爱国商人",
+    "name": "Secondary Dialogue with Patriotic Merchant",
     "editor_name": "次级对话用爱国商人",
     "unit_model_id": 226,
     "palette": "",
@@ -2477,7 +2477,7 @@
   {
     "id": 349,
     "idcapital_npc": 295,
-    "name": "演出用爱国商人",
+    "name": "Performance Patriotic Merchant",
     "editor_name": "演出用爱国商人",
     "unit_model_id": 226,
     "palette": "",
@@ -2486,7 +2486,7 @@
   {
     "id": 350,
     "idcapital_npc": 296,
-    "name": "次级对话用鹦鹉人",
+    "name": "Secondary Dialogue with Parrot Man",
     "editor_name": "次级对话用鹦鹉人",
     "unit_model_id": 227,
     "palette": "",
@@ -2495,7 +2495,7 @@
   {
     "id": 351,
     "idcapital_npc": 297,
-    "name": "演出用鹦鹉人",
+    "name": "Performance Parrot Man",
     "editor_name": "演出用鹦鹉人",
     "unit_model_id": 227,
     "palette": "",
@@ -2504,7 +2504,7 @@
   {
     "id": 352,
     "idcapital_npc": 298,
-    "name": "演出用埃拉曼双刀兵",
+    "name": "Performance Elamanian Dual Blade Soldier",
     "editor_name": "演出用埃拉曼双刀兵",
     "unit_model_id": 203,
     "palette": "",
@@ -2513,7 +2513,7 @@
   {
     "id": 353,
     "idcapital_npc": 299,
-    "name": "演出用埃拉曼剑盾兵",
+    "name": "Performance Elamanian Guard",
     "editor_name": "演出用埃拉曼剑盾兵",
     "unit_model_id": 155,
     "palette": "",
@@ -2522,7 +2522,7 @@
   {
     "id": 354,
     "idcapital_npc": 300,
-    "name": "演出用埃拉曼刺客",
+    "name": "Perform with Elamanian Assassin",
     "editor_name": "演出用埃拉曼刺客",
     "unit_model_id": 219,
     "palette": "",
@@ -2531,7 +2531,7 @@
   {
     "id": 355,
     "idcapital_npc": 301,
-    "name": "演出用SP拉维耶",
+    "name": "SP Rawiyah (for performance)",
     "editor_name": "演出用SP拉维耶",
     "unit_model_id": 235,
     "palette": "",
@@ -2540,7 +2540,7 @@
   {
     "id": 356,
     "idcapital_npc": 302,
-    "name": "演出用SP索菲娅",
+    "name": "SP Sophia (for performance)",
     "editor_name": "演出用SP索菲娅",
     "unit_model_id": 236,
     "palette": "",
@@ -2549,7 +2549,7 @@
   {
     "id": 357,
     "idcapital_npc": 303,
-    "name": "演出用埃拉曼斥候",
+    "name": "Elaman Scout (for performance)",
     "editor_name": "演出用埃拉曼斥候",
     "unit_model_id": 37,
     "palette": "solomonAssassinFset01_palette",
@@ -2558,7 +2558,7 @@
   {
     "id": 358,
     "idcapital_npc": 304,
-    "name": "演出用学姐莉拉",
+    "name": "Senior Layla (for performance)",
     "editor_name": "演出用学姐莉拉",
     "unit_model_id": 247,
     "palette": "",
@@ -2567,7 +2567,7 @@
   {
     "id": 359,
     "idcapital_npc": 305,
-    "name": "演出用女仆杀手奇亚",
+    "name": "Maid Assassin Kiya (for performance)",
     "editor_name": "演出用女仆杀手奇亚",
     "unit_model_id": 254,
     "palette": "",
@@ -2576,7 +2576,7 @@
   {
     "id": 360,
     "idcapital_npc": 306,
-    "name": "演出用财政部长柯瓦雷",
+    "name": "Finance Minister Kvare (for performance)",
     "editor_name": "演出用财政部长柯瓦雷",
     "unit_model_id": 248,
     "palette": "",
@@ -2585,7 +2585,7 @@
   {
     "id": 361,
     "idcapital_npc": 307,
-    "name": "演出用港务局局长哈立德",
+    "name": "Port Authority Director General Khalid (for performance)",
     "editor_name": "演出用港务局局长哈立德",
     "unit_model_id": 243,
     "palette": "",
@@ -2594,7 +2594,7 @@
   {
     "id": 362,
     "idcapital_npc": 308,
-    "name": "演出用科塔",
+    "name": "Kota (for performance)",
     "editor_name": "演出用科塔",
     "unit_model_id": 244,
     "palette": "",
@@ -2603,7 +2603,7 @@
   {
     "id": 363,
     "idcapital_npc": 309,
-    "name": "演出用机动部队弩兵考尔",
+    "name": "Mobile Unit Crossbowman Kaul (for performance)",
     "editor_name": "演出用机动部队弩兵考尔",
     "unit_model_id": 268,
     "palette": "",
@@ -2612,7 +2612,7 @@
   {
     "id": 364,
     "idcapital_npc": 310,
-    "name": "演出用机动部队光法希孜",
+    "name": "Mobile Unit Light Conjurer Heath (for performance)",
     "editor_name": "演出用机动部队光法希孜",
     "unit_model_id": 267,
     "palette": "",
@@ -2621,7 +2621,7 @@
   {
     "id": 365,
     "idcapital_npc": 311,
-    "name": "演出用伊利亚长枪兵玛利克",
+    "name": "Irian Pikeman Malleck (for performance)",
     "editor_name": "演出用伊利亚长枪兵玛利克",
     "unit_model_id": 50,
     "palette": "",
@@ -2630,7 +2630,7 @@
   {
     "id": 366,
     "idcapital_npc": 312,
-    "name": "演出用伊利亚剑盾兵埃利斯",
+    "name": "Irian Guard Ellis (for performance)",
     "editor_name": "演出用伊利亚剑盾兵埃利斯",
     "unit_model_id": 63,
     "palette": "",
@@ -2639,7 +2639,7 @@
   {
     "id": 367,
     "idcapital_npc": 313,
-    "name": "次级对话用SP拉维耶",
+    "name": "SP Rawiyah (for secondary dialogue)",
     "editor_name": "次级对话用SP拉维耶",
     "unit_model_id": 235,
     "palette": "",
@@ -2648,7 +2648,7 @@
   {
     "id": 368,
     "idcapital_npc": 314,
-    "name": "次级对话用SP索菲娅",
+    "name": "SP Sophia (for secondary dialogue)",
     "editor_name": "次级对话用SP索菲娅",
     "unit_model_id": 236,
     "palette": "",
@@ -2657,7 +2657,7 @@
   {
     "id": 369,
     "idcapital_npc": 315,
-    "name": "次级对话用学姐莉拉",
+    "name": "Senior Layla (for secondary dialogue)",
     "editor_name": "次级对话用学姐莉拉",
     "unit_model_id": 247,
     "palette": "",
@@ -2666,7 +2666,7 @@
   {
     "id": 370,
     "idcapital_npc": 316,
-    "name": "次级对话用女仆杀手奇亚",
+    "name": "Maid Assassin Kiya (for secondary dialogue)",
     "editor_name": "次级对话用女仆杀手奇亚",
     "unit_model_id": 254,
     "palette": "",
@@ -2675,7 +2675,7 @@
   {
     "id": 371,
     "idcapital_npc": 317,
-    "name": "次级对话用财政部长柯瓦雷",
+    "name": "Finance Minister Kvare (for secondary dialogue)",
     "editor_name": "次级对话用财政部长柯瓦雷",
     "unit_model_id": 248,
     "palette": "",
@@ -2684,7 +2684,7 @@
   {
     "id": 372,
     "idcapital_npc": 318,
-    "name": "次级对话用港务局局长哈立德",
+    "name": "Port Authority Director General Khalid (for secondary dialogue)",
     "editor_name": "次级对话用港务局局长哈立德",
     "unit_model_id": 243,
     "palette": "",
@@ -2693,7 +2693,7 @@
   {
     "id": 373,
     "idcapital_npc": 319,
-    "name": "次级对话用科塔",
+    "name": "Kota (for secondary dialogue)",
     "editor_name": "次级对话用科塔",
     "unit_model_id": 244,
     "palette": "",
@@ -2702,7 +2702,7 @@
   {
     "id": 374,
     "idcapital_npc": 320,
-    "name": "次级对话用机动部队弩兵考尔",
+    "name": "Mobile Unit Crossbowman Kaul (for secondary dialogue)",
     "editor_name": "次级对话用机动部队弩兵考尔",
     "unit_model_id": 268,
     "palette": "",
@@ -2711,7 +2711,7 @@
   {
     "id": 375,
     "idcapital_npc": 321,
-    "name": "次级对话用机动部队光法希孜",
+    "name": "Mobile Unit Light Conjurer Heath (for secondary dialogue)",
     "editor_name": "次级对话用机动部队光法希孜",
     "unit_model_id": 267,
     "palette": "",
@@ -2720,7 +2720,7 @@
   {
     "id": 376,
     "idcapital_npc": 322,
-    "name": "次级对话用伊利亚长枪兵玛利克",
+    "name": "Irian Pikeman Malleck (for secondary dialogue)",
     "editor_name": "次级对话用伊利亚长枪兵玛利克",
     "unit_model_id": 50,
     "palette": "",
@@ -2729,7 +2729,7 @@
   {
     "id": 377,
     "idcapital_npc": 323,
-    "name": "次级对话用伊利亚剑盾兵埃利斯",
+    "name": "Irian Guard Ellis (for secondary dialogue)",
     "editor_name": "次级对话用伊利亚剑盾兵埃利斯",
     "unit_model_id": 63,
     "palette": "",
@@ -2738,7 +2738,7 @@
   {
     "id": 378,
     "idcapital_npc": 324,
-    "name": "演出用盲女哈斯娜",
+    "name": "Blind Maiden Hasna (for performance)",
     "editor_name": "演出用盲女哈斯娜",
     "unit_model_id": 216,
     "palette": "",
@@ -2747,7 +2747,7 @@
   {
     "id": 379,
     "idcapital_npc": 325,
-    "name": "次级对话用盲女哈斯娜",
+    "name": "Blind Maiden Hasna (for secondary dialogue)",
     "editor_name": "次级对话用盲女哈斯娜",
     "unit_model_id": 216,
     "palette": "",

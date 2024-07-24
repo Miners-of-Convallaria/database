@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "m_system_redirects": [],
-    "name": "章鱼罐头",
+    "m_system_redirects": [5044],
+    "name": "Canned Octopus",
     "editor_name": "代行券",
-    "desc": "快速进行代行所消耗的道具，不能在限时活动中使用。\n\n<style=brown>一个章鱼罐头换本喵帮你一次，简直太划算了！</style>",
+    "desc": "Item consumed for quick Sweep. Cannot be used in time-limited events.\n\n<style=brown>Exchanging an Octopus Can for a helping hand from me is really a good deal!</style>",
     "rarity": 3,
     "system_redirect_ids": "5044",
     "icon": "acting_ticket",
@@ -12,10 +12,10 @@
   },
   {
     "id": 2,
-    "m_system_redirects": [],
-    "name": "章鱼罐头（限时）",
+    "m_system_redirects": [1009],
+    "name": "Canned Octopus (Limited)",
     "editor_name": "限时代行券",
-    "desc": "快速进行代行所消耗的道具，不能在限时活动中使用。\n将在入手的<style=red>第4周的星期日结束时</style>过期。\n\n<style=brown>一个章鱼罐头换本喵帮你一次，简直太划算了！</style>",
+    "desc": "Item consumed for quick Sweep. Cannot be used in time-limited events. \nIt will expire <style=red>at the end of the Sunday in the fourth week</style> after the acquisition.\n\n<style=brown>Exchanging an Octopus Can for a helping hand from me is really a good deal!",
     "rarity": 3,
     "system_redirect_ids": "1009",
     "icon": "acting_ticket",
