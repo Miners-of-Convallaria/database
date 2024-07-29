@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "TacticsSkill",
+    "name": "Tactical Skill",
+    "param0_name": "战术技能ID",
+    "param0_type": "tactics_skill",
+    "icon": "icon_tactics_super"
+  },
+  {
+    "id": 2,
+    "type": "SurpriseSkill",
+    "name": "",
+    "param0_name": "突入技能ID",
+    "param0_type": "surprise_skill",
+    "icon": "icon_breakinto01"
+  },
+  {
+    "id": 3,
+    "type": "SystemTech",
+    "name": "",
+    "param0_name": "科技ID",
+    "param0_type": "system_tech",
+    "icon": "icon_tech02"
+  }
+]

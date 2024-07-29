@@ -21,7 +21,7 @@
     "idcommerce_trade_point": 1,
     "level": 2,
     "value_by_level": 150,
-    "desc": "Optional Standard Order Quantity +1",
+    "desc": "Available Flexible Orders +1",
     "random_order_count": 1,
     "commerce_props_ids": "",
     "commerce_price_change_ids": "",
@@ -72,7 +72,7 @@
     "commerce_price_change_ids": "10|11|34|35|36|37",
     "sandbox_event_id": 0,
     "commerce_random_order_id": 8,
-    "perview_desc": "Optional Standard Order Quantity +1. New Abundant Produce: Weaponry."
+    "perview_desc": "Available Flexible Orders +1. New Abundant Produce: Weaponry."
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "idcommerce_trade_point": 2,
     "level": 2,
     "value_by_level": 150,
-    "desc": "Optional Standard Order Quantity +1. New Abundant Produce: Weaponry.",
+    "desc": "Available Flexible Orders +1. New Abundant Produce: Weaponry.",
     "random_order_count": 1,
     "commerce_props_ids": "7",
     "commerce_price_change_ids": "",
@@ -132,7 +132,7 @@
     "commerce_price_change_ids": "12|13|38|39|40",
     "sandbox_event_id": 0,
     "commerce_random_order_id": 12,
-    "perview_desc": "Optional Standard Order Quantity +1"
+    "perview_desc": "Available Flexible Orders +1"
   },
   {
     "id": 10,
@@ -141,7 +141,7 @@
     "idcommerce_trade_point": 3,
     "level": 2,
     "value_by_level": 120,
-    "desc": "Optional Standard Order Quantity +1",
+    "desc": "Available Flexible Orders +1",
     "random_order_count": 1,
     "commerce_props_ids": "",
     "commerce_price_change_ids": "",
@@ -192,7 +192,7 @@
     "commerce_price_change_ids": "29|30|41|42",
     "sandbox_event_id": 0,
     "commerce_random_order_id": 16,
-    "perview_desc": "Optional Standard Order Quantity +1. New Requirement: Pearl, Fur."
+    "perview_desc": "Available Flexible Orders +1. New Requirement: Pearl, Fur."
   },
   {
     "id": 14,
@@ -201,7 +201,7 @@
     "idcommerce_trade_point": 4,
     "level": 2,
     "value_by_level": 120,
-    "desc": "Optional Standard Order Quantity +1. New Requirement: Pearl, Fur.",
+    "desc": "Available Flexible Orders +1. New Requirement: Pearl, Fur.",
     "random_order_count": 1,
     "commerce_props_ids": "",
     "commerce_price_change_ids": "15|16",
@@ -252,7 +252,7 @@
     "commerce_price_change_ids": "18|20|43|44|45|46",
     "sandbox_event_id": 0,
     "commerce_random_order_id": 20,
-    "perview_desc": "Optional Standard Order Quantity +1. New Requirement: Weaving."
+    "perview_desc": "Available Flexible Orders +1. New Requirement: Weaving."
   },
   {
     "id": 18,
@@ -261,7 +261,7 @@
     "idcommerce_trade_point": 5,
     "level": 2,
     "value_by_level": 100,
-    "desc": "Optional Standard Order Quantity +1. New Requirement: Weaving.",
+    "desc": "Available Flexible Orders +1. New Requirement: Weaving.",
     "random_order_count": 1,
     "commerce_props_ids": "",
     "commerce_price_change_ids": "19",
@@ -372,7 +372,7 @@
     "commerce_price_change_ids": "25|27|48|49|50|51",
     "sandbox_event_id": 0,
     "commerce_random_order_id": 28,
-    "perview_desc": "Optional Standard Order Quantity +1. New Requirement: Snake Oil, Weaponry."
+    "perview_desc": "Available Flexible Orders +1. New Requirement: Snake Oil, Weaponry."
   },
   {
     "id": 26,
@@ -381,7 +381,7 @@
     "idcommerce_trade_point": 7,
     "level": 2,
     "value_by_level": 100,
-    "desc": "Optional Standard Order Quantity +1. New Requirement: Snake Oil, Weaponry.",
+    "desc": "Available Flexible Orders +1. New Requirement: Snake Oil, Weaponry.",
     "random_order_count": 1,
     "commerce_props_ids": "",
     "commerce_price_change_ids": "26|28",

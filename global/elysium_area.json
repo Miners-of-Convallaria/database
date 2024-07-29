@@ -1,15 +1,17 @@
 [
   {
     "id": 1,
-    "name": "室内",
-    "type": "INDOOR",
+    "m_elysium_area_contents": [1, 6],
+    "name": "花房",
+    "type": "House",
     "scene_name": "dls_virtual-sky-da00101",
     "sound_state": "Garden_Inner"
   },
   {
     "id": 2,
-    "name": "室外",
-    "type": "OUTDOOR",
+    "m_elysium_area_contents": [2, 3, 4, 5],
+    "name": "庭院",
+    "type": "Courtyard",
     "scene_name": "dls_virtual-sky-da00201",
     "sound_state": "Garden_Outside"
   }

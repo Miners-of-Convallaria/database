@@ -2,8 +2,8 @@
   {
     "id": 2,
     "name": "退款提示",
-    "title": "Notice on Refund Resource Deduction",
-    "content": "Dear Leader of S.O.C.,\nIn response to your request for refund, we have deducted a corresponding amount of Astral Gem/Blessing of Hope from your account. \nIf the available Astral Gem in your account is not enough to cover the requested refund at the time of deduction, the items will still be correspondingly deducted so that the resulting amount is under zero. You can purchase Astral Gem to make up for the shortfall. \nShould dishonest refund requests be detected, your account may be banned after a certain amount of deduction. \n\nIt takes our mutual effort to maintain a fair and orderly gaming environment. We thank you for your support and cooperation. If you have any questions regarding our decision, feel free to contact customer service in the game."
+    "title": "Notice of Resource Deduction for Refund Behavior",
+    "content": "Dear Voyager:\n\nDue to your voluntary refund behavior, the corresponding Astral Gem/Blessing of Hope and other resources will be deducted.\n\nIf the number of Astral Gems in the account is less than the refund portion at the time of deduction, the number of Astral Gems in the account will be deducted to a negative value. You can purchase additional Astral Gems to make up for the difference.\nIf dishonest refund behavior occurs, an account ban is risky after the deduction reaches a particular condition.\n\nMaintaining a fair and orderly gaming environment requires your joint efforts. Thank you for your support and cooperation. If you have objections to this handling result, please provide feedback through in-game customer service."
   },
   {
     "id": 3,
@@ -14,38 +14,38 @@
   {
     "id": 4,
     "name": "问卷填写",
-    "title": "Survey Research Rewards",
-    "content": "Thank you for participating in the Final CBT survey.\nPlease check this special reward.\nMay your choice bring peace to Iria."
+    "title": "Survey Reward",
+    "content": "Dear Voyager: \nThank you for participating in the questionnaire, please collect your rewards. \nMay your choices bring peace to Iria."
   },
   {
     "id": 5,
     "name": "活动奖励发放",
-    "title": "Event Rewards",
-    "content": "Dear Grandmaster,\nThank you for your active participation. Please collect the following event rewards."
+    "title": "Event Reward",
+    "content": "Please collect the event benefits you have earned. \nMay your choices bring peace to Iria."
   },
   {
     "id": 6,
     "name": "事前预约奖励发放",
     "title": "Pre-registration Rewards",
-    "content": "Dear Voyager, \nSword of Convallaria has received more than 500,000 pre-registrations! We have sent you the pre-registration rewards. Remember to check them out! \nWe thank you for your support and wish you much achievement on the journey. May you bring peace and happiness to Iria! \nSword of Convallaria Operations Team"
+    "content": "Dear Voyager, \nSword of Convallaria has received more than 500,000 pre-registrations! We have sent you the pre-registration rewards. Remember to check them out! \nWe thank you for your support and wish you much achievement on the journey. May you bring peace and happiness to Iria! \nTeam Sword of Convallaria"
   },
   {
     "id": 7,
     "name": "丰饶之角奖励",
-    "title": "Cornucopia Rewards",
-    "content": "Dear Leader,\nHere are the rewards you didn't claim in time in the last Cornucopia."
+    "title": "Cornucopia Reward",
+    "content": "Human, you forgot to claim your Cornucopia reward. \nLuckily, I went to the Sea of Chaos to retrieve your reward. Gratefully accept it!"
   },
   {
     "id": 9,
     "name": "公测预约奖励发放",
-    "title": "Open Beta Reservation Reward",
-    "content": "Dear Leader,\nSword of Convallaria has received more than 3,000,000 pre-registrations! We have sent you the pre-registration rewards. Remember to check them out!\nWe thank you for your support and wish you much achievement on the journey. May you bring peace and happiness to Iria!"
+    "title": "Pre-registration Rewards",
+    "content": "Dear Voyager,\nSword of Convallaria has received more than 3,000,000 pre-registrations! We have sent you the pre-registration rewards. Remember to check them out!\nWe thank you for your support and wish you a fruitful journey. May you bring peace and happiness to Iria!"
   },
   {
     "id": 10,
     "name": "《铃兰之剑》公测见面礼   ",
-    "title": "\"Sword of Convallaria\" Open Beta Welcome Gift",
-    "content": "Dear Leader,\nWe are excited to officially meet you in \"Sword of Convallaria\"! Here is the additional benefit promised in \"Development Notes III\": Secret Fate ×10. \"Sword of Convallaria\" would not have been possible without your love and recognition. Your support is the driving force behind our continuous progress."
+    "title": "Sword of Convallaria Official Release Gift",
+    "content": "Dear Voyager,\nWe are excited to officially meet you in \"Sword of Convallaria\"! Here is the additional benefit promised in \"Dev Diary III\": Secret Fate ×10. \"Sword of Convallaria\" would not have been possible without your love and recognition. Your support is the driving force behind our continuous progress."
   },
   {
     "id": 11,
@@ -68,13 +68,49 @@
   {
     "id": 14,
     "name": "逆境之塔奖励发放",
-    "title": "Tower of Adversity Rewards",
-    "content": "Mortal, you forgot to claim your rewards from the Tower of Adversity. Fortunately, I've retrieved them from the Sea of Chaos for you. Accept them with gratitude!\n—Signed with a cat paw print."
+    "title": "Tower of Adversity Reward",
+    "content": "Human, you forgot to claim your Tower of Adversity reward. \nLuckily, I went to the Sea of Chaos to retrieve your reward. Gratefully accept it!"
   },
   {
     "id": 15,
     "name": "圣杯大秘宝分享奖励",
-    "title": "Share Rewards for the Cup Grand Treasure",
-    "content": "Dear Grandmaster,\nThank you for your active participation. Please collect the following event rewards."
+    "title": "[Voyagers' Conundrum] Sharing Reward",
+    "content": "Dear Voyager,\nThank you for your active participation. Please collect the following event rewards."
+  },
+  {
+    "id": 16,
+    "name": "拼图分享奖励",
+    "title": "[Decoding Heartscape Vista] Sharing Reward",
+    "content": "Dear Leader:\nYou have unraveled the mystery of the Crimson Storm,\nPlease claim the sharing reward for [Decoding Heartscape Vista] below."
+  },
+  {
+    "id": 17,
+    "name": "频道变更通知",
+    "title": "Guild Change Notification",
+    "content": "Dear Leader, you have been removed from the list of Guild members by the administrator."
+  },
+  {
+    "id": 18,
+    "name": "预热拼图_tw_查看前瞻内容",
+    "title": "[Night Crimson] Preview Reward",
+    "content": "Dear Leader:\nThank you for your interest in the [Night Crimson] preview content.\nThe new version of Sword of Convallaria [Night Crimson] will be launched on June 14.\nFirst-time preview viewers will receive a reward. Please claim the event reward below."
+  },
+  {
+    "id": 19,
+    "name": "预热拼图_cn_查看前瞻内容",
+    "title": "[Night Crimson] Preview Reward",
+    "content": "Dear Leader:\nThank you for your interest in the [Night Crimson] preview content.\nThe new version of Sword of Convallaria [Night Crimson] will be launched on June 29.\nFirst-time preview viewers will receive a reward. Please claim the event reward below."
+  },
+  {
+    "id": 22,
+    "name": "「科尔的午后」过期未领奖励",
+    "title": "[Col's Afternoon] Rewards",
+    "content": "Dear Voyager,\nHere are your unclaimed rewards from the [Col's Afternoon] event."
+  },
+  {
+    "id": 23,
+    "name": "海外OBT-公测预约奖励发放",
+    "title": "Open Beta Reservation Reward",
+    "content": "Dear Voyager,\nSword of Convallaria has achieved the global pre-registration milestone of over 2 million participants! We would like to express our heartfelt gratitude to all of you for your continuous care and support.\nThe pre-registration rewards have been distributed.\nMay your journey be fruitful and may you bring peace and happiness to Iria.\nSword of Convallaria Dev Team"
   }
 ]

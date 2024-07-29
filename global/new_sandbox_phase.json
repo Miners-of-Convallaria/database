@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "idsandbox": 2,
+    "name": "日期调整",
+    "is_new_round": true,
+    "is_free": false,
+    "change_chapter": false,
+    "next_phase": 2,
+    "time_slot": 1,
+    "func_name": ""
+  },
+  {
+    "id": 2,
+    "idsandbox": 2,
+    "name": "日历",
+    "is_new_round": false,
+    "is_free": false,
+    "change_chapter": false,
+    "next_phase": 3,
+    "time_slot": 1,
+    "func_name": "OpenCalendar"
+  },
+  {
+    "id": 3,
+    "idsandbox": 2,
+    "name": "日场景前",
+    "is_new_round": false,
+    "is_free": false,
+    "change_chapter": false,
+    "next_phase": 4,
+    "time_slot": 1,
+    "func_name": ""
+  },
+  {
+    "id": 4,
+    "idsandbox": 2,
+    "name": "日场景(自由)",
+    "is_new_round": false,
+    "is_free": true,
+    "change_chapter": false,
+    "next_phase": 5,
+    "time_slot": 1,
+    "func_name": ""
+  },
+  {
+    "id": 5,
+    "idsandbox": 2,
+    "name": "日场景后",
+    "is_new_round": false,
+    "is_free": false,
+    "change_chapter": false,
+    "next_phase": 6,
+    "time_slot": 1,
+    "func_name": ""
+  },
+  {
+    "id": 6,
+    "idsandbox": 2,
+    "name": "日夜交替",
+    "is_new_round": false,
+    "is_free": false,
+    "change_chapter": false,
+    "next_phase": 7,
+    "time_slot": 2,
+    "func_name": "SwitchNight"
+  },
+  {
+    "id": 7,
+    "idsandbox": 2,
+    "name": "夜场景前",
+    "is_new_round": false,
+    "is_free": false,
+    "change_chapter": false,
+    "next_phase": 8,
+    "time_slot": 2,
+    "func_name": ""
+  },
+  {
+    "id": 8,
+    "idsandbox": 2,
+    "name": "夜场景(自由)",
+    "is_new_round": false,
+    "is_free": true,
+    "change_chapter": false,
+    "next_phase": 9,
+    "time_slot": 2,
+    "func_name": ""
+  },
+  {
+    "id": 9,
+    "idsandbox": 2,
+    "name": "夜场景后",
+    "is_new_round": false,
+    "is_free": false,
+    "change_chapter": true,
+    "next_phase": 1,
+    "time_slot": 2,
+    "func_name": ""
+  }
+]

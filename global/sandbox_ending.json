@@ -375,5 +375,18 @@
     "show_stat": true,
     "online_sandbox_tech_point": 0,
     "sandbox_result_desc": "Leave the thrills to the greedy. Congrats, you've succeeded \nand bowed out gracefully from the whirlpool of interests. \nNow, it occasionally appears in dreams, cradling the Convallaria, \nswaying ceaselessly even in the quietest of nights. \nVery well, let's reminisce about days with goods and caravans."
+  },
+  {
+    "id": 38,
+    "m_sandbox_ending_quotes": [],
+    "m_sandbox_ending_scenarios": [],
+    "name": "Prequel Story Finale",
+    "editor_name": "前传线结局",
+    "desc": "Not available",
+    "type": 2,
+    "icon": "sandbox_ending_25_f",
+    "show_stat": true,
+    "online_sandbox_tech_point": 0,
+    "sandbox_result_desc": "Not available"
   }
 ]

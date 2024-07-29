@@ -16317,49 +16317,49 @@
     "id": 6673,
     "idunit_model": 126,
     "name": "召唤攻击",
-    "animation_id": 4222
+    "animation_id": 6156
   },
   {
     "id": 6674,
     "idunit_model": 126,
     "name": "周身",
-    "animation_id": 4223
+    "animation_id": 6147
   },
   {
     "id": 6679,
     "idunit_model": 126,
     "name": "平射",
-    "animation_id": 4228
+    "animation_id": 6146
   },
   {
     "id": 6680,
     "idunit_model": 126,
     "name": "强力施法",
-    "animation_id": 4229
+    "animation_id": 4222
   },
   {
     "id": 6681,
     "idunit_model": 126,
     "name": "快速召唤攻击",
-    "animation_id": 4230
+    "animation_id": 6156
   },
   {
     "id": 6682,
     "idunit_model": 126,
     "name": "快速平射",
-    "animation_id": 4228
+    "animation_id": 6155
   },
   {
     "id": 6684,
     "idunit_model": 126,
     "name": "投掷飞镖",
-    "animation_id": 4232
+    "animation_id": 6145
   },
   {
     "id": 6688,
     "idunit_model": 126,
     "name": "方向召唤攻击",
-    "animation_id": 4232
+    "animation_id": 6148
   },
   {
     "id": 6689,
@@ -21093,7 +21093,7 @@
     "id": 7772,
     "idunit_model": 195,
     "name": "暗施法",
-    "animation_id": 4940
+    "animation_id": 4941
   },
   {
     "id": 7773,
@@ -21123,7 +21123,7 @@
     "id": 7777,
     "idunit_model": 195,
     "name": "自施法",
-    "animation_id": 4940
+    "animation_id": 4941
   },
   {
     "id": 7778,
@@ -21158,7 +21158,7 @@
   {
     "id": 7783,
     "idunit_model": 195,
-    "name": "普攻-尖刺2-强化",
+    "name": "普攻-尖刺1-强化",
     "animation_id": 4999
   },
   {
@@ -21170,7 +21170,7 @@
   {
     "id": 7786,
     "idunit_model": 195,
-    "name": "普攻-尖刺1-强化",
+    "name": "普攻-尖刺2-强化",
     "animation_id": 4975
   },
   {
@@ -21279,7 +21279,7 @@
     "id": 7808,
     "idunit_model": 179,
     "name": "光多段伤害",
-    "animation_id": 5039
+    "animation_id": 5013
   },
   {
     "id": 7809,
@@ -21297,7 +21297,7 @@
     "id": 7811,
     "idunit_model": 179,
     "name": "光强力序列",
-    "animation_id": 5013
+    "animation_id": 5039
   },
   {
     "id": 7812,
@@ -21741,7 +21741,7 @@
     "id": 7889,
     "idunit_model": 158,
     "name": "攻击",
-    "animation_id": 5461
+    "animation_id": 5263
   },
   {
     "id": 7890,
@@ -22251,31 +22251,31 @@
     "id": 7990,
     "idunit_model": 126,
     "name": "三连击1-3",
-    "animation_id": 5213
+    "animation_id": 6151
   },
   {
     "id": 7991,
     "idunit_model": 126,
     "name": "三连击2-3",
-    "animation_id": 5214
+    "animation_id": 6152
   },
   {
     "id": 7992,
     "idunit_model": 126,
     "name": "三连击3-3",
-    "animation_id": 5215
+    "animation_id": 6153
   },
   {
     "id": 7993,
     "idunit_model": 126,
     "name": "二连击1-2",
-    "animation_id": 5216
+    "animation_id": 4406
   },
   {
     "id": 7994,
     "idunit_model": 126,
     "name": "二连击2-2",
-    "animation_id": 5217
+    "animation_id": 4407
   },
   {
     "id": 7995,
@@ -22287,25 +22287,25 @@
     "id": 7996,
     "idunit_model": 126,
     "name": "攻击",
-    "animation_id": 5219
+    "animation_id": 6150
   },
   {
     "id": 7998,
     "idunit_model": 126,
     "name": "轻击",
-    "animation_id": 5220
+    "animation_id": 6154
   },
   {
     "id": 8000,
     "idunit_model": 126,
     "name": "追击",
-    "animation_id": 5215
+    "animation_id": 6154
   },
   {
     "id": 8001,
     "idunit_model": 126,
     "name": "重击",
-    "animation_id": 5219
+    "animation_id": 6149
   },
   {
     "id": 8004,
@@ -24048,6 +24048,150 @@
     "animation_id": 5501
   },
   {
+    "id": 8484,
+    "idunit_model": 235,
+    "name": "——以下为全角色通用——",
+    "animation_id": 5532
+  },
+  {
+    "id": 8485,
+    "idunit_model": 235,
+    "name": "——以下为绝对通用——",
+    "animation_id": 5532
+  },
+  {
+    "id": 8486,
+    "idunit_model": 235,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 5532
+  },
+  {
+    "id": 8487,
+    "idunit_model": 235,
+    "name": "——以下为近战兵种通用——",
+    "animation_id": 5532
+  },
+  {
+    "id": 8488,
+    "idunit_model": 235,
+    "name": "——以下为非通用动效——",
+    "animation_id": 5532
+  },
+  {
+    "id": 8489,
+    "idunit_model": 235,
+    "name": "三连击1-3",
+    "animation_id": 5904
+  },
+  {
+    "id": 8490,
+    "idunit_model": 235,
+    "name": "三连击2-3",
+    "animation_id": 5905
+  },
+  {
+    "id": 8491,
+    "idunit_model": 235,
+    "name": "三连击3-3",
+    "animation_id": 5906
+  },
+  {
+    "id": 8492,
+    "idunit_model": 235,
+    "name": "二连击1-2",
+    "animation_id": 5902
+  },
+  {
+    "id": 8493,
+    "idunit_model": 235,
+    "name": "二连击2-2",
+    "animation_id": 5903
+  },
+  {
+    "id": 8494,
+    "idunit_model": 235,
+    "name": "冲锋攻击",
+    "animation_id": 5550
+  },
+  {
+    "id": 8495,
+    "idunit_model": 235,
+    "name": "召唤攻击",
+    "animation_id": 5899
+  },
+  {
+    "id": 8496,
+    "idunit_model": 235,
+    "name": "周身",
+    "animation_id": 5899
+  },
+  {
+    "id": 8497,
+    "idunit_model": 235,
+    "name": "平射",
+    "animation_id": 6074
+  },
+  {
+    "id": 8498,
+    "idunit_model": 235,
+    "name": "强力施法",
+    "animation_id": 5542
+  },
+  {
+    "id": 8499,
+    "idunit_model": 235,
+    "name": "快速召唤攻击",
+    "animation_id": 5899
+  },
+  {
+    "id": 8500,
+    "idunit_model": 235,
+    "name": "快速平射",
+    "animation_id": 5549
+  },
+  {
+    "id": 8501,
+    "idunit_model": 235,
+    "name": "攻击",
+    "animation_id": 5533
+  },
+  {
+    "id": 8502,
+    "idunit_model": 235,
+    "name": "方向召唤攻击",
+    "animation_id": 5898
+  },
+  {
+    "id": 8503,
+    "idunit_model": 235,
+    "name": "施法",
+    "animation_id": 5542
+  },
+  {
+    "id": 8504,
+    "idunit_model": 235,
+    "name": "横扫",
+    "animation_id": 6041
+  },
+  {
+    "id": 8505,
+    "idunit_model": 235,
+    "name": "轻击",
+    "animation_id": 5536
+  },
+  {
+    "id": 8506,
+    "idunit_model": 235,
+    "name": "追击",
+    "animation_id": 5901
+  },
+  {
+    "id": 8507,
+    "idunit_model": 235,
+    "name": "重击",
+    "animation_id": 5685
+  },
+  {
     "id": 8510,
     "idunit_model": 216,
     "name": "专属技能1",
@@ -24238,18 +24382,6 @@
     "idunit_model": 233,
     "name": "普攻",
     "animation_id": 5592
-  },
-  {
-    "id": 8547,
-    "idunit_model": 16,
-    "name": "————",
-    "animation_id": 3781
-  },
-  {
-    "id": 8548,
-    "idunit_model": 16,
-    "name": "女仆EX现身",
-    "animation_id": 5587
   },
   {
     "id": 8549,
@@ -24513,7 +24645,7 @@
     "id": 8596,
     "idunit_model": 247,
     "name": "周身",
-    "animation_id": 5680
+    "animation_id": 5798
   },
   {
     "id": 8597,
@@ -24543,7 +24675,7 @@
     "id": 8601,
     "idunit_model": 247,
     "name": "方向召唤攻击",
-    "animation_id": 5636
+    "animation_id": 5719
   },
   {
     "id": 8602,
@@ -24630,12 +24762,6 @@
     "animation_id": 5656
   },
   {
-    "id": 8619,
-    "idunit_model": 16,
-    "name": "女仆EX攻击",
-    "animation_id": 5657
-  },
-  {
     "id": 8620,
     "idunit_model": 93,
     "name": "换位测试",
@@ -24666,22 +24792,28 @@
     "animation_id": 5664
   },
   {
+    "id": 8625,
+    "idunit_model": 235,
+    "name": "拳击",
+    "animation_id": 5533
+  },
+  {
+    "id": 8626,
+    "idunit_model": 235,
+    "name": "冲锋击退_剑",
+    "animation_id": 5676
+  },
+  {
     "id": 8628,
     "idunit_model": 247,
     "name": "EX3段",
     "animation_id": 5679
   },
   {
-    "id": 8630,
-    "idunit_model": 16,
-    "name": "女仆EX测试",
-    "animation_id": 5683
-  },
-  {
-    "id": 8634,
+    "id": 8629,
     "idunit_model": 235,
-    "name": "EX_02_02",
-    "animation_id": 5722
+    "name": "追击大横扫",
+    "animation_id": 5900
   },
   {
     "id": 8636,
@@ -24706,12 +24838,6 @@
     "idunit_model": 236,
     "name": "专属注意身后",
     "animation_id": 5568
-  },
-  {
-    "id": 8643,
-    "idunit_model": 235,
-    "name": "EX_03_02",
-    "animation_id": 5687
   },
   {
     "id": 8644,
@@ -24801,7 +24927,7 @@
     "id": 8658,
     "idunit_model": 254,
     "name": "平射",
-    "animation_id": 5733
+    "animation_id": 5879
   },
   {
     "id": 8659,
@@ -24813,7 +24939,7 @@
     "id": 8660,
     "idunit_model": 254,
     "name": "快速平射",
-    "animation_id": 5733
+    "animation_id": 5879
   },
   {
     "id": 8661,
@@ -25005,7 +25131,7 @@
     "id": 8701,
     "idunit_model": 256,
     "name": "追击",
-    "animation_id": 5762
+    "animation_id": 5889
   },
   {
     "id": 8702,
@@ -25140,6 +25266,168 @@
     "animation_id": 5224
   },
   {
+    "id": 8736,
+    "idunit_model": 244,
+    "name": "——以下为全角色通用——",
+    "animation_id": 5811
+  },
+  {
+    "id": 8737,
+    "idunit_model": 244,
+    "name": "——以下为绝对通用——",
+    "animation_id": 5811
+  },
+  {
+    "id": 8738,
+    "idunit_model": 244,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 5811
+  },
+  {
+    "id": 8739,
+    "idunit_model": 244,
+    "name": "——以下为近战兵种通用——",
+    "animation_id": 5811
+  },
+  {
+    "id": 8740,
+    "idunit_model": 244,
+    "name": "——以下为非通用动效——",
+    "animation_id": 5811
+  },
+  {
+    "id": 8741,
+    "idunit_model": 244,
+    "name": "三连击1-3",
+    "animation_id": 5812
+  },
+  {
+    "id": 8742,
+    "idunit_model": 244,
+    "name": "三连击2-3",
+    "animation_id": 5813
+  },
+  {
+    "id": 8743,
+    "idunit_model": 244,
+    "name": "三连击3-3",
+    "animation_id": 5814
+  },
+  {
+    "id": 8744,
+    "idunit_model": 244,
+    "name": "二连击1-2",
+    "animation_id": 5812
+  },
+  {
+    "id": 8745,
+    "idunit_model": 244,
+    "name": "二连击2-2",
+    "animation_id": 5813
+  },
+  {
+    "id": 8746,
+    "idunit_model": 244,
+    "name": "冲锋攻击",
+    "animation_id": 5815
+  },
+  {
+    "id": 8747,
+    "idunit_model": 244,
+    "name": "发动代身术",
+    "animation_id": 5816
+  },
+  {
+    "id": 8748,
+    "idunit_model": 244,
+    "name": "召唤攻击",
+    "animation_id": 5817
+  },
+  {
+    "id": 8749,
+    "idunit_model": 244,
+    "name": "周身",
+    "animation_id": 5818
+  },
+  {
+    "id": 8750,
+    "idunit_model": 244,
+    "name": "平射",
+    "animation_id": 5819
+  },
+  {
+    "id": 8751,
+    "idunit_model": 244,
+    "name": "快速召唤攻击",
+    "animation_id": 5817
+  },
+  {
+    "id": 8752,
+    "idunit_model": 244,
+    "name": "快速平射",
+    "animation_id": 5819
+  },
+  {
+    "id": 8753,
+    "idunit_model": 244,
+    "name": "攻击",
+    "animation_id": 5820
+  },
+  {
+    "id": 8755,
+    "idunit_model": 244,
+    "name": "方向召唤攻击",
+    "animation_id": 5821
+  },
+  {
+    "id": 8756,
+    "idunit_model": 244,
+    "name": "横扫",
+    "animation_id": 5822
+  },
+  {
+    "id": 8757,
+    "idunit_model": 244,
+    "name": "背刺",
+    "animation_id": 5814
+  },
+  {
+    "id": 8758,
+    "idunit_model": 244,
+    "name": "追击",
+    "animation_id": 5814
+  },
+  {
+    "id": 8759,
+    "idunit_model": 244,
+    "name": "重击",
+    "animation_id": 5820
+  },
+  {
+    "id": 8760,
+    "idunit_model": 244,
+    "name": "轻击",
+    "animation_id": 5823
+  },
+  {
+    "id": 8763,
+    "idunit_model": 20,
+    "name": "召唤大火球",
+    "animation_id": 5831
+  },
+  {
+    "id": 8764,
+    "idunit_model": 20,
+    "name": "自爆",
+    "animation_id": 5832
+  },
+  {
+    "id": 8765,
+    "idunit_model": 20,
+    "name": "热情激发",
+    "animation_id": 5834
+  },
+  {
     "id": 8766,
     "idunit_model": 257,
     "name": "攻击",
@@ -25150,6 +25438,96 @@
     "idunit_model": 257,
     "name": "吐舌头",
     "animation_id": 5836
+  },
+  {
+    "id": 8772,
+    "idunit_model": 248,
+    "name": "——以下为全角色通用——",
+    "animation_id": 5851
+  },
+  {
+    "id": 8773,
+    "idunit_model": 248,
+    "name": "——以下为无属性法术通用——",
+    "animation_id": 5851
+  },
+  {
+    "id": 8774,
+    "idunit_model": 248,
+    "name": "——以下为无属性法术通用——",
+    "animation_id": 5851
+  },
+  {
+    "id": 8775,
+    "idunit_model": 248,
+    "name": "——以下为绝对通用——",
+    "animation_id": 5851
+  },
+  {
+    "id": 8776,
+    "idunit_model": 248,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 5851
+  },
+  {
+    "id": 8777,
+    "idunit_model": 248,
+    "name": "——以下为非通用动效——",
+    "animation_id": 5851
+  },
+  {
+    "id": 8778,
+    "idunit_model": 248,
+    "name": "召唤攻击",
+    "animation_id": 5863
+  },
+  {
+    "id": 8779,
+    "idunit_model": 248,
+    "name": "周身",
+    "animation_id": 5856
+  },
+  {
+    "id": 8780,
+    "idunit_model": 248,
+    "name": "平射",
+    "animation_id": 5854
+  },
+  {
+    "id": 8781,
+    "idunit_model": 248,
+    "name": "强力施法",
+    "animation_id": 5851
+  },
+  {
+    "id": 8782,
+    "idunit_model": 248,
+    "name": "快速召唤攻击",
+    "animation_id": 5862
+  },
+  {
+    "id": 8783,
+    "idunit_model": 248,
+    "name": "快速平射",
+    "animation_id": 5855
+  },
+  {
+    "id": 8784,
+    "idunit_model": 248,
+    "name": "方向召唤攻击",
+    "animation_id": 5865
+  },
+  {
+    "id": 8785,
+    "idunit_model": 248,
+    "name": "施法",
+    "animation_id": 5851
+  },
+  {
+    "id": 8786,
+    "idunit_model": 248,
+    "name": "横扫",
+    "animation_id": 5859
   },
   {
     "id": 8798,
@@ -25186,6 +25564,12 @@
     "idunit_model": 130,
     "name": "普攻大活三",
     "animation_id": 5872
+  },
+  {
+    "id": 8810,
+    "idunit_model": 254,
+    "name": "投掷飞镖",
+    "animation_id": 5733
   },
   {
     "id": 8811,
@@ -25300,5 +25684,1775 @@
     "idunit_model": 258,
     "name": "重击",
     "animation_id": 5896
+  },
+  {
+    "id": 8833,
+    "idunit_model": 268,
+    "name": "——以下为全角色通用——",
+    "animation_id": 5908
+  },
+  {
+    "id": 8834,
+    "idunit_model": 268,
+    "name": "——以下为射手兵种通用——",
+    "animation_id": 5908
+  },
+  {
+    "id": 8835,
+    "idunit_model": 268,
+    "name": "——以下为绝对通用——",
+    "animation_id": 5908
+  },
+  {
+    "id": 8836,
+    "idunit_model": 268,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 5908
+  },
+  {
+    "id": 8837,
+    "idunit_model": 268,
+    "name": "——以下为非通用动效——",
+    "animation_id": 5908
+  },
+  {
+    "id": 8838,
+    "idunit_model": 268,
+    "name": "冰箭平射",
+    "animation_id": 5909
+  },
+  {
+    "id": 8839,
+    "idunit_model": 268,
+    "name": "冰箭曲射",
+    "animation_id": 5910
+  },
+  {
+    "id": 8840,
+    "idunit_model": 268,
+    "name": "冲锋攻击",
+    "animation_id": 5911
+  },
+  {
+    "id": 8841,
+    "idunit_model": 268,
+    "name": "召唤攻击",
+    "animation_id": 5912
+  },
+  {
+    "id": 8842,
+    "idunit_model": 268,
+    "name": "周身",
+    "animation_id": 5913
+  },
+  {
+    "id": 8843,
+    "idunit_model": 268,
+    "name": "咒箭平射",
+    "animation_id": 5914
+  },
+  {
+    "id": 8844,
+    "idunit_model": 268,
+    "name": "咒箭曲射",
+    "animation_id": 5910
+  },
+  {
+    "id": 8845,
+    "idunit_model": 268,
+    "name": "平射",
+    "animation_id": 5915
+  },
+  {
+    "id": 8846,
+    "idunit_model": 268,
+    "name": "快速召唤攻击",
+    "animation_id": 5912
+  },
+  {
+    "id": 8847,
+    "idunit_model": 268,
+    "name": "快速平射",
+    "animation_id": 5916
+  },
+  {
+    "id": 8848,
+    "idunit_model": 268,
+    "name": "快速曲射",
+    "animation_id": 5910
+  },
+  {
+    "id": 8850,
+    "idunit_model": 268,
+    "name": "方向召唤攻击",
+    "animation_id": 5918
+  },
+  {
+    "id": 8851,
+    "idunit_model": 268,
+    "name": "曲射",
+    "animation_id": 5910
+  },
+  {
+    "id": 8852,
+    "idunit_model": 268,
+    "name": "横扫",
+    "animation_id": 5919
+  },
+  {
+    "id": 8853,
+    "idunit_model": 268,
+    "name": "毒箭平射",
+    "animation_id": 5920
+  },
+  {
+    "id": 8854,
+    "idunit_model": 268,
+    "name": "毒箭曲射",
+    "animation_id": 5910
+  },
+  {
+    "id": 8856,
+    "idunit_model": 268,
+    "name": "火箭平射",
+    "animation_id": 5922
+  },
+  {
+    "id": 8857,
+    "idunit_model": 268,
+    "name": "火箭曲射",
+    "animation_id": 5910
+  },
+  {
+    "id": 8859,
+    "idunit_model": 268,
+    "name": "装填",
+    "animation_id": 5924
+  },
+  {
+    "id": 8860,
+    "idunit_model": 268,
+    "name": "重平射",
+    "animation_id": 5925
+  },
+  {
+    "id": 8861,
+    "idunit_model": 268,
+    "name": "重曲射",
+    "animation_id": 5910
+  },
+  {
+    "id": 8863,
+    "idunit_model": 267,
+    "name": "——以下为光属性法术通用——",
+    "animation_id": 5926
+  },
+  {
+    "id": 8864,
+    "idunit_model": 267,
+    "name": "——以下为全角色通用——",
+    "animation_id": 5926
+  },
+  {
+    "id": 8865,
+    "idunit_model": 267,
+    "name": "——以下为无属性法术通用——",
+    "animation_id": 5926
+  },
+  {
+    "id": 8866,
+    "idunit_model": 267,
+    "name": "——以下为绝对通用——",
+    "animation_id": 5926
+  },
+  {
+    "id": 8867,
+    "idunit_model": 267,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 5926
+  },
+  {
+    "id": 8868,
+    "idunit_model": 267,
+    "name": "——以下为非通用动效——",
+    "animation_id": 5926
+  },
+  {
+    "id": 8871,
+    "idunit_model": 267,
+    "name": "光周身AOE",
+    "animation_id": 5929
+  },
+  {
+    "id": 8872,
+    "idunit_model": 267,
+    "name": "光多段伤害",
+    "animation_id": 5930
+  },
+  {
+    "id": 8874,
+    "idunit_model": 267,
+    "name": "光平射",
+    "animation_id": 5932
+  },
+  {
+    "id": 8875,
+    "idunit_model": 267,
+    "name": "光序列",
+    "animation_id": 5933
+  },
+  {
+    "id": 8877,
+    "idunit_model": 267,
+    "name": "光强力序列",
+    "animation_id": 5935
+  },
+  {
+    "id": 8878,
+    "idunit_model": 267,
+    "name": "光快速平射",
+    "animation_id": 5936
+  },
+  {
+    "id": 8879,
+    "idunit_model": 267,
+    "name": "光快速序列",
+    "animation_id": 5937
+  },
+  {
+    "id": 8880,
+    "idunit_model": 267,
+    "name": "光方向AOE",
+    "animation_id": 5933
+  },
+  {
+    "id": 8881,
+    "idunit_model": 267,
+    "name": "光施法",
+    "animation_id": 5928
+  },
+  {
+    "id": 8882,
+    "idunit_model": 267,
+    "name": "光横扫",
+    "animation_id": 5938
+  },
+  {
+    "id": 8883,
+    "idunit_model": 267,
+    "name": "光爆炸AOE",
+    "animation_id": 5934
+  },
+  {
+    "id": 8888,
+    "idunit_model": 267,
+    "name": "召唤攻击",
+    "animation_id": 5941
+  },
+  {
+    "id": 8890,
+    "idunit_model": 267,
+    "name": "周身",
+    "animation_id": 5941
+  },
+  {
+    "id": 8892,
+    "idunit_model": 267,
+    "name": "平射",
+    "animation_id": 5936
+  },
+  {
+    "id": 8894,
+    "idunit_model": 267,
+    "name": "强力施法",
+    "animation_id": 5928
+  },
+  {
+    "id": 8895,
+    "idunit_model": 267,
+    "name": "强力治疗",
+    "animation_id": 5944
+  },
+  {
+    "id": 8896,
+    "idunit_model": 267,
+    "name": "快速召唤攻击",
+    "animation_id": 5941
+  },
+  {
+    "id": 8897,
+    "idunit_model": 267,
+    "name": "快速平射",
+    "animation_id": 5936
+  },
+  {
+    "id": 8899,
+    "idunit_model": 267,
+    "name": "方向召唤攻击",
+    "animation_id": 5941
+  },
+  {
+    "id": 8900,
+    "idunit_model": 267,
+    "name": "施法",
+    "animation_id": 5928
+  },
+  {
+    "id": 8901,
+    "idunit_model": 267,
+    "name": "横扫",
+    "animation_id": 5941
+  },
+  {
+    "id": 8903,
+    "idunit_model": 267,
+    "name": "治疗",
+    "animation_id": 5944
+  },
+  {
+    "id": 8904,
+    "idunit_model": 267,
+    "name": "法术爆炸AOE",
+    "animation_id": 5946
+  },
+  {
+    "id": 8911,
+    "idunit_model": 267,
+    "name": "自施法",
+    "animation_id": 5928
+  },
+  {
+    "id": 8947,
+    "idunit_model": 266,
+    "name": "——以下为全角色通用——",
+    "animation_id": 5965
+  },
+  {
+    "id": 8948,
+    "idunit_model": 266,
+    "name": "——以下为绝对通用——",
+    "animation_id": 5965
+  },
+  {
+    "id": 8949,
+    "idunit_model": 266,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 5965
+  },
+  {
+    "id": 8950,
+    "idunit_model": 266,
+    "name": "——以下为近战兵种通用——",
+    "animation_id": 5965
+  },
+  {
+    "id": 8951,
+    "idunit_model": 266,
+    "name": "——以下为非通用动效——",
+    "animation_id": 5965
+  },
+  {
+    "id": 8952,
+    "idunit_model": 266,
+    "name": "三连击1-3",
+    "animation_id": 5966
+  },
+  {
+    "id": 8953,
+    "idunit_model": 266,
+    "name": "三连击2-3",
+    "animation_id": 5967
+  },
+  {
+    "id": 8954,
+    "idunit_model": 266,
+    "name": "三连击3-3",
+    "animation_id": 5968
+  },
+  {
+    "id": 8955,
+    "idunit_model": 266,
+    "name": "二连击1-2",
+    "animation_id": 5966
+  },
+  {
+    "id": 8956,
+    "idunit_model": 266,
+    "name": "二连击2-2",
+    "animation_id": 5967
+  },
+  {
+    "id": 8957,
+    "idunit_model": 266,
+    "name": "冲锋攻击",
+    "animation_id": 5969
+  },
+  {
+    "id": 8963,
+    "idunit_model": 266,
+    "name": "发动代身术",
+    "animation_id": 5974
+  },
+  {
+    "id": 8964,
+    "idunit_model": 266,
+    "name": "召唤攻击",
+    "animation_id": 5975
+  },
+  {
+    "id": 8967,
+    "idunit_model": 266,
+    "name": "周身",
+    "animation_id": 5978
+  },
+  {
+    "id": 8970,
+    "idunit_model": 266,
+    "name": "平射",
+    "animation_id": 5980
+  },
+  {
+    "id": 8971,
+    "idunit_model": 266,
+    "name": "快速召唤攻击",
+    "animation_id": 5975
+  },
+  {
+    "id": 8972,
+    "idunit_model": 266,
+    "name": "快速平射",
+    "animation_id": 5980
+  },
+  {
+    "id": 8975,
+    "idunit_model": 266,
+    "name": "攻击",
+    "animation_id": 5982
+  },
+  {
+    "id": 8977,
+    "idunit_model": 266,
+    "name": "方向召唤攻击",
+    "animation_id": 5979
+  },
+  {
+    "id": 8978,
+    "idunit_model": 266,
+    "name": "横扫",
+    "animation_id": 5978
+  },
+  {
+    "id": 8983,
+    "idunit_model": 266,
+    "name": "轻击",
+    "animation_id": 5985
+  },
+  {
+    "id": 8987,
+    "idunit_model": 266,
+    "name": "追击",
+    "animation_id": 5968
+  },
+  {
+    "id": 8988,
+    "idunit_model": 266,
+    "name": "重击",
+    "animation_id": 5982
+  },
+  {
+    "id": 8992,
+    "idunit_model": 52,
+    "name": "爱莎消失测试",
+    "animation_id": 5988
+  },
+  {
+    "id": 8994,
+    "idunit_model": 270,
+    "name": "——以下为全角色通用——",
+    "animation_id": 5989
+  },
+  {
+    "id": 8995,
+    "idunit_model": 270,
+    "name": "——以下为绝对通用——",
+    "animation_id": 5989
+  },
+  {
+    "id": 8996,
+    "idunit_model": 270,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 5989
+  },
+  {
+    "id": 8997,
+    "idunit_model": 270,
+    "name": "——以下为近战兵种通用——",
+    "animation_id": 5989
+  },
+  {
+    "id": 8998,
+    "idunit_model": 270,
+    "name": "——以下为非通用动效——",
+    "animation_id": 5989
+  },
+  {
+    "id": 8999,
+    "idunit_model": 270,
+    "name": "三连击1-3",
+    "animation_id": 5990
+  },
+  {
+    "id": 9000,
+    "idunit_model": 270,
+    "name": "三连击2-3",
+    "animation_id": 6009
+  },
+  {
+    "id": 9001,
+    "idunit_model": 270,
+    "name": "三连击3-3",
+    "animation_id": 6010
+  },
+  {
+    "id": 9002,
+    "idunit_model": 270,
+    "name": "二连击1-2",
+    "animation_id": 5990
+  },
+  {
+    "id": 9003,
+    "idunit_model": 270,
+    "name": "二连击2-2",
+    "animation_id": 6008
+  },
+  {
+    "id": 9004,
+    "idunit_model": 270,
+    "name": "个性反击",
+    "animation_id": 5992
+  },
+  {
+    "id": 9005,
+    "idunit_model": 270,
+    "name": "冲锋攻击",
+    "animation_id": 5993
+  },
+  {
+    "id": 9006,
+    "idunit_model": 270,
+    "name": "召唤攻击",
+    "animation_id": 5994
+  },
+  {
+    "id": 9007,
+    "idunit_model": 270,
+    "name": "周身",
+    "animation_id": 5995
+  },
+  {
+    "id": 9008,
+    "idunit_model": 270,
+    "name": "平射",
+    "animation_id": 5996
+  },
+  {
+    "id": 9009,
+    "idunit_model": 270,
+    "name": "快速召唤攻击",
+    "animation_id": 5994
+  },
+  {
+    "id": 9010,
+    "idunit_model": 270,
+    "name": "快速平射",
+    "animation_id": 5996
+  },
+  {
+    "id": 9011,
+    "idunit_model": 270,
+    "name": "EX",
+    "animation_id": 5997
+  },
+  {
+    "id": 9012,
+    "idunit_model": 270,
+    "name": "战士3级位移AOE",
+    "animation_id": 5998
+  },
+  {
+    "id": 9013,
+    "idunit_model": 270,
+    "name": "攻击",
+    "animation_id": 6004
+  },
+  {
+    "id": 9014,
+    "idunit_model": 270,
+    "name": "方向召唤攻击",
+    "animation_id": 6000
+  },
+  {
+    "id": 9015,
+    "idunit_model": 270,
+    "name": "嘲讽",
+    "animation_id": 6001
+  },
+  {
+    "id": 9016,
+    "idunit_model": 270,
+    "name": "横扫",
+    "animation_id": 6002
+  },
+  {
+    "id": 9017,
+    "idunit_model": 270,
+    "name": "轻击",
+    "animation_id": 6003
+  },
+  {
+    "id": 9018,
+    "idunit_model": 270,
+    "name": "追击",
+    "animation_id": 6003
+  },
+  {
+    "id": 9019,
+    "idunit_model": 270,
+    "name": "重击",
+    "animation_id": 5999
+  },
+  {
+    "id": 9020,
+    "idunit_model": 270,
+    "name": "破阵之枪1x2",
+    "animation_id": 6005
+  },
+  {
+    "id": 9022,
+    "idunit_model": 270,
+    "name": "破阵之枪1x5",
+    "animation_id": 6006
+  },
+  {
+    "id": 9023,
+    "idunit_model": 270,
+    "name": "破盾猛刺",
+    "animation_id": 6007
+  },
+  {
+    "id": 9024,
+    "idunit_model": 235,
+    "name": "穿人冲锋_拳",
+    "animation_id": 5675
+  },
+  {
+    "id": 9028,
+    "idunit_model": 270,
+    "name": "EX瞬移",
+    "animation_id": 6016
+  },
+  {
+    "id": 9029,
+    "idunit_model": 270,
+    "name": "EX攻击",
+    "animation_id": 6017
+  },
+  {
+    "id": 9031,
+    "idunit_model": 274,
+    "name": "——以下为绝对通用——",
+    "animation_id": 6018
+  },
+  {
+    "id": 9032,
+    "idunit_model": 274,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 6018
+  },
+  {
+    "id": 9033,
+    "idunit_model": 274,
+    "name": "——以下为近战兵种通用——",
+    "animation_id": 6018
+  },
+  {
+    "id": 9034,
+    "idunit_model": 274,
+    "name": "——以下为非通用动效——",
+    "animation_id": 6018
+  },
+  {
+    "id": 9035,
+    "idunit_model": 274,
+    "name": "三连击1-3",
+    "animation_id": 6019
+  },
+  {
+    "id": 9036,
+    "idunit_model": 274,
+    "name": "三连击2-3",
+    "animation_id": 6020
+  },
+  {
+    "id": 9037,
+    "idunit_model": 274,
+    "name": "三连击3-3",
+    "animation_id": 6021
+  },
+  {
+    "id": 9038,
+    "idunit_model": 274,
+    "name": "二连击1-2",
+    "animation_id": 6022
+  },
+  {
+    "id": 9039,
+    "idunit_model": 274,
+    "name": "二连击2-2",
+    "animation_id": 6023
+  },
+  {
+    "id": 9040,
+    "idunit_model": 274,
+    "name": "冲锋攻击",
+    "animation_id": 6024
+  },
+  {
+    "id": 9041,
+    "idunit_model": 274,
+    "name": "召唤攻击",
+    "animation_id": 6025
+  },
+  {
+    "id": 9042,
+    "idunit_model": 274,
+    "name": "周身",
+    "animation_id": 6026
+  },
+  {
+    "id": 9043,
+    "idunit_model": 274,
+    "name": "平射",
+    "animation_id": 6027
+  },
+  {
+    "id": 9044,
+    "idunit_model": 274,
+    "name": "快速召唤攻击",
+    "animation_id": 6028
+  },
+  {
+    "id": 9045,
+    "idunit_model": 274,
+    "name": "快速平射",
+    "animation_id": 6027
+  },
+  {
+    "id": 9046,
+    "idunit_model": 274,
+    "name": "战士3级位移AOE",
+    "animation_id": 6029
+  },
+  {
+    "id": 9047,
+    "idunit_model": 274,
+    "name": "攻击",
+    "animation_id": 6030
+  },
+  {
+    "id": 9048,
+    "idunit_model": 274,
+    "name": "方向召唤攻击",
+    "animation_id": 6031
+  },
+  {
+    "id": 9049,
+    "idunit_model": 274,
+    "name": "横扫",
+    "animation_id": 6032
+  },
+  {
+    "id": 9050,
+    "idunit_model": 274,
+    "name": "轻击",
+    "animation_id": 6033
+  },
+  {
+    "id": 9051,
+    "idunit_model": 274,
+    "name": "追击",
+    "animation_id": 6033
+  },
+  {
+    "id": 9052,
+    "idunit_model": 274,
+    "name": "重击",
+    "animation_id": 6034
+  },
+  {
+    "id": 9053,
+    "idunit_model": 235,
+    "name": "大招_01",
+    "animation_id": 5849
+  },
+  {
+    "id": 9054,
+    "idunit_model": 235,
+    "name": "大招_02",
+    "animation_id": 5850
+  },
+  {
+    "id": 9055,
+    "idunit_model": 235,
+    "name": "大招_03",
+    "animation_id": 5866
+  },
+  {
+    "id": 9056,
+    "idunit_model": 195,
+    "name": "治疗",
+    "animation_id": 4941
+  },
+  {
+    "id": 9098,
+    "idunit_model": 270,
+    "name": "嘲讽加buff",
+    "animation_id": 6072
+  },
+  {
+    "id": 9099,
+    "idunit_model": 146,
+    "name": "方向召唤攻击",
+    "animation_id": 6073
+  },
+  {
+    "id": 9101,
+    "idunit_model": 278,
+    "name": "自爆",
+    "animation_id": 6076
+  },
+  {
+    "id": 9102,
+    "idunit_model": 279,
+    "name": "攻击",
+    "animation_id": 6077
+  },
+  {
+    "id": 9103,
+    "idunit_model": 279,
+    "name": "咬",
+    "animation_id": 6077
+  },
+  {
+    "id": 9104,
+    "idunit_model": 279,
+    "name": "方向召唤攻击",
+    "animation_id": 6078
+  },
+  {
+    "id": 9106,
+    "idunit_model": 121,
+    "name": "原子吐息",
+    "animation_id": 6079
+  },
+  {
+    "id": 9107,
+    "idunit_model": 248,
+    "name": "暗周身AOE",
+    "animation_id": 5856
+  },
+  {
+    "id": 9108,
+    "idunit_model": 248,
+    "name": "暗多段伤害",
+    "animation_id": 6081
+  },
+  {
+    "id": 9109,
+    "idunit_model": 248,
+    "name": "暗平射",
+    "animation_id": 5855
+  },
+  {
+    "id": 9110,
+    "idunit_model": 248,
+    "name": "暗序列",
+    "animation_id": 6082
+  },
+  {
+    "id": 9111,
+    "idunit_model": 248,
+    "name": "暗强力序列",
+    "animation_id": 6083
+  },
+  {
+    "id": 9112,
+    "idunit_model": 248,
+    "name": "暗快速平射",
+    "animation_id": 6084
+  },
+  {
+    "id": 9113,
+    "idunit_model": 248,
+    "name": "暗快速序列",
+    "animation_id": 6082
+  },
+  {
+    "id": 9114,
+    "idunit_model": 248,
+    "name": "暗方向AOE",
+    "animation_id": 6085
+  },
+  {
+    "id": 9115,
+    "idunit_model": 248,
+    "name": "暗施法",
+    "animation_id": 6086
+  },
+  {
+    "id": 9116,
+    "idunit_model": 248,
+    "name": "暗横扫",
+    "animation_id": 6087
+  },
+  {
+    "id": 9117,
+    "idunit_model": 248,
+    "name": "暗爆炸AOE",
+    "animation_id": 6088
+  },
+  {
+    "id": 9118,
+    "idunit_model": 279,
+    "name": "冲锋攻击",
+    "animation_id": 6089
+  },
+  {
+    "id": 9119,
+    "idunit_model": 280,
+    "name": "召唤攻击",
+    "animation_id": 6095
+  },
+  {
+    "id": 9120,
+    "idunit_model": 280,
+    "name": "大火球",
+    "animation_id": 6096
+  },
+  {
+    "id": 9121,
+    "idunit_model": 280,
+    "name": "平射",
+    "animation_id": 6097
+  },
+  {
+    "id": 9122,
+    "idunit_model": 280,
+    "name": "横扫",
+    "animation_id": 6132
+  },
+  {
+    "id": 9124,
+    "idunit_model": 280,
+    "name": "贝拉自爆",
+    "animation_id": 6194
+  },
+  {
+    "id": 9125,
+    "idunit_model": 280,
+    "name": "——以下为全角色通用——",
+    "animation_id": 6101
+  },
+  {
+    "id": 9126,
+    "idunit_model": 280,
+    "name": "——以下为火属性法术通用——",
+    "animation_id": 6101
+  },
+  {
+    "id": 9127,
+    "idunit_model": 280,
+    "name": "——以下为绝对通用——",
+    "animation_id": 6101
+  },
+  {
+    "id": 9128,
+    "idunit_model": 280,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 6101
+  },
+  {
+    "id": 9129,
+    "idunit_model": 280,
+    "name": "——以下为非通用动效——",
+    "animation_id": 6101
+  },
+  {
+    "id": 9130,
+    "idunit_model": 280,
+    "name": "周身",
+    "animation_id": 6102
+  },
+  {
+    "id": 9131,
+    "idunit_model": 280,
+    "name": "强力施法",
+    "animation_id": 6236
+  },
+  {
+    "id": 9132,
+    "idunit_model": 280,
+    "name": "快速召唤攻击",
+    "animation_id": 6098
+  },
+  {
+    "id": 9133,
+    "idunit_model": 280,
+    "name": "快速平射",
+    "animation_id": 6097
+  },
+  {
+    "id": 9134,
+    "idunit_model": 280,
+    "name": "方向召唤攻击",
+    "animation_id": 6132
+  },
+  {
+    "id": 9135,
+    "idunit_model": 280,
+    "name": "施法",
+    "animation_id": 6236
+  },
+  {
+    "id": 9136,
+    "idunit_model": 280,
+    "name": "火周身AOE",
+    "animation_id": 6194
+  },
+  {
+    "id": 9137,
+    "idunit_model": 280,
+    "name": "火多段伤害",
+    "animation_id": 6105
+  },
+  {
+    "id": 9138,
+    "idunit_model": 280,
+    "name": "火平射",
+    "animation_id": 6097
+  },
+  {
+    "id": 9139,
+    "idunit_model": 280,
+    "name": "火序列",
+    "animation_id": 6107
+  },
+  {
+    "id": 9140,
+    "idunit_model": 280,
+    "name": "火强力序列",
+    "animation_id": 6105
+  },
+  {
+    "id": 9141,
+    "idunit_model": 280,
+    "name": "火快速平射",
+    "animation_id": 6097
+  },
+  {
+    "id": 9142,
+    "idunit_model": 280,
+    "name": "火快速序列",
+    "animation_id": 6107
+  },
+  {
+    "id": 9143,
+    "idunit_model": 280,
+    "name": "火方向AOE",
+    "animation_id": 6107
+  },
+  {
+    "id": 9144,
+    "idunit_model": 280,
+    "name": "火施法",
+    "animation_id": 6236
+  },
+  {
+    "id": 9145,
+    "idunit_model": 280,
+    "name": "火横扫",
+    "animation_id": 6132
+  },
+  {
+    "id": 9146,
+    "idunit_model": 280,
+    "name": "火爆炸AOE",
+    "animation_id": 6113
+  },
+  {
+    "id": 9147,
+    "idunit_model": 280,
+    "name": "————",
+    "animation_id": 6101
+  },
+  {
+    "id": 9148,
+    "idunit_model": 280,
+    "name": "奥术飞弹",
+    "animation_id": 6114
+  },
+  {
+    "id": 9149,
+    "idunit_model": 280,
+    "name": "翻看存货",
+    "animation_id": 6115
+  },
+  {
+    "id": 9150,
+    "idunit_model": 280,
+    "name": "存货_炸药桶",
+    "animation_id": 6116
+  },
+  {
+    "id": 9151,
+    "idunit_model": 280,
+    "name": "存货_火晶石",
+    "animation_id": 6117
+  },
+  {
+    "id": 9152,
+    "idunit_model": 280,
+    "name": "存货_光晶石",
+    "animation_id": 6118
+  },
+  {
+    "id": 9153,
+    "idunit_model": 280,
+    "name": "存货_冰晶石",
+    "animation_id": 6119
+  },
+  {
+    "id": 9154,
+    "idunit_model": 280,
+    "name": "隔空取物",
+    "animation_id": 6120
+  },
+  {
+    "id": 9155,
+    "idunit_model": 280,
+    "name": "晶石共享",
+    "animation_id": 6143
+  },
+  {
+    "id": 9156,
+    "idunit_model": 280,
+    "name": "EX狂轰乱炸_起始",
+    "animation_id": 6122
+  },
+  {
+    "id": 9157,
+    "idunit_model": 280,
+    "name": "EX狂轰乱炸_结束",
+    "animation_id": 6123
+  },
+  {
+    "id": 9158,
+    "idunit_model": 280,
+    "name": "法术爆炸AOE",
+    "animation_id": 6124
+  },
+  {
+    "id": 9159,
+    "idunit_model": 280,
+    "name": "——以下为无属性法术通用——",
+    "animation_id": 6101
+  },
+  {
+    "id": 9160,
+    "idunit_model": 105,
+    "name": "奥术飞弹02",
+    "animation_id": 3730
+  },
+  {
+    "id": 9161,
+    "idunit_model": 105,
+    "name": "奥术飞弹03",
+    "animation_id": 3732
+  },
+  {
+    "id": 9162,
+    "idunit_model": 280,
+    "name": "奥数飞弹02",
+    "animation_id": 6125
+  },
+  {
+    "id": 9163,
+    "idunit_model": 280,
+    "name": "奥术飞弹03",
+    "animation_id": 6126
+  },
+  {
+    "id": 9164,
+    "idunit_model": 248,
+    "name": "名单",
+    "animation_id": 6133
+  },
+  {
+    "id": 9165,
+    "idunit_model": 248,
+    "name": "护盾",
+    "animation_id": 6134
+  },
+  {
+    "id": 9166,
+    "idunit_model": 248,
+    "name": "双规",
+    "animation_id": 6135
+  },
+  {
+    "id": 9167,
+    "idunit_model": 248,
+    "name": "道具冰",
+    "animation_id": 6136
+  },
+  {
+    "id": 9168,
+    "idunit_model": 248,
+    "name": "道具火",
+    "animation_id": 6138
+  },
+  {
+    "id": 9169,
+    "idunit_model": 248,
+    "name": "道具单体伤害",
+    "animation_id": 6139
+  },
+  {
+    "id": 9170,
+    "idunit_model": 248,
+    "name": "道具治疗",
+    "animation_id": 6140
+  },
+  {
+    "id": 9171,
+    "idunit_model": 248,
+    "name": "道具恢复能量",
+    "animation_id": 6142
+  },
+  {
+    "id": 9172,
+    "idunit_model": 248,
+    "name": "道具激发潜能",
+    "animation_id": 6141
+  },
+  {
+    "id": 9173,
+    "idunit_model": 105,
+    "name": "EX狂轰乱炸_过程01",
+    "animation_id": 3667
+  },
+  {
+    "id": 9174,
+    "idunit_model": 280,
+    "name": "EX狂轰乱炸_过程01",
+    "animation_id": 6157
+  },
+  {
+    "id": 9175,
+    "idunit_model": 105,
+    "name": "EX狂轰乱炸_过程02",
+    "animation_id": 3841
+  },
+  {
+    "id": 9176,
+    "idunit_model": 105,
+    "name": "EX狂轰乱炸_过程03",
+    "animation_id": 3842
+  },
+  {
+    "id": 9177,
+    "idunit_model": 105,
+    "name": "EX狂轰乱炸_过程04",
+    "animation_id": 3671
+  },
+  {
+    "id": 9178,
+    "idunit_model": 280,
+    "name": "EX狂轰乱炸_过程02",
+    "animation_id": 6158
+  },
+  {
+    "id": 9179,
+    "idunit_model": 280,
+    "name": "EX狂轰乱炸_过程03",
+    "animation_id": 6159
+  },
+  {
+    "id": 9180,
+    "idunit_model": 280,
+    "name": "EX狂轰乱炸_过程04",
+    "animation_id": 6160
+  },
+  {
+    "id": 9181,
+    "idunit_model": 248,
+    "name": "EX",
+    "animation_id": 6161
+  },
+  {
+    "id": 9182,
+    "idunit_model": 248,
+    "name": "召唤",
+    "animation_id": 6162
+  },
+  {
+    "id": 9183,
+    "idunit_model": 248,
+    "name": "Boss平射",
+    "animation_id": 6163
+  },
+  {
+    "id": 9184,
+    "idunit_model": 256,
+    "name": "前传线_变身",
+    "animation_id": 6164
+  },
+  {
+    "id": 9185,
+    "idunit_model": 196,
+    "name": "——以下为全角色通用——",
+    "animation_id": 6165
+  },
+  {
+    "id": 9186,
+    "idunit_model": 196,
+    "name": "——以下为绝对通用——",
+    "animation_id": 6165
+  },
+  {
+    "id": 9187,
+    "idunit_model": 196,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 6165
+  },
+  {
+    "id": 9188,
+    "idunit_model": 196,
+    "name": "——以下为近战兵种通用——",
+    "animation_id": 6165
+  },
+  {
+    "id": 9189,
+    "idunit_model": 196,
+    "name": "——以下为非通用动效——",
+    "animation_id": 6165
+  },
+  {
+    "id": 9190,
+    "idunit_model": 196,
+    "name": "三连击1-3",
+    "animation_id": 6166
+  },
+  {
+    "id": 9191,
+    "idunit_model": 196,
+    "name": "三连击2-3",
+    "animation_id": 6167
+  },
+  {
+    "id": 9192,
+    "idunit_model": 196,
+    "name": "三连击3-3",
+    "animation_id": 6168
+  },
+  {
+    "id": 9193,
+    "idunit_model": 196,
+    "name": "二连击1-2",
+    "animation_id": 6169
+  },
+  {
+    "id": 9194,
+    "idunit_model": 196,
+    "name": "二连击2-2",
+    "animation_id": 6170
+  },
+  {
+    "id": 9195,
+    "idunit_model": 196,
+    "name": "冲锋攻击",
+    "animation_id": 6171
+  },
+  {
+    "id": 9196,
+    "idunit_model": 196,
+    "name": "召唤攻击",
+    "animation_id": 6172
+  },
+  {
+    "id": 9197,
+    "idunit_model": 196,
+    "name": "周身",
+    "animation_id": 6173
+  },
+  {
+    "id": 9198,
+    "idunit_model": 196,
+    "name": "外交豁免",
+    "animation_id": 6174
+  },
+  {
+    "id": 9199,
+    "idunit_model": 196,
+    "name": "平射",
+    "animation_id": 6175
+  },
+  {
+    "id": 9200,
+    "idunit_model": 196,
+    "name": "强力施法",
+    "animation_id": 6176
+  },
+  {
+    "id": 9201,
+    "idunit_model": 196,
+    "name": "快速召唤攻击",
+    "animation_id": 6177
+  },
+  {
+    "id": 9202,
+    "idunit_model": 196,
+    "name": "快速平射",
+    "animation_id": 6175
+  },
+  {
+    "id": 9203,
+    "idunit_model": 196,
+    "name": "投掷飞镖",
+    "animation_id": 6175
+  },
+  {
+    "id": 9204,
+    "idunit_model": 196,
+    "name": "挑衅1-2",
+    "animation_id": 6178
+  },
+  {
+    "id": 9205,
+    "idunit_model": 196,
+    "name": "挑衅2-2",
+    "animation_id": 6179
+  },
+  {
+    "id": 9206,
+    "idunit_model": 196,
+    "name": "攻击",
+    "animation_id": 6180
+  },
+  {
+    "id": 9207,
+    "idunit_model": 196,
+    "name": "方向召唤攻击",
+    "animation_id": 6181
+  },
+  {
+    "id": 9208,
+    "idunit_model": 196,
+    "name": "施法",
+    "animation_id": 6182
+  },
+  {
+    "id": 9209,
+    "idunit_model": 196,
+    "name": "横扫",
+    "animation_id": 6183
+  },
+  {
+    "id": 9210,
+    "idunit_model": 196,
+    "name": "爱莎消失测试",
+    "animation_id": 6184
+  },
+  {
+    "id": 9211,
+    "idunit_model": 196,
+    "name": "轻击",
+    "animation_id": 6177
+  },
+  {
+    "id": 9212,
+    "idunit_model": 196,
+    "name": "追击",
+    "animation_id": 6177
+  },
+  {
+    "id": 9213,
+    "idunit_model": 196,
+    "name": "重击",
+    "animation_id": 6186
+  },
+  {
+    "id": 9214,
+    "idunit_model": 196,
+    "name": "专属冲锋",
+    "animation_id": 6187
+  },
+  {
+    "id": 9215,
+    "idunit_model": 196,
+    "name": "效忠",
+    "animation_id": 6188
+  },
+  {
+    "id": 9216,
+    "idunit_model": 270,
+    "name": "破阵之枪A01",
+    "animation_id": 6190
+  },
+  {
+    "id": 9217,
+    "idunit_model": 270,
+    "name": "破阵之枪A02",
+    "animation_id": 6193
+  },
+  {
+    "id": 9218,
+    "idunit_model": 270,
+    "name": "破阵之枪A03",
+    "animation_id": 6192
+  },
+  {
+    "id": 9219,
+    "idunit_model": 158,
+    "name": "三连击飞刀1-3",
+    "animation_id": 6210
+  },
+  {
+    "id": 9220,
+    "idunit_model": 158,
+    "name": "三连击飞刀2-3",
+    "animation_id": 6211
+  },
+  {
+    "id": 9221,
+    "idunit_model": 158,
+    "name": "三连击飞刀3-3",
+    "animation_id": 6212
+  },
+  {
+    "id": 9222,
+    "idunit_model": 256,
+    "name": "前传线_变身循环",
+    "animation_id": 6213
+  },
+  {
+    "id": 9264,
+    "idunit_model": 270,
+    "name": "驱散",
+    "animation_id": 6256
+  },
+  {
+    "id": 9532,
+    "idunit_model": 206,
+    "name": "——以下为全角色通用——",
+    "animation_id": 6543
+  },
+  {
+    "id": 9533,
+    "idunit_model": 206,
+    "name": "——以下为绝对通用——",
+    "animation_id": 6543
+  },
+  {
+    "id": 9534,
+    "idunit_model": 206,
+    "name": "——以下为职业补充动效——",
+    "animation_id": 6543
+  },
+  {
+    "id": 9535,
+    "idunit_model": 206,
+    "name": "——以下为近战兵种通用——",
+    "animation_id": 6543
+  },
+  {
+    "id": 9536,
+    "idunit_model": 206,
+    "name": "——以下为非通用动效——",
+    "animation_id": 6543
+  },
+  {
+    "id": 9537,
+    "idunit_model": 206,
+    "name": "三连击1-3",
+    "animation_id": 6561
+  },
+  {
+    "id": 9538,
+    "idunit_model": 206,
+    "name": "三连击2-3",
+    "animation_id": 6562
+  },
+  {
+    "id": 9539,
+    "idunit_model": 206,
+    "name": "三连击3-3",
+    "animation_id": 6563
+  },
+  {
+    "id": 9540,
+    "idunit_model": 206,
+    "name": "二连击1-2",
+    "animation_id": 6569
+  },
+  {
+    "id": 9541,
+    "idunit_model": 206,
+    "name": "周身",
+    "animation_id": 6548
+  },
+  {
+    "id": 9542,
+    "idunit_model": 206,
+    "name": "攻击",
+    "animation_id": 6549
+  },
+  {
+    "id": 9543,
+    "idunit_model": 206,
+    "name": "横扫",
+    "animation_id": 6550
+  },
+  {
+    "id": 9544,
+    "idunit_model": 206,
+    "name": "召唤攻击",
+    "animation_id": 6551
+  },
+  {
+    "id": 9545,
+    "idunit_model": 206,
+    "name": "平射",
+    "animation_id": 6552
+  },
+  {
+    "id": 9546,
+    "idunit_model": 206,
+    "name": "快速召唤攻击",
+    "animation_id": 6551
+  },
+  {
+    "id": 9547,
+    "idunit_model": 206,
+    "name": "快速平射",
+    "animation_id": 6552
+  },
+  {
+    "id": 9548,
+    "idunit_model": 206,
+    "name": "方向召唤攻击",
+    "animation_id": 6553
+  },
+  {
+    "id": 9549,
+    "idunit_model": 206,
+    "name": "冲锋攻击",
+    "animation_id": 6554
+  },
+  {
+    "id": 9550,
+    "idunit_model": 206,
+    "name": "轻击",
+    "animation_id": 6555
+  },
+  {
+    "id": 9551,
+    "idunit_model": 206,
+    "name": "追击",
+    "animation_id": 6605
+  },
+  {
+    "id": 9552,
+    "idunit_model": 206,
+    "name": "重击",
+    "animation_id": 6549
+  },
+  {
+    "id": 9553,
+    "idunit_model": 206,
+    "name": "二连击2-2",
+    "animation_id": 6570
+  },
+  {
+    "id": 9554,
+    "idunit_model": 206,
+    "name": "发动代身术",
+    "animation_id": 6557
+  },
+  {
+    "id": 9555,
+    "idunit_model": 206,
+    "name": "exskill",
+    "animation_id": 6558
+  },
+  {
+    "id": 9556,
+    "idunit_model": 206,
+    "name": "刺杀",
+    "animation_id": 6572
+  },
+  {
+    "id": 9557,
+    "idunit_model": 206,
+    "name": "混入人群",
+    "animation_id": 6560
+  },
+  {
+    "id": 9561,
+    "idunit_model": 16,
+    "name": "猫猫连刺1-3",
+    "animation_id": 6561
+  },
+  {
+    "id": 9562,
+    "idunit_model": 16,
+    "name": "猫猫连刺2-3",
+    "animation_id": 6562
+  },
+  {
+    "id": 9563,
+    "idunit_model": 16,
+    "name": "猫猫连刺3-3",
+    "animation_id": 6563
+  },
+  {
+    "id": 9566,
+    "idunit_model": 16,
+    "name": "混入人群_无面具",
+    "animation_id": 6560
+  },
+  {
+    "id": 9568,
+    "idunit_model": 16,
+    "name": "猫猫二连击1-2",
+    "animation_id": 6569
+  },
+  {
+    "id": 9569,
+    "idunit_model": 16,
+    "name": "猫猫二连击2-2",
+    "animation_id": 6570
+  },
+  {
+    "id": 9570,
+    "idunit_model": 16,
+    "name": "猫猫暗刺",
+    "animation_id": 6572
+  },
+  {
+    "id": 9619,
+    "idunit_model": 16,
+    "name": "exskill_猫影",
+    "animation_id": 6558
   }
 ]

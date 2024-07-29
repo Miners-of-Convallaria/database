@@ -11,7 +11,8 @@
     "treasure_ids": "114|109|125|137|146|90",
     "limit": 0,
     "icon": "icon_item",
-    "icon_none": "icon_item"
+    "icon_none": "icon_item",
+    "sandbox_id": 0
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
     "treasure_ids": "108|116|117|120|121|135",
     "limit": 0,
     "icon": "icon_material",
-    "icon_none": "icon_material"
+    "icon_none": "icon_material",
+    "sandbox_id": 0
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@
     "treasure_ids": "107",
     "limit": 0,
     "icon": "icon_piece",
-    "icon_none": "icon_piece"
+    "icon_none": "icon_piece",
+    "sandbox_id": 0
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@
     "treasure_ids": "118",
     "limit": 500,
     "icon": "icon_equip",
-    "icon_none": "icon_equip"
+    "icon_none": "icon_equip",
+    "sandbox_id": 0
   },
   {
     "id": 5,
@@ -67,7 +71,8 @@
     "treasure_ids": "118",
     "limit": 500,
     "icon": "",
-    "icon_none": "icon_equip"
+    "icon_none": "icon_equip",
+    "sandbox_id": 0
   },
   {
     "id": 6,
@@ -81,7 +86,8 @@
     "treasure_ids": "130",
     "limit": 500,
     "icon": "icon_charm",
-    "icon_none": "icon_charm"
+    "icon_none": "icon_charm",
+    "sandbox_id": 0
   },
   {
     "id": 7,
@@ -95,7 +101,8 @@
     "treasure_ids": "130",
     "limit": 500,
     "icon": "",
-    "icon_none": "icon_charm"
+    "icon_none": "icon_charm",
+    "sandbox_id": 0
   },
   {
     "id": 8,
@@ -109,7 +116,8 @@
     "treasure_ids": "19",
     "limit": 0,
     "icon": "icon_item",
-    "icon_none": "icon_item"
+    "icon_none": "icon_item",
+    "sandbox_id": 1
   },
   {
     "id": 9,
@@ -123,7 +131,8 @@
     "treasure_ids": "8",
     "limit": 0,
     "icon": "icon_material",
-    "icon_none": "icon_material"
+    "icon_none": "icon_material",
+    "sandbox_id": 1
   },
   {
     "id": 10,
@@ -137,7 +146,8 @@
     "treasure_ids": "4",
     "limit": 0,
     "icon": "icon_equip",
-    "icon_none": "icon_equip"
+    "icon_none": "icon_equip",
+    "sandbox_id": 1
   },
   {
     "id": 11,
@@ -151,7 +161,8 @@
     "treasure_ids": "",
     "limit": 0,
     "icon": "icon_task",
-    "icon_none": "icon_task_none"
+    "icon_none": "icon_task",
+    "sandbox_id": 1
   },
   {
     "id": 12,
@@ -165,6 +176,52 @@
     "treasure_ids": "",
     "limit": 0,
     "icon": "icon_goods",
-    "icon_none": "icon_goods_none"
+    "icon_none": "icon_goods",
+    "sandbox_id": 1
+  },
+  {
+    "id": 13,
+    "idsystem": 0,
+    "section_type": "sandbox2_item",
+    "name": "Item",
+    "enabled": false,
+    "is_online": false,
+    "is_tab": true,
+    "order_id": 1,
+    "treasure_ids": "",
+    "limit": 0,
+    "icon": "icon_item",
+    "icon_none": "icon_item",
+    "sandbox_id": 2
+  },
+  {
+    "id": 14,
+    "idsystem": 0,
+    "section_type": "sandbox2_equipment",
+    "name": "Gear",
+    "enabled": true,
+    "is_online": false,
+    "is_tab": true,
+    "order_id": 3,
+    "treasure_ids": "52",
+    "limit": 0,
+    "icon": "icon_equip",
+    "icon_none": "icon_equip",
+    "sandbox_id": 2
+  },
+  {
+    "id": 15,
+    "idsystem": 0,
+    "section_type": "sandbox2_material",
+    "name": "Material",
+    "enabled": true,
+    "is_online": false,
+    "is_tab": true,
+    "order_id": 2,
+    "treasure_ids": "50",
+    "limit": 0,
+    "icon": "icon_material",
+    "icon_none": "icon_material",
+    "sandbox_id": 2
   }
 ]

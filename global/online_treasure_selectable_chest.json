@@ -27,7 +27,7 @@
     "desc": "Select a Cornucopia Weapon.",
     "rarity": 4,
     "icon": "material_treasure_chest4",
-    "manual": false
+    "manual": true
   },
   {
     "id": 4,
@@ -164,7 +164,7 @@
     "m_online_treasure_selectable_chest_bonuss": [77, 78, 79, 80, 81],
     "name": "Unnamed Platinum Rank Medal (3)",
     "editor_name": "SSR升阶自选宝箱x3",
-    "desc": "Select and obtain a set of Platinum Rank Medal from the entire series (3 in total).",
+    "desc": "Choose a set of Platinum Rank Medals (3 in total)",
     "rarity": 4,
     "icon": "material_treasure_onlineunitrankmaterial_chest4",
     "manual": false
@@ -172,7 +172,7 @@
   {
     "id": 19,
     "m_online_treasure_selectable_chest_bonuss": [87, 88, 89, 90, 91],
-    "name": "Unnamed Bronze Class Medal",
+    "name": "Unnamed Bronze Rank Medal",
     "editor_name": "自选进阶材料N",
     "desc": "Choose one of the Bronze Rank Medals",
     "rarity": 1,
@@ -204,7 +204,7 @@
     "m_online_treasure_selectable_chest_bonuss": [102, 103, 104, 105, 106],
     "name": "Unnamed Platinum Rank Medal",
     "editor_name": "自选进阶材料SSR",
-    "desc": "Choose one of the Silver Rank Medals",
+    "desc": "Choose one of the Platinum Rank Medals",
     "rarity": 4,
     "icon": "material_treasure_onlineunitrankmaterial_chest4",
     "manual": false
@@ -214,7 +214,7 @@
     "m_online_treasure_selectable_chest_bonuss": [107, 108, 109, 110, 111, 112],
     "name": "Unnamed Star Dust",
     "editor_name": "自选科技材料N",
-    "desc": "Choose one from all Star Dusts to obtain.",
+    "desc": "Choose one of the Star Dusts",
     "rarity": 1,
     "icon": "material_treasure_onlinesystemtech_chest1",
     "manual": false
@@ -222,9 +222,9 @@
   {
     "id": 24,
     "m_online_treasure_selectable_chest_bonuss": [113, 114, 115, 116, 117, 118],
-    "name": "Unnamed Starlight",
+    "name": "Unnamed Star Spike",
     "editor_name": "自选科技材料R",
-    "desc": "Choose one from all Starlights to obtain.",
+    "desc": "Choose one of the Star Spikes",
     "rarity": 2,
     "icon": "material_treasure_onlinesystemtech_chest2",
     "manual": false
@@ -234,7 +234,7 @@
     "m_online_treasure_selectable_chest_bonuss": [119, 120, 121, 122, 123, 124],
     "name": "Unnamed Star Glow",
     "editor_name": "自选科技材料SR",
-    "desc": "Choose one from all Star Brilliances to obtain.",
+    "desc": "Choose one of the Star Glows",
     "rarity": 3,
     "icon": "material_treasure_onlinesystemtech_chest3",
     "manual": false
@@ -244,7 +244,7 @@
     "m_online_treasure_selectable_chest_bonuss": [125, 126, 127, 128, 129, 130],
     "name": "Unnamed Stars",
     "editor_name": "自选科技材料SSR",
-    "desc": "Choose one from all Stars to obtain.",
+    "desc": "Choose one of the Stars",
     "rarity": 4,
     "icon": "material_treasure_onlinesystemtech_chest4",
     "manual": false
@@ -254,7 +254,7 @@
     "m_online_treasure_selectable_chest_bonuss": [131, 132, 133, 134],
     "name": "Unnamed Engraving Chest",
     "editor_name": "自选附魔材料N",
-    "desc": "Choose one from all Common Engravings to obtain.",
+    "desc": "Choose one of the Common Engravings",
     "rarity": 1,
     "icon": "material_treasure_onlineweapon_enchanting_chest1",
     "manual": false
@@ -264,7 +264,7 @@
     "m_online_treasure_selectable_chest_bonuss": [135, 136, 137, 138],
     "name": "Unnamed Rare Engraving Chest",
     "editor_name": "自选附魔材料R",
-    "desc": "Choose one from all Rare Engravings to obtain.",
+    "desc": "Choose one of the Rare Engravings",
     "rarity": 2,
     "icon": "material_treasure_onlineweapon_enchanting_chest2",
     "manual": false
@@ -274,7 +274,7 @@
     "m_online_treasure_selectable_chest_bonuss": [139, 140, 141, 142],
     "name": "Unnamed Epic Engraving Chest",
     "editor_name": "自选附魔材料SR",
-    "desc": "Choose one from all Epic Engravings to obtain.",
+    "desc": "Choose one of the Epic Engravings",
     "rarity": 3,
     "icon": "material_treasure_onlineweapon_enchanting_chest3",
     "manual": false
@@ -284,7 +284,7 @@
     "m_online_treasure_selectable_chest_bonuss": [143, 144, 145, 146],
     "name": "Unnamed Legendary Engraving Chest",
     "editor_name": "自选附魔材料SSR",
-    "desc": "Choose to obtain one of the Legendary Engravings.",
+    "desc": "Choose one of the Legendary Engravings",
     "rarity": 4,
     "icon": "material_treasure_onlineweapon_enchanting_chest4",
     "manual": false
@@ -314,7 +314,7 @@
     "m_online_treasure_selectable_chest_bonuss": [159, 160, 161, 162, 163],
     "name": "Unnamed Platinum Rank Medal (5)",
     "editor_name": "SSR升阶自选宝箱x5",
-    "desc": "Choose one from Platinum Rank Medals of all classes (amount 5).",
+    "desc": "Choose a set of Platinum Rank Medals (5 in total)",
     "rarity": 4,
     "icon": "material_treasure_onlineunitrankmaterial_chest4",
     "manual": false
@@ -324,7 +324,7 @@
     "m_online_treasure_selectable_chest_bonuss": [164, 165, 166, 167, 168],
     "name": "Unnamed Platinum Rank Medal (10)",
     "editor_name": "SSR升阶自选宝箱x10",
-    "desc": "Choose one from Platinum Rank Medals of all classes (amount 10).",
+    "desc": "Choose a set of Platinum Rank Medals (10 in total)",
     "rarity": 4,
     "icon": "material_treasure_onlineunitrankmaterial_chest4",
     "manual": false
@@ -333,18 +333,18 @@
     "id": 35,
     "m_online_treasure_selectable_chest_bonuss": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188],
     "name": "Legendary Character Selection",
-    "editor_name": "台服自选角色SSR",
-    "desc": "Choose one from designated legendary characters.",
+    "editor_name": "台服自选角色SSR-手动",
+    "desc": "Choose one designated legendary character.",
     "rarity": 4,
     "icon": "material_treasure_chest4",
-    "manual": false
+    "manual": true
   },
   {
     "id": 37,
     "m_online_treasure_selectable_chest_bonuss": [194, 195, 196, 197, 198],
     "name": "Unnamed Platinum Rank Medal (6)",
     "editor_name": "SSR升阶自选宝箱x6",
-    "desc": "Choose one from Platinum Rank Medals of all classes (amount 6).",
+    "desc": "Choose a set of Platinum Rank Medals (6 in total)",
     "rarity": 4,
     "icon": "material_treasure_onlineunitrankmaterial_chest4",
     "manual": false
@@ -372,9 +372,9 @@
   {
     "id": 40,
     "m_online_treasure_selectable_chest_bonuss": [215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234],
-    "name": "###online_treasure_selectable_chest\name\\40",
-    "editor_name": "台服自选角色SSR-手动",
-    "desc": "###online_treasure_selectable_chest\\desc\\40",
+    "name": "自选传说级角色",
+    "editor_name": "台服自选角色SSR-手动（弃用）",
+    "desc": "可以从指定传说级角色中选择一名获取。",
     "rarity": 4,
     "icon": "material_treasure_chest4",
     "manual": true
@@ -392,9 +392,9 @@
   {
     "id": 42,
     "m_online_treasure_selectable_chest_bonuss": [257, 258, 259, 260],
-    "name": "###online_treasure_selectable_chest\name\\42",
-    "editor_name": "护石手动自选",
-    "desc": "###online_treasure_selectable_chest\\desc\\42",
+    "name": "护石手动自选测试",
+    "editor_name": "护石手动自选测试",
+    "desc": "护石自选",
     "rarity": 4,
     "icon": "material_charm4",
     "manual": true
@@ -403,7 +403,7 @@
     "id": 43,
     "m_online_treasure_selectable_chest_bonuss": [261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300],
     "name": "Legendary Gear Selection",
-    "editor_name": "自选SSR装备-手动",
+    "editor_name": "自选SSR装备-手动（弃用）",
     "desc": "Choose one from the designated Legendary gears.",
     "rarity": 4,
     "icon": "material_onlineweapon_chest4",
@@ -424,7 +424,7 @@
     "m_online_treasure_selectable_chest_bonuss": [316, 317, 318, 319, 320],
     "name": "Unnamed Platinum Rank Medal",
     "editor_name": "自选进阶材料SSR-手动",
-    "desc": "Choose one of the Silver Rank Medals",
+    "desc": "Choose one of the Platinum Rank Medals",
     "rarity": 4,
     "icon": "material_treasure_onlineunitrankmaterial_chest4",
     "manual": true
@@ -434,7 +434,7 @@
     "m_online_treasure_selectable_chest_bonuss": [321, 322, 323, 324],
     "name": "Unnamed Legendary Engraving Chest",
     "editor_name": "自选附魔材料SSR-手动",
-    "desc": "Choose to obtain one of the Legendary Engravings.",
+    "desc": "Choose one of the Legendary Engravings",
     "rarity": 4,
     "icon": "material_treasure_onlineweapon_enchanting_chest4",
     "manual": true
@@ -442,7 +442,7 @@
   {
     "id": 47,
     "m_online_treasure_selectable_chest_bonuss": [325, 326, 327, 328, 329],
-    "name": "Unnamed Bronze Class Medal",
+    "name": "Unnamed Bronze Rank Medal",
     "editor_name": "自选进阶材料N-手动",
     "desc": "Choose one of the Bronze Rank Medals",
     "rarity": 1,
@@ -474,7 +474,7 @@
     "m_online_treasure_selectable_chest_bonuss": [340, 341, 342, 343, 344, 345],
     "name": "Unnamed Star Dust",
     "editor_name": "自选科技材料N-手动",
-    "desc": "Choose one from all Star Dusts to obtain.",
+    "desc": "Choose one of the Star Dusts",
     "rarity": 1,
     "icon": "material_treasure_onlinesystemtech_chest1",
     "manual": true
@@ -482,9 +482,9 @@
   {
     "id": 51,
     "m_online_treasure_selectable_chest_bonuss": [346, 347, 348, 349, 350, 351],
-    "name": "Unnamed Starlight",
+    "name": "Unnamed Star Spike",
     "editor_name": "自选科技材料R-手动",
-    "desc": "Choose one from all Starlights to obtain.",
+    "desc": "Choose one of the Star Spikes",
     "rarity": 2,
     "icon": "material_treasure_onlinesystemtech_chest2",
     "manual": true
@@ -494,7 +494,7 @@
     "m_online_treasure_selectable_chest_bonuss": [352, 353, 354, 355, 356, 357],
     "name": "Unnamed Star Glow",
     "editor_name": "自选科技材料SR-手动",
-    "desc": "Choose one from all Star Brilliances to obtain.",
+    "desc": "Choose one of the Star Glows",
     "rarity": 3,
     "icon": "material_treasure_onlinesystemtech_chest3",
     "manual": true
@@ -504,7 +504,7 @@
     "m_online_treasure_selectable_chest_bonuss": [358, 359, 360, 361, 362, 363],
     "name": "Unnamed Stars",
     "editor_name": "自选科技材料SSR-手动",
-    "desc": "Choose one from all Stars to obtain.",
+    "desc": "Choose one of the Stars",
     "rarity": 4,
     "icon": "material_treasure_onlinesystemtech_chest4",
     "manual": true
@@ -514,7 +514,7 @@
     "m_online_treasure_selectable_chest_bonuss": [364, 365, 366, 367],
     "name": "Unnamed Engraving Chest",
     "editor_name": "自选附魔材料N-手动",
-    "desc": "Choose one from all Common Engravings to obtain.",
+    "desc": "Choose one of the Common Engravings",
     "rarity": 1,
     "icon": "material_treasure_onlineweapon_enchanting_chest1",
     "manual": true
@@ -524,7 +524,7 @@
     "m_online_treasure_selectable_chest_bonuss": [368, 369, 370, 371],
     "name": "Unnamed Rare Engraving Chest",
     "editor_name": "自选附魔材料R-手动",
-    "desc": "Choose one from all Rare Engravings to obtain.",
+    "desc": "Choose one of the Rare Engravings",
     "rarity": 2,
     "icon": "material_treasure_onlineweapon_enchanting_chest2",
     "manual": true
@@ -534,7 +534,7 @@
     "m_online_treasure_selectable_chest_bonuss": [372, 373, 374, 375],
     "name": "Unnamed Epic Engraving Chest",
     "editor_name": "自选附魔材料SR-手动",
-    "desc": "Choose one from all Epic Engravings to obtain.",
+    "desc": "Choose one of the Epic Engravings",
     "rarity": 3,
     "icon": "material_treasure_onlineweapon_enchanting_chest3",
     "manual": true
@@ -543,7 +543,7 @@
     "id": 57,
     "m_online_treasure_selectable_chest_bonuss": [376, 377, 378, 379],
     "name": "Unnamed Rank Medal",
-    "editor_name": "自选进阶宝箱-全稀有度",
+    "editor_name": "自选进阶材料宝箱-全稀有度",
     "desc": "Choose one set of Rank Medals from each Rarity.",
     "rarity": 4,
     "icon": "material_treasure_onlineunitrankmaterial_chest4",
@@ -577,6 +577,126 @@
     "desc": "Select one set from Rank Medal, Radiant Ore, Engraving Chest, Common Exp, Radiant Powder, Tarot Essence, Star Particles, and Elysium Coin to obtain.",
     "rarity": 4,
     "icon": "material_random_chest4",
+    "manual": true
+  },
+  {
+    "id": 61,
+    "m_online_treasure_selectable_chest_bonuss": [396, 397, 398, 399],
+    "name": "Resource Selection Box",
+    "editor_name": "自选资源宝箱",
+    "desc": "Choose one set from Common Exp, Radiant Powder, Tarot Essence, and Star Particles to obtain.",
+    "rarity": 4,
+    "icon": "material_random_chest4",
+    "manual": true
+  },
+  {
+    "id": 62,
+    "m_online_treasure_selectable_chest_bonuss": [400, 401, 402, 403],
+    "name": "Material Selection Box",
+    "editor_name": "自选材料宝箱",
+    "desc": "Choose one set from Rank Medal, Radiant Ore, Engraving Chest, and Stars to obtain.",
+    "rarity": 4,
+    "icon": "material_random_chest4",
+    "manual": true
+  },
+  {
+    "id": 63,
+    "m_online_treasure_selectable_chest_bonuss": [404, 405, 406, 407],
+    "name": "Obscure Talent Material",
+    "editor_name": "自选科技材料宝箱-全稀有度",
+    "desc": "Choose one set from Talent Materials of each Rarity to obtain.",
+    "rarity": 4,
+    "icon": "material_treasure_onlinesystemtech_chest4",
+    "manual": true
+  },
+  {
+    "id": 64,
+    "m_online_treasure_selectable_chest_bonuss": [414, 415, 416, 417, 418, 419],
+    "name": "New Gear Selection Pack",
+    "editor_name": "新品装备礼包",
+    "desc": "Select one Legendary Gear from: Guardian's Will, Melee Mega Crossbow, The Silent Guard, Diffusing Prism, Origin Hourglass, and Hunter's Intuition to obtain.",
+    "rarity": 4,
+    "icon": "material_onlineweapon_chest4_1",
+    "manual": true
+  },
+  {
+    "id": 65,
+    "m_online_treasure_selectable_chest_bonuss": [420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437],
+    "name": "Unnamed Legendary Tarot Whisper",
+    "editor_name": "自选护石SSR_全部",
+    "desc": "Select one from the Legendary Tarot Whisper (Series I and II) to obtain.",
+    "rarity": 4,
+    "icon": "material_charm4",
+    "manual": true
+  },
+  {
+    "id": 66,
+    "m_online_treasure_selectable_chest_bonuss": [438, 439, 440],
+    "name": "Convallaria Squad Assembly Order",
+    "editor_name": "生涯引导系统_（3选1）新手英雄自选箱",
+    "desc": "Select one character from Rawiyah, Maitha, and Faycal to obtain.",
+    "rarity": 4,
+    "icon": "material_career_reward01",
+    "manual": true
+  },
+  {
+    "id": 67,
+    "m_online_treasure_selectable_chest_bonuss": [459, 460, 461, 462, 463, 464],
+    "name": "Momento Trinket Chest",
+    "editor_name": "生涯引导系统_（6选1）新手装备箱",
+    "desc": "Select one of the designated Legendary trinkets to obtain.",
+    "rarity": 4,
+    "icon": "material_onlineweapon_vice_chest4",
+    "manual": true
+  },
+  {
+    "id": 69,
+    "m_online_treasure_selectable_chest_bonuss": [494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522],
+    "name": "Momento Weapon Chest",
+    "editor_name": "生涯引导系统_主武器全自选箱",
+    "desc": "Select one of the designated Legendary weapons to obtain.",
+    "rarity": 4,
+    "icon": "material_onlineweapon_main_chest4_1",
+    "manual": true
+  },
+  {
+    "id": 70,
+    "m_online_treasure_selectable_chest_bonuss": [465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493],
+    "name": "Legendary Weapon Selection Chest",
+    "editor_name": "自选SSR主武器（系列Ⅰ、系列Ⅱ）",
+    "desc": "Select one of the designated Legendary weapons to obtain.",
+    "rarity": 4,
+    "icon": "material_onlineweapon_main_chest4_1",
+    "manual": true
+  },
+  {
+    "id": 71,
+    "m_online_treasure_selectable_chest_bonuss": [523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568],
+    "name": "Unnamed Legendary Gear Chest",
+    "editor_name": "SSR自选装备箱（系列Ⅰ、系列Ⅱ）",
+    "desc": "Select one from the designated Legendary gear to obtain.",
+    "rarity": 4,
+    "icon": "material_onlineweapon_chest4_1",
+    "manual": true
+  },
+  {
+    "id": 72,
+    "m_online_treasure_selectable_chest_bonuss": [569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591],
+    "name": "Unnamed Epic Gear Chest",
+    "editor_name": "自选SR装备",
+    "desc": "Select one from the designated Epic gear to obtain.",
+    "rarity": 3,
+    "icon": "material_onlineweapon_chest3",
+    "manual": true
+  },
+  {
+    "id": 73,
+    "m_online_treasure_selectable_chest_bonuss": [592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613],
+    "name": "Legendary Character Selection",
+    "editor_name": "海外服自选角色SSR-手动 ",
+    "desc": "Choose one designated legendary character.",
+    "rarity": 4,
+    "icon": "material_treasure_chest4",
     "manual": true
   }
 ]

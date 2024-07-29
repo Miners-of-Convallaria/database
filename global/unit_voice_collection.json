@@ -157,14 +157,14 @@
     "id": 23,
     "idunit": 312,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_laweiye_dodge"
   },
   {
     "id": 24,
     "idunit": 312,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_laweiye_block"
   },
   {
@@ -178,7 +178,7 @@
     "id": 26,
     "idunit": 312,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_laweiye_support1"
   },
   {
@@ -332,14 +332,14 @@
     "id": 48,
     "idunit": 284,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_maisha_counter"
   },
   {
     "id": 49,
     "idunit": 284,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_maisha_dodge"
   },
   {
@@ -367,7 +367,7 @@
     "id": 53,
     "idunit": 284,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_maisha_support1"
   },
   {
@@ -542,28 +542,28 @@
     "id": 78,
     "idunit": 285,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_fakaer_counter"
   },
   {
     "id": 79,
     "idunit": 285,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_fakaer_dodge"
   },
   {
     "id": 80,
     "idunit": 285,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_fakaer_block"
   },
   {
     "id": 81,
     "idunit": 285,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_fakaer_support2"
   },
   {
@@ -731,35 +731,35 @@
     "id": 105,
     "idunit": 343,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_bela_counter"
   },
   {
     "id": 106,
     "idunit": 343,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_bela_dodge"
   },
   {
     "id": 107,
     "idunit": 343,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_bela_block"
   },
   {
     "id": 108,
     "idunit": 343,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_bela_support2"
   },
   {
     "id": 109,
     "idunit": 343,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_bela_support1"
   },
   {
@@ -913,28 +913,28 @@
     "id": 131,
     "idunit": 349,
     "title": "Standard Victory",
-    "text": "There is no victory without consequence. It is our responsability to make those decisions.",
+    "text": "There is no victory without consequence. It is our responsibility to make those decisions.",
     "event_name": "play_vo_bt_ditaliao_win2"
   },
   {
     "id": 132,
     "idunit": 349,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ditaliao_counter"
   },
   {
     "id": 133,
     "idunit": 349,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ditaliao_dodge"
   },
   {
     "id": 134,
     "idunit": 349,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ditaliao_block"
   },
   {
@@ -948,7 +948,7 @@
     "id": 136,
     "idunit": 349,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ditaliao_support1"
   },
   {
@@ -1123,21 +1123,21 @@
     "id": 161,
     "idunit": 323,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lufeite_block"
   },
   {
     "id": 162,
     "idunit": 323,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lufeite_support2"
   },
   {
     "id": 163,
     "idunit": 323,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lufeite_support1"
   },
   {
@@ -1312,7 +1312,7 @@
     "id": 188,
     "idunit": 313,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_suofeiya_counter"
   },
   {
@@ -1326,14 +1326,14 @@
     "id": 190,
     "idunit": 313,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_suofeiya_block"
   },
   {
     "id": 191,
     "idunit": 313,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_suofeiya_support2"
   },
   {
@@ -1382,7 +1382,7 @@
     "id": 198,
     "idunit": 362,
     "title": "Continuous Finisher",
-    "text": "I'm gonna need an extra charge for that.",
+    "text": "I'm gonna charge you extra for that.",
     "event_name": "play_vo_bt_migeer_kill3"
   },
   {
@@ -1487,7 +1487,7 @@
     "id": 213,
     "idunit": 362,
     "title": "Standard Victory",
-    "text": "If it happens one more time, I will up the ante next time!",
+    "text": "If it happens again, I'm raising my rates!",
     "event_name": "play_vo_bt_migeer_win2"
   },
   {
@@ -1501,21 +1501,21 @@
     "id": 215,
     "idunit": 362,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_migeer_dodge"
   },
   {
     "id": 216,
     "idunit": 362,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_migeer_block"
   },
   {
     "id": 217,
     "idunit": 362,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_migeer_support2"
   },
   {
@@ -1676,7 +1676,7 @@
     "id": 240,
     "idunit": 351,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_nuonuoweier_counter"
   },
   {
@@ -1690,21 +1690,21 @@
     "id": 242,
     "idunit": 351,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_nuonuoweier_block"
   },
   {
     "id": 243,
     "idunit": 351,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_nuonuoweier_support2"
   },
   {
     "id": 244,
     "idunit": 351,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_nuonuoweier_support1"
   },
   {
@@ -1739,14 +1739,14 @@
     "id": 249,
     "idunit": 399,
     "title": "Special Finisher",
-    "text": "We are not lamb!",
+    "text": "We are not sheep!",
     "event_name": "play_vo_bt_aida_kill2"
   },
   {
     "id": 250,
     "idunit": 399,
     "title": "Continuous Finisher",
-    "text": "Keep going forward, everyone!",
+    "text": "Keep moving forward, everyone!",
     "event_name": "play_vo_bt_aida_kill3"
   },
   {
@@ -1830,56 +1830,56 @@
     "id": 262,
     "idunit": 399,
     "title": "Critical",
-    "text": "I still can move!",
+    "text": "I can still move!",
     "event_name": "play_vo_bt_aida_battlestart3"
   },
   {
     "id": 263,
     "idunit": 399,
     "title": "Exhausted",
-    "text": "Don't stop because of one failure...",
+    "text": "Don't stop because of one failure…",
     "event_name": "play_vo_bt_aida_die"
   },
   {
     "id": 264,
     "idunit": 399,
     "title": "Perfect Victory",
-    "text": "A quite perfect victory... Perfect enough to boost everyone's morale. Thank you.",
+    "text": "Quite the perfect victory… Perfect enough to boost everyone's morale. Thank you.",
     "event_name": "play_vo_bt_aida_win1"
   },
   {
     "id": 265,
     "idunit": 399,
     "title": "Standard Victory",
-    "text": "We must sum up experience and optimize tactics to make continuous progress. Come on!",
+    "text": "We must bring our experience together to come up with the best tactics and keep making progress. Come on!",
     "event_name": "play_vo_bt_aida_win2"
   },
   {
     "id": 266,
     "idunit": 399,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aida_counter"
   },
   {
     "id": 267,
     "idunit": 399,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aida_dodge"
   },
   {
     "id": 268,
     "idunit": 399,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aida_block"
   },
   {
     "id": 269,
     "idunit": 399,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aida_support2"
   },
   {
@@ -1900,7 +1900,7 @@
     "id": 272,
     "idunit": 350,
     "title": "Battle Standby 1",
-    "text": "I know.",
+    "text": "Understood.",
     "event_name": "play_vo_bt_liliweier_idle_01"
   },
   {
@@ -1914,7 +1914,7 @@
     "id": 274,
     "idunit": 350,
     "title": "Standard Finisher",
-    "text": "I won't let you get away with that!!",
+    "text": "You won't get away with this!!",
     "event_name": "play_vo_bt_liliweier_kill1"
   },
   {
@@ -1935,7 +1935,7 @@
     "id": 277,
     "idunit": 350,
     "title": "Attack",
-    "text": "Have at you!",
+    "text": "Hah—!",
     "event_name": "play_vo_bt_liliweier_attack_01"
   },
   {
@@ -1963,7 +1963,7 @@
     "id": 281,
     "idunit": 350,
     "title": "Damage 2",
-    "text": "Don't you run away!",
+    "text": "There's no escape!",
     "event_name": "play_vo_bt_liliweier_attack2_02"
   },
   {
@@ -1998,7 +1998,7 @@
     "id": 286,
     "idunit": 350,
     "title": "Healthy",
-    "text": "Occupy the vantage point!",
+    "text": "Assume a favourable position!",
     "event_name": "play_vo_bt_liliweier_battlestart1"
   },
   {
@@ -2040,7 +2040,7 @@
     "id": 292,
     "idunit": 350,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_liliweier_counter"
   },
   {
@@ -2054,14 +2054,14 @@
     "id": 294,
     "idunit": 350,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_liliweier_block"
   },
   {
     "id": 295,
     "idunit": 350,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_liliweier_support2"
   },
   {
@@ -2222,35 +2222,35 @@
     "id": 318,
     "idunit": 283,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yinanna1_counter"
   },
   {
     "id": 319,
     "idunit": 283,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yinanna1_dodge"
   },
   {
     "id": 320,
     "idunit": 283,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yinanna1_block"
   },
   {
     "id": 321,
     "idunit": 283,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yinanna1_support2"
   },
   {
     "id": 322,
     "idunit": 283,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yinanna1_support1"
   },
   {
@@ -2411,35 +2411,35 @@
     "id": 345,
     "idunit": 348,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_samansha1_counter"
   },
   {
     "id": 346,
     "idunit": 348,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_samansha1_dodge"
   },
   {
     "id": 347,
     "idunit": 348,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_samansha1_block"
   },
   {
     "id": 348,
     "idunit": 348,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_samansha1_support2"
   },
   {
     "id": 349,
     "idunit": 348,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_samansha1_support1"
   },
   {
@@ -2460,7 +2460,7 @@
     "id": 352,
     "idunit": 423,
     "title": "Deploy",
-    "text": "This place... is full of malevolence.",
+    "text": "This place… is full of malevolence.",
     "event_name": "play_vo_bt_momo_entrance"
   },
   {
@@ -2488,7 +2488,7 @@
     "id": 356,
     "idunit": 423,
     "title": "Special Finisher",
-    "text": "Sorry...",
+    "text": "Sorry…",
     "event_name": "play_vo_bt_momo_kill2"
   },
   {
@@ -2593,42 +2593,42 @@
     "id": 371,
     "idunit": 423,
     "title": "Perfect Victory",
-    "text": "Have I... done a good job? Ah, really? I always feel assured when you are around...",
+    "text": "Have I… done a good job? Ah, really? I always feel assured when you are around…",
     "event_name": "play_vo_bt_momo_win1"
   },
   {
     "id": 372,
     "idunit": 423,
     "title": "Standard Victory",
-    "text": "Mission accomplished... Just leave me alone for a while...",
+    "text": "Mission accomplished… Just leave me alone for a while…",
     "event_name": "play_vo_bt_momo_win2"
   },
   {
     "id": 373,
     "idunit": 423,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_momo_counter"
   },
   {
     "id": 374,
     "idunit": 423,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_momo_dodge"
   },
   {
     "id": 375,
     "idunit": 423,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_momo_support2"
   },
   {
     "id": 376,
     "idunit": 423,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_momo_support1"
   },
   {
@@ -2642,14 +2642,14 @@
     "id": 378,
     "idunit": 423,
     "title": "Summon",
-    "text": "When I was locked by chains, I had chosen the most special fate. They all said... that I was a good subject for experiments and also a perfect weapon on the battlefield... Wasn't this a compliment? Why would I feel regret?",
+    "text": "When I was locked in chains, I believed it was my fate. They all said… that I was a good subject for experiments and also a perfect weapon on the battlefield… Isn't that a compliment? Why would I feel regret?",
     "event_name": "play_vo_sys_momo_getcharacter"
   },
   {
     "id": 379,
     "idunit": 423,
     "title": "Level Up",
-    "text": "Gaining power makes me ache, but I like such a sense of reality.",
+    "text": "Gaining power makes me ache, but I like that it feels real.",
     "event_name": "play_vo_sys_momo_levelup"
   },
   {
@@ -2663,7 +2663,7 @@
     "id": 381,
     "idunit": 423,
     "title": "Star Level Up",
-    "text": "Does this mean that... I am special to you?",
+    "text": "Does this mean that… I am special to you?",
     "event_name": "play_vo_sys_momo_starup"
   },
   {
@@ -2684,21 +2684,21 @@
     "id": 384,
     "idunit": 423,
     "title": "Event Reminder",
-    "text": "It seems that there are new tasks waiting for you. Well, I will face them with you... if you need me.",
+    "text": "It seems that there are new tasks waiting for you. Well, I will face them with you… if you need me.",
     "event_name": "play_vo_sys_momo_event"
   },
   {
     "id": 385,
     "idunit": 423,
     "title": "Synchronization Ready",
-    "text": "Special care from you? I'm looking forward to it...",
+    "text": "Special care from you? I'm looking forward to it…",
     "event_name": "play_vo_sys_momo_recover"
   },
   {
     "id": 386,
     "idunit": 423,
     "title": "Execute Command",
-    "text": "Eh...... Let me try...",
+    "text": "Eh… Let me try…",
     "event_name": "play_vo_sys_momo_obey"
   },
   {
@@ -2866,14 +2866,14 @@
     "id": 410,
     "idunit": 161,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_counter"
   },
   {
     "id": 411,
     "idunit": 161,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_dodge"
   },
   {
@@ -2887,14 +2887,14 @@
     "id": 413,
     "idunit": 161,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_support1"
   },
   {
     "id": 414,
     "idunit": 161,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_support3"
   },
   {
@@ -2936,7 +2936,7 @@
     "id": 420,
     "idunit": 161,
     "title": "Mail Reminder",
-    "text": "You have recieved new correspondance. Please take care of it as soon as possible.",
+    "text": "You have received new correspondence. Please take care of it as soon as possible.",
     "event_name": "play_vo_sys_geluoliya_mail"
   },
   {
@@ -2978,7 +2978,7 @@
     "id": 426,
     "idunit": 423,
     "title": "Chat",
-    "text": "Hmm... You found me? I just want to be alone in a quiet place for a while...",
+    "text": "Hmm… You found me? I just want to be alone in a quiet place for a while…",
     "event_name": "play_vo_sys_momo_chat1"
   },
   {
@@ -3055,7 +3055,7 @@
     "id": 437,
     "idunit": 312,
     "title": "Summon",
-    "text": "Yo, were you waiting for me? Us meeting again must be destiny. Changing the world and resisting fate isn't easy, but don't worry. I've got your back.",
+    "text": "Hey, were you waiting for me? Us meeting again must be destiny. Changing the world and resisting fate isn't easy, but don't worry. I've got your back.",
     "event_name": "play_vo_sys_laweiye_getcharacter"
   },
   {
@@ -3076,7 +3076,7 @@
     "id": 440,
     "idunit": 312,
     "title": "Star Level Up",
-    "text": "More strength, more responsability. I accept your expectations.",
+    "text": "With great power comes great responsibility. I accept your expectations.",
     "event_name": "play_vo_sys_laweiye_starup"
   },
   {
@@ -3146,7 +3146,7 @@
     "id": 450,
     "idunit": 312,
     "title": "Greeting",
-    "text": "Yo! It's you.",
+    "text": "Hey! It's you.",
     "event_name": "play_vo_sys_laweiye_greeting"
   },
   {
@@ -3230,7 +3230,7 @@
     "id": 462,
     "idunit": 284,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_maisha_chat3"
   },
   {
@@ -3328,7 +3328,7 @@
     "id": 476,
     "idunit": 285,
     "title": "Chat",
-    "text": "Boss seems to really trust you. I don't know if it's because of your face or what extraordinary skills you have... Don't take it wrong. This is not compliment. In a word... I will continue to observe you.",
+    "text": "Boss seems to really trust you. I don't know if it's because of your face or what extraordinary skills you have... Don't take it the wrong way. This is not a compliment. In any case... I will keep an eye on you.",
     "event_name": "play_vo_sys_fakaer_chat1"
   },
   {
@@ -3342,7 +3342,7 @@
     "id": 478,
     "idunit": 285,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_fakaer_chat3"
   },
   {
@@ -3384,7 +3384,7 @@
     "id": 484,
     "idunit": 343,
     "title": "Summon",
-    "text": "Whoa! What's this place? Ooh, amazing! So amazing! Ooh, a talking cat! Yup. I'm staying. Huh? Who are you? … You look kinda familiar… I am the great Sorceress, Beryl! Hehe. Scary, right?",
+    "text": "Whoa! What's this place? Ooh, amazing! So amazing! Ooh, a talking cat! Yup. I'm staying. Huh? Who are you? … You look kind of familiar… I am the great Sorceress, Beryl! Hehe. Scary, right?",
     "event_name": "play_vo_sys_bela_getcharacter"
   },
   {
@@ -3426,7 +3426,7 @@
     "id": 490,
     "idunit": 343,
     "title": "Event Reminder",
-    "text": "Is something interesting happening? I want to go together! Let's go! And then, let's bring a big Calamity back! A really big one!",
+    "text": "Is something interesting happening? Let's go together! And then, let's bring a big Calamity back! A really big one!",
     "event_name": "play_vo_sys_bela_event"
   },
   {
@@ -3447,7 +3447,7 @@
     "id": 493,
     "idunit": 343,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_bela_chat3"
   },
   {
@@ -3552,7 +3552,7 @@
     "id": 508,
     "idunit": 349,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_ditaliao_chat3"
   },
   {
@@ -3657,7 +3657,7 @@
     "id": 523,
     "idunit": 323,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_lutefei_chat3"
   },
   {
@@ -3811,14 +3811,14 @@
     "id": 545,
     "idunit": 362,
     "title": "Summon",
-    "text": "It's you... Relax, I'm just a mercenary, taking money to do things without picking customers. In this hellhole, I think you must need more strength, too. You can afford it. I can do things for you. Do you think things have become very simple?",
+    "text": "It's you… Relax, I'm just a mercenary, taking money without being picky about customers. In this hellhole, I'd imagine you need more strength too. You can afford my work. What's more simple than that?",
     "event_name": "play_vo_sys_migeer_getcharacter"
   },
   {
     "id": 546,
     "idunit": 362,
     "title": "Level Up",
-    "text": "Yes, this investment will not lose money.",
+    "text": "Yes, this investment will pay off.",
     "event_name": "play_vo_sys_migeer_levelup"
   },
   {
@@ -3832,7 +3832,7 @@
     "id": 548,
     "idunit": 362,
     "title": "Star Level Up",
-    "text": "All right, take people's money to eliminate disasters for others. This, as a deposit.",
+    "text": "All right, averting disasters in exchange for money. That's what we call a deposit.",
     "event_name": "play_vo_sys_migeer_starup"
   },
   {
@@ -3860,7 +3860,7 @@
     "id": 552,
     "idunit": 362,
     "title": "Chat",
-    "text": "Don't worry about eating and drinking. This kind of mixed eating and waiting for death is my dream. Struggling like a dog for so many years, I didn't expect to get it easily in this hellhole. Well, don't worry, I will still finish the work I have to.",
+    "text": "Don't worry about food or drink. Eating what I can while waiting for death is the dream. After struggling like a dog for so many years, I never expected an easy life. Well, don't worry. I'll still finish the job.",
     "event_name": "play_vo_sys_migeer_chat1"
   },
   {
@@ -3874,7 +3874,7 @@
     "id": 554,
     "idunit": 362,
     "title": "Chat 3",
-    "text": "/",
+    "text": "You're absolutely right; the little one's ideas are what truly matter. Col seems fond of you when she says you're a nice leader. Col even mentioned treating you to a feast... Oh, how I struggle to cook anything fancy, but it seems I'm in for some trouble.",
     "event_name": "play_vo_sys_migeer_chat3"
   },
   {
@@ -3888,7 +3888,7 @@
     "id": 556,
     "idunit": 362,
     "title": "Synchronization Complete",
-    "text": "You spiteful man... It's hopeless.",
+    "text": "You're too good a person… it's hopeless.",
     "event_name": "play_vo_sys_migeer_recovered"
   },
   {
@@ -3937,7 +3937,7 @@
     "id": 578,
     "idunit": 399,
     "title": "Star Level Up",
-    "text": "It is hard to imagine that I was the daughter of a craftsman not long ago. Thank you, I will not live up to your expectations.",
+    "text": "It is hard to imagine that I was the daughter of a craftsman not long ago. Thank you, I will live up to your expectations.",
     "event_name": "play_vo_sys_aida_starup"
   },
   {
@@ -3951,7 +3951,7 @@
     "id": 580,
     "idunit": 399,
     "title": "Mail Reminder",
-    "text": "There are new emails... so, don't you want to see them first?",
+    "text": "There's new mail… don't you want to read it first?",
     "event_name": "play_vo_sys_aida_mail"
   },
   {
@@ -3965,21 +3965,21 @@
     "id": 582,
     "idunit": 399,
     "title": "Chat",
-    "text": "Everyone tries hard to adapt to life here, although there are often all kinds of small trouble . This is a Elysium full of stamina and hope. I like this life!",
+    "text": "Everyone is doing their best to adapt to life here even when small issues crop up. Elysium is full of hope and effort! I like it here!",
     "event_name": "play_vo_sys_aida_chat1"
   },
   {
     "id": 583,
     "idunit": 399,
     "title": "Chat 2",
-    "text": "I like bright sunshine and sunflowers, and also like heavy dark clouds and mimosa. Whether it is cloudy or sunny, the sky has different charm, and so do you. Ah, is it strange...",
+    "text": "I like bright sunshine and sunflowers, and heavy dark clouds and mimosa. Whether it is cloudy or sunny, the sky has a different charm, and so do you. Ah, is it strange...",
     "event_name": "play_vo_sys_aida_chat2"
   },
   {
     "id": 584,
     "idunit": 399,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_aida_chat3"
   },
   {
@@ -4077,14 +4077,14 @@
     "id": 614,
     "idunit": 283,
     "title": "Chat 2",
-    "text": "Recently, I dream of rebuilding my home with everyone, working hard and happy. Thank you for your company along the way. By your side, there is an inexplicable sense of peace of mind. What kind of magic do you have?",
+    "text": "Recently, I dreamed of rebuilding my home with everyone, working hard and happy. Thank you for your company along the way. By your side, there is an inexplicable sense of peace of mind. What kind of magic do you have?",
     "event_name": "play_vo_sys_yinanna1_chat2"
   },
   {
     "id": 615,
     "idunit": 283,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_yinanna1_chat3"
   },
   {
@@ -4238,7 +4238,7 @@
     "id": 637,
     "idunit": 161,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_block"
   },
   {
@@ -4385,14 +4385,14 @@
     "id": 658,
     "idunit": 332,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taideng_counter"
   },
   {
     "id": 659,
     "idunit": 332,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taideng_dodge"
   },
   {
@@ -4413,7 +4413,7 @@
     "id": 662,
     "idunit": 332,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taideng_support1"
   },
   {
@@ -4546,7 +4546,7 @@
     "id": 696,
     "idunit": 372,
     "title": "Exhausted",
-    "text": "Take it!",
+    "text": "Take this!",
     "event_name": "play_vo_bt_ajiata_die"
   },
   {
@@ -4567,7 +4567,7 @@
     "id": 699,
     "idunit": 372,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_counter"
   },
   {
@@ -4581,7 +4581,7 @@
     "id": 701,
     "idunit": 372,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_block"
   },
   {
@@ -4595,14 +4595,14 @@
     "id": 703,
     "idunit": 372,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_support1"
   },
   {
     "id": 704,
     "idunit": 372,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_support3"
   },
   {
@@ -4756,21 +4756,21 @@
     "id": 741,
     "idunit": 162,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_counter"
   },
   {
     "id": 742,
     "idunit": 162,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_dodge"
   },
   {
     "id": 743,
     "idunit": 162,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_block"
   },
   {
@@ -4784,14 +4784,14 @@
     "id": 745,
     "idunit": 162,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_support1"
   },
   {
     "id": 746,
     "idunit": 162,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_geluoliya_support3"
   },
   {
@@ -5029,7 +5029,7 @@
     "id": 780,
     "idunit": 373,
     "title": "Exhausted",
-    "text": "Take it!",
+    "text": "Take this!",
     "event_name": "play_vo_bt_ajiata_die"
   },
   {
@@ -5050,7 +5050,7 @@
     "id": 783,
     "idunit": 373,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_counter"
   },
   {
@@ -5064,7 +5064,7 @@
     "id": 785,
     "idunit": 373,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_block"
   },
   {
@@ -5078,14 +5078,14 @@
     "id": 787,
     "idunit": 373,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_support1"
   },
   {
     "id": 788,
     "idunit": 373,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ajiata_support3"
   },
   {
@@ -5148,14 +5148,14 @@
     "id": 797,
     "idunit": 373,
     "title": "Chat 2",
-    "text": "This is a really nice place for rest, isn't it? I love doing nothing like this.",
+    "text": "This is a really nice place to rest, isn't it? There's nothing I love more than doing nothing like this.",
     "event_name": "play_vo_sys_ajiata_chat2"
   },
   {
     "id": 798,
     "idunit": 373,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_ajiata_chat3"
   },
   {
@@ -5295,14 +5295,14 @@
     "id": 818,
     "idunit": 334,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_magenusi_counter"
   },
   {
     "id": 819,
     "idunit": 334,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_magenusi_dodge"
   },
   {
@@ -5316,7 +5316,7 @@
     "id": 821,
     "idunit": 334,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_magenusi_support1"
   },
   {
@@ -5393,7 +5393,7 @@
     "id": 832,
     "idunit": 334,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_magenusi_chat3"
   },
   {
@@ -5407,7 +5407,7 @@
     "id": 834,
     "idunit": 334,
     "title": "Synchronization Complete",
-    "text": "I propose a toast to celebrate a friendship that trancends generations!",
+    "text": "I propose a toast to celebrate a friendship that transcends generations!",
     "event_name": "play_vo_sys_magenusi_recovered"
   },
   {
@@ -5533,28 +5533,28 @@
     "id": 852,
     "idunit": 401,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lunjiale_counter"
   },
   {
     "id": 853,
     "idunit": 401,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lunjiale_dodge"
   },
   {
     "id": 854,
     "idunit": 401,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lunjiale_support2"
   },
   {
     "id": 855,
     "idunit": 401,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lunjiale_support1"
   },
   {
@@ -5631,7 +5631,7 @@
     "id": 866,
     "idunit": 401,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_lunjiale_chat3"
   },
   {
@@ -5771,14 +5771,14 @@
     "id": 886,
     "idunit": 402,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_neierjiale_counter"
   },
   {
     "id": 887,
     "idunit": 402,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_neierjiale_dodge"
   },
   {
@@ -5792,21 +5792,21 @@
     "id": 889,
     "idunit": 402,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_neierjiale_support1"
   },
   {
     "id": 890,
     "idunit": 402,
     "title": "Alert",
-    "text": "Go through me first!",
+    "text": "Face me first!",
     "event_name": "play_vo_bt_neierjiale_support3"
   },
   {
     "id": 891,
     "idunit": 402,
     "title": "Summon",
-    "text": "To guard Iria against the darkness, regardless of life or reputation. Such is the doctrine of the Hanged Men. I am Nergal. What is it you are fighting for?",
+    "text": "To guard Iria against the darkness, regardless of risk to life or reputation. Such is the doctrine of the Hanged Men. I am Nergal. What is it you are fighting for?",
     "event_name": "play_vo_sys_neierjiale_getcharacter"
   },
   {
@@ -5827,7 +5827,7 @@
     "id": 894,
     "idunit": 402,
     "title": "Star Level Up",
-    "text": "Your trust will not be betrayed. It will be shown when on the battlefield.",
+    "text": "If you don't trust me, I will be of no use on the battlefield.",
     "event_name": "play_vo_sys_neierjiale_starup"
   },
   {
@@ -5855,7 +5855,7 @@
     "id": 898,
     "idunit": 402,
     "title": "Chat",
-    "text": "This Elysium is so peaceful that everyone seems to have lost their sense of tension. It is dangerous and we must do something.",
+    "text": "This Elysium is so peaceful that everyone seems to have lost their sense of tension. It's dangerous to become this complacent.",
     "event_name": "play_vo_sys_neierjiale_chat1"
   },
   {
@@ -5869,7 +5869,7 @@
     "id": 900,
     "idunit": 402,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_neierjiale_chat3"
   },
   {
@@ -5883,7 +5883,7 @@
     "id": 902,
     "idunit": 402,
     "title": "Synchronization Complete",
-    "text": "Sorry, I'm not used to this...",
+    "text": "Sorry, I'm not used to this…",
     "event_name": "play_vo_sys_neierjiale_recovered"
   },
   {
@@ -5988,7 +5988,7 @@
     "id": 917,
     "idunit": 393,
     "title": "Exhausted",
-    "text": "Sorry...",
+    "text": "Sorry…",
     "event_name": "play_vo_bt_yiqi_die"
   },
   {
@@ -6016,21 +6016,21 @@
     "id": 921,
     "idunit": 393,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yiqi_dodge"
   },
   {
     "id": 922,
     "idunit": 393,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yiqi_support2"
   },
   {
     "id": 923,
     "idunit": 393,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yiqi_support1"
   },
   {
@@ -6107,7 +6107,7 @@
     "id": 934,
     "idunit": 393,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_yiqi_chat3"
   },
   {
@@ -6142,7 +6142,7 @@
     "id": 939,
     "idunit": 393,
     "title": "Idle",
-    "text": "Rest assured , I'll be in charge of vigilance!",
+    "text": "Rest assured. I'll be on the lookout!",
     "event_name": "play_vo_sys_yiqi_idle"
   },
   {
@@ -6254,21 +6254,21 @@
     "id": 955,
     "idunit": 318,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aogusite_dodge"
   },
   {
     "id": 956,
     "idunit": 318,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aogusite_support2"
   },
   {
     "id": 957,
     "idunit": 318,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aogusite_support1"
   },
   {
@@ -6317,14 +6317,14 @@
     "id": 964,
     "idunit": 318,
     "title": "Mail Reminder",
-    "text": "It's time to check the mail, \"Leader\".",
+    "text": "It's time to check the mail, \"Leader.\"",
     "event_name": "play_vo_sys_aogusite_mail"
   },
   {
     "id": 965,
     "idunit": 318,
     "title": "Event Reminder",
-    "text": "Shouldn't you be leaving, \"Leader\".",
+    "text": "Shouldn't you be leaving, \"Leader.\"",
     "event_name": "play_vo_sys_aogusite_event"
   },
   {
@@ -6345,7 +6345,7 @@
     "id": 968,
     "idunit": 318,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_aogusite_chat3"
   },
   {
@@ -6408,7 +6408,7 @@
     "id": 977,
     "idunit": 441,
     "title": "Continuous Finisher",
-    "text": "This is the price...",
+    "text": "This is the price…",
     "event_name": "play_vo_bt_lieaonide_kill3"
   },
   {
@@ -6464,7 +6464,7 @@
     "id": 985,
     "idunit": 441,
     "title": "Exhausted",
-    "text": "Sorry, it was my dereliction of duty...",
+    "text": "Sorry, it was my dereliction of duty…",
     "event_name": "play_vo_bt_lieaonide_die"
   },
   {
@@ -6492,7 +6492,7 @@
     "id": 989,
     "idunit": 441,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lieaonide_dodge"
   },
   {
@@ -6506,21 +6506,21 @@
     "id": 991,
     "idunit": 441,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lieaonide_support1"
   },
   {
     "id": 992,
     "idunit": 441,
     "title": "Alert",
-    "text": "Access Prohibited!",
+    "text": "Access denied!",
     "event_name": "play_vo_bt_lieaonide_support3"
   },
   {
     "id": 993,
     "idunit": 441,
     "title": "Summon",
-    "text": "This place is... Ah, now I understand. I am Leonide, a Radiant Guard. My life and allegiance are not mine to claim; they have long been pledged elsewhere. I ask for your understanding. As for this lance I wield, it stands ready to serve you, should you desire its aid.",
+    "text": "This place is… Ah, now I understand. I am Leonide, a Radiant Guard. My life and allegiance are not mine to claim; they have long been pledged elsewhere. I ask for your understanding. As for this lance I wield, it stands ready to serve you, should you desire its aid.",
     "event_name": "play_vo_sys_lieaonide_getcharacter"
   },
   {
@@ -6555,7 +6555,7 @@
     "id": 998,
     "idunit": 441,
     "title": "Mail Reminder",
-    "text": "You have a new message to process.",
+    "text": "You have a new message to read.",
     "event_name": "play_vo_sys_lieaonide_mail"
   },
   {
@@ -6583,7 +6583,7 @@
     "id": 1002,
     "idunit": 441,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_lieaonide_chat3"
   },
   {
@@ -6597,7 +6597,7 @@
     "id": 1004,
     "idunit": 441,
     "title": "Synchronization Complete",
-    "text": "This ritual is consuming your energy. Is it really... worth it?",
+    "text": "This ritual is consuming your energy. Is it really… worth it?",
     "event_name": "play_vo_sys_lieaonide_recovered"
   },
   {
@@ -6618,7 +6618,7 @@
     "id": 1007,
     "idunit": 441,
     "title": "Idle",
-    "text": "Caris...",
+    "text": "Caris…",
     "event_name": "play_vo_sys_lieaonide_idle"
   },
   {
@@ -6730,21 +6730,21 @@
     "id": 1023,
     "idunit": 335,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_zeweier_dodge"
   },
   {
     "id": 1024,
     "idunit": 335,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_zeweier_support2"
   },
   {
     "id": 1025,
     "idunit": 335,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_zeweier_support1"
   },
   {
@@ -6821,7 +6821,7 @@
     "id": 1036,
     "idunit": 335,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_zeweier_chat3"
   },
   {
@@ -6961,7 +6961,7 @@
     "id": 1056,
     "idunit": 151,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_keer_counter"
   },
   {
@@ -6975,49 +6975,49 @@
     "id": 1058,
     "idunit": 151,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_keer_support2"
   },
   {
     "id": 1059,
     "idunit": 151,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_keer_support1"
   },
   {
     "id": 1060,
     "idunit": 151,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_keer_support3"
   },
   {
     "id": 1061,
     "idunit": 151,
     "title": "Summon",
-    "text": "Migue said that masks are used to protect themselves, and those who don't have masks wear many masks. Col doesn't understand. Col only has one mask which is sent by Migue. He hopes that one day... Col will never have to... wear a mask...",
+    "text": "Miguel said that masks are used to protect oneself. Those who don't wear a mask actually wear many masks. Col doesn't understand. Col has only one mask, from Miguel. He said he hopes that one day… Col will not need… to wear a mask…",
     "event_name": "play_vo_sys_keer_getcharacter"
   },
   {
     "id": 1062,
     "idunit": 151,
     "title": "Level Up",
-    "text": "Ooh! Migue will be happy!",
+    "text": "Ooh! Miguel will be happy!",
     "event_name": "play_vo_sys_keer_levelup"
   },
   {
     "id": 1063,
     "idunit": 151,
     "title": "Learn Skills",
-    "text": "Ooh! This, is amazing!",
+    "text": "Ooh! This… is amazing!",
     "event_name": "play_vo_sys_keer_getskill"
   },
   {
     "id": 1064,
     "idunit": 151,
     "title": "Star Level Up",
-    "text": "You are a good man! Col likes you!",
+    "text": "You are a good person! Col likes you!",
     "event_name": "play_vo_sys_keer_starup"
   },
   {
@@ -7199,7 +7199,7 @@
     "id": 1090,
     "idunit": 437,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_jiaxiya_counter"
   },
   {
@@ -7213,7 +7213,7 @@
     "id": 1092,
     "idunit": 437,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_jiaxiya_support2"
   },
   {
@@ -7227,7 +7227,7 @@
     "id": 1094,
     "idunit": 437,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_jiaxiya_support3"
   },
   {
@@ -7682,7 +7682,7 @@
     "id": 1159,
     "idunit": 401,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lunjiale_block"
   },
   {
@@ -7780,21 +7780,21 @@
     "id": 1173,
     "idunit": 393,
     "title": "Damage 1",
-    "text": "Take it!",
+    "text": "Take this!",
     "event_name": "play_vo_bt_yiqi_attack2_01"
   },
   {
     "id": 1174,
     "idunit": 393,
     "title": "Damage 2",
-    "text": "Don't try to escape!",
+    "text": "There's no escape!",
     "event_name": "play_vo_bt_yiqi_attack2_02"
   },
   {
     "id": 1175,
     "idunit": 393,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yiqi_block"
   },
   {
@@ -7850,7 +7850,7 @@
     "id": 1183,
     "idunit": 318,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_aogusite_block"
   },
   {
@@ -7906,7 +7906,7 @@
     "id": 1191,
     "idunit": 441,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lieaonide_block"
   },
   {
@@ -7962,7 +7962,7 @@
     "id": 1199,
     "idunit": 335,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_zeweier_block"
   },
   {
@@ -8018,7 +8018,7 @@
     "id": 1207,
     "idunit": 151,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_keer_block"
   },
   {
@@ -8074,7 +8074,7 @@
     "id": 1215,
     "idunit": 437,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_jiaxiya_block"
   },
   {
@@ -8179,14 +8179,14 @@
     "id": 1230,
     "idunit": 351,
     "title": "Mail Reminder",
-    "text": "You got a nice Mail seemingly from a considerate sender.",
+    "text": "You received mail from a considerate sender.",
     "event_name": "play_vo_sys_nuonuoweier_mail"
   },
   {
     "id": 1231,
     "idunit": 351,
     "title": "Event Reminder",
-    "text": "Sea of Chaos has changed recently. Don't you want to see it?",
+    "text": "The Sea of Chaos has changed recently. Don't you want to see it?",
     "event_name": "play_vo_sys_nuonuoweier_event"
   },
   {
@@ -8214,7 +8214,7 @@
     "id": 1235,
     "idunit": 351,
     "title": "Synchronization Ready",
-    "text": "...well, I'm ready.",
+    "text": "...Well, I'm ready.",
     "event_name": "play_vo_sys_nuonuoweier_recover"
   },
   {
@@ -8305,14 +8305,14 @@
     "id": 1248,
     "idunit": 372,
     "title": "Chat 2",
-    "text": "This is a really nice place for rest, isn't it? I love doing nothing like this.",
+    "text": "This is a really nice place to rest, isn't it? There's nothing I love more than doing nothing like this.",
     "event_name": "play_vo_sys_ajiata_chat2"
   },
   {
     "id": 1249,
     "idunit": 372,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_ajiata_chat3"
   },
   {
@@ -8354,28 +8354,28 @@
     "id": 1255,
     "idunit": 350,
     "title": "Alert",
-    "text": "Go to hell, invaders!",
+    "text": "Invader, prepare to die!",
     "event_name": "play_vo_bt_liliweier_support3"
   },
   {
     "id": 1256,
     "idunit": 350,
     "title": "Summon",
-    "text": "It is the wind of Vltar Mountain that guides our Summon. I am LilyWill. The bow and arrow in the hands of the Wilders are only to protect our homeland and our most cherished family.",
+    "text": "The winds of the Vltar Mountain have guided our meeting. I am LilyWill. The bow and arrow I wield are used solely for protecting the homeland of my people and our cherished family members.",
     "event_name": "play_vo_sys_liliweier_getcharacter"
   },
   {
     "id": 1257,
     "idunit": 350,
     "title": "Level Up",
-    "text": "Every strength is precious to us.",
+    "text": "Every bit of strength is precious to us.",
     "event_name": "play_vo_sys_liliweier_levelup"
   },
   {
     "id": 1258,
     "idunit": 350,
     "title": "Learn Skills",
-    "text": "This power may enable me to save more families.",
+    "text": "This power may enable me to save more of my family.",
     "event_name": "play_vo_sys_liliweier_getskill"
   },
   {
@@ -8403,28 +8403,28 @@
     "id": 1262,
     "idunit": 350,
     "title": "Event Reminder",
-    "text": "Call me when you are about leaving. I think... you will need my help.",
+    "text": "Call for me when you are ready to set off. I believe… you may need my assistance.",
     "event_name": "play_vo_sys_liliweier_event"
   },
   {
     "id": 1263,
     "idunit": 350,
     "title": "Chat",
-    "text": "Every choice, and every battle is about our destiny, so Vlderian cherishes every promise, and can't... forgive reneging.",
+    "text": "Every choice; every battle. All concern our destiny. Vlderians cherish every promise, and betrayal… will not be forgiven.",
     "event_name": "play_vo_sys_liliweier_chat1"
   },
   {
     "id": 1264,
     "idunit": 350,
     "title": "Chat 2",
-    "text": "This piece of Elysium is so peaceful and peaceful that it reminds me of Vltar Mountain. Just... If everything could be done again, what choice would we make…",
+    "text": "There are those who say you're avoiding me… but you are not that kind of person, right? I dislike the rumors. Take me along for the next battle so that we can put their words to rest.",
     "event_name": "play_vo_sys_liliweier_chat2"
   },
   {
     "id": 1265,
     "idunit": 350,
     "title": "Chat 3",
-    "text": "/",
+    "text": "Mmm… I slept really well! I can sense your presence all around here. Seems someone has been taking good care of their territory! Thank you… even without the winds of Vltar Mountain, I feel at ease.",
     "event_name": "play_vo_sys_liliweier_chat3"
   },
   {
@@ -8466,7 +8466,7 @@
     "id": 1271,
     "idunit": 332,
     "title": "Summon",
-    "text": "Seeing the zeal of youth in pursuit of their dreams always fills me with a mix of envy and admiration. I am Knight Teaden Alfred, at your service to offer whatever support I can.",
+    "text": "Seeing the zeal of youth in pursuit of their dreams always fills me with a mix of envy and admiration. I am Knight Teadon Alfred, at your service to offer whatever support I can.",
     "event_name": "play_vo_sys_taideng_getcharacter"
   },
   {
@@ -8501,7 +8501,7 @@
     "id": 1276,
     "idunit": 332,
     "title": "Mail Reminder",
-    "text": "My leader, there is correspondance awaiting your attention.",
+    "text": "My leader, there is correspondence awaiting your attention.",
     "event_name": "play_vo_sys_taideng_mail"
   },
   {
@@ -8529,7 +8529,7 @@
     "id": 1280,
     "idunit": 332,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_taideng_chat3"
   },
   {
@@ -8571,7 +8571,7 @@
     "id": 1377,
     "idunit": 343,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_bela_support3"
   },
   {
@@ -8585,56 +8585,56 @@
     "id": 1379,
     "idunit": 323,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_lufeite_support3"
   },
   {
     "id": 1380,
     "idunit": 313,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_suofeiya_support3"
   },
   {
     "id": 1381,
     "idunit": 283,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_yinanna1_support3"
   },
   {
     "id": 1382,
     "idunit": 348,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_samansha1_support3"
   },
   {
     "id": 1383,
     "idunit": 491,
     "title": "Summon",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_heimao_getcharacter"
   },
   {
     "id": 1384,
     "idunit": 491,
     "title": "Level Up",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_heimao_levelup"
   },
   {
     "id": 1385,
     "idunit": 491,
     "title": "Learn Skills",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_heimao_getskill"
   },
   {
     "id": 1386,
     "idunit": 491,
     "title": "Star Level Up",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_heimao_starup"
   },
   {
@@ -8704,7 +8704,7 @@
     "id": 1396,
     "idunit": 491,
     "title": "Chat 8",
-    "text": "I've never considered that everyone in Elysium has their own histories... Yet, somehow you are able to have them fight together regardless. Is this because of your so-called \"bond\"? Hmph, it doesn't bother me... But when you're not in Elysium, you need watch out for some of them!",
+    "text": "I've never considered that everyone in Elysium has their own history... Yet, somehow you are able to have them fight together regardless. Is this because of your so-called \"bond\"? Hmph, it doesn't bother me... But when you're not in Elysium, you need watch out for some of them!",
     "event_name": "play_vo_sys_heimao_chat3_02"
   },
   {
@@ -8795,7 +8795,7 @@
     "id": 1409,
     "idunit": 351,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_nuonuoweier_support3"
   },
   {
@@ -8949,42 +8949,42 @@
     "id": 1431,
     "idunit": 440,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ximengna_counter"
   },
   {
     "id": 1432,
     "idunit": 440,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ximengna_dodge"
   },
   {
     "id": 1433,
     "idunit": 440,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ximengna_block"
   },
   {
     "id": 1434,
     "idunit": 440,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ximengna_support2"
   },
   {
     "id": 1435,
     "idunit": 440,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ximengna_support1"
   },
   {
     "id": 1436,
     "idunit": 440,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_ximengna_support3"
   },
   {
@@ -9054,14 +9054,14 @@
     "id": 1446,
     "idunit": 440,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_ximengna_chat3"
   },
   {
     "id": 1447,
     "idunit": 440,
     "title": "Synchronization Ready",
-    "text": "\"Spiritual Homology,\" you say? I'm ready whenever you are.",
+    "text": "\"Spiritual Forging,\" you say? I'm ready whenever you are.",
     "event_name": "play_vo_sys_ximengna_recover"
   },
   {
@@ -9243,42 +9243,42 @@
     "id": 1473,
     "idunit": 477,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taaier_counter"
   },
   {
     "id": 1474,
     "idunit": 477,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taaier_dodge"
   },
   {
     "id": 1475,
     "idunit": 477,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taaier_block"
   },
   {
     "id": 1476,
     "idunit": 477,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taaier_support2"
   },
   {
     "id": 1477,
     "idunit": 477,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taaier_support1"
   },
   {
     "id": 1478,
     "idunit": 477,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_taaier_support3"
   },
   {
@@ -9348,7 +9348,7 @@
     "id": 1488,
     "idunit": 477,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_taaier_chat3"
   },
   {
@@ -9502,7 +9502,7 @@
     "id": 1510,
     "idunit": 358,
     "title": "Injured",
-    "text": "Roar, time to get serious!",
+    "text": "Rrragggh! Time to get serious!",
     "event_name": "play_vo_bt_alikexie_battlestart2"
   },
   {
@@ -9537,14 +9537,14 @@
     "id": 1515,
     "idunit": 358,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_alikexie_counter"
   },
   {
     "id": 1516,
     "idunit": 358,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_alikexie_dodge"
   },
   {
@@ -9565,7 +9565,7 @@
     "id": 1519,
     "idunit": 358,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_alikexie_support1"
   },
   {
@@ -9600,7 +9600,7 @@
     "id": 1524,
     "idunit": 358,
     "title": "Star Level Up",
-    "text": "You call the shots, I'll bring the fight. We'll make a perfect duo! Leader, count on me to cover your back!",
+    "text": "You call the shots. I'll bring the fight. We'll make a perfect duo! Leader, you can count on me to cover your back!",
     "event_name": "play_vo_sys_alikexie_starup"
   },
   {
@@ -9642,7 +9642,7 @@
     "id": 1530,
     "idunit": 358,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_alikexie_chat3"
   },
   {
@@ -9831,42 +9831,42 @@
     "id": 1557,
     "idunit": 463,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_kalisi_counter"
   },
   {
     "id": 1558,
     "idunit": 463,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_kalisi_dodge"
   },
   {
     "id": 1559,
     "idunit": 463,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_kalisi_block"
   },
   {
     "id": 1560,
     "idunit": 463,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_kalisi_support2"
   },
   {
     "id": 1561,
     "idunit": 463,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_kalisi_support1"
   },
   {
     "id": 1562,
     "idunit": 463,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_kalisi_support3"
   },
   {
@@ -9936,7 +9936,7 @@
     "id": 1572,
     "idunit": 463,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_kalisi_chat3"
   },
   {
@@ -10125,7 +10125,7 @@
     "id": 1599,
     "idunit": 473,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_xiakelulu_counter"
   },
   {
@@ -10139,28 +10139,28 @@
     "id": 1601,
     "idunit": 473,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_xiakelulu_block"
   },
   {
     "id": 1602,
     "idunit": 473,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_xiakelulu_support2"
   },
   {
     "id": 1603,
     "idunit": 473,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_xiakelulu_support1"
   },
   {
     "id": 1604,
     "idunit": 473,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_xiakelulu_support3"
   },
   {
@@ -10419,7 +10419,7 @@
     "id": 1641,
     "idunit": 493,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_koukouna_counter"
   },
   {
@@ -10433,28 +10433,28 @@
     "id": 1643,
     "idunit": 493,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_koukouna_block"
   },
   {
     "id": 1644,
     "idunit": 493,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_koukouna_support2"
   },
   {
     "id": 1645,
     "idunit": 493,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_koukouna_support1"
   },
   {
     "id": 1646,
     "idunit": 493,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_koukouna_support3"
   },
   {
@@ -10524,7 +10524,7 @@
     "id": 1656,
     "idunit": 493,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_koukouna_chat3"
   },
   {
@@ -10713,42 +10713,42 @@
     "id": 1683,
     "idunit": 480,
     "title": "Preempt",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_akanbei_counter"
   },
   {
     "id": 1684,
     "idunit": 480,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_akanbei_dodge"
   },
   {
     "id": 1685,
     "idunit": 480,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_akanbei_block"
   },
   {
     "id": 1686,
     "idunit": 480,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_akanbei_support2"
   },
   {
     "id": 1687,
     "idunit": 480,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_akanbei_support1"
   },
   {
     "id": 1688,
     "idunit": 480,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_akanbei_support3"
   },
   {
@@ -10818,7 +10818,7 @@
     "id": 1698,
     "idunit": 480,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_akanbei_chat3"
   },
   {
@@ -11014,42 +11014,42 @@
     "id": 1726,
     "idunit": 490,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_hasina_dodge"
   },
   {
     "id": 1727,
     "idunit": 490,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_hasina_block"
   },
   {
     "id": 1728,
     "idunit": 490,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_hasina_support2"
   },
   {
     "id": 1729,
     "idunit": 490,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_hasina_support1"
   },
   {
     "id": 1730,
     "idunit": 490,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_hasina_support3"
   },
   {
     "id": 1731,
     "idunit": 490,
     "title": "Summon",
-    "text": "I come at Lukamar's behest. Whether in Elysium or Hashalaram's palace, as long as our paths align, I'll serve you with imperial standards.",
+    "text": "I came at Lukamar's behest. Whether in Elysium or Hashalaram's palace, as long as our paths align, I'll serve you with imperial standards.",
     "event_name": "play_vo_sys_hasina_getcharacter"
   },
   {
@@ -11112,7 +11112,7 @@
     "id": 1740,
     "idunit": 490,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_hasina_chat3"
   },
   {
@@ -11308,35 +11308,35 @@
     "id": 1768,
     "idunit": 495,
     "title": "Dodge",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_huoma_dodge"
   },
   {
     "id": 1769,
     "idunit": 495,
     "title": "Block",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_huoma_block"
   },
   {
     "id": 1770,
     "idunit": 495,
     "title": "Assisting Cover",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_huoma_support2"
   },
   {
     "id": 1771,
     "idunit": 495,
     "title": "Assisting Attack",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_huoma_support1"
   },
   {
     "id": 1772,
     "idunit": 495,
     "title": "Alert",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_bt_huoma_support3"
   },
   {
@@ -11406,7 +11406,7 @@
     "id": 1782,
     "idunit": 495,
     "title": "Chat 3",
-    "text": "/",
+    "text": "",
     "event_name": "play_vo_sys_huoma_chat3"
   },
   {
@@ -11443,5 +11443,488 @@
     "title": "Idle",
     "text": "Shh! Goli, Baloor, let's sneak a peek quietly.",
     "event_name": "play_vo_sys_huoma_idle"
+  },
+  {
+    "id": 1815,
+    "idunit": 528,
+    "title": "Assisting Attack",
+    "text": "",
+    "event_name": "play_vo_bt_lila_support1"
+  },
+  {
+    "id": 1853,
+    "idunit": 517,
+    "title": "Preempt",
+    "text": "",
+    "event_name": "play_vo_bt_suofeiya_sp_counter"
+  },
+  {
+    "id": 1854,
+    "idunit": 517,
+    "title": "Dodge",
+    "text": "",
+    "event_name": "play_vo_bt_suofeiya_sp_dodge"
+  },
+  {
+    "id": 1855,
+    "idunit": 517,
+    "title": "Block",
+    "text": "",
+    "event_name": "play_vo_bt_suofeiya_sp_block"
+  },
+  {
+    "id": 1856,
+    "idunit": 517,
+    "title": "Assisting Cover",
+    "text": "",
+    "event_name": "play_vo_bt_suofeiya_sp_support2"
+  },
+  {
+    "id": 1857,
+    "idunit": 517,
+    "title": "Assisting Attack",
+    "text": "",
+    "event_name": "play_vo_bt_suofeiya_sp_support1"
+  },
+  {
+    "id": 1858,
+    "idunit": 517,
+    "title": "Alert",
+    "text": "",
+    "event_name": "play_vo_bt_suofeiya_sp_support3"
+  },
+  {
+    "id": 1895,
+    "idunit": 512,
+    "title": "Preempt",
+    "text": "",
+    "event_name": "play_vo_bt_laweiye_sp_counter"
+  },
+  {
+    "id": 1897,
+    "idunit": 512,
+    "title": "Block",
+    "text": "",
+    "event_name": "play_vo_bt_laweiye_sp_block"
+  },
+  {
+    "id": 1899,
+    "idunit": 512,
+    "title": "Assisting Attack",
+    "text": "",
+    "event_name": "play_vo_bt_laweiye_sp_support1"
+  },
+  {
+    "id": 1900,
+    "idunit": 512,
+    "title": "Alert",
+    "text": "",
+    "event_name": "play_vo_bt_laweiye_sp_support3"
+  },
+  {
+    "id": 1938,
+    "idunit": 532,
+    "title": "Dodge",
+    "text": "",
+    "event_name": "play_vo_bt_cuisitan_dodge"
+  },
+  {
+    "id": 1941,
+    "idunit": 532,
+    "title": "Assisting Attack",
+    "text": "",
+    "event_name": "play_vo_bt_cuisitan_support1"
+  },
+  {
+    "id": 1942,
+    "idunit": 532,
+    "title": "Alert",
+    "text": "",
+    "event_name": "play_vo_bt_cuisitan_support3"
+  },
+  {
+    "id": 1980,
+    "idunit": 538,
+    "title": "Dodge",
+    "text": "",
+    "event_name": "play_vo_bt_pamina_dodge"
+  },
+  {
+    "id": 1981,
+    "idunit": 538,
+    "title": "Block",
+    "text": "",
+    "event_name": "play_vo_bt_pamina_block"
+  },
+  {
+    "id": 1982,
+    "idunit": 538,
+    "title": "Assisting Cover",
+    "text": "",
+    "event_name": "play_vo_bt_pamina_support2"
+  },
+  {
+    "id": 1983,
+    "idunit": 538,
+    "title": "Assisting Attack",
+    "text": "",
+    "event_name": "play_vo_bt_pamina_support1"
+  },
+  {
+    "id": 1986,
+    "idunit": 538,
+    "title": "Level Up",
+    "text": "Just like steel, it is forged through gradual refinement, step by step.",
+    "event_name": "play_vo_sys_pamina_levelup"
+  },
+  {
+    "id": 1994,
+    "idunit": 538,
+    "title": "Chat 3",
+    "text": "",
+    "event_name": "play_vo_sys_pamina_chat3"
+  },
+  {
+    "id": 2021,
+    "idunit": 529,
+    "title": "Preempt",
+    "text": "",
+    "event_name": "play_vo_bt_qiya_counter"
+  },
+  {
+    "id": 2023,
+    "idunit": 529,
+    "title": "Block",
+    "text": "",
+    "event_name": "play_vo_bt_qiya_block"
+  },
+  {
+    "id": 2024,
+    "idunit": 529,
+    "title": "Assisting Cover",
+    "text": "",
+    "event_name": "play_vo_bt_qiya_support2"
+  },
+  {
+    "id": 2025,
+    "idunit": 529,
+    "title": "Assisting Attack",
+    "text": "",
+    "event_name": "play_vo_bt_qiya_support1"
+  },
+  {
+    "id": 2026,
+    "idunit": 529,
+    "title": "Alert",
+    "text": "",
+    "event_name": "play_vo_bt_qiya_support3"
+  },
+  {
+    "id": 2042,
+    "idunit": 362,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_migeer_chat2_02"
+  },
+  {
+    "id": 2043,
+    "idunit": 318,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_aogusite_chat2_02"
+  },
+  {
+    "id": 2044,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_entrance"
+  },
+  {
+    "id": 2045,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_idle_01"
+  },
+  {
+    "id": 2046,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_idle_02"
+  },
+  {
+    "id": 2047,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_kill1"
+  },
+  {
+    "id": 2048,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_kill2"
+  },
+  {
+    "id": 2049,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_kill3"
+  },
+  {
+    "id": 2050,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_attack_01"
+  },
+  {
+    "id": 2051,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_attack_02"
+  },
+  {
+    "id": 2052,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_attack_03"
+  },
+  {
+    "id": 2053,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_attack2_01"
+  },
+  {
+    "id": 2054,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_attack2_02"
+  },
+  {
+    "id": 2055,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_buff1"
+  },
+  {
+    "id": 2056,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_buff2"
+  },
+  {
+    "id": 2057,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_getbuff"
+  },
+  {
+    "id": 2058,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_weak"
+  },
+  {
+    "id": 2059,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_battlestart1"
+  },
+  {
+    "id": 2060,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_battlestart2"
+  },
+  {
+    "id": 2061,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_battlestart3"
+  },
+  {
+    "id": 2062,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_die"
+  },
+  {
+    "id": 2063,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_win1"
+  },
+  {
+    "id": 2064,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_win2"
+  },
+  {
+    "id": 2065,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_counter"
+  },
+  {
+    "id": 2066,
+    "idunit": 634,
+    "title": "Dodge",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_dodge"
+  },
+  {
+    "id": 2067,
+    "idunit": 634,
+    "title": "Block",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_block"
+  },
+  {
+    "id": 2068,
+    "idunit": 634,
+    "title": "Assisting Cover",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_support2"
+  },
+  {
+    "id": 2069,
+    "idunit": 634,
+    "title": "Assisting Attack",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_support1"
+  },
+  {
+    "id": 2070,
+    "idunit": 634,
+    "title": "Alert",
+    "text": "",
+    "event_name": "play_vo_bt_kewalei_support3"
+  },
+  {
+    "id": 2071,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_getcharacter"
+  },
+  {
+    "id": 2072,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_levelup"
+  },
+  {
+    "id": 2073,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_getskill"
+  },
+  {
+    "id": 2074,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_starup"
+  },
+  {
+    "id": 2075,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_assistance"
+  },
+  {
+    "id": 2076,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_mail"
+  },
+  {
+    "id": 2077,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_event"
+  },
+  {
+    "id": 2078,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_chat1"
+  },
+  {
+    "id": 2079,
+    "idunit": 634,
+    "title": "Chat 3",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_chat3"
+  },
+  {
+    "id": 2080,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_recover"
+  },
+  {
+    "id": 2081,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_recovered"
+  },
+  {
+    "id": 2082,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_obey"
+  },
+  {
+    "id": 2083,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_greeting"
+  },
+  {
+    "id": 2084,
+    "idunit": 634,
+    "title": "",
+    "text": "",
+    "event_name": "play_vo_sys_kewalei_idle"
+  },
+  {
+    "id": 2085,
+    "idunit": 362,
+    "title": "Chat 4",
+    "text": "",
+    "event_name": "play_vo_sys_migeer_chat4"
   }
 ]

@@ -433,10 +433,26 @@
   },
   {
     "id": 112,
-    "m_system_tip_contents": [1018, 1019, 1021],
+    "m_system_tip_contents": [1018, 1019, 1021, 1023],
     "idsystem": 0,
     "type": "online_abyss",
     "name": "逆境之塔",
-    "system_tip_content_ids": "1018|1019|1021"
+    "system_tip_content_ids": "1018|1019|1021|1023"
+  },
+  {
+    "id": 113,
+    "m_system_tip_contents": [1022],
+    "idsystem": 114,
+    "type": "online_career",
+    "name": "生涯纪念册提示",
+    "system_tip_content_ids": "1022"
+  },
+  {
+    "id": 114,
+    "m_system_tip_contents": [1024],
+    "idsystem": 0,
+    "type": "online_activity_practice",
+    "name": "网游代行提示",
+    "system_tip_content_ids": "1024"
   }
 ]

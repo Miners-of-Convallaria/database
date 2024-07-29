@@ -536,7 +536,7 @@
   {
     "id": 108,
     "m_perform_sequence_datas": [374],
-    "name": "天降冰刺",
+    "name": "（废弃）天降冰刺",
     "desc": ""
   },
   {
@@ -1316,7 +1316,7 @@
   {
     "id": 253,
     "m_perform_sequence_datas": [728],
-    "name": "工具演出序列_图形_hit计时1秒",
+    "name": "女将军_命中后强制返回待机_等待500",
     "desc": ""
   },
   {
@@ -2221,9 +2221,9 @@
   },
   {
     "id": 407,
-    "m_perform_sequence_datas": [1183],
+    "m_perform_sequence_datas": [1183, 2713, 2714],
     "name": "演出序列_小魔女自爆变黑",
-    "desc": "小魔女（技能释放者）变成黑色剪影"
+    "desc": "小魔女（技能释放者）变成黑色剪影\n为了和皮肤做出区别，整合了屏幕变暗"
   },
   {
     "id": 408,
@@ -2246,7 +2246,7 @@
   {
     "id": 411,
     "m_perform_sequence_datas": [1200],
-    "name": "EX小魔女乱丢攻击_4方向 Clone",
+    "name": "EX小魔女乱丢攻击_4方向",
     "desc": "小魔女乱丢，假飞行道具，使用连线功能\n时间加长版"
   },
   {
@@ -2403,7 +2403,7 @@
     "id": 437,
     "m_perform_sequence_datas": [1300, 1301, 1305],
     "name": "麦莎冲锋",
-    "desc": "白屏+子弹时间\n受击样板房"
+    "desc": "是一个[特殊受击]！！！只能用于单体技能！！！\n白屏+子弹时间\n受击样板房"
   },
   {
     "id": 438,
@@ -2599,7 +2599,7 @@
   },
   {
     "id": 470,
-    "m_perform_sequence_datas": [1423],
+    "m_perform_sequence_datas": [1423, 2769],
     "name": "主基地爆炸",
     "desc": ""
   },
@@ -2659,7 +2659,7 @@
   },
   {
     "id": 480,
-    "m_perform_sequence_datas": [1473, 1853, 2638],
+    "m_perform_sequence_datas": [1473, 1853],
     "name": "演出序列_屏幕alpha0",
     "desc": ""
   },
@@ -3188,7 +3188,7 @@
   {
     "id": 569,
     "m_perform_sequence_datas": [1866],
-    "name": "地块_地突刺橙红_小红",
+    "name": "地块_地突刺橙红_火焰",
     "desc": ""
   },
   {
@@ -3457,9 +3457,9 @@
   },
   {
     "id": 622,
-    "m_perform_sequence_datas": [2070, 2072, 2073],
+    "m_perform_sequence_datas": [2072, 2073],
     "name": "舞团舞娘冲锋AOE收尾动作",
-    "desc": ""
+    "desc": "从第三个动画改到第二个动画（因为是后续释放技能）\n时间统一加了250（正好是第二个技能/动画的持续时间）"
   },
   {
     "id": 623,
@@ -3483,6 +3483,24 @@
     "id": 627,
     "m_perform_sequence_datas": [2082, 2083, 2084],
     "name": "演出序列_三重打击感_延800",
+    "desc": ""
+  },
+  {
+    "id": 628,
+    "m_perform_sequence_datas": [2086, 2087, 2088, 2089],
+    "name": "演出序列_摄像机自动归位",
+    "desc": ""
+  },
+  {
+    "id": 629,
+    "m_perform_sequence_datas": [],
+    "name": "（废弃）新建测试",
+    "desc": ""
+  },
+  {
+    "id": 630,
+    "m_perform_sequence_datas": [],
+    "name": "（废弃）新建测试",
     "desc": ""
   },
   {
@@ -3609,6 +3627,18 @@
     "id": 655,
     "m_perform_sequence_datas": [2191, 2192],
     "name": "淡出淡入_盲女",
+    "desc": ""
+  },
+  {
+    "id": 656,
+    "m_perform_sequence_datas": [2193, 2194],
+    "name": "演出序列_通用技能残像",
+    "desc": ""
+  },
+  {
+    "id": 657,
+    "m_perform_sequence_datas": [2195, 2196],
+    "name": "演出序列_红色技能残",
     "desc": ""
   },
   {
@@ -3774,9 +3804,39 @@
     "desc": ""
   },
   {
+    "id": 692,
+    "m_perform_sequence_datas": [2302],
+    "name": "SP拉维耶强制回待机",
+    "desc": "测试用数据\n默认延迟时间3900"
+  },
+  {
+    "id": 693,
+    "m_perform_sequence_datas": [2306, 2309],
+    "name": "SP拉维耶attack3挥击",
+    "desc": "是（特殊命中）！！！\n子弹时间+小浮空\n"
+  },
+  {
+    "id": 694,
+    "m_perform_sequence_datas": [2312],
+    "name": "受击演出_SP拉维耶_半月斩",
+    "desc": "是一个[特殊受击]！！！\n子弹时间\n如果加如白屏特效这个特效会根据受击人数播放多次"
+  },
+  {
+    "id": 695,
+    "m_perform_sequence_datas": [2314, 2315, 2651],
+    "name": "演出序列_SP拉维耶半月斩",
+    "desc": "原本有“演出_通用中距离移轴特写_3000长度”\n但改成了高频追击技能，所以没有了"
+  },
+  {
     "id": 696,
-    "m_perform_sequence_datas": [2316, 2329, 2330, 2332],
+    "m_perform_sequence_datas": [2329, 2330, 2332],
     "name": "地块_buff_学姐",
+    "desc": ""
+  },
+  {
+    "id": 697,
+    "m_perform_sequence_datas": [2318],
+    "name": "特殊受击_01_小击退_持续时间700",
     "desc": ""
   },
   {
@@ -3792,8 +3852,14 @@
     "desc": ""
   },
   {
+    "id": 700,
+    "m_perform_sequence_datas": [2351, 2352, 2353],
+    "name": "SP拉维耶EX_02_小剧场",
+    "desc": ""
+  },
+  {
     "id": 701,
-    "m_perform_sequence_datas": [2343, 2344],
+    "m_perform_sequence_datas": [2343, 2344, 2569, 2591, 2592],
     "name": "演出序列_学姐_ex",
     "desc": ""
   },
@@ -3801,6 +3867,18 @@
     "id": 703,
     "m_perform_sequence_datas": [2350],
     "name": "地块_爆点_学姐",
+    "desc": ""
+  },
+  {
+    "id": 704,
+    "m_perform_sequence_datas": [2366, 2625, 2679],
+    "name": "SP拉维耶大招01_前置",
+    "desc": ""
+  },
+  {
+    "id": 705,
+    "m_perform_sequence_datas": [2361, 2362, 2363, 2364, 2365],
+    "name": "（废弃）SP拉维耶EX_02_小剧场_强制2段",
     "desc": ""
   },
   {
@@ -3864,15 +3942,21 @@
     "desc": "配了一个小浮空后攻击的人节奏就不对了"
   },
   {
+    "id": 717,
+    "m_perform_sequence_datas": [2409, 2410],
+    "name": "（废弃）SP拉维耶1秒浮空_前置版",
+    "desc": ""
+  },
+  {
     "id": 718,
-    "m_perform_sequence_datas": [2440],
-    "name": "SP拉维耶EX_01_有画中画",
+    "m_perform_sequence_datas": [2420, 2421, 2422, 2424, 2427, 2440],
+    "name": "（废弃）SP拉维耶EX_01_有画中画",
     "desc": ""
   },
   {
     "id": 719,
     "m_perform_sequence_datas": [2432, 2433, 2434, 2436, 2437, 2438, 2439],
-    "name": "SP拉维耶EX_02_有画中画",
+    "name": "（废弃）SP拉维耶EX_02_有画中画",
     "desc": ""
   },
   {
@@ -3885,6 +3969,24 @@
     "id": 721,
     "m_perform_sequence_datas": [2446, 2447, 2448, 2449],
     "name": "地块_烟花地块",
+    "desc": ""
+  },
+  {
+    "id": 722,
+    "m_perform_sequence_datas": [2450, 2451, 2452, 2453, 2454, 2455, 2456, 2461],
+    "name": "（废弃）SP拉维耶EX_03_先长刀",
+    "desc": ""
+  },
+  {
+    "id": 723,
+    "m_perform_sequence_datas": [2457, 2458],
+    "name": "（废弃）04_SP拉维耶1秒浮空_出小剧场后置版",
+    "desc": ""
+  },
+  {
+    "id": 724,
+    "m_perform_sequence_datas": [2465, 2466],
+    "name": "（废弃）SP拉维耶EX_02_变暗",
     "desc": ""
   },
   {
@@ -3902,7 +4004,7 @@
   {
     "id": 727,
     "m_perform_sequence_datas": [2471],
-    "name": "地块_女仆恨",
+    "name": "地块_女仆恨01",
     "desc": ""
   },
   {
@@ -3913,14 +4015,32 @@
   },
   {
     "id": 729,
-    "m_perform_sequence_datas": [2474, 2475, 2504, 2505, 2511, 2512, 2518],
+    "m_perform_sequence_datas": [2474, 2475, 2518],
     "name": "演出序列_黑帮女_透明2",
     "desc": ""
   },
   {
     "id": 730,
-    "m_perform_sequence_datas": [2483, 2487, 2488],
+    "m_perform_sequence_datas": [2483, 2487, 2488, 2582, 2583],
     "name": "演出序列_相机归位_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 731,
+    "m_perform_sequence_datas": [2484, 2485, 2486],
+    "name": "（废弃）SP拉维耶大招前劈砍子弹时间测试",
+    "desc": "SP拉维耶劈砍子弹时间测试"
+  },
+  {
+    "id": 732,
+    "m_perform_sequence_datas": [2490, 2491, 2506],
+    "name": "（废弃）EX_01_04",
+    "desc": ""
+  },
+  {
+    "id": 733,
+    "m_perform_sequence_datas": [2497, 2498, 2499, 2500, 2509, 2510],
+    "name": "（废弃）EX_03_04",
     "desc": ""
   },
   {
@@ -3948,6 +4068,24 @@
     "desc": ""
   },
   {
+    "id": 739,
+    "m_perform_sequence_datas": [2523, 2524, 2525, 2526, 2527, 2528],
+    "name": "（废弃）EX_03_05",
+    "desc": "缩短版"
+  },
+  {
+    "id": 740,
+    "m_perform_sequence_datas": [2529, 2530],
+    "name": "（废弃）05_SP拉维耶1秒浮空",
+    "desc": ""
+  },
+  {
+    "id": 741,
+    "m_perform_sequence_datas": [2531, 2532],
+    "name": "（废弃）EX_01_05",
+    "desc": ""
+  },
+  {
     "id": 742,
     "m_perform_sequence_datas": [2536],
     "name": "动作anime4_女仆杀手",
@@ -3969,7 +4107,7 @@
     "id": 745,
     "m_perform_sequence_datas": [],
     "name": "统统闪开_战术技能",
-    "desc": "不会被调到"
+    "desc": "只能释在一个单位身上"
   },
   {
     "id": 746,
@@ -4026,10 +4164,28 @@
     "desc": ""
   },
   {
+    "id": 755,
+    "m_perform_sequence_datas": [2573, 2574],
+    "name": "EX淡出淡入_女仆杀手",
+    "desc": ""
+  },
+  {
+    "id": 756,
+    "m_perform_sequence_datas": [2575],
+    "name": "地块_女仆恨",
+    "desc": ""
+  },
+  {
     "id": 757,
     "m_perform_sequence_datas": [2576, 2577, 2579],
     "name": "演出序列_相机归位_奥古斯特",
     "desc": ""
+  },
+  {
+    "id": 758,
+    "m_perform_sequence_datas": [2580, 2581],
+    "name": "演出序列_UI关闭女仆喝药",
+    "desc": "关闭UI测试"
   },
   {
     "id": 759,
@@ -4080,9 +4236,57 @@
     "desc": ""
   },
   {
+    "id": 767,
+    "m_perform_sequence_datas": [2613, 2615, 2616],
+    "name": "演出序列_黑帮女瞬移",
+    "desc": ""
+  },
+  {
+    "id": 768,
+    "m_perform_sequence_datas": [2617],
+    "name": "超能力地块效果测试_提前500",
+    "desc": ""
+  },
+  {
+    "id": 769,
+    "m_perform_sequence_datas": [2618],
+    "name": "演出序列_黑帮女_引爆震荡",
+    "desc": ""
+  },
+  {
+    "id": 770,
+    "m_perform_sequence_datas": [2619, 2620, 2621, 2622, 2623, 2624],
+    "name": "SP拉维耶大招01_画中画加第一刀",
+    "desc": ""
+  },
+  {
+    "id": 771,
+    "m_perform_sequence_datas": [2639, 2666, 2667],
+    "name": "SP拉维耶大招03_小剧场加收尾",
+    "desc": ""
+  },
+  {
+    "id": 772,
+    "m_perform_sequence_datas": [],
+    "name": "SP拉维耶大招02_第二刀",
+    "desc": ""
+  },
+  {
+    "id": 773,
+    "m_perform_sequence_datas": [2634, 2635],
+    "name": "SP拉维耶大招_1秒浮空",
+    "desc": ""
+  },
+  {
     "id": 774,
     "m_perform_sequence_datas": [2637],
     "name": "摄像机强制复位_骑士团法师EX",
+    "desc": ""
+  },
+  {
+    "id": 775,
+    "m_perform_sequence_datas": [2640],
+    "name": "环境光_女仆EX",
     "desc": ""
   },
   {
@@ -4107,6 +4311,222 @@
     "id": 779,
     "m_perform_sequence_datas": [2646, 2647],
     "name": "地块_塔罗星星_普攻_大活三",
+    "desc": ""
+  },
+  {
+    "id": 780,
+    "m_perform_sequence_datas": [2649],
+    "name": "地块_女仆EXhit",
+    "desc": ""
+  },
+  {
+    "id": 781,
+    "m_perform_sequence_datas": [2652, 2654, 2656, 2660],
+    "name": "爱莎消失测试",
+    "desc": ""
+  },
+  {
+    "id": 782,
+    "m_perform_sequence_datas": [2658, 2659],
+    "name": "淡出淡入_女将军EX",
+    "desc": ""
+  },
+  {
+    "id": 783,
+    "m_perform_sequence_datas": [2668, 2669],
+    "name": "演出序列_UI关闭女将军EX",
+    "desc": "关闭UI测试"
+  },
+  {
+    "id": 784,
+    "m_perform_sequence_datas": [2677],
+    "name": "摄像机强制复位_银狼EX",
+    "desc": ""
+  },
+  {
+    "id": 785,
+    "m_perform_sequence_datas": [2680, 2681, 2682, 2683, 2684, 2685],
+    "name": "演出序列_持续打击感3",
+    "desc": ""
+  },
+  {
+    "id": 786,
+    "m_perform_sequence_datas": [2686],
+    "name": "摄像机强制复位_女将军ex",
+    "desc": ""
+  },
+  {
+    "id": 787,
+    "m_perform_sequence_datas": [2687, 2688],
+    "name": "SP拉维耶重击闪屏",
+    "desc": ""
+  },
+  {
+    "id": 788,
+    "m_perform_sequence_datas": [2691],
+    "name": "大火球_die",
+    "desc": ""
+  },
+  {
+    "id": 789,
+    "m_perform_sequence_datas": [2692, 2693, 2694],
+    "name": "测试_演出序列_麦莎连击01_黑白",
+    "desc": ""
+  },
+  {
+    "id": 790,
+    "m_perform_sequence_datas": [2695],
+    "name": "（废弃）地块_绳网捕获装置",
+    "desc": ""
+  },
+  {
+    "id": 791,
+    "m_perform_sequence_datas": [],
+    "name": "此处留空",
+    "desc": ""
+  },
+  {
+    "id": 792,
+    "m_perform_sequence_datas": [2704],
+    "name": "（废弃）演出序列_通用物品烟雾退场",
+    "desc": ""
+  },
+  {
+    "id": 793,
+    "m_perform_sequence_datas": [2705],
+    "name": "地块_AOE范围提示_框_弱_提前600",
+    "desc": ""
+  },
+  {
+    "id": 794,
+    "m_perform_sequence_datas": [2706],
+    "name": "地块_女将军_突击",
+    "desc": ""
+  },
+  {
+    "id": 795,
+    "m_perform_sequence_datas": [2707],
+    "name": "演出序列_通用物品死亡_弱烟雾",
+    "desc": ""
+  },
+  {
+    "id": 796,
+    "m_perform_sequence_datas": [2709, 2710],
+    "name": "地块_天降蛛网",
+    "desc": ""
+  },
+  {
+    "id": 797,
+    "m_perform_sequence_datas": [2711],
+    "name": "地块_测试_多人变黑",
+    "desc": ""
+  },
+  {
+    "id": 798,
+    "m_perform_sequence_datas": [2712],
+    "name": "地块_召唤下落石块_可爱",
+    "desc": ""
+  },
+  {
+    "id": 799,
+    "m_perform_sequence_datas": [2715, 2716],
+    "name": "地块_春愿小魔女能量柱",
+    "desc": ""
+  },
+  {
+    "id": 800,
+    "m_perform_sequence_datas": [2717],
+    "name": "EX小魔女乱丢攻击_春愿_4方向",
+    "desc": "相比原版缩短了持续时间"
+  },
+  {
+    "id": 801,
+    "m_perform_sequence_datas": [2718, 2719, 2720, 2721, 2722],
+    "name": "小魔女EX背景_春愿",
+    "desc": "小魔女皮肤01用\n适用中距离小剧场"
+  },
+  {
+    "id": 802,
+    "m_perform_sequence_datas": [2723],
+    "name": "地块_柯瓦雷召唤",
+    "desc": ""
+  },
+  {
+    "id": 803,
+    "m_perform_sequence_datas": [2724],
+    "name": "摄像机强制复位_柯瓦雷ex",
+    "desc": ""
+  },
+  {
+    "id": 804,
+    "m_perform_sequence_datas": [2725, 2726, 2732, 2740, 2741],
+    "name": "演出序列_前传线变身_黑帮女",
+    "desc": ""
+  },
+  {
+    "id": 805,
+    "m_perform_sequence_datas": [2733, 2734],
+    "name": "演出序列_流星雨变暗_小魔女",
+    "desc": "为了解决本体和皮肤需要变暗和不需要变暗的矛盾\n长度固定"
+  },
+  {
+    "id": 806,
+    "m_perform_sequence_datas": [2737],
+    "name": "演出序列_自爆变色_自己_春愿",
+    "desc": "小魔女变色掩盖受伤（代替变黑）"
+  },
+  {
+    "id": 807,
+    "m_perform_sequence_datas": [2738],
+    "name": "演出序列_自爆变色_敌人_春愿",
+    "desc": "小魔女变色掩盖受伤（代替变黑）"
+  },
+  {
+    "id": 809,
+    "m_perform_sequence_datas": [2742, 2743],
+    "name": "地块_强力火柱_春愿",
+    "desc": ""
+  },
+  {
+    "id": 815,
+    "m_perform_sequence_datas": [2763],
+    "name": "（废弃）EX小魔女乱丢攻击_春愿_4方向",
+    "desc": "小魔女乱丢，假飞行道具，使用连线功能\n时间加长版"
+  },
+  {
+    "id": 824,
+    "m_perform_sequence_datas": [2793],
+    "name": "演出序列_小魔女春愿望_活动自爆变黑",
+    "desc": ""
+  },
+  {
+    "id": 828,
+    "m_perform_sequence_datas": [2803],
+    "name": "地块_女将军_火花",
+    "desc": ""
+  },
+  {
+    "id": 829,
+    "m_perform_sequence_datas": [2810, 2811],
+    "name": "演出序列_小魔女春愿望_活动自爆氛围",
+    "desc": "辅助变黑\n配合动画6249“贝拉春愿大火-活动”"
+  },
+  {
+    "id": 831,
+    "m_perform_sequence_datas": [2816],
+    "name": "地块_女将军_驱散",
+    "desc": ""
+  },
+  {
+    "id": 927,
+    "m_perform_sequence_datas": [3165, 3170],
+    "name": "演出序列_皮肤无面具烟雾死亡",
+    "desc": ""
+  },
+  {
+    "id": 934,
+    "m_perform_sequence_datas": [3192],
+    "name": "面具刺客无面具版EX补充猫影",
     "desc": ""
   }
 ]

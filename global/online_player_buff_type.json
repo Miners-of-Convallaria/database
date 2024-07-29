@@ -6,7 +6,11 @@
     "param0_name": "日常活动组ID",
     "param0_type": "online_activity_group",
     "param1_name": "",
-    "param1_type": ""
+    "param1_type": "",
+    "value_name": "增量",
+    "value_type": "int",
+    "value1_name": "",
+    "value1_type": ""
   },
   {
     "id": 2,
@@ -15,6 +19,23 @@
     "param0_name": "日常活动组ID",
     "param0_type": "online_activity_group",
     "param1_name": "",
-    "param1_type": ""
+    "param1_type": "",
+    "value_name": "增量",
+    "value_type": "int",
+    "value1_name": "",
+    "value1_type": ""
+  },
+  {
+    "id": 3,
+    "type": "online_activity_schedule_high_bonus_count",
+    "name": "日常活动调度高倍次数增量",
+    "param0_name": "日常活动组ID",
+    "param0_type": "online_activity_group",
+    "param1_name": "",
+    "param1_type": "",
+    "value_name": "增量",
+    "value_type": "int",
+    "value1_name": "日常活动时间调整",
+    "value1_type": "online_activity_schedule"
   }
 ]

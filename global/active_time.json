@@ -362,5 +362,19 @@
     "name": "每人回合开始2(新回合特殊)",
     "desc": "",
     "need_check": true
+  },
+  {
+    "id": 53,
+    "type": "EACH_DAMAGE",
+    "name": "每次伤害时",
+    "desc": "",
+    "need_check": true
+  },
+  {
+    "id": 54,
+    "type": "BESKILLBEFORE",
+    "name": "被使用技能前",
+    "desc": "",
+    "need_check": false
   }
 ]

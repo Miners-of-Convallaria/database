@@ -1680,6 +1680,18 @@
     "is_test": false
   },
   {
+    "id": 146,
+    "name": "（测试）网游助战",
+    "editor_name": "（测试）网游助战",
+    "type": 13,
+    "param0": 0,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "sparam": "",
+    "is_test": true
+  },
+  {
     "id": 10001,
     "name": "CRST-B10 希望结晶: 结晶7",
     "editor_name": "CRST-B10 希望结晶: 结晶7",
@@ -4229,6 +4241,54 @@
     "editor_name": "测试-埃拉曼线商店全开启-后期商店",
     "type": 4,
     "param0": 2562,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "sparam": "",
+    "is_test": false
+  },
+  {
+    "id": 30138,
+    "name": "前传线固定角色组",
+    "editor_name": "前传线固定角色组",
+    "type": 2,
+    "param0": 86,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "sparam": "",
+    "is_test": false
+  },
+  {
+    "id": 30139,
+    "name": "前传线测试用材料",
+    "editor_name": "前传线测试用材料",
+    "type": 2,
+    "param0": 1,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "sparam": "",
+    "is_test": false
+  },
+  {
+    "id": 30140,
+    "name": "笔记触发测试",
+    "editor_name": "笔记触发测试",
+    "type": 1,
+    "param0": 92,
+    "param1": 0,
+    "param2": 0,
+    "param3": 0,
+    "sparam": "",
+    "is_test": true
+  },
+  {
+    "id": 30149,
+    "name": "设置网游助战-老沙盒",
+    "editor_name": "设置网游助战-老沙盒",
+    "type": 13,
+    "param0": 0,
     "param1": 0,
     "param2": 0,
     "param3": 0,

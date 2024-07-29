@@ -1043,11 +1043,18 @@
     "editor_name": "（V1.7）-[周常本环境]-毁灭者的不息2"
   },
   {
+    "id": 152,
+    "name": "Major Event Phase 3.5 - Score Farming Special",
+    "buff_id": 2510,
+    "target": 2,
+    "editor_name": "大型活动3.5期-刷分专用"
+  },
+  {
     "id": 153,
     "name": "Survivor's Tricks",
     "buff_id": 2512,
     "target": 3,
-    "editor_name": "（1.7）-[周常PVP]-生存者的技巧"
+    "editor_name": "（1.12.3）-[周常PVP]-生存者的技巧"
   },
   {
     "id": 154,
@@ -1076,5 +1083,110 @@
     "buff_id": 2609,
     "target": 2,
     "editor_name": "周常PVP-S3-莽夫"
+  },
+  {
+    "id": 159,
+    "name": "Meta of the Season",
+    "buff_id": 2126,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S10"
+  },
+  {
+    "id": 160,
+    "name": "Meta of the Season",
+    "buff_id": 2123,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S11"
+  },
+  {
+    "id": 161,
+    "name": "Meta of the Season",
+    "buff_id": 2121,
+    "target": 3,
+    "editor_name": "竞技场场景环境_S12"
+  },
+  {
+    "id": 162,
+    "name": "Spell Study",
+    "buff_id": 2717,
+    "target": 2,
+    "editor_name": "周常PVP-S4-法术研习"
+  },
+  {
+    "id": 163,
+    "name": "The Magician's Fantasy",
+    "buff_id": 2718,
+    "target": 3,
+    "editor_name": "周常PVP-S4-魔术师的幻想"
+  },
+  {
+    "id": 164,
+    "name": "Juggling Time",
+    "buff_id": 2756,
+    "target": 2,
+    "editor_name": "S5-杂耍时间"
+  },
+  {
+    "id": 165,
+    "name": "Traps Everywhere",
+    "buff_id": 2760,
+    "target": 3,
+    "editor_name": "S5-机关重重"
+  },
+  {
+    "id": 166,
+    "name": "Fully Prepared",
+    "buff_id": 2877,
+    "target": 3,
+    "editor_name": "周常PVP-S6-准备充分"
+  },
+  {
+    "id": 167,
+    "name": "Divine Refuge",
+    "buff_id": 2878,
+    "target": 2,
+    "editor_name": "S6-圣洁庇护"
+  },
+  {
+    "id": 168,
+    "name": "Hierophant's Guard",
+    "buff_id": 2896,
+    "target": 2,
+    "editor_name": "周常PVP-S7-法皇守护"
+  },
+  {
+    "id": 169,
+    "name": "Arcane Mastery",
+    "buff_id": 2897,
+    "target": 3,
+    "editor_name": "周常PVP-S7-奥术精通"
+  },
+  {
+    "id": 312,
+    "name": "Major Event Phase II - Score Farming Special",
+    "buff_id": 3474,
+    "target": 2,
+    "editor_name": "大型活动2期-刷分专用"
+  },
+  {
+    "id": 313,
+    "name": "Major Event Phase I - Score Farming Special",
+    "buff_id": 3475,
+    "target": 2,
+    "editor_name": "大型活动1期-刷分专用"
+  },
+  {
+    "id": 314,
+    "name": "Medium Event Phase I - Score Farming Special",
+    "buff_id": 3477,
+    "target": 2,
+    "editor_name": "中型活动1期-刷分专用"
+  },
+  {
+    "id": 315,
+    "name": "Medium Event Phase III - Score Farming Special",
+    "buff_id": 3476,
+    "target": 2,
+    "editor_name": "中型活动3期-刷分专用"
   }
 ]

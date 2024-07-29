@@ -262,7 +262,7 @@
   {
     "id": 31,
     "m_capital_npc_forms": [31],
-    "name": "Vlder archer 01 (Vlder archer)",
+    "name": "Vlderian archer 01 (Vlderian archer)",
     "editor_name": "薇尔德弓箭手01（薇尔德弓兵）",
     "idsystem": 0,
     "idunit": 0,
@@ -1752,7 +1752,7 @@
   {
     "id": 220,
     "m_capital_npc_forms": [265],
-    "name": "Vlder archer for performances",
+    "name": "Vlderian archer for performances",
     "editor_name": "演出用薇尔德弓箭手",
     "idsystem": 0,
     "idunit": 0,
@@ -1762,7 +1762,7 @@
   {
     "id": 221,
     "m_capital_npc_forms": [266],
-    "name": "Vlder archer for secondary dialogues",
+    "name": "Vlderian archer for secondary dialogues",
     "editor_name": "次级对话用薇尔弓箭手",
     "idsystem": 0,
     "idunit": 0,
@@ -2562,7 +2562,7 @@
   {
     "id": 302,
     "m_capital_npc_forms": [356],
-    "name": "SP Sophia (for performance)",
+    "name": "SP Safiyyah (for performance)",
     "editor_name": "演出用SP索菲娅",
     "idsystem": 0,
     "idunit": 0,
@@ -2682,7 +2682,7 @@
   {
     "id": 314,
     "m_capital_npc_forms": [368],
-    "name": "SP Sophia (for secondary dialogue)",
+    "name": "SP Safiyyah (for secondary dialogue)",
     "editor_name": "次级对话用SP索菲娅",
     "idsystem": 0,
     "idunit": 0,
@@ -2794,6 +2794,26 @@
     "m_capital_npc_forms": [379],
     "name": "Blind Maiden Hasna (for secondary dialogue)",
     "editor_name": "次级对话用盲女哈斯娜",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 326,
+    "m_capital_npc_forms": [380],
+    "name": "Ol' Leatherope for Performance (NPC39)",
+    "editor_name": "演出用老皮绳（NPC39)",
+    "idsystem": 0,
+    "idunit": 0,
+    "idonline_role": 0,
+    "is_cat": false
+  },
+  {
+    "id": 327,
+    "m_capital_npc_forms": [381],
+    "name": "Ol' Leatherope for Secondary Dialogue (NPC39)",
+    "editor_name": "次级对话用老皮绳（NPC39)",
     "idsystem": 0,
     "idunit": 0,
     "idonline_role": 0,

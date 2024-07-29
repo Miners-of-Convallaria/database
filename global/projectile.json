@@ -853,5 +853,41 @@
     "position": "0|-0.25|0",
     "isfollow_direct": false,
     "sound_id": 0
+  },
+  {
+    "id": 107,
+    "name": "红色球_黑帮女",
+    "desc": "",
+    "model": "fx_heibanglv_feixing",
+    "position": "arrow",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 108,
+    "name": "（废弃）大石子",
+    "desc": "",
+    "model": "",
+    "position": "0|0.1|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 109,
+    "name": "柯瓦雷_单体伤害",
+    "desc": "",
+    "model": "fx_suoba_dandao",
+    "position": "0|1.75|0",
+    "isfollow_direct": false,
+    "sound_id": 0
+  },
+  {
+    "id": 110,
+    "name": "飞爪-蓝-露西亚熊人",
+    "desc": "",
+    "model": "fx_xiongren_feizhua_lan",
+    "position": "",
+    "isfollow_direct": false,
+    "sound_id": 0
   }
 ]

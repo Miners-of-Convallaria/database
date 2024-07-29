@@ -13,7 +13,8 @@
     "icon": "0001",
     "scale": 0.5,
     "personality_id": 67,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 78,
@@ -29,7 +30,8 @@
     "icon": "0002",
     "scale": 0.5,
     "personality_id": 68,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 79,
@@ -45,7 +47,8 @@
     "icon": "0003",
     "scale": 0.60000002384186,
     "personality_id": 69,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 80,
@@ -61,7 +64,8 @@
     "icon": "0004",
     "scale": 0.60000002384186,
     "personality_id": 70,
-    "system_redirect_ids": "2102|2103"
+    "system_redirect_ids": "2102|2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 81,
@@ -77,12 +81,13 @@
     "icon": "0005",
     "scale": 0.5,
     "personality_id": 71,
-    "system_redirect_ids": "2103|2104"
+    "system_redirect_ids": "2103|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 82,
     "m_system_redirects": [2102],
-    "name": "Sharpe Sword",
+    "name": "Sharp Sword",
     "editor_name": "AT2网游6-剑-R-武器6_R剑6",
     "desc": "Forged by a skilled blacksmith, this iron sword is of impressive quality, elevating the wielder's intimidation and self-assurance.",
     "model": "",
@@ -93,7 +98,8 @@
     "icon": "0006",
     "scale": 0.5,
     "personality_id": 74,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 83,
@@ -109,7 +115,8 @@
     "icon": "0007",
     "scale": 0.5,
     "personality_id": 75,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 84,
@@ -125,7 +132,8 @@
     "icon": "0008",
     "scale": 0.5,
     "personality_id": 76,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 85,
@@ -141,7 +149,8 @@
     "icon": "0009",
     "scale": 0.5,
     "personality_id": 77,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 1
   },
   {
     "id": 86,
@@ -157,7 +166,8 @@
     "icon": "0010",
     "scale": 0.60000002384186,
     "personality_id": 78,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 87,
@@ -173,7 +183,8 @@
     "icon": "0011",
     "scale": 0.60000002384186,
     "personality_id": 79,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 1
   },
   {
     "id": 88,
@@ -189,7 +200,8 @@
     "icon": "0012",
     "scale": 0.55000001192093,
     "personality_id": 80,
-    "system_redirect_ids": "2102|2103"
+    "system_redirect_ids": "2102|2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 89,
@@ -205,7 +217,8 @@
     "icon": "0013",
     "scale": 0.55000001192093,
     "personality_id": 81,
-    "system_redirect_ids": "2103|2104"
+    "system_redirect_ids": "2103|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 90,
@@ -221,7 +234,8 @@
     "icon": "0014",
     "scale": 0.5,
     "personality_id": 82,
-    "system_redirect_ids": "2102|2104"
+    "system_redirect_ids": "2102|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 91,
@@ -237,7 +251,8 @@
     "icon": "0015",
     "scale": 0.5,
     "personality_id": 83,
-    "system_redirect_ids": "2102|2103"
+    "system_redirect_ids": "2102|2103",
+    "tendency_tag_id": 2
   },
   {
     "id": 92,
@@ -253,7 +268,8 @@
     "icon": "0016",
     "scale": 0.5,
     "personality_id": 88,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 93,
@@ -269,7 +285,8 @@
     "icon": "0017",
     "scale": 0.5,
     "personality_id": 89,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 1
   },
   {
     "id": 94,
@@ -285,12 +302,13 @@
     "icon": "0018",
     "scale": 0.5,
     "personality_id": 90,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 95,
     "m_system_redirects": [2103],
-    "name": "Sharpe Blade Spear",
+    "name": "Sharp Spear",
     "editor_name": "AT2网游19-枪-SR-武器19_SR枪19",
     "desc": "The long spear features a sleek and streamlined design, with a spearhead that appears to be expertly crafted like a dagger. Its head is sharp and precise, making it ideal for piercing attacks, while its double-edged blade is sharp and easy to chop with. The blade moves through the air like a biting cold wind.",
     "model": "",
@@ -301,7 +319,8 @@
     "icon": "0019",
     "scale": 0.5,
     "personality_id": 91,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 96,
@@ -317,7 +336,8 @@
     "icon": "0020",
     "scale": 0.5,
     "personality_id": 92,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 1
   },
   {
     "id": 97,
@@ -333,7 +353,8 @@
     "icon": "0021",
     "scale": 0.5,
     "personality_id": 93,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 98,
@@ -349,7 +370,8 @@
     "icon": "0022",
     "scale": 0.5,
     "personality_id": 94,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 99,
@@ -365,7 +387,8 @@
     "icon": "0023",
     "scale": 0.5,
     "personality_id": 95,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 100,
@@ -381,7 +404,8 @@
     "icon": "0024",
     "scale": 0.60000002384186,
     "personality_id": 96,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 101,
@@ -397,7 +421,8 @@
     "icon": "0025",
     "scale": 0.55000001192093,
     "personality_id": 97,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 102,
@@ -413,7 +438,8 @@
     "icon": "0026",
     "scale": 0.80000001192093,
     "personality_id": 98,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 103,
@@ -429,7 +455,8 @@
     "icon": "0027",
     "scale": 0.60000002384186,
     "personality_id": 99,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 104,
@@ -445,7 +472,8 @@
     "icon": "0028",
     "scale": 0.80000001192093,
     "personality_id": 100,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 105,
@@ -461,7 +489,8 @@
     "icon": "0029",
     "scale": 0.80000001192093,
     "personality_id": 101,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 106,
@@ -477,14 +506,15 @@
     "icon": "0030",
     "scale": 0.60000002384186,
     "personality_id": 102,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 2
   },
   {
     "id": 107,
     "m_system_redirects": [2102],
     "name": "Newborn Blade",
     "editor_name": "AT2网游31-剑-SSR2-武器31_SSR2剑31",
-    "desc": "Forged in a miniaturized Dimension, this sword reborns after its destruction.",
+    "desc": "Forged in a miniaturized dimension, this sword is reborn after its destruction.",
     "model": "",
     "palette": "",
     "type": 3,
@@ -493,7 +523,8 @@
     "icon": "0144",
     "scale": 0.5,
     "personality_id": 117,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 1
   },
   {
     "id": 108,
@@ -509,7 +540,8 @@
     "icon": "0145",
     "scale": 0.60000002384186,
     "personality_id": 118,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 109,
@@ -525,7 +557,8 @@
     "icon": "0084",
     "scale": 0.69999998807907,
     "personality_id": 109,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 110,
@@ -541,7 +574,8 @@
     "icon": "0146",
     "scale": 0.5,
     "personality_id": 119,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 111,
@@ -557,7 +591,8 @@
     "icon": "0147",
     "scale": 0.5,
     "personality_id": 120,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 1
   },
   {
     "id": 112,
@@ -573,7 +608,8 @@
     "icon": "0098",
     "scale": 0.5,
     "personality_id": 110,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 113,
@@ -589,7 +625,8 @@
     "icon": "0148",
     "scale": 0.5,
     "personality_id": 121,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 114,
@@ -605,7 +642,8 @@
     "icon": "0149",
     "scale": 0.5,
     "personality_id": 122,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 1
   },
   {
     "id": 115,
@@ -621,14 +659,15 @@
     "icon": "0140",
     "scale": 0.69999998807907,
     "personality_id": 111,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 116,
     "m_system_redirects": [2102],
     "name": "Meteor Line",
     "editor_name": "AT2网游40-弓-SSR2-武器40_SSR2弓40",
-    "desc": "Blessed by the stars, the arrows can even fly through the Sea of Chaos. Of course, recycling them will be difficult.",
+    "desc": "Blessed by the stars, firing arrows that even fly through the Sea of Chaos. Finding them again may be difficult.",
     "model": "",
     "palette": "",
     "type": 6,
@@ -637,14 +676,15 @@
     "icon": "0168",
     "scale": 0.55000001192093,
     "personality_id": 123,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 117,
     "m_system_redirects": [2103],
     "name": "Whale Hunter",
     "editor_name": "AT2网游41-弓-SSR2-武器41_SSR2弓41",
-    "desc": "Legend has it that it once hit the biggest prey in the Sea of Chaos. The Sea of Chaos died of vitality, and so is the Whale Hunter.",
+    "desc": "According to legend, it was once used to hunt the largest prey in the Sea of Chaos. With the Sea of Chaos now devoid of life, the Whale Hunter awaits a new purpose.",
     "model": "",
     "palette": "",
     "type": 6,
@@ -653,7 +693,8 @@
     "icon": "0167",
     "scale": 0.55000001192093,
     "personality_id": 124,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 118,
@@ -669,14 +710,15 @@
     "icon": "0086",
     "scale": 0.60000002384186,
     "personality_id": 112,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 119,
     "m_system_redirects": [2104],
     "name": "Starry Sky Heritage",
     "editor_name": "AT2网游43-杖-SSR2-武器43_SSR2杖43",
-    "desc": "The lone star shoots through the depths of night sky, creating the finale of ultimate brilliance.",
+    "desc": "The lone star shoots through the depths of the night sky, culminating in a breathtaking finale of incredible brilliance.",
     "model": "",
     "palette": "",
     "type": 7,
@@ -685,7 +727,8 @@
     "icon": "0152",
     "scale": 0.5,
     "personality_id": 125,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 120,
@@ -701,14 +744,15 @@
     "icon": "0153",
     "scale": 0.80000001192093,
     "personality_id": 126,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 2
   },
   {
     "id": 121,
     "m_system_redirects": [2104],
     "name": "Bone Wand",
     "editor_name": "AT2网游45-杖-SSR1-武器45_SSR1杖45",
-    "desc": "The gloomy yet stylish bone wand is the last legacy of a prominent Sanctuary Priest in the Papal States. As long as it's power is not depleted, the user's spirit will endure even after the body perishes.",
+    "desc": "The gloomy yet stylish bone wand is the last legacy of a prominent Sanctuary Priest in the Papal States. As long as its power is not depleted, the user's spirit will endure even after the body perishes.",
     "model": "",
     "palette": "",
     "type": 7,
@@ -717,7 +761,8 @@
     "icon": "0096",
     "scale": 0.5,
     "personality_id": 113,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 122,
@@ -733,7 +778,8 @@
     "icon": "0116",
     "scale": 0.5,
     "personality_id": 133,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 123,
@@ -749,7 +795,8 @@
     "icon": "0117",
     "scale": 0.5,
     "personality_id": 134,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 1
   },
   {
     "id": 124,
@@ -765,7 +812,8 @@
     "icon": "0118",
     "scale": 0.5,
     "personality_id": 135,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 125,
@@ -781,7 +829,8 @@
     "icon": "0119",
     "scale": 0.5,
     "personality_id": 136,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 126,
@@ -797,7 +846,8 @@
     "icon": "0154",
     "scale": 0.5,
     "personality_id": 137,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 127,
@@ -813,14 +863,15 @@
     "icon": "0121",
     "scale": 0.69999998807907,
     "personality_id": 138,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 128,
     "m_system_redirects": [2104],
     "name": "Longbow of Martyrs",
     "editor_name": "AT2网游52-弓-SSR3-武器52_SSR3弓52",
-    "desc": "This longbow is a precious relic from the Second War of Light. It has been wielded by many outstanding knights in defense of their vows. Anyone who proves capable of wielding this bows will win the respect and support of the knights, and anyone struck by its arrows will find themselves marked as an enemy of the people.",
+    "desc": "This longbow is a precious relic from the Second War of Light. It has been wielded by many outstanding knights in defense of their vows. Anyone who proves capable of wielding this bow will win the respect and support of the knights, and anyone struck by its arrows will find themselves marked as an enemy of the people.",
     "model": "",
     "palette": "",
     "type": 6,
@@ -829,7 +880,8 @@
     "icon": "0122",
     "scale": 0.60000002384186,
     "personality_id": 139,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 129,
@@ -845,7 +897,8 @@
     "icon": "0123",
     "scale": 0.80000001192093,
     "personality_id": 140,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 130,
@@ -861,7 +914,8 @@
     "icon": "0124",
     "scale": 0.5,
     "personality_id": 141,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 2
   },
   {
     "id": 131,
@@ -877,7 +931,8 @@
     "icon": "0125",
     "scale": 0.5,
     "personality_id": 142,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 132,
@@ -893,7 +948,8 @@
     "icon": "0046",
     "scale": 0.80000001192093,
     "personality_id": 72,
-    "system_redirect_ids": "2102|2104"
+    "system_redirect_ids": "2102|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 133,
@@ -909,7 +965,8 @@
     "icon": "0047",
     "scale": 0.69999998807907,
     "personality_id": 73,
-    "system_redirect_ids": "2102|2103|2104"
+    "system_redirect_ids": "2102|2103|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 134,
@@ -925,7 +982,8 @@
     "icon": "0048",
     "scale": 0.80000001192093,
     "personality_id": 84,
-    "system_redirect_ids": "2103|2104"
+    "system_redirect_ids": "2103|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 135,
@@ -941,7 +999,8 @@
     "icon": "0051",
     "scale": 0.69999998807907,
     "personality_id": 85,
-    "system_redirect_ids": "2102|2104"
+    "system_redirect_ids": "2102|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 136,
@@ -957,7 +1016,8 @@
     "icon": "0050",
     "scale": 0.80000001192093,
     "personality_id": 86,
-    "system_redirect_ids": "2102|2103|2104"
+    "system_redirect_ids": "2102|2103|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 137,
@@ -973,7 +1033,8 @@
     "icon": "0053",
     "scale": 0.80000001192093,
     "personality_id": 87,
-    "system_redirect_ids": "2102|2103|2104"
+    "system_redirect_ids": "2102|2103|2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 138,
@@ -989,7 +1050,8 @@
     "icon": "0138",
     "scale": 0.5,
     "personality_id": 103,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 1
   },
   {
     "id": 139,
@@ -1005,7 +1067,8 @@
     "icon": "0060",
     "scale": 0.69999998807907,
     "personality_id": 104,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 1
   },
   {
     "id": 140,
@@ -1021,7 +1084,8 @@
     "icon": "0063",
     "scale": 0.80000001192093,
     "personality_id": 105,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
   },
   {
     "id": 141,
@@ -1037,7 +1101,8 @@
     "icon": "0139",
     "scale": 0.60000002384186,
     "personality_id": 106,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 1
   },
   {
     "id": 142,
@@ -1053,7 +1118,8 @@
     "icon": "0061",
     "scale": 1,
     "personality_id": 107,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
   },
   {
     "id": 143,
@@ -1069,7 +1135,8 @@
     "icon": "0064",
     "scale": 0.60000002384186,
     "personality_id": 108,
-    "system_redirect_ids": "2104"
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 2
   },
   {
     "id": 144,
@@ -1085,7 +1152,8 @@
     "icon": "0141",
     "scale": 0.80000001192093,
     "personality_id": 114,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 1
   },
   {
     "id": 145,
@@ -1101,7 +1169,8 @@
     "icon": "0142",
     "scale": 0.5,
     "personality_id": 115,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 1
   },
   {
     "id": 146,
@@ -1117,7 +1186,8 @@
     "icon": "0143",
     "scale": 0.80000001192093,
     "personality_id": 116,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 1
   },
   {
     "id": 147,
@@ -1133,7 +1203,8 @@
     "icon": "0068",
     "scale": 0.40000000596046,
     "personality_id": 127,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 148,
@@ -1149,14 +1220,15 @@
     "icon": "0074",
     "scale": 0.60000002384186,
     "personality_id": 128,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 1
   },
   {
     "id": 149,
     "m_system_redirects": [1010],
-    "name": "Precise Battle Sight",
+    "name": "True Lens",
     "editor_name": "AT2网游73-饰品-SSR2-武器73_SSR2饰品73",
-    "desc": "A well-thought out design created by a retired veteran, it is a complex device with a mechanism for ballistic correction of most projectiles. While it is very useful, there is a risk of it becoming a crutch for rookie soldiers.",
+    "desc": "A well-thought-out design created by a retired veteran. It is a complex device with a mechanism for the ballistic correction of most projectiles. While it is very useful, there is a risk of it becoming a crutch for rookie soldiers.",
     "model": "",
     "palette": "",
     "type": 2,
@@ -1165,7 +1237,8 @@
     "icon": "0069",
     "scale": 0.80000001192093,
     "personality_id": 129,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 150,
@@ -1181,7 +1254,8 @@
     "icon": "0075",
     "scale": 0.80000001192093,
     "personality_id": 130,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 151,
@@ -1197,7 +1271,8 @@
     "icon": "0070",
     "scale": 0.69999998807907,
     "personality_id": 131,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 152,
@@ -1213,7 +1288,8 @@
     "icon": "0076",
     "scale": 0.80000001192093,
     "personality_id": 132,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 2
   },
   {
     "id": 153,
@@ -1229,7 +1305,8 @@
     "icon": "0071",
     "scale": 0.60000002384186,
     "personality_id": 143,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 154,
@@ -1245,7 +1322,8 @@
     "icon": "0077",
     "scale": 0.69999998807907,
     "personality_id": 144,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 2
   },
   {
     "id": 155,
@@ -1261,7 +1339,8 @@
     "icon": "0155",
     "scale": 0.60000002384186,
     "personality_id": 145,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 156,
@@ -1277,7 +1356,8 @@
     "icon": "0156",
     "scale": 0.69999998807907,
     "personality_id": 146,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 157,
@@ -1293,7 +1373,8 @@
     "icon": "0126",
     "scale": 1,
     "personality_id": 147,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 158,
@@ -1309,7 +1390,8 @@
     "icon": "0128",
     "scale": 1,
     "personality_id": 148,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 159,
@@ -1325,7 +1407,8 @@
     "icon": "0160",
     "scale": 0.69999998807907,
     "personality_id": 149,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 160,
@@ -1341,14 +1424,15 @@
     "icon": "0161",
     "scale": 0.5,
     "personality_id": 149,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 161,
     "m_system_redirects": [1010],
     "name": "Cornucopia Axe",
     "editor_name": "AT2网游85-斧-SSR2-武器85_SSR2斧85",
-    "desc": "Every ounce of it is a response to the welder's wishes.",
+    "desc": "Every bit of its weight is a response to the wielder's wishes.",
     "model": "",
     "palette": "",
     "type": 5,
@@ -1357,14 +1441,15 @@
     "icon": "0162",
     "scale": 0.5,
     "personality_id": 149,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 162,
     "m_system_redirects": [1010],
     "name": "Cornucopia Longbow",
     "editor_name": "AT2网游86-弓-SSR2-武器86_SSR2弓86",
-    "desc": "Even after the baptism of time, its nobleness and purity have never been tarnished.",
+    "desc": "Even through the passage of time, its nobility and purity have never been tarnished.",
     "model": "",
     "palette": "",
     "type": 6,
@@ -1373,14 +1458,15 @@
     "icon": "0163",
     "scale": 0.55000001192093,
     "personality_id": 149,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 163,
     "m_system_redirects": [1010],
-    "name": "Cornucopia Wand",
+    "name": "Cornucopia Staff",
     "editor_name": "AT2网游87-杖-SSR2-武器87_SSR2杖87",
-    "desc": "Used to pray for the harvest by ancestors, the scepter that forged by a long-lost technology has the power to give life.",
+    "desc": "Was historically used to pray for a good harvest. Forged using long-lost techniques, this wand has the power to give life.",
     "model": "",
     "palette": "",
     "type": 7,
@@ -1389,7 +1475,8 @@
     "icon": "0164",
     "scale": 0.5,
     "personality_id": 149,
-    "system_redirect_ids": "1010"
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   },
   {
     "id": 164,
@@ -1405,7 +1492,8 @@
     "icon": "0165",
     "scale": 0.80000001192093,
     "personality_id": 154,
-    "system_redirect_ids": "2102"
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 0
   },
   {
     "id": 165,
@@ -1421,6 +1509,109 @@
     "icon": "0166",
     "scale": 0.60000002384186,
     "personality_id": 159,
-    "system_redirect_ids": "2103"
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 166,
+    "m_system_redirects": [2102],
+    "name": "Guardian's Will",
+    "editor_name": "AT2网游90-剑-SSR1-武器90_SSR1剑90",
+    "desc": "The brave girl lifted her long sword, her slender body no longer trembling beneath her cloak.",
+    "model": "",
+    "palette": "",
+    "type": 3,
+    "rarity": 4,
+    "online_weapon_modify_id": 1,
+    "icon": "0169",
+    "scale": 0.5,
+    "personality_id": 160,
+    "system_redirect_ids": "2102",
+    "tendency_tag_id": 1
+  },
+  {
+    "id": 167,
+    "m_system_redirects": [2103],
+    "name": "Melee Mega Crossbow",
+    "editor_name": "AT2网游91-弓-SSR1-武器91_SSR1弓91",
+    "desc": "Prioritizing power at the expense of range, this weapon fulfills every archer's melee dream!",
+    "model": "",
+    "palette": "",
+    "type": 6,
+    "rarity": 4,
+    "online_weapon_modify_id": 4,
+    "icon": "0170",
+    "scale": 0.80000001192093,
+    "personality_id": 161,
+    "system_redirect_ids": "2103",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 168,
+    "m_system_redirects": [2104],
+    "name": "The Silent Guard",
+    "editor_name": "AT2网游92-枪-SSR1-武器92_SSR1枪92",
+    "desc": "Endure, build up, and strike down the enemy in one hit—the principles one must abide by to become a formidable guard.",
+    "model": "",
+    "palette": "",
+    "type": 4,
+    "rarity": 4,
+    "online_weapon_modify_id": 2,
+    "icon": "0171",
+    "scale": 0.5,
+    "personality_id": 162,
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 1
+  },
+  {
+    "id": 169,
+    "m_system_redirects": [2104],
+    "name": "Diffusing Prism",
+    "editor_name": "AT2网游93-杖-SSR1-武器93_SSR1杖93",
+    "desc": "This Luxite was carved using a special technique, and can greatly amplify the caster's abilities, engulfing hordes of enemies like a surging wave.",
+    "model": "",
+    "palette": "",
+    "type": 7,
+    "rarity": 4,
+    "online_weapon_modify_id": 5,
+    "icon": "0172",
+    "scale": 0.5,
+    "personality_id": 163,
+    "system_redirect_ids": "2104",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 170,
+    "m_system_redirects": [1010],
+    "name": "Origin Hourglass",
+    "editor_name": "AT2网游94-饰品-SSR1-武器94_SSR1饰品94",
+    "desc": "A trinket developed by a long-forgotten deity who wished to reverse the flow of time. While this is impossible on a universal scale, it is relatively simple to manipulate the time which surrounds only oneself.",
+    "model": "",
+    "palette": "",
+    "type": 2,
+    "rarity": 4,
+    "online_weapon_modify_id": 6,
+    "icon": "0173",
+    "scale": 0.60000002384186,
+    "personality_id": 164,
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 171,
+    "m_system_redirects": [1010],
+    "name": "Hunter's Intuition",
+    "editor_name": "AT2网游95-饰品-SSR1-武器95_SSR1饰品95",
+    "desc": "With the prey none the wiser, the deadly hunt begins.",
+    "model": "",
+    "palette": "",
+    "type": 2,
+    "rarity": 4,
+    "online_weapon_modify_id": 6,
+    "icon": "0174",
+    "scale": 0.60000002384186,
+    "personality_id": 165,
+    "system_redirect_ids": "1010",
+    "tendency_tag_id": 0
   }
 ]

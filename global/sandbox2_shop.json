@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "m_sandbox2_shop_sales": [1, 2, 3],
+    "name": "测试前传线商店1",
+    "editor_name": "测试前传线商店1",
+    "duration": 3,
+    "recycle_treasure_type": 50,
+    "recycle_treasure_param0": 1,
+    "recycle_treasure_param1": 0,
+    "recyclable_treasure_types": "0"
+  },
+  {
+    "id": 2,
+    "m_sandbox2_shop_sales": [4, 5, 6],
+    "name": "测试前传线商店2",
+    "editor_name": "测试前传线商店2",
+    "duration": 3,
+    "recycle_treasure_type": 50,
+    "recycle_treasure_param0": 1,
+    "recycle_treasure_param1": 0,
+    "recyclable_treasure_types": "0"
+  }
+]

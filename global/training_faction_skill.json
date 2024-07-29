@@ -29,9 +29,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5927,
-    "name": "Critical Training",
+    "name": "Critical Enhancement",
     "editor_name": "AT2-特训：暴击强化-N",
-    "desc": "Grants bonus Crit by 25%.",
+    "desc": "Increases Crit by 25%.",
     "need_round": 1,
     "money": 300
   },
@@ -43,7 +43,7 @@
     "skill_id": 5920,
     "name": "Tetanus",
     "editor_name": "AT2-特训：破伤风-N",
-    "desc": "When dealing DMG, single-target attack inflicts 2 stacks of [Infection] on the target.",
+    "desc": "When dealing DMG with a single-target attack, inflicts 2 stacks of [Infection] on the target.",
     "need_round": 1,
     "money": 300
   },
@@ -55,7 +55,7 @@
     "skill_id": 5929,
     "name": "Off-Turn Boost",
     "editor_name": "AT2-特训：轻装上阵-N",
-    "desc": "When it's not the character's turn, DMG dealt is increased by 30%.",
+    "desc": "When it's not the character's turn, DMG dealt increases by 30%.",
     "need_round": 1,
     "money": 300
   },
@@ -67,7 +67,7 @@
     "skill_id": 5921,
     "name": "Armor Polishing",
     "editor_name": "AT2-特训：打磨铠甲-N",
-    "desc": "At the start of the battle, gains a [Physical Shield] equal to 30% HP.",
+    "desc": "At the start of the battle, gains a [physical shield] equal to 30% HP.",
     "need_round": 1,
     "money": 300
   },
@@ -79,7 +79,7 @@
     "skill_id": 5923,
     "name": "Impending Doom",
     "editor_name": "AT2-特训：魔攻强化-N",
-    "desc": "Inflicts 2 random [Level 2 Debuffs] on the target after attacking when it's not their turn. The effect lasts 2 rounds.",
+    "desc": "Inflicts 2 random [Level 2 Debuffs] on the target after attacking when it's not the character's turn. The effect lasts for 2 turns.",
     "need_round": 1,
     "money": 300
   },
@@ -91,7 +91,7 @@
     "skill_id": 5924,
     "name": "HP Enhancement",
     "editor_name": "AT2-特训：生命强化-N",
-    "desc": "HP and Healing Effect are increased by 20%.",
+    "desc": "Increases HP by 20% and healing received by 20%.",
     "need_round": 1,
     "money": 300
   },
@@ -101,7 +101,7 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5922,
-    "name": "Attack Enhancement",
+    "name": "Damage Enhancement",
     "editor_name": "AT2-特训：物攻强化-N",
     "desc": "Increases ATK by 15%.",
     "need_round": 1,
@@ -115,7 +115,7 @@
     "skill_id": 5925,
     "name": "Defense Enhancement",
     "editor_name": "AT2-特训：物防强化-N",
-    "desc": "P.DEF and M.DEF are increased by 30%.",
+    "desc": "Increases P.DEF and M.DEF by 30%.",
     "need_round": 1,
     "money": 300
   },
@@ -127,7 +127,7 @@
     "skill_id": 5919,
     "name": "Morale Training",
     "editor_name": "AT2-特训：士气训练-N",
-    "desc": "At the start of the battle, all allies within 3 tiles additionally restore 1 NRG.",
+    "desc": "At the start of the battle, all allies within 3 tiles around the character additionally gain 1 NRG.",
     "need_round": 1,
     "money": 300
   },
@@ -139,7 +139,7 @@
     "skill_id": 5926,
     "name": "Professional Healer",
     "editor_name": "AT2-特训：魔防强化-N",
-    "desc": "Effect of Healing is increased by 25%.",
+    "desc": "Increases the Healing Effect by 25%.",
     "need_round": 1,
     "money": 300
   },
@@ -149,9 +149,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5928,
-    "name": "Deadly Step",
+    "name": "Lethal Pace",
     "editor_name": "AT2-特训：暴伤强化-N",
-    "desc": "Increases Movement by 1 tile. Can Move Again after defeating a target. The distance moved is based on [Remaining Movement].",
+    "desc": "Increases Movement by 1 tile. Can move again after defeating the target. The distance moved is based on the [Remaining Movement].",
     "need_round": 1,
     "money": 300
   },
@@ -163,7 +163,7 @@
     "skill_id": 5945,
     "name": "Cruel Words",
     "editor_name": "AT2-特训：刺客训练-R",
-    "desc": "At the end of the turn, inflicts [Dullness] to 1 random enemy within 5 tiles. Applies [<sprite=1>Reaction Skill] to the target. When taking Crit DMG, the target will be inflicted with [Stun], which lasts 2 rounds.",
+    "desc": "At the end of the turn, inflicts [Dullness] to 1 random enemy within 5 tiles around the character. Effect: Inflicts [<sprite=1>Reaction Skills] to the target. When taking Crit DMG, the target gains [Stunned] for 2 turns.",
     "need_round": 2,
     "money": 750
   },
@@ -175,7 +175,7 @@
     "skill_id": 5946,
     "name": "Collateral Damage",
     "editor_name": "AT2-特训：无畏冲锋-R",
-    "desc": "Grants 45% bonus Crit.",
+    "desc": "Increases Crit DMG by 45%.",
     "need_round": 2,
     "money": 750
   },
@@ -187,7 +187,7 @@
     "skill_id": 5948,
     "name": "Born in Shadow",
     "editor_name": "AT2-特训：基础达人-R",
-    "desc": "When initiating a [Back Attack], gain 30% bonus Crit. Gain [Act Again] after defeating an enemy. The effect can be triggered up to 1 time per round and has a CD of 2 turns.",
+    "desc": "When initiating a [Back Attack], increases Crit by 30%. Gains [Act Again] after defeating an enemy with Back Attack. The effect can be triggered up to 1 time per round. CD: 2 turns.",
     "need_round": 2,
     "money": 750
   },
@@ -197,9 +197,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5934,
-    "name": "Flame Engraving",
+    "name": "Flame Enchantment",
     "editor_name": "AT2-特训：火焰附魔-R",
-    "desc": "At the start of the turn, inflicts [Scorch] on 2 random enemies within 3 tiles. The effect lasts 2 rounds.",
+    "desc": "At the start of the turn, inflicts [Scorch] on 2 random enemies within a 3-tile radius of the character, lasting for 2 turns.",
     "need_round": 2,
     "money": 750
   },
@@ -223,7 +223,7 @@
     "skill_id": 5961,
     "name": "Pain Trap",
     "editor_name": "AT2-特训：团队鼓舞-R",
-    "desc": "If DMG is dealt to the enemy on their turn, 3 stacks of [Infection] will be inflicted on the target.",
+    "desc": "If DMG is dealt outside of the character's turn, inflicts 3 stacks of [Infection] on the target.",
     "need_round": 2,
     "money": 750
   },
@@ -235,7 +235,7 @@
     "skill_id": 5958,
     "name": "Wait for Windfalls",
     "editor_name": "AT2-特训：对盾精通-R",
-    "desc": "When it's not their turn, each enemy defeated grants the character 3 NRG and reduces the CD of skills by 2 turns.",
+    "desc": "When it's not the character's turn, the character recovers 3 NRG and reduces the CD of skills by 2 turns for each enemy defeated.",
     "need_round": 2,
     "money": 750
   },
@@ -247,7 +247,7 @@
     "skill_id": 5936,
     "name": "Bloodthirst Counter",
     "editor_name": "AT2-特训：防御强化-R",
-    "desc": "When initiating a Strike Back, gain 30% bonus ATK and 30% [Life Steal].",
+    "desc": "When initiating a Strike Back, increases ATK by 30% and grants 30% [Life Steal].",
     "need_round": 2,
     "money": 750
   },
@@ -259,7 +259,7 @@
     "skill_id": 5957,
     "name": "Full Capacity",
     "editor_name": "AT2-特训：染血正义-R",
-    "desc": "When performing [Alert] or using skills that require time to Prepare, gain 40% bonus ATK.",
+    "desc": "When performing [Alert] or using skills that require time to prepare, increases ATK by 40% when casting the skill.",
     "need_round": 2,
     "money": 750
   },
@@ -271,7 +271,7 @@
     "skill_id": 5950,
     "name": "Heroic and Zeal",
     "editor_name": "AT2-特训：反戈一击-R",
-    "desc": "Grants 50% bonus ATK when launching a [Assisting Attack] or a [Assisting Revenge].",
+    "desc": "Increases ATK by 50% when launching a [Assisting Attack] or a [Assisting Revenge].",
     "need_round": 2,
     "money": 750
   },
@@ -283,7 +283,7 @@
     "skill_id": 5930,
     "name": "Special Armor",
     "editor_name": "AT2-特训：特制铠甲-R",
-    "desc": "At the end of the turn, grants all allies within 3 tiles a [Physical Shield] equal to 15% of the character's HP. The shield last 1 round.",
+    "desc": "At the end of the turn, grants all allies within 3 tiles a [physical shield] equal to 15% of the character's HP for 1 turn.",
     "need_round": 2,
     "money": 750
   },
@@ -295,7 +295,7 @@
     "skill_id": 5931,
     "name": "Front Toward Enemy",
     "editor_name": "AT2-特训：坚固-R",
-    "desc": "Grants all allies with a [Shield] within 3 tiles [3 DMG Reflection].",
+    "desc": "Grants all allies with a [Shield] within 3 tiles around the character [Damage Reflect III].",
     "need_round": 2,
     "money": 750
   },
@@ -305,9 +305,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5959,
-    "name": "Armored Warrior",
+    "name": "Heavily Armored",
     "editor_name": "AT2-特训：重铠战士-R",
-    "desc": "When attacking with an active [Shield], gains [<sprite=2>Attack 3], which lasts 1 round.",
+    "desc": "When having a [Shield], gains [<sprite=2>ATK III] for 1 turn before attacking.",
     "need_round": 2,
     "money": 750
   },
@@ -319,7 +319,7 @@
     "skill_id": 5933,
     "name": "Insult to Injury",
     "editor_name": "AT2-特训：攻击强化-R",
-    "desc": "Gains 30% bonus Crit and Crit DMG if target has 3 or more [Debuffs].",
+    "desc": "Before attacking, if the target has 3 or more [debuffs], the character gains 30% bonus Crit and 30% bonus Crit DMG.",
     "need_round": 2,
     "money": 750
   },
@@ -331,7 +331,7 @@
     "skill_id": 5960,
     "name": "Curse Burst",
     "editor_name": "AT2-特训：死亡偷袭-R",
-    "desc": "Before initiating a Ranged Attack, inflicts 2 random [Level 2 Debuffs] on the target, which last 1 round. After attacking, the duration of all [Debuffs] on the target will be extended by 1 turn.",
+    "desc": "Before initiating a Ranged Attack, inflicts 2 random [Level 2 Debuffs] on the target for 1 turn. After attacking, the duration of all [debuffs] on the target will be extended by 1 turn.",
     "need_round": 2,
     "money": 750
   },
@@ -343,7 +343,7 @@
     "skill_id": 5951,
     "name": "Calculated Trajectory",
     "editor_name": "AT2-特训：游击训练-R",
-    "desc": "Increases the range of Ranged Skills by 1 tile.",
+    "desc": "Increases the maximum range of Ranged Skills by 1 tile.",
     "need_round": 2,
     "money": 750
   },
@@ -355,7 +355,7 @@
     "skill_id": 5956,
     "name": "Remote Lock",
     "editor_name": "AT2-特训：见缝插针-R",
-    "desc": "If the distance to the target is greater than 4 tiles (the adjacent tile does not count) when attacking, ignores 50% of the target's DEF. Before attacking, applies [<sprite=1>Passive Skill] and [<sprite=1>Dodge]. The effects last 1 round.",
+    "desc": "If the distance to the target is greater than 4 tiles (Distance for Adjacent Tiles counts as 0) when attacking, ignores 50% of the target's DEF. Before attacking, inflicts [<sprite=1>Passive Skill] and [<sprite=1>Dodge] for 1 turn.",
     "need_round": 2,
     "money": 750
   },
@@ -365,9 +365,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5966,
-    "name": "Sniper Training",
+    "name": "Marksman Specialization",
     "editor_name": "AT2-特训：狙击训练-R",
-    "desc": "For every 1 tile (the adjacent tile does not count) between the character and the target when attacking, deals 8% more DMG, up to a maximum of 80%.",
+    "desc": "When attacking, increases DMG by 8% for each 1 additional tile (distance for Adjacent Tiles counts as 0) from the target, up to 80%.",
     "need_round": 2,
     "money": 750
   },
@@ -377,9 +377,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5935,
-    "name": "Strong Physique",
+    "name": "Sturdy Physique",
     "editor_name": "AT2-特训：强健体魄-R",
-    "desc": "Gains [Toughness]. After dealing Crit DMG, grants a [Physical Shield] equal to 40% of lost HP.",
+    "desc": "Gains [Toughness]. After dealing Crit DMG, gains a [physical shield] equal to 40% of the character's lost HP.",
     "need_round": 2,
     "money": 750
   },
@@ -391,7 +391,7 @@
     "skill_id": 5947,
     "name": "Crushing Axe",
     "editor_name": "AT2-特训：碾压之斧-R",
-    "desc": "When the character's HP exceeds that of the target, deals 35% more DMG.",
+    "desc": "When the character's Max HP exceeds that of the target's current HP, deals 35% more DMG.",
     "need_round": 2,
     "money": 750
   },
@@ -401,7 +401,7 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5967,
-    "name": "Rescue Training",
+    "name": "Rescue Specialist",
     "editor_name": "AT2-特训：援护特训-R",
     "desc": "Gains [Resolve] before launching [Assisting Cover].",
     "need_round": 2,
@@ -415,7 +415,7 @@
     "skill_id": 5953,
     "name": "Rear Tactics",
     "editor_name": "AT2-特训：把握时机-R",
-    "desc": "When using [Healing] skills, reduces the CD of skills of the character for 1 turn and extends range by 1 tile.",
+    "desc": "When using [Healing] skills, decreases the CD of all skills by 1 turn and extends the maximum range by 1 tile.",
     "need_round": 2,
     "money": 750
   },
@@ -427,7 +427,7 @@
     "skill_id": 5954,
     "name": "Guard with Care",
     "editor_name": "AT2-特训：紧急手术-R",
-    "desc": "Grants [3 DMG Reduction] on all [Unharmed] characters within 3 tiles.",
+    "desc": "Grants [DMG Reduction III] to all [Unharmed] characters within 3 tiles around the character.",
     "need_round": 2,
     "money": 750
   },
@@ -437,9 +437,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5955,
-    "name": "Overall Treatment",
+    "name": "Two-Way Treatment",
     "editor_name": "AT2-特训：回收弹药-R",
-    "desc": "After healing the target, 1 NRG will be restored to the target. The effect can be triggered up to 2 times per round.",
+    "desc": "After healing, the target recovers 1 NRG. The effect can be triggered up to 2 times per round.",
     "need_round": 2,
     "money": 750
   },
@@ -451,7 +451,7 @@
     "skill_id": 5963,
     "name": "Emergency Training",
     "editor_name": "AT2-特训：应急训练-R",
-    "desc": "At the start of the turn, heals [Dying] allies within in 3 tiles for 40% lost HP.",
+    "desc": "At the start of the turn, heals [Dying] allies within 3 tiles around the character for 40% lost HP.",
     "need_round": 2,
     "money": 750
   },
@@ -461,9 +461,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5932,
-    "name": "Movement Enhancement",
+    "name": "Move Enhancement",
     "editor_name": "AT2-特训：移动强化-R",
-    "desc": "At the end of the turn, grants 2 random allies within 3 tiles [<sprite=2>Move 2], which lasts 1 round.",
+    "desc": "At the end of the turn, grants [<sprite=2>Move II] to 2 random allies within a 3-tile radius of the character, lasting for 1 turn.",
     "need_round": 2,
     "money": 750
   },
@@ -473,9 +473,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5949,
-    "name": "Charge Attack",
+    "name": "Charging Attack",
     "editor_name": "AT2-特训：冲锋攻击-R",
-    "desc": "For each tile traversed before attacking, deals 8% more DMG. This effect can stack.",
+    "desc": "For each tile traversed by Move or Charge before attacking, increases DMG by 8%. The effect can stack.",
     "need_round": 2,
     "money": 750
   },
@@ -485,9 +485,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5962,
-    "name": "Somersault Training",
+    "name": "Acrobatics",
     "editor_name": "AT2-特训：空翻训练-R",
-    "desc": "Jump over enemies without consuming [Movement]. The effect can be triggered up to 1 time per round. After jumping over an enemy, ignore [Assisting Cover] when attacking.",
+    "desc": "Can [Jump Over] foes without consuming [Movement]. The effect can be activated up to 1 time per round. After jumping over a foe, ignores [Assisting Cover] when attacking.",
     "need_round": 2,
     "money": 750
   },
@@ -499,7 +499,7 @@
     "skill_id": 5964,
     "name": "Spirit Enhancement",
     "editor_name": "AT2-特训：精神强化-R",
-    "desc": "At the start of the turn, dispels 2 [Debuffs] on the character, restores 10% HP and grants 1 [Level 1 Buff], which lasts 2 rounds.",
+    "desc": "At the start of the turn, dispels 2 [debuffs] on the character, recovers 10% HP, and gains 1 [Level 1 Buff], lasting for 2 turns.",
     "need_round": 2,
     "money": 750
   },
@@ -511,7 +511,7 @@
     "skill_id": 5965,
     "name": "Mainstay",
     "editor_name": "AT2-特训：蛮横冲撞-R",
-    "desc": "For every 1 [Buff], increases DEF by 15%, up to a maximum of 75%.",
+    "desc": "For each 1 [Buff] owned, increases DEF by 15%, up to 75%.",
     "need_round": 2,
     "money": 750
   },
@@ -521,9 +521,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5994,
-    "name": "Sound of Thunder",
+    "name": "Thunderbolt Force",
     "editor_name": "AT2-特训：劈山巨刃-SR",
-    "desc": "At the start of the battle, every 1% Crit increases Crit DMG by 1%.",
+    "desc": "At the start of the battle, increases Crit DMG by 1% for each 1% Crit owned.",
     "need_round": 3,
     "money": 2000
   },
@@ -535,7 +535,7 @@
     "skill_id": 5997,
     "name": "Might Doubled",
     "editor_name": "AT2-特训：如虎添翼-SR",
-    "desc": "Gains [Jump] and [Climb]. If the characters moves from one tile to another with a height difference of more than 2 tiles before attacking, gain 45% bonus Crit and ignore 30% of the target's DEF.",
+    "desc": "Gains [Jump] and [Climb]. Before attacking, if the character moves from one tile to another with a height difference of more than 2 tiles, increases Crit by 45% and ignores 30% of the target's DEF.",
     "need_round": 3,
     "money": 2000
   },
@@ -545,9 +545,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6006,
-    "name": "Special Physical Training",
+    "name": "Agility Training",
     "editor_name": "AT2-特训：身法特训-SR",
-    "desc": "When dealing Crit DMG, grants a 50% chance to gain [Dodge]for 1 turn, and restores 30% HP and 1 NRG.",
+    "desc": "When dealing Crit DMG, there is a 50% chance for the character to gain [Dodge] for 1 turn and recovers 30% HP and 1 NRG.",
     "need_round": 3,
     "money": 2000
   },
@@ -571,7 +571,7 @@
     "skill_id": 5982,
     "name": "Rusty Textures",
     "editor_name": "AT2-特训：爆燃特训-SR",
-    "desc": "When DMG is dealt, inflicts 2 stacks of [Infection] and [Laceration] on the target.",
+    "desc": "When dealing DMG, inflicts 2 stacks of [Infection] and [Laceration] on the target.",
     "need_round": 3,
     "money": 2000
   },
@@ -583,7 +583,7 @@
     "skill_id": 5974,
     "name": "Strike Back Master",
     "editor_name": "AT2-特训：反击大师-SR",
-    "desc": "Increases the Strike Back Count per round by 1, and strike backs deal 40% more DMG.",
+    "desc": "Increases the Strike Back Count per turn by 1, and Strike Back DMG by 40%.",
     "need_round": 3,
     "money": 2000
   },
@@ -593,9 +593,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5977,
-    "name": "Vigilance Training",
+    "name": "Alert Specialization",
     "editor_name": "AT2-特训：警戒特训-SR",
-    "desc": "Increases the times of Alert can be triggered during each round of the battle by 1. When Alert triggers, deal 40% more DMG.",
+    "desc": "Increases the triggering counts of Alert for each turn of battle by 1. When Alert triggers, deals 40% more DMG.",
     "need_round": 3,
     "money": 2000
   },
@@ -607,7 +607,7 @@
     "skill_id": 5978,
     "name": "Getting Rid of",
     "editor_name": "AT2-特训：爆头特训-SR",
-    "desc": "Increases the number of [Assisting Attack] during each round of the battle by 1. Assisting Attacks deal bonus DMG equal to 30% of the target's lost HP.",
+    "desc": "Increases the counts of [Assisting Attack] for each turn of battle by 1. When casting Assisting Attacks, additionally deals DMG equal to 30% of the target's lost HP.",
     "need_round": 3,
     "money": 2000
   },
@@ -619,7 +619,7 @@
     "skill_id": 5984,
     "name": "Flow Focus",
     "editor_name": "AT2-特训：恐吓特训-SR",
-    "desc": "After using skills that require time to Prepare, Restore the CD and gain 2 NRG.",
+    "desc": "When using skills that require time to prepare, resets the CD, and recovers 2 NRG after casting the skill.",
     "need_round": 3,
     "money": 2000
   },
@@ -631,7 +631,7 @@
     "skill_id": 5988,
     "name": "Shield Holding Training",
     "editor_name": "AT2-特训：持盾特训-SR",
-    "desc": "All allies within 3 tiles take 25% less DMG if they have a [Physical Shield]. The effect can stack.",
+    "desc": "The DMG taken is decreased by 25% for all allies within 3 tiles around the character if they have a [physical shield]. The effect can stack.",
     "need_round": 3,
     "money": 2000
   },
@@ -641,9 +641,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5992,
-    "name": "Shield Attack Master",
+    "name": "Shield Attack Mastery",
     "editor_name": "AT2-特训：盾攻掌握-SR",
-    "desc": "Each [Physical Shield] grants the character 20% bonus DMG dealt, up to a maximum of 100%.",
+    "desc": "For each [Physical Shield] owned, increases the DMG dealt by 20%, up to 100%.",
     "need_round": 3,
     "money": 2000
   },
@@ -655,7 +655,7 @@
     "skill_id": 5993,
     "name": "Spirit Shield",
     "editor_name": "AT2-特训：精神坚盾-SR",
-    "desc": "After receiving DMG, gain a [Physical Shield] equal to 20% HP. The Shield lasts 1 round.",
+    "desc": "For each time being attacked, immediately gains a [physical shield] equal to 20% HP for 1 turn.",
     "need_round": 3,
     "money": 2000
   },
@@ -667,7 +667,7 @@
     "skill_id": 5985,
     "name": "Salt-Upon-Wounds",
     "editor_name": "AT2-特训：野外求生-SR",
-    "desc": "At the start of the turn, inflicts 2 [Level 3 Debuffs] on enemies who have [Scorch] or [Infection] within 5 tiles. The effects last 2 rounds.",
+    "desc": "At the start of the turn, inflicts 2 [Level 3 Debuffs] on enemies who have [Scorch] or [Infection] within 5 tiles around the character, lasting for 2 turns.",
     "need_round": 3,
     "money": 2000
   },
@@ -679,7 +679,7 @@
     "skill_id": 5996,
     "name": "Knot Master",
     "editor_name": "AT2-特训：狙足训练-SR",
-    "desc": "After DMG is dealt, gain a 40% chance to inflict 1 random [Bound] on the target. The effect lasts 1 round.",
+    "desc": "After dealing DMG, there is a 40% chance to inflict 1 random [Bound] on the target for 1 turn.",
     "need_round": 3,
     "money": 2000
   },
@@ -689,9 +689,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5999,
-    "name": "Fatal trial",
+    "name": "Fatal Trial",
     "editor_name": "AT2-特训：异常杀戮-SR",
-    "desc": "When attacking enemies afflicted with [Control], deal 80% more DMG.",
+    "desc": "When attacking enemies afflicted with [Bound], the character deals 80% more DMG.",
     "need_round": 3,
     "money": 2000
   },
@@ -703,7 +703,7 @@
     "skill_id": 5972,
     "name": "Long Shot Training",
     "editor_name": "AT2-特训：远射训练-SR",
-    "desc": "All allies within 3 tiles deal 5% more DMG with their [Ranged] Single-target Skills and their range is extended by 1 tile. The effect can stack.",
+    "desc": "All allies within 3 tiles around the character deal 5% more DMG with their [Ranged] Single-target Skills and their maximum range is increased by 1 tile. The effect can stack.",
     "need_round": 3,
     "money": 2000
   },
@@ -713,9 +713,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5983,
-    "name": "Concentration Training",
+    "name": "Specialized Training",
     "editor_name": "AT2-特训：专注特训-SR",
-    "desc": "If there is no enemy within 4 tiles around, gain 30% bonus ATK and 2 random [Level 2 Buffs] at the start of each round. The effects last 2 rounds.",
+    "desc": "If there is no enemy within 4 tiles around the character, increases ATK by 30% and gains 2 random [Level 2 Buffs] at the start of the turn. The effects last for 2 turns.",
     "need_round": 3,
     "money": 2000
   },
@@ -727,7 +727,7 @@
     "skill_id": 5975,
     "name": "Fury of the Scar",
     "editor_name": "AT2-特训：受伤调整-SR",
-    "desc": "Increases ATK by 50% of the character's missing HP.",
+    "desc": "Increases ATK by 50% of the character's lost HP.",
     "need_round": 3,
     "money": 2000
   },
@@ -739,7 +739,7 @@
     "skill_id": 5976,
     "name": "Perseverance",
     "editor_name": "AT2-特训：虹吸能量-SR",
-    "desc": "If [Injured] at the start of the turn, gain a [Physical Shield] equal to 80% of missing HP. The Shield lasts 1 round.",
+    "desc": "If [Injured] at the start of the turn, the character gains a [physical shield] equal to 80% of lost HP for 1 turn.",
     "need_round": 3,
     "money": 2000
   },
@@ -751,7 +751,7 @@
     "skill_id": 5986,
     "name": "Life Fighter",
     "editor_name": "AT2-特训：不屈意志-SR",
-    "desc": "Before initiating an Active Attack, sacrifice 18% current HP to gain 40% bonus ATK.",
+    "desc": "Before initiating an Active Attack, sacrifices 18% of the current HP to increase ATK for the character by 40%.",
     "need_round": 3,
     "money": 2000
   },
@@ -763,7 +763,7 @@
     "skill_id": 5968,
     "name": "Doctor also Friend",
     "editor_name": "AT2-特训：战后搜刮-SR",
-    "desc": "After healing an ally, the character and the target gain [<sprite=2>3 Attack], [<sprite=2>2 P.DEF] and [<sprite=2>2 M.DEF]. The effects last 1 round.",
+    "desc": "After healing, the character and the target gain [<sprite=2>ATK III], [<sprite=2>P.DEF II], and [<sprite=2>M.DEF II] for 1 turn.",
     "need_round": 3,
     "money": 2000
   },
@@ -773,9 +773,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5990,
-    "name": "Full of Energy",
+    "name": "Energetic",
     "editor_name": "AT2-特训：修补铠甲-SR",
-    "desc": "Increases original NRG by 2. Every 1 NRG in that the character has while in battle increases DMG by 10%, up to a maximum of 50%.",
+    "desc": "Increases NRG by 2 at the start. For each 1 NRG owned in the battle increases DMG by 10%, up to 50%.",
     "need_round": 3,
     "money": 2000
   },
@@ -787,7 +787,7 @@
     "skill_id": 6002,
     "name": "Cooking Training",
     "editor_name": "AT2-特训：厨艺特训-SR",
-    "desc": "At the start of the turn, heals all allies within 3 tiles for 20% HP and dispels 1 [Debuff].",
+    "desc": "At the start of the turn, heals all allies within 3 tiles around the character for 20% HP and dispels 1 [debuff].",
     "need_round": 3,
     "money": 2000
   },
@@ -799,7 +799,7 @@
     "skill_id": 6003,
     "name": "Schadenfreude",
     "editor_name": "AT2-特训：远程通讯-SR",
-    "desc": "When any enemy is defeated within 5 tiles, restores 30% lost HP and 1 NRG. Additionally restores 1 NRG when defeating a target.",
+    "desc": "When any enemy is defeated within 5 tiles around the character, recovers 30% of lost HP and 1 NRG. Additionally recovers 1 NRG when defeating a target.",
     "need_round": 3,
     "money": 2000
   },
@@ -811,7 +811,7 @@
     "skill_id": 5971,
     "name": "Ambush Kill",
     "editor_name": "AT2-特训：伏击训练-SR",
-    "desc": "If DMG isn't dealt until the end of the turn, for each point of Movement, increases Crit and Crit DMG by 10%, up to a maximum of 100%. The effect lasts 1 round.",
+    "desc": "If DMG isn't dealt until the end of this turn, increases Crit and Crit DMG by 10% for each point of Movement, up to 100%, lasting for 1 turn.",
     "need_round": 3,
     "money": 2000
   },
@@ -821,9 +821,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 5970,
-    "name": "Guerrilla Expertise",
+    "name": "Guerrilla Specialization",
     "editor_name": "AT2-特训：游击专精-SR",
-    "desc": "If the distance moved and [charge] is no less than 5 tiles (the adjacent tile does not count), gain [<sprite=2>4 Attack] and [Armor Piercing]. The effects last 1 round.",
+    "desc": "If the distance moved and [Charged] is no less than 5 tiles (distance for Adjacent Tiles counts as 0), gains [<sprite=2>ATK IV] and [Armor Piercing] for 1 turn before attacking.",
     "need_round": 3,
     "money": 2000
   },
@@ -835,7 +835,7 @@
     "skill_id": 5987,
     "name": "Outbreak Training",
     "editor_name": "AT2-特训：爆发特训-SR",
-    "desc": "At the start of the battle, all allies within 3 tiles gain 10% bonus ATK and DEF, as well as 2 tiles bonus Movement. The effect lasts 2 rounds and can stack.",
+    "desc": "At the start of the battle, increases ATK and DEF by 10% for all allies within 3 tiles around the character, and increases Movement by 2 tiles, lasting for 2 turns. The effect can stack.",
     "need_round": 3,
     "money": 2000
   },
@@ -847,7 +847,7 @@
     "skill_id": 5969,
     "name": "Team Encouragement",
     "editor_name": "AT2-特训：团队鼓舞+-SR",
-    "desc": "At the end of the turn, grants 2 random allies within 3 tiles [<sprite=2>2 DMG], [2 DMG Reduction] and [<sprite=2>2 Crit DMG]. The effects last 2 rounds.",
+    "desc": "At the end of the turn, grants [<sprite=2>DMG II], [DMG Reduction II], and [<sprite=2>Crit DMG II] to 2 random allies within a 3-tile radius of the character, lasting for 2 turns.",
     "need_round": 3,
     "money": 2000
   },
@@ -859,7 +859,7 @@
     "skill_id": 5991,
     "name": "Bloodlust",
     "editor_name": "AT2-特训：嗜血欲望-SR",
-    "desc": "When defeating an enemy, restore 50% lost HP and gain 10% bonus ATK and Crit, up to a maximum of 30%. The effect lasts 1 round.",
+    "desc": "When defeating an enemy, recovers 50% of lost HP and increases ATK and Crit by 10%, up to 30%. The effect lasts for 1 turn.",
     "need_round": 3,
     "money": 2000
   },
@@ -869,9 +869,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6001,
-    "name": "High Spirits",
+    "name": "Spiritual Renewal",
     "editor_name": "AT2-特训：精神焕发-SR",
-    "desc": "If the character has 6 or more [Buffs], deals 60% more DMG.",
+    "desc": "The character deals 60% more DMG when having 6 or more [Buffs].",
     "need_round": 3,
     "money": 2000
   },
@@ -881,9 +881,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6019,
-    "name": "End up Killing",
+    "name": "Fatal Strike",
     "editor_name": "AT2-特训：终焉杀戮-SSR",
-    "desc": "Character can [Act Again] after dealing Crit DMG. The effect cannot stack and has a CD of 3 turns. If Crit DMG is dealt during the CD, the skill CD will be reduced by 1 turn.",
+    "desc": "The character can [Act Again] after dealing Crit DMG. The effect cannot stack and has a CD of 3 turns. If Crit DMG is dealt during the cooldown, the skill CD will be reduced by 1 turn.",
     "need_round": 3,
     "money": 4000
   },
@@ -895,7 +895,7 @@
     "skill_id": 6021,
     "name": "Force Flare",
     "editor_name": "AT2-特训：狙灭之枪-SSR",
-    "desc": "On [Standby], gain 60% bonus Crit and Crit DMG, ignoring 60% of the target's DEF when attacking. The effect lasts 1 round.",
+    "desc": "On [Standby], increases Crit by 60% and Crit DMG by 60%. When attacking, ignores 60% of the target's DEF. The effect lasts for 1 turn.",
     "need_round": 3,
     "money": 4000
   },
@@ -905,9 +905,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6015,
-    "name": "Infection Thrashing",
+    "name": "Infection Strike",
     "editor_name": "AT2-特训：感染痛击-SSR",
-    "desc": "When attacking enemies who have [Infection], deals bonus DMG equal to 30% HP and triggers the effect of [Infection] immediately, without removing the stacks of [Infection].",
+    "desc": "When attacking enemies with [Infection], the character deals an additional DMG equal to 30% HP and triggers the effect of [Infection] immediately without removing the stacks of [Infection].",
     "need_round": 3,
     "money": 4000
   },
@@ -919,7 +919,7 @@
     "skill_id": 6026,
     "name": "Death Blast",
     "editor_name": "AT2-特训：死亡爆破-SSR",
-    "desc": "Skills dealing [Fire][AoE DMG] change the tiles into [Burning]. When attacking enemies inflicted by [Scorch], gain 30% bonus Crit and 50% bonus Crit DMG.",
+    "desc": "Skills dealing [Fire][AoE DMG] change the tiles into [Burning]. When attacking enemies inflicted by [Scorch], increases Crit by 30% and Crit DMG by 50%.",
     "need_round": 3,
     "money": 4000
   },
@@ -929,9 +929,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6027,
-    "name": "Play it Safe",
+    "name": "Safeguard",
     "editor_name": "AT2-特训：毁灭者-SSR",
-    "desc": "Take 70% less DMG if the attacker has [Scorch] and [Infection].",
+    "desc": "The character takes 70% less DMG if the attacker has [Scorch] and [Infection] before attacking.",
     "need_round": 3,
     "money": 4000
   },
@@ -941,9 +941,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6029,
-    "name": "Inferno Warrior",
+    "name": "Hellfighter",
     "editor_name": "AT2-特训：地狱战士-SSR",
-    "desc": "Increases HP by 20%. All enemies within 5 tiles take 30% more [DoT] and [Life Loss] will be inflicted on them. The effect can stack.",
+    "desc": "Increases HP by 20%. All enemies within 5 tiles around the character take 30% more [DoT] and gain [Life Loss]. The effect can stack.",
     "need_round": 3,
     "money": 4000
   },
@@ -953,9 +953,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6025,
-    "name": "Heart of Each",
+    "name": "Spiritual Heart",
     "editor_name": "AT2-特训：灵犀之心-SSR",
-    "desc": "If DMG is dealt on the enemy turn, gain 100% bonus Crit and ignore 60% of the target's DEF.",
+    "desc": "If DMG is dealt ou of the character' turn, increases Crit by 100% and ignores 60% of the target's DEF.",
     "need_round": 3,
     "money": 4000
   },
@@ -965,9 +965,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6020,
-    "name": "Additional Blow",
+    "name": "Victory Chase",
     "editor_name": "AT2-特训：胜利追击-SSR",
-    "desc": "Increases the times [Preempt] and [Counterattack] can be triggered during each round by 1. Single-target attack can interrupt the targets' turn and knock them back 2 tiles.",
+    "desc": "[Preempt] and [Strike Back] skills. Increases the triggering counts per turn by 1. When launching a single-target attack, interrupts the targets' action and knocks them back by an additional 2 tiles.",
     "need_round": 3,
     "money": 4000
   },
@@ -977,9 +977,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6022,
-    "name": "Defend Training",
+    "name": "Defense Training",
     "editor_name": "AT2-特训：防卫特训-SSR",
-    "desc": "Increases the times [Alert] can be triggered during each round by 1. Additionally, Alert can interrupt the targets' action and have a 50% chance to inflict [Stun] on them.",
+    "desc": "[Alert] skill. Additionally increases the triggering counts per turn by 1. Alert can interrupt the targets' action and there is a 50% chance to inflict [Stunned].",
     "need_round": 3,
     "money": 4000
   },
@@ -991,7 +991,7 @@
     "skill_id": 6034,
     "name": "Shield Durability",
     "editor_name": "AT2-特训：护盾续航-SSR",
-    "desc": "At the start of the battle, all allies in battle gain a [Physical Shield] equal to 20% of their HP. When allies gain a [Shield], the [Shield Value] will be increased by 50%.",
+    "desc": "At the start of the battle, grants all allies in battle a [physical shield] equal to 20% of their HP. When allies gain a [Shield], the [Shield Value] is increased by 50%.",
     "need_round": 3,
     "money": 4000
   },
@@ -1003,7 +1003,7 @@
     "skill_id": 6037,
     "name": "Weight Advantage",
     "editor_name": "AT2-特训：铠甲洗涤-SSR",
-    "desc": "After DMG is dealt, additionally deal Physical DMG equal to 50% of current [Physical Shield] to the target.",
+    "desc": "After dealing DMG, additionally deals Physical DMG equal to 50% of the current [physical shield] value.",
     "need_round": 3,
     "money": 4000
   },
@@ -1013,9 +1013,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6016,
-    "name": "Life Devouring",
+    "name": "Devour Life",
     "editor_name": "AT2-特训：吞噬生命-SSR",
-    "desc": "Every 1 [Debuff] inflicted on the target increases the character's ATK by 15%.",
+    "desc": "For each 1 [debuff] inflicted on the target when attacking, increases the character's ATK by 15%.",
     "need_round": 3,
     "money": 4000
   },
@@ -1027,7 +1027,7 @@
     "skill_id": 6031,
     "name": "Judgment Call",
     "editor_name": "AT2-特训：狙足特训-SSR",
-    "desc": "If the targets' current HP is less than their maximum HP, gain a 100% chance to inflict [Stun] on them before launching an Active Attack. The effect lasts 1 round and cannot be immunized.",
+    "desc": "If the target's current HP is less than the character's Max HP, there is a 100% chance to inflict [Stunned] on the target before launching an Active Attack. The effect lasts for 1 turn and cannot be immunized.",
     "need_round": 3,
     "money": 4000
   },
@@ -1037,9 +1037,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6023,
-    "name": "Death Shot",
+    "name": "Death Sniper",
     "editor_name": "AT2-特训：死亡狙击-SSR",
-    "desc": "The range of [Ranged Skills] is extended by 3 tiles. If the distance between the character and the target is no less than 6 tiles, the attacks are regarded as from [Highland].",
+    "desc": "The maximum range is increased by 3 tiles when using [Ranged Skills]. If the distance between the character and the target is no less than 6 tiles, gains [Highland] Advantage.",
     "need_round": 3,
     "money": 4000
   },
@@ -1051,7 +1051,7 @@
     "skill_id": 6024,
     "name": "Accurate Sniper",
     "editor_name": "AT2-特训：寒冷延申-SSR",
-    "desc": "Every additional 1 tile (the adjacent tile does not count) between the character and the target increases the Crit and Crit DMG by 15%.",
+    "desc": "When attacking, increases Crit by 15% and Crit DMG by 15% for each 1 additional tile (distance for Adjacent Tiles counts as 0) from the target.",
     "need_round": 3,
     "money": 4000
   },
@@ -1063,7 +1063,7 @@
     "skill_id": 6017,
     "name": "Eternal Warrior",
     "editor_name": "AT2-特训：永战者-SSR",
-    "desc": "When the character is defeated, restore 20% HP immediately. The effect has a CD of 3 turns. When [Resolve] is triggered, gain 15% bonus ATK and DEF, up to a maximum of 45%.",
+    "desc": "When defeated, recovers 20% HP immediately. CD: 3 turns. When [Resolve] is triggered, increases ATK and DEF by 15%, up to 45%.",
     "need_round": 3,
     "money": 4000
   },
@@ -1075,7 +1075,7 @@
     "skill_id": 6036,
     "name": "National Hero",
     "editor_name": "AT2-特训：民族英雄-SSR",
-    "desc": "Increases HP by 30%. If in [Dying] state, additionally deal [Piercing DMG] equal to 200% of the character's total HP to the target when attacking and gain bonus Movement by 2 tiles.",
+    "desc": "Increases HP by 30%. If the character is [Dying], additionally deals [piercing DMG] equal to 200% of the character's HP when attacking, and increases Movement by 2 tiles.",
     "need_round": 3,
     "money": 4000
   },
@@ -1087,7 +1087,7 @@
     "skill_id": 6030,
     "name": "Energy Overload",
     "editor_name": "AT2-特训：普攻专精-SSR",
-    "desc": "The character can no longer restore NRG at the end of the turn. Gain 40% bonus ATK. Every 1 NRG increases Crit by 15%, up to a maximum of 75%.",
+    "desc": "NRG is not recovered at the end of the turn. Increases ATK by 40%. For each 1 NRG owned, increases Crit by 15%, up to 75%.",
     "need_round": 3,
     "money": 4000
   },
@@ -1099,7 +1099,7 @@
     "skill_id": 6032,
     "name": "Working Miracles",
     "editor_name": "AT2-特训：妙手回春-SSR",
-    "desc": "Increases Healing Effect by 30%. After performing Active Single-target Healing, additionally heal other allies within 2 tiles the target based on the character's Healing Effect.",
+    "desc": "Increases Healing Effect by 30%. After performing an Active Single-target Healing, additionally, heals other allies within 2 tiles around the target based on the character's Healing Effect.",
     "need_round": 3,
     "money": 4000
   },
@@ -1111,7 +1111,7 @@
     "skill_id": 6013,
     "name": "Roundabout Charge",
     "editor_name": "AT2-特训：斧刃闪光-SSR",
-    "desc": "For each tile traversed before attacking increases ATK by 10%. Movement is possible after attacking.",
+    "desc": "For each tile traversed by Move or Charge before attacking, increases ATK by 10%. Can Move Again after attacking.",
     "need_round": 3,
     "money": 4000
   },
@@ -1123,7 +1123,7 @@
     "skill_id": 6028,
     "name": "Step Adjustment",
     "editor_name": "AT2-特训：快速调整-SSR",
-    "desc": "Extends the distance of [Charge] by 2 tiles. If the character moved and charged no less than 6 tiles (the adjacent tile does not count), attack again after attacking. The effect can be triggered up to 3 times per round.",
+    "desc": "[Charge] skill, extends the charging distance by 2 tiles. If the character moved and [Charged] no less than 6 tiles (distance for Adjacent Tiles counts as 0), attacks again after attacking. The effect can be activated up to 3 times per round.",
     "need_round": 3,
     "money": 4000
   },
@@ -1133,9 +1133,9 @@
     "m_and_limits": [],
     "m_or_limits": [],
     "skill_id": 6033,
-    "name": "Aggressive",
+    "name": "Fury Unleashed",
     "editor_name": "AT2-特训：同仇敌忾-SSR",
-    "desc": "Before launching an Active Single-target Attack, gain 2 [Level 3 Buffs], which last 2 rounds. For each [Attribute Boost], inflicts 1 [Level 3 Debuff] on the target before attacking, up to a maximum of 5. The effects last 1 round.",
+    "desc": "Before launching an Active Single-target Attack, gains 2 [Level 3 Buffs] for 2 turns. For each [Attribute Buff] owned, inflicts 1 [Level 3 Debuff] on the target for 1 turn before attacking, up to 5 stacks.",
     "need_round": 3,
     "money": 4000
   },
@@ -1147,7 +1147,7 @@
     "skill_id": 6035,
     "name": "Power of Piety",
     "editor_name": "AT2-特训：祝福增强-SSR",
-    "desc": "If the character has less than 4 [Buffs], deal 30% more DMG. If no less than 8 [Buffs] and no [Debuff], the DMG dealt will change into [Piercing DMG].",
+    "desc": "When having no less than 4 [Buffs], increases DMG by 30%. If the character has no less than 8 [Buffs] and no [Debuff], the DMG dealt will change into [piercing DMG].",
     "need_round": 3,
     "money": 4000
   }

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "金币",
+    "desc": "前传线测试金币",
+    "rarity": 1,
+    "icon": "money"
+  },
+  {
+    "id": 2,
+    "name": "木材",
+    "desc": "前传线测试木材",
+    "rarity": 1,
+    "icon": "wood"
+  },
+  {
+    "id": 3,
+    "name": "石材",
+    "desc": "前传线测试石材",
+    "rarity": 1,
+    "icon": "stone"
+  },
+  {
+    "id": 4,
+    "name": "训练点",
+    "desc": "测试训练点",
+    "rarity": 1,
+    "icon": "material_prequeltraining_ticket"
+  },
+  {
+    "id": 5,
+    "name": "领悟点",
+    "desc": "测试领悟点",
+    "rarity": 1,
+    "icon": "material_prequeltraining_note"
+  }
+]

@@ -658,5 +658,50 @@
     "sparam": "",
     "is_default": false,
     "main_quest_progress": 217
+  },
+  {
+    "id": 45,
+    "name": "Piercing DMG",
+    "editor_name": "穿透伤害",
+    "desc": "This type of damage directly reduces the target's HP, ignoring [DEF] and any [DMG Increase], [DMG Decrease], or [DMG Reduction] for both the attacker and defender. It is affected by the attacker's [Piercing DMG Dealt Modifier] and the target's [Piercing DMG Taken Modifier], and uses the same calculation method as Basic DMG. Note that [piercing DMG] can't crit.",
+    "icon": "system_battlebook_001",
+    "idbattle_guidebook": 1,
+    "order_id": 27,
+    "type": 29,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "",
+    "is_default": false,
+    "main_quest_progress": 217
+  },
+  {
+    "id": 46,
+    "name": "DoT",
+    "editor_name": "持续伤害",
+    "desc": "Enemies inflicted with abnormal states such as [Scorch] and [Infection] will take damage over time (DoT). This damage is by default [piercing DMG] and is affected by the carrier's [Piercing DMG taken modifier] and [DoT taken modifier]. The effects are multiplied.",
+    "icon": "system_battlebook_001",
+    "idbattle_guidebook": 1,
+    "order_id": 28,
+    "type": 29,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "",
+    "is_default": false,
+    "main_quest_progress": 217
+  },
+  {
+    "id": 47,
+    "name": "Environmental DMG",
+    "editor_name": "环境伤害",
+    "desc": "Environmental DMG is a special type of DMG caused by objects, traps, and devices, such as Boulders, Explosive Barrels, and Beast Traps. It also includes damage from knocking back or falling off heights and is affected solely by the character's [Environmental DMG Taken Modifier].",
+    "icon": "system_battlebook_001",
+    "idbattle_guidebook": 1,
+    "order_id": 29,
+    "type": 29,
+    "param0": 0,
+    "param1": 0,
+    "sparam": "",
+    "is_default": false,
+    "main_quest_progress": 217
   }
 ]

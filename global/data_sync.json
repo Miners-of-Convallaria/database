@@ -2,31 +2,31 @@
   {
     "id": 1,
     "type": "OnlineTower",
-    "name": "爬塔数据",
+    "name": "网游爬塔数据",
     "update_type": 2
   },
   {
     "id": 2,
     "type": "OnlineTech",
-    "name": "天赋数据",
+    "name": "网游天赋数据",
     "update_type": 1
   },
   {
     "id": 3,
     "type": "OnlineRoleFriendship",
-    "name": "角色羁绊数据",
+    "name": "网游角色羁绊数据",
     "update_type": 1
   },
   {
     "id": 4,
     "type": "OnlineRevelation",
-    "name": "启示录数据",
+    "name": "网游启示录数据",
     "update_type": 2
   },
   {
     "id": 5,
     "type": "OnlineActivity",
-    "name": "日常本数据",
+    "name": "网游日常本数据",
     "update_type": 1
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": 7,
     "type": "OnlineOperationActivity",
-    "name": "运营活动数据",
+    "name": "网游运营活动数据",
     "update_type": 1
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "id": 15,
-    "type": "SandboxBlessingBaptism  ",
+    "type": "SandboxBlessingBaptism",
     "name": "沙盒洗礼数据",
     "update_type": 2
   },
@@ -94,5 +94,119 @@
     "type": "SandboxCommerce",
     "name": "沙盒商会数据",
     "update_type": 2
+  },
+  {
+    "id": 17,
+    "type": "Sandbox2ChapterGoal",
+    "name": "沙盒2阶段目标",
+    "update_type": 2
+  },
+  {
+    "id": 18,
+    "type": "Sandbox2Capital",
+    "name": "沙盒2主城数据",
+    "update_type": 2
+  },
+  {
+    "id": 19,
+    "type": "Sandbox2Food",
+    "name": "沙盒2美食笔记",
+    "update_type": 2
+  },
+  {
+    "id": 20,
+    "type": "Sandbox2Shop",
+    "name": "沙盒2商店",
+    "update_type": 2
+  },
+  {
+    "id": 21,
+    "type": "Sandbox2Entrust",
+    "name": "沙盒2委托",
+    "update_type": 2
+  },
+  {
+    "id": 22,
+    "type": "Sandbox2System",
+    "name": "沙盒2系统",
+    "update_type": 2
+  },
+  {
+    "id": 23,
+    "type": "OnlineCareer",
+    "name": "网游生涯引导数据",
+    "update_type": 1
+  },
+  {
+    "id": 24,
+    "type": "OnlineBattlePass",
+    "name": "网游战令新数据",
+    "update_type": 2
+  },
+  {
+    "id": 25,
+    "type": "OnlineAbyssRank",
+    "name": "网游逆塔赛季数据",
+    "update_type": 2
+  },
+  {
+    "id": 26,
+    "type": "OnlineSandboxUpdateLog",
+    "name": "网游沙盒更新日志",
+    "update_type": 2
+  },
+  {
+    "id": 27,
+    "type": "OnlineDailyQuest",
+    "name": "网游任务数据",
+    "update_type": 2
+  },
+  {
+    "id": 28,
+    "type": "Sandbox2TreasurePackage",
+    "name": "沙盒2奖励包",
+    "update_type": 1
+  },
+  {
+    "id": 29,
+    "type": "OnlineSandboxStatus",
+    "name": "网游沙盒状态",
+    "update_type": 1
+  },
+  {
+    "id": 30,
+    "type": "OnlineAchievement",
+    "name": "网游成就",
+    "update_type": 1
+  },
+  {
+    "id": 31,
+    "type": "OnlineTrophy",
+    "name": "网游沙盒收集册-奖杯",
+    "update_type": 1
+  },
+  {
+    "id": 32,
+    "type": "OnlinePhoto",
+    "name": "网游沙盒收集册-照片",
+    "update_type": 1
+  },
+  {
+    "id": 33,
+    "type": "OnlineArenaQuest",
+    "name": "网游竞技场任务",
+    "update_type": 1
+  },
+  {
+    "id": 34,
+    "type": "OnlineContractActivityQuest",
+    "name": "网游限时活动任务",
+    "update_type": 1
+  },
+  {
+    "id": 35,
+    "type": "OnlineAbyssGuideQuest",
+    "name": "网游深渊引导任务",
+    "update_type": 1
   }
 ]

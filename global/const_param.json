@@ -1276,7 +1276,7 @@
     "type": "ScenarioLineNextScrollTime",
     "name": "演出下一行滚动时间",
     "desc": "",
-    "iparam": 160,
+    "iparam": 500,
     "sparam": ""
   },
   {
@@ -1396,7 +1396,7 @@
     "type": "OnlineAbyssUnlockTowerFloor",
     "name": "逆境之塔解锁需要的周常本最高层",
     "desc": "",
-    "iparam": 12,
+    "iparam": 6,
     "sparam": ""
   },
   {
@@ -1501,7 +1501,7 @@
     "name": "前传线角色学习技能消耗",
     "desc": "",
     "iparam": 0,
-    "sparam": "50|2|1"
+    "sparam": "50|4|1"
   },
   {
     "id": 203,
@@ -1525,6 +1525,102 @@
     "name": "逆境之塔小关卡理论最大分百分比倍率",
     "desc": "",
     "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 206,
+    "type": "OnlineSandbox2LaunchUnitMaxCount",
+    "name": "沙盒2启动流程携带角色最大个数",
+    "desc": "",
+    "iparam": 3,
+    "sparam": ""
+  },
+  {
+    "id": 207,
+    "type": "OnlineSandbox2StoryModeTokenId",
+    "name": "沙盒2剧情模式启动信标ID",
+    "desc": "",
+    "iparam": 31,
+    "sparam": ""
+  },
+  {
+    "id": 208,
+    "type": "OnlineSandbox2FreeModeTokenId",
+    "name": "沙盒2自由模式启动信标ID",
+    "desc": "",
+    "iparam": 32,
+    "sparam": ""
+  },
+  {
+    "id": 210,
+    "type": "Sandbox2ClueWallDefaultPerformace",
+    "name": "沙盒2线索墙推理失败时默认剧情",
+    "desc": "",
+    "iparam": 2955,
+    "sparam": ""
+  },
+  {
+    "id": 211,
+    "type": "Sandbox2UnitMaxLevel",
+    "name": "沙盒2角色最大等级",
+    "desc": "",
+    "iparam": 60,
+    "sparam": ""
+  },
+  {
+    "id": 212,
+    "type": "Sandbox2UnitBattleExpMin",
+    "name": "沙盒2角色单次战斗获取经验最小值",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 213,
+    "type": "Sandbox2BattleSurpriseCount",
+    "name": "沙盒2默认突入技能次数",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 214,
+    "type": "OnlineGuildKickMemberSystemMailId",
+    "name": "公会移出邮件模版ID",
+    "desc": "",
+    "iparam": 17,
+    "sparam": ""
+  },
+  {
+    "id": 215,
+    "type": "OnlineOperationActivityExtraDataLen",
+    "name": "保存客户端运营活动临时数据长度",
+    "desc": "",
+    "iparam": 200,
+    "sparam": ""
+  },
+  {
+    "id": 225,
+    "type": "PerformanceMapFadeinFadeoutTime",
+    "name": "导表背景演出淡入淡出时间（单位：秒）",
+    "desc": "",
+    "iparam": 1,
+    "sparam": ""
+  },
+  {
+    "id": 234,
+    "type": "OnlineExpConvertRatioWhenPlayerMaxLevel",
+    "name": "满级后账号经验转化比例",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
+    "id": 235,
+    "type": "OnlineExpConvertTreasureTypeWhenPlayerMaxLevel",
+    "name": "满级后账号经验转化道具类型",
+    "desc": "",
+    "iparam": 103,
     "sparam": ""
   }
 ]

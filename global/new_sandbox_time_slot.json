@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "type": "Day",
+    "name": "Daytime",
+    "editor_name": "白天",
+    "icon": "icon_day"
+  },
+  {
+    "id": 2,
+    "type": "Night",
+    "name": "Night",
+    "editor_name": "黑夜",
+    "icon": "icon_night"
+  }
+]

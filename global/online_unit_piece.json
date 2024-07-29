@@ -970,5 +970,77 @@
     "system_redirect_ids": "2201",
     "icon": "",
     "role_unit_id": 136
+  },
+  {
+    "id": 92,
+    "m_system_redirects": [2201],
+    "name": "Layla's Memory",
+    "editor_name": "AT2-英雄碎片-莉拉",
+    "desc": "Material used for increasing the Star Level of [Layla]. <style=yellow>Challenge [Crossing Worlds - Memory Retrieval] daily to gain plenty of Memory Shards.</style>",
+    "rarity": 4,
+    "order_id": 10201,
+    "system_redirect_ids": "2201",
+    "icon": "",
+    "role_unit_id": 140
+  },
+  {
+    "id": 93,
+    "m_system_redirects": [2201],
+    "name": "Tristan's Memory",
+    "editor_name": "AT2-英雄碎片-翠斯坦",
+    "desc": "Material used for increasing the Star Level of [Tristan]. <style=yellow>Challenge [Crossing Worlds - Memory Retrieval] daily to gain plenty of Memory Shards. </style>",
+    "rarity": 4,
+    "order_id": 10201,
+    "system_redirect_ids": "2201",
+    "icon": "",
+    "role_unit_id": 146
+  },
+  {
+    "id": 94,
+    "m_system_redirects": [2201],
+    "name": "Pamina's Memory",
+    "editor_name": "AT2-英雄碎片-帕米娜",
+    "desc": "Material used for increasing the Star Level of [Pamina]. <style=yellow>Challenge [Crossing Worlds - Memory Retrieval] daily to gain plenty of Memory Shards. </style>",
+    "rarity": 4,
+    "order_id": 10201,
+    "system_redirect_ids": "2201",
+    "icon": "",
+    "role_unit_id": 147
+  },
+  {
+    "id": 95,
+    "m_system_redirects": [2201],
+    "name": "Kiya's Memory",
+    "editor_name": "AT2-英雄碎片-奇亚",
+    "desc": "Material used for increasing the Star Level of [Kiya]. <style=yellow>Challenge [Crossing Worlds - Memory Retrieval] daily to gain plenty of Memory Shards.</style>",
+    "rarity": 4,
+    "order_id": 10201,
+    "system_redirect_ids": "2201",
+    "icon": "",
+    "role_unit_id": 145
+  },
+  {
+    "id": 96,
+    "m_system_redirects": [2201],
+    "name": "Ayishah's Memory",
+    "editor_name": "AT2-英雄碎片-爱莎",
+    "desc": "Material used for increasing the Star Level of [Ayishah]. <style=yellow>Challenge [Crossing Worlds - Memory Retrieval] daily to gain plenty of Memory Shards.</style>",
+    "rarity": 4,
+    "order_id": 10201,
+    "system_redirect_ids": "2201",
+    "icon": "",
+    "role_unit_id": 148
+  },
+  {
+    "id": 97,
+    "m_system_redirects": [2201],
+    "name": "Night Crimson Rawiyah's Memory ",
+    "editor_name": "AT2-英雄碎片-绯红之夜拉维耶",
+    "desc": "Material used for increasing the Star Level of [Night Crimson Rawiyah]. <style=yellow>Challenge [Crossing Worlds - Memory Retrieval] daily to gain plenty of Memory Shards. </style>",
+    "rarity": 4,
+    "order_id": 10201,
+    "system_redirect_ids": "2201",
+    "icon": "",
+    "role_unit_id": 138
   }
 ]

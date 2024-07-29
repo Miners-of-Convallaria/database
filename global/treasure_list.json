@@ -61,7 +61,7 @@
   },
   {
     "id": 13,
-    "m_treasure_list_bonuss": [13, 39],
+    "m_treasure_list_bonuss": [],
     "name": "贸易机会_编织幸运"
   },
   {
@@ -128,5 +128,35 @@
     "id": 26,
     "m_treasure_list_bonuss": [26],
     "name": "贸易机会_获取骑士团罪证"
+  },
+  {
+    "id": 27,
+    "m_treasure_list_bonuss": [64, 73, 74, 75],
+    "name": "前传线测试奖励列表"
+  },
+  {
+    "id": 28,
+    "m_treasure_list_bonuss": [65, 66],
+    "name": "莉拉的赞许P1"
+  },
+  {
+    "id": 29,
+    "m_treasure_list_bonuss": [67, 68],
+    "name": "莉拉的赞许P2"
+  },
+  {
+    "id": 30,
+    "m_treasure_list_bonuss": [69, 70],
+    "name": "莉拉的赞许P3"
+  },
+  {
+    "id": 31,
+    "m_treasure_list_bonuss": [71, 72],
+    "name": "莉拉的赞许P4"
+  },
+  {
+    "id": 32,
+    "m_treasure_list_bonuss": [],
+    "name": "莉拉的赞许P5"
   }
 ]

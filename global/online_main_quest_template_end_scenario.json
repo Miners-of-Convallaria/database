@@ -133,9 +133,23 @@
     "scenario_index": 0
   },
   {
+    "id": 40,
+    "idonline_main_quest_template": 1587,
+    "scenario_id": 282,
+    "scenario_type": 1,
+    "scenario_index": 0
+  },
+  {
     "id": 42,
     "idonline_main_quest_template": 1596,
     "scenario_id": 309,
+    "scenario_type": 1,
+    "scenario_index": 0
+  },
+  {
+    "id": 43,
+    "idonline_main_quest_template": 1644,
+    "scenario_id": 508,
     "scenario_type": 1,
     "scenario_index": 0
   }

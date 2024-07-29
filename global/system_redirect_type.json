@@ -46,5 +46,17 @@
     "param1_type": "",
     "param2_name": "",
     "param2_type": ""
+  },
+  {
+    "id": 5,
+    "system_id": 70,
+    "name": "网游战令",
+    "type": "OnlineBattlePass",
+    "param0_name": "战令类型",
+    "param0_type": "online_battle_pass_type",
+    "param1_name": "",
+    "param1_type": "",
+    "param2_name": "",
+    "param2_type": ""
   }
 ]

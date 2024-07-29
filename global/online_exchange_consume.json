@@ -1,0 +1,482 @@
+[
+  {
+    "id": 8,
+    "name": "消耗武器",
+    "type": 1,
+    "template_id": 121,
+    "param0": 0,
+    "param1": 0
+  },
+  {
+    "id": 9,
+    "name": "消耗武器",
+    "type": 1,
+    "template_id": 0,
+    "param0": 3,
+    "param1": 0
+  },
+  {
+    "id": 10,
+    "name": "消耗护石",
+    "type": 2,
+    "template_id": 2,
+    "param0": 4,
+    "param1": 0
+  },
+  {
+    "id": 11,
+    "name": "消耗三件套",
+    "type": 3,
+    "template_id": 102,
+    "param0": 0,
+    "param1": 10
+  },
+  {
+    "id": 12,
+    "name": "进阶材料N_1x5",
+    "type": 3,
+    "template_id": 108,
+    "param0": 37,
+    "param1": 5
+  },
+  {
+    "id": 13,
+    "name": "进阶材料N_2x5",
+    "type": 3,
+    "template_id": 108,
+    "param0": 47,
+    "param1": 5
+  },
+  {
+    "id": 14,
+    "name": "进阶材料N_3x5",
+    "type": 3,
+    "template_id": 108,
+    "param0": 43,
+    "param1": 5
+  },
+  {
+    "id": 15,
+    "name": "进阶材料N_4x5",
+    "type": 3,
+    "template_id": 108,
+    "param0": 51,
+    "param1": 5
+  },
+  {
+    "id": 16,
+    "name": "进阶材料N_5x5",
+    "type": 3,
+    "template_id": 108,
+    "param0": 55,
+    "param1": 5
+  },
+  {
+    "id": 17,
+    "name": "武器突破素材Nx5",
+    "type": 3,
+    "template_id": 117,
+    "param0": 1,
+    "param1": 5
+  },
+  {
+    "id": 18,
+    "name": "科技材料N_1x5",
+    "type": 3,
+    "template_id": 135,
+    "param0": 1,
+    "param1": 5
+  },
+  {
+    "id": 19,
+    "name": "科技材料N_2x5",
+    "type": 3,
+    "template_id": 135,
+    "param0": 2,
+    "param1": 5
+  },
+  {
+    "id": 20,
+    "name": "科技材料N_3x5",
+    "type": 3,
+    "template_id": 135,
+    "param0": 3,
+    "param1": 5
+  },
+  {
+    "id": 21,
+    "name": "科技材料N_4x5",
+    "type": 3,
+    "template_id": 135,
+    "param0": 4,
+    "param1": 5
+  },
+  {
+    "id": 22,
+    "name": "科技材料N_5x5",
+    "type": 3,
+    "template_id": 135,
+    "param0": 5,
+    "param1": 5
+  },
+  {
+    "id": 23,
+    "name": "科技材料N_6x5",
+    "type": 3,
+    "template_id": 135,
+    "param0": 6,
+    "param1": 5
+  },
+  {
+    "id": 24,
+    "name": "沙盒钥匙x1",
+    "type": 3,
+    "template_id": 125,
+    "param0": 1,
+    "param1": 1
+  },
+  {
+    "id": 25,
+    "name": "沙盒钥匙（限时）x1",
+    "type": 3,
+    "template_id": 125,
+    "param0": 2,
+    "param1": 1
+  },
+  {
+    "id": 26,
+    "name": "附魔材料N_1x5",
+    "type": 3,
+    "template_id": 120,
+    "param0": 1,
+    "param1": 5
+  },
+  {
+    "id": 27,
+    "name": "附魔材料N_2x5",
+    "type": 3,
+    "template_id": 120,
+    "param0": 2,
+    "param1": 5
+  },
+  {
+    "id": 28,
+    "name": "附魔材料N_3x5",
+    "type": 3,
+    "template_id": 120,
+    "param0": 3,
+    "param1": 5
+  },
+  {
+    "id": 29,
+    "name": "附魔材料N_4x5",
+    "type": 3,
+    "template_id": 120,
+    "param0": 4,
+    "param1": 5
+  },
+  {
+    "id": 30,
+    "name": "N级护石",
+    "type": 2,
+    "template_id": 0,
+    "param0": 1,
+    "param1": 0
+  },
+  {
+    "id": 31,
+    "name": "N级武器",
+    "type": 1,
+    "template_id": 0,
+    "param0": 1,
+    "param1": 0
+  },
+  {
+    "id": 32,
+    "name": "R级护石",
+    "type": 2,
+    "template_id": 0,
+    "param0": 2,
+    "param1": 0
+  },
+  {
+    "id": 33,
+    "name": "SR级护石",
+    "type": 2,
+    "template_id": 0,
+    "param0": 3,
+    "param1": 0
+  },
+  {
+    "id": 34,
+    "name": "R级武器",
+    "type": 1,
+    "template_id": 0,
+    "param0": 2,
+    "param1": 0
+  },
+  {
+    "id": 35,
+    "name": "SR级武器",
+    "type": 1,
+    "template_id": 0,
+    "param0": 3,
+    "param1": 0
+  },
+  {
+    "id": 36,
+    "name": "附魔材料R_1x3",
+    "type": 3,
+    "template_id": 120,
+    "param0": 5,
+    "param1": 3
+  },
+  {
+    "id": 37,
+    "name": "附魔材料R_2x3",
+    "type": 3,
+    "template_id": 120,
+    "param0": 6,
+    "param1": 3
+  },
+  {
+    "id": 38,
+    "name": "附魔材料R_3x3",
+    "type": 3,
+    "template_id": 120,
+    "param0": 7,
+    "param1": 3
+  },
+  {
+    "id": 39,
+    "name": "附魔材料R_4x3",
+    "type": 3,
+    "template_id": 120,
+    "param0": 8,
+    "param1": 3
+  },
+  {
+    "id": 40,
+    "name": "附魔材料SR_1x1",
+    "type": 3,
+    "template_id": 120,
+    "param0": 9,
+    "param1": 1
+  },
+  {
+    "id": 41,
+    "name": "附魔材料SR_2x1",
+    "type": 3,
+    "template_id": 120,
+    "param0": 10,
+    "param1": 1
+  },
+  {
+    "id": 42,
+    "name": "附魔材料SR_3x1",
+    "type": 3,
+    "template_id": 120,
+    "param0": 11,
+    "param1": 1
+  },
+  {
+    "id": 43,
+    "name": "附魔材料SR_4x1",
+    "type": 3,
+    "template_id": 120,
+    "param0": 12,
+    "param1": 1
+  },
+  {
+    "id": 44,
+    "name": "科技材料R_1x3",
+    "type": 3,
+    "template_id": 135,
+    "param0": 7,
+    "param1": 3
+  },
+  {
+    "id": 45,
+    "name": "科技材料R_2x3",
+    "type": 3,
+    "template_id": 135,
+    "param0": 8,
+    "param1": 3
+  },
+  {
+    "id": 46,
+    "name": "科技材料R_3x3",
+    "type": 3,
+    "template_id": 135,
+    "param0": 9,
+    "param1": 3
+  },
+  {
+    "id": 47,
+    "name": "科技材料R_4x3",
+    "type": 3,
+    "template_id": 135,
+    "param0": 10,
+    "param1": 3
+  },
+  {
+    "id": 48,
+    "name": "科技材料R_5x3",
+    "type": 3,
+    "template_id": 135,
+    "param0": 11,
+    "param1": 3
+  },
+  {
+    "id": 49,
+    "name": "科技材料R_6x3",
+    "type": 3,
+    "template_id": 135,
+    "param0": 12,
+    "param1": 3
+  },
+  {
+    "id": 50,
+    "name": "科技材料SR_1x1",
+    "type": 3,
+    "template_id": 135,
+    "param0": 13,
+    "param1": 1
+  },
+  {
+    "id": 51,
+    "name": "科技材料SR_2x1",
+    "type": 3,
+    "template_id": 135,
+    "param0": 14,
+    "param1": 1
+  },
+  {
+    "id": 52,
+    "name": "科技材料SR_3x1",
+    "type": 3,
+    "template_id": 135,
+    "param0": 15,
+    "param1": 1
+  },
+  {
+    "id": 53,
+    "name": "科技材料SR_4x1",
+    "type": 3,
+    "template_id": 135,
+    "param0": 16,
+    "param1": 1
+  },
+  {
+    "id": 54,
+    "name": "科技材料SR_5x1",
+    "type": 3,
+    "template_id": 135,
+    "param0": 17,
+    "param1": 1
+  },
+  {
+    "id": 55,
+    "name": "科技材料SR_6x1",
+    "type": 3,
+    "template_id": 135,
+    "param0": 18,
+    "param1": 1
+  },
+  {
+    "id": 56,
+    "name": "武器突破素材Rx3",
+    "type": 3,
+    "template_id": 117,
+    "param0": 2,
+    "param1": 3
+  },
+  {
+    "id": 57,
+    "name": "武器突破素材SRx1",
+    "type": 3,
+    "template_id": 117,
+    "param0": 3,
+    "param1": 1
+  },
+  {
+    "id": 58,
+    "name": "进阶材料R_1x3",
+    "type": 3,
+    "template_id": 108,
+    "param0": 36,
+    "param1": 3
+  },
+  {
+    "id": 59,
+    "name": "进阶材料R_2x3",
+    "type": 3,
+    "template_id": 108,
+    "param0": 41,
+    "param1": 3
+  },
+  {
+    "id": 60,
+    "name": "进阶材料R_3x3",
+    "type": 3,
+    "template_id": 108,
+    "param0": 46,
+    "param1": 3
+  },
+  {
+    "id": 61,
+    "name": "进阶材料R_4x3",
+    "type": 3,
+    "template_id": 108,
+    "param0": 50,
+    "param1": 3
+  },
+  {
+    "id": 62,
+    "name": "进阶材料R_5x3",
+    "type": 3,
+    "template_id": 108,
+    "param0": 54,
+    "param1": 3
+  },
+  {
+    "id": 63,
+    "name": "进阶材料SR_1x1",
+    "type": 3,
+    "template_id": 108,
+    "param0": 35,
+    "param1": 1
+  },
+  {
+    "id": 64,
+    "name": "进阶材料SR_2x1",
+    "type": 3,
+    "template_id": 108,
+    "param0": 40,
+    "param1": 1
+  },
+  {
+    "id": 65,
+    "name": "进阶材料SR_3x1",
+    "type": 3,
+    "template_id": 108,
+    "param0": 45,
+    "param1": 1
+  },
+  {
+    "id": 66,
+    "name": "进阶材料SR_4x1",
+    "type": 3,
+    "template_id": 108,
+    "param0": 49,
+    "param1": 1
+  },
+  {
+    "id": 67,
+    "name": "进阶材料SR_5x1",
+    "type": 3,
+    "template_id": 108,
+    "param0": 53,
+    "param1": 1
+  }
+]

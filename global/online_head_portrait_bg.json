@@ -11,7 +11,9 @@
     "rarity": 1,
     "is_default": true,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 2,
@@ -25,7 +27,9 @@
     "rarity": 1,
     "is_default": true,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 3,
@@ -39,7 +43,9 @@
     "rarity": 1,
     "is_default": true,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 4,
@@ -53,7 +59,9 @@
     "rarity": 1,
     "is_default": true,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 5,
@@ -67,7 +75,9 @@
     "rarity": 1,
     "is_default": true,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 6,
@@ -81,6 +91,56 @@
     "rarity": 1,
     "is_default": true,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 7,
+    "name": "Through the\nLooking-Glass",
+    "editor_name": "小魔女皮肤头像背景",
+    "icon": "head_bg07",
+    "desc": "Beryl's [Skin] Avatar Background - Through the Looking-Glass\nHow to unlock: Obtained through the [Verdure Delight] event.",
+    "source_desc": "How to unlock: Obtained through the [Verdure Delight] event.",
+    "has_time_limited": false,
+    "duration": 0,
+    "rarity": 3,
+    "is_default": false,
+    "show_when_got": true,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 8,
+    "name": "Fortunes",
+    "editor_name": "记忆结晶商店头像背景",
+    "icon": "head_frame_caiyuangungun_bg",
+    "desc": "Shiny golden avatar background outfit.\n\n<style=brown>A wise choice, meow!</style>",
+    "source_desc": "Obtained through purchasing in the Memory Crystal Shop.",
+    "has_time_limited": false,
+    "duration": 0,
+    "rarity": 4,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": true,
+    "display_at": 0
+  },
+  {
+    "id": 9,
+    "name": "Cozy Afternoon",
+    "editor_name": "科尔皮肤头像背景",
+    "icon": "head_bgcol01",
+    "desc": "Col's [Skin] Avatar Background: Cozy Afternoon.\n\n",
+    "source_desc": "Obtain through [Col's Afternoon].",
+    "has_time_limited": false,
+    "duration": 0,
+    "rarity": 3,
+    "is_default": false,
+    "show_when_got": true,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   }
 ]

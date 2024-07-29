@@ -1169,10 +1169,10 @@
     "icon": ""
   },
   {
-    "id": 172,
-    "weapon_model": "hcrimsonlavierfset01sword1",
-    "name": "SP拉维耶-剑",
-    "palette": "HcrimsonlavierFset01sword1_palette",
+    "id": 173,
+    "weapon_model": "hcrimsonsophiafset01sword1",
+    "name": "SP索菲亚-剑",
+    "palette": "HcrimsonsophiaFset01sword1_palette",
     "icon": ""
   },
   {
@@ -1180,6 +1180,20 @@
     "weapon_model": "hcrimsondetectivefset01sword1",
     "name": "学姐-剑",
     "palette": "HcrimsonDetectiveFset01sword1_palette",
+    "icon": ""
+  },
+  {
+    "id": 175,
+    "weapon_model": "hcrimsonsfathermset01book1",
+    "name": "财政部长-书",
+    "palette": "HcrimsonSfatherMset01book1_palette",
+    "icon": ""
+  },
+  {
+    "id": 176,
+    "weapon_model": "hcrimsonsfathermset01sword1",
+    "name": "财政部长-剑",
+    "palette": "HcrimsonSfatherMset01sword1_palette",
     "icon": ""
   },
   {
@@ -1246,10 +1260,73 @@
     "icon": ""
   },
   {
+    "id": 186,
+    "weapon_model": "knightsguardianmset01shield2",
+    "name": "骑士团塔盾兵-盾",
+    "palette": "knightsGuardianMshield2_palette",
+    "icon": ""
+  },
+  {
     "id": 187,
     "weapon_model": "crimsonassassinm4set01sword1",
     "name": "蒙面人-剑",
     "palette": "crimsonAssassinM4set01sword1_palette",
+    "icon": ""
+  },
+  {
+    "id": 188,
+    "weapon_model": "crimsonassassinm3set01sword1",
+    "name": "黑帮小弟-剑",
+    "palette": "crimsonAssassinM3set01sword1_palette",
+    "icon": ""
+  },
+  {
+    "id": 189,
+    "weapon_model": "crimsoncrossbowmset01bow1",
+    "name": "机动部队弩兵-弩",
+    "palette": "crimsonCrossbowMset01bow1_palette",
+    "icon": ""
+  },
+  {
+    "id": 191,
+    "weapon_model": "hcrimsonsophiafset01hand1",
+    "name": "SP索菲亚-手",
+    "palette": "HcrimsonsophiaFset01hand1_palette",
+    "icon": ""
+  },
+  {
+    "id": 192,
+    "weapon_model": "hcrimsonlavierfset01hand1",
+    "name": "SP拉维耶-手",
+    "palette": "HcrimsonlavierFset01hand1_palette",
+    "icon": ""
+  },
+  {
+    "id": 193,
+    "weapon_model": "hcrimsonlavierfset01string1",
+    "name": "SP拉维耶-钢丝",
+    "palette": "HcrimsonlavierFset01string1_palette",
+    "icon": ""
+  },
+  {
+    "id": 194,
+    "weapon_model": "hcrimsonsfathermset01effect1",
+    "name": "财政部长-特效",
+    "palette": "HcrimsonSfatherMset01effect1_palette",
+    "icon": ""
+  },
+  {
+    "id": 195,
+    "weapon_model": "hcrimsongeneralfset01spear1",
+    "name": "女将军-长枪",
+    "palette": "HcrimsonGeneralFset01spear1_palette",
+    "icon": ""
+  },
+  {
+    "id": 196,
+    "weapon_model": "crimsonassassinm3set01cup1",
+    "name": "黑帮小弟-酒杯",
+    "palette": "crimsonAssassinM3set01cup1_palette",
     "icon": ""
   },
   {
@@ -1264,6 +1341,90 @@
     "weapon_model": "solomonblademset01dagger2",
     "name": "苏莱曼精英刺客-匕首2",
     "palette": "solomonBladeMset01dagger2_palette",
+    "icon": ""
+  },
+  {
+    "id": 199,
+    "weapon_model": "crimsonberserkermset01axe1",
+    "name": "伊利亚正规军精英巨斧兵-斧",
+    "palette": "crimsonBerserkerMset01axe1_palette",
+    "icon": ""
+  },
+  {
+    "id": 200,
+    "weapon_model": "iriaguardianmset01shield1",
+    "name": "伊利亚剑盾兵2-盾",
+    "palette": "iriaGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 201,
+    "weapon_model": "solomonguardianmset01shield1",
+    "name": "苏莱曼剑盾兵2-盾",
+    "palette": "solomonGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 202,
+    "weapon_model": "knightsguardianmset01shield1",
+    "name": "骑士团剑盾兵2-盾",
+    "palette": "knightsGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 203,
+    "weapon_model": "darklightguardianmset01shield1",
+    "name": "黑暗之光剑盾兵2-盾",
+    "palette": "darklightGuradianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 204,
+    "weapon_model": "militaryguardianmset01shield1",
+    "name": "民兵剑盾兵2-盾",
+    "palette": "militaryGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 205,
+    "weapon_model": "luciaguardianmset01shield1",
+    "name": "露西亚剑盾兵2-盾",
+    "palette": "luciaGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 206,
+    "weapon_model": "papalguardianmset01shield1",
+    "name": "教皇国剑盾兵2-盾",
+    "palette": "papalGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 207,
+    "weapon_model": "banditguardianmset01sword1",
+    "name": "无法者剑盾兵2-斧",
+    "palette": "banditGuardianMset02sword1_palette",
+    "icon": ""
+  },
+  {
+    "id": 208,
+    "weapon_model": "banditguardianmset01shield1",
+    "name": "无法者剑盾兵2-盾",
+    "palette": "banditGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 209,
+    "weapon_model": "mercenaryguardianmset01shield1",
+    "name": "雇佣兵剑盾兵3-盾",
+    "palette": "mercenaryGuardianMset02shield1_palette",
+    "icon": ""
+  },
+  {
+    "id": 211,
+    "weapon_model": "hplayerlittlewitchfset02bag1",
+    "name": "小魔女皮肤01-包",
+    "palette": "HplayerLittlewitchFset02bag1_palette",
     "icon": ""
   }
 ]

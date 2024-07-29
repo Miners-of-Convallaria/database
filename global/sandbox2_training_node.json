@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "m_sandbox2_training_node_levels": [1, 2],
+    "idsandbox2_training_node_group": 1,
+    "name": "初始战术点提升",
+    "editor_name": "初始战术点提升",
+    "content_type": 3,
+    "icon": "online_tech_001"
+  },
+  {
+    "id": 2,
+    "m_sandbox2_training_node_levels": [3],
+    "idsandbox2_training_node_group": 2,
+    "name": "战术点上限提升",
+    "editor_name": "战术点上限提升",
+    "content_type": 3,
+    "icon": "online_tech_003"
+  },
+  {
+    "id": 3,
+    "m_sandbox2_training_node_levels": [4, 5, 6],
+    "idsandbox2_training_node_group": 1,
+    "name": "突入技能测试",
+    "editor_name": "突入技能测试",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "m_sandbox2_training_node_levels": [7, 8, 9],
+    "idsandbox2_training_node_group": 2,
+    "name": "战术技能测试1",
+    "editor_name": "战术技能测试1",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "m_sandbox2_training_node_levels": [10, 11],
+    "idsandbox2_training_node_group": 3,
+    "name": "突入技能1",
+    "editor_name": "突入技能1",
+    "content_type": 2,
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "m_sandbox2_training_node_levels": [12, 13, 14],
+    "idsandbox2_training_node_group": 3,
+    "name": "战术技能2",
+    "editor_name": "战术技能2",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 7,
+    "m_sandbox2_training_node_levels": [15, 16, 17],
+    "idsandbox2_training_node_group": 4,
+    "name": "战术技能1",
+    "editor_name": "战术技能1",
+    "content_type": 1,
+    "icon": ""
+  },
+  {
+    "id": 8,
+    "m_sandbox2_training_node_levels": [18, 19, 20],
+    "idsandbox2_training_node_group": 4,
+    "name": "战术技能2",
+    "editor_name": "战术技能2",
+    "content_type": 1,
+    "icon": ""
+  }
+]

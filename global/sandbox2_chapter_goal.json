@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "m_sandbox_show_treasures": [227, 225],
+    "editor_name": "前传线阶段目标P1",
+    "title": "",
+    "desc_before": "",
+    "desc_after": "",
+    "target_value": 5,
+    "sandbox_show_treasure_ids": "227|225",
+    "treasure_type": 20,
+    "treasure_param0": 28,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P1"
+  },
+  {
+    "id": 2,
+    "m_sandbox_show_treasures": [228, 225],
+    "editor_name": "前传线阶段目标P2",
+    "title": "",
+    "desc_before": "",
+    "desc_after": "",
+    "target_value": 5,
+    "sandbox_show_treasure_ids": "228|225",
+    "treasure_type": 20,
+    "treasure_param0": 29,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P2"
+  },
+  {
+    "id": 3,
+    "m_sandbox_show_treasures": [229, 225],
+    "editor_name": "前传线阶段目标P3",
+    "title": "",
+    "desc_before": "",
+    "desc_after": "",
+    "target_value": 5,
+    "sandbox_show_treasure_ids": "229|225",
+    "treasure_type": 20,
+    "treasure_param0": 30,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P3"
+  },
+  {
+    "id": 4,
+    "m_sandbox_show_treasures": [229, 225],
+    "editor_name": "前传线阶段目标P4",
+    "title": "",
+    "desc_before": "",
+    "desc_after": "",
+    "target_value": 5,
+    "sandbox_show_treasure_ids": "229|225",
+    "treasure_type": 20,
+    "treasure_param0": 31,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P4"
+  },
+  {
+    "id": 5,
+    "m_sandbox_show_treasures": [],
+    "editor_name": "前传线阶段目标P5",
+    "title": "",
+    "desc_before": "",
+    "desc_after": "",
+    "target_value": 5,
+    "sandbox_show_treasure_ids": "",
+    "treasure_type": 20,
+    "treasure_param0": 32,
+    "treasure_param1": 0,
+    "name": "前传线阶段目标P5"
+  }
+]

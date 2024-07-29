@@ -1,0 +1,38 @@
+[
+  {
+    "id": 13001001,
+    "idnew_sandbox_event_battle": 13001,
+    "result_id": 1,
+    "editor_name": "",
+    "scenario_type": 0,
+    "scenario_id": 0,
+    "next_event_id": 14
+  },
+  {
+    "id": 15001001,
+    "idnew_sandbox_event_battle": 15001,
+    "result_id": 1,
+    "editor_name": "",
+    "scenario_type": 0,
+    "scenario_id": 0,
+    "next_event_id": 16
+  },
+  {
+    "id": 184001001,
+    "idnew_sandbox_event_battle": 184001,
+    "result_id": 1,
+    "editor_name": "",
+    "scenario_type": 1,
+    "scenario_id": 396,
+    "next_event_id": 0
+  },
+  {
+    "id": 194001001,
+    "idnew_sandbox_event_battle": 194001,
+    "result_id": 1,
+    "editor_name": "",
+    "scenario_type": 2,
+    "scenario_id": 700,
+    "next_event_id": 0
+  }
+]

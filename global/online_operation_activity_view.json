@@ -73,5 +73,45 @@
     "id": 16,
     "name": "OperationActivitySubGuildView02",
     "desc": "公会建设活动奖励"
+  },
+  {
+    "id": 17,
+    "name": "OperationActivitySubLotteryView",
+    "desc": "抽奖活动"
+  },
+  {
+    "id": 18,
+    "name": "OperationActivitySubAbyssView",
+    "desc": "逆塔活动"
+  },
+  {
+    "id": 19,
+    "name": "OperationActivitySubWishView",
+    "desc": "妙想许愿机"
+  },
+  {
+    "id": 20,
+    "name": "OperationActivitySubReturnGuidanceView",
+    "desc": "回归活动"
+  },
+  {
+    "id": 21,
+    "name": "OperationActivityJigsawView",
+    "desc": "拼图活动"
+  },
+  {
+    "id": 22,
+    "name": "OperationActivitySubInvitationView",
+    "desc": "赛季召回活动"
+  },
+  {
+    "id": 27,
+    "name": "OperationActivitySubObtDay7View",
+    "desc": "Obt海外7日签到"
+  },
+  {
+    "id": 28,
+    "name": "OperationActivitySubBindLoginTypeView",
+    "desc": "对应prefab OperationActivity_LoginBinding,登录方式绑定"
   }
 ]

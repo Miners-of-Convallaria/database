@@ -14,7 +14,9 @@
     "online_role_unit_id": 0,
     "is_default": true,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 19,
@@ -31,7 +33,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 20,
@@ -48,7 +52,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 21,
@@ -65,7 +71,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 22,
@@ -82,7 +90,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 23,
@@ -99,7 +109,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 24,
@@ -116,7 +128,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 25,
@@ -133,7 +147,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 26,
@@ -150,7 +166,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 27,
@@ -167,7 +185,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 28,
@@ -184,7 +204,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 29,
@@ -201,7 +223,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 30,
@@ -218,7 +242,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 31,
@@ -235,7 +261,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 32,
@@ -252,7 +280,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 33,
@@ -269,7 +299,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 34,
@@ -286,7 +318,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 35,
@@ -303,7 +337,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 36,
@@ -320,7 +356,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 37,
@@ -337,7 +375,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 38,
@@ -354,7 +394,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 39,
@@ -371,7 +413,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 40,
@@ -388,7 +432,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 41,
@@ -405,7 +451,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 42,
@@ -422,7 +470,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 43,
@@ -439,7 +489,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 44,
@@ -456,7 +508,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 45,
@@ -473,7 +527,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 46,
@@ -490,7 +546,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 47,
@@ -507,7 +565,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 48,
@@ -524,7 +584,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 49,
@@ -541,7 +603,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 50,
@@ -558,7 +622,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 51,
@@ -575,7 +641,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 52,
@@ -592,7 +660,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 53,
@@ -609,7 +679,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 54,
@@ -626,7 +698,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 55,
@@ -643,7 +717,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 56,
@@ -660,7 +736,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 57,
@@ -677,7 +755,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 58,
@@ -694,7 +774,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 59,
@@ -711,7 +793,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 60,
@@ -728,7 +812,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 61,
@@ -745,7 +831,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 62,
@@ -762,7 +850,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 63,
@@ -779,7 +869,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 64,
@@ -796,7 +888,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 65,
@@ -813,7 +907,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 66,
@@ -830,7 +926,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 67,
@@ -847,7 +945,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 68,
@@ -864,12 +964,14 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 69,
     "m_online_head_portrait_avatars": [],
-    "name": "King's Army Archer",
+    "name": "K.A. Archer",
     "editor_name": "AT2-佣兵R-伊利亚弓箭手",
     "icon": "iriaarcherfset01",
     "desc": "Avatar of the K.A. Archer. How to unlock: obtain through [Bond].",
@@ -881,7 +983,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 70,
@@ -898,7 +1002,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 71,
@@ -915,7 +1021,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 72,
@@ -932,7 +1040,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 73,
@@ -949,7 +1059,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 74,
@@ -966,7 +1078,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 75,
@@ -983,7 +1097,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 76,
@@ -1000,7 +1116,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 77,
@@ -1017,7 +1135,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 78,
@@ -1034,7 +1154,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 79,
@@ -1051,7 +1173,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 80,
@@ -1068,7 +1192,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 81,
@@ -1085,7 +1211,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 82,
@@ -1102,7 +1230,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 83,
@@ -1119,7 +1249,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 84,
@@ -1136,7 +1268,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 85,
@@ -1153,7 +1287,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 86,
@@ -1170,7 +1306,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 87,
@@ -1187,7 +1325,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 88,
@@ -1204,7 +1344,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 89,
@@ -1221,7 +1363,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 90,
@@ -1238,7 +1382,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 91,
@@ -1255,7 +1401,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 97,
@@ -1272,7 +1420,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 98,
@@ -1289,7 +1439,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 99,
@@ -1306,7 +1458,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 100,
@@ -1323,7 +1477,9 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   },
   {
     "id": 101,
@@ -1340,6 +1496,179 @@
     "online_role_unit_id": 0,
     "is_default": false,
     "show_when_got": false,
-    "system_id": 0
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 102,
+    "m_online_head_portrait_avatars": [],
+    "name": "SchackLulu",
+    "editor_name": "AT2-英雄-舞团舞娘",
+    "icon": "hvilderdancerfset01",
+    "desc": "Avatar of SchackLulu.\nHow to unlock: Obtained through [Bond].",
+    "source_desc": "Obtain through [Bond].",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 4,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 103,
+    "m_online_head_portrait_avatars": [],
+    "name": "Taair",
+    "editor_name": "AT2-英雄-邦国王子",
+    "icon": "hpapalprincemset01",
+    "desc": "Avatar of Taair.\nHow to unlock: Obtained through [Bond].",
+    "source_desc": "Obtain through [Bond].",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 4,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 104,
+    "m_online_head_portrait_avatars": [],
+    "name": "",
+    "editor_name": "AT2-英雄-SP拉维耶",
+    "icon": "hcrimsonlavierf2set01",
+    "desc": "",
+    "source_desc": "Obtain through [Bond].",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 4,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 105,
+    "m_online_head_portrait_avatars": [],
+    "name": "",
+    "editor_name": "AT2-高级佣兵-希孜（前传线）",
+    "icon": "crimsonpriestfset01",
+    "desc": "",
+    "source_desc": "Obtain through [Bond].",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 3,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 106,
+    "m_online_head_portrait_avatars": [],
+    "name": "",
+    "editor_name": "AT2-高级佣兵-考尔（前传线） ",
+    "icon": "crimsoncrossbowmset01",
+    "desc": "",
+    "source_desc": "Obtain through [Bond].",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 3,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 107,
+    "m_online_head_portrait_avatars": [],
+    "name": "Through the\nLooking-Glass",
+    "editor_name": "小魔女皮肤头像",
+    "icon": "arenajingzhongdewo",
+    "desc": "Beryl's [Skin] Avatar - Through the Looking-Glass\nHow to unlock: Obtained through the [Verdure Delight] event.",
+    "source_desc": "How to unlock: Obtained through the [Verdure Delight] event.",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 4,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": true,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 108,
+    "m_online_head_portrait_avatars": [],
+    "name": "",
+    "editor_name": "AT2-英雄-女将军",
+    "icon": "hcrimsongeneralfset01",
+    "desc": "",
+    "source_desc": "Obtain through [Bond].",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 4,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 109,
+    "m_online_head_portrait_avatars": [],
+    "name": "Fortunes",
+    "editor_name": "记忆结晶商店头像",
+    "icon": "arenacaiyuangungun",
+    "desc": "Cat's avatar.\n\n<style=brown>Rolling in wealth, meow!</style>",
+    "source_desc": "Obtained through purchasing in the Memory Crystal Shop.",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 4,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": false,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
+  },
+  {
+    "id": 114,
+    "m_online_head_portrait_avatars": [],
+    "name": "Cozy Afternoon",
+    "editor_name": "科尔皮肤头像",
+    "icon": "col01",
+    "desc": "Col's [Skin] Avatar: Cozy Afternoon.\n\n",
+    "source_desc": "Obtain through [Col's Afternoon].",
+    "has_time_limited": false,
+    "duration": 0,
+    "tag": 1,
+    "rarity": 3,
+    "online_role_unit_id": 0,
+    "is_default": false,
+    "show_when_got": true,
+    "system_id": 0,
+    "has_dynamic": false,
+    "display_at": 0
   }
 ]

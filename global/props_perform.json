@@ -282,12 +282,6 @@
     "perform_sequence_id": 470
   },
   {
-    "id": 65,
-    "idprops": 115,
-    "name": "die",
-    "perform_sequence_id": 457
-  },
-  {
     "id": 67,
     "idprops": 61,
     "name": "die",
@@ -786,12 +780,6 @@
     "perform_sequence_id": 555
   },
   {
-    "id": 159,
-    "idprops": 172,
-    "name": "die",
-    "perform_sequence_id": 143
-  },
-  {
     "id": 160,
     "idprops": 131,
     "name": "die",
@@ -1210,5 +1198,197 @@
     "idprops": 236,
     "name": "appear",
     "perform_sequence_id": 754
+  },
+  {
+    "id": 237,
+    "idprops": 257,
+    "name": "die",
+    "perform_sequence_id": 795
+  },
+  {
+    "id": 238,
+    "idprops": 278,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 239,
+    "idprops": 279,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 240,
+    "idprops": 255,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 241,
+    "idprops": 255,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 242,
+    "idprops": 294,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 243,
+    "idprops": 295,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 245,
+    "idprops": 297,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 246,
+    "idprops": 298,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 247,
+    "idprops": 296,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 248,
+    "idprops": 314,
+    "name": "",
+    "perform_sequence_id": 537
+  },
+  {
+    "id": 250,
+    "idprops": 319,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 259,
+    "idprops": 291,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 260,
+    "idprops": 291,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 261,
+    "idprops": 308,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 262,
+    "idprops": 308,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 263,
+    "idprops": 309,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 264,
+    "idprops": 309,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 265,
+    "idprops": 307,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 266,
+    "idprops": 307,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 267,
+    "idprops": 282,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 268,
+    "idprops": 299,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 269,
+    "idprops": 300,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 270,
+    "idprops": 301,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 271,
+    "idprops": 302,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 272,
+    "idprops": 283,
+    "name": "appear",
+    "perform_sequence_id": 494
+  },
+  {
+    "id": 273,
+    "idprops": 282,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 274,
+    "idprops": 299,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 275,
+    "idprops": 300,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 276,
+    "idprops": 301,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 277,
+    "idprops": 302,
+    "name": "die",
+    "perform_sequence_id": 143
+  },
+  {
+    "id": 278,
+    "idprops": 283,
+    "name": "die",
+    "perform_sequence_id": 143
   }
 ]

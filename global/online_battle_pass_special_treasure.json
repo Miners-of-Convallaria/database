@@ -6,7 +6,7 @@
     "treasure_type": 146,
     "treasure_param0": 3,
     "treasure_param1": 0,
-    "text": "Unlock any Cornucopia Blessing or Cornucopia Praise to select 1 [Cornucopia Weapon] upon reaching Cornucopia Level 25.",
+    "text": "Unlock either the Cornucopia Blessing or Cornucopia's Hymn to pick a [Cornucopia Weapon] upon reaching Cornucopia Level 25.",
     "icon": "",
     "show_single": false
   },
@@ -116,6 +116,17 @@
     "treasure_type": 147,
     "treasure_param0": 29,
     "treasure_param1": 1,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 12,
+    "name": "通行证显示奖励3v2",
+    "type": 1,
+    "treasure_type": 126,
+    "treasure_param0": 270,
+    "treasure_param1": 0,
     "text": "",
     "icon": "",
     "show_single": false
@@ -935,6 +946,270 @@
     "show_single": false
   },
   {
+    "id": 839,
+    "name": "高级通行证额外奖励_实际_第12期_1",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 156,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": true
+  },
+  {
+    "id": 840,
+    "name": "高级通行证额外奖励_实际_第12期_2",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 160,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 841,
+    "name": "高级通行证额外奖励_实际_第12期_3",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 161,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 842,
+    "name": "高级通行证额外奖励_实际_第12期_4",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 164,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 843,
+    "name": "高级通行证额外奖励_显示_第12期_1",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 156,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 844,
+    "name": "高级通行证额外奖励_显示_第12期_2",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 160,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 845,
+    "name": "高级通行证额外奖励_显示_第12期_3",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 161,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 846,
+    "name": "高级通行证额外奖励_显示_第12期_4",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 164,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 847,
+    "name": "高级通行证额外奖励_实际_第13期_1",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 157,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": true
+  },
+  {
+    "id": 848,
+    "name": "高级通行证额外奖励_实际_第13期_2",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 159,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 849,
+    "name": "高级通行证额外奖励_实际_第13期_3",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 163,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 850,
+    "name": "高级通行证额外奖励_实际_第13期_4",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 166,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 851,
+    "name": "高级通行证额外奖励_显示_第13期_1",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 157,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 852,
+    "name": "高级通行证额外奖励_显示_第13期_2",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 159,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 853,
+    "name": "高级通行证额外奖励_显示_第13期_3",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 163,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 854,
+    "name": "高级通行证额外奖励_显示_第13期_4",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 166,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 855,
+    "name": "高级通行证额外奖励_实际_第14期_1",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 158,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": true
+  },
+  {
+    "id": 856,
+    "name": "高级通行证额外奖励_实际_第14期_2",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 162,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 857,
+    "name": "高级通行证额外奖励_实际_第14期_3",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 165,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 858,
+    "name": "高级通行证额外奖励_实际_第14期_4",
+    "type": 4,
+    "treasure_type": 147,
+    "treasure_param0": 167,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 859,
+    "name": "高级通行证额外奖励_显示_第14期_1",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 158,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 860,
+    "name": "高级通行证额外奖励_显示_第14期_2",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 162,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 861,
+    "name": "高级通行证额外奖励_显示_第14期_3",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 165,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
+    "id": 862,
+    "name": "高级通行证额外奖励_显示_第14期_4",
+    "type": 3,
+    "treasure_type": 147,
+    "treasure_param0": 167,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "",
+    "show_single": false
+  },
+  {
     "id": 1001,
     "name": "家具展示图第1期",
     "type": 6,
@@ -1053,6 +1328,39 @@
     "treasure_param1": 0,
     "text": "",
     "icon": "icon/onlinebattlepass/onlinebattlepass_item_furniture11",
+    "show_single": false
+  },
+  {
+    "id": 1012,
+    "name": "家具展示图第12期",
+    "type": 6,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "icon/onlinebattlepass/onlinebattlepass_item_furniture12",
+    "show_single": false
+  },
+  {
+    "id": 1013,
+    "name": "家具展示图第13期",
+    "type": 6,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "icon/onlinebattlepass/onlinebattlepass_item_furniture13",
+    "show_single": false
+  },
+  {
+    "id": 1014,
+    "name": "家具展示图第14期",
+    "type": 6,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "text": "",
+    "icon": "icon/onlinebattlepass/onlinebattlepass_item_furniture14",
     "show_single": false
   }
 ]

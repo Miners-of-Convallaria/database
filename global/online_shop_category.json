@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Astral Gems",
+    "name": "Astral Gem",
     "icon": "icon_pay",
-    "is_show": false,
+    "is_show": true,
     "order_id": 3,
     "key": "Pay"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Pack",
     "icon": "icon_gift",
-    "is_show": false,
+    "is_show": true,
     "order_id": 2,
     "key": "Gift"
   },

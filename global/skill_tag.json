@@ -217,6 +217,13 @@
     "is_show": false
   },
   {
+    "id": 42,
+    "type": "Extort",
+    "name": "敲诈",
+    "desc": "具有[敲诈]属性的攻击能够强制触发[死神税]的效果。",
+    "is_show": true
+  },
+  {
     "id": 44,
     "type": "Migeer",
     "name": "强制触发再行动",
@@ -227,6 +234,41 @@
     "id": 46,
     "type": "SofiaPassive",
     "name": "斩奸除恶",
+    "desc": "",
+    "is_show": false
+  },
+  {
+    "id": 47,
+    "type": "Bing",
+    "name": "冰属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 48,
+    "type": "Huo",
+    "name": "火属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 49,
+    "type": "Wuli",
+    "name": "物理属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 50,
+    "type": "Feng",
+    "name": "风属性",
+    "desc": "",
+    "is_show": true
+  },
+  {
+    "id": 51,
+    "type": "Liulian",
+    "name": "舞团舞娘-流连忘返",
     "desc": "",
     "is_show": false
   }

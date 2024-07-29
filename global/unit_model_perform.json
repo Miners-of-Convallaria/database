@@ -4086,6 +4086,12 @@
     "perform_sequence_id": 627
   },
   {
+    "id": 1469,
+    "idunit_model": 0,
+    "name": "摄像机自动归位测试",
+    "perform_sequence_id": 628
+  },
+  {
     "id": 1476,
     "idunit_model": 176,
     "name": "环境光",
@@ -4126,6 +4132,18 @@
     "idunit_model": 216,
     "name": "alpha0独显",
     "perform_sequence_id": 497
+  },
+  {
+    "id": 1501,
+    "idunit_model": 0,
+    "name": "技能残像",
+    "perform_sequence_id": 656
+  },
+  {
+    "id": 1502,
+    "idunit_model": 0,
+    "name": "红色技能残像",
+    "perform_sequence_id": 657
   },
   {
     "id": 1503,
@@ -4320,10 +4338,34 @@
     "perform_sequence_id": 497
   },
   {
+    "id": 1550,
+    "idunit_model": 235,
+    "name": "SP拉维耶挥击",
+    "perform_sequence_id": 693
+  },
+  {
+    "id": 1551,
+    "idunit_model": 235,
+    "name": "受击_半月斩",
+    "perform_sequence_id": 694
+  },
+  {
+    "id": 1552,
+    "idunit_model": 235,
+    "name": "半月斩",
+    "perform_sequence_id": 695
+  },
+  {
     "id": 1553,
     "idunit_model": 247,
     "name": "命中buff",
     "perform_sequence_id": 696
+  },
+  {
+    "id": 1554,
+    "idunit_model": 0,
+    "name": "快速小击退",
+    "perform_sequence_id": 697
   },
   {
     "id": 1556,
@@ -4392,12 +4434,6 @@
     "perform_sequence_id": 716
   },
   {
-    "id": 1574,
-    "idunit_model": 235,
-    "name": "EX_02",
-    "perform_sequence_id": 719
-  },
-  {
     "id": 1575,
     "idunit_model": 254,
     "name": "移动残像",
@@ -4436,7 +4472,7 @@
   {
     "id": 1585,
     "idunit_model": 256,
-    "name": "相机归位",
+    "name": "变身",
     "perform_sequence_id": 730
   },
   {
@@ -4506,10 +4542,22 @@
     "perform_sequence_id": 742
   },
   {
+    "id": 1610,
+    "idunit_model": 254,
+    "name": "EX淡出淡入",
+    "perform_sequence_id": 755
+  },
+  {
     "id": 1611,
     "idunit_model": 47,
     "name": "变暗_buff_相机归位",
     "perform_sequence_id": 757
+  },
+  {
+    "id": 1612,
+    "idunit_model": 254,
+    "name": "喝药血条屏蔽",
+    "perform_sequence_id": 758
   },
   {
     "id": 1613,
@@ -4554,10 +4602,58 @@
     "perform_sequence_id": 765
   },
   {
+    "id": 1620,
+    "idunit_model": 256,
+    "name": "黑帮女瞬移",
+    "perform_sequence_id": 767
+  },
+  {
+    "id": 1621,
+    "idunit_model": 248,
+    "name": "念力",
+    "perform_sequence_id": 321
+  },
+  {
+    "id": 1622,
+    "idunit_model": 256,
+    "name": "引爆震荡",
+    "perform_sequence_id": 769
+  },
+  {
+    "id": 1623,
+    "idunit_model": 235,
+    "name": "大招_01",
+    "perform_sequence_id": 704
+  },
+  {
+    "id": 1624,
+    "idunit_model": 235,
+    "name": "大招_02",
+    "perform_sequence_id": 772
+  },
+  {
+    "id": 1625,
+    "idunit_model": 235,
+    "name": "大招_03",
+    "perform_sequence_id": 771
+  },
+  {
+    "id": 1626,
+    "idunit_model": 235,
+    "name": "大招_03_全体击飞",
+    "perform_sequence_id": 773
+  },
+  {
     "id": 1628,
     "idunit_model": 176,
     "name": "摄像机强制复位",
     "perform_sequence_id": 774
+  },
+  {
+    "id": 1629,
+    "idunit_model": 254,
+    "name": "关闭环境光",
+    "perform_sequence_id": 775
   },
   {
     "id": 1631,
@@ -4576,5 +4672,209 @@
     "idunit_model": 0,
     "name": "鹦鹉人EX红鸟AOE",
     "perform_sequence_id": 647
+  },
+  {
+    "id": 1635,
+    "idunit_model": 52,
+    "name": "爱莎消失测试",
+    "perform_sequence_id": 781
+  },
+  {
+    "id": 1636,
+    "idunit_model": 270,
+    "name": "alpha0",
+    "perform_sequence_id": 497
+  },
+  {
+    "id": 1637,
+    "idunit_model": 270,
+    "name": "EX淡出淡入",
+    "perform_sequence_id": 782
+  },
+  {
+    "id": 1638,
+    "idunit_model": 270,
+    "name": "UI屏蔽",
+    "perform_sequence_id": 783
+  },
+  {
+    "id": 1639,
+    "idunit_model": 126,
+    "name": "摄像机强制复位",
+    "perform_sequence_id": 784
+  },
+  {
+    "id": 1640,
+    "idunit_model": 195,
+    "name": "连续打击",
+    "perform_sequence_id": 785
+  },
+  {
+    "id": 1641,
+    "idunit_model": 270,
+    "name": "摄像机强制复位",
+    "perform_sequence_id": 786
+  },
+  {
+    "id": 1642,
+    "idunit_model": 235,
+    "name": "重击闪屏",
+    "perform_sequence_id": 787
+  },
+  {
+    "id": 1650,
+    "idunit_model": 36,
+    "name": "麦莎连击01_黑白",
+    "perform_sequence_id": 789
+  },
+  {
+    "id": 1651,
+    "idunit_model": 278,
+    "name": "die",
+    "perform_sequence_id": 788
+  },
+  {
+    "id": 1652,
+    "idunit_model": 280,
+    "name": "主动瞬移",
+    "perform_sequence_id": 144
+  },
+  {
+    "id": 1654,
+    "idunit_model": 280,
+    "name": "EX乱丢攻击",
+    "perform_sequence_id": 800
+  },
+  {
+    "id": 1655,
+    "idunit_model": 280,
+    "name": "小魔女EX背景",
+    "perform_sequence_id": 801
+  },
+  {
+    "id": 1656,
+    "idunit_model": 280,
+    "name": "落石压扁",
+    "perform_sequence_id": 419
+  },
+  {
+    "id": 1658,
+    "idunit_model": 248,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1659,
+    "idunit_model": 272,
+    "name": "die",
+    "perform_sequence_id": 470
+  },
+  {
+    "id": 1660,
+    "idunit_model": 282,
+    "name": "die",
+    "perform_sequence_id": 470
+  },
+  {
+    "id": 1662,
+    "idunit_model": 248,
+    "name": "摄像机复位",
+    "perform_sequence_id": 803
+  },
+  {
+    "id": 1663,
+    "idunit_model": 256,
+    "name": "前传线变身",
+    "perform_sequence_id": 804
+  },
+  {
+    "id": 1664,
+    "idunit_model": 196,
+    "name": "alpha0",
+    "perform_sequence_id": 480
+  },
+  {
+    "id": 1665,
+    "idunit_model": 105,
+    "name": "流星雨变暗",
+    "perform_sequence_id": 805
+  },
+  {
+    "id": 1666,
+    "idunit_model": 280,
+    "name": "春愿自爆变色_自己",
+    "perform_sequence_id": 806
+  },
+  {
+    "id": 1667,
+    "idunit_model": 280,
+    "name": "//春愿自爆变色_敌人",
+    "perform_sequence_id": 807
+  },
+  {
+    "id": 1674,
+    "idunit_model": 280,
+    "name": "活动自爆变黑",
+    "perform_sequence_id": 824
+  },
+  {
+    "id": 1675,
+    "idunit_model": 105,
+    "name": "活动自爆变黑",
+    "perform_sequence_id": 824
+  },
+  {
+    "id": 1679,
+    "idunit_model": 105,
+    "name": "活动自爆氛围",
+    "perform_sequence_id": 829
+  },
+  {
+    "id": 1680,
+    "idunit_model": 280,
+    "name": "活动自爆氛围",
+    "perform_sequence_id": 829
+  },
+  {
+    "id": 1681,
+    "idunit_model": 270,
+    "name": "强制返回待机_等待800",
+    "perform_sequence_id": 253
+  },
+  {
+    "id": 1741,
+    "idunit_model": 206,
+    "name": "die",
+    "perform_sequence_id": 927
+  },
+  {
+    "id": 1742,
+    "idunit_model": 206,
+    "name": "面具割喉",
+    "perform_sequence_id": 432
+  },
+  {
+    "id": 1744,
+    "idunit_model": 206,
+    "name": "主动瞬移",
+    "perform_sequence_id": 136
+  },
+  {
+    "id": 1745,
+    "idunit_model": 206,
+    "name": "混入人群",
+    "perform_sequence_id": 326
+  },
+  {
+    "id": 1751,
+    "idunit_model": 206,
+    "name": "EX猫影部分",
+    "perform_sequence_id": 934
+  },
+  {
+    "id": 1753,
+    "idunit_model": 16,
+    "name": "EX猫影部分",
+    "perform_sequence_id": 934
   }
 ]

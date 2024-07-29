@@ -7,7 +7,8 @@
     "type": 21,
     "category": 1,
     "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 1
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "type": 20,
     "category": 4,
     "icon": "knightslancermset01",
-    "small_flag": "smallflag_spearmen"
+    "small_flag": "smallflag_spearmen",
+    "tendency_tag_id": 1
   },
   {
     "id": 3,
@@ -27,17 +29,19 @@
     "type": 20,
     "category": 4,
     "icon": "knightsberserkermset01",
-    "small_flag": "smallflag_berserker"
+    "small_flag": "smallflag_berserker",
+    "tendency_tag_id": 0
   },
   {
     "id": 4,
-    "name": "King's Army Archer",
+    "name": "K.A. Archer",
     "editor_name": "王国狙击手",
     "desc": "Dons a red standard military uniform decorated with striking golden patterns and uses a longbow to attack from a great distance. They are not equipped with armor.\nBoasts impressive range and formidable lethality in comparison with other archers. However, carrying a longbow slows them down and the lack of armor renders them vulnerable to attacks.",
     "type": 18,
     "category": 5,
     "icon": "iriaarcherfset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "type": 19,
     "category": 3,
     "icon": "iriafirewizzardf2set01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "type": 20,
     "category": 4,
     "icon": "banditberserkerfset01",
-    "small_flag": "smallflag_berserker"
+    "small_flag": "smallflag_berserker",
+    "tendency_tag_id": 0
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "type": 20,
     "category": 4,
     "icon": "banditlancermset01",
-    "small_flag": "smallflag_spearmen"
+    "small_flag": "smallflag_spearmen",
+    "tendency_tag_id": 0
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "type": 17,
     "category": 2,
     "icon": "banditassassinmmset01",
-    "small_flag": "smallflag_killer"
+    "small_flag": "smallflag_killer",
+    "tendency_tag_id": 0
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "type": 18,
     "category": 5,
     "icon": "banditarchermset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "type": 18,
     "category": 5,
     "icon": "banditcrossbowmset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 11,
@@ -107,27 +117,30 @@
     "type": 21,
     "category": 1,
     "icon": "banditguardianmset01",
-    "small_flag": "smallflag_berserker"
+    "small_flag": "smallflag_berserker",
+    "tendency_tag_id": 0
   },
   {
     "id": 12,
-    "name": "Papal Radiant Maidservant",
+    "name": "Radiant Maidservant",
     "editor_name": "光辉侍女“天使”",
     "desc": "Dons a gilded headdress with an ethereal veil and a pure white gown adorned with golden threads.\nThey chant the Radiant Blessing they have perfected over years to channel elements in the Luxite for deadly attacks.",
     "type": 18,
     "category": 5,
     "icon": "papalpriestfset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 2
   },
   {
     "id": 13,
-    "name": "Papal Radiant Crossbowman",
+    "name": "Radiant Crossbowman",
     "editor_name": "重连弩手",
     "desc": "Dresses in a common Papal States style with their characteristic hooded trench coat and wields an intricate repeating crossbow in battle. They are not equipped with armor.\nTheir repeating crossbow can suppress enemies by shooting numerous arrows in a short time. However, their relatively low mobility slows them down to a certain extent.",
     "type": 18,
     "category": 5,
     "icon": "papalcrossbowmset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 14,
@@ -137,17 +150,19 @@
     "type": 19,
     "category": 3,
     "icon": "darklighticewizzardmset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 15,
-    "name": "Dawn Maidservant of Darklight",
+    "name": "Dawn Maidservant",
     "editor_name": "黎明侍女“黯心”",
     "desc": "Dons a black hooded robe to hide the emaciated body and enters the battlefield with an artifact made from tainted Luxite.\nOutside the battlefield, they engage in cruel experiments, distorting spirits and corrupting bodies with the darkest parts of Luxite.",
     "type": 19,
     "category": 3,
     "icon": "darklightdarkwizzardfset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 2
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@
     "type": 19,
     "category": 3,
     "icon": "darklightbombermset01",
-    "small_flag": "smallflag_engineer"
+    "small_flag": "smallflag_engineer",
+    "tendency_tag_id": 0
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@
     "type": 18,
     "category": 5,
     "icon": "hknightspaladinfset01",
-    "small_flag": "smallflag_killer"
+    "small_flag": "smallflag_killer",
+    "tendency_tag_id": 0
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "type": 19,
     "category": 3,
     "icon": "militarybombermset01",
-    "small_flag": "smallflag_engineer"
+    "small_flag": "smallflag_engineer",
+    "tendency_tag_id": 0
   },
   {
     "id": 19,
@@ -187,27 +205,30 @@
     "type": 17,
     "category": 2,
     "icon": "mercenaryassassinmset01",
-    "small_flag": "smallflag_killer"
+    "small_flag": "smallflag_killer",
+    "tendency_tag_id": 0
   },
   {
     "id": 21,
-    "name": "Radiant Knight of the Union",
+    "name": "Radiant Knight",
     "editor_name": "光术骑士“耀光”",
     "desc": "Dons a lightweight, blue scholar's armor while wielding a battle hammer and a shield.\nTasked with curing the sick in everyday life, they use Radiant Blessing to defeat enemies and support allies in battle.",
     "type": 18,
     "category": 5,
     "icon": "knightspriestfset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 2
   },
   {
     "id": 22,
     "name": "Papal Ice Priest",
     "editor_name": "冰结学者",
-    "desc": "Dons a holy chiffon vestment and wields an artifact of purity that dazes opponents.\nPossesses better defense skills in comparison with ice conjurers from other factions. In battle, they can create barriers or temporary buildings to protect allies and leverage the power of ice to stop bleeding.",
+    "desc": "Dons a holy chiffon vestment and wields an artifact of purity that dazes opponents.\nPossesses better defense skills in comparison with ice priests from other factions. In battle, they can create barriers or temporary buildings to protect allies and leverage the power of ice to stop bleeding.",
     "type": 18,
     "category": 5,
     "icon": "papalicewizzardfset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 23,
@@ -217,7 +238,8 @@
     "type": 19,
     "category": 3,
     "icon": "darklightfirewizzardmset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 24,
@@ -227,7 +249,8 @@
     "type": 18,
     "category": 5,
     "icon": "vilderdancerfset01",
-    "small_flag": "smallflag_killer"
+    "small_flag": "smallflag_killer",
+    "tendency_tag_id": 0
   },
   {
     "id": 25,
@@ -237,7 +260,8 @@
     "type": 18,
     "category": 5,
     "icon": "vilderarcherfset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 26,
@@ -247,7 +271,8 @@
     "type": 20,
     "category": 4,
     "icon": "hknightscaptainmset01",
-    "small_flag": "smallflag_swordsman"
+    "small_flag": "smallflag_swordsman",
+    "tendency_tag_id": 0
   },
   {
     "id": 27,
@@ -257,7 +282,8 @@
     "type": 18,
     "category": 5,
     "icon": "darklightcrossbowmset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 28,
@@ -267,7 +293,8 @@
     "type": 20,
     "category": 4,
     "icon": "darklightlancermset01",
-    "small_flag": "smallflag_spearmen"
+    "small_flag": "smallflag_spearmen",
+    "tendency_tag_id": 0
   },
   {
     "id": 29,
@@ -277,7 +304,8 @@
     "type": 21,
     "category": 1,
     "icon": "hplayermercenarygirlfset01",
-    "small_flag": "smallflag_guard"
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 1
   },
   {
     "id": 30,
@@ -287,7 +315,8 @@
     "type": 18,
     "category": 5,
     "icon": "hplayermercenaryboymset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 31,
@@ -297,27 +326,30 @@
     "type": 17,
     "category": 2,
     "icon": "vilderassassinmset01",
-    "small_flag": "smallflag_killer"
+    "small_flag": "smallflag_killer",
+    "tendency_tag_id": 0
   },
   {
     "id": 32,
-    "name": "Duelling Sword Warrior",
+    "name": "Claymore Warrior",
     "editor_name": "大姐头",
     "desc": "A warrior of the Mercenary Group who wields a heavy claymore and dons a metal armor.\nThe all-rounded warriors constitute the backbone of the Mercenary Group with their fierce performance in battle.",
     "type": 20,
     "category": 4,
     "icon": "hplayersisterlavierfset01",
-    "small_flag": "smallflag_swordsman"
+    "small_flag": "smallflag_swordsman",
+    "tendency_tag_id": 0
   },
   {
     "id": 33,
-    "name": "Warrior of the Hanged Men",
+    "name": "H.M. Warrior",
     "editor_name": "倒吊人“执剑者”",
     "desc": "A special agent belonging to a secret division of the King's Army. Often wearing a black coat over their red military uniform, the \"ominous bats\" are the nemesis of all traitors.\nTheir high mobility and ability to launch combo attacks make up for any lack of defense. Perfect for dealing a decisive assault after an ally has broken down the enemy's defense.",
     "type": 19,
     "category": 3,
     "icon": "policelongswordmset01",
-    "small_flag": "smallflag_swordsman"
+    "small_flag": "smallflag_swordsman",
+    "tendency_tag_id": 0
   },
   {
     "id": 34,
@@ -327,7 +359,8 @@
     "type": 17,
     "category": 2,
     "icon": "policenightwalkermset01",
-    "small_flag": "smallflag_killer"
+    "small_flag": "smallflag_killer",
+    "tendency_tag_id": 0
   },
   {
     "id": 35,
@@ -337,7 +370,8 @@
     "type": 17,
     "category": 2,
     "icon": "hiriasprincemset01",
-    "small_flag": "smallflag_swordsman"
+    "small_flag": "smallflag_swordsman",
+    "tendency_tag_id": 0
   },
   {
     "id": 36,
@@ -347,7 +381,8 @@
     "type": 17,
     "category": 2,
     "icon": "animalswolfset01",
-    "small_flag": "smallflag_monster"
+    "small_flag": "smallflag_monster",
+    "tendency_tag_id": 0
   },
   {
     "id": 37,
@@ -357,7 +392,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterbearmset01",
-    "small_flag": "smallflag_monster"
+    "small_flag": "smallflag_monster",
+    "tendency_tag_id": 0
   },
   {
     "id": 38,
@@ -367,7 +403,8 @@
     "type": 21,
     "category": 1,
     "icon": "mercenaryguardianmset01",
-    "small_flag": "smallflag_guard"
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 1
   },
   {
     "id": 39,
@@ -377,7 +414,8 @@
     "type": 18,
     "category": 5,
     "icon": "mercenaryarchermset01",
-    "small_flag": "smallflag_shooter"
+    "small_flag": "smallflag_shooter",
+    "tendency_tag_id": 0
   },
   {
     "id": 40,
@@ -387,7 +425,8 @@
     "type": 20,
     "category": 4,
     "icon": "mercenaryberserkerfset01",
-    "small_flag": "smallflag_berserker"
+    "small_flag": "smallflag_berserker",
+    "tendency_tag_id": 0
   },
   {
     "id": 41,
@@ -397,7 +436,8 @@
     "type": 20,
     "category": 4,
     "icon": "mercenarylancermset01",
-    "small_flag": "smallflag_spearmen"
+    "small_flag": "smallflag_spearmen",
+    "tendency_tag_id": 0
   },
   {
     "id": 42,
@@ -407,7 +447,8 @@
     "type": 20,
     "category": 4,
     "icon": "irialancermset01",
-    "small_flag": "smallflag_spearmen"
+    "small_flag": "smallflag_spearmen",
+    "tendency_tag_id": 0
   },
   {
     "id": 43,
@@ -417,7 +458,8 @@
     "type": 21,
     "category": 1,
     "icon": "iriaguardianmset01",
-    "small_flag": "smallflag_guard"
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 1
   },
   {
     "id": 44,
@@ -427,7 +469,8 @@
     "type": 17,
     "category": 2,
     "icon": "aaatarotagilemset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 45,
@@ -437,7 +480,8 @@
     "type": 17,
     "category": 2,
     "icon": "hpoliceleaderfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 46,
@@ -447,7 +491,8 @@
     "type": 18,
     "category": 5,
     "icon": "hpapalsamanthafset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 47,
@@ -457,17 +502,19 @@
     "type": 21,
     "category": 1,
     "icon": "hknightsoldknightmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 48,
-    "name": "Supreme Marshall of Iria",
+    "name": "Supreme Marshall",
     "editor_name": "马格努斯",
     "desc": "The highest general of the King's Army, a powerful veteran of war. In battle, he always leads the charge against enemies, capable of single-handedly taking down ten enemies with his excellent strength and stamina. His presence boosts the morale of the entire army.",
     "type": 21,
     "category": 1,
     "icon": "hiriacommandermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 49,
@@ -477,7 +524,8 @@
     "type": 20,
     "category": 4,
     "icon": "hiriayoungcolonelmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 50,
@@ -487,17 +535,19 @@
     "type": 19,
     "category": 3,
     "icon": "hdarklightdarkknightmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 51,
-    "name": "Intelligence Officer of the Hanged Men",
+    "name": "H.M. Intelligence Officer",
     "editor_name": "倒吊人“烛火”",
     "desc": "Battle not ready yet, vacant for now",
     "type": 18,
     "category": 5,
     "icon": "policepriestfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 52,
@@ -507,7 +557,8 @@
     "type": 21,
     "category": 1,
     "icon": "militaryguardianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 53,
@@ -517,7 +568,8 @@
     "type": 20,
     "category": 4,
     "icon": "militaryberserkermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 54,
@@ -527,7 +579,8 @@
     "type": 18,
     "category": 5,
     "icon": "militarycrossbowmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 55,
@@ -537,7 +590,8 @@
     "type": 17,
     "category": 2,
     "icon": "darklightassassinmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 56,
@@ -547,7 +601,8 @@
     "type": 21,
     "category": 1,
     "icon": "darklightguardianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 57,
@@ -557,7 +612,8 @@
     "type": 20,
     "category": 4,
     "icon": "darklightberserkerm01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 58,
@@ -567,7 +623,8 @@
     "type": 17,
     "category": 2,
     "icon": "iriaassassinfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 59,
@@ -577,7 +634,8 @@
     "type": 19,
     "category": 3,
     "icon": "aaatarotnormalmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 60,
@@ -587,7 +645,8 @@
     "type": 18,
     "category": 5,
     "icon": "tarotshooterm3set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 61,
@@ -597,7 +656,8 @@
     "type": 18,
     "category": 5,
     "icon": "papalpriestfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 62,
@@ -607,7 +667,8 @@
     "type": 21,
     "category": 1,
     "icon": "papalpriestfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 63,
@@ -617,7 +678,8 @@
     "type": 17,
     "category": 2,
     "icon": "papalpriestfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 64,
@@ -627,7 +689,8 @@
     "type": 6,
     "category": 1,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 65,
@@ -637,7 +700,8 @@
     "type": 22,
     "category": 6,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 66,
@@ -647,7 +711,8 @@
     "type": 19,
     "category": 3,
     "icon": "monsterslimemset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 67,
@@ -657,7 +722,8 @@
     "type": 22,
     "category": 6,
     "icon": "animalswolfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 68,
@@ -667,7 +733,8 @@
     "type": 19,
     "category": 3,
     "icon": "animalswolfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 69,
@@ -677,7 +744,8 @@
     "type": 21,
     "category": 1,
     "icon": "animalswolfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 70,
@@ -687,7 +755,8 @@
     "type": 17,
     "category": 2,
     "icon": "animalswolfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 71,
@@ -697,17 +766,19 @@
     "type": 18,
     "category": 5,
     "icon": "hpapalsamanthafset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 2
   },
   {
     "id": 72,
-    "name": "Icefield Fierce Bear",
+    "name": "Icefield Werebear",
     "editor_name": "阿列克谢",
     "desc": "Alexei",
     "type": 21,
     "category": 1,
     "icon": "hluciayoungcolonelmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 73,
@@ -717,7 +788,8 @@
     "type": 19,
     "category": 3,
     "icon": "hiriafprincemset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 74,
@@ -727,7 +799,8 @@
     "type": 18,
     "category": 5,
     "icon": "hpapalmercenaryleadermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 75,
@@ -737,27 +810,30 @@
     "type": 18,
     "category": 5,
     "icon": "hirialadymunafset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 2
   },
   {
     "id": 76,
-    "name": "Gale Arrow",
+    "name": "Gale Archer",
     "editor_name": "薇尔德姐姐",
     "desc": "Sister Vlder",
     "type": 18,
     "category": 5,
     "icon": "hvildersisterchieffset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 77,
-    "name": "Little Sorceress",
+    "name": "Genius Sorceress",
     "editor_name": "魔女贝拉",
     "desc": "Beryl",
     "type": 19,
     "category": 3,
     "icon": "hplayerlittlewitchfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 78,
@@ -767,17 +843,19 @@
     "type": 21,
     "category": 1,
     "icon": "luciaguardianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 79,
-    "name": "Luccia Bear Shield Soldier",
+    "name": "Luccia Bear Guard",
     "editor_name": "露西亚熊盾兵",
-    "desc": "Luccia Bear Shield Soldier",
+    "desc": "Luccia Bear Guard",
     "type": 21,
     "category": 1,
     "icon": "luciabearmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 80,
@@ -787,17 +865,19 @@
     "type": 19,
     "category": 3,
     "icon": "policepriestfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 81,
-    "name": "Vagrant Singing Girl",
+    "name": "Wandering Singer",
     "editor_name": "诺诺薇儿",
     "desc": "NonoWill",
     "type": 17,
     "category": 2,
     "icon": "hvildersistersingerfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 82,
@@ -807,7 +887,8 @@
     "type": 19,
     "category": 3,
     "icon": "iriafirewizzardfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 83,
@@ -817,7 +898,8 @@
     "type": 18,
     "category": 5,
     "icon": "iriapriestfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 2
   },
   {
     "id": 84,
@@ -827,7 +909,8 @@
     "type": 16,
     "category": 6,
     "icon": "hirialadymunafset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 2
   },
   {
     "id": 85,
@@ -837,7 +920,8 @@
     "type": 18,
     "category": 5,
     "icon": "hluciasilverwolffset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 86,
@@ -847,7 +931,8 @@
     "type": 18,
     "category": 5,
     "icon": "tarotagilem2set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 87,
@@ -857,7 +942,8 @@
     "type": 21,
     "category": 1,
     "icon": "tarotguardm2set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 88,
@@ -867,7 +953,8 @@
     "type": 18,
     "category": 5,
     "icon": "tarotshooterm3set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 89,
@@ -877,7 +964,8 @@
     "type": 20,
     "category": 4,
     "icon": "aaatarotguardmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 90,
@@ -887,7 +975,8 @@
     "type": 19,
     "category": 3,
     "icon": "tarotshooterm3set02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 91,
@@ -897,17 +986,19 @@
     "type": 19,
     "category": 3,
     "icon": "tarotagilem2set02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 92,
-    "name": "Spearman of the Guerrillas",
+    "name": "Guerrilla Fighter",
     "editor_name": "灰狼伊奇",
     "desc": "Iggy",
     "type": 20,
     "category": 4,
     "icon": "hvildergraywolfmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 96,
@@ -917,7 +1008,8 @@
     "type": 2,
     "category": 4,
     "icon": "hplayersisterlavierfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 100,
@@ -927,7 +1019,8 @@
     "type": 22,
     "category": 6,
     "icon": "tbossstarmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 101,
@@ -937,27 +1030,30 @@
     "type": 17,
     "category": 2,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 102,
-    "name": "Apostle - Power of Immortalization",
+    "name": "Apostle - Strength of Immortal",
     "editor_name": "塔罗生物·狮子防御型",
     "desc": "Tarot Creature - Lion Defender",
     "type": 21,
     "category": 1,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 103,
-    "name": "Apostle - Power of Wildness",
+    "name": "Apostle - Strength of Defiant",
     "editor_name": "塔罗生物·狮子战士型",
     "desc": "Tarot Creature - Lion Warrior",
     "type": 20,
     "category": 4,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 104,
@@ -967,7 +1063,8 @@
     "type": 18,
     "category": 5,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 105,
@@ -977,17 +1074,19 @@
     "type": 19,
     "category": 3,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 106,
-    "name": "Mask Assassin",
+    "name": "Masked Assassin",
     "editor_name": "面具刺客",
     "desc": "Col",
     "type": 17,
     "category": 2,
     "icon": "hbanditthemaskmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 107,
@@ -997,7 +1096,8 @@
     "type": 20,
     "category": 4,
     "icon": "monsterwolfset05",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 108,
@@ -1007,7 +1107,8 @@
     "type": 19,
     "category": 3,
     "icon": "monsterwolfset03",
-    "small_flag": "smallflag_monster"
+    "small_flag": "smallflag_monster",
+    "tendency_tag_id": 0
   },
   {
     "id": 109,
@@ -1017,7 +1118,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterwolfset02",
-    "small_flag": "smallflag_monster"
+    "small_flag": "smallflag_monster",
+    "tendency_tag_id": 0
   },
   {
     "id": 110,
@@ -1027,7 +1129,8 @@
     "type": 21,
     "category": 1,
     "icon": "papallancermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 111,
@@ -1037,7 +1140,8 @@
     "type": 19,
     "category": 3,
     "icon": "papaldarkwizzardfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 112,
@@ -1047,7 +1151,8 @@
     "type": 20,
     "category": 4,
     "icon": "knightslancerm2set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 113,
@@ -1057,7 +1162,8 @@
     "type": 18,
     "category": 5,
     "icon": "knightscrossbowmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 115,
@@ -1067,7 +1173,8 @@
     "type": 19,
     "category": 3,
     "icon": "darklightmajinmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 116,
@@ -1077,7 +1184,8 @@
     "type": 18,
     "category": 5,
     "icon": "iriadoctorfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 2
   },
   {
     "id": 117,
@@ -1087,7 +1195,8 @@
     "type": 18,
     "category": 5,
     "icon": "playermset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 118,
@@ -1097,7 +1206,8 @@
     "type": 18,
     "category": 5,
     "icon": "hplayerleaderadafset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 119,
@@ -1107,7 +1217,8 @@
     "type": 16,
     "category": 6,
     "icon": "npc11",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 120,
@@ -1117,7 +1228,8 @@
     "type": 21,
     "category": 1,
     "icon": "solomonguardianmset01",
-    "small_flag": "smallflag_guard"
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 1
   },
   {
     "id": 121,
@@ -1127,7 +1239,8 @@
     "type": 19,
     "category": 3,
     "icon": "aaatarotagilemset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 122,
@@ -1137,7 +1250,8 @@
     "type": 19,
     "category": 3,
     "icon": "hvilderwitchfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 123,
@@ -1147,7 +1261,8 @@
     "type": 20,
     "category": 4,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 124,
@@ -1157,7 +1272,8 @@
     "type": 17,
     "category": 2,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 125,
@@ -1167,7 +1283,8 @@
     "type": 21,
     "category": 1,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 126,
@@ -1177,7 +1294,8 @@
     "type": 18,
     "category": 5,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 127,
@@ -1187,17 +1305,19 @@
     "type": 20,
     "category": 4,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 128,
-    "name": "Seasoned Adventurer",
+    "name": "Marvelous Adventurer",
     "editor_name": "超级冒险家",
     "desc": "Cocoa",
     "type": 21,
     "category": 1,
     "icon": "hsolomonhalfbloodgirlfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 129,
@@ -1207,7 +1327,8 @@
     "type": 17,
     "category": 2,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 130,
@@ -1217,7 +1338,8 @@
     "type": 18,
     "category": 5,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 131,
@@ -1227,7 +1349,8 @@
     "type": 19,
     "category": 3,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 132,
@@ -1237,7 +1360,8 @@
     "type": 18,
     "category": 5,
     "icon": "",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 133,
@@ -1247,7 +1371,8 @@
     "type": 20,
     "category": 4,
     "icon": "papaljavelinfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 134,
@@ -1257,7 +1382,8 @@
     "type": 17,
     "category": 2,
     "icon": "papalnightwalkermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 135,
@@ -1267,7 +1393,8 @@
     "type": 21,
     "category": 1,
     "icon": "papalguardianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 136,
@@ -1277,7 +1404,8 @@
     "type": 18,
     "category": 5,
     "icon": "luciaarcherfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 137,
@@ -1287,7 +1415,8 @@
     "type": 20,
     "category": 4,
     "icon": "luciaberserkerm",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 138,
@@ -1297,7 +1426,8 @@
     "type": 18,
     "category": 5,
     "icon": "luciawolffset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 139,
@@ -1307,7 +1437,8 @@
     "type": 20,
     "category": 4,
     "icon": "solomonberserkermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 140,
@@ -1317,7 +1448,8 @@
     "type": 17,
     "category": 2,
     "icon": "solomonassassinfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 141,
@@ -1327,7 +1459,8 @@
     "type": 18,
     "category": 5,
     "icon": "solomondancerfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 142,
@@ -1337,7 +1470,8 @@
     "type": 19,
     "category": 3,
     "icon": "solomondarkwizzardfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 143,
@@ -1347,37 +1481,41 @@
     "type": 21,
     "category": 1,
     "icon": "solomonblademset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 1
   },
   {
     "id": 144,
-    "name": "Judge of Papal",
+    "name": "Papal Judge",
     "editor_name": "嘉西亚-审判者C",
     "desc": "Garcia",
     "type": 17,
     "category": 2,
     "icon": "hpapaljudgercfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 145,
-    "name": "Praetorian of The Hanged Men",
+    "name": "H.M. Praetorian",
     "editor_name": "双子哥",
     "desc": "",
     "type": 21,
     "category": 1,
     "icon": "hpolicetwinsmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 146,
-    "name": "Sniper of the Hanged Men",
+    "name": "H.M. Marksman",
     "editor_name": "双子妹",
     "desc": "",
     "type": 19,
     "category": 3,
     "icon": "hpolicetwinsfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 147,
@@ -1387,7 +1525,8 @@
     "type": 20,
     "category": 4,
     "icon": "luciabearmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 148,
@@ -1397,7 +1536,8 @@
     "type": 20,
     "category": 4,
     "icon": "hpapalcommandermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 149,
@@ -1407,7 +1547,8 @@
     "type": 18,
     "category": 5,
     "icon": "hknightsicemagefset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 150,
@@ -1417,17 +1558,19 @@
     "type": 18,
     "category": 5,
     "icon": "hluciasilverwolffset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 151,
-    "name": "Seeker Knight of the Union",
+    "name": "Assault Knight",
     "editor_name": "骑士团突击",
     "desc": "The Order Assault",
     "type": 17,
     "category": 2,
     "icon": "knightslongswordf2set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 152,
@@ -1437,7 +1580,8 @@
     "type": 20,
     "category": 4,
     "icon": "aaatarotagilemset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 153,
@@ -1447,7 +1591,8 @@
     "type": 21,
     "category": 1,
     "icon": "tarotagilemset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 154,
@@ -1457,7 +1602,8 @@
     "type": 22,
     "category": 6,
     "icon": "tbossstarmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 155,
@@ -1467,7 +1613,8 @@
     "type": 22,
     "category": 6,
     "icon": "tbossstarmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 156,
@@ -1477,7 +1624,8 @@
     "type": 19,
     "category": 3,
     "icon": "hpapalbishopfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 157,
@@ -1487,7 +1635,8 @@
     "type": 16,
     "category": 6,
     "icon": "npc10",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 158,
@@ -1497,7 +1646,8 @@
     "type": 16,
     "category": 6,
     "icon": "npc13",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 159,
@@ -1507,7 +1657,8 @@
     "type": 16,
     "category": 6,
     "icon": "npc33",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 160,
@@ -1517,7 +1668,8 @@
     "type": 16,
     "category": 6,
     "icon": "npc34",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 161,
@@ -1527,7 +1679,8 @@
     "type": 16,
     "category": 6,
     "icon": "npc29",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 162,
@@ -1537,7 +1690,8 @@
     "type": 23,
     "category": 6,
     "icon": "zpvparcher",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 163,
@@ -1547,7 +1701,8 @@
     "type": 17,
     "category": 2,
     "icon": "hvilderdancerfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 164,
@@ -1557,7 +1712,8 @@
     "type": 22,
     "category": 6,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 165,
@@ -1567,7 +1723,8 @@
     "type": 22,
     "category": 6,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 166,
@@ -1577,7 +1734,8 @@
     "type": 22,
     "category": 6,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 167,
@@ -1587,7 +1745,8 @@
     "type": 22,
     "category": 6,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 168,
@@ -1597,7 +1756,8 @@
     "type": 18,
     "category": 5,
     "icon": "hpapalprincemset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 169,
@@ -1607,7 +1767,8 @@
     "type": 16,
     "category": 6,
     "icon": "monsterhoodset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 170,
@@ -1617,7 +1778,8 @@
     "type": 23,
     "category": 6,
     "icon": "zpvpboomer",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 171,
@@ -1627,7 +1789,8 @@
     "type": 23,
     "category": 6,
     "icon": "zpvpnapper",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 172,
@@ -1637,17 +1800,19 @@
     "type": 23,
     "category": 6,
     "icon": "zpvpslower",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 173,
-    "name": "National Merchant of Elaman",
+    "name": "National Merchant",
     "editor_name": "埃拉曼国家商人",
     "desc": "",
     "type": 19,
     "category": 3,
     "icon": "hsolomonbusinessmanmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 174,
@@ -1657,7 +1822,8 @@
     "type": 19,
     "category": 3,
     "icon": "banditicewizzardfset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 175,
@@ -1667,7 +1833,8 @@
     "type": 17,
     "category": 2,
     "icon": "banditassassinm2set01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 176,
@@ -1677,17 +1844,19 @@
     "type": 18,
     "category": 5,
     "icon": "banditarcherm4set01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 177,
-    "name": "Outlaw Elite Axe and Shield Soldier",
+    "name": "Outlaw Elite Guard",
     "editor_name": "无法者精锐斧盾",
     "desc": "",
     "type": 21,
     "category": 1,
     "icon": "banditguardianm2set01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 178,
@@ -1697,17 +1866,19 @@
     "type": 19,
     "category": 3,
     "icon": "tarotshooterm2set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 179,
-    "name": "Bathhouse Guard",
+    "name": "Shadowic Scent",
     "editor_name": "浴场侍卫",
     "desc": "Hasna",
     "type": 17,
     "category": 2,
     "icon": "hsolomonblindgirlfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 180,
@@ -1717,17 +1888,19 @@
     "type": 18,
     "category": 5,
     "icon": "playermset01",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 181,
-    "name": "Parrot Man",
+    "name": "Enigmatic Vendor",
     "editor_name": "奇货商人",
     "desc": "",
     "type": 20,
     "category": 4,
     "icon": "hsolomonparrotgirlfset01",
-    "small_flag": "smallflag_guard"
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 0
   },
   {
     "id": 182,
@@ -1737,7 +1910,8 @@
     "type": 17,
     "category": 2,
     "icon": "solomonblademset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 183,
@@ -1747,7 +1921,8 @@
     "type": 20,
     "category": 4,
     "icon": "solomonblademset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 184,
@@ -1757,7 +1932,8 @@
     "type": 18,
     "category": 5,
     "icon": "iriapriestfset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 185,
@@ -1767,7 +1943,8 @@
     "type": 19,
     "category": 3,
     "icon": "knightsicewizzardfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 186,
@@ -1777,7 +1954,8 @@
     "type": 23,
     "category": 6,
     "icon": "zrevive",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 187,
@@ -1787,7 +1965,8 @@
     "type": 18,
     "category": 5,
     "icon": "luciaicewizzardfset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 188,
@@ -1795,9 +1974,10 @@
     "editor_name": "暗影卫队",
     "desc": "",
     "type": 19,
-    "category": 2,
+    "category": 3,
     "icon": "darklightassassinmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 189,
@@ -1807,7 +1987,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterwolfset04",
-    "small_flag": "smallflag_monster"
+    "small_flag": "smallflag_monster",
+    "tendency_tag_id": 0
   },
   {
     "id": 190,
@@ -1816,8 +1997,9 @@
     "desc": "",
     "type": 17,
     "category": 2,
-    "icon": "hplayersisterlavierfset01",
-    "small_flag": "smallflag_swordsman"
+    "icon": "hcrimsonlavierfset01",
+    "small_flag": "smallflag_swordsman",
+    "tendency_tag_id": 0
   },
   {
     "id": 191,
@@ -1827,7 +2009,8 @@
     "type": 20,
     "category": 4,
     "icon": "monsterboarmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 192,
@@ -1837,17 +2020,19 @@
     "type": 19,
     "category": 3,
     "icon": "monsterspidermset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 193,
-    "name": "Mobile Squad Combat Staff",
+    "name": "M.S. Combat Staff",
     "editor_name": "SP索菲亚",
     "desc": "",
     "type": 18,
     "category": 5,
-    "icon": "hpoliceleaderfset01",
-    "small_flag": "smallflag_swordsman"
+    "icon": "hcrimsonsophiafset01",
+    "small_flag": "smallflag_swordsman",
+    "tendency_tag_id": 2
   },
   {
     "id": 194,
@@ -1857,7 +2042,8 @@
     "type": 19,
     "category": 3,
     "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 0
   },
   {
     "id": 195,
@@ -1867,7 +2053,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterslimemset05",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 196,
@@ -1877,7 +2064,8 @@
     "type": 20,
     "category": 4,
     "icon": "monsterslimemset04",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 197,
@@ -1887,7 +2075,8 @@
     "type": 17,
     "category": 2,
     "icon": "monsterslimemset03",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 198,
@@ -1897,27 +2086,30 @@
     "type": 21,
     "category": 1,
     "icon": "monsterslimemset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 199,
     "name": "Mobile Squad Captain",
-    "editor_name": "学姐",
+    "editor_name": "机动队队长",
     "desc": "Senior",
     "type": 21,
     "category": 1,
-    "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "icon": "hcrimsondetectivefset01",
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 1
   },
   {
     "id": 200,
     "name": "Slaughter Maid",
-    "editor_name": "女仆",
-    "desc": "###profession\\desc\\200",
+    "editor_name": "杀戮侍女",
+    "desc": "",
     "type": 19,
     "category": 3,
-    "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "icon": "hcrimsonhousemaidkillerfset01",
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 0
   },
   {
     "id": 201,
@@ -1927,7 +2119,8 @@
     "type": 19,
     "category": 3,
     "icon": "monsterslimem2set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 202,
@@ -1937,7 +2130,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterslimem2set05",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 203,
@@ -1947,7 +2141,8 @@
     "type": 20,
     "category": 4,
     "icon": "monsterslimem2set04",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 204,
@@ -1957,7 +2152,8 @@
     "type": 17,
     "category": 2,
     "icon": "monsterslimem2set03",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 205,
@@ -1967,7 +2163,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterslimem2set02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 206,
@@ -1977,7 +2174,8 @@
     "type": 18,
     "category": 5,
     "icon": "npc26",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 207,
@@ -1986,8 +2184,9 @@
     "desc": "",
     "type": 19,
     "category": 3,
-    "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "icon": "hcrimsonmafialeaderfset01",
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 0
   },
   {
     "id": 208,
@@ -1997,7 +2196,8 @@
     "type": 19,
     "category": 3,
     "icon": "tarotshooterm3set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 209,
@@ -2006,8 +2206,9 @@
     "desc": "",
     "type": 19,
     "category": 3,
-    "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "icon": "crimsoncrossbowmset01",
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 0
   },
   {
     "id": 210,
@@ -2016,18 +2217,20 @@
     "desc": "",
     "type": 18,
     "category": 5,
-    "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "icon": "crimsonpriestfset01",
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 2
   },
   {
     "id": 211,
     "name": "King's Army General",
     "editor_name": "帕米娜",
-    "desc": "###profession\\desc\\211",
+    "desc": "",
     "type": 20,
     "category": 4,
-    "icon": "knightsguardianmset01",
-    "small_flag": "smallflag_guard"
+    "icon": "hcrimsongeneralfset01",
+    "small_flag": "smallflag_guard",
+    "tendency_tag_id": 1
   },
   {
     "id": 212,
@@ -2037,7 +2240,85 @@
     "type": 18,
     "category": 5,
     "icon": "banditassassinmmset01",
-    "small_flag": "smallflag_killer"
+    "small_flag": "smallflag_killer",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 213,
+    "name": "水鬼帮冰法师",
+    "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮冰法师·精英",
+    "desc": "",
+    "type": 18,
+    "category": 5,
+    "icon": "",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 214,
+    "name": "Loudmouth of the Dockers",
+    "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮大嗓门·精英",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "pirateberserkerfset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 215,
+    "name": "Axeman of the Dockers",
+    "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮巨斧兵",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "pirateberserkermset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 216,
+    "name": "Archer of the Dockers",
+    "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮弓兵",
+    "desc": "",
+    "type": 18,
+    "category": 5,
+    "icon": "piratearcherfset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 217,
+    "name": "Crossbowman of the Dockers",
+    "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮弩兵",
+    "desc": "",
+    "type": 18,
+    "category": 5,
+    "icon": "piratecrossbowmset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 218,
+    "name": "Shieldguard of the Dockers ",
+    "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮斧盾兵",
+    "desc": "",
+    "type": 21,
+    "category": 1,
+    "icon": "pirateguardianmset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 219,
+    "name": "Pikeman of the Dockers",
+    "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮长枪兵·精英",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "piratelancermset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 220,
@@ -2047,7 +2328,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterboarmset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 221,
@@ -2057,7 +2339,8 @@
     "type": 17,
     "category": 2,
     "icon": "monsterboarmset05",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 222,
@@ -2067,7 +2350,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterboarmset03",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 223,
@@ -2077,17 +2361,19 @@
     "type": 17,
     "category": 2,
     "icon": "monsterboarmset04",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 224,
     "name": "Spider",
-    "editor_name": "蜘蛛-黑职-红",
+    "editor_name": "蜘蛛-红职-红",
     "desc": "Spider",
-    "type": 19,
-    "category": 3,
+    "type": 20,
+    "category": 4,
     "icon": "monsterspidermset04",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 225,
@@ -2097,7 +2383,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterspidermset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 226,
@@ -2107,7 +2394,96 @@
     "type": 18,
     "category": 5,
     "icon": "monsterspidermset03",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 227,
+    "name": "纵火恶徒重装烧炭工",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒重装烧炭工·精英",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 228,
+    "name": "自爆大火球",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒自爆大火球",
+    "desc": "",
+    "type": 16,
+    "category": 6,
+    "icon": "",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 229,
+    "name": "Arsonist Militia Scythe-bearer",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒民兵镰刀手",
+    "desc": "",
+    "type": 17,
+    "category": 2,
+    "icon": "terroristbombermset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 230,
+    "name": "Arsonist Militia Shovel-bearer",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒民兵铲子兵",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "terroristlancermset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 231,
+    "name": "纵火恶徒民兵盾兵",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒民兵盾兵",
+    "desc": "",
+    "type": 21,
+    "category": 1,
+    "icon": "",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 232,
+    "name": "纵火恶徒民兵弩兵",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒民兵弩兵",
+    "desc": "",
+    "type": 18,
+    "category": 5,
+    "icon": "",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 233,
+    "name": "Arsonist Riot Charcoal Worker",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒暴动烧炭工",
+    "desc": "",
+    "type": 19,
+    "category": 3,
+    "icon": "terroristberserkermset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 234,
+    "name": "纵火恶徒工地火法",
+    "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒工地火法·精英",
+    "desc": "",
+    "type": 19,
+    "category": 3,
+    "icon": "",
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 235,
@@ -2117,7 +2493,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterfrogmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 236,
@@ -2127,7 +2504,8 @@
     "type": 20,
     "category": 4,
     "icon": "monsterscorpionmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 237,
@@ -2137,7 +2515,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterraccoonmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 238,
@@ -2147,7 +2526,8 @@
     "type": 22,
     "category": 1,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 239,
@@ -2157,7 +2537,8 @@
     "type": 22,
     "category": 2,
     "icon": "aaatbossmagicianmset01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 240,
@@ -2167,7 +2548,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterraccoonmset03",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 241,
@@ -2177,7 +2559,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterraccoonmset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 242,
@@ -2187,7 +2570,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterraccoonmset05",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 243,
@@ -2197,7 +2581,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterraccoonmset04",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 244,
@@ -2207,7 +2592,8 @@
     "type": 21,
     "category": 1,
     "icon": "monsterraccoonmset06",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 245,
@@ -2217,7 +2603,8 @@
     "type": 20,
     "category": 4,
     "icon": "monsterscorpionmset05",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 246,
@@ -2227,17 +2614,19 @@
     "type": 20,
     "category": 4,
     "icon": "monsterscorpionmset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 247,
     "name": "Scorpion",
-    "editor_name": "蝎子-战士-紫",
+    "editor_name": "蝎子-毁灭-紫",
     "desc": "",
-    "type": 20,
-    "category": 4,
+    "type": 19,
+    "category": 3,
     "icon": "monsterscorpionmset03",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 248,
@@ -2247,7 +2636,8 @@
     "type": 20,
     "category": 4,
     "icon": "monsterscorpionmset04",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 249,
@@ -2257,7 +2647,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterfrogmset05",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 250,
@@ -2267,7 +2658,8 @@
     "type": 19,
     "category": 3,
     "icon": "monsterfrogmset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 251,
@@ -2277,7 +2669,8 @@
     "type": 18,
     "category": 5,
     "icon": "monsterfrogmset06",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 252,
@@ -2287,7 +2680,8 @@
     "type": 19,
     "category": 3,
     "icon": "monsterfrogmset04",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 253,
@@ -2297,7 +2691,8 @@
     "type": 19,
     "category": 3,
     "icon": "monsterfrogmset03",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 254,
@@ -2307,7 +2702,8 @@
     "type": 19,
     "category": 3,
     "icon": "darklightdarkwizzardfset02",
-    "small_flag": "smallflag_warlock"
+    "small_flag": "smallflag_warlock",
+    "tendency_tag_id": 0
   },
   {
     "id": 255,
@@ -2317,7 +2713,19 @@
     "type": 19,
     "category": 3,
     "icon": "solomondarkwizzardfset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 256,
+    "name": "Calamity XVII \"The Star\" Clone",
+    "editor_name": "塔罗生物·星之塔罗 Clone",
+    "desc": "",
+    "type": 22,
+    "category": 6,
+    "icon": "tbossstarmset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 257,
@@ -2327,7 +2735,8 @@
     "type": 22,
     "category": 6,
     "icon": "tbossstarmset02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 258,
@@ -2337,7 +2746,8 @@
     "type": 20,
     "category": 4,
     "icon": "tarotshooterm3set01",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
   },
   {
     "id": 259,
@@ -2347,6 +2757,238 @@
     "type": 20,
     "category": 4,
     "icon": "tarotshooterm3set02",
-    "small_flag": ""
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 260,
+    "name": "Nergal",
+    "editor_name": "npc41",
+    "desc": "Commoner",
+    "type": 16,
+    "category": 6,
+    "icon": "npc41",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 261,
+    "name": "Nungal",
+    "editor_name": "npc42",
+    "desc": "Commoner",
+    "type": 16,
+    "category": 6,
+    "icon": "npc42",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 262,
+    "name": "Head of Port Authority",
+    "editor_name": "npc43",
+    "desc": "Commoner",
+    "type": 16,
+    "category": 6,
+    "icon": "npc43",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 263,
+    "name": "Head of City Watch",
+    "editor_name": "npc44",
+    "desc": "Commoner",
+    "type": 16,
+    "category": 6,
+    "icon": "npc44",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 264,
+    "name": "Little girl",
+    "editor_name": "npc36",
+    "desc": "Commoner",
+    "type": 16,
+    "category": 6,
+    "icon": "npc36",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 265,
+    "name": "Little Boy",
+    "editor_name": "npc37",
+    "desc": "Commoner",
+    "type": 16,
+    "category": 6,
+    "icon": "npc37",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 266,
+    "name": "Special Little Girl",
+    "editor_name": "npc35",
+    "desc": "Commoner",
+    "type": 16,
+    "category": 6,
+    "icon": "npc35",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 267,
+    "name": "Spear of Iria Axeman",
+    "editor_name": "私兵巨斧",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "crimsonberserkermset01",
+    "small_flag": "smallflag_berserker",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 268,
+    "name": "Masked Person",
+    "editor_name": "蒙面人-灰色",
+    "desc": "",
+    "type": 17,
+    "category": 2,
+    "icon": "crimsonassassinm4set01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 269,
+    "name": "Masked Person",
+    "editor_name": "蒙面人-蓝色",
+    "desc": "",
+    "type": 17,
+    "category": 2,
+    "icon": "crimsonassassinm4set02",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 270,
+    "name": "Masked Person",
+    "editor_name": "蒙面人-褐色",
+    "desc": "",
+    "type": 17,
+    "category": 2,
+    "icon": "crimsonassassinm4set03",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 271,
+    "name": "Finance Minister",
+    "editor_name": "柯瓦雷（假）",
+    "desc": "",
+    "type": 16,
+    "category": 6,
+    "icon": "hcrimsonsfathermset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 273,
+    "name": "Finance Minister",
+    "editor_name": "柯瓦雷（真）",
+    "desc": "",
+    "type": 19,
+    "category": 3,
+    "icon": "hcrimsonsfathermset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 274,
+    "name": "Scorpion",
+    "editor_name": "蝎子-守望-白",
+    "desc": "",
+    "type": 18,
+    "category": 5,
+    "icon": "monsterscorpionmset05",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 275,
+    "name": "Scorpion",
+    "editor_name": "蝎子-防御- 绿",
+    "desc": "",
+    "type": 21,
+    "category": 1,
+    "icon": "monsterscorpionmset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 276,
+    "name": "Nest",
+    "editor_name": "敌用-树桩（虫巢穴）暗",
+    "desc": "",
+    "type": 19,
+    "category": 3,
+    "icon": "zhide",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 277,
+    "name": "Nest",
+    "editor_name": "敌用-树桩（虫巢穴）红",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "zhide",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 278,
+    "name": "Thief",
+    "editor_name": "怪盗-红职",
+    "desc": "",
+    "type": 20,
+    "category": 4,
+    "icon": "crimsonassassinm4set02",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 279,
+    "name": "Thief",
+    "editor_name": "怪盗-绿职",
+    "desc": "",
+    "type": 21,
+    "category": 1,
+    "icon": "crimsonassassinm4set01",
+    "small_flag": "",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 280,
+    "name": "Non-class Divine Storm Axe",
+    "editor_name": "无职业的风暴神斧",
+    "desc": "Wields a waraxe as weapon and wears no protection except a pair of gauntlets.\nThese mercenaries are fierce in battle. Their waraxes can launch powerful attacks capable of shattering most shields and armor.",
+    "type": 16,
+    "category": 6,
+    "icon": "mercenaryberserkerfset01",
+    "small_flag": "smallflag_berserker",
+    "tendency_tag_id": 0
+  },
+  {
+    "id": 281,
+    "name": "传奇魔女",
+    "editor_name": "大魔女露维塔",
+    "desc": "",
+    "type": 19,
+    "category": 3,
+    "icon": "hcrimsongeneralfset01",
+    "small_flag": "",
+    "tendency_tag_id": 0
   }
 ]

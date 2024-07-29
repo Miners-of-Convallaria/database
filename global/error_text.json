@@ -1,55 +1,5 @@
 [
   {
-    "id": 101,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 102,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 103,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 104,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 201,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 202,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 203,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 204,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 205,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
-    "id": 206,
-    "name": "登录失败",
-    "text": "Login failed"
-  },
-  {
     "id": 5001,
     "name": "断线重连失败",
     "text": "Reconnection failed"
@@ -80,16 +30,6 @@
     "text": "Room does not exist"
   },
   {
-    "id": 11501,
-    "name": "房间不存在",
-    "text": "Room does not exist"
-  },
-  {
-    "id": 11502,
-    "name": "房间状态不对",
-    "text": "Incorrect room status"
-  },
-  {
     "id": 11701,
     "name": "房间不存在",
     "text": "Room does not exist"
@@ -98,16 +38,6 @@
     "id": 11702,
     "name": "房间状态不对",
     "text": "Abnormal room status"
-  },
-  {
-    "id": 11801,
-    "name": "房间不存在",
-    "text": "Room does not exist"
-  },
-  {
-    "id": 11805,
-    "name": "已经准备好",
-    "text": "Already prepared"
   },
   {
     "id": 12101,
@@ -128,11 +58,6 @@
     "id": 12202,
     "name": "房间状态不对",
     "text": "Abnormal room status"
-  },
-  {
-    "id": 12206,
-    "name": "战斗已结束",
-    "text": "Battle has ended"
   },
   {
     "id": 12301,
@@ -158,16 +83,6 @@
     "id": 1000807,
     "name": "新昵称与旧昵称相同",
     "text": "New nickname is the Same as old nickname"
-  },
-  {
-    "id": 1000904,
-    "name": "伙伴昵称违规错误",
-    "text": "Nickname violation error"
-  },
-  {
-    "id": 1000907,
-    "name": "新伙伴昵称与旧伙伴昵称相同",
-    "text": "New nickname is the same as the old one"
   },
   {
     "id": 1001801,
@@ -285,49 +200,14 @@
     "text": "Abnormal room status"
   },
   {
-    "id": 1017201,
-    "name": "当前正忙，请稍后再试",
-    "text": "Currently busy, please try again later"
-  },
-  {
     "id": 1050501,
     "name": "回溯次数不足",
-    "text": "Not enough Backtrack Counts"
+    "text": "Insufficient backtracking"
   },
   {
-    "id": 1050601,
-    "name": "录像数据不存在",
-    "text": "Video data does not exist"
-  },
-  {
-    "id": 1051001,
-    "name": "上传失败",
-    "text": "Upload failed"
-  },
-  {
-    "id": 1051002,
-    "name": "BattleIndex错误",
-    "text": "BattleIndex error"
-  },
-  {
-    "id": 1051201,
-    "name": "上传失败",
-    "text": "Upload failed"
-  },
-  {
-    "id": 1051202,
-    "name": "BattleIndex错误",
-    "text": "BattleIndex error"
-  },
-  {
-    "id": 1051203,
-    "name": "参数错误",
-    "text": "Parameter error"
-  },
-  {
-    "id": 1051301,
-    "name": "BattleIndex错误",
-    "text": "BattleIndex error"
+    "id": 1051204,
+    "name": "BattleIndex已经存在",
+    "text": "BattleIndex already exists"
   },
   {
     "id": 1052101,
@@ -355,11 +235,6 @@
     "text": "Abnormal room status"
   },
   {
-    "id": 1052401,
-    "name": "回溯次数不足",
-    "text": "Insufficient backtracking"
-  },
-  {
     "id": 1052403,
     "name": "房间不存在",
     "text": "Room does not exist"
@@ -370,9 +245,19 @@
     "text": "Abnormal room status"
   },
   {
+    "id": 1066202,
+    "name": "没有可装备的装备",
+    "text": "No wearable gear"
+  },
+  {
     "id": 1140702,
     "name": "竞技场录像数据不存在",
     "text": "Battle record generating. Please try again later"
+  },
+  {
+    "id": 1180406,
+    "name": "回归邀请活动邀请码错误",
+    "text": "Invalid invitation code"
   },
   {
     "id": 1200305,
@@ -440,19 +325,9 @@
     "text": "The target is offline"
   },
   {
-    "id": 1221505,
-    "name": "玩家正忙，请稍后再试",
-    "text": "Player is busy, please try again later"
-  },
-  {
     "id": 1221508,
     "name": "已处于切磋状态中",
     "text": "Already in a Sparring state"
-  },
-  {
-    "id": 1221509,
-    "name": "该玩家拒绝申请",
-    "text": "The player has refused the application"
   },
   {
     "id": 1221510,
@@ -510,6 +385,11 @@
     "text": "You have applied. Please wait for approval"
   },
   {
+    "id": 1230208,
+    "name": "公会名重名",
+    "text": "The Guild name has been taken"
+  },
+  {
     "id": 1230401,
     "name": "关键词不能为空",
     "text": "Keywords cannot be empty"
@@ -550,6 +430,16 @@
     "text": "Someone has already initiated Impeach"
   },
   {
+    "id": 1290110,
+    "name": "不在开放时间",
+    "text": "Unavailable Now"
+  },
+  {
+    "id": 1291008,
+    "name": "等级不足",
+    "text": "Insufficient levels"
+  },
+  {
     "id": 5000001,
     "name": "账号暂被冻结，请稍后再试",
     "text": "Account temporarily frozen, please try again later"
@@ -582,12 +472,12 @@
   {
     "id": 5000098,
     "name": "服务不可用",
-    "text": "Whoops! Service unavailable.\nThis feature is still in the Beryl's workshop. Stay tuned!"
+    "text": "Whoops! Service unavailable.\nThis feature is still in Beryl's workshop.\nStay tuned!"
   },
   {
     "id": 5000099,
     "name": "服务不可用",
-    "text": "Whoops! Service unavailable.\nThis feature is still in the Beryl's workshop. Stay tuned!"
+    "text": "Whoops! Service unavailable.\nThis feature is still in Beryl's workshop.\nStay tuned!"
   },
   {
     "id": 5000242,

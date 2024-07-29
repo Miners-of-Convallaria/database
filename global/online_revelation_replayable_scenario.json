@@ -326,7 +326,7 @@
   {
     "id": 233,
     "type": 3,
-    "name": "Penetration",
+    "name": "Impalement",
     "sort_id": 12106233,
     "stage_name": "Journey of the Fool 11-10",
     "scenario_type": 1,
@@ -520,5 +520,41 @@
     "stage_name": "The Fool's Journey 12-18",
     "scenario_type": 1,
     "scenario_id": 311
+  },
+  {
+    "id": 258,
+    "type": 3,
+    "name": "Dance & Mask",
+    "sort_id": 14016258,
+    "stage_name": "The Fool's Journey 13-1",
+    "scenario_type": 1,
+    "scenario_id": 301
+  },
+  {
+    "id": 259,
+    "type": 3,
+    "name": "Boundless Night",
+    "sort_id": 14066259,
+    "stage_name": "The Fool's Journey 13-6",
+    "scenario_type": 1,
+    "scenario_id": 302
+  },
+  {
+    "id": 260,
+    "type": 3,
+    "name": "Lilina",
+    "sort_id": 14126260,
+    "stage_name": "The Fool's Journey 13-12",
+    "scenario_type": 1,
+    "scenario_id": 304
+  },
+  {
+    "id": 261,
+    "type": 3,
+    "name": "Finale Moment",
+    "sort_id": 14186261,
+    "stage_name": "The Fool's Journey 13-18",
+    "scenario_type": 1,
+    "scenario_id": 303
   }
 ]

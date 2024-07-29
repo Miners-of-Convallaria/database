@@ -713,7 +713,7 @@
   {
     "id": 85,
     "m_sandbox_specialitys": [89],
-    "name": "Power of Guardianship",
+    "name": "Power of Guardian",
     "editor_name": "信物用-通用-守护之力",
     "desc": "Get global buff: In the battle, all characters Max HP + 10%",
     "sandbox_speciality_ids": "89",
@@ -730,20 +730,20 @@
   },
   {
     "id": 87,
-    "m_sandbox_specialitys": [86, 81, 97, 87, 138, 137, 10115, 10118, 10119, 10121, 10122, 10123, 10134, 20028, 30119],
+    "m_sandbox_specialitys": [86, 81, 97, 87, 138, 137, 10115, 10118, 10119, 10121, 10122, 10123, 10134, 20028, 30119, 30149],
     "name": "Power of Rescue",
     "editor_name": "信物用-长夜的救援-救援之力",
     "desc": "Unlock the new event and get support of the Union more easily when facing the threat of Darklight",
-    "sandbox_speciality_ids": "86|81|97|87|138|137|10115|10118|10119|10121|10122|10123|10134|20028|30119",
+    "sandbox_speciality_ids": "86|81|97|87|138|137|10115|10118|10119|10121|10122|10123|10134|20028|30119|30149",
     "is_show": true
   },
   {
     "id": 88,
-    "m_sandbox_specialitys": [86, 80, 97, 87, 138, 137, 10115, 10118, 10119, 10125, 10126, 10128, 10129, 10130, 10134, 20030, 30115],
+    "m_sandbox_specialitys": [86, 80, 97, 87, 138, 137, 10115, 10118, 10119, 10125, 10126, 10128, 10129, 10130, 10134, 20030, 30115, 30149],
     "name": "Karma of Gloria",
     "editor_name": "信物用-骑士的挽歌-歌洛莉亚的羁绊",
     "desc": "Unlock the new event to estabish the karma more easily with Gloria",
-    "sandbox_speciality_ids": "86|80|97|87|138|137|10115|10118|10119|10125|10126|10128|10129|10130|10134|20030|30115",
+    "sandbox_speciality_ids": "86|80|97|87|138|137|10115|10118|10119|10125|10126|10128|10129|10130|10134|20030|30115|30149",
     "is_show": true
   },
   {
@@ -820,11 +820,11 @@
   },
   {
     "id": 99,
-    "m_sandbox_specialitys": [7, 6, 137, 138, 86, 97, 87, 78, 10115, 10116, 10117],
+    "m_sandbox_specialitys": [7, 6, 137, 138, 86, 97, 87, 78, 10115, 10116, 10117, 30149],
     "name": "Set Out Again",
     "editor_name": "信物用-惨剧的见证者-再度启程",
     "desc": "Start a new story, and this time you will go to...",
-    "sandbox_speciality_ids": "7|6|137|138|86|97|87|78|10115|10116|10117",
+    "sandbox_speciality_ids": "7|6|137|138|86|97|87|78|10115|10116|10117|30149",
     "is_show": true
   },
   {
@@ -910,47 +910,65 @@
   },
   {
     "id": 109,
-    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10120, 10121, 10122, 10124, 10133, 10136, 20028, 30116],
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10120, 10121, 10122, 10124, 10133, 10136, 20028, 30116, 30149],
     "name": "Power of Rescue",
     "editor_name": "信物用-燃烧的伊利亚旗帜-救援之力",
     "desc": "Unlock the new event and get support of the King's army more easily when facing the threat of Darklight",
-    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10120|10121|10122|10124|10133|10136|20028|30116",
+    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10120|10121|10122|10124|10133|10136|20028|30116|30149",
     "is_show": true
   },
   {
     "id": 110,
-    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10120, 10125, 10127, 10128, 10129, 10131, 10135, 10137, 20030, 30116],
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10120, 10125, 10127, 10128, 10129, 10131, 10135, 10137, 20030, 30116, 30149],
     "name": "Trust of Dantalion",
     "editor_name": "信物用-倒吊人的徽记-救援之力",
     "desc": "Unlock the new event to gain more special trust of Dantalion",
-    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10120|10125|10127|10128|10129|10131|10135|10137|20030|30116",
+    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10120|10125|10127|10128|10129|10131|10135|10137|20030|30116|30149",
     "is_show": true
   },
   {
     "id": 111,
-    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10121, 10122, 20027, 20028, 30117, 30123, 30122, 30125],
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10121, 10122, 20027, 20028, 30117, 30123, 30122, 30125, 30149],
     "name": "Power of Rescue",
     "editor_name": "信物用-法皇国表线信物特性",
     "desc": "Unlock the new event and get support of the Papal States more easily when facing the threat of the Darklight",
-    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10121|10122|20027|20028|30117|30123|30122|30125",
+    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10121|10122|20027|20028|30117|30123|30122|30125|30149",
     "is_show": true
   },
   {
     "id": 112,
-    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10125, 10128, 10129, 20024, 20030, 30117, 30124, 30126, 30121, 30122],
+    "m_sandbox_specialitys": [86, 97, 87, 138, 137, 10115, 10118, 10125, 10128, 10129, 20024, 20030, 30117, 30124, 30126, 30121, 30122, 30149],
     "name": "Will of Samantha",
     "editor_name": "信物用-法皇国里线信物特性",
     "desc": "Unlock the new event to gain the trust of people more easily",
-    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10125|10128|10129|20024|20030|30117|30124|30126|30121|30122",
+    "sandbox_speciality_ids": "86|97|87|138|137|10115|10118|10125|10128|10129|20024|20030|30117|30124|30126|30121|30122|30149",
     "is_show": true
   },
   {
     "id": 113,
-    "m_sandbox_specialitys": [137, 30131, 30132, 30133, 30128, 30129, 30130, 30134],
+    "m_sandbox_specialitys": [137, 30131, 30132, 30133, 30128, 30129, 30130, 30134, 30149],
     "name": "The market is a battlefield.",
     "editor_name": "信物用-埃拉曼线信物特性",
     "desc": "The story it initiates will make you the chairman of Convallaria Trading Post, embarking on a new journey of commerce in Iria.",
-    "sandbox_speciality_ids": "137|30131|30132|30133|30128|30129|30130|30134",
+    "sandbox_speciality_ids": "137|30131|30132|30133|30128|30129|30130|30134|30149",
+    "is_show": true
+  },
+  {
+    "id": 114,
+    "m_sandbox_specialitys": [30138, 30139],
+    "name": "Night Crimson",
+    "editor_name": "信物用-前传线剧情模式基础",
+    "desc": "",
+    "sandbox_speciality_ids": "30138|30139",
+    "is_show": true
+  },
+  {
+    "id": 116,
+    "m_sandbox_specialitys": [146],
+    "name": "网游助战",
+    "editor_name": "网游助战",
+    "desc": "",
+    "sandbox_speciality_ids": "146",
     "is_show": true
   }
 ]

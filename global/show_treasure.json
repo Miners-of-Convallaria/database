@@ -4484,8 +4484,8 @@
   {
     "id": 499,
     "name": "随机主武器SSR_无",
-    "treasure_type": 126,
-    "param0": 29,
+    "treasure_type": 137,
+    "param0": 172,
     "param1": 0,
     "sparam": "",
     "count_tag": 1
@@ -4502,8 +4502,8 @@
   {
     "id": 501,
     "name": "随机主武器SSR_少量",
-    "treasure_type": 126,
-    "param0": 29,
+    "treasure_type": 137,
+    "param0": 172,
     "param1": 0,
     "sparam": "",
     "count_tag": 3
@@ -7238,8 +7238,8 @@
   {
     "id": 910,
     "name": "随机主武器SSR_罕见",
-    "treasure_type": 126,
-    "param0": 29,
+    "treasure_type": 137,
+    "param0": 172,
     "param1": 0,
     "sparam": "",
     "count_tag": 10
@@ -7247,8 +7247,8 @@
   {
     "id": 911,
     "name": "随机主武器SSR_小概率",
-    "treasure_type": 126,
-    "param0": 29,
+    "treasure_type": 137,
+    "param0": 172,
     "param1": 0,
     "sparam": "",
     "count_tag": 7
@@ -7256,8 +7256,8 @@
   {
     "id": 912,
     "name": "随机主武器SSR_中概率",
-    "treasure_type": 126,
-    "param0": 29,
+    "treasure_type": 137,
+    "param0": 172,
     "param1": 0,
     "sparam": "",
     "count_tag": 8
@@ -7265,8 +7265,8 @@
   {
     "id": 913,
     "name": "随机主武器SSR_大概率",
-    "treasure_type": 126,
-    "param0": 29,
+    "treasure_type": 137,
+    "param0": 172,
     "param1": 0,
     "sparam": "",
     "count_tag": 9
@@ -7310,8 +7310,8 @@
   {
     "id": 918,
     "name": "随机主武器SSR_2",
-    "treasure_type": 126,
-    "param0": 29,
+    "treasure_type": 137,
+    "param0": 172,
     "param1": 2,
     "sparam": "",
     "count_tag": 6
@@ -7621,5 +7621,248 @@
     "param1": 0,
     "sparam": "",
     "count_tag": 5
+  },
+  {
+    "id": 953,
+    "name": "大型活动3.5期-积分*50-剧情",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 50,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 954,
+    "name": "大型活动3.5期-积分*100-主线",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 100,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 955,
+    "name": "大型活动3.5期-积分*100-解谜",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 100,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 956,
+    "name": "大型活动3.5期-积分*150-挑战",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 150,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 957,
+    "name": "大型活动3.5期-积分1*300",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 300,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 958,
+    "name": "大型活动3.5期-积分1*600",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 600,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 959,
+    "name": "大型活动3.5期-积分2*315",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 315,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 960,
+    "name": "大型活动3.5期-积分2*630",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 630,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 961,
+    "name": "大型活动3.5期-积分3*330",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 330,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 962,
+    "name": "大型活动3.5期-积分3*660",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 660,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 963,
+    "name": "大型活动3.5期-积分4*345",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 345,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 964,
+    "name": "大型活动3.5期-积分4*690",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 690,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 965,
+    "name": "大型活动3.5期-积分5*360",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 360,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 966,
+    "name": "大型活动3.5期-积分5*720",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 720,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 967,
+    "name": "大型活动3.5期-积分6*375",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 375,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 968,
+    "name": "大型活动3.5期-积分6*750",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 750,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 969,
+    "name": "大型活动3.5期-积分7*390",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 390,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 970,
+    "name": "大型活动3.5期-积分7*780",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 780,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 971,
+    "name": "大型活动3.5期-积分8*405",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 405,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 972,
+    "name": "大型活动3.5期-积分8*810",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 810,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 973,
+    "name": "大型活动3.5期-积分9*450",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 450,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 974,
+    "name": "大型活动3.5期-积分9*900",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 900,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 975,
+    "name": "大型活动3.5期-积分10*490",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 490,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 976,
+    "name": "大型活动3.5期-积分10*980",
+    "treasure_type": 148,
+    "param0": 10,
+    "param1": 980,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 999,
+    "name": "钻石_60",
+    "treasure_type": 102,
+    "param0": 0,
+    "param1": 60,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 1001,
+    "name": "中型活动1期-积分7*220",
+    "treasure_type": 148,
+    "param0": 3,
+    "param1": 220,
+    "sparam": "",
+    "count_tag": 6
+  },
+  {
+    "id": 1002,
+    "name": "中型活动1期-积分7*440",
+    "treasure_type": 148,
+    "param0": 3,
+    "param1": 440,
+    "sparam": "",
+    "count_tag": 6
   }
 ]

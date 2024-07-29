@@ -4,7 +4,7 @@
     "m_system_redirects": [2501],
     "name": "Radiant Ore",
     "editor_name": "普通光辉铸铁",
-    "desc": "Common material for a gear breakthrough.",
+    "desc": "Common material for gear breakthroughs.",
     "rarity": 1,
     "system_redirect_ids": "2501",
     "icon": "weapon_break_material"
@@ -14,7 +14,7 @@
     "m_system_redirects": [2501],
     "name": "Rare Radiant Ore",
     "editor_name": "稀有光辉铸铁",
-    "desc": "Rare material for a gear breakthrough.",
+    "desc": "Rare material for gear breakthroughs.",
     "rarity": 2,
     "system_redirect_ids": "2501",
     "icon": "weapon_break_material"
@@ -24,7 +24,7 @@
     "m_system_redirects": [2501],
     "name": "Epic Radiant Ore",
     "editor_name": "史诗光辉铸铁",
-    "desc": "Epic material for a gear breakthrough.",
+    "desc": "Epic material for gear breakthroughs.",
     "rarity": 3,
     "system_redirect_ids": "2501",
     "icon": "weapon_break_material"
@@ -34,7 +34,7 @@
     "m_system_redirects": [2501],
     "name": "Legendary Radiant Ore",
     "editor_name": "传说光辉铸铁",
-    "desc": "Legendary material for a gear breakthrough.",
+    "desc": "Legendary material for gear breakthroughs.",
     "rarity": 4,
     "system_redirect_ids": "2501",
     "icon": "weapon_break_material"

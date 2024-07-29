@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Adversity - TOP ?",
     "editor_name": "【国服S1】周常本前10名",
-    "desc": "A time-limited title awarded to the top 10 players in the [Tower of Adversity[ Deep Rankings. Starting from the end of the Subjugation Period, 14 days in total.",
+    "desc": "A time-limited title awarded to the top 10 players in the [Tower of Adversity] Deep Rankings. Starting from the end of the Subjugation Period, 14 days in total.",
     "source_desc": "Acquired from [Tower of Adversity] ranking rewards",
     "delivery_system_id": 95,
     "is_time_limit": true,
@@ -231,7 +231,7 @@
     "id": 15,
     "name": "Adversity - Champion",
     "editor_name": "【国服S3】周常本前10名 ",
-    "desc": "A time-limited title awarded to the top 10 players in the [Tower of Adversity[ Deep Rankings. Starting from the end of the Subjugation Period, 14 days in total.",
+    "desc": "A time-limited title awarded to the top 10 players in the [Tower of Adversity] Deep Rankings. Starting from the end of the Subjugation Period, 14 days in total.",
     "source_desc": "Acquired from [Tower of Adversity] ranking rewards",
     "delivery_system_id": 95,
     "is_time_limit": true,
@@ -282,6 +282,25 @@
     "icon": "material_onlinetitle",
     "bg": "designation_bg07",
     "prefab": "tmpDesignation05",
+    "display_end_at": 0
+  },
+  {
+    "id": 18,
+    "name": "Crimson Synesthesia",
+    "editor_name": "拼图活动称号",
+    "desc": "Participate in the [Crimson Enigma] event and complete the decoding quests to obtain.",
+    "source_desc": "Participate in the [Crimson Enigma] event and complete the decoding quests to obtain.",
+    "delivery_system_id": 0,
+    "is_time_limit": false,
+    "duration": 0,
+    "is_get_display": true,
+    "display_at": 1708480800,
+    "rarity": 3,
+    "text": "",
+    "specific_text": "",
+    "icon": "material_onlinetitle",
+    "bg": "designation_bg08",
+    "prefab": "tmpDesignation",
     "display_end_at": 0
   }
 ]

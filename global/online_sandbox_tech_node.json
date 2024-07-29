@@ -108,7 +108,7 @@
     "id": 6,
     "m_sandbox_specialitys": [10006],
     "idonline_sandbox_tech_area": 4,
-    "name": "\"Phew, that was close\"",
+    "name": "Phew, that was close",
     "editor_name": "CRST-C11 微光结晶: 再生活力",
     "x": 3,
     "y": 11,
@@ -120,7 +120,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst22",
-    "crst_icon": "minor_arcana_star044",
+    "crst_icon": "minor_arcana_grail030",
     "prev_crst_id": 0,
     "crst_group": 3,
     "crst_level": 1
@@ -582,7 +582,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst16",
-    "crst_icon": "minor_arcana_star082",
+    "crst_icon": "minor_arcana_star038",
     "prev_crst_id": 108,
     "crst_group": 26,
     "crst_level": 2
@@ -918,7 +918,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst18",
-    "crst_icon": "minor_arcana_star081",
+    "crst_icon": "minor_arcana_star086",
     "prev_crst_id": 0,
     "crst_group": 14,
     "crst_level": 1
@@ -1170,7 +1170,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst24",
-    "crst_icon": "minor_arcana_star038",
+    "crst_icon": "minor_arcana_star044",
     "prev_crst_id": 0,
     "crst_group": 17,
     "crst_level": 1
@@ -1632,7 +1632,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst20",
-    "crst_icon": "minor_arcana_grail030",
+    "crst_icon": "minor_arcana_star056",
     "prev_crst_id": 0,
     "crst_group": 20,
     "crst_level": 1
@@ -1695,7 +1695,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst16",
-    "crst_icon": "minor_arcana_star082",
+    "crst_icon": "minor_arcana_star038",
     "prev_crst_id": 94,
     "crst_group": 26,
     "crst_level": 4
@@ -1716,7 +1716,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst17",
-    "crst_icon": "minor_arcana_star086",
+    "crst_icon": "minor_arcana_star082",
     "prev_crst_id": 0,
     "crst_group": 21,
     "crst_level": 1
@@ -1800,7 +1800,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst19",
-    "crst_icon": "minor_arcana_star056",
+    "crst_icon": "minor_arcana_star081",
     "prev_crst_id": 0,
     "crst_group": 22,
     "crst_level": 1
@@ -1968,7 +1968,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst16",
-    "crst_icon": "minor_arcana_star082",
+    "crst_icon": "minor_arcana_star038",
     "prev_crst_id": 28,
     "crst_group": 26,
     "crst_level": 3
@@ -2262,7 +2262,7 @@
     "feature_type": 3,
     "content_type": 1,
     "icon": "sandboxspeciality_crst16",
-    "crst_icon": "minor_arcana_star082",
+    "crst_icon": "minor_arcana_star038",
     "prev_crst_id": 0,
     "crst_group": 26,
     "crst_level": 1

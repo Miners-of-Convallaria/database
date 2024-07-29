@@ -211,7 +211,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Common Tailored Training",
     "editor_name": "AT2-N级训练被动随机",
-    "desc": "Gains a random Common tailored training. Good luck.",
+    "desc": "Obtain a random Common tailored training. Good luck.",
     "rarity": 1,
     "icon": "material_treasure_faction_skill_chest1"
   },
@@ -220,7 +220,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Rare Tailored Training",
     "editor_name": "AT2-R级训练被动随机",
-    "desc": "Gains a random Rare tailored training. Good luck.",
+    "desc": "Obtain a random Rare tailored training. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_faction_skill_chest2"
   },
@@ -229,7 +229,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Epic Tailored Training",
     "editor_name": "AT2-SR级训练被动随机",
-    "desc": "Gains a random Epic tailored training. Good luck.",
+    "desc": "Obtain a random Epic tailored training. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_faction_skill_chest3"
   },
@@ -238,7 +238,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Legendary Tailored Training",
     "editor_name": "AT2-SSR级训练被动随机",
-    "desc": "Gains a random Legendary tailored training. Good luck.",
+    "desc": "Obtain a random Legendary tailored training. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_faction_skill_chest4"
   },
@@ -247,7 +247,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Common Gear",
     "editor_name": "AT2-N级武器奖励随机",
-    "desc": "Gains a random Common weapon or trinket. Good luck.",
+    "desc": "Obtain a random Common weapon or trinket. Good luck.",
     "rarity": 1,
     "icon": "material_treasure_weapon_chest1"
   },
@@ -256,7 +256,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Rare Gear",
     "editor_name": "AT2-R级武器奖励随机",
-    "desc": "Gains a random Rare weapon or trinket. Good luck.",
+    "desc": "Obtain a random Rare weapon or trinket. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_weapon_chest2"
   },
@@ -328,7 +328,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Legendary Weapon",
     "editor_name": "CB1-SSR级武器随机",
-    "desc": "Gains a random Legendary weapon. Good luck.",
+    "desc": "Obtain a random Legendary weapon. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_weapon_chest4"
   },
@@ -337,7 +337,7 @@
     "m_treasure_random_chest_bonuss": [],
     "name": "Legendary Gear",
     "editor_name": "CB1-SSR级装备随机",
-    "desc": "Gains a random Legendary weapon or trinket. Good luck.",
+    "desc": "Obtain a random Legendary weapon or trinket. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_weapon_chest4"
   },
@@ -394,5 +394,14 @@
     "desc": "You can receive a random Epic forging blueprint. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_blueprint_chest3"
+  },
+  {
+    "id": 64,
+    "m_treasure_random_chest_bonuss": [],
+    "name": "测试随机宝箱",
+    "editor_name": "前传线测试随机宝箱",
+    "desc": "随机获得一个普通设施升级，祝你好运。",
+    "rarity": 2,
+    "icon": "material_treasure_tech_chest1"
   }
 ]

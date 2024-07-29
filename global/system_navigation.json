@@ -258,5 +258,18 @@
     "order_id": 12,
     "icon": "icon_battlehistory",
     "platform": 3
+  },
+  {
+    "id": 22,
+    "idsystem": 114,
+    "type": "online_career",
+    "name": "Voyage\nMomento",
+    "editor_name": "网游生涯纪念册",
+    "enabled": true,
+    "layout_type": 2,
+    "in_layout": true,
+    "order_id": 12,
+    "icon": "icon_career_navi",
+    "platform": 1
   }
 ]

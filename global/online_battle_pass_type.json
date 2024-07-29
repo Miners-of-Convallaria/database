@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "m_online_battle_passs": [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117],
+    "name": "普通战令",
+    "is_career": false,
+    "open_at": 0
+  },
+  {
+    "id": 2,
+    "m_online_battle_passs": [201],
+    "name": "科尔生涯外观战令",
+    "is_career": true,
+    "open_at": 0
+  }
+]

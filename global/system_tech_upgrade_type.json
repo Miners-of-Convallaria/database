@@ -718,5 +718,17 @@
     "sparam_name": "",
     "sparam_type": "",
     "system": 91
+  },
+  {
+    "id": 10701,
+    "type": "Sandbox2SurpriseSkillCountModify",
+    "name": "【突入技能】突入技能次数调整",
+    "param0_name": "数值",
+    "param0_type": "int",
+    "param1_name": "",
+    "param1_type": "",
+    "sparam_name": "",
+    "sparam_type": "",
+    "system": 107
   }
 ]

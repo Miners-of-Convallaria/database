@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "idsandbox": 2,
+    "name": "事件",
+    "sub_name": "子事件",
+    "alias": "Normal2",
+    "disable_data": "{\"next_round_text\":true}",
+    "enable_scenario_types": "1|2|4|5|8|9"
+  },
+  {
+    "id": 2,
+    "idsandbox": 2,
+    "name": "主城事件",
+    "sub_name": "主城子事件",
+    "alias": "Capital2",
+    "disable_data": "{\"cool_down\":true,\"trigger_limit\":true,\"priority\":true,\"phase\":true,\"condition\":true,\"event_groups\":true}",
+    "enable_scenario_types": "1|2|4|5|8|9"
+  },
+  {
+    "id": 3,
+    "idsandbox": 2,
+    "name": "地图事件",
+    "sub_name": "地图子事件",
+    "alias": "Map2",
+    "disable_data": "{\"cool_down\":true,\"trigger_limit\":true,\"priority\":true,\"phase\":true,\"condition\":true,\"event_groups\":true}",
+    "enable_scenario_types": "1|2|5|8|9"
+  },
+  {
+    "id": 4,
+    "idsandbox": 2,
+    "name": "委托事件",
+    "sub_name": "委托子事件",
+    "alias": "Entrust2",
+    "disable_data": "{\"cool_down\":true,\"trigger_limit\":true,\"priority\":true,\"phase\":true,\"condition\":true,\"event_groups\":true}",
+    "enable_scenario_types": "1|2|5|8|9"
+  },
+  {
+    "id": 5,
+    "idsandbox": 2,
+    "name": "线索事件",
+    "sub_name": "线索子事件",
+    "alias": "Clue2",
+    "disable_data": "{\"cool_down\":true,\"trigger_limit\":true,\"priority\":true,\"phase\":true,\"condition\":true,\"event_groups\":true}",
+    "enable_scenario_types": "1|2|5|8|9"
+  }
+]

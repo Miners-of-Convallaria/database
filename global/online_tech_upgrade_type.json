@@ -21,7 +21,7 @@
     "param1_name": "",
     "param1_type": "",
     "enable_permillage": false,
-    "desc": "[Initial TP] {0}d by {1}"
+    "desc": "[Initial TP] {change} {number}"
   },
   {
     "id": 22,
@@ -33,7 +33,7 @@
     "param1_name": "",
     "param1_type": "",
     "enable_permillage": false,
-    "desc": "[Max TP {0}] {1}"
+    "desc": "[Max TP] {change} {number}"
   },
   {
     "id": 23,
@@ -45,7 +45,7 @@
     "param1_name": "",
     "param1_type": "",
     "enable_permillage": false,
-    "desc": "[TP recovery at the beginning of the round] {0}d by {1}"
+    "desc": "[TP recovery at the start of the round] {change} {number}"
   },
   {
     "id": 24,
@@ -57,7 +57,7 @@
     "param1_name": "",
     "param1_type": "",
     "enable_permillage": false,
-    "desc": "[TP recovery after the turn] {0}d by {1}"
+    "desc": "[TP recovery after the turn] {change} {number}"
   },
   {
     "id": 31,
@@ -81,7 +81,7 @@
     "param1_name": "数值",
     "param1_type": "int",
     "enable_permillage": true,
-    "desc": "All {0}s' {1} {2}d by {3}"
+    "desc": "All {professionCategoryName}s' {attributeTypeName} {change}d by {number}"
   },
   {
     "id": 51,
@@ -93,6 +93,6 @@
     "param1_name": "数值",
     "param1_type": "int",
     "enable_permillage": true,
-    "desc": "Full class {0}{1} {2}"
+    "desc": "All roles' {attributeTypeName} {change} {number}"
   }
 ]

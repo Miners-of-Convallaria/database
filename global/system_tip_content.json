@@ -4,7 +4,7 @@
     "name": "记忆的世界提示1",
     "type": 1,
     "image_name": "system_tips_activity",
-    "title": "Tip 1 of the Memory World",
+    "title": "World of Memory Hint I",
     "text_anchor": 2,
     "text": "Tip Text Description 1 of the Memory World"
   },
@@ -13,7 +13,7 @@
     "name": "记忆的世界提示2",
     "type": 1,
     "image_name": "system_tips_activity_unitpiece",
-    "title": "Tip 2 of the Memory World",
+    "title": "World of Memory Hint II",
     "text_anchor": 2,
     "text": "Tip Text Description 2 of the Memory World"
   },
@@ -22,7 +22,7 @@
     "name": "记忆的世界提示3",
     "type": 1,
     "image_name": "system_tips_activity_unitrank",
-    "title": "Tip 3 of the Memory World",
+    "title": "World of Memory Hint III",
     "text_anchor": 2,
     "text": "Tip Text Description 3 of the Memory World"
   },
@@ -31,7 +31,7 @@
     "name": "记忆的世界提示4",
     "type": 1,
     "image_name": "system_tips_activity_weapon",
-    "title": "Tip 4 of the Memory World",
+    "title": "World of Memory Hint IV",
     "text_anchor": 2,
     "text": "1 World of memory tips text 4\n1 Line Break Test1\n2Line Break Test 3"
   },
@@ -40,7 +40,7 @@
     "name": "记忆的世界提示5测试",
     "type": 2,
     "image_name": "system_tips_unit_box_1",
-    "title": "World Memory Hint 5",
+    "title": "World of Memory Hint V",
     "text_anchor": 2,
     "text": "1 World Memory Hint Text Description 4\n1 Line Break Test 1\n2 Line Break Test 3"
   },
@@ -49,7 +49,7 @@
     "name": "启动沙盒1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Spiral of Destinies 1",
+    "title": "Spiral of Destinies I",
     "text_anchor": 2,
     "text": "You can return to Iria from Elysium by crossing the Spiral of Destinies.\nAnd you can also return to Elysium anytime afterward."
   },
@@ -58,7 +58,7 @@
     "name": "启动沙盒2",
     "type": 2,
     "image_name": "system_tips_unit_box_1",
-    "title": "Spiral of Destinies 2",
+    "title": "Spiral of Destinies II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>The Key of Destiny is needed to enter the Spiral of Destinies.\n<sprite=10>You can enter Spiral of Destinies more than once to experience different stories and endings of Sword of Convallaria.\n<sprite=10>You can select beacons and companions when you start the Spiral.\n\n<size=28><style=C4>Beacons and Companions</style></size>\n<sprite=10>The beacon determines the various initial states of the Spiral.\n<sprite=10>Certain beacons can make it easier for the Spiral to follow a certain plot.\n<sprite=10>Companions that follow you into the cycle can participate in battles, but will not affect the story."
   },
@@ -67,7 +67,7 @@
     "name": "乐土角色1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Elysium Character 1",
+    "title": "Elysium Character I",
     "text_anchor": 2,
     "text": "Everyone you have ever met or are destined to meet\nhas the opportunity to gather in the Elysium."
   },
@@ -76,7 +76,7 @@
     "name": "乐土角色2",
     "type": 2,
     "image_name": "system_tips_unit_box_1",
-    "title": "Elysium Character 2",
+    "title": "Elysium Character II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>In Elysium, you can collect characters that appeared in Spiral of Destinies.\n<sprite=10>Characters in Elysium and Spiral of Destinies are independent of each other.\n\n<size=28><style=C4>Differences with Spiral of Destinies</style></size>\n<sprite=10>The characters in Elysium will stay with the team forever once they join.\n<sprite=10>No matter what happens to the characters in Spiral of Destinies, the ones in Elysium will not be affected.\n<sprite=10>Character progression in Elysium is not carried over to the Spiral of Destinies.\n<sprite=10>Some features are unlocked as you progress through The Fool's Journey."
   },
@@ -85,7 +85,7 @@
     "name": "乐土角色升级1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Elysium Character Level-up 1",
+    "title": "Elysium Character Level-Up I",
     "text_anchor": 2,
     "text": "The Elysium Character can quickly level up by consuming Common Exp."
   },
@@ -94,7 +94,7 @@
     "name": "乐土角色升级2",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Elysium Character Level-up 2",
+    "title": "Elysium Character Level-Up II",
     "text_anchor": 2,
     "text": "Attention: the Elysium Character Level must be lower than the Voyager Level.\nIn order to make the character more powerful, upgrade the Voyager Level as soon as possible."
   },
@@ -103,7 +103,7 @@
     "name": "武器装备1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Weapons 1",
+    "title": "Gear I",
     "text_anchor": 2,
     "text": "Equipping weapons will boost character stats.\nCertain weapons possess [Innate Skills] to further increase their power."
   },
@@ -112,34 +112,34 @@
     "name": "进阶1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Rank-up 1",
+    "title": "Rank-up I",
     "text_anchor": 2,
-    "text": "Rank-up the characters to learn exclusive skills of the characters."
+    "text": "Rank-up the characters to learn their exclusive skills."
   },
   {
     "id": 132,
     "name": "进阶2",
     "type": 2,
     "image_name": "system_tips_unit_rkup_1",
-    "title": "Rank-up 2",
+    "title": "Rank-up II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Characters’ attributes can be improved by Rank-up.\n<sprite=10>The Rank-up cap is based on the character level.\n\n<size=28><style=C4>Learning Skills</style></size>\n<sprite=10>Upon reaching certain nodes, you can pick one from two skills.\n<sprite=10>Different Rank-up skills grant different Attribute bonuses.\n<sprite=10>Missed skills can be learned by using Castalia."
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Characters’ attributes can be improved via Rank-up.\n<sprite=10>The Rank-up cap is based on the character level.\n\n<size=28><style=C4>Learning Skills</style></size>\n<sprite=10>Upon reaching certain nodes, you can pick one of two skills.\n<sprite=10>Different Rank-up skills grant different attribute bonuses.\n<sprite=10>Missed skills can be learned by using Castalia."
   },
   {
     "id": 141,
     "name": "交错的世界1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Crossing Worlds 1",
+    "title": "Crossing Worlds I",
     "text_anchor": 2,
-    "text": "You can get various resources\nvia challenging the [Crossing Worlds] evey day."
+    "text": "You can obtain various resources\nby taking part in [Crossing Worlds] every day."
   },
   {
     "id": 142,
     "name": "交错的世界2",
     "type": 2,
     "image_name": "system_tips_activity_quest",
-    "title": "Crossing Worlds 2",
+    "title": "Crossing Worlds II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>There are various stages in Crossing Worlds, and clearing the stages will earn you various rewards.\n\n<size=28><style=C4>Attempts and Extra Reward</style></size>\n<sprite=10>Some stages have a daily attempt limit. Failing a stage does not consume the attempt.\n<sprite=10>Some stages have daily Extra Reward chances. You can receive more rewards as long as the Extra Reward chances are not depleted.\n<sprite=10>Both the Attempt limit and the Extra Reward limit reset at 00:00 a.m. each day."
   },
@@ -148,7 +148,7 @@
     "name": "交错的世界3",
     "type": 2,
     "image_name": "system_tips_activity_quest",
-    "title": "Crossing Worlds 3",
+    "title": "Crossing Worlds III",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Sweep Combat</style></size>\n<sprite=10>Sweep is unlocked after clearing Stage 2-15 of [The Fool's Journey]. \n<sprite=10>The Leader can select a character that meets the Sweep requirements to fight for you in the Crossing Worlds, and then earn corresponding rewards.\n<sprite=10>Each character can only participate in 1 sweep team simultaneously."
   },
@@ -157,16 +157,16 @@
     "name": "角色升星1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Character Star Up 1",
+    "title": "Character Star Up I",
     "text_anchor": 2,
-    "text": "Trait effects can be greatly strengthened by increasing the Star Level.\nMemories of the same-name character are needed."
+    "text": "Trait effects can be greatly strengthened by increasing character's Star Level.\nStar Level-up using Memories from the same character."
   },
   {
     "id": 152,
     "name": "乐土角色升星",
     "type": 2,
     "image_name": "system_tips_unit_starup",
-    "title": "Character Star Up 2",
+    "title": "Character Star Up II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Upon obtaining a duplicate Elysium character through any means, the character will be automatically converted into Memories of that character.\n<sprite=10>You can acquire more Character Memories from Memory Retrieval or Summon.\n<sprite=10>First clear does not consume challenge attempts."
   },
@@ -175,7 +175,7 @@
     "name": "武器升级1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Gear Enhancement 1",
+    "title": "Gear Enhancement I",
     "text_anchor": 2,
     "text": "The gear in Elysium can be leveled up to increase its attributes."
   },
@@ -184,7 +184,7 @@
     "name": "武器升级2",
     "type": 2,
     "image_name": "system_tips_weapon_lvup",
-    "title": "Gear Enhancement 2",
+    "title": "Gear Enhancement II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Radiant Powder can be used to advance gear.\n<sprite=10>After reaching a certain level, you need to use Radiant Ore to increase the level cap of your gear.\n<sprite=10>Gear can be greatly improved by Staring Up. However, it requires consuming same-name gear.\n<sprite=10>You can use Engraving to add engraving effects and random attributes to gear.\n<sprite=10>When both the weapon and trinket have engraving effects, they can be combined to activate Engraving Resonance."
   },
@@ -193,7 +193,7 @@
     "name": "实战训练1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Level-up Training 1",
+    "title": "Level-up Training I",
     "text_anchor": 2,
     "text": "Clear stages in [Level-up Training] to get plenty of Common Exp."
   },
@@ -202,7 +202,7 @@
     "name": "实战训练2",
     "type": 2,
     "image_name": "system_tips_activity_exp",
-    "title": "Level-up Training 2",
+    "title": "Level-up Training II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Obtain Common Exp to level up Elysium characters.\n<sprite=10>You have 1 Extra Rewards chance per day.\n<sprite=10>First clear does not consume the Extra Rewards chance."
   },
@@ -220,7 +220,7 @@
     "name": "光辉锻铸1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Radiant Forging 1",
+    "title": "Radiant Forging I",
     "text_anchor": 2,
     "text": "Clear stages in [Radiant Forging] to get plenty of weapon enhancement materials."
   },
@@ -229,7 +229,7 @@
     "name": "光辉锻铸2",
     "type": 2,
     "image_name": "system_tips_activity_forge",
-    "title": "Radiant Forging 2",
+    "title": "Radiant Forging II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can obtain Radiant Powder and Radiant Ore, which can be used to advance and breakthrough Elysium weapons.\n<sprite=10>At higher difficulty levels, stages in Radiant Forging will drop engraving chests containing materials for weapon engraving.\n<sprite=10>You have 1 Extra Rewards chance per day.\n<sprite=10>First clear does not consume the Extra Rewards chance."
   },
@@ -240,14 +240,14 @@
     "image_name": "system_battlebook_001",
     "title": "Talent",
     "text_anchor": 2,
-    "text": "You can unlock Elysium Tactical Skills and increase the ATK and DEF of all classes by learning talents.\nHowever, it requires a valuable resource <sprite=10>Star Particles."
+    "text": "You can unlock Elysium Tactical Skills and increase the ATK and DEF of all roles by learning talents.\nHowever, it requires a valuable resource <sprite=10>Star Particles."
   },
   {
     "id": 211,
     "name": "记忆寻回1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Memory Retrieval 1",
+    "title": "Memory Retrieval I",
     "text_anchor": 2,
     "text": "Clear stages in [Memory Retrieval] to get Character Memories"
   },
@@ -256,7 +256,7 @@
     "name": "记忆寻回2",
     "type": 2,
     "image_name": "system_tips_activity_frgm",
-    "title": "Memory Retrieval 2",
+    "title": "Memory Retrieval II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>Memory Retrieval is a rare challenge and can only be cleared once a day. \n<sprite=10>The type of memories you can obtain depends on the character in battle. \n<sprite=10>The higher the difficulty of the stage, the more the shards acquired.\n<sprite=10>For each deployed character, up to 3 Memory Shards can be collected."
   },
@@ -265,18 +265,18 @@
     "name": "荣耀之战1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Clash 1",
+    "title": "Clash I",
     "text_anchor": 2,
-    "text": "You can earn seasonal rewards\nby participating in the Clash\nand attacking other players' bases."
+    "text": "Participate in Clash to\nobtain seasonal rewards\nby attacking other players' bases."
   },
   {
     "id": 222,
     "name": "荣耀之战2",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "Clash 2",
+    "title": "Clash II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>Participate in Clash to earn Activity Points and complete season quests.\n<sprite=10>Accumulate Glory to rank up for more rewards.\n<sprite=10>Complete season quests to earn Activity Points and exchange for bountiful season rewards.\n<sprite=10>At the start of a new season, the Merits from the last season will be automatically converted into Elysium Coins.\n\n<size=28><style=C4>Daily Reward Rules</style></size>\n<sprite=10>Defeat enemies or destroy enemy facilities in battle to earn Merits, which can be used for base and facility upgrades.\n<sprite=10>You can earn up to 100 Merits in a battle.\n<sprite=10>You can earn up to 300 Merits per day with 5 challenge attempts.\n<sprite=10>You can quit the battle at any time and still earn Merits.\n<sprite=10>Defending against other leaders' attacks can also grant you Merits and Glory.\n<sprite=10>At the start of a new season, your points will be deducted based on your division in the last season."
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>Participate in Clash to earn Activity Points and complete seasonal quests.\n<sprite=10>Rank up by accumulating Glory for more rewards.\n<sprite=10>Complete seasonal quests to earn Activity Points that can be exchanged for bountiful seasonal rewards.\n<sprite=10>At the start of a new season, Merit from the previous season will be automatically converted into Elysium Coins.\n\n<size=28><style=C4>Daily Reward Rules</style></size>\n<sprite=10>Defeat enemies and destroy enemy facilities in battle to earn Merits, which can be used to upgrade your base and facility.\n<sprite=10>You can earn up to 100 Merit in single battle.\n<sprite=10>You can earn up to 300 Merit per day with up to 5 battle attempts.\n<sprite=10>You can quit a battle at any time and still earn Merit.\n<sprite=10>Defending against other voyagers' attacks will also grant Merit and Glory.\n<sprite=10>At the start of a new season, points will be reduced based on your division in the previous season."
   },
   {
     "id": 231,
@@ -355,7 +355,7 @@
     "name": "护石强化1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Tarot Whisper Enhancement 1",
+    "title": "Tarot Whisper Enhancement I",
     "text_anchor": 2,
     "text": "You can level up Tarot Whispers using Tarot Essence.\nNew attributes will be granted after leveling up."
   },
@@ -364,7 +364,7 @@
     "name": "护石强化2",
     "type": 2,
     "image_name": "system_tips_charm_lvup_1",
-    "title": "Tarot Whisper Enhancement 2",
+    "title": "Tarot Whisper Enhancement II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can break down extra Tarot Whispers in your inventory.\n<sprite=10>The Tarot Essence gained by breaking down the Tarot Whisper can be used to level up other Tarot Whispers.\n\n<size=28><style=C4>Levelling Up</style></size>\n<sprite=10>Tarot Whisper level cap is based on the Voyager Level.\n<sprite=10>Different rarities of Tarot Whisper have different level caps.\n<sprite=10>Legendary ones can reach up to Lv. 60, Epic to Lv. 45, Rare to Lv. 30, and Common to Lv.15.\n<sprite=10>Attribute bonus will be activated when reaching Lv.15, Lv.30, Lv.45, and Lv.60.\n<sprite=10>The next Attribute bonus can be previewed when reaching Lv.20, Lv.35, and Lv.50."
   },
@@ -373,7 +373,7 @@
     "name": "命运印记",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Destiny Traces 1",
+    "title": "Destiny Traces I",
     "text_anchor": 2,
     "text": "Every cycle in Spiral of Destinies\nleaves a permanent mark on Elysium."
   },
@@ -382,7 +382,7 @@
     "name": "命运印记",
     "type": 2,
     "image_name": "system_tips_album",
-    "title": "Destiny Traces 2",
+    "title": "Destiny Traces II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>The events and achievements you completed in Spiral of Destinies are displayed here. \n<sprite=10>Once a new record is achieved, you can claim corresponding rewards that can be used in the Elysium. \n<sprite=10>These records are permanent and won't reset when a new story begins. \n\n<size=28><style=C4>Knowledge Level</style></size>\n<sprite=10>All events in Spiral of Destinies will be converted into Knowledge at the end of the Chapter. \n<sprite=10>Increase your Knowledge Level by accumulating Knowledge to earn valuable rewards."
   },
@@ -400,7 +400,7 @@
     "name": "征服之塔1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Tower of Conquest 1",
+    "title": "Tower of Conquest I",
     "text_anchor": 2,
     "text": "Elysium's most challenging battlefield. Few survive...\nbut those that do, shall be generously rewarded."
   },
@@ -409,7 +409,7 @@
     "name": "征服之塔2",
     "type": 2,
     "image_name": "system_tips_activity_weekly",
-    "title": "Tower of Conquest 2",
+    "title": "Tower of Conquest II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>You can claim weekly rewards by collecting a certain number of Tower Emblems every week.\n<sprite=10>When a floor is cleared for the first time, you can claim the chest for this floor, increase the Level Rewards by 1 level, and unlock more Level Rewards.\n<sprite=10>The Conqueror's Insignia in the Level Rewards can be used to exchange for resources in the shop.\n<sprite=10>If you have claimed the Level Rewards for a lower floor, the chest of the next floor will contain the reward difference.\n<sprite=10>Failing a challenge will deduct one challenge attempt, with one attempt recovered every 30 minutes.\n\n<size=28><style=C4>■ Refresh Rules</style></size>\n<sprite=10>After the weekly refresh, the [Environment], [Stage Mutation], and enemy types will change accordingly.\n<sprite=10>Based on your highest recorded floor, if you fail to clear any stage on that floor during the week, you will drop 2 floors after the refresh; if you clear any stage, you will drop 1 floor.\n<sprite=10>You will drop to the highest recorded floor minus 2 floors, but no lower than Floor 2 of the Tower of Conquest.\n<sprite=10>After clearing all stages on Floor 10, you will drop to Floor 9 at most after the refresh."
   },
@@ -472,7 +472,7 @@
     "name": "沙盒训练1",
     "type": 2,
     "image_name": "system_tips_sandbox_exp_training",
-    "title": "Battle Training 1",
+    "title": "Battle Training I",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>[Exp Training] Gain the EXP required for character level-up by completing a certain number of turns.\n<sprite=10>[Class Skill Training] Complete a certain number of turns to randomly generate 3 skills and choose to learn one of them. The skill training cap can be increased through facility upgrades.\n<sprite=10>[Tailored Training Program] Choose Tailored Training Programs suitable for the characters, and learn by completing a certain number of turns. Tailored Training Programs can be unlocked through Quests, Random Events, Random Shops, etc."
   },
@@ -616,7 +616,7 @@
     "name": "乐土家园1",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Elysium Homeland 1",
+    "title": "Elysium Homeland I",
     "text_anchor": 2,
     "text": "You can freely place furniture in the designated area. \nSome specific objects outside the area can also be replaced. \nPay attention to various limited time events and collect more furniture."
   },
@@ -625,7 +625,7 @@
     "name": "乐土家园2",
     "type": 2,
     "image_name": "system_tips_main_challenge",
-    "title": "Elysium Homeland 2",
+    "title": "Elysium Homeland II",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Moveable Furniture</style></size>\n<sprite=10>Moveable furniture can be freely placed, moved, and turned in the designated area. \n<sprite=10>Elysium has furniture placement areas indoors. \n<sprite=10>In general, movable furniture can be more freely placed and is suitable for designing a more personalized home. \n\n<size=28><style=C4>Immovable Furniture</style></size>\n<sprite=10>Immovable furniture can only be changed at predetermined positions. \n<sprite=10>Immovable furniture cannot be moved or rotated. Each Immovable Furniture position comes with starting furniture by default."
   },
@@ -634,7 +634,7 @@
     "name": "乐土家园3",
     "type": 2,
     "image_name": "system_tips_main_challenge",
-    "title": "Elysium Home 3",
+    "title": "Elysium Home III",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Invite Characters</style></size>\n<sprite=10>In addition to decorating your home, you can also invite characters to stand in specific positions.\n<sprite=10>You can only invite characters you have obtained through Summons.\n<sprite=10>Characters in random dialog events cannot be invited or sent off during the events.\n\n<size=28><style=C4>Characters' State of Mind</style></size>\n<sprite=10>Invited characters gain Bond EXP at regular intervals.\n<sprite=10>Bond EXP can be used to increase Bond Level in the Bond system.\n<sprite=10>Invited characters gain Bond EXP faster at a higher Coziness Level.\n<sprite=10>Collecting Furniture can increase the Coziness Level of your home."
   },
@@ -645,7 +645,7 @@
     "image_name": "system_tips_arena",
     "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>After an event starts, you can complete the designated stages to collect dropped items and redeem rewards in the event shop.\n<sprite=10>Additional drop bonuses are available after using recommended characters (except the first clear).\n<sprite=10>Some stages will unlock as the event unfolds; there are two modes to choose from: a Free Mode (with your own Elysium characters) and a Strategic Mode (where trial characters are provided).\n<sprite=10>You can switch between the modes and get the first clear rewards respectively. The clearing of either mode will unlock the subsequent challenges.\n\n<size=28><style=C4>Other Information</style></size>\n<sprite=10>[Extra Rewards] chances will be refreshed at 00:00 a.m. every day.\n<sprite=10>Once an event ends, you cannot enter the event stages. However, you can still redeem rewards during the redemption period."
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>After an event starts, you can complete the designated stages to collect dropped items and redeem rewards in the event shop.\n<sprite=10>Additional drop bonuses are available after clearing with the recommended characters (except the first clear).\n<sprite=10>Some stages will unlock as the event unfolds; there are two modes to choose from: Free Mode (with your own Elysium characters) and Assist Mode (where trial characters are provided).\n<sprite=10>You can switch between the modes to get the first clear rewards respectively. Clearing using either mode will unlock the subsequent challenges.\n\n<size=28><style=C4>Other Information</style></size>\n<sprite=10>[Extra Rewards] will be refreshed at 00:00 a.m. every day.\n<sprite=10>Once an event ends, you cannot enter the event stages. However, you can still redeem rewards during the redemption period."
   },
   {
     "id": 542,
@@ -670,7 +670,7 @@
     "name": "网游羁绊",
     "type": 4,
     "image_name": "system_battlebook_001",
-    "title": "Bond 1",
+    "title": "Bond I",
     "text_anchor": 2,
     "text": "The Bond between you and the Elysium characters\nwill make them stronger on the battlefield."
   },
@@ -679,9 +679,9 @@
     "name": "网游羁绊",
     "type": 2,
     "image_name": "system_tips_friendship",
-    "title": "Bond 2",
+    "title": "Bond II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>Collect Bond EXP to increase Bond Level and gain all attribute bonus for characters. \n<sprite=10>Reach certain Bond Levels to unlock character avatars and personalized nicknames for some characters.\n\n<size=28><style=C4>Bond EXP</style></size>\n<sprite=10> Press and hold the [Spiritual Homology] button to consume [Spirit of Hearts] and gain Bond EXP. 500 [Spirit of Hearts] is recovered daily upon login, with a maximum storage of 3,000 [Spirit of Hearts].\n<sprite=10>After clearing certain stages, a small amount of Bond EXP for corresponding characters is granted based on the amount of [Endurance] you have consumed. \n<sprite=10>Characters moving in Elysium can gain Bond EXP over time and when triggering Character Adventures.\n<sprite=10>Gifting a character [Bond Charm] yields a significant amount of Bond EXP."
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>Collect Bond EXP to increase Bond Level and gain all attribute bonuses for characters. \n<sprite=10>Reach certain Bond Levels to unlock character avatars and personalized nicknames for some characters.\n\n<size=28><style=C4>Bond EXP</style></size>\n<sprite=10> Press and hold the [Spiritual Forging] button to consume [Spirit of Hearts] and gain Bond EXP. 500 [Spirit of Hearts] is recovered daily upon login, with a maximum storage of 3,000 [Spirit of Hearts].\n<sprite=10>After clearing certain stages, a small amount of Bond EXP for corresponding characters is granted based on the amount of [Endurance] you have consumed. \n<sprite=10>Characters moving in Elysium can gain Bond EXP over time and when triggering Character Adventures.\n<sprite=10>Gifting a character [Bond Charm] yields a significant amount of Bond EXP."
   },
   {
     "id": 571,
@@ -726,7 +726,7 @@
     "image_name": "system_tips_guild",
     "title": "Guild",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Activeness Rewards</style></size>\n<sprite=10>Complete daily quests and collect Activity Points, which will count towards the weekly Guild Activity Points. Each member can contribute a maximum of 100 points per day.\n<sprite=10>Guild members can collect rewards upon reaching specific weekly activity milestones. If you rejoin a Guild, previously collected rewards for the week will not reset.\n<sprite=10>You can join another Guild immediately after leaving a Guild for the first time. Subsequent guild quits require a 3-hour cooldown period.\n\n<size=28><style=C4>Guild Management</style></size>\n<sprite=10>The Guild Master can appoint or remove Guild Officer.\n<sprite=10>If the Master has not logged in for more than 7 days, Officer or other members may initiate an impeachment. This triggers a 2-day observation period for the Master.\n<sprite=10>If the Master remains inactive during the observation period, the impeacher will become the new Master."
+    "text": "<size=28><style=C4>Activeness Rewards</style></size>\n<sprite=10>Complete daily quests and collect Activity Points, which will count towards the weekly Guild Activity Points. Each member can contribute a maximum of 100 points per day.\n<sprite=10>Guild members can collect rewards upon reaching specific weekly activity milestones. If you rejoin a Guild, previously collected rewards for the week will not reset.\n<sprite=10>You can join another Guild immediately after leaving one for the first time. Subsequent Guild quits require a 3-hour cooldown period.\n\n<size=28><style=C4>Guild Management</style></size>\n<sprite=10>The Guild Master can appoint or remove a Guild Officer.\n<sprite=10>If the Master has not logged in for more than 7 days, the Officer or other members may initiate an impeachment. This triggers a 2-day observation period for the Master.\n<sprite=10>If the Master remains inactive during the observation period, the impeacher will become the new Master."
   },
   {
     "id": 621,
@@ -751,7 +751,7 @@
     "name": "荣耀之战3",
     "type": 2,
     "image_name": "system_tips_arena",
-    "title": "Clash 3",
+    "title": "Clash III",
     "text_anchor": 2,
     "text": "<size=28><style=C4>Division</style></size>\nIron: 0 - 249 Glory\nBronze: 250 - 399 Glory\nSilver: 400 - 549 Glory\nGold: 550 - 699 Glory\nPlatinum: 700 - 899 Glory\nRadiant: 900 Glory and above"
   },
@@ -834,7 +834,7 @@
     "image_name": "system_battlebook_001",
     "title": "Tower of Adversity I",
     "text_anchor": 2,
-    "text": "Beneath the vortex of the Sea of Chaos, the ancient seals have begun to loosen. \nThe power from \"Inversion\", the other side of the world, has now revealed itself…"
+    "text": "Beneath the vortex of the Sea of Chaos, the ancient seals have begun to loosen. \nThe power from \"Inversion,\" the other side of the world, has now revealed itself…"
   },
   {
     "id": 1019,
@@ -862,5 +862,50 @@
     "title": "Tower of Adversity III",
     "text_anchor": 2,
     "text": "<size=28><style=C4>■ Adversity Value Acquisition Rules</style></size>\n<sprite=10>Adversity Value is calculated based on core and additional scoring items after clearing, with core items having a significant impact and additional items less so.\n<sprite=10>In core scoring, fewer rounds used and fewer defeated characters yield a higher Adversity Value.\n<sprite=10>In additional scoring, the more cumulative overflow damage (only against bosses when present), the less cumulative HP loss of characters, and the fewer actions in the final round, the higher the Adversity Value gained.\n<sprite=10>When the Subjugation Period starts, the highest score in the Deep is taken as the final score."
+  },
+  {
+    "id": 1022,
+    "name": "生涯纪念册提示",
+    "type": 2,
+    "image_name": "",
+    "title": "Voyage Momento",
+    "text_anchor": 2,
+    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>The Voyage Momento is an authoritative guide to helping you grow efficiently.\n<sprite=10>Each stage of the Voyage Momento has a series of quests; complete stage quests to earn the corresponding Momento Treasure.\n<sprite=10>Unlock new stages: Unlock the next stage by completing all quests of the current stage and claiming the Momento Treasure.\n<sprite=10>Challenge quests: With each new stage unlocked, corresponding stage challenge quests will be available. Complete these quests to earn additional rewards.\n<sprite=10>When you complete all quests in [Development], all quests in [Resources] category are also completed."
+  },
+  {
+    "id": 1023,
+    "name": "逆境之塔4",
+    "type": 2,
+    "image_name": "",
+    "title": "Tower of Adversity IV",
+    "text_anchor": 2,
+    "text": "<size=28><style=C4>■ Unlock Rules</style></size>\n<sprite=10>Deep I is unlocked at the start of the season after clearing all Shallow stages.\n<sprite=10>When the Voyager Level reaches Lv. 50 and Lv. 60, Deep II and III are sequentially unlocked.\n<sprite=10>If the Voyager Level does not meet the above requirements, passing the previous difficulty of the Deep also unlocks the next difficulty."
+  },
+  {
+    "id": 1024,
+    "name": "网游代行提示",
+    "type": 2,
+    "image_name": "",
+    "title": "Sweep Intro",
+    "text_anchor": 2,
+    "text": "<size=28><style=C4>■ Sweep Intro</style></size>\n<sprite=10>After dispatching a character to Sweep in battle, stage rewards are received immediately, consuming Endurance and the daily Extra Rewards attempts.\n<sprite=10>Characters participating in Sweep will enter the return journey and cannot be dispatched again until the return journey ends.\n<sprite=10>When using an Octopus Can for Sweep, there is no need to dispatch characters, but it still consumes Endurance and Extra Rewards attempts."
+  },
+  {
+    "id": 1025,
+    "name": "中型活动4-新挑战关卡1",
+    "type": 2,
+    "image_name": "system_tips_arena",
+    "title": "Time-Limited Event Info",
+    "text_anchor": 2,
+    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>After [Apex Showdown] is available, you can freely choose any unlocked difficulty to challenge.\n<sprite=10>The higher the difficulty you challenge, the more stages can be unlocked.\n<sprite=10>The higher the difficulty you choose, the more challenge points can be earned after clearing.\n<sprite=10>When any leader completes a high-difficulty stage, all other leaders in the server can claim the designated rewards.\n\n<size=28><style=C4>■ Other Rules</style></size>\n<sprite=10>Challenges in [Apex Showdown] will not consume any Endurance.\n<sprite=10>After the event ends, you will no longer be able to enter [Apex Showdown]."
+  },
+  {
+    "id": 1028,
+    "name": "正塔小活1期",
+    "type": 2,
+    "image_name": "system_tips_arena",
+    "title": "Voyage of Discovery Intro",
+    "text_anchor": 2,
+    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>During the event, complete the event stages to earn Adventure Coins, which can be exchanged for rewards at the [Adventure Depot].\n<sprite=10>Once unlock conditions are met, you can choose any difficulty for the adventure. After clearing normal stages, you can choose a [Buff].\n<sprite=10>After clearing the boss stage, the round of adventure ends, and you can choose to consume Endurance to settle Adventure Coins, earning more coins with higher difficulties.\n<sprite=10>Consuming Extra Bonus Attempts allows for additional Adventure Coins, with Extra Bonus Attempts recovered once a week at 24:00 on Sundays, and can be accumulated during the event."
   }
 ]

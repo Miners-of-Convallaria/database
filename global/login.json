@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "default",
+    "name": "默认",
+    "asset_name": "ui/login_nodes/default",
+    "scene_day": "scene_home-fh-day00101-login",
+    "scene_night": "scene_home-fh-ni00101-login",
+    "start_at": 0,
+    "end_at": 0
+  },
+  {
+    "id": 2,
+    "type": "prequel",
+    "name": "前传线",
+    "asset_name": "ui/login_nodes/prequel",
+    "scene_day": "scene_lyc-os-da00101-login",
+    "scene_night": "scene_lyc-os-ni00101-login",
+    "start_at": 1716912000,
+    "end_at": 1726761599
+  }
+]

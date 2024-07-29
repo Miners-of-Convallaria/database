@@ -384,9 +384,9 @@
     "area": "AREA_JP",
     "env": "ENV_APPSTORE",
     "product_id": "jp.soc.coin680n",
-    "default_price": 160000,
-    "default_show": "¥1600",
-    "default_show_price": "1600",
+    "default_price": 170000,
+    "default_show": "¥1700",
+    "default_show_price": "1700",
     "default_show_unit": "¥"
   },
   {
@@ -397,9 +397,9 @@
     "area": "AREA_JP",
     "env": "ENV_APPSTORE",
     "product_id": "jp.soc.coin980n",
-    "default_price": 230000,
-    "default_show": "¥2300",
-    "default_show_price": "2300",
+    "default_price": 240000,
+    "default_show": "¥2400",
+    "default_show_price": "2400",
     "default_show_unit": "¥"
   },
   {
@@ -410,9 +410,9 @@
     "area": "AREA_JP",
     "env": "ENV_APPSTORE",
     "product_id": "jp.soc.coin1980n",
-    "default_price": 450000,
-    "default_show": "¥4500",
-    "default_show_price": "4500",
+    "default_price": 460000,
+    "default_show": "¥4600",
+    "default_show_price": "4600",
     "default_show_unit": "¥"
   },
   {
@@ -423,9 +423,9 @@
     "area": "AREA_JP",
     "env": "ENV_APPSTORE",
     "product_id": "jp.soc.coin3280n",
-    "default_price": 740000,
-    "default_show": "¥7400",
-    "default_show_price": "7400",
+    "default_price": 760000,
+    "default_show": "¥7600",
+    "default_show_price": "7600",
     "default_show_unit": "¥"
   },
   {
@@ -436,9 +436,9 @@
     "area": "AREA_JP",
     "env": "ENV_APPSTORE",
     "product_id": "jp.soc.coin6480n",
-    "default_price": 1450000,
-    "default_show": "¥14500",
-    "default_show_price": "14500",
+    "default_price": 1500000,
+    "default_show": "¥15000",
+    "default_show_price": "15000",
     "default_show_unit": "¥"
   },
   {
@@ -462,9 +462,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.coin60",
-    "default_price": 150000,
-    "default_show": "₩1500",
-    "default_show_price": "1500",
+    "default_price": 130000,
+    "default_show": "₩1300",
+    "default_show_price": "1300",
     "default_show_unit": "₩"
   },
   {
@@ -475,9 +475,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.coin300",
-    "default_price": 710000,
-    "default_show": "₩7100",
-    "default_show_price": "7100",
+    "default_price": 650000,
+    "default_show": "₩6500",
+    "default_show_price": "6500",
     "default_show_unit": "₩"
   },
   {
@@ -488,9 +488,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.coin680",
-    "default_price": 1500000,
-    "default_show": "₩15000",
-    "default_show_price": "15000",
+    "default_price": 1450000,
+    "default_show": "₩14500",
+    "default_show_price": "14500",
     "default_show_unit": "₩"
   },
   {
@@ -501,9 +501,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.coin980",
-    "default_price": 2150000,
-    "default_show": "₩21500",
-    "default_show_price": "21500",
+    "default_price": 2050000,
+    "default_show": "₩20500",
+    "default_show_price": "20500",
     "default_show_unit": "₩"
   },
   {
@@ -514,9 +514,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.coin1980",
-    "default_price": 4300000,
-    "default_show": "₩43000",
-    "default_show_price": "43000",
+    "default_price": 4000000,
+    "default_show": "₩40000",
+    "default_show_price": "40000",
     "default_show_unit": "₩"
   },
   {
@@ -527,9 +527,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.coin3280",
-    "default_price": 7000000,
-    "default_show": "₩70000",
-    "default_show_price": "70000",
+    "default_price": 6600000,
+    "default_show": "₩66000",
+    "default_show_price": "66000",
     "default_show_unit": "₩"
   },
   {
@@ -540,9 +540,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.coin6480",
-    "default_price": 13500000,
-    "default_show": "₩135000",
-    "default_show_price": "135000",
+    "default_price": 13000000,
+    "default_show": "₩130000",
+    "default_show_price": "130000",
     "default_show_unit": "₩"
   },
   {
@@ -553,9 +553,9 @@
     "area": "AREA_KR",
     "env": "ENV_APPSTORE",
     "product_id": "kr.soc.mc1",
-    "default_price": 710000,
-    "default_show": "₩7100",
-    "default_show_price": "7100",
+    "default_price": 650000,
+    "default_show": "₩6500",
+    "default_show_price": "6500",
     "default_show_unit": "₩"
   },
   {

@@ -23023,7 +23023,7 @@
   },
   {
     "id": 3838,
-    "name": "stage_mountain-os-ni01101",
+    "name": "stage_mountain-os-ni02101",
     "event_name": "play_amb_stage_mountain_ni_dry",
     "type": 1
   },
@@ -29629,7 +29629,7 @@
   },
   {
     "id": 4939,
-    "name": "【音20】命中_重受击_地面_骑士团团长 ",
+    "name": "【音20】命中_重受击_地面_骑士团团长",
     "event_name": "play_fx_tuanzhang_shouji_dimian",
     "type": 1
   },
@@ -31057,7 +31057,7 @@
   },
   {
     "id": 5177,
-    "name": "[音24]红色重平刺_01",
+    "name": "[音24]红色重平刺_02_带灯",
     "event_name": "play_fx_redprick_01",
     "type": 1
   },
@@ -31147,7 +31147,7 @@
   },
   {
     "id": 5192,
-    "name": "[音24]萨曼莎审判者专属标记_高级审判",
+    "name": "[音24]图标_萨曼莎审判者专属标记_高级审判",
     "event_name": "play_fx_buff_hpapalsamanthafset01_01",
     "type": 1
   },
@@ -33823,7 +33823,7 @@
   },
   {
     "id": 5638,
-    "name": "[音28]ex_大招_击退烟_苏莱曼商人",
+    "name": "[音28]ex_大招_苏莱曼商人",
     "event_name": "play_fx_slmr_ex_yanwu",
     "type": 1
   },
@@ -36127,7 +36127,7 @@
   },
   {
     "id": 6022,
-    "name": "怒意[音38]爆发_buff_骑士团团长buff",
+    "name": "[音38]爆发_buff_骑士团团长buff",
     "event_name": "play_fx_tuanzhang_buff2",
     "type": 1
   },
@@ -36490,5 +36490,1463 @@
     "name": "M55通常战斗E_1500ms",
     "event_name": "Play_Mus_Battle_GeneralE_1500ms",
     "type": 2
+  },
+  {
+    "id": 6406,
+    "name": "M56仔细推理",
+    "event_name": "Play_Mus_Scenario_Inference",
+    "type": 2
+  },
+  {
+    "id": 6407,
+    "name": "M57正义的代价",
+    "event_name": "Play_Mus_Scenario_ThePrice",
+    "type": 2
+  },
+  {
+    "id": 6408,
+    "name": "M57正义的代价_2500ms",
+    "event_name": "Play_Mus_Scenario_ThePrice_2500ms",
+    "type": 2
+  },
+  {
+    "id": 6409,
+    "name": "M58裂隙出现",
+    "event_name": "Play_Mus_Scenario_Rift",
+    "type": 2
+  },
+  {
+    "id": 6410,
+    "name": "M58裂隙出现_1500ms",
+    "event_name": "Play_Mus_Scenario_Rift_1500ms",
+    "type": 2
+  },
+  {
+    "id": 6411,
+    "name": "M59苦涩的无奈",
+    "event_name": "Play_Mus_Scenario_Resigned",
+    "type": 2
+  },
+  {
+    "id": 6412,
+    "name": "M59苦涩的无奈_1500ms",
+    "event_name": "Play_Mus_Scenario_Resigned_1500ms",
+    "type": 2
+  },
+  {
+    "id": 6413,
+    "name": "stage_interior-pa-da00801",
+    "event_name": "play_amb_stage_poor_day",
+    "type": 1
+  },
+  {
+    "id": 6414,
+    "name": "stage_desert-os-da01101-001",
+    "event_name": "play_amb_stage_desert_town_day",
+    "type": 1
+  },
+  {
+    "id": 6415,
+    "name": "stage_desert-os-ni01601",
+    "event_name": "play_amb_stage_desert_pool_night",
+    "type": 1
+  },
+  {
+    "id": 6416,
+    "name": "stage_interior-pa-ni01001",
+    "event_name": "play_amb_stage_interior_pa_ni",
+    "type": 1
+  },
+  {
+    "id": 6417,
+    "name": "[音38]横扫_剑突刺_学姐",
+    "event_name": "play_fx_xuejie_hengsaozhan",
+    "type": 1
+  },
+  {
+    "id": 6418,
+    "name": "[音38]横扫剑气_学姐",
+    "event_name": "play_fx_xuejie_jianqi",
+    "type": 1
+  },
+  {
+    "id": 6419,
+    "name": "[音38]命中_爆点_学姐",
+    "event_name": "play_fx_xuejie_mz_bao",
+    "type": 1
+  },
+  {
+    "id": 6420,
+    "name": "[音38]命中_刃斩击_学姐",
+    "event_name": "play_fx_xuejie_mz_zhanji",
+    "type": 1
+  },
+  {
+    "id": 6421,
+    "name": "[音38]突刺_学姐",
+    "event_name": "play_fx_xuejie_tuci",
+    "type": 1
+  },
+  {
+    "id": 6422,
+    "name": "[音38]命中_气流扩散_学姐",
+    "event_name": "play_fx_xuejie_mz_zhongtuci2",
+    "type": 1
+  },
+  {
+    "id": 6423,
+    "name": "[音38]杖横扫_学姐",
+    "event_name": "play_fx_xuejie_zhangsao",
+    "type": 1
+  },
+  {
+    "id": 6424,
+    "name": "[音38]buff_攻击提升_学姐",
+    "event_name": "play_fx_xuejie_buff",
+    "type": 1
+  },
+  {
+    "id": 6425,
+    "name": "[音36]sp索菲亚_ex",
+    "event_name": "play_fx_spsuofeiya_ex",
+    "type": 1
+  },
+  {
+    "id": 6426,
+    "name": "[音38]EX2_学姐",
+    "event_name": "play_fx_xuejie_ex2",
+    "type": 1
+  },
+  {
+    "id": 6427,
+    "name": "[音36]sp索菲亚_ex群体",
+    "event_name": "play_fx_spsuofeiya_ex_hit",
+    "type": 1
+  },
+  {
+    "id": 6429,
+    "name": "[音36]sp索菲亚_伙伴",
+    "event_name": "play_fx_spsuofeiya_huoban",
+    "type": 1
+  },
+  {
+    "id": 6430,
+    "name": "[音36]sp索菲亚_普攻蓄力",
+    "event_name": "play_fx_spsuofeiya_pugongxuli",
+    "type": 1
+  },
+  {
+    "id": 6431,
+    "name": "[音36]命中_sp索菲亚易容术",
+    "event_name": "play_fx_spsuofeiya_yirongshu",
+    "type": 1
+  },
+  {
+    "id": 6432,
+    "name": "[音36]命中_sp索菲亚后备部队",
+    "event_name": "play_fx_spsuofeiya_houbeibudui",
+    "type": 1
+  },
+  {
+    "id": 6433,
+    "name": "[音36]sp索菲亚_后备部队蓄力",
+    "event_name": "play_fx_spsuofeiya_houbeibudui_xuli",
+    "type": 1
+  },
+  {
+    "id": 6434,
+    "name": "[音36]命中_sp索菲亚弱点提示",
+    "event_name": "play_fx_spsuofeiya_ruodiantishi",
+    "type": 1
+  },
+  {
+    "id": 6435,
+    "name": "[音36]sp索菲亚_弱点提示蓄力",
+    "event_name": "play_fx_spsuofeiya_ruodiantishi_xuli",
+    "type": 1
+  },
+  {
+    "id": 6436,
+    "name": "[音36]命中_sp索菲亚动如脱兔",
+    "event_name": "play_fx_spsuofeiya_dongrutuotu",
+    "type": 1
+  },
+  {
+    "id": 6463,
+    "name": "[音36]sp索菲亚_后备部队召唤",
+    "event_name": "play_fx_spsuofeiya_houbeibudui01",
+    "type": 1
+  },
+  {
+    "id": 6464,
+    "name": "[音36]sp索菲亚_弱点提示召唤",
+    "event_name": "play_fx_spsuofeiya_ruodiantishi01",
+    "type": 1
+  },
+  {
+    "id": 6465,
+    "name": "[音36]sp索菲亚_动如脱兔召唤",
+    "event_name": "play_fx_spsuofeiya_dongrutuotu01",
+    "type": 1
+  },
+  {
+    "id": 6466,
+    "name": "[音38]EX1_学姐",
+    "event_name": "play_fx_xuejie_ex1",
+    "type": 1
+  },
+  {
+    "id": 6467,
+    "name": "[音36]sp索菲亚_专属普攻01",
+    "event_name": "play_fx_spsuofeiya_zhuanshupugong",
+    "type": 1
+  },
+  {
+    "id": 6468,
+    "name": "[音36]命中_sp索菲亚专属普攻hit",
+    "event_name": "play_fx_spsuofeiya_pugong_hit01",
+    "type": 1
+  },
+  {
+    "id": 6469,
+    "name": "[音38]地块_爆点_学姐",
+    "event_name": "play_fx_xuejie_mz_bao3",
+    "type": 1
+  },
+  {
+    "id": 6470,
+    "name": "[音38]拔刀剑气_学姐",
+    "event_name": "play_fx_xuejie_shunzhan",
+    "type": 1
+  },
+  {
+    "id": 6471,
+    "name": "[音38]十字闪光_学姐",
+    "event_name": "play_fx_xuejie_shizishan",
+    "type": 1
+  },
+  {
+    "id": 6472,
+    "name": "[音36]sp索菲亚直线戳attack",
+    "event_name": "play_fx_spsuofeiya_attackmore_02",
+    "type": 1
+  },
+  {
+    "id": 6473,
+    "name": "[音38]cast_学姐",
+    "event_name": "play_fx_xuejie_cast",
+    "type": 1
+  },
+  {
+    "id": 6474,
+    "name": "[音36]sp索菲亚_转移",
+    "event_name": "play_fx_spsuofeiya_zhuanyi02",
+    "type": 1
+  },
+  {
+    "id": 6475,
+    "name": "[音36]buff_sp索菲亚_转身",
+    "event_name": "play_fx_spsuofeiya_zhuanshen",
+    "type": 1
+  },
+  {
+    "id": 6476,
+    "name": "[音38]上挑_学姐",
+    "event_name": "play_fx_xuejie_shangtiao",
+    "type": 1
+  },
+  {
+    "id": 6477,
+    "name": "[音38]黑屏拔刀斩_白色",
+    "event_name": "play_fx_wallattack_sword_04",
+    "type": 1
+  },
+  {
+    "id": 6478,
+    "name": "[音43]群疗术_战术指令_大活三",
+    "event_name": "play_fx_zhujue_qunliao",
+    "type": 1
+  },
+  {
+    "id": 6479,
+    "name": "[音43]加速_蓝鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolan_jiasu",
+    "type": 1
+  },
+  {
+    "id": 6480,
+    "name": "[音43]拉人_蓝鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolan_la",
+    "type": 1
+  },
+  {
+    "id": 6481,
+    "name": "[音43]推人_蓝鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolan_tui",
+    "type": 1
+  },
+  {
+    "id": 6482,
+    "name": "[音43]冲锋_红鸟_大活三",
+    "event_name": "play_fx_zhujue_niaohong_chongfeng",
+    "type": 1
+  },
+  {
+    "id": 6483,
+    "name": "[音43]传送上天_绿鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolv_chuansong1",
+    "type": 1
+  },
+  {
+    "id": 6484,
+    "name": "[音43]传送落地_绿鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolv_chuansong2",
+    "type": 1
+  },
+  {
+    "id": 6485,
+    "name": "[音43]攻击_绿鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolv_zhui",
+    "type": 1
+  },
+  {
+    "id": 6486,
+    "name": "[音43]命中冲锋_红鸟_大活三",
+    "event_name": "play_fx_zhujue_niaohong_shouji",
+    "type": 1
+  },
+  {
+    "id": 6487,
+    "name": "[音43]施法2_蓝鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolan_shifa2",
+    "type": 1
+  },
+  {
+    "id": 6488,
+    "name": "[音43]变身_红鸟_大活三",
+    "event_name": "play_fx_zhujue_niaolv_bianshen",
+    "type": 1
+  },
+  {
+    "id": 6489,
+    "name": "[音39]混血少女_炒饭",
+    "event_name": "play_fx_hunxueshaonv_chaofan",
+    "type": 1
+  },
+  {
+    "id": 6490,
+    "name": "[音43]小魔女巡逻_战术技能_大活三",
+    "event_name": "play_fx_xiaomonv_zhanshu",
+    "type": 1
+  },
+  {
+    "id": 6499,
+    "name": "[音41]特效_连线_青蛙敌方_4方向",
+    "event_name": "play_swingline2_qingwa",
+    "type": 1
+  },
+  {
+    "id": 6500,
+    "name": "[音41]青蛙吐舌命中",
+    "event_name": "play_fx_guziman_201_qingwa",
+    "type": 1
+  },
+  {
+    "id": 6501,
+    "name": "[音46]绳套头顶命中_01",
+    "event_name": "play_fx_item_rope_hit_01",
+    "type": 1
+  },
+  {
+    "id": 6502,
+    "name": "[音46]地块_天降蛛网",
+    "event_name": "play_fx_net_down_01",
+    "type": 1
+  },
+  {
+    "id": 6503,
+    "name": "[音21]普攻-战车本能",
+    "event_name": "play_fx_pugong_zhanchebenneng",
+    "type": 1
+  },
+  {
+    "id": 6504,
+    "name": "[音21]地块_意志迸发_战车意志",
+    "event_name": "play_fx_skill2_zhancheyizhi",
+    "type": 1
+  },
+  {
+    "id": 6505,
+    "name": "[音36]命中_sp索菲亚ex",
+    "event_name": "fx_yinlang_chongfeng",
+    "type": 1
+  },
+  {
+    "id": 6506,
+    "name": "[音38]相机_学姐",
+    "event_name": "play_fx_dancer_universal_start_16",
+    "type": 1
+  },
+  {
+    "id": 6507,
+    "name": "[音40]命中_女仆攻击hit",
+    "event_name": "play_fx_nvpu_hit",
+    "type": 1
+  },
+  {
+    "id": 6508,
+    "name": "[音40]横扫_女仆杀手",
+    "event_name": "play_fx_nvpu_hengsao",
+    "type": 1
+  },
+  {
+    "id": 6509,
+    "name": "[音40]女仆瞬移消失",
+    "event_name": "play_fx_nvpu_shunyi_1",
+    "type": 1
+  },
+  {
+    "id": 6510,
+    "name": "[音40]女仆瞬移出现",
+    "event_name": "play_fx_nvpu_shunyi_2",
+    "type": 1
+  },
+  {
+    "id": 6511,
+    "name": "[音40]周身_女仆杀手",
+    "event_name": "play_fx_nvpu_zhoushen",
+    "type": 1
+  },
+  {
+    "id": 6512,
+    "name": "[音40]女仆恨标记",
+    "event_name": "play_fx_nvpu_henbiaoji",
+    "type": 1
+  },
+  {
+    "id": 6513,
+    "name": "[音40]追击_女仆",
+    "event_name": "play_fx_nvpu_fanji",
+    "type": 1
+  },
+  {
+    "id": 6514,
+    "name": "[音40]攻击_女仆杀手",
+    "event_name": "play_fx_nvpu_gongji",
+    "type": 1
+  },
+  {
+    "id": 6515,
+    "name": "[音40]重击-女仆",
+    "event_name": "play_fx_nvpu_zhongji",
+    "type": 1
+  },
+  {
+    "id": 6516,
+    "name": "[音40]女仆家务",
+    "event_name": "play_fx_nvpu_jiawu",
+    "type": 1
+  },
+  {
+    "id": 6517,
+    "name": "[音40]女仆爱01",
+    "event_name": "play_fx_nvpu_ai01",
+    "type": 1
+  },
+  {
+    "id": 6518,
+    "name": "[音40]女仆爱02",
+    "event_name": "play_fx_nvpu_ai02",
+    "type": 1
+  },
+  {
+    "id": 6519,
+    "name": "[音40]女仆恨01",
+    "event_name": "play_fx_nvpu_hen01",
+    "type": 1
+  },
+  {
+    "id": 6520,
+    "name": "[音40]女仆恨02",
+    "event_name": "play_fx_nvpu_hen02",
+    "type": 1
+  },
+  {
+    "id": 6521,
+    "name": "[音40]女仆喝药_头顶",
+    "event_name": "play_fx_nvpu_heyao",
+    "type": 1
+  },
+  {
+    "id": 6522,
+    "name": "[音40]女仆喝药",
+    "event_name": "play_fx_nvpu_heyao01",
+    "type": 1
+  },
+  {
+    "id": 6523,
+    "name": "[音40]女仆潜入",
+    "event_name": "play_fx_nvpu_exqianfu01",
+    "type": 1
+  },
+  {
+    "id": 6524,
+    "name": "[音40]命中_女仆潜入",
+    "event_name": "play_fx_nvpu_exqianfu02",
+    "type": 1
+  },
+  {
+    "id": 6525,
+    "name": "[音40]女仆EX01",
+    "event_name": "play_fx_nvpu_ex02",
+    "type": 1
+  },
+  {
+    "id": 6526,
+    "name": "[音40]女仆EX",
+    "event_name": "play_fx_nvpu_ex01",
+    "type": 1
+  },
+  {
+    "id": 6527,
+    "name": "[音40]女仆EXhit",
+    "event_name": "play_fx_nvpu_exhit",
+    "type": 1
+  },
+  {
+    "id": 6528,
+    "name": "[音42]攻击直拳_黑帮女",
+    "event_name": "play_fx_heibanglv_quan2",
+    "type": 1
+  },
+  {
+    "id": 6529,
+    "name": "[音42]命中_攻击_黑帮女",
+    "event_name": "play_fx_heibanglv_gong",
+    "type": 1
+  },
+  {
+    "id": 6530,
+    "name": "[音42]命中_爆炸_黑帮女",
+    "event_name": "play_fx_heibanglv_baozha3",
+    "type": 1
+  },
+  {
+    "id": 6531,
+    "name": "[音42]ex1_黑帮女",
+    "event_name": "play_fx_heibanglv_ex1",
+    "type": 1
+  },
+  {
+    "id": 6532,
+    "name": "[音42]ex2_黑帮女",
+    "event_name": "play_fx_heibanglv_ex2",
+    "type": 1
+  },
+  {
+    "id": 6533,
+    "name": "[音42]击飞_黑帮女",
+    "event_name": "play_fx_heibanglv_jifei2",
+    "type": 1
+  },
+  {
+    "id": 6534,
+    "name": "[音42]举起_头顶闪光_黑帮女",
+    "event_name": "play_fx_heibanglv_jingsh2",
+    "type": 1
+  },
+  {
+    "id": 6535,
+    "name": "[音42]命中_标记_黑帮女",
+    "event_name": "play_fx_heibanglv_biaoji",
+    "type": 1
+  },
+  {
+    "id": 6536,
+    "name": "[音42]标记_buff_黑帮女",
+    "event_name": "play_fx_heibanglv_biaoji_buff",
+    "type": 1
+  },
+  {
+    "id": 6537,
+    "name": "[音42]爆炸_范围爆炸_黑帮女",
+    "event_name": "play_fx_heibanglv_baozha2",
+    "type": 1
+  },
+  {
+    "id": 6538,
+    "name": "[音42]瞬移_黑帮女",
+    "event_name": "play_fx_heibanglv_shunyi",
+    "type": 1
+  },
+  {
+    "id": 6539,
+    "name": "[音42]地块_烟雾_黑帮女",
+    "event_name": "play_fx_heibanglv_yanwu",
+    "type": 1
+  },
+  {
+    "id": 6540,
+    "name": "[音42]闪光_黑帮女",
+    "event_name": "play_fx_heibanglv_shan",
+    "type": 1
+  },
+  {
+    "id": 6541,
+    "name": "[音42]命中_重_黑帮女",
+    "event_name": "play_fx_heibanglv_zhong",
+    "type": 1
+  },
+  {
+    "id": 6542,
+    "name": "[音42]抛投_黑帮女",
+    "event_name": "play_fx_heibanglv_paotou",
+    "type": 1
+  },
+  {
+    "id": 6543,
+    "name": "[音42]爆炸_周身爆炸_黑帮女",
+    "event_name": "play_fx_heibanglv_baozha",
+    "type": 1
+  },
+  {
+    "id": 6544,
+    "name": "[音42]变身_黑帮女",
+    "event_name": "play_fx_heibanglv_bianshen",
+    "type": 1
+  },
+  {
+    "id": 6545,
+    "name": "[音42]变身_黑白闪_黑帮女",
+    "event_name": "play_fx_heibanglv_heibaishan",
+    "type": 1
+  },
+  {
+    "id": 6546,
+    "name": "[音42]变身_持续buff_黑帮女",
+    "event_name": "play_fx_heibanglv_chaosai",
+    "type": 1
+  },
+  {
+    "id": 6547,
+    "name": "[音42]横扫_黑帮女",
+    "event_name": "play_fx_heibanglv_hengsao",
+    "type": 1
+  },
+  {
+    "id": 6548,
+    "name": "[音42]攻击气流_黑帮女",
+    "event_name": "play_fx_heibanglv_qiliu",
+    "type": 1
+  },
+  {
+    "id": 6549,
+    "name": "[音42]攻击刺拳_黑帮女",
+    "event_name": "play_fx_heibanglv_quan1",
+    "type": 1
+  },
+  {
+    "id": 6550,
+    "name": "[音42]命中_轻_黑帮女",
+    "event_name": "play_fx_heibanglv_qing",
+    "type": 1
+  },
+  {
+    "id": 6551,
+    "name": "[音43]塔罗boss护盾_大活三_触发",
+    "event_name": "play_fx_taluoboss04_dunbuff",
+    "type": 1
+  },
+  {
+    "id": 6552,
+    "name": "[音44]大剑横扫_02_身后结束",
+    "event_name": "play_fx_bigswordattack_02",
+    "type": 1
+  },
+  {
+    "id": 6553,
+    "name": "[音44]大型狂乱气流_01",
+    "event_name": "play_fx_bladestorm_04",
+    "type": 1
+  },
+  {
+    "id": 6554,
+    "name": "[音44]重拳击",
+    "event_name": "play_fxtl_boxing_01",
+    "type": 1
+  },
+  {
+    "id": 6555,
+    "name": "[音44]小型冲锋气流",
+    "event_name": "play_fx_bladestorm_run_02",
+    "type": 1
+  },
+  {
+    "id": 6556,
+    "name": "[音44]大剑后撩_01",
+    "event_name": "play_fx_attacksword_up_02",
+    "type": 1
+  },
+  {
+    "id": 6557,
+    "name": "[音44]球形气浪_中型",
+    "event_name": "play_fx_vacuumattack_01",
+    "type": 1
+  },
+  {
+    "id": 6558,
+    "name": "[音44]大剑横扫_01",
+    "event_name": "play_fx_bigswordattack_01",
+    "type": 1
+  },
+  {
+    "id": 6559,
+    "name": "[音44]中型冲锋气流",
+    "event_name": "play_fx_bladestorm_run_01",
+    "type": 1
+  },
+  {
+    "id": 6560,
+    "name": "[音44]SP拉维耶CUTIN_01_举剑",
+    "event_name": "play_fx_splaweiye_ex_cutin_01",
+    "type": 1
+  },
+  {
+    "id": 6561,
+    "name": "[音44]SP拉维耶第一刀刀光",
+    "event_name": "play_fx_splaweiye_bigsword_attack_01",
+    "type": 1
+  },
+  {
+    "id": 6562,
+    "name": "[音44]SP拉维耶第二刀刀光",
+    "event_name": "play_fx_splaweiye_bigsword_attack_02",
+    "type": 1
+  },
+  {
+    "id": 6563,
+    "name": "[音44]SP拉维耶小剧场_大招_1100长度",
+    "event_name": "play_fx_ex_hcrimsonlavierfset01_movie_01",
+    "type": 1
+  },
+  {
+    "id": 6564,
+    "name": "[音44]SP拉维耶小剧场后刮风",
+    "event_name": "play_fx_bladestorm_08",
+    "type": 1
+  },
+  {
+    "id": 6565,
+    "name": "[音44]SP拉维耶EX_结束大刀光",
+    "event_name": "play_fx_splaweiye_bigsword_attack_03",
+    "type": 1
+  },
+  {
+    "id": 6566,
+    "name": "[音44]SP拉维耶蓄力cast",
+    "event_name": "play_fx_powerup_02_loop",
+    "type": 1
+  },
+  {
+    "id": 6567,
+    "name": "[音44]飞行道具拖尾_小型龙卷风",
+    "event_name": "play_fx_littletornado_01",
+    "type": 1
+  },
+  {
+    "id": 6568,
+    "name": "[音44]命中_小型龙卷风",
+    "event_name": "play_fx_littletornado_hit_01",
+    "type": 1
+  },
+  {
+    "id": 6569,
+    "name": "[音45]自爆-火法",
+    "event_name": "play_fx_huoqiu_zibao",
+    "type": 1
+  },
+  {
+    "id": 6570,
+    "name": "[音45]召唤大火球蓄力",
+    "event_name": "play_fx_zonghuofan_zhaohuanxuli",
+    "type": 1
+  },
+  {
+    "id": 6571,
+    "name": "[音45]火法支援",
+    "event_name": "play_fx_zonghuofan_zhiyuan",
+    "type": 1
+  },
+  {
+    "id": 6572,
+    "name": "[音45]召唤大火球",
+    "event_name": "play_fx_zonghuofan_zhaohuan",
+    "type": 1
+  },
+  {
+    "id": 6573,
+    "name": "[音45]蓄力循环_自爆大火球",
+    "event_name": "play_fx_huoqiu_zibaoxuli_loop",
+    "type": 1
+  },
+  {
+    "id": 6574,
+    "name": "[音45]火球die",
+    "event_name": "play_fx_huoqiu_die",
+    "type": 1
+  },
+  {
+    "id": 6606,
+    "name": "hcrimsonhousemaidkillerfset01_idle",
+    "event_name": "nvpu_idle",
+    "type": 1
+  },
+  {
+    "id": 6607,
+    "name": "hcrimsonhousemaidkillerfset01_injured",
+    "event_name": "nvpu_injured",
+    "type": 1
+  },
+  {
+    "id": 6608,
+    "name": "hcrimsonhousemaidkillerfset01_injured2",
+    "event_name": "nvpu_injured2",
+    "type": 1
+  },
+  {
+    "id": 6609,
+    "name": "hcrimsonhousemaidkillerfset01_dodge",
+    "event_name": "nvpu_dodge",
+    "type": 1
+  },
+  {
+    "id": 6610,
+    "name": "hcrimsonhousemaidkillerfset01_throw",
+    "event_name": "nvpu_throw",
+    "type": 1
+  },
+  {
+    "id": 6611,
+    "name": "hcrimsonhousemaidkillerfset01_Exskill",
+    "event_name": "nvpu_Exskill",
+    "type": 1
+  },
+  {
+    "id": 6612,
+    "name": "hcrimsonhousemaidkillerfset01_Exskill2",
+    "event_name": "nvpu_Exskill2",
+    "type": 1
+  },
+  {
+    "id": 6613,
+    "name": "hcrimsonhousemaidkillerfset01_attack",
+    "event_name": "nvpu_attack",
+    "type": 1
+  },
+  {
+    "id": 6614,
+    "name": "hcrimsonhousemaidkillerfset01_attack2",
+    "event_name": "nvpu_attack2",
+    "type": 1
+  },
+  {
+    "id": 6615,
+    "name": "hcrimsonhousemaidkillerfset01_attack3",
+    "event_name": "nvpu_attack3",
+    "type": 1
+  },
+  {
+    "id": 6616,
+    "name": "hcrimsonhousemaidkillerfset01_attack4",
+    "event_name": "nvpu_attack4",
+    "type": 1
+  },
+  {
+    "id": 6617,
+    "name": "hcrimsonhousemaidkillerfset01_attack5",
+    "event_name": "nvpu_attack5",
+    "type": 1
+  },
+  {
+    "id": 6618,
+    "name": "hcrimsonhousemaidkillerfset01_anime2",
+    "event_name": "nvpu_anime2",
+    "type": 1
+  },
+  {
+    "id": 6619,
+    "name": "hcrimsonhousemaidkillerfset01_crouch",
+    "event_name": "nvpu_land_nylon",
+    "type": 1
+  },
+  {
+    "id": 6620,
+    "name": "hcrimsonhousemaidkillerfset01_jumpUp",
+    "event_name": "nvpu_whooshNylon",
+    "type": 1
+  },
+  {
+    "id": 6621,
+    "name": "hcrimsonhousemaidkillerfset01_cheer",
+    "event_name": "nvpu_cheer",
+    "type": 1
+  },
+  {
+    "id": 6622,
+    "name": "hcrimsonhousemaidkillerfset01_cast",
+    "event_name": "nvpu_x",
+    "type": 1
+  },
+  {
+    "id": 6623,
+    "name": "hcrimsonhousemaidkillerfset01_anime4",
+    "event_name": "nvpu_anime4",
+    "type": 1
+  },
+  {
+    "id": 6624,
+    "name": "hcrimsonhousemaidkillerfset01_anime5",
+    "event_name": "nvpu_anime5",
+    "type": 1
+  },
+  {
+    "id": 6625,
+    "name": "hcrimsonhousemaidkillerfset01_throwStart",
+    "event_name": "nvpu_throwStart",
+    "type": 1
+  },
+  {
+    "id": 6626,
+    "name": "hcrimsonhousemaidkillerfset01_throwEnd",
+    "event_name": "nvpu_throwEnd",
+    "type": 1
+  },
+  {
+    "id": 6627,
+    "name": "hcrimsonhousemaidkillerfset01_throwHold",
+    "event_name": "nvpu_throwHold",
+    "type": 1
+  },
+  {
+    "id": 6628,
+    "name": "hcrimsonhousemaidkillerfset01_attackStart",
+    "event_name": "nvpu_attackStart",
+    "type": 1
+  },
+  {
+    "id": 6629,
+    "name": "hcrimsonhousemaidkillerfset01_attackEnd",
+    "event_name": "nvpu_attackEnd",
+    "type": 1
+  },
+  {
+    "id": 6630,
+    "name": "hcrimsonhousemaidkillerfset01_attackHold",
+    "event_name": "nvpu_attackHold",
+    "type": 1
+  },
+  {
+    "id": 6631,
+    "name": "hcrimsonhousemaidkillerfset01_attack2Start",
+    "event_name": "nvpu_attack2Start",
+    "type": 1
+  },
+  {
+    "id": 6632,
+    "name": "hcrimsonhousemaidkillerfset01_attack2End",
+    "event_name": "nvpu_attack2End",
+    "type": 1
+  },
+  {
+    "id": 6633,
+    "name": "hcrimsonhousemaidkillerfset01_attack2Hold",
+    "event_name": "nvpu_attack2Hold",
+    "type": 1
+  },
+  {
+    "id": 6634,
+    "name": "hcrimsonhousemaidkillerfset01_attack3Start",
+    "event_name": "nvpu_attack3Start",
+    "type": 1
+  },
+  {
+    "id": 6635,
+    "name": "hcrimsonhousemaidkillerfset01_attack3End",
+    "event_name": "nvpu_attack3End",
+    "type": 1
+  },
+  {
+    "id": 6636,
+    "name": "hcrimsonhousemaidkillerfset01_attack3Hold",
+    "event_name": "nvpu_attack3Hold",
+    "type": 1
+  },
+  {
+    "id": 6637,
+    "name": "hcrimsonhousemaidkillerfset01_anime1Start",
+    "event_name": "nvpu_anime1Start",
+    "type": 1
+  },
+  {
+    "id": 6638,
+    "name": "hcrimsonhousemaidkillerfset01_anime1End",
+    "event_name": "nvpu_anime1End",
+    "type": 1
+  },
+  {
+    "id": 6639,
+    "name": "hcrimsonhousemaidkillerfset01_anime1Hold",
+    "event_name": "nvpu_anime1Hold",
+    "type": 1
+  },
+  {
+    "id": 6640,
+    "name": "hcrimsonhousemaidkillerfset01_anime2Hold",
+    "event_name": "nvpu_anime2Hold",
+    "type": 1
+  },
+  {
+    "id": 6641,
+    "name": "hcrimsonhousemaidkillerfset01_ExskillHold",
+    "event_name": "nvpu_ExskillHold",
+    "type": 1
+  },
+  {
+    "id": 6661,
+    "name": "[音49]EX01-女将军",
+    "event_name": "play_fx_nvjiangjun_ex01",
+    "type": 1
+  },
+  {
+    "id": 6662,
+    "name": "[音49]EX02-女将军",
+    "event_name": "play_fx_nvjiangjun_ex02",
+    "type": 1
+  },
+  {
+    "id": 6663,
+    "name": "[音49]重击-女将军",
+    "event_name": "play_fx_nvjiangjun_hengsao",
+    "type": 1
+  },
+  {
+    "id": 6664,
+    "name": "[音49]攻击-女将军",
+    "event_name": "play_fx_nvjiangjun_pugong",
+    "type": 1
+  },
+  {
+    "id": 6665,
+    "name": "[音49]个性反击-女将军",
+    "event_name": "play_fx_nvjiangjun_gexing",
+    "type": 1
+  },
+  {
+    "id": 6666,
+    "name": "[音49]嘲讽加buff-女将军",
+    "event_name": "play_fx_nvjiangjun_chaofeng01",
+    "type": 1
+  },
+  {
+    "id": 6667,
+    "name": "[音49]突击1x2-女将军",
+    "event_name": "play_fx_nvjiangjun_tuji1x2",
+    "type": 1
+  },
+  {
+    "id": 6668,
+    "name": "[音49]突击1x5-女将军",
+    "event_name": "play_fx_nvjiangjun_tuji1x5",
+    "type": 1
+  },
+  {
+    "id": 6669,
+    "name": "[音47]飞行道具_彩色追踪飞弹_春愿",
+    "event_name": "play_fx_beilamagicball_02",
+    "type": 1
+  },
+  {
+    "id": 6670,
+    "name": "[音47]命中_春愿hit_贝拉_02_烟雾",
+    "event_name": "play_fx_beilafireball_hit_04",
+    "type": 1
+  },
+  {
+    "id": 6671,
+    "name": "[音47]春愿贝拉循环cast",
+    "event_name": "play_fx_spring_cast_loop_01",
+    "type": 1
+  },
+  {
+    "id": 6672,
+    "name": "[音47]贝拉春愿扇形弹幕_02_泡泡",
+    "event_name": "play_fxtl_wizard_dragonbreath_03",
+    "type": 1
+  },
+  {
+    "id": 6673,
+    "name": "[音47]命中_春愿hit_贝拉_03_闪烁",
+    "event_name": "play_fx_beilafireball_hit_05",
+    "type": 1
+  },
+  {
+    "id": 6674,
+    "name": "[音47]地块_召唤下落石块_春愿",
+    "event_name": "play_fx_falltoy_01",
+    "type": 1
+  },
+  {
+    "id": 6675,
+    "name": "[音50]双规爆炸_柯瓦雷",
+    "event_name": "play_fx_suoba_shuangguibaozha",
+    "type": 1
+  },
+  {
+    "id": 6676,
+    "name": "[音50]双规蓄力_柯瓦雷",
+    "event_name": "play_fx_suoba_shifa01_zi",
+    "type": 1
+  },
+  {
+    "id": 6677,
+    "name": "[音47]小魔女_EX01_翻包_春愿",
+    "event_name": "play_fx_beila_ex01_fanbao_spring",
+    "type": 1
+  },
+  {
+    "id": 6678,
+    "name": "[音47]爆炸_小魔女春愿自爆",
+    "event_name": "play_fx_magicboom_impact_02",
+    "type": 1
+  },
+  {
+    "id": 6679,
+    "name": "[音47]地块_春愿小魔女能量柱",
+    "event_name": "play_fx_spring_powerpost_01",
+    "type": 1
+  },
+  {
+    "id": 6680,
+    "name": "[音50]柯瓦雷_拖尾",
+    "event_name": "play_fx_suoba_tuowei",
+    "type": 1
+  },
+  {
+    "id": 6681,
+    "name": "[音47]举起窜天猴_头顶_春愿",
+    "event_name": "play_fx_item_bomb_06",
+    "type": 1
+  },
+  {
+    "id": 6682,
+    "name": "[音47]贝拉祝福烟花_窜天猴_春愿",
+    "event_name": "play_fx_beila_fireworks_02",
+    "type": 1
+  },
+  {
+    "id": 6683,
+    "name": "[音47]贝拉飞弹前施法_春愿_星星",
+    "event_name": "play_fx_beila_attack_04",
+    "type": 1
+  },
+  {
+    "id": 6684,
+    "name": "[音47]小魔女EX地上包_春愿",
+    "event_name": "play_fx_magicbag_02",
+    "type": 1
+  },
+  {
+    "id": 6685,
+    "name": "[音47]爆炸_小魔女春愿EX爆炸_01",
+    "event_name": "play_fx_beilafireboom_impact_05",
+    "type": 1
+  },
+  {
+    "id": 6686,
+    "name": "[音47]魔法爆炸_陨石雨_春愿",
+    "event_name": "play_fx_beilafireboom_impact_04",
+    "type": 1
+  },
+  {
+    "id": 6687,
+    "name": "[音50]ex_柯瓦雷",
+    "event_name": "play_fx_suoba_ex",
+    "type": 1
+  },
+  {
+    "id": 6688,
+    "name": "[音50]boss平射爆炸_柯瓦雷",
+    "event_name": "play_fx_suoba_baozha_boss",
+    "type": 1
+  },
+  {
+    "id": 6689,
+    "name": "[音49]周身-女将军",
+    "event_name": "play_fx_nvjiangjun_zhoushen",
+    "type": 1
+  },
+  {
+    "id": 6690,
+    "name": "[音47]举起礼物_头顶",
+    "event_name": "play_fx_item_bomb_07",
+    "type": 1
+  },
+  {
+    "id": 6691,
+    "name": "[音47]举起魔法书_ 持续_春愿",
+    "event_name": "play_fx_item_book_04",
+    "type": 1
+  },
+  {
+    "id": 6692,
+    "name": "[音47]地块_强力火柱_春愿",
+    "event_name": "play_fx_spring_powerpost_02",
+    "type": 1
+  },
+  {
+    "id": 6693,
+    "name": "[音47]命中_小魔女EX能量柱_春愿",
+    "event_name": "play_fx_spring_powerpost_03",
+    "type": 1
+  },
+  {
+    "id": 6694,
+    "name": "[音47]小魔女春愿EX_屏幕烟花",
+    "event_name": "play_fx_spring_fireworks_ex_01",
+    "type": 1
+  },
+  {
+    "id": 6695,
+    "name": "[音47]特效_连线_贝拉乱丢攻02_EX春愿",
+    "event_name": "play_fx_swingline_beila_throwattack_04",
+    "type": 1
+  },
+  {
+    "id": 6696,
+    "name": "[音47]小魔女皮肤01_原地施法",
+    "event_name": "play_fx_beila_attack_05",
+    "type": 1
+  },
+  {
+    "id": 7275,
+    "name": "stage_marsh-os-da00101",
+    "event_name": "play_amb_stage_marsh_day",
+    "type": 1
+  },
+  {
+    "id": 7276,
+    "name": "stage_marsh-os-ni00101",
+    "event_name": "play_amb_stage_marsh_ni",
+    "type": 1
+  },
+  {
+    "id": 7277,
+    "name": "stage_marsh-os-da00201",
+    "event_name": "play_amb_stage_marsh_dry_day",
+    "type": 1
+  },
+  {
+    "id": 7278,
+    "name": "stage_marsh-os-ni00301",
+    "event_name": "play_amb_stage_marsh_dry_ni",
+    "type": 1
+  },
+  {
+    "id": 7280,
+    "name": "[音56]命中_猫影连刺hit_01",
+    "event_name": "play_fx_hit_cat_01",
+    "type": 1
+  },
+  {
+    "id": 7281,
+    "name": "[音56]命中_猫影连刺hit_02",
+    "event_name": "play_fx_hit_cat_02",
+    "type": 1
+  },
+  {
+    "id": 7282,
+    "name": "[音56]命中_猫影连刺hit_03",
+    "event_name": "play_fx_hit_cat_03",
+    "type": 1
+  },
+  {
+    "id": 7283,
+    "name": "[音56]纯黑猫_非像素版",
+    "event_name": "play_fx_buff_cat_02",
+    "type": 1
+  },
+  {
+    "id": 7284,
+    "name": "[音56]烟雾化猫消失",
+    "event_name": "play_fx_die_cat_01",
+    "type": 1
+  },
+  {
+    "id": 7285,
+    "name": "[音56]命中_猫影绿色毒hit",
+    "event_name": "play_fx_hit_cat_green_01",
+    "type": 1
+  },
+  {
+    "id": 7286,
+    "name": "[音56]野猫路过_屏幕中心",
+    "event_name": "play_fx_ex_cat_camera_01",
+    "type": 1
+  },
+  {
+    "id": 7287,
+    "name": "伊利亚长枪兵_attack3End",
+    "event_name": ".",
+    "type": 1
+  },
+  {
+    "id": 7288,
+    "name": "hbanditthemaskmset02_idle",
+    "event_name": "hbanditthemaskmset02_idle",
+    "type": 1
+  },
+  {
+    "id": 7289,
+    "name": "hbanditthemaskmset02_injured2",
+    "event_name": "hbanditthemaskmset02_injured2",
+    "type": 1
+  },
+  {
+    "id": 7290,
+    "name": "hbanditthemaskmset02_dodge",
+    "event_name": "hbanditthemaskmset02_dodge",
+    "type": 1
+  },
+  {
+    "id": 7291,
+    "name": "hbanditthemaskmset02_Exskill",
+    "event_name": "hbanditthemaskmset02_Exskill",
+    "type": 1
+  },
+  {
+    "id": 7292,
+    "name": "hbanditthemaskmset02_Exskill2",
+    "event_name": "hbanditthemaskmset02_Exskill2",
+    "type": 1
+  },
+  {
+    "id": 7293,
+    "name": "hbanditthemaskmset02_Exskill3",
+    "event_name": "hbanditthemaskmset02_Exskill3",
+    "type": 1
+  },
+  {
+    "id": 7294,
+    "name": "hbanditthemaskmset02_attack",
+    "event_name": "hbanditthemaskmset02_attack",
+    "type": 1
+  },
+  {
+    "id": 7295,
+    "name": "hbanditthemaskmset02_attack2",
+    "event_name": "hbanditthemaskmset02_attack2",
+    "type": 1
+  },
+  {
+    "id": 7296,
+    "name": "hbanditthemaskmset02_anime1",
+    "event_name": "hbanditthemaskmset02_anime1",
+    "type": 1
+  },
+  {
+    "id": 7297,
+    "name": "hbanditthemaskmset02_crouch",
+    "event_name": "hbanditthemaskmset02_crouch",
+    "type": 1
+  },
+  {
+    "id": 7298,
+    "name": "hbanditthemaskmset02_jumpUp",
+    "event_name": "hbanditthemaskmset02_jumpUp",
+    "type": 1
+  },
+  {
+    "id": 7299,
+    "name": "hbanditthemaskmset02_cheer",
+    "event_name": "hbanditthemaskmset02_cheer",
+    "type": 1
+  },
+  {
+    "id": 7300,
+    "name": "hbanditthemaskmset02_cast",
+    "event_name": "hbanditthemaskmset02_cast",
+    "type": 1
+  },
+  {
+    "id": 7301,
+    "name": "hbanditthemaskmset02_die2",
+    "event_name": "hbanditthemaskmset02_die2",
+    "type": 1
+  },
+  {
+    "id": 7302,
+    "name": "hbanditthemaskmset02_attackStart",
+    "event_name": "hbanditthemaskmset02_attackStart",
+    "type": 1
+  },
+  {
+    "id": 7303,
+    "name": "hbanditthemaskmset02_attack1Hold",
+    "event_name": "hbanditthemaskmset02_attack1Hold",
+    "type": 1
+  },
+  {
+    "id": 7304,
+    "name": "hbanditthemaskmset02_attackHold",
+    "event_name": "hbanditthemaskmset02_attackHold",
+    "type": 1
+  },
+  {
+    "id": 7305,
+    "name": "hbanditthemaskmset02_attackEnd",
+    "event_name": "hbanditthemaskmset02_attackEnd",
+    "type": 1
+  },
+  {
+    "id": 7306,
+    "name": "hbanditthemaskmset02_attack2Start",
+    "event_name": "hbanditthemaskmset02_attack2Start",
+    "type": 1
+  },
+  {
+    "id": 7307,
+    "name": "hbanditthemaskmset02_attack2End",
+    "event_name": "hbanditthemaskmset02_attack2End",
+    "type": 1
+  },
+  {
+    "id": 7308,
+    "name": "hbanditthemaskmset02_attack2Hold",
+    "event_name": "hbanditthemaskmset02_attack2Hold",
+    "type": 1
+  },
+  {
+    "id": 7309,
+    "name": "hbanditthemaskmset02_attack3Start",
+    "event_name": "hbanditthemaskmset02_attack3Start",
+    "type": 1
+  },
+  {
+    "id": 7310,
+    "name": "hbanditthemaskmset02_attack3End",
+    "event_name": "hbanditthemaskmset02_attack3End",
+    "type": 1
+  },
+  {
+    "id": 7311,
+    "name": "hbanditthemaskmset02_attack3Hold",
+    "event_name": "hbanditthemaskmset02_attack3Hold",
+    "type": 1
+  },
+  {
+    "id": 7312,
+    "name": "hbanditthemaskmset02_Exskill2Hold",
+    "event_name": "hbanditthemaskmset02_Exskill2Hold",
+    "type": 1
   }
 ]

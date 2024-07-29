@@ -1,0 +1,2753 @@
+[
+  {
+    "id": 1,
+    "idsandbox2_weapon": 1,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 2,
+    "idsandbox2_weapon": 1,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 3,
+    "idsandbox2_weapon": 1,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 4,
+    "idsandbox2_weapon": 2,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 5,
+    "idsandbox2_weapon": 2,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 6,
+    "idsandbox2_weapon": 2,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 7,
+    "idsandbox2_weapon": 3,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 8,
+    "idsandbox2_weapon": 3,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 9,
+    "idsandbox2_weapon": 3,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 10,
+    "idsandbox2_weapon": 4,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 11,
+    "idsandbox2_weapon": 4,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 12,
+    "idsandbox2_weapon": 5,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 13,
+    "idsandbox2_weapon": 5,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 14,
+    "idsandbox2_weapon": 5,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 15,
+    "idsandbox2_weapon": 6,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 16,
+    "idsandbox2_weapon": 6,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 17,
+    "idsandbox2_weapon": 6,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 18,
+    "idsandbox2_weapon": 195,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 19,
+    "idsandbox2_weapon": 201,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 20,
+    "idsandbox2_weapon": 212,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 21,
+    "idsandbox2_weapon": 213,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 22,
+    "idsandbox2_weapon": 226,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 23,
+    "idsandbox2_weapon": 227,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 24,
+    "idsandbox2_weapon": 182,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 25,
+    "idsandbox2_weapon": 182,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 26,
+    "idsandbox2_weapon": 183,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 27,
+    "idsandbox2_weapon": 182,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 28,
+    "idsandbox2_weapon": 183,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 29,
+    "idsandbox2_weapon": 183,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 30,
+    "idsandbox2_weapon": 188,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 31,
+    "idsandbox2_weapon": 188,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 32,
+    "idsandbox2_weapon": 188,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 33,
+    "idsandbox2_weapon": 189,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 34,
+    "idsandbox2_weapon": 189,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 35,
+    "idsandbox2_weapon": 189,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 36,
+    "idsandbox2_weapon": 194,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 37,
+    "idsandbox2_weapon": 200,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 38,
+    "idsandbox2_weapon": 214,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 39,
+    "idsandbox2_weapon": 214,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 40,
+    "idsandbox2_weapon": 214,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 41,
+    "idsandbox2_weapon": 215,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 42,
+    "idsandbox2_weapon": 215,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 43,
+    "idsandbox2_weapon": 228,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 44,
+    "idsandbox2_weapon": 228,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 45,
+    "idsandbox2_weapon": 228,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 46,
+    "idsandbox2_weapon": 229,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 47,
+    "idsandbox2_weapon": 235,
+    "attribute_type": 5,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 48,
+    "idsandbox2_weapon": 236,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 49,
+    "idsandbox2_weapon": 236,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 50,
+    "idsandbox2_weapon": 236,
+    "attribute_type": 44,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 51,
+    "idsandbox2_weapon": 237,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 150
+  },
+  {
+    "id": 52,
+    "idsandbox2_weapon": 101,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 53,
+    "idsandbox2_weapon": 101,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 54,
+    "idsandbox2_weapon": 101,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 55,
+    "idsandbox2_weapon": 102,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 56,
+    "idsandbox2_weapon": 102,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 57,
+    "idsandbox2_weapon": 102,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 58,
+    "idsandbox2_weapon": 103,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 59,
+    "idsandbox2_weapon": 103,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 60,
+    "idsandbox2_weapon": 104,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 61,
+    "idsandbox2_weapon": 104,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 62,
+    "idsandbox2_weapon": 104,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 63,
+    "idsandbox2_weapon": 105,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 64,
+    "idsandbox2_weapon": 105,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 65,
+    "idsandbox2_weapon": 105,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 66,
+    "idsandbox2_weapon": 106,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 67,
+    "idsandbox2_weapon": 106,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 68,
+    "idsandbox2_weapon": 106,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 69,
+    "idsandbox2_weapon": 107,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 70,
+    "idsandbox2_weapon": 107,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 71,
+    "idsandbox2_weapon": 107,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 72,
+    "idsandbox2_weapon": 108,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 73,
+    "idsandbox2_weapon": 108,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 74,
+    "idsandbox2_weapon": 108,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 75,
+    "idsandbox2_weapon": 109,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 76,
+    "idsandbox2_weapon": 109,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 77,
+    "idsandbox2_weapon": 109,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 78,
+    "idsandbox2_weapon": 110,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 79,
+    "idsandbox2_weapon": 110,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 80,
+    "idsandbox2_weapon": 111,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 81,
+    "idsandbox2_weapon": 111,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 82,
+    "idsandbox2_weapon": 112,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 83,
+    "idsandbox2_weapon": 112,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 84,
+    "idsandbox2_weapon": 112,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 85,
+    "idsandbox2_weapon": 113,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 60
+  },
+  {
+    "id": 86,
+    "idsandbox2_weapon": 113,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 87,
+    "idsandbox2_weapon": 113,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 88,
+    "idsandbox2_weapon": 114,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 89,
+    "idsandbox2_weapon": 114,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 90,
+    "idsandbox2_weapon": 114,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 91,
+    "idsandbox2_weapon": 115,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 92,
+    "idsandbox2_weapon": 115,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 93,
+    "idsandbox2_weapon": 115,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 94,
+    "idsandbox2_weapon": 116,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 95,
+    "idsandbox2_weapon": 116,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 96,
+    "idsandbox2_weapon": 116,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 97,
+    "idsandbox2_weapon": 117,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 98,
+    "idsandbox2_weapon": 117,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 99,
+    "idsandbox2_weapon": 117,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 100,
+    "idsandbox2_weapon": 118,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 101,
+    "idsandbox2_weapon": 118,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 102,
+    "idsandbox2_weapon": 118,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 103,
+    "idsandbox2_weapon": 119,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 104,
+    "idsandbox2_weapon": 119,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 105,
+    "idsandbox2_weapon": 119,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 106,
+    "idsandbox2_weapon": 120,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 107,
+    "idsandbox2_weapon": 120,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 108,
+    "idsandbox2_weapon": 120,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 109,
+    "idsandbox2_weapon": 121,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 110,
+    "idsandbox2_weapon": 121,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 111,
+    "idsandbox2_weapon": 121,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 112,
+    "idsandbox2_weapon": 122,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 113,
+    "idsandbox2_weapon": 122,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 114,
+    "idsandbox2_weapon": 123,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 115,
+    "idsandbox2_weapon": 123,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 116,
+    "idsandbox2_weapon": 124,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 117,
+    "idsandbox2_weapon": 124,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 118,
+    "idsandbox2_weapon": 125,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 119,
+    "idsandbox2_weapon": 125,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 120,
+    "idsandbox2_weapon": 125,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 121,
+    "idsandbox2_weapon": 126,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 122,
+    "idsandbox2_weapon": 126,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 123,
+    "idsandbox2_weapon": 126,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 124,
+    "idsandbox2_weapon": 127,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 125,
+    "idsandbox2_weapon": 127,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 126,
+    "idsandbox2_weapon": 127,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 127,
+    "idsandbox2_weapon": 128,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 128,
+    "idsandbox2_weapon": 128,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 129,
+    "idsandbox2_weapon": 128,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 130,
+    "idsandbox2_weapon": 129,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 131,
+    "idsandbox2_weapon": 129,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 132,
+    "idsandbox2_weapon": 129,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 133,
+    "idsandbox2_weapon": 130,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 134,
+    "idsandbox2_weapon": 130,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 135,
+    "idsandbox2_weapon": 130,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 136,
+    "idsandbox2_weapon": 131,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 137,
+    "idsandbox2_weapon": 131,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 138,
+    "idsandbox2_weapon": 131,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 139,
+    "idsandbox2_weapon": 132,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 140,
+    "idsandbox2_weapon": 132,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 141,
+    "idsandbox2_weapon": 132,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 142,
+    "idsandbox2_weapon": 133,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 143,
+    "idsandbox2_weapon": 133,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 144,
+    "idsandbox2_weapon": 133,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 145,
+    "idsandbox2_weapon": 134,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 146,
+    "idsandbox2_weapon": 134,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 147,
+    "idsandbox2_weapon": 134,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 148,
+    "idsandbox2_weapon": 135,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 149,
+    "idsandbox2_weapon": 135,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 150,
+    "idsandbox2_weapon": 135,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 151,
+    "idsandbox2_weapon": 136,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 152,
+    "idsandbox2_weapon": 136,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 153,
+    "idsandbox2_weapon": 136,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 154,
+    "idsandbox2_weapon": 137,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 155,
+    "idsandbox2_weapon": 137,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 156,
+    "idsandbox2_weapon": 138,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 157,
+    "idsandbox2_weapon": 138,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 158,
+    "idsandbox2_weapon": 139,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 159,
+    "idsandbox2_weapon": 139,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 160,
+    "idsandbox2_weapon": 140,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 161,
+    "idsandbox2_weapon": 140,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 162,
+    "idsandbox2_weapon": 140,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 163,
+    "idsandbox2_weapon": 141,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 164,
+    "idsandbox2_weapon": 141,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 165,
+    "idsandbox2_weapon": 141,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 166,
+    "idsandbox2_weapon": 142,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 167,
+    "idsandbox2_weapon": 142,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 168,
+    "idsandbox2_weapon": 142,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 169,
+    "idsandbox2_weapon": 143,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 170,
+    "idsandbox2_weapon": 143,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 171,
+    "idsandbox2_weapon": 143,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 172,
+    "idsandbox2_weapon": 144,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 173,
+    "idsandbox2_weapon": 144,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 174,
+    "idsandbox2_weapon": 144,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 175,
+    "idsandbox2_weapon": 145,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 176,
+    "idsandbox2_weapon": 145,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 177,
+    "idsandbox2_weapon": 145,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 178,
+    "idsandbox2_weapon": 146,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 179,
+    "idsandbox2_weapon": 146,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 180,
+    "idsandbox2_weapon": 147,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 181,
+    "idsandbox2_weapon": 147,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 182,
+    "idsandbox2_weapon": 147,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 183,
+    "idsandbox2_weapon": 147,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 184,
+    "idsandbox2_weapon": 148,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 185,
+    "idsandbox2_weapon": 148,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 186,
+    "idsandbox2_weapon": 149,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 187,
+    "idsandbox2_weapon": 149,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 188,
+    "idsandbox2_weapon": 150,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 189,
+    "idsandbox2_weapon": 150,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 190,
+    "idsandbox2_weapon": 151,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 191,
+    "idsandbox2_weapon": 151,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 192,
+    "idsandbox2_weapon": 151,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 193,
+    "idsandbox2_weapon": 151,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 194,
+    "idsandbox2_weapon": 152,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 195,
+    "idsandbox2_weapon": 152,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 196,
+    "idsandbox2_weapon": 152,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 197,
+    "idsandbox2_weapon": 152,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 198,
+    "idsandbox2_weapon": 153,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 199,
+    "idsandbox2_weapon": 153,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 20
+  },
+  {
+    "id": 200,
+    "idsandbox2_weapon": 153,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 201,
+    "idsandbox2_weapon": 153,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 202,
+    "idsandbox2_weapon": 154,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 203,
+    "idsandbox2_weapon": 154,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 204,
+    "idsandbox2_weapon": 155,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 205,
+    "idsandbox2_weapon": 155,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 206,
+    "idsandbox2_weapon": 156,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 207,
+    "idsandbox2_weapon": 156,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 208,
+    "idsandbox2_weapon": 157,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 209,
+    "idsandbox2_weapon": 157,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 210,
+    "idsandbox2_weapon": 158,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 211,
+    "idsandbox2_weapon": 158,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 212,
+    "idsandbox2_weapon": 159,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 213,
+    "idsandbox2_weapon": 159,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 214,
+    "idsandbox2_weapon": 160,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 215,
+    "idsandbox2_weapon": 160,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 216,
+    "idsandbox2_weapon": 160,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 217,
+    "idsandbox2_weapon": 160,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 218,
+    "idsandbox2_weapon": 161,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 219,
+    "idsandbox2_weapon": 161,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 220,
+    "idsandbox2_weapon": 161,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 221,
+    "idsandbox2_weapon": 161,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 222,
+    "idsandbox2_weapon": 162,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 223,
+    "idsandbox2_weapon": 162,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 224,
+    "idsandbox2_weapon": 162,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 225,
+    "idsandbox2_weapon": 162,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 226,
+    "idsandbox2_weapon": 163,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 227,
+    "idsandbox2_weapon": 163,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 228,
+    "idsandbox2_weapon": 163,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 229,
+    "idsandbox2_weapon": 163,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 230,
+    "idsandbox2_weapon": 164,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 231,
+    "idsandbox2_weapon": 164,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 232,
+    "idsandbox2_weapon": 164,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 233,
+    "idsandbox2_weapon": 164,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 234,
+    "idsandbox2_weapon": 165,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 235,
+    "idsandbox2_weapon": 165,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 30
+  },
+  {
+    "id": 236,
+    "idsandbox2_weapon": 165,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 237,
+    "idsandbox2_weapon": 165,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 238,
+    "idsandbox2_weapon": 166,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 239,
+    "idsandbox2_weapon": 166,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 240,
+    "idsandbox2_weapon": 167,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 241,
+    "idsandbox2_weapon": 167,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 242,
+    "idsandbox2_weapon": 168,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 243,
+    "idsandbox2_weapon": 168,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 244,
+    "idsandbox2_weapon": 169,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 245,
+    "idsandbox2_weapon": 169,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 246,
+    "idsandbox2_weapon": 170,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 247,
+    "idsandbox2_weapon": 170,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 248,
+    "idsandbox2_weapon": 171,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 249,
+    "idsandbox2_weapon": 171,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 250,
+    "idsandbox2_weapon": 172,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 251,
+    "idsandbox2_weapon": 172,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 252,
+    "idsandbox2_weapon": 172,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 253,
+    "idsandbox2_weapon": 172,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 254,
+    "idsandbox2_weapon": 173,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 255,
+    "idsandbox2_weapon": 173,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 256,
+    "idsandbox2_weapon": 173,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 257,
+    "idsandbox2_weapon": 173,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 258,
+    "idsandbox2_weapon": 174,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 259,
+    "idsandbox2_weapon": 174,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 260,
+    "idsandbox2_weapon": 174,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 261,
+    "idsandbox2_weapon": 174,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 262,
+    "idsandbox2_weapon": 175,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 263,
+    "idsandbox2_weapon": 175,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 264,
+    "idsandbox2_weapon": 175,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 265,
+    "idsandbox2_weapon": 175,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 266,
+    "idsandbox2_weapon": 176,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 267,
+    "idsandbox2_weapon": 176,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 268,
+    "idsandbox2_weapon": 176,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 269,
+    "idsandbox2_weapon": 176,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 270,
+    "idsandbox2_weapon": 177,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 271,
+    "idsandbox2_weapon": 177,
+    "attribute_type": 43,
+    "attribute_param": 0,
+    "attribute_permillage": 50
+  },
+  {
+    "id": 272,
+    "idsandbox2_weapon": 177,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 273,
+    "idsandbox2_weapon": 177,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 274,
+    "idsandbox2_weapon": 178,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 275,
+    "idsandbox2_weapon": 178,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 276,
+    "idsandbox2_weapon": 178,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 277,
+    "idsandbox2_weapon": 179,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 278,
+    "idsandbox2_weapon": 179,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 279,
+    "idsandbox2_weapon": 179,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 280,
+    "idsandbox2_weapon": 180,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 281,
+    "idsandbox2_weapon": 180,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 282,
+    "idsandbox2_weapon": 180,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 283,
+    "idsandbox2_weapon": 181,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 284,
+    "idsandbox2_weapon": 181,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 285,
+    "idsandbox2_weapon": 181,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 286,
+    "idsandbox2_weapon": 184,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 287,
+    "idsandbox2_weapon": 184,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 288,
+    "idsandbox2_weapon": 184,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 289,
+    "idsandbox2_weapon": 185,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 290,
+    "idsandbox2_weapon": 185,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 291,
+    "idsandbox2_weapon": 185,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 292,
+    "idsandbox2_weapon": 186,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 293,
+    "idsandbox2_weapon": 186,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 294,
+    "idsandbox2_weapon": 186,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 295,
+    "idsandbox2_weapon": 187,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 296,
+    "idsandbox2_weapon": 187,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 297,
+    "idsandbox2_weapon": 187,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 298,
+    "idsandbox2_weapon": 190,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 299,
+    "idsandbox2_weapon": 190,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 300,
+    "idsandbox2_weapon": 190,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 301,
+    "idsandbox2_weapon": 191,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 302,
+    "idsandbox2_weapon": 191,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 303,
+    "idsandbox2_weapon": 191,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 304,
+    "idsandbox2_weapon": 192,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 305,
+    "idsandbox2_weapon": 192,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 306,
+    "idsandbox2_weapon": 192,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 307,
+    "idsandbox2_weapon": 193,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 308,
+    "idsandbox2_weapon": 193,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 309,
+    "idsandbox2_weapon": 193,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 310,
+    "idsandbox2_weapon": 196,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 311,
+    "idsandbox2_weapon": 196,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 312,
+    "idsandbox2_weapon": 196,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 313,
+    "idsandbox2_weapon": 197,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 314,
+    "idsandbox2_weapon": 197,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 315,
+    "idsandbox2_weapon": 197,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 316,
+    "idsandbox2_weapon": 198,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 317,
+    "idsandbox2_weapon": 198,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 318,
+    "idsandbox2_weapon": 198,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 319,
+    "idsandbox2_weapon": 199,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 320,
+    "idsandbox2_weapon": 199,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 321,
+    "idsandbox2_weapon": 199,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 322,
+    "idsandbox2_weapon": 202,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 323,
+    "idsandbox2_weapon": 202,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 324,
+    "idsandbox2_weapon": 202,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 325,
+    "idsandbox2_weapon": 203,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 326,
+    "idsandbox2_weapon": 203,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 327,
+    "idsandbox2_weapon": 203,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 328,
+    "idsandbox2_weapon": 204,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 329,
+    "idsandbox2_weapon": 204,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 330,
+    "idsandbox2_weapon": 204,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 331,
+    "idsandbox2_weapon": 205,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 332,
+    "idsandbox2_weapon": 205,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 333,
+    "idsandbox2_weapon": 205,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 334,
+    "idsandbox2_weapon": 206,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 335,
+    "idsandbox2_weapon": 206,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 336,
+    "idsandbox2_weapon": 207,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 337,
+    "idsandbox2_weapon": 207,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 338,
+    "idsandbox2_weapon": 208,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 339,
+    "idsandbox2_weapon": 208,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 340,
+    "idsandbox2_weapon": 208,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 341,
+    "idsandbox2_weapon": 209,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 90
+  },
+  {
+    "id": 342,
+    "idsandbox2_weapon": 209,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 343,
+    "idsandbox2_weapon": 209,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 344,
+    "idsandbox2_weapon": 210,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 345,
+    "idsandbox2_weapon": 210,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 346,
+    "idsandbox2_weapon": 210,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 347,
+    "idsandbox2_weapon": 211,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 348,
+    "idsandbox2_weapon": 211,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 349,
+    "idsandbox2_weapon": 211,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 80
+  },
+  {
+    "id": 350,
+    "idsandbox2_weapon": 216,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 351,
+    "idsandbox2_weapon": 216,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 352,
+    "idsandbox2_weapon": 216,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 353,
+    "idsandbox2_weapon": 217,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 354,
+    "idsandbox2_weapon": 217,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 355,
+    "idsandbox2_weapon": 217,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 356,
+    "idsandbox2_weapon": 218,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 357,
+    "idsandbox2_weapon": 218,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 358,
+    "idsandbox2_weapon": 218,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 359,
+    "idsandbox2_weapon": 219,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 360,
+    "idsandbox2_weapon": 219,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 361,
+    "idsandbox2_weapon": 219,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 362,
+    "idsandbox2_weapon": 220,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 363,
+    "idsandbox2_weapon": 220,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 364,
+    "idsandbox2_weapon": 221,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 365,
+    "idsandbox2_weapon": 221,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 366,
+    "idsandbox2_weapon": 222,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 367,
+    "idsandbox2_weapon": 222,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 368,
+    "idsandbox2_weapon": 222,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 369,
+    "idsandbox2_weapon": 223,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 370,
+    "idsandbox2_weapon": 223,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 371,
+    "idsandbox2_weapon": 223,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 372,
+    "idsandbox2_weapon": 224,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 373,
+    "idsandbox2_weapon": 224,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 374,
+    "idsandbox2_weapon": 224,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 375,
+    "idsandbox2_weapon": 225,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 376,
+    "idsandbox2_weapon": 225,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 377,
+    "idsandbox2_weapon": 225,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 378,
+    "idsandbox2_weapon": 230,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 379,
+    "idsandbox2_weapon": 230,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 380,
+    "idsandbox2_weapon": 230,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 381,
+    "idsandbox2_weapon": 231,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 382,
+    "idsandbox2_weapon": 231,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 383,
+    "idsandbox2_weapon": 231,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 384,
+    "idsandbox2_weapon": 232,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 385,
+    "idsandbox2_weapon": 232,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 386,
+    "idsandbox2_weapon": 233,
+    "attribute_type": 7,
+    "attribute_param": 0,
+    "attribute_permillage": 120
+  },
+  {
+    "id": 387,
+    "idsandbox2_weapon": 233,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 388,
+    "idsandbox2_weapon": 233,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 389,
+    "idsandbox2_weapon": 234,
+    "attribute_type": 2,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 390,
+    "idsandbox2_weapon": 234,
+    "attribute_type": 9,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 391,
+    "idsandbox2_weapon": 234,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 100
+  },
+  {
+    "id": 392,
+    "idsandbox2_weapon": 148,
+    "attribute_type": 8,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  },
+  {
+    "id": 393,
+    "idsandbox2_weapon": 148,
+    "attribute_type": 10,
+    "attribute_param": 0,
+    "attribute_permillage": 10
+  }
+]

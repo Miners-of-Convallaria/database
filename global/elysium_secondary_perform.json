@@ -760,5 +760,107 @@
     "m_elysium_secondary_perform_dialogues": [2271],
     "name": "霍玛心境等级2时B",
     "trigger_size": 5
+  },
+  {
+    "id": 228,
+    "m_elysium_secondary_perform_dialogues": [2281, 2282],
+    "name": "夏可露露心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 229,
+    "m_elysium_secondary_perform_dialogues": [2291, 2292],
+    "name": "夏可露露心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 230,
+    "m_elysium_secondary_perform_dialogues": [2301, 2302],
+    "name": "夏可露露心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 231,
+    "m_elysium_secondary_perform_dialogues": [2311, 2312],
+    "name": "夏可露露心境等级3时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 232,
+    "m_elysium_secondary_perform_dialogues": [2321],
+    "name": "夏可露露心境等级3时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 233,
+    "m_elysium_secondary_perform_dialogues": [2331, 2332],
+    "name": "卡丽丝心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 234,
+    "m_elysium_secondary_perform_dialogues": [2341],
+    "name": "卡丽丝心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 235,
+    "m_elysium_secondary_perform_dialogues": [2351, 2352],
+    "name": "卡丽丝心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 236,
+    "m_elysium_secondary_perform_dialogues": [2361, 2362],
+    "name": "卡丽丝心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 237,
+    "m_elysium_secondary_perform_dialogues": [2371, 2372],
+    "name": "塔埃尔心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 238,
+    "m_elysium_secondary_perform_dialogues": [2381, 2382, 2383],
+    "name": "塔埃尔心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 239,
+    "m_elysium_secondary_perform_dialogues": [2391, 2392],
+    "name": "塔埃尔心境等级2时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 240,
+    "m_elysium_secondary_perform_dialogues": [2401, 2402, 2403],
+    "name": "塔埃尔心境等级2时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 241,
+    "m_elysium_secondary_perform_dialogues": [2411, 2412],
+    "name": "阿加塔心境等级1时-其1",
+    "trigger_size": 5
+  },
+  {
+    "id": 242,
+    "m_elysium_secondary_perform_dialogues": [2421, 2422],
+    "name": "阿加塔心境等级1时-其2",
+    "trigger_size": 5
+  },
+  {
+    "id": 243,
+    "m_elysium_secondary_perform_dialogues": [2431, 2432],
+    "name": "阿加塔心境等级1时-其3",
+    "trigger_size": 5
+  },
+  {
+    "id": 244,
+    "m_elysium_secondary_perform_dialogues": [2441, 2442],
+    "name": "阿加塔心境等级2时-其1",
+    "trigger_size": 5
   }
 ]

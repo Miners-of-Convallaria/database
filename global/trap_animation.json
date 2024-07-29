@@ -196,5 +196,35 @@
     "idtrap": 18,
     "name": "attack1",
     "idanimation": 5871
+  },
+  {
+    "id": 53,
+    "idtrap": 68,
+    "name": "attack1",
+    "idanimation": 4117
+  },
+  {
+    "id": 54,
+    "idtrap": 70,
+    "name": "attack1",
+    "idanimation": 4117
+  },
+  {
+    "id": 55,
+    "idtrap": 74,
+    "name": "attack1",
+    "idanimation": 4696
+  },
+  {
+    "id": 56,
+    "idtrap": 76,
+    "name": "attack1",
+    "idanimation": 5877
+  },
+  {
+    "id": 57,
+    "idtrap": 75,
+    "name": "attack1",
+    "idanimation": 4694
   }
 ]

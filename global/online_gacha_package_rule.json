@@ -4,34 +4,97 @@
     "name": "Guaranteed",
     "editor_name": "角色新手池规则",
     "type": 1,
-    "guaranteed_count": 30
+    "guaranteed_count": 30,
+    "enable_type_guaranteed": false,
+    "is_selectable": false,
+    "guaranteed_desc": "",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0,
+    "desc": "",
+    "guaranteed_up_count": 0
   },
   {
     "id": 2,
     "name": "Standard",
     "editor_name": "角色常驻池规则",
     "type": 1,
-    "guaranteed_count": 0
+    "guaranteed_count": 0,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0,
+    "desc": "",
+    "guaranteed_up_count": 0
   },
   {
     "id": 3,
     "name": "Debut",
     "editor_name": "新角色UP池规则",
     "type": 1,
-    "guaranteed_count": 180
+    "guaranteed_count": 180,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "Current <style=yellow>[{rule}] Guarantee</style>: A current Rate-UP character is guaranteed within <style=yellow>{upCount}</style> summon(s).",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0,
+    "desc": "",
+    "guaranteed_up_count": 3
   },
   {
     "id": 4,
     "name": "Destined",
     "editor_name": "老角色2UP池规则",
     "type": 1,
-    "guaranteed_count": 180
+    "guaranteed_count": 180,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "Current <style=yellow>[{rule}] Guarantee</style>: A current Rate-UP character is guaranteed within <style=yellow>{upCount}</style> summon(s).",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0,
+    "desc": "",
+    "guaranteed_up_count": 4
+  },
+  {
+    "id": 5,
+    "name": "Blessed",
+    "editor_name": "自选2UP池规则",
+    "type": 1,
+    "guaranteed_count": 90,
+    "enable_type_guaranteed": false,
+    "is_selectable": true,
+    "guaranteed_desc": "Current <style=yellow>[{rule}] Guarantee</style>: A Blessed Character is guaranteed within <style=yellow>{upCount}</style> summon(s).",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0,
+    "desc": "",
+    "guaranteed_up_count": 0
   },
   {
     "id": 101,
     "name": "Standard",
     "editor_name": "武器常驻池规则",
     "type": 2,
-    "guaranteed_count": 0
+    "guaranteed_count": 0,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "",
+    "is_up_selectable": false,
+    "up_selectable_guaranteed_count": 0,
+    "desc": "",
+    "guaranteed_up_count": 0
+  },
+  {
+    "id": 102,
+    "name": "",
+    "editor_name": "武器自选UP池规则",
+    "type": 2,
+    "guaranteed_count": 60,
+    "enable_type_guaranteed": true,
+    "is_selectable": false,
+    "guaranteed_desc": "",
+    "is_up_selectable": true,
+    "up_selectable_guaranteed_count": 2,
+    "desc": "",
+    "guaranteed_up_count": 0
   }
 ]

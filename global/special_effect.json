@@ -597,7 +597,7 @@
   {
     "id": 88,
     "m_special_effect_details": [107],
-    "name": "For routine event - Gain a [Physical Shield] of 20% of max HP at the start of the battle, and 10% if no shield is present at the end of the action.",
+    "name": "For routine event - Gain a [physical shield] of 20% of max HP at the start of the battle, and 10% if no shield is present at the end of the action.",
     "editor_name": "小型活动用-开战获得20%最大生命值的【物理护盾】，行动结束时若自身没有护盾，则获得10%",
     "special_effect_detail_ids": "107"
   },
@@ -614,5 +614,376 @@
     "name": "For routine event - Targets enemies with lower defense, dealing damage after attacking.",
     "editor_name": "小型活动用-伤害类型转换为目标较低防御的类型，攻击后造成伤害",
     "special_effect_detail_ids": "108"
+  },
+  {
+    "id": 91,
+    "m_special_effect_details": [111],
+    "name": "Foes are immune to Frosty and Burning Ground",
+    "editor_name": "敌方免疫冰冻和燃烧地面",
+    "special_effect_detail_ids": "111"
+  },
+  {
+    "id": 92,
+    "m_special_effect_details": [37, 38],
+    "name": "Foes' Movement +1 and gains Knockback Immunity",
+    "editor_name": "敌方移动力+1且免疫击退",
+    "special_effect_detail_ids": "37|38"
+  },
+  {
+    "id": 93,
+    "m_special_effect_details": [120],
+    "name": "Allies gain 2 random Level 1 Debuffs at the end of their actions (1 round)",
+    "editor_name": "我方行动结束时获得2个随机1级减益（1回合）",
+    "special_effect_detail_ids": "120"
+  },
+  {
+    "id": 94,
+    "m_special_effect_details": [117],
+    "name": "An enemy's Melee Attack will knock its target back 2 tiles",
+    "editor_name": "敌方近战攻击后击退目标2格",
+    "special_effect_detail_ids": "117"
+  },
+  {
+    "id": 95,
+    "m_special_effect_details": [116, 131],
+    "name": "Foes gain Warrior of Frost and inflict Frozen on surrounding tiles within 1 circle at the end of the action",
+    "editor_name": "敌方获得冰面作战，行动结束时冻结周身1圈地面",
+    "special_effect_detail_ids": "116|131"
+  },
+  {
+    "id": 96,
+    "m_special_effect_details": [139, 140],
+    "name": "Enhancement of LilyWill",
+    "editor_name": "莉莉薇儿强化",
+    "special_effect_detail_ids": "139|140"
+  },
+  {
+    "id": 97,
+    "m_special_effect_details": [148],
+    "name": "Allies' Movement +1",
+    "editor_name": "我方移动力+1",
+    "special_effect_detail_ids": "148"
+  },
+  {
+    "id": 98,
+    "m_special_effect_details": [146],
+    "name": "Allies gain Jump",
+    "editor_name": "我方获得跳跃",
+    "special_effect_detail_ids": "146"
+  },
+  {
+    "id": 99,
+    "m_special_effect_details": [147],
+    "name": "Allies are immune to Frosty tiles",
+    "editor_name": "我方免疫冰冻地块",
+    "special_effect_detail_ids": "147"
+  },
+  {
+    "id": 100,
+    "m_special_effect_details": [149],
+    "name": "Reduces DMG taken by allies by 15%",
+    "editor_name": "我方受到伤害降低15%",
+    "special_effect_detail_ids": "149"
+  },
+  {
+    "id": 101,
+    "m_special_effect_details": [150],
+    "name": "Increases allies' healing effect by 20%",
+    "editor_name": "我方治疗效果提升20%",
+    "special_effect_detail_ids": "150"
+  },
+  {
+    "id": 102,
+    "m_special_effect_details": [145],
+    "name": "Reduces allies' knocked back distance by 1",
+    "editor_name": "我方受到击退距离减1",
+    "special_effect_detail_ids": "145"
+  },
+  {
+    "id": 103,
+    "m_special_effect_details": [151],
+    "name": "Reduces DMG taken by allies by 90% (once)",
+    "editor_name": "我方受到伤害降低90%（1次）",
+    "special_effect_detail_ids": "151"
+  },
+  {
+    "id": 104,
+    "m_special_effect_details": [125],
+    "name": "Foes gain Mind's Eye",
+    "editor_name": "敌方获得心眼",
+    "special_effect_detail_ids": "125"
+  },
+  {
+    "id": 105,
+    "m_special_effect_details": [126, 127],
+    "name": "Foes are immune to DoT and Percentage DMG",
+    "editor_name": "敌方免疫持续伤害和百分比伤害",
+    "special_effect_detail_ids": "126|127"
+  },
+  {
+    "id": 106,
+    "m_special_effect_details": [130],
+    "name": "Inflicts Frosty on the ground of Area Group 1",
+    "editor_name": "区域组1地面冰冻",
+    "special_effect_detail_ids": "130"
+  },
+  {
+    "id": 107,
+    "m_special_effect_details": [117],
+    "name": "An enemy's Melee Attack will knock its target back 2 tiles",
+    "editor_name": "敌方近战攻击后击退目标2格",
+    "special_effect_detail_ids": "117"
+  },
+  {
+    "id": 108,
+    "m_special_effect_details": [128, 129],
+    "name": "Foes gain Counterattack, increasing the DMG of Strike Back by 60% and gaining 50% Life Steal",
+    "editor_name": "敌方获得回击，反击伤害提升60%，并获得50%吸血",
+    "special_effect_detail_ids": "128|129"
+  },
+  {
+    "id": 109,
+    "m_special_effect_details": [116, 131],
+    "name": "Foes gain Warrior of Frost and inflict Frozen on surrounding tiles within 1 circle at the end of their actions",
+    "editor_name": "敌方获得冰面作战，敌方行动结束时冻结周身1圈地面",
+    "special_effect_detail_ids": "116|131"
+  },
+  {
+    "id": 110,
+    "m_special_effect_details": [138],
+    "name": "Foes gain a 20% extra ATK when they attack on Highland",
+    "editor_name": "敌方高地攻击时攻击提升20%",
+    "special_effect_detail_ids": "138"
+  },
+  {
+    "id": 111,
+    "m_special_effect_details": [133, 134],
+    "name": "Foes gain Climb and Jump",
+    "editor_name": "敌方获得攀爬和跳跃",
+    "special_effect_detail_ids": "133|134"
+  },
+  {
+    "id": 112,
+    "m_special_effect_details": [136],
+    "name": "Foes ignore dodge and Assisting Cover (Movement Height II)",
+    "editor_name": "敌方无视闪避和援护防御（移动高度2）",
+    "special_effect_detail_ids": "136"
+  },
+  {
+    "id": 113,
+    "m_special_effect_details": [132],
+    "name": "Foes take 50% less Ranged DMG",
+    "editor_name": "敌方受到远程伤害降低50%",
+    "special_effect_detail_ids": "132"
+  },
+  {
+    "id": 114,
+    "m_special_effect_details": [142],
+    "name": "Foes' single-target attack deals 2 stacks of [Infection] to surrounding tiles within 1 circle of the target",
+    "editor_name": "敌方单体攻击后对目标周身1圈造成2层感染",
+    "special_effect_detail_ids": "142"
+  },
+  {
+    "id": 115,
+    "m_special_effect_details": [44, 135],
+    "name": "Foes gain Shield Break II, with Range +1",
+    "editor_name": "敌方射程+1，并获得破盾2",
+    "special_effect_detail_ids": "44|135"
+  },
+  {
+    "id": 116,
+    "m_special_effect_details": [139, 140],
+    "name": "Increases LilyWill's Max HP by 100% and gains Vlder Aura, allowing her to move 3 tiles again after all foes attack",
+    "editor_name": "莉莉薇儿最大生命值提升100%，获得薇尔德光环，所有敌方攻击后可再移动3格",
+    "special_effect_detail_ids": "139|140"
+  },
+  {
+    "id": 117,
+    "m_special_effect_details": [144],
+    "name": "Increases NonoWill's Max HP by 100% and gains [Enchanting Vocal - Extra]",
+    "editor_name": "诺诺薇儿最大生命值提升100%，并获得动听歌声改",
+    "special_effect_detail_ids": "144"
+  },
+  {
+    "id": 118,
+    "m_special_effect_details": [141],
+    "name": "Inflicts 2 stacks of Infection after a single-target attack dealt by foes and triggers Infection DMG",
+    "editor_name": "敌方单体攻击后施加2层感染，并触发感染伤害",
+    "special_effect_detail_ids": "141"
+  },
+  {
+    "id": 119,
+    "m_special_effect_details": [51],
+    "name": "Foes Ignore Role Counter",
+    "editor_name": "敌方获得无视职业克制",
+    "special_effect_detail_ids": "51"
+  },
+  {
+    "id": 120,
+    "m_special_effect_details": [119],
+    "name": "No TP recovery at the end of allies' turn",
+    "editor_name": "我方回合结束时不回复TP",
+    "special_effect_detail_ids": "119"
+  },
+  {
+    "id": 121,
+    "m_special_effect_details": [120],
+    "name": "Allies gain 2 random Level 1 Debuffs at the end of their actions (2 rounds)",
+    "editor_name": "我方行动结束时获得2个随机1级减益（2回合）",
+    "special_effect_detail_ids": "120"
+  },
+  {
+    "id": 122,
+    "m_special_effect_details": [124],
+    "name": "Foes start a battle and gain a Magical Shield that is equal to 60% of their Max HP",
+    "editor_name": "敌方开战获得60%最大生命值的魔法护盾",
+    "special_effect_detail_ids": "124"
+  },
+  {
+    "id": 123,
+    "m_special_effect_details": [122],
+    "name": "Foes gain Unfulfilled Wishes when an ally dies in battle",
+    "editor_name": "敌方获得场上有友军死亡时获得遗志",
+    "special_effect_detail_ids": "122"
+  },
+  {
+    "id": 124,
+    "m_special_effect_details": [121],
+    "name": "Movement is reduced by 2 and DMG taken is increased by 20% when there are 3 or more enemies within 3 tiles around allies",
+    "editor_name": "我方周身3格有3个及以上敌方时移动-2，受到伤害提升20%",
+    "special_effect_detail_ids": "121"
+  },
+  {
+    "id": 125,
+    "m_special_effect_details": [123],
+    "name": "For every enemy within 3 tiles around, foes' DMG is increased by 15%",
+    "editor_name": "敌方获得周围3格每有1个敌军伤害提升15%",
+    "special_effect_detail_ids": "123"
+  },
+  {
+    "id": 126,
+    "m_special_effect_details": [152],
+    "name": "Increases Alexei's Max HP by 100% and his Strike Back Range by 2, allowing him to Strike Back 1 extra time per round",
+    "editor_name": "阿列克谢最大生命值提升100%，反击射程+2，每回合反击次数+1",
+    "special_effect_detail_ids": "152"
+  },
+  {
+    "id": 127,
+    "m_special_effect_details": [153],
+    "name": "Increases DoT taken by allies by 40%",
+    "editor_name": "我方受到持续伤害提升40%",
+    "special_effect_detail_ids": "153"
+  },
+  {
+    "id": 128,
+    "m_special_effect_details": [102],
+    "name": "Foes take 40% less AoE DMG",
+    "editor_name": "敌方受到范围伤害降低40%",
+    "special_effect_detail_ids": "102"
+  },
+  {
+    "id": 129,
+    "m_special_effect_details": [154],
+    "name": "Loses more than 1 unit",
+    "editor_name": "阵亡人数超过1",
+    "special_effect_detail_ids": "154"
+  },
+  {
+    "id": 130,
+    "m_special_effect_details": [155],
+    "name": "Foes take 50% less Melee DMG",
+    "editor_name": "敌方受到近战伤害-50%",
+    "special_effect_detail_ids": "155"
+  },
+  {
+    "id": 131,
+    "m_special_effect_details": [35],
+    "name": "Foes take 20% less DMG Clone",
+    "editor_name": "敌方受到伤害降低20% Clone",
+    "special_effect_detail_ids": "35"
+  },
+  {
+    "id": 132,
+    "m_special_effect_details": [156],
+    "name": "Foes' Knock-back Distance +1",
+    "editor_name": "敌方击退距离+1",
+    "special_effect_detail_ids": "156"
+  },
+  {
+    "id": 133,
+    "m_special_effect_details": [157],
+    "name": "Foes take 30% less Single-target DMG",
+    "editor_name": "敌方受到单体伤害降低30%",
+    "special_effect_detail_ids": "157"
+  },
+  {
+    "id": 134,
+    "m_special_effect_details": [158],
+    "name": "Foes inflict Move I on their target after attacking",
+    "editor_name": "敌方攻击后对目标施加-移动1",
+    "special_effect_detail_ids": "158"
+  },
+  {
+    "id": 135,
+    "m_special_effect_details": [160],
+    "name": "Enhancement of Boar",
+    "editor_name": "野猪强化",
+    "special_effect_detail_ids": "160"
+  },
+  {
+    "id": 136,
+    "m_special_effect_details": [159],
+    "name": "When attacked, a foe with more Buffs than the attacker takes 50% less DMG",
+    "editor_name": "敌方受到攻击时，若自身增益多于对方，则受到伤害降低50%",
+    "special_effect_detail_ids": "159"
+  },
+  {
+    "id": 137,
+    "m_special_effect_details": [115],
+    "name": "Foe attacks ignore Assisting Cover",
+    "editor_name": "敌方攻击无视援护防御",
+    "special_effect_detail_ids": "115"
+  },
+  {
+    "id": 138,
+    "m_special_effect_details": [161],
+    "name": "Foes take 50% less M.DMG",
+    "editor_name": "敌方受到魔法伤害降低50%",
+    "special_effect_detail_ids": "161"
+  },
+  {
+    "id": 139,
+    "m_special_effect_details": [162, 163],
+    "name": "Foe attacks ignore Block and Shield, dealing direct DMG",
+    "editor_name": "敌方攻击攻击无视格挡，且可无视护盾直接造成伤害。",
+    "special_effect_detail_ids": "162|163"
+  },
+  {
+    "id": 141,
+    "m_special_effect_details": [165],
+    "name": "Enhancement of Acambe",
+    "editor_name": "阿坎贝强化",
+    "special_effect_detail_ids": "165"
+  },
+  {
+    "id": 142,
+    "m_special_effect_details": [166],
+    "name": "Enhancement of Blind Maiden",
+    "editor_name": "盲女强化",
+    "special_effect_detail_ids": "166"
+  },
+  {
+    "id": 143,
+    "m_special_effect_details": [167],
+    "name": "",
+    "editor_name": "敌方获得死后给周身2格敌方上3个2级减益",
+    "special_effect_detail_ids": "167"
+  },
+  {
+    "id": 144,
+    "m_special_effect_details": [168],
+    "name": "Allies act again after killing",
+    "editor_name": "我方击杀后再行动",
+    "special_effect_detail_ids": "168"
   }
 ]

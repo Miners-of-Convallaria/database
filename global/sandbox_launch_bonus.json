@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "m_sandbox_launch_bonus_details": [1, 2, 141],
-    "name": "测试添加"
+    "m_sandbox_launch_bonus_details": [237, 238, 239, 240],
+    "name": "前传线测试"
   },
   {
     "id": 2,
@@ -378,5 +378,10 @@
     "id": 85,
     "m_sandbox_launch_bonus_details": [223, 224, 225, 226, 227, 228, 232, 233, 234],
     "name": "启动-角色包-埃拉曼-替换-p2"
+  },
+  {
+    "id": 86,
+    "m_sandbox_launch_bonus_details": [235, 236],
+    "name": "启动-前传线固定角色"
   }
 ]

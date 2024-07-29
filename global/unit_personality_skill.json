@@ -5935,8 +5935,8 @@
     "star": 1,
     "desc": "（光环）使自身范围<style=red>5</style>格内所有<狼>，攻击提升<style=red>10%</style>，暴击率提升<style=red>20%</style>。",
     "type": 2,
-    "skill_id": 6609,
-    "skill_group_id": 1,
+    "skill_id": 10950,
+    "skill_group_id": 2,
     "skill_strength": 1
   },
   {
@@ -6945,7 +6945,7 @@
     "star": 1,
     "desc": "受到伤害后如果生命值低于50%，自身恢复10%生命值",
     "type": 2,
-    "skill_id": 7652,
+    "skill_id": 10897,
     "skill_group_id": 1,
     "skill_strength": 1
   },
@@ -6956,7 +6956,7 @@
     "desc": "受到伤害后如果生命值低于50%，自身恢复15%生命值",
     "type": 2,
     "skill_id": 7651,
-    "skill_group_id": 1,
+    "skill_group_id": 2,
     "skill_strength": 2
   },
   {
@@ -6966,7 +6966,7 @@
     "desc": "受到伤害后如果生命值低于50%，自身恢复20%生命值",
     "type": 2,
     "skill_id": 7650,
-    "skill_group_id": 1,
+    "skill_group_id": 2,
     "skill_strength": 3
   },
   {
@@ -6976,7 +6976,7 @@
     "desc": "受到伤害后如果生命值低于50%，自身恢复25%生命值",
     "type": 2,
     "skill_id": 7648,
-    "skill_group_id": 1,
+    "skill_group_id": 2,
     "skill_strength": 4
   },
   {
@@ -6986,7 +6986,7 @@
     "desc": "受到伤害后如果生命值低于50%，自身恢复30%生命值",
     "type": 2,
     "skill_id": 7117,
-    "skill_group_id": 1,
+    "skill_group_id": 2,
     "skill_strength": 5
   },
   {
@@ -7125,8 +7125,8 @@
     "star": 1,
     "desc": "魔攻提升<style=red>5%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[燃烧]，并对攻击者造成[<style=\"C4\">灼烧</style>]。",
     "type": 2,
-    "skill_id": 8895,
-    "skill_group_id": 1,
+    "skill_id": 10790,
+    "skill_group_id": 2,
     "skill_strength": 1
   },
   {
@@ -10880,6 +10880,56 @@
     "skill_strength": 1
   },
   {
+    "id": 1399,
+    "idunit_personality": 277,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8890,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1400,
+    "idunit_personality": 277,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8998,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1401,
+    "idunit_personality": 277,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8997,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1402,
+    "idunit_personality": 277,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8996,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1403,
+    "idunit_personality": 277,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8995,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
     "id": 1404,
     "idunit_personality": 185,
     "star": 1,
@@ -12545,7 +12595,7 @@
     "star": 1,
     "desc": "被直接攻击时，使3格菱形范围内的友军援护防御自身\n被援护防御后，友方单位能量+1，鲁非特能量+1\n非正面攻击伤害+4%",
     "type": 2,
-    "skill_id": 2085,
+    "skill_id": 10704,
     "skill_group_id": 1,
     "skill_strength": 1
   },
@@ -12555,7 +12605,7 @@
     "star": 2,
     "desc": "被直接攻击时，使3格菱形范围内的友军援护防御自身\n被援护防御后，友方单位能量+1，鲁非特能量+1\n非正面攻击伤害+8%",
     "type": 2,
-    "skill_id": 3303,
+    "skill_id": 10702,
     "skill_group_id": 1,
     "skill_strength": 2
   },
@@ -12565,7 +12615,7 @@
     "star": 3,
     "desc": "被直接攻击时，使3格菱形范围内的友军援护防御自身\n被援护防御后，友方单位能量+1，鲁非特能量+1\n非正面攻击伤害+12%",
     "type": 2,
-    "skill_id": 3304,
+    "skill_id": 10701,
     "skill_group_id": 1,
     "skill_strength": 3
   },
@@ -12575,7 +12625,7 @@
     "star": 4,
     "desc": "被直接攻击时，使3格菱形范围内的友军援护防御自身\n被援护防御后，友方单位能量+1，鲁非特能量+1\n非正面攻击伤害+16%",
     "type": 2,
-    "skill_id": 3305,
+    "skill_id": 10699,
     "skill_group_id": 1,
     "skill_strength": 4
   },
@@ -12880,6 +12930,86 @@
     "skill_strength": 4
   },
   {
+    "id": 1663,
+    "idunit_personality": 341,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9713,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1664,
+    "idunit_personality": 340,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9719,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1665,
+    "idunit_personality": 340,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9721,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 1666,
+    "idunit_personality": 342,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9722,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1667,
+    "idunit_personality": 342,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9723,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 1668,
+    "idunit_personality": 341,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9723,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 1671,
+    "idunit_personality": 343,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9724,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1672,
+    "idunit_personality": 344,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9725,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
     "id": 1673,
     "idunit_personality": 346,
     "star": 1,
@@ -12888,6 +13018,96 @@
     "skill_id": 9728,
     "skill_group_id": 1,
     "skill_strength": 1
+  },
+  {
+    "id": 1674,
+    "idunit_personality": 345,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9727,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1675,
+    "idunit_personality": 345,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9723,
+    "skill_group_id": 2,
+    "skill_strength": 2
+  },
+  {
+    "id": 1676,
+    "idunit_personality": 347,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9730,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1679,
+    "idunit_personality": 348,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9786,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1680,
+    "idunit_personality": 348,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9787,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1681,
+    "idunit_personality": 348,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9788,
+    "skill_group_id": 3,
+    "skill_strength": 2
+  },
+  {
+    "id": 1685,
+    "idunit_personality": 349,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9789,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1686,
+    "idunit_personality": 349,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9790,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1687,
+    "idunit_personality": 349,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9791,
+    "skill_group_id": 3,
+    "skill_strength": 2
   },
   {
     "id": 1688,
@@ -12938,6 +13158,36 @@
     "skill_id": 6567,
     "skill_group_id": 1,
     "skill_strength": 5
+  },
+  {
+    "id": 1696,
+    "idunit_personality": 351,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9803,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1697,
+    "idunit_personality": 352,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9804,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1698,
+    "idunit_personality": 352,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9805,
+    "skill_group_id": 2,
+    "skill_strength": 1
   },
   {
     "id": 1699,
@@ -13037,6 +13287,36 @@
     "type": 2,
     "skill_id": 9812,
     "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1712,
+    "idunit_personality": 356,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9831,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1713,
+    "idunit_personality": 357,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9833,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1714,
+    "idunit_personality": 358,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 9834,
+    "skill_group_id": 1,
     "skill_strength": 1
   },
   {
@@ -13607,7 +13887,7 @@
     "type": 2,
     "skill_id": 10108,
     "skill_group_id": 2,
-    "skill_strength": 3
+    "skill_strength": 1
   },
   {
     "id": 1783,
@@ -13690,6 +13970,16 @@
     "skill_strength": 3
   },
   {
+    "id": 1802,
+    "idunit_personality": 385,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10187,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
     "id": 1808,
     "idunit_personality": 386,
     "star": 1,
@@ -13750,6 +14040,1286 @@
     "skill_strength": 1
   },
   {
+    "id": 1821,
+    "idunit_personality": 389,
+    "star": 1,
+    "desc": "行动结束时，使自身范围<style=red>3</style>格内所有己方，获得随机<style=red>1</style>个1级的[增益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4531,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1822,
+    "idunit_personality": 389,
+    "star": 2,
+    "desc": "行动结束时，使自身范围<style=red>3</style>格内所有己方，获得随机<style=red>2</style>个1级的[增益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4534,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1823,
+    "idunit_personality": 389,
+    "star": 3,
+    "desc": "行动结束时，使自身范围<style=red>3</style>格内所有己方，获得随机<style=red>2</style>个2级的[增益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 10251,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1824,
+    "idunit_personality": 389,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10253,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1825,
+    "idunit_personality": 390,
+    "star": 1,
+    "desc": "行动结束时，对自身范围<style=red>3</style>格内所有敌人，造成随机<style=red>1</style>个1级的[减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4537,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1826,
+    "idunit_personality": 390,
+    "star": 2,
+    "desc": "行动结束时，对自身范围<style=red>3</style>格内所有敌人，造成随机<style=red>1</style>个2级的[减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4538,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1827,
+    "idunit_personality": 390,
+    "star": 3,
+    "desc": "行动结束时，对自身范围<style=red>3</style>格内所有敌人，造成随机<style=red>2</style>个2级的[减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 10254,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1828,
+    "idunit_personality": 390,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10253,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1829,
+    "idunit_personality": 391,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8613,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1830,
+    "idunit_personality": 391,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8772,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1831,
+    "idunit_personality": 391,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8773,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1832,
+    "idunit_personality": 391,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8774,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1833,
+    "idunit_personality": 391,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8775,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1834,
+    "idunit_personality": 391,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10256,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1835,
+    "idunit_personality": 392,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6706,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1836,
+    "idunit_personality": 392,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6707,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1837,
+    "idunit_personality": 392,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6708,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1838,
+    "idunit_personality": 392,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6709,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1839,
+    "idunit_personality": 392,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6710,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1840,
+    "idunit_personality": 392,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6793,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1841,
+    "idunit_personality": 392,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10256,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1842,
+    "idunit_personality": 393,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8629,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1843,
+    "idunit_personality": 393,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8765,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1844,
+    "idunit_personality": 393,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8765,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1845,
+    "idunit_personality": 393,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8766,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1846,
+    "idunit_personality": 393,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8766,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1847,
+    "idunit_personality": 393,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10257,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1848,
+    "idunit_personality": 394,
+    "star": 1,
+    "desc": "物攻提升<style=red>10%</style>，攻击后，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。攻击拥有[倒吊人标记]的目标时，伤害提升<style=red>20%</style>。",
+    "type": 2,
+    "skill_id": 3921,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1849,
+    "idunit_personality": 394,
+    "star": 2,
+    "desc": "攻击提升<style=red>12%</style>，攻击后，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。攻击拥有[倒吊人标记]的目标时，伤害提升<style=red>25%</style>。",
+    "type": 2,
+    "skill_id": 3959,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1850,
+    "idunit_personality": 394,
+    "star": 3,
+    "desc": "攻击提升<style=red>15%</style>，攻击后，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。攻击拥有[倒吊人标记]的目标时，伤害提升<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 3960,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1851,
+    "idunit_personality": 394,
+    "star": 4,
+    "desc": "攻击提升<style=red>18%</style>，攻击后，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。攻击拥有[倒吊人标记]的目标时，伤害提升<style=red>35%</style>。",
+    "type": 2,
+    "skill_id": 3961,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1852,
+    "idunit_personality": 394,
+    "star": 5,
+    "desc": "攻击提升<style=red>20%</style>，攻击后，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。攻击拥有[倒吊人标记]的目标时，伤害提升<style=red>40%</style>。",
+    "type": 2,
+    "skill_id": 3962,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1853,
+    "idunit_personality": 394,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10258,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1854,
+    "idunit_personality": 395,
+    "star": 1,
+    "desc": "移动力提升<style=red>1</style>行动结束时，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。被拥有[倒吊人标记]的敌人攻击时，伤害降低<style=red>10%</style>。",
+    "type": 2,
+    "skill_id": 3922,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1855,
+    "idunit_personality": 395,
+    "star": 2,
+    "desc": "移动力提升<style=red>1</style>行动结束时，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。被拥有[倒吊人标记]的敌人攻击时，伤害降低<style=red>15%</style>。",
+    "type": 2,
+    "skill_id": 4285,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1856,
+    "idunit_personality": 395,
+    "star": 3,
+    "desc": "移动力提升<style=red>1</style>行动结束时，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。被拥有[倒吊人标记]的敌人攻击时，伤害降低<style=red>20%</style>。",
+    "type": 2,
+    "skill_id": 4286,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1857,
+    "idunit_personality": 395,
+    "star": 4,
+    "desc": "移动力提升<style=red>1</style>行动结束时，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。被拥有[倒吊人标记]的敌人攻击时，伤害降低<style=red>25%</style>。",
+    "type": 2,
+    "skill_id": 4287,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1858,
+    "idunit_personality": 395,
+    "star": 5,
+    "desc": "移动力提升<style=red>1</style>行动结束时，对最近敌人造成[<style=\"C4\">倒吊人标记</style>]。被拥有[倒吊人标记]的敌人攻击时，伤害降低<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 4288,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1859,
+    "idunit_personality": 395,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10258,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1860,
+    "idunit_personality": 396,
+    "star": 1,
+    "desc": "自身范围<style=red>1</style>圈内有队友，魔攻、魔防提升<style=red>15%</style>。",
+    "type": 2,
+    "skill_id": 3911,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1861,
+    "idunit_personality": 396,
+    "star": 2,
+    "desc": "自身范围<style=red>1</style>圈内有队友，魔攻、魔防提升<style=red>18%</style>。",
+    "type": 2,
+    "skill_id": 3912,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1862,
+    "idunit_personality": 396,
+    "star": 3,
+    "desc": "自身范围<style=red>1</style>圈内有队友，魔攻、魔防提升<style=red>22%</style>。",
+    "type": 2,
+    "skill_id": 3913,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1863,
+    "idunit_personality": 396,
+    "star": 4,
+    "desc": "自身范围<style=red>1</style>圈内有队友，魔攻、魔防提升<style=red>26%</style>。",
+    "type": 2,
+    "skill_id": 3914,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1864,
+    "idunit_personality": 396,
+    "star": 5,
+    "desc": "自身范围<style=red>1</style>圈内有队友，魔攻、魔防提升<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 3915,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1865,
+    "idunit_personality": 396,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10257,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1866,
+    "idunit_personality": 397,
+    "star": 1,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.3</style>倍。",
+    "type": 2,
+    "skill_id": 3952,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1867,
+    "idunit_personality": 397,
+    "star": 2,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.3</style>倍。",
+    "type": 2,
+    "skill_id": 3952,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1868,
+    "idunit_personality": 397,
+    "star": 3,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.4</style>倍。",
+    "type": 2,
+    "skill_id": 4279,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1869,
+    "idunit_personality": 397,
+    "star": 4,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.4</style>倍。",
+    "type": 2,
+    "skill_id": 4279,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1870,
+    "idunit_personality": 397,
+    "star": 5,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.5</style>倍。",
+    "type": 2,
+    "skill_id": 4280,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1871,
+    "idunit_personality": 398,
+    "star": 1,
+    "desc": "魔攻提升<style=red>5%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 6090,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1872,
+    "idunit_personality": 398,
+    "star": 2,
+    "desc": "魔攻提升<style=red>6%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 6098,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1873,
+    "idunit_personality": 398,
+    "star": 3,
+    "desc": "魔攻提升<style=red>8%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 6099,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1874,
+    "idunit_personality": 398,
+    "star": 4,
+    "desc": "魔攻提升<style=red>10%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 6100,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1875,
+    "idunit_personality": 398,
+    "star": 5,
+    "desc": "魔攻提升<style=red>12%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 6101,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1876,
+    "idunit_personality": 398,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10263,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1877,
+    "idunit_personality": 397,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10259,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1878,
+    "idunit_personality": 399,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6457,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1879,
+    "idunit_personality": 399,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6458,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1880,
+    "idunit_personality": 399,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6459,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1881,
+    "idunit_personality": 399,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6460,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1882,
+    "idunit_personality": 399,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6461,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1883,
+    "idunit_personality": 399,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10259,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1884,
+    "idunit_personality": 400,
+    "star": 1,
+    "desc": "魔攻提升<style=red>5%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[燃烧]，并对攻击者造成[<style=\"C4\">灼烧</style>]。",
+    "type": 2,
+    "skill_id": 3954,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1885,
+    "idunit_personality": 400,
+    "star": 2,
+    "desc": "魔攻提升<style=red>6%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[燃烧]，并对攻击者造成[<style=\"C4\">灼烧</style>]。",
+    "type": 2,
+    "skill_id": 4297,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1886,
+    "idunit_personality": 400,
+    "star": 3,
+    "desc": "魔攻提升<style=red>7%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[燃烧]，并对攻击者造成[<style=\"C4\">灼烧</style>]。",
+    "type": 2,
+    "skill_id": 4298,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1887,
+    "idunit_personality": 400,
+    "star": 4,
+    "desc": "魔攻提升<style=red>8%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[燃烧]，并对攻击者造成[<style=\"C4\">灼烧</style>]。",
+    "type": 2,
+    "skill_id": 4299,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1888,
+    "idunit_personality": 400,
+    "star": 5,
+    "desc": "魔攻提升<style=red>10%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[燃烧]，并对攻击者造成[<style=\"C4\">灼烧</style>]。",
+    "type": 2,
+    "skill_id": 4300,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1889,
+    "idunit_personality": 400,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10260,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1890,
+    "idunit_personality": 401,
+    "star": 1,
+    "desc": "魔攻提升<style=red>5%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 3953,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1891,
+    "idunit_personality": 401,
+    "star": 2,
+    "desc": "魔攻提升<style=red>6%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4402,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1892,
+    "idunit_personality": 401,
+    "star": 3,
+    "desc": "魔攻提升<style=red>8%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4401,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1893,
+    "idunit_personality": 401,
+    "star": 4,
+    "desc": "魔攻提升<style=red>10%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4400,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1894,
+    "idunit_personality": 401,
+    "star": 5,
+    "desc": "魔攻提升<style=red>12%</style>。行动结束时，对范围<style=red>4</style>格内任意<style=red>2</style>名敌人，造成随机1个<style=red>2</style>级的[属性减益]，持续<style=red>2</style>回合。",
+    "type": 2,
+    "skill_id": 4399,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1895,
+    "idunit_personality": 401,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10260,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1896,
+    "idunit_personality": 402,
+    "star": 1,
+    "desc": "魔攻提升<style=red>1%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[冻结]，并对攻击者造成[<style=\"C4\">冰冻</style>]。",
+    "type": 2,
+    "skill_id": 3955,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1897,
+    "idunit_personality": 402,
+    "star": 2,
+    "desc": "魔攻提升<style=red>2%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[冻结]，并对攻击者造成[<style=\"C4\">冰冻</style>]。",
+    "type": 2,
+    "skill_id": 4293,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1898,
+    "idunit_personality": 402,
+    "star": 3,
+    "desc": "魔攻提升<style=red>3%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[冻结]，并对攻击者造成[<style=\"C4\">冰冻</style>]。",
+    "type": 2,
+    "skill_id": 4294,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1899,
+    "idunit_personality": 402,
+    "star": 4,
+    "desc": "魔攻提升<style=red>4%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[冻结]，并对攻击者造成[<style=\"C4\">冰冻</style>]。",
+    "type": 2,
+    "skill_id": 4295,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1900,
+    "idunit_personality": 402,
+    "star": 5,
+    "desc": "魔攻提升<style=red>5%</style>。被击败时，对范围<style=red>2</style>格内的地形格造成[冻结]，并对攻击者造成[<style=\"C4\">冰冻</style>]。",
+    "type": 2,
+    "skill_id": 4296,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1901,
+    "idunit_personality": 402,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10264,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1902,
+    "idunit_personality": 403,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8633,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1903,
+    "idunit_personality": 403,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8767,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1904,
+    "idunit_personality": 403,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8768,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1905,
+    "idunit_personality": 403,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8769,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1906,
+    "idunit_personality": 403,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8770,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1907,
+    "idunit_personality": 403,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10262,
+    "skill_group_id": 0,
+    "skill_strength": 0
+  },
+  {
+    "id": 1908,
+    "idunit_personality": 404,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8614,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1909,
+    "idunit_personality": 404,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8614,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1910,
+    "idunit_personality": 404,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8614,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1911,
+    "idunit_personality": 404,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8614,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1912,
+    "idunit_personality": 404,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8614,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1913,
+    "idunit_personality": 404,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10256,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1914,
+    "idunit_personality": 405,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6452,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1915,
+    "idunit_personality": 405,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6453,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1916,
+    "idunit_personality": 405,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6454,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1917,
+    "idunit_personality": 405,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6455,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1918,
+    "idunit_personality": 405,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6456,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1919,
+    "idunit_personality": 406,
+    "star": 1,
+    "desc": "周围<color=#ff0000>2</color>格内存在<color=#ff0000>2</color>名及以上友军时，物攻、防御提高<color=#ff0000>10%</color>。",
+    "type": 2,
+    "skill_id": 3916,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1920,
+    "idunit_personality": 406,
+    "star": 2,
+    "desc": "周围<color=#ff0000>2</color>格内存在<color=#ff0000>2</color>名及以上友军时，物攻、防御提高<color=#ff0000>13%</color>。",
+    "type": 2,
+    "skill_id": 3917,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1921,
+    "idunit_personality": 406,
+    "star": 3,
+    "desc": "周围<color=#ff0000>2</color>格内存在<color=#ff0000>2</color>名及以上友军时，物攻、防御提高<color=#ff0000>16%</color>。",
+    "type": 2,
+    "skill_id": 3918,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1922,
+    "idunit_personality": 406,
+    "star": 4,
+    "desc": "周围<color=#ff0000>2</color>格内存在<color=#ff0000>2</color>名及以上友军时，物攻、防御提高<color=#ff0000>20%</color>。",
+    "type": 2,
+    "skill_id": 3919,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1923,
+    "idunit_personality": 406,
+    "star": 5,
+    "desc": "周围<color=#ff0000>2</color>格内存在<color=#ff0000>2</color>名及以上友军时，物攻、防御提高<color=#ff0000>25%</color>。",
+    "type": 2,
+    "skill_id": 3920,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1924,
+    "idunit_personality": 406,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10257,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1925,
+    "idunit_personality": 407,
+    "star": 1,
+    "desc": "被击败时，<style=red>50%</style>概率原地留下一个[<style=\"C4\">炸弹</style>]。炸弹引爆后，对范围<style=red>2</style>格内造成伤害，威力为其最大生命值的<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 4419,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1926,
+    "idunit_personality": 407,
+    "star": 2,
+    "desc": "被击败时，<style=red>50%</style>概率原地留下一个[<style=\"C4\">炸弹</style>]。炸弹引爆后，对范围<style=red>2</style>格内造成伤害，威力为其最大生命值的<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 4419,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1927,
+    "idunit_personality": 407,
+    "star": 3,
+    "desc": "被击败时，<style=red>80%</style>概率原地留下一个[<style=\"C4\">炸弹</style>]。炸弹引爆后，对范围<style=red>2</style>格内造成伤害，威力为其最大生命值的<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 6173,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1928,
+    "idunit_personality": 407,
+    "star": 4,
+    "desc": "被击败时，<style=red>80%</style>概率原地留下一个[<style=\"C4\">炸弹</style>]。炸弹引爆后，对范围<style=red>2</style>格内造成伤害，威力为其最大生命值的<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 6173,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1929,
+    "idunit_personality": 407,
+    "star": 5,
+    "desc": "被击败时，<style=red>100%</style>概率原地留下一个[<style=\"C4\">炸弹</style>]。炸弹引爆后，对范围<style=red>2</style>格内造成伤害，威力为其最大生命值的<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 6166,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1930,
+    "idunit_personality": 407,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10260,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1935,
+    "idunit_personality": 408,
+    "star": 1,
+    "desc": "拥有[<style=\"C4\">灵活步伐</style>]、[<style=\"C4\">跳跃</style>]，攻击提升<style=red>20%</style>。回合开始时，获得[<style=\"C5\">面纱</style>]，不可驱散，无法免疫。（冷却[<style=\"C5\">2</style>]回合）",
+    "type": 2,
+    "skill_id": 10277,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1936,
+    "idunit_personality": 408,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10275,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1940,
+    "idunit_personality": 409,
+    "star": 1,
+    "desc": "基础属性提升<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 6417,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1942,
+    "idunit_personality": 409,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10278,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1943,
+    "idunit_personality": 410,
+    "star": 1,
+    "desc": "基础属性提升<style=red>15%</style>。",
+    "type": 2,
+    "skill_id": 10863,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1944,
+    "idunit_personality": 410,
+    "star": 2,
+    "desc": "基础属性提升<style=red>20%</style>。",
+    "type": 2,
+    "skill_id": 10861,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 1945,
+    "idunit_personality": 410,
+    "star": 3,
+    "desc": "基础属性提升<style=red>25%</style>。",
+    "type": 2,
+    "skill_id": 10860,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 1946,
+    "idunit_personality": 410,
+    "star": 4,
+    "desc": "基础属性提升<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 10858,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 1947,
+    "idunit_personality": 410,
+    "star": 5,
+    "desc": "基础属性提升<style=red>35%</style>。",
+    "type": 2,
+    "skill_id": 10282,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 1951,
+    "idunit_personality": 411,
+    "star": 1,
+    "desc": "受到伤害后如果生命值低于50%，自身恢复25%生命值",
+    "type": 2,
+    "skill_id": 6566,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1953,
+    "idunit_personality": 411,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10280,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1957,
+    "idunit_personality": 412,
+    "star": 1,
+    "desc": "基础属性提升<style=red>30%</style>。",
+    "type": 2,
+    "skill_id": 11136,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1959,
+    "idunit_personality": 412,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10284,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 1960,
+    "idunit_personality": 411,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10299,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 1961,
+    "idunit_personality": 412,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10299,
+    "skill_group_id": 4,
+    "skill_strength": 1
+  },
+  {
+    "id": 1962,
+    "idunit_personality": 408,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10299,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 1963,
+    "idunit_personality": 409,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10299,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 1964,
+    "idunit_personality": 413,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10323,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
     "id": 1965,
     "idunit_personality": 414,
     "star": 1,
@@ -13757,6 +15327,416 @@
     "type": 2,
     "skill_id": 10348,
     "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1969,
+    "idunit_personality": 415,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10351,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1971,
+    "idunit_personality": 417,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11032,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1972,
+    "idunit_personality": 417,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1973,
+    "idunit_personality": 418,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 11032,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1974,
+    "idunit_personality": 418,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1975,
+    "idunit_personality": 419,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8991,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1976,
+    "idunit_personality": 419,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1977,
+    "idunit_personality": 420,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8991,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1978,
+    "idunit_personality": 420,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1979,
+    "idunit_personality": 415,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1980,
+    "idunit_personality": 421,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10351,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1981,
+    "idunit_personality": 421,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1982,
+    "idunit_personality": 422,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10351,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1983,
+    "idunit_personality": 422,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1984,
+    "idunit_personality": 423,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10351,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1985,
+    "idunit_personality": 423,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10417,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1986,
+    "idunit_personality": 424,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 186,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1989,
+    "idunit_personality": 425,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10371,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1990,
+    "idunit_personality": 426,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10374,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1991,
+    "idunit_personality": 427,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10380,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1992,
+    "idunit_personality": 428,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10381,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1993,
+    "idunit_personality": 429,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10382,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1994,
+    "idunit_personality": 430,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10351,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1995,
+    "idunit_personality": 430,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 1127,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 1997,
+    "idunit_personality": 431,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10323,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1998,
+    "idunit_personality": 432,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10323,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 1999,
+    "idunit_personality": 433,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8991,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2000,
+    "idunit_personality": 433,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 1127,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2002,
+    "idunit_personality": 430,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10390,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2003,
+    "idunit_personality": 433,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10399,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2004,
+    "idunit_personality": 413,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10416,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2005,
+    "idunit_personality": 432,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10397,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2006,
+    "idunit_personality": 431,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10395,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2010,
+    "idunit_personality": 415,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10357,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2011,
+    "idunit_personality": 422,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10358,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2012,
+    "idunit_personality": 421,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10355,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2013,
+    "idunit_personality": 423,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10356,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2014,
+    "idunit_personality": 418,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10357,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2015,
+    "idunit_personality": 420,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10358,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2016,
+    "idunit_personality": 417,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10355,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2017,
+    "idunit_personality": 419,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10356,
+    "skill_group_id": 3,
     "skill_strength": 1
   },
   {
@@ -13800,12 +15780,72 @@
     "skill_strength": 1
   },
   {
+    "id": 2022,
+    "idunit_personality": 433,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10431,
+    "skill_group_id": 4,
+    "skill_strength": 1
+  },
+  {
+    "id": 2023,
+    "idunit_personality": 430,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10432,
+    "skill_group_id": 4,
+    "skill_strength": 1
+  },
+  {
+    "id": 2024,
+    "idunit_personality": 436,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10479,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2025,
+    "idunit_personality": 437,
+    "star": 1,
+    "desc": "行动结束时，若[使徒·不灭之力]没移动，则获得[<style=\"C4\"><sprite=2>免伤3</style>]，持续<style=red>1</style>回合。",
+    "type": 2,
+    "skill_id": 10504,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2026,
+    "idunit_personality": 438,
+    "star": 1,
+    "desc": "行动结束时，若[使徒·不灭之力]没移动，则获得[<style=\"C4\"><sprite=2>免伤3</style>]，持续<style=red>1</style>回合。",
+    "type": 2,
+    "skill_id": 10506,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
     "id": 2027,
     "idunit_personality": 439,
     "star": 1,
     "desc": "基础属性提高<style=red>6%</style>。场上每有<style=red>1</style>名角色被击败，回复自身<style=red>20%</style>最大生命值、<style=red>1</style>点能量。",
     "type": 2,
     "skill_id": 10519,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2032,
+    "idunit_personality": 440,
+    "star": 1,
+    "desc": "该单位只会站在战场边缘，不可指定为攻击目标，且不会受到任何伤害、但是所有友军被消灭后，该单位会自动被消灭。",
+    "type": 2,
+    "skill_id": 10555,
     "skill_group_id": 1,
     "skill_strength": 1
   },
@@ -13817,6 +15857,316 @@
     "type": 2,
     "skill_id": 10562,
     "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2034,
+    "idunit_personality": 442,
+    "star": 1,
+    "desc": "同时拥有[本能]、[意志]、[中枢]的个性效果。",
+    "type": 2,
+    "skill_id": 10821,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2039,
+    "idunit_personality": 442,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10667,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2040,
+    "idunit_personality": 182,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10705,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2042,
+    "idunit_personality": 182,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10709,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2043,
+    "idunit_personality": 182,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10705,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2044,
+    "idunit_personality": 182,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10705,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2045,
+    "idunit_personality": 182,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10705,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2046,
+    "idunit_personality": 443,
+    "star": 1,
+    "desc": "（光环）使自身范围<style=red>5</style>格内所有<狼>，攻击提升<style=red>10%</style>，暴击率提升<style=red>20%</style>。",
+    "type": 2,
+    "skill_id": 10713,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2049,
+    "idunit_personality": 444,
+    "star": 1,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.3</style>倍。",
+    "type": 2,
+    "skill_id": 3952,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2050,
+    "idunit_personality": 444,
+    "star": 2,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.3</style>倍。",
+    "type": 2,
+    "skill_id": 3952,
+    "skill_group_id": 1,
+    "skill_strength": 2
+  },
+  {
+    "id": 2051,
+    "idunit_personality": 444,
+    "star": 3,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.4</style>倍。",
+    "type": 2,
+    "skill_id": 4279,
+    "skill_group_id": 1,
+    "skill_strength": 3
+  },
+  {
+    "id": 2052,
+    "idunit_personality": 444,
+    "star": 4,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.4</style>倍。",
+    "type": 2,
+    "skill_id": 4279,
+    "skill_group_id": 1,
+    "skill_strength": 4
+  },
+  {
+    "id": 2053,
+    "idunit_personality": 444,
+    "star": 5,
+    "desc": "被击败时，产生爆炸，对范围<style=red>1</style>圈内造成伤害，威力为技能持有者物攻的<style=red>0.5</style>倍。",
+    "type": 2,
+    "skill_id": 4280,
+    "skill_group_id": 1,
+    "skill_strength": 5
+  },
+  {
+    "id": 2054,
+    "idunit_personality": 445,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10726,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2055,
+    "idunit_personality": 412,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10705,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2056,
+    "idunit_personality": 446,
+    "star": 1,
+    "desc": "基础属性提高<style=red>6%</style>。场上每有<style=red>1</style>名角色被击败，回复自身<style=red>20%</style>最大生命值、<style=red>1</style>点能量。",
+    "type": 2,
+    "skill_id": 10761,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2071,
+    "idunit_personality": 42,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10786,
+    "skill_group_id": 3,
+    "skill_strength": 1
+  },
+  {
+    "id": 2072,
+    "idunit_personality": 191,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 8895,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2073,
+    "idunit_personality": 442,
+    "star": 3,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10820,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2074,
+    "idunit_personality": 442,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10642,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2076,
+    "idunit_personality": 450,
+    "star": 1,
+    "desc": "同时拥有[本能]、[意志]、[中枢]的个性效果。",
+    "type": 2,
+    "skill_id": 10868,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2080,
+    "idunit_personality": 206,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10872,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2081,
+    "idunit_personality": 451,
+    "star": 1,
+    "desc": "基础属性提高<style=red>6%</style>。场上每有<style=red>1</style>名角色被击败，回复自身<style=red>20%</style>最大生命值、<style=red>1</style>点能量。",
+    "type": 2,
+    "skill_id": 10765,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2086,
+    "idunit_personality": 189,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 7652,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2095,
+    "idunit_personality": 167,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 6609,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2096,
+    "idunit_personality": 179,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10950,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2097,
+    "idunit_personality": 274,
+    "star": 2,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10106,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2098,
+    "idunit_personality": 274,
+    "star": 4,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10108,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2099,
+    "idunit_personality": 274,
+    "star": 5,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10108,
+    "skill_group_id": 2,
+    "skill_strength": 1
+  },
+  {
+    "id": 2115,
+    "idunit_personality": 459,
+    "star": 1,
+    "desc": "基础属性提高<style=red>6%</style>。场上每有<style=red>1</style>名角色被击败，回复自身<style=red>20%</style>最大生命值、<style=red>1</style>点能量。",
+    "type": 2,
+    "skill_id": 11012,
+    "skill_group_id": 1,
+    "skill_strength": 1
+  },
+  {
+    "id": 2135,
+    "idunit_personality": 405,
+    "star": 1,
+    "desc": "",
+    "type": 2,
+    "skill_id": 10259,
+    "skill_group_id": 2,
     "skill_strength": 1
   }
 ]

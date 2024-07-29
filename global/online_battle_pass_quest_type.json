@@ -1,26 +1,34 @@
 [
   {
     "id": 1,
-    "name": "周任务",
+    "name": "每周任务",
     "type": "Weekly",
-    "param_name": "",
-    "param_type": "",
-    "category": 1
+    "category": 1,
+    "refresh_method": 3,
+    "is_loop": false
   },
   {
     "id": 2,
     "name": "赛季任务",
     "type": "Season",
-    "param_name": "",
-    "param_type": "",
-    "category": 2
+    "category": 2,
+    "refresh_method": 1,
+    "is_loop": false
   },
   {
     "id": 3,
-    "name": "运营活动任务",
-    "type": "OperationActivity",
-    "param_name": "运营活动ID",
-    "param_type": "online_operation_activity",
-    "category": 2
+    "name": "每日任务",
+    "type": "Daily",
+    "category": 2,
+    "refresh_method": 2,
+    "is_loop": false
+  },
+  {
+    "id": 4,
+    "name": "循环任务",
+    "type": "Loop",
+    "category": 2,
+    "refresh_method": 1,
+    "is_loop": true
   }
 ]

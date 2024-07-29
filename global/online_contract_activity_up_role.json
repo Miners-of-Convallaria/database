@@ -82,5 +82,285 @@
     "online_role_unit": 70,
     "up_treasure_percent": 20,
     "name": "审判者鞭笞"
+  },
+  {
+    "id": 13,
+    "editor_name": "大型活动3.5期-卡池-阿加塔-50%",
+    "online_role_unit": 120,
+    "up_treasure_percent": 50,
+    "name": "阿加塔"
+  },
+  {
+    "id": 14,
+    "editor_name": "大型活动3.5期-卡池-夏可露露-50%",
+    "online_role_unit": 132,
+    "up_treasure_percent": 50,
+    "name": "夏可露露"
+  },
+  {
+    "id": 15,
+    "editor_name": "大型活动3.5期-剧情-卡丽丝-20%",
+    "online_role_unit": 126,
+    "up_treasure_percent": 20,
+    "name": "卡丽丝"
+  },
+  {
+    "id": 16,
+    "editor_name": "大型活动3.5期-剧情-科尔-20%",
+    "online_role_unit": 109,
+    "up_treasure_percent": 20,
+    "name": "科尔"
+  },
+  {
+    "id": 17,
+    "editor_name": "大型活动3.5期-剧情-泰登-20%",
+    "online_role_unit": 49,
+    "up_treasure_percent": 20,
+    "name": "泰登"
+  },
+  {
+    "id": 18,
+    "editor_name": "大型活动3.5期-剧情-马格努斯-20%",
+    "online_role_unit": 117,
+    "up_treasure_percent": 20,
+    "name": "马格努斯"
+  },
+  {
+    "id": 19,
+    "editor_name": "大型活动3.5期-SR-薇尔德舞娘-20%",
+    "online_role_unit": 64,
+    "up_treasure_percent": 20,
+    "name": "薇尔德舞娘"
+  },
+  {
+    "id": 20,
+    "editor_name": "大型活动3.5期-SR-弩骑士摧城-20%",
+    "online_role_unit": 68,
+    "up_treasure_percent": 20,
+    "name": "弩骑士摧城"
+  },
+  {
+    "id": 21,
+    "editor_name": "大型活动3.5期-SR-法皇国牧师-20%",
+    "online_role_unit": 72,
+    "up_treasure_percent": 20,
+    "name": "法皇国牧师"
+  },
+  {
+    "id": 22,
+    "editor_name": "大型活动3.5期-SR-雇佣兵巨斧兵-20%",
+    "online_role_unit": 65,
+    "up_treasure_percent": 20,
+    "name": "雇佣兵巨斧兵"
+  },
+  {
+    "id": 25,
+    "editor_name": "SSR-泽维尔-20%（中活4、大活1）",
+    "online_role_unit": 55,
+    "up_treasure_percent": 20,
+    "name": "泽维尔"
+  },
+  {
+    "id": 27,
+    "editor_name": "SSR-迪塔利奥-20%（中活4、大活2、中活1）",
+    "online_role_unit": 44,
+    "up_treasure_percent": 20,
+    "name": "迪塔利奥"
+  },
+  {
+    "id": 28,
+    "editor_name": "SSR-诺诺薇儿-20%（中活4、中活3）",
+    "online_role_unit": 51,
+    "up_treasure_percent": 20,
+    "name": "诺诺薇儿"
+  },
+  {
+    "id": 30,
+    "editor_name": "SR-伊利亚刺客-20%（中活4、大活2）",
+    "online_role_unit": 82,
+    "up_treasure_percent": 20,
+    "name": "伊利亚刺客"
+  },
+  {
+    "id": 31,
+    "editor_name": "SR-骑士团战士-20%（中活4、中活3）",
+    "online_role_unit": 71,
+    "up_treasure_percent": 20,
+    "name": "骑士团战士"
+  },
+  {
+    "id": 32,
+    "editor_name": "SR-光辉使者“利刃”-20%（中活4、中活3）",
+    "online_role_unit": 113,
+    "up_treasure_percent": 20,
+    "name": "光辉使者“利刃”"
+  },
+  {
+    "id": 36,
+    "editor_name": "SR-黑暗之光暗法-20%（大活4、中活3）",
+    "online_role_unit": 73,
+    "up_treasure_percent": 20,
+    "name": "黑暗之光暗法"
+  },
+  {
+    "id": 37,
+    "editor_name": "SR-光术骑士“耀光”-20%（大活4、中活3）",
+    "online_role_unit": 76,
+    "up_treasure_percent": 20,
+    "name": "光术骑士“耀光”"
+  },
+  {
+    "id": 41,
+    "editor_name": "SSR-歌洛莉亚-20%（大活4、中活3）",
+    "online_role_unit": 48,
+    "up_treasure_percent": 20,
+    "name": "歌洛莉亚"
+  },
+  {
+    "id": 52,
+    "editor_name": "SSR-贝拉-20%（大活5、大活2）",
+    "online_role_unit": 43,
+    "up_treasure_percent": 20,
+    "name": "贝拉"
+  },
+  {
+    "id": 53,
+    "editor_name": "SSR-萨曼莎-20%（大活5、中活1）",
+    "online_role_unit": 53,
+    "up_treasure_percent": 20,
+    "name": "萨曼莎"
+  },
+  {
+    "id": 56,
+    "editor_name": "SR-倒吊人参谋官-20%（大活5、大活2）",
+    "online_role_unit": 62,
+    "up_treasure_percent": 20,
+    "name": "倒吊人参谋官"
+  },
+  {
+    "id": 57,
+    "editor_name": "SR-倒吊人特工-20%（中活2、大活5）",
+    "online_role_unit": 74,
+    "up_treasure_percent": 20,
+    "name": "倒吊人特工"
+  },
+  {
+    "id": 58,
+    "editor_name": "SSR-卡池-歌洛莉亚-50%（大活2）",
+    "online_role_unit": 48,
+    "up_treasure_percent": 50,
+    "name": "歌洛莉亚"
+  },
+  {
+    "id": 59,
+    "editor_name": "SSR-卡池-艾达-50%（大活2）",
+    "online_role_unit": 61,
+    "up_treasure_percent": 50,
+    "name": "艾达"
+  },
+  {
+    "id": 60,
+    "editor_name": "SSR-伊南娜-20%（大活2） ",
+    "online_role_unit": 111,
+    "up_treasure_percent": 20,
+    "name": "伊南娜"
+  },
+  {
+    "id": 61,
+    "editor_name": "SR-倒吊人暗术士-20%（大活2）",
+    "online_role_unit": 96,
+    "up_treasure_percent": 20,
+    "name": "倒吊人暗术士"
+  },
+  {
+    "id": 62,
+    "editor_name": "SSR-卡池-席梦娜-50%（大活1）",
+    "online_role_unit": 59,
+    "up_treasure_percent": 50,
+    "name": "席梦娜"
+  },
+  {
+    "id": 63,
+    "editor_name": "SSR-莉莉薇儿-20%（大活1）",
+    "online_role_unit": 47,
+    "up_treasure_percent": 20,
+    "name": "莉莉薇儿"
+  },
+  {
+    "id": 64,
+    "editor_name": "SSR-卡池-阿里克塞-50%（大活1）",
+    "online_role_unit": 110,
+    "up_treasure_percent": 50,
+    "name": "阿里克塞"
+  },
+  {
+    "id": 65,
+    "editor_name": "SR-薇尔德弓兵-20%（大活1） ",
+    "online_role_unit": 78,
+    "up_treasure_percent": 20,
+    "name": "薇尔德弓兵"
+  },
+  {
+    "id": 66,
+    "editor_name": "SSR-卡池-阿坎贝-50%（中活3）",
+    "online_role_unit": 131,
+    "up_treasure_percent": 50,
+    "name": "阿坎贝"
+  },
+  {
+    "id": 67,
+    "editor_name": "SSR-卡池-蔻蔻娜-50%（中活3）",
+    "online_role_unit": 133,
+    "up_treasure_percent": 50,
+    "name": "蔻蔻娜"
+  },
+  {
+    "id": 68,
+    "editor_name": "SSR-艾达-20%（中活3） ",
+    "online_role_unit": 61,
+    "up_treasure_percent": 20,
+    "name": "艾达"
+  },
+  {
+    "id": 69,
+    "editor_name": "SSR-茉茉-20%（中活3）",
+    "online_role_unit": 118,
+    "up_treasure_percent": 20,
+    "name": "茉茉"
+  },
+  {
+    "id": 70,
+    "editor_name": "SSR-卡池-索菲亚-50%（中活1）",
+    "online_role_unit": 108,
+    "up_treasure_percent": 50,
+    "name": "索菲亚"
+  },
+  {
+    "id": 71,
+    "editor_name": "SSR-卡池-奥古斯特-50%（中活1）",
+    "online_role_unit": 121,
+    "up_treasure_percent": 50,
+    "name": "奥古斯特"
+  },
+  {
+    "id": 72,
+    "editor_name": "SSR-内尔伽勒-20%（中活1）",
+    "online_role_unit": 123,
+    "up_treasure_percent": 20,
+    "name": "内尔伽勒"
+  },
+  {
+    "id": 73,
+    "editor_name": "SR-突击骑士“神闪”-20%（中活1）",
+    "online_role_unit": 124,
+    "up_treasure_percent": 20,
+    "name": "突击骑士“神闪”"
+  },
+  {
+    "id": 74,
+    "editor_name": "SR-倒吊人剑士-20%（大活2）",
+    "online_role_unit": 79,
+    "up_treasure_percent": 20,
+    "name": "倒吊人剑士"
   }
 ]

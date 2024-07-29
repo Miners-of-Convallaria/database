@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "白底框样式",
+    "frame_bg": "online_shop_gift_01",
+    "title_color": "154|139|111"
+  },
+  {
+    "id": 2,
+    "name": "棕底框样式",
+    "frame_bg": "online_shop_gift_02",
+    "title_color": "241|233|226"
+  },
+  {
+    "id": 3,
+    "name": "黑底框样式",
+    "frame_bg": "online_shop_gift_03",
+    "title_color": "154|139|111"
+  },
+  {
+    "id": 4,
+    "name": "红底框样式",
+    "frame_bg": "online_shop_gift_04",
+    "title_color": "240|233|225"
+  },
+  {
+    "id": 5,
+    "name": "彩底框样式",
+    "frame_bg": "online_shop_gift_05",
+    "title_color": "78|82|104"
+  }
+]

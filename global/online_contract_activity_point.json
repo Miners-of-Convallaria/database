@@ -4,7 +4,7 @@
     "m_system_redirects": [],
     "name": "Vitality Cake",
     "editor_name": "大型活动2期用",
-    "desc": "Can be used to exchange for precious souvenirs at the banquet. \n<style=brown>Looks like a delicious cake.</style>",
+    "desc": "Can be exchanged for fun banquet rewards. \n<style=brown>Looks like a delicious cake.</style> \n",
     "rarity": 3,
     "order_id": 0,
     "system_redirect_ids": "",
@@ -15,9 +15,9 @@
   {
     "id": 2,
     "m_system_redirects": [],
-    "name": "Loot",
+    "name": "Trophy",
     "editor_name": "大型活动1期用-兑换",
-    "desc": "Used to exchange for rewards. \n<style=brown>Earned with blood and iron, equal to the weight of life and beliefs.</style>",
+    "desc": "Used to exchange for spoils. \n<style=brown>Earned with blood and iron, equal to the weight of life and beliefs.</style>",
     "rarity": 3,
     "order_id": 0,
     "system_redirect_ids": "",
@@ -101,6 +101,32 @@
     "system_redirect_ids": "",
     "icon": "material_activitym03score",
     "contract_activity_id": 8,
+    "type": 1
+  },
+  {
+    "id": 10,
+    "m_system_redirects": [],
+    "name": "Convallaria Cake",
+    "editor_name": "大型活动3.5期用",
+    "desc": "Used to exchange for precious souvenirs.\n<style=brown>Convallaria-shaped cakes, iconic food for the festival.</style>",
+    "rarity": 3,
+    "order_id": 0,
+    "system_redirect_ids": "",
+    "icon": "material_activitym03_5score",
+    "contract_activity_id": 9,
+    "type": 1
+  },
+  {
+    "id": 12,
+    "m_system_redirects": [],
+    "name": "Rumor Point",
+    "editor_name": "小型活动2期",
+    "desc": "Can be used to exchange for a variety of precious rewards in the Shop.",
+    "rarity": 3,
+    "order_id": 0,
+    "system_redirect_ids": "",
+    "icon": "material_activitylittlescore_01",
+    "contract_activity_id": 11,
     "type": 1
   }
 ]

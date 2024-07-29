@@ -4,125 +4,151 @@
     "name": "Sword of Convallaria",
     "editor_name": "铃兰之剑",
     "desc": "",
-    "icon": "unittag_player"
+    "icon": "unittag_player",
+    "open_at": 0
   },
   {
     "id": 2,
     "name": "Iria",
     "editor_name": "伊利亚",
     "desc": "",
-    "icon": "unittag_iria"
+    "icon": "unittag_iria",
+    "open_at": 0
   },
   {
     "id": 3,
     "name": "Papal States",
     "editor_name": "教皇国",
     "desc": "",
-    "icon": "unittag_papal"
+    "icon": "unittag_papal",
+    "open_at": 0
   },
   {
     "id": 4,
     "name": "The Union",
     "editor_name": "骑士团",
     "desc": "",
-    "icon": "unittag_krights"
+    "icon": "unittag_krights",
+    "open_at": 0
   },
   {
     "id": 5,
     "name": "Vlder",
     "editor_name": "维尔德",
     "desc": "",
-    "icon": "unittag_vilder"
+    "icon": "unittag_vilder",
+    "open_at": 0
   },
   {
     "id": 6,
     "name": "Discipline",
     "editor_name": "战略",
     "desc": "",
-    "icon": "unittag_general"
+    "icon": "unittag_general",
+    "open_at": 0
   },
   {
     "id": 7,
     "name": "Alacrity",
     "editor_name": "隐匿",
     "desc": "",
-    "icon": "unittag_ambushers"
+    "icon": "unittag_ambushers",
+    "open_at": 0
   },
   {
     "id": 8,
     "name": "Aggression",
     "editor_name": "超能",
     "desc": "",
-    "icon": "unittag_thebombing"
+    "icon": "unittag_thebombing",
+    "open_at": 0
   },
   {
     "id": 9,
     "name": "Fortitude",
     "editor_name": "铁血",
     "desc": "",
-    "icon": "unittag_humanshield"
+    "icon": "unittag_humanshield",
+    "open_at": 0
   },
   {
     "id": 10,
     "name": "Drifter",
     "editor_name": "流浪者",
     "desc": "",
-    "icon": "unittag_rover"
+    "icon": "unittag_rover",
+    "open_at": 0
   },
   {
     "id": 11,
     "name": "Space-time Traveler",
     "editor_name": "联动角色",
     "desc": "",
-    "icon": "unittag_timetraveler"
+    "icon": "unittag_timetraveler",
+    "open_at": 0
   },
   {
     "id": 12,
     "name": "Elaman",
     "editor_name": "苏莱曼",
     "desc": "",
-    "icon": "unittag_solomon"
+    "icon": "unittag_solomon",
+    "open_at": 0
   },
   {
     "id": 13,
     "name": "Luccia",
     "editor_name": "露西亚",
     "desc": "",
-    "icon": "unittag_lucia"
+    "icon": "unittag_lucia",
+    "open_at": 0
   },
   {
     "id": 14,
     "name": "Summoned Unit",
     "editor_name": "召唤物",
     "desc": "",
-    "icon": "unittag_iria"
+    "icon": "unittag_iria",
+    "open_at": 0
   },
   {
     "id": 15,
     "name": "Princess Summoner",
     "editor_name": "三王女召唤物",
     "desc": "",
-    "icon": "unittag_iria"
+    "icon": "unittag_iria",
+    "open_at": 0
   },
   {
     "id": 16,
     "name": "Large Unit",
     "editor_name": "大型单位",
     "desc": "",
-    "icon": "unittag_krights"
+    "icon": "unittag_krights",
+    "open_at": 0
   },
   {
     "id": 18,
     "name": "Night Crimson",
     "editor_name": "绯红之夜",
     "desc": "Night Crimson",
-    "icon": "unittag_ambushers"
+    "icon": "unittag_ambushers",
+    "open_at": 2708677387
   },
   {
     "id": 19,
     "name": "Luccia",
-    "editor_name": "露西亚",
+    "editor_name": "露西亚（废弃）",
     "desc": "Luccia",
-    "icon": "unittag_lucia"
+    "icon": "unittag_lucia",
+    "open_at": 2708677387
+  },
+  {
+    "id": 20,
+    "name": "",
+    "editor_name": "(建错了，备用）",
+    "desc": "",
+    "icon": "",
+    "open_at": 2708677387
   }
 ]

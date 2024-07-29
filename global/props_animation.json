@@ -48,12 +48,6 @@
     "idanimation": 4116
   },
   {
-    "id": 37,
-    "idprops": 115,
-    "name": "attack1",
-    "idanimation": 4116
-  },
-  {
     "id": 38,
     "idprops": 86,
     "name": "attack1",
@@ -220,5 +214,53 @@
     "idprops": 222,
     "name": "attack2",
     "idanimation": 5745
+  },
+  {
+    "id": 97,
+    "idprops": 282,
+    "name": "attack1",
+    "idanimation": 6240
+  },
+  {
+    "id": 100,
+    "idprops": 283,
+    "name": "attack1",
+    "idanimation": 5747
+  },
+  {
+    "id": 101,
+    "idprops": 257,
+    "name": "attack1",
+    "idanimation": 6080
+  },
+  {
+    "id": 102,
+    "idprops": 299,
+    "name": "attack1",
+    "idanimation": 6241
+  },
+  {
+    "id": 103,
+    "idprops": 300,
+    "name": "attack1",
+    "idanimation": 6239
+  },
+  {
+    "id": 104,
+    "idprops": 301,
+    "name": "attack1",
+    "idanimation": 6242
+  },
+  {
+    "id": 105,
+    "idprops": 302,
+    "name": "attack1",
+    "idanimation": 6243
+  },
+  {
+    "id": 106,
+    "idprops": 195,
+    "name": "attack1",
+    "idanimation": 4695
   }
 ]

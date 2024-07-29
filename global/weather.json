@@ -6,8 +6,9 @@
     "name": "Sunny",
     "editor_name": "sun",
     "aura_speciality": 0,
-    "icon": "",
-    "effects": ""
+    "icon": "weather_sunny",
+    "effects": "",
+    "desc": "Bright and clear, without a substantial impact."
   },
   {
     "id": 2,
@@ -16,8 +17,9 @@
     "name": "Rainy",
     "editor_name": "rain",
     "aura_speciality": 0,
-    "icon": "",
-    "effects": "1899"
+    "icon": "weather_rain",
+    "effects": "1899",
+    "desc": "A run of wet weather, without a substantial impact."
   },
   {
     "id": 3,
@@ -26,8 +28,9 @@
     "name": "Snowy",
     "editor_name": "snow",
     "aura_speciality": 0,
-    "icon": "",
-    "effects": "1900"
+    "icon": "weather_snow",
+    "effects": "1900",
+    "desc": "Snow gleams white, without a substantial impact."
   },
   {
     "id": 5,
@@ -36,8 +39,9 @@
     "name": "Blizzard",
     "editor_name": "blizzard（开始，关闭需对应特殊天气）",
     "aura_speciality": 0,
-    "icon": "",
-    "effects": "1901"
+    "icon": "weather_blizzard",
+    "effects": "1901",
+    "desc": "Fierce winds and snowstorms, without a substantial impact."
   },
   {
     "id": 6,
@@ -46,8 +50,9 @@
     "name": "Snowy",
     "editor_name": "snow（不带效果）",
     "aura_speciality": 0,
-    "icon": "",
-    "effects": "1900"
+    "icon": "weather_snow",
+    "effects": "1900",
+    "desc": "Snow gleams white, without a substantial impact."
   },
   {
     "id": 7,
@@ -56,8 +61,9 @@
     "name": "dustStorm_day (Start)",
     "editor_name": "dustStorm_day（开始，关闭需对应特殊天气）",
     "aura_speciality": 9746,
-    "icon": "",
-    "effects": "2054"
+    "icon": "weather_sandstorm",
+    "effects": "2054",
+    "desc": "Sandstorm surges, knocking back the target by <style=red>2</style> tiles after dealing Melee DMG. If [Collision] occurs, the target will be [Stunned] for 1 turn."
   },
   {
     "id": 8,
@@ -66,7 +72,41 @@
     "name": "dustStorm_day (Start)",
     "editor_name": "dustStorm_night（开始，关闭需对应特殊天气）",
     "aura_speciality": 9746,
-    "icon": "",
-    "effects": "2055"
+    "icon": "weather_sandstorm",
+    "effects": "2055",
+    "desc": "Sandstorm surges, knocking back the target by <style=red>2</style> tiles after dealing Melee DMG. If [Collision] occurs, the target will be [Stunned] for 1 turn."
+  },
+  {
+    "id": 9,
+    "m_effects": [],
+    "type": 2,
+    "name": "Rainstorm",
+    "editor_name": "storm（开始，关闭需对应特殊天气）",
+    "aura_speciality": 0,
+    "icon": "weather_rainstorm",
+    "effects": "2109",
+    "desc": "A furious storm, without substantial impact."
+  },
+  {
+    "id": 10,
+    "m_effects": [],
+    "type": 1,
+    "name": "Morning Mist",
+    "editor_name": "fog_day",
+    "aura_speciality": 0,
+    "icon": "weather_fog",
+    "effects": "1873",
+    "desc": "The mist lingers, without a substantial impact."
+  },
+  {
+    "id": 11,
+    "m_effects": [],
+    "type": 1,
+    "name": "Night Mist",
+    "editor_name": "fog_night",
+    "aura_speciality": 0,
+    "icon": "weather_fog",
+    "effects": "1877",
+    "desc": "The mist lingers, without a substantial impact."
   }
 ]

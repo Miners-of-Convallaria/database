@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "idcapital": 3,
+    "time_slot": 1,
+    "name": "Prequel Story Map Daytime",
+    "editor_name": "Prequel Story Map Daytime",
+    "music_event_name": "Play_Mus_Scene_CityLYDay",
+    "music_state_group": "CityLY",
+    "music_state": "Map",
+    "music_state_group2": "",
+    "music_state2": "",
+    "volume_state_group": "UI_Duck",
+    "volume_state": "MapOnly"
+  },
+  {
+    "id": 2,
+    "idcapital": 3,
+    "time_slot": 2,
+    "name": "Prequel Story Map Night",
+    "editor_name": "Prequel Story Map Night",
+    "music_event_name": "Play_Mus_Scene_CityLYEve",
+    "music_state_group": "CityLY",
+    "music_state": "Map",
+    "music_state_group2": "",
+    "music_state2": "",
+    "volume_state_group": "UI_Duck",
+    "volume_state": "MapOnly"
+  }
+]

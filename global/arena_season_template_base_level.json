@@ -313,5 +313,173 @@
     "base_level": 3,
     "name": "3级",
     "building_cost": 15
+  },
+  {
+    "id": 55,
+    "idarena_season_template": 20,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 56,
+    "idarena_season_template": 20,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 57,
+    "idarena_season_template": 20,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
+  },
+  {
+    "id": 58,
+    "idarena_season_template": 21,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 59,
+    "idarena_season_template": 21,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 60,
+    "idarena_season_template": 21,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
+  },
+  {
+    "id": 61,
+    "idarena_season_template": 22,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 62,
+    "idarena_season_template": 22,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 63,
+    "idarena_season_template": 22,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
+  },
+  {
+    "id": 73,
+    "idarena_season_template": 26,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 74,
+    "idarena_season_template": 26,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 75,
+    "idarena_season_template": 26,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
+  },
+  {
+    "id": 76,
+    "idarena_season_template": 27,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 77,
+    "idarena_season_template": 27,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 78,
+    "idarena_season_template": 27,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
+  },
+  {
+    "id": 79,
+    "idarena_season_template": 28,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 80,
+    "idarena_season_template": 28,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 81,
+    "idarena_season_template": 28,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
+  },
+  {
+    "id": 82,
+    "idarena_season_template": 29,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 83,
+    "idarena_season_template": 29,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 84,
+    "idarena_season_template": 29,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
+  },
+  {
+    "id": 85,
+    "idarena_season_template": 30,
+    "base_level": 1,
+    "name": "1级",
+    "building_cost": 10
+  },
+  {
+    "id": 86,
+    "idarena_season_template": 30,
+    "base_level": 2,
+    "name": "2级",
+    "building_cost": 12
+  },
+  {
+    "id": 87,
+    "idarena_season_template": 30,
+    "base_level": 3,
+    "name": "3级",
+    "building_cost": 15
   }
 ]

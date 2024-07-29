@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "idcapital": 3,
+    "name": "宿舍",
+    "editor_name": "宿舍",
+    "x": 381,
+    "y": -16
+  },
+  {
+    "id": 2,
+    "idcapital": 3,
+    "name": "治安局/办公室",
+    "editor_name": "治安局/办公室",
+    "x": 507,
+    "y": -43
+  },
+  {
+    "id": 3,
+    "idcapital": 3,
+    "name": "酒馆",
+    "editor_name": "酒馆",
+    "x": 28,
+    "y": 56
+  },
+  {
+    "id": 4,
+    "idcapital": 3,
+    "name": "海滨街道",
+    "editor_name": "海滨街道",
+    "x": 217,
+    "y": -5
+  },
+  {
+    "id": 5,
+    "idcapital": 3,
+    "name": "竞技场后门",
+    "editor_name": "竞技场后门",
+    "x": 12,
+    "y": -34
+  },
+  {
+    "id": 6,
+    "idcapital": 3,
+    "name": "黑帮街区1",
+    "editor_name": "黑帮街区1",
+    "x": -98,
+    "y": -205
+  },
+  {
+    "id": 7,
+    "idcapital": 3,
+    "name": "黑帮街区2",
+    "editor_name": "黑帮街区2",
+    "x": -66,
+    "y": -169
+  },
+  {
+    "id": 8,
+    "idcapital": 3,
+    "name": "码头1",
+    "editor_name": "码头1",
+    "x": -291,
+    "y": -209
+  },
+  {
+    "id": 9,
+    "idcapital": 3,
+    "name": "码头2",
+    "editor_name": "码头2",
+    "x": -226,
+    "y": -133
+  },
+  {
+    "id": 10,
+    "idcapital": 3,
+    "name": "码头3",
+    "editor_name": "码头3",
+    "x": -184,
+    "y": -108
+  },
+  {
+    "id": 11,
+    "idcapital": 3,
+    "name": "码头4",
+    "editor_name": "码头4",
+    "x": -455,
+    "y": -89
+  },
+  {
+    "id": 12,
+    "idcapital": 3,
+    "name": "灯塔",
+    "editor_name": "灯塔",
+    "x": -608,
+    "y": 86
+  },
+  {
+    "id": 13,
+    "idcapital": 3,
+    "name": "索罗斯家",
+    "editor_name": "索罗斯家",
+    "x": -310,
+    "y": 180
+  },
+  {
+    "id": 14,
+    "idcapital": 3,
+    "name": "贵族宅邸1",
+    "editor_name": "贵族宅邸1",
+    "x": -80,
+    "y": 124
+  },
+  {
+    "id": 15,
+    "idcapital": 3,
+    "name": "贵族宅邸2",
+    "editor_name": "贵族宅邸2",
+    "x": -35,
+    "y": 195
+  },
+  {
+    "id": 16,
+    "idcapital": 3,
+    "name": "广场",
+    "editor_name": "广场",
+    "x": 410,
+    "y": 127
+  },
+  {
+    "id": 17,
+    "idcapital": 3,
+    "name": "报社",
+    "editor_name": "报社",
+    "x": 470,
+    "y": 64
+  },
+  {
+    "id": 18,
+    "idcapital": 3,
+    "name": "街道1（奇亚跟踪1）",
+    "editor_name": "街道1（奇亚跟踪1）",
+    "x": -202,
+    "y": 52
+  },
+  {
+    "id": 19,
+    "idcapital": 3,
+    "name": "街道2 （奇亚跟踪2）",
+    "editor_name": "街道2 （奇亚跟踪2）",
+    "x": 347,
+    "y": 30
+  },
+  {
+    "id": 20,
+    "idcapital": 3,
+    "name": "跟踪3（奇亚跟踪3）",
+    "editor_name": "跟踪3（奇亚跟踪3）",
+    "x": 681,
+    "y": -85
+  },
+  {
+    "id": 21,
+    "idcapital": 3,
+    "name": "街道4",
+    "editor_name": "街道4",
+    "x": 85,
+    "y": 122
+  },
+  {
+    "id": 22,
+    "idcapital": 3,
+    "name": "街道5",
+    "editor_name": "街道5",
+    "x": 264,
+    "y": -161
+  },
+  {
+    "id": 23,
+    "idcapital": 3,
+    "name": "街道6",
+    "editor_name": "街道6",
+    "x": 56,
+    "y": -90
+  },
+  {
+    "id": 24,
+    "idcapital": 3,
+    "name": "孤儿院门口",
+    "editor_name": "孤儿院门口",
+    "x": 462,
+    "y": -232
+  },
+  {
+    "id": 25,
+    "idcapital": 3,
+    "name": "远郊",
+    "editor_name": "远郊",
+    "x": 576,
+    "y": -133
+  },
+  {
+    "id": 26,
+    "idcapital": 3,
+    "name": "河道",
+    "editor_name": "河道",
+    "x": 230,
+    "y": -231
+  },
+  {
+    "id": 27,
+    "idcapital": 3,
+    "name": "民居1",
+    "editor_name": "民居1",
+    "x": -18,
+    "y": -68
+  },
+  {
+    "id": 28,
+    "idcapital": 3,
+    "name": "民居2",
+    "editor_name": "民居2",
+    "x": 68,
+    "y": -160
+  },
+  {
+    "id": 29,
+    "idcapital": 3,
+    "name": "军校",
+    "editor_name": "军校",
+    "x": 541,
+    "y": 209
+  },
+  {
+    "id": 30,
+    "idcapital": 3,
+    "name": "精神病院",
+    "editor_name": "精神病院",
+    "x": 659,
+    "y": 160
+  },
+  {
+    "id": 31,
+    "idcapital": 3,
+    "name": "训练赛专用",
+    "editor_name": "训练赛专用",
+    "x": -63,
+    "y": -27
+  },
+  {
+    "id": 32,
+    "idcapital": 3,
+    "name": "挑战赛专用",
+    "editor_name": "挑战赛专用",
+    "x": 96,
+    "y": 44
+  },
+  {
+    "id": 33,
+    "idcapital": 3,
+    "name": "雾港号（勃拉姆斯号）",
+    "editor_name": "雾港号（勃拉姆斯号）",
+    "x": -360,
+    "y": -116
+  }
+]

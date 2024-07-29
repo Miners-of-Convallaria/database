@@ -1995,6 +1995,13 @@
     "icon": ""
   },
   {
+    "id": 329,
+    "idunit_model": 236,
+    "name": "SP索菲亚",
+    "palette": "HcrimsonsophiaFset01_palette",
+    "icon": ""
+  },
+  {
     "id": 330,
     "idunit_model": 238,
     "name": "npc39",
@@ -2040,7 +2047,7 @@
     "id": 336,
     "idunit_model": 244,
     "name": "黑帮小弟",
-    "palette": "CrimsonAssassinMset01_palette",
+    "palette": "crimsonAssassinM3set01_palette",
     "icon": ""
   },
   {
@@ -2114,10 +2121,52 @@
     "icon": ""
   },
   {
+    "id": 347,
+    "idunit_model": 248,
+    "name": "财政部长",
+    "palette": "HcrimsonSfatherMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 348,
+    "idunit_model": 250,
+    "name": "SP拉维耶带被子睡衣版",
+    "palette": "HcrimsonlavierF3set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 349,
+    "idunit_model": 251,
+    "name": "SP索菲亚带被子睡衣版",
+    "palette": "HcrimsonsophiaF3set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 350,
+    "idunit_model": 252,
+    "name": "SP拉维耶睡衣版",
+    "palette": "HcrimsonlavierF2set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 351,
+    "idunit_model": 253,
+    "name": "SP索菲亚睡衣版",
+    "palette": "HcrimsonsophiaF2set01_palette",
+    "icon": ""
+  },
+  {
     "id": 352,
     "idunit_model": 254,
     "name": "女仆杀手",
     "palette": "HcrimsonHousemaidkillerFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 353,
+    "idunit_model": 256,
+    "name": "黑帮女",
+    "palette": "HcrimsonMafialeaderFset01_palette",
     "icon": ""
   },
   {
@@ -2310,6 +2359,34 @@
     "icon": ""
   },
   {
+    "id": 381,
+    "idunit_model": 267,
+    "name": "机动部队光法",
+    "palette": "crimsonPriestFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 382,
+    "idunit_model": 266,
+    "name": "蓝袍蒙面人",
+    "palette": "crimsonAssassinM4set02_palette",
+    "icon": ""
+  },
+  {
+    "id": 383,
+    "idunit_model": 266,
+    "name": "褐袍蒙面人",
+    "palette": "crimsonAssassinM4set03_palette",
+    "icon": ""
+  },
+  {
+    "id": 384,
+    "idunit_model": 268,
+    "name": "机动部队弩兵",
+    "palette": "crimsonCrossbowMset01_palette",
+    "icon": ""
+  },
+  {
     "id": 386,
     "idunit_model": 10,
     "name": "旅行商人",
@@ -2324,6 +2401,69 @@
     "icon": ""
   },
   {
+    "id": 388,
+    "idunit_model": 270,
+    "name": "女将军",
+    "palette": "HcrimsonGeneralFset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 389,
+    "idunit_model": 274,
+    "name": "伊利亚正规军精英巨斧兵",
+    "palette": "crimsonBerserkerMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 390,
+    "idunit_model": 275,
+    "name": "弩炮",
+    "palette": "zballista_palette",
+    "icon": ""
+  },
+  {
+    "id": 391,
+    "idunit_model": 63,
+    "name": "伊利亚剑盾兵2",
+    "palette": "iriaGuardianMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 392,
+    "idunit_model": 155,
+    "name": "苏莱曼剑盾兵2",
+    "palette": "solomonGuardianMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 393,
+    "idunit_model": 48,
+    "name": "民兵剑盾兵2",
+    "palette": "militaryGuardianMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 394,
+    "idunit_model": 39,
+    "name": "黑暗之光剑盾兵2",
+    "palette": "darklightGuradianMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 395,
+    "idunit_model": 173,
+    "name": "教皇国剑盾兵2",
+    "palette": "papalGuardianMset02_palette",
+    "icon": ""
+  },
+  {
+    "id": 396,
+    "idunit_model": 5,
+    "name": "无法者剑盾兵2",
+    "palette": "banditGuardianMset02_palette",
+    "icon": ""
+  },
+  {
     "id": 397,
     "idunit_model": 273,
     "name": "塔罗boss紫色星星",
@@ -2335,6 +2475,34 @@
     "idunit_model": 130,
     "name": "塔罗boss星星",
     "palette": "TbossStarMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 399,
+    "idunit_model": 278,
+    "name": "野怪自爆大火球",
+    "palette": "MonsterFireBallMset01_palette",
+    "icon": ""
+  },
+  {
+    "id": 400,
+    "idunit_model": 279,
+    "name": "火钳队",
+    "palette": "zzzhuoqiantest_palette",
+    "icon": ""
+  },
+  {
+    "id": 401,
+    "idunit_model": 281,
+    "name": "SP索菲亚主城特供版",
+    "palette": "HcrimsonsophiaF4set01_palette",
+    "icon": ""
+  },
+  {
+    "id": 402,
+    "idunit_model": 280,
+    "name": "小魔女皮肤01",
+    "palette": "HplayerLittlewitchFset02_palette",
     "icon": ""
   }
 ]

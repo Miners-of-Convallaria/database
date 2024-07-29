@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "m_online_jigsaw_pieces": [201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216],
+    "m_hints": [210, 211, 206, 207],
+    "name": "Heartscape Shard",
+    "editor_name": "cn_拼图活动碎片组",
+    "desc": "Piece Heartscape Shards together to receive rewards from the [Decoding Heartscape Vista] event.",
+    "icon": "material_jigsaw",
+    "rand_count": 2,
+    "online_jigsaw_piece_ids": "201|202|203|204|205|206|207|208|209|210|211|212|213|214|215|216",
+    "video_url": "browses://www.taptap.cn/app/209866/topic",
+    "hint_ids": "210|211|206|207",
+    "image": "cn_share_jigsaw_bg"
+  },
+  {
+    "id": 2,
+    "m_online_jigsaw_pieces": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    "m_hints": [6, 7, 10, 11],
+    "name": "Heartscape Shard",
+    "editor_name": "tw_拼图活动碎片组",
+    "desc": "Piece Heartscape Shards together to receive rewards from the [Decoding Heartscape Vista] event.",
+    "icon": "material_jigsaw",
+    "rand_count": 2,
+    "online_jigsaw_piece_ids": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16",
+    "video_url": "https://www.youtube.com/@SwordofConvallariaTW",
+    "hint_ids": "6|7|10|11",
+    "image": "share_jigsaw_bg"
+  }
+]

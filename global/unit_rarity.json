@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "m_sandbox2_unit_skill_nodes": [1, 2, 3],
     "type": "N",
     "name": "Common",
     "base_attribute_adjust": 100,
@@ -21,6 +22,7 @@
   },
   {
     "id": 2,
+    "m_sandbox2_unit_skill_nodes": [4, 5, 6, 7],
     "type": "R",
     "name": "Rare",
     "base_attribute_adjust": 105,
@@ -41,6 +43,7 @@
   },
   {
     "id": 3,
+    "m_sandbox2_unit_skill_nodes": [8, 9, 10, 11, 12],
     "type": "SR",
     "name": "Epic",
     "base_attribute_adjust": 110,
@@ -61,6 +64,7 @@
   },
   {
     "id": 4,
+    "m_sandbox2_unit_skill_nodes": [13, 14, 15, 16, 17, 18],
     "type": "SSR",
     "name": "Legendary",
     "base_attribute_adjust": 115,

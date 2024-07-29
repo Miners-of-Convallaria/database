@@ -4,7 +4,7 @@
     "name": "Gale Hills",
     "editor_name": "正式赛季S1_台服",
     "season_num": "1",
-    "start_at": 1690972800,
+    "start_at": 1689786000,
     "end_at": 1693972800,
     "template_id": 8,
     "operating_areas": "tw"
@@ -34,10 +34,10 @@
     "name": "Enemy at the Gates",
     "editor_name": "正式赛季S4_台服",
     "season_num": "4",
-    "start_at": 1718553600,
-    "end_at": 1720627199,
+    "start_at": 1698811200,
+    "end_at": 1701230400,
     "template_id": 11,
-    "operating_areas": "tw|kr|jp|us"
+    "operating_areas": "tw"
   },
   {
     "id": 9,
@@ -87,6 +87,36 @@
     "start_at": 1710907200,
     "end_at": 1713326400,
     "template_id": 19,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 24,
+    "name": "Crossfire",
+    "editor_name": "正式赛季S10_台服",
+    "season_num": "10",
+    "start_at": 1713326400,
+    "end_at": 1715745600,
+    "template_id": 20,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 26,
+    "name": "Back to Nature",
+    "editor_name": "正式赛季S11_台服",
+    "season_num": "11",
+    "start_at": 1715745600,
+    "end_at": 1718164800,
+    "template_id": 21,
+    "operating_areas": "tw"
+  },
+  {
+    "id": 27,
+    "name": "Close Combat",
+    "editor_name": "正式赛季S12_台服",
+    "season_num": "12",
+    "start_at": 1718164800,
+    "end_at": 1720584000,
+    "template_id": 22,
     "operating_areas": "tw"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "id": 1,
-    "idsandbox_launch_bonus": 1,
-    "treasure_type": 13,
-    "treasure_param0": 19,
-    "treasure_param1": 0
-  },
-  {
-    "id": 2,
-    "idsandbox_launch_bonus": 1,
-    "treasure_type": 3,
-    "treasure_param0": 111,
-    "treasure_param1": 0
-  },
-  {
     "id": 5,
     "idsandbox_launch_bonus": 3,
     "treasure_type": 13,
@@ -609,13 +595,6 @@
     "treasure_param1": 600
   },
   {
-    "id": 141,
-    "idsandbox_launch_bonus": 1,
-    "treasure_type": 3,
-    "treasure_param0": 114,
-    "treasure_param1": 0
-  },
-  {
     "id": 144,
     "idsandbox_launch_bonus": 60,
     "treasure_type": 8,
@@ -1132,5 +1111,47 @@
     "treasure_type": 3,
     "treasure_param0": 187,
     "treasure_param1": 0
+  },
+  {
+    "id": 235,
+    "idsandbox_launch_bonus": 86,
+    "treasure_type": 54,
+    "treasure_param0": 3,
+    "treasure_param1": 0
+  },
+  {
+    "id": 236,
+    "idsandbox_launch_bonus": 86,
+    "treasure_type": 54,
+    "treasure_param0": 4,
+    "treasure_param1": 0
+  },
+  {
+    "id": 237,
+    "idsandbox_launch_bonus": 1,
+    "treasure_type": 52,
+    "treasure_param0": 116,
+    "treasure_param1": 0
+  },
+  {
+    "id": 238,
+    "idsandbox_launch_bonus": 1,
+    "treasure_type": 51,
+    "treasure_param0": 41,
+    "treasure_param1": 0
+  },
+  {
+    "id": 239,
+    "idsandbox_launch_bonus": 1,
+    "treasure_type": 50,
+    "treasure_param0": 1,
+    "treasure_param1": 100000
+  },
+  {
+    "id": 240,
+    "idsandbox_launch_bonus": 1,
+    "treasure_type": 50,
+    "treasure_param0": 4,
+    "treasure_param1": 10
   }
 ]

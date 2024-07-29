@@ -29,7 +29,7 @@
     "irreplaceable": false,
     "operations": "",
     "asset_name": "fire_dimian",
-    "show_mobility": 0
+    "show_mobility": 1000
   },
   {
     "id": 3,
@@ -181,7 +181,7 @@
     "m_operations": [],
     "type": "unstable_mud",
     "name": "不稳定黑泥",
-    "desc": "[Unstable Sludge] Seems to have a life of its own. Foe characters do not consume Movement when passing through. When ally characters stay on it, [Corrosion - Extra] is inflicted, dealing [Piercing DMG] equal to <style=red>60%</style> of their HP, unable to receive healing, lasting until the end of battle, which can be overlaid by other tile effects.",
+    "desc": "[Unstable Sludge] Seems to have a life of its own. Foe characters do not consume Movement when passing through. When ally characters stay on it, [Corrosion - Extra] is inflicted, dealing [piercing DMG] equal to <style=red>60%</style> of their HP, unable to receive healing, lasting until the end of battle, which can be overlaid by other tile effects.",
     "speciality_ids": "6022|9541",
     "mobility": 0,
     "priority": 0,
@@ -205,6 +205,70 @@
     "irreplaceable": false,
     "operations": "",
     "asset_name": "terrain_buff_dust_03",
+    "show_mobility": 0
+  },
+  {
+    "id": 15,
+    "m_specialitys": [10448, 10449, 10450, 10451],
+    "m_operations": [],
+    "type": "net",
+    "name": "网",
+    "desc": "[Web] A tile covered by nets. Inflicts [<style=C4>Snared</style>] on the character passing or staying. Walking on it consumes an additional <style=red>0.5</style> Movement per tile. The tile will return to normal when hit by an AoE attack.",
+    "speciality_ids": "10448|10449|10450|10451",
+    "mobility": 5,
+    "priority": 0,
+    "icon": "terrain_buff_net",
+    "irreplaceable": false,
+    "operations": "",
+    "asset_name": "terrain_buff_net",
+    "show_mobility": 0
+  },
+  {
+    "id": 16,
+    "m_specialitys": [11174, 11175, 11191],
+    "m_operations": [],
+    "type": "electriferous_net",
+    "name": "酥麻软垫",
+    "desc": "[Tingling Mat] Enemies on the Tingling Mat will exit the battle.",
+    "speciality_ids": "11174|11175|11191",
+    "mobility": 0,
+    "priority": 99,
+    "icon": "terrain_buff_magic",
+    "irreplaceable": false,
+    "operations": "",
+    "asset_name": "stigmata_dimian",
+    "show_mobility": 0
+  },
+  {
+    "id": 17,
+    "m_specialitys": [],
+    "m_operations": [],
+    "type": "bubble",
+    "name": "泡沫",
+    "desc": "[Foam]",
+    "speciality_ids": "",
+    "mobility": 0,
+    "priority": 0,
+    "icon": "",
+    "irreplaceable": false,
+    "operations": "",
+    "asset_name": "",
+    "show_mobility": 0
+  },
+  {
+    "id": 18,
+    "m_specialitys": [],
+    "m_operations": [],
+    "type": "flower",
+    "name": "花田",
+    "desc": "[Flower Field]",
+    "speciality_ids": "",
+    "mobility": 0,
+    "priority": 0,
+    "icon": "",
+    "irreplaceable": false,
+    "operations": "",
+    "asset_name": "",
     "show_mobility": 0
   }
 ]

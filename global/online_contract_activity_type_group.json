@@ -250,5 +250,68 @@
     "param1": 0,
     "condition": "",
     "prefab_name": "UIActivityMiddle03PointExchangeView"
+  },
+  {
+    "id": 40,
+    "idonline_contract_activity": 9,
+    "type": 1,
+    "param0": 10,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityBig03_5LevelSelectView"
+  },
+  {
+    "id": 41,
+    "idonline_contract_activity": 9,
+    "type": 2,
+    "param0": 29,
+    "param1": 0,
+    "condition": "Clear Act IV of [Elysium Fireworks] to unlock",
+    "prefab_name": "UIActivityBig03_5SandboxView"
+  },
+  {
+    "id": 42,
+    "idonline_contract_activity": 9,
+    "type": 3,
+    "param0": 11,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityBig03_5QuestView"
+  },
+  {
+    "id": 43,
+    "idonline_contract_activity": 9,
+    "type": 5,
+    "param0": 18,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "UIActivityBig03_5ShopView"
+  },
+  {
+    "id": 48,
+    "idonline_contract_activity": 11,
+    "type": 1,
+    "param0": 12,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": ""
+  },
+  {
+    "id": 49,
+    "idonline_contract_activity": 11,
+    "type": 5,
+    "param0": 20,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityLittle01_Shop"
+  },
+  {
+    "id": 50,
+    "idonline_contract_activity": 11,
+    "type": 3,
+    "param0": 13,
+    "param1": 0,
+    "condition": "",
+    "prefab_name": "ActivityLittle01_Quest"
   }
 ]

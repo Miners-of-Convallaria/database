@@ -704,7 +704,7 @@
     "name": "AOE菱形2格（没有自己，高度2，中心向外-齐播，原点：目标）",
     "range_select": 1,
     "range": 65538,
-    "height": 2,
+    "height": 8,
     "range_width": 0,
     "perform_base_point": 2,
     "perform_diffusion_mode": 1,
@@ -2548,6 +2548,20 @@
     "range_max": 3
   },
   {
+    "id": 201,
+    "name": "（V1.9）AOE单向直线1~4（前传线特殊技能使用）",
+    "range_select": 4,
+    "range": 65540,
+    "height": 4,
+    "range_width": 1,
+    "perform_base_point": 1,
+    "perform_diffusion_mode": 1,
+    "spid": 0,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 4
+  },
+  {
     "id": 202,
     "name": "AOE矩形3x3（没有自己，高度8，中心向外-齐播，原点：自己）",
     "range_select": 5,
@@ -2616,5 +2630,61 @@
     "range_min": 1,
     "is_perform_one_by_one": false,
     "range_max": 3
+  },
+  {
+    "id": 207,
+    "name": "AOE单向直线1~15（宽5，高低4，近至远-齐播）",
+    "range_select": 4,
+    "range": 65551,
+    "height": 4,
+    "range_width": 5,
+    "perform_base_point": 1,
+    "perform_diffusion_mode": 3,
+    "spid": 638,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 15
+  },
+  {
+    "id": 208,
+    "name": "AOE单向直线1~5（宽5，高低2，近至远-齐播）",
+    "range_select": 4,
+    "range": 65541,
+    "height": 4,
+    "range_width": 5,
+    "perform_base_point": 1,
+    "perform_diffusion_mode": 3,
+    "spid": 638,
+    "range_min": 1,
+    "is_perform_one_by_one": false,
+    "range_max": 5
+  },
+  {
+    "id": 209,
+    "name": "AOE横向7（高度2，中心向外-齐播）",
+    "range_select": 9,
+    "range": 0,
+    "height": 2,
+    "range_width": 7,
+    "perform_base_point": 2,
+    "perform_diffusion_mode": 1,
+    "spid": 0,
+    "range_min": 0,
+    "is_perform_one_by_one": false,
+    "range_max": 0
+  },
+  {
+    "id": 210,
+    "name": "AOE菱形3~5格（含自己，高度2，中心向外-齐播，原点：目标）",
+    "range_select": 1,
+    "range": 262149,
+    "height": 2,
+    "range_width": 0,
+    "perform_base_point": 2,
+    "perform_diffusion_mode": 1,
+    "spid": 998,
+    "range_min": 4,
+    "is_perform_one_by_one": false,
+    "range_max": 5
   }
 ]

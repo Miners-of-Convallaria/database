@@ -52,7 +52,7 @@
     "id": 8,
     "name": "Apostle - Will",
     "editor_name": "使徒·意志",
-    "desc": "[Trait] Ignore the effects of [Black Mud] tiles. Reduces DMG taken by <style=red>30%</style> when on [Black Mud] tiles. After this character is defeated, gain [Stun] until the end of battle and share this trait to allies.",
+    "desc": "[Trait] Ignore the effects of [Black Mud] tiles. Reduces DMG taken by <style=red>30%</style> when on [Black Mud] tiles. After this character is defeated, gain [Stunned] until the end of battle and share this trait to allies.",
     "type": 1
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "id": 27,
-    "name": "Co-defense",
+    "name": "Co-Defense",
     "editor_name": "协防",
     "desc": "[Buff] Increases DEF by <style=red>10%</style> for every ally within <style=red>2</style> tiles, up to <style=red>40%</style>.",
     "type": 2
@@ -309,7 +309,7 @@
   },
   {
     "id": 46,
-    "name": "Co-attack",
+    "name": "Co-Attack",
     "editor_name": "协攻",
     "desc": "[Buff] Increases ATK by <style=red>5%</style> for every ally within <style=red>2</style> tiles, up to <style=red>15%</style>.",
     "type": 2
@@ -766,14 +766,14 @@
     "id": 111,
     "name": "Control Immunity",
     "editor_name": "免疫控制（以前的免疫行为减益",
-    "desc": "[Buff] Immune to controlling debuffs (Bound and Disrupt types), including <sprite=1>Active Skill, <sprite=1>Passive Skill, <sprite=1>Reaction Skill, <sprite=1>Dodge, Blind, Straight Curse, Stun, Sleep, Frozen, <sprite=3>Move, Knockback, and Interruption.",
+    "desc": "[Buff] Immune to controlling debuffs (Bound and Disrupt types), including <sprite=1>Active Skill, <sprite=1>Passive Skill, <sprite=1>Reaction Skills, <sprite=1>Dodge, Blind, Straight Curse, Stun, Sleep, Frozen, <sprite=3>Move, Knockback, and Interruption.",
     "type": 2
   },
   {
     "id": 112,
     "name": "Immunity to Disrupt",
     "editor_name": "免疫干扰",
-    "desc": "[Buff] Immune to behavior and disrupt debuffs, including <sprite=3>Move Series, <sprite=1>Active Skill, <sprite=1>Passive Skill, <sprite=1>Reaction Skill, <sprite=1>Assist, <sprite=1>Dodge, Blind, Straight Curse, etc.",
+    "desc": "[Buff] Immune to behavior and disrupt debuffs, including <sprite=3>Move Series, <sprite=1>Active Skill, <sprite=1>Passive Skill, <sprite=1>Reaction Skills, <sprite=1>Assist, <sprite=1>Dodge, Blind, Straight Curse, etc.",
     "type": 2
   },
   {
@@ -822,7 +822,7 @@
     "id": 119,
     "name": "<sprite=1>Piercing DMG",
     "editor_name": "×穿透伤害",
-    "desc": "[Buff] Grants immunity to [Piercing DMG].",
+    "desc": "[Buff] Grants immunity to [piercing DMG].",
     "type": 2
   },
   {
@@ -1282,21 +1282,21 @@
   },
   {
     "id": 185,
-    "name": "<sprite=1>Passive Skill",
+    "name": "<sprite=1>Passive Skills",
     "editor_name": "×被动技",
     "desc": "[Debuff - Control - Disruption] Renders all <Passive> skills ineffective.",
     "type": 2
   },
   {
     "id": 186,
-    "name": "<sprite=1>Reaction Skill",
+    "name": "<sprite=1>Reaction Skills",
     "editor_name": "×反应技",
     "desc": "[Debuff - Disrupt] Renders all <Reaction> skills ineffective.",
     "type": 2
   },
   {
     "id": 187,
-    "name": "<sprite=1>Gear Skill",
+    "name": "<sprite=1>Gear Skills",
     "editor_name": "×装备技",
     "desc": "[Debuff] Disables all <Gear> skills.",
     "type": 2
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 194,
-    "name": "Stun",
+    "name": "Stunned",
     "editor_name": "晕眩",
     "desc": "[Debuff - Bound] Cannot take any action.",
     "type": 2
@@ -1606,7 +1606,7 @@
     "id": 232,
     "name": "Pivot",
     "editor_name": "蓄力",
-    "desc": "[Buff] Increases the attack range by <style=red>1</style> tile, granting [Piercing DMG] and [<sprite=2>DMG 2] before attacking. This effect lasts for <style=red>2</style> turns.",
+    "desc": "[Buff] Increases the attack range by <style=red>1</style> tile, granting [piercing DMG] and [<sprite=2>DMG 2] before attacking. This effect lasts for <style=red>2</style> turns.",
     "type": 2
   },
   {
@@ -1620,7 +1620,7 @@
     "id": 234,
     "name": "Assault Jump",
     "editor_name": "突袭跳跃",
-    "desc": "[Buff] Inflicts [<sprite=1>Reaction Skill] on the enemy before attacking from the back or the side.",
+    "desc": "[Buff] Inflicts [<sprite=1>Reaction Skills] on the enemy before attacking from the back or the side.",
     "type": 1
   },
   {
@@ -1746,7 +1746,7 @@
     "id": 252,
     "name": "Level 2 Debuff",
     "editor_name": "2级减益",
-    "desc": "[Debuff] Applies the following: [<sprite=3>Attack 2], [<sprite=3>Critical 2], [<sprite=3>P.DEF 2], [<sprite=3>M.DEF 2], [<sprite=1>Passive Skill], [<sprite=1>Reaction Skill], [<sprite=1>Healing Received], and [<sprite=1>Attribute Boost].",
+    "desc": "[Debuff] Applies the following: [<sprite=3>Attack 2], [<sprite=3>Critical 2], [<sprite=3>P.DEF 2], [<sprite=3>M.DEF 2], [<sprite=1>Passive Skill], [<sprite=1>Reaction Skills], [<sprite=1>Healing Received], and [<sprite=1>Attribute Boost].",
     "type": 2
   },
   {
@@ -1760,7 +1760,7 @@
     "id": 254,
     "name": "Level 3 Debuff",
     "editor_name": "3级减益",
-    "desc": "[Debuff] Applies the following: [<sprite=3>Attack 3], [<sprite=3>Critical 3], [<sprite=3>P.DEF 3], [<sprite=3>M.DEF 3], and [<sprite=3>Move 2].",
+    "desc": "[Debuff] Applies the following: [<sprite=3>Attack 3], [<sprite=3>Critical 3], [<sprite=3>P.DEF 3], [<sprite=3>M.DEF 3], and [<sprite=3>Move II].",
     "type": 2
   },
   {
@@ -1865,13 +1865,13 @@
     "id": 270,
     "name": "Wheel of Fortune",
     "editor_name": "命运之轮",
-    "desc": "[Buff] Gain one of the following buffs at random: increased DMG, DMG taken reduced, [Piercing DMG] to enemies in range, HP recovery of allies in range, ATK and DEF attributes increased, NRG recovery, or nothing.",
+    "desc": "[Buff] Gain one of the following buffs at random: increased DMG, DMG taken reduced, [piercing DMG] to enemies in range, HP recovery of allies in range, ATK and DEF attributes increased, NRG recovery, or nothing.",
     "type": 1
   },
   {
     "id": 271,
     "name": "Pious Prayer",
-    "editor_name": "虔诚祈求",
+    "editor_name": "虔诚祈求——萨曼莎",
     "desc": "[Trait] Increases the Healing Received effect of all allies within <style=red>3</style> tiles around by a certain percent and consumes <style=red>1</style> point of NRG to heal allies in the [<style=C4>Injured</style>] or [<style=C4>Dying</style>] state. Healing based on a certain percent of M.ATK.",
     "type": 1
   },
@@ -1885,7 +1885,7 @@
   {
     "id": 273,
     "name": "Pursuit Order",
-    "editor_name": "乘胜追击",
+    "editor_name": "乘胜追击——战术",
     "desc": "[Buff] Act Again after attacking. Effective for <style=red>1</style> time.",
     "type": 1
   },
@@ -2068,14 +2068,14 @@
     "id": 299,
     "name": "Charge Shock",
     "editor_name": "电荷冲击",
-    "desc": "[Debuff] Deals [Calamity] [Piercing DMG] to the target and their allies within a cross-shaped area of <style=red>4</style> tiles, equal to <style=red>40%</style> of the target's HP. This effect is applied after being attacked by [First Calamity \"Magician\"], effective at the end of the turn.",
+    "desc": "[Debuff] Deals [Calamity] [piercing DMG] to the target and their allies within a cross-shaped area of <style=red>4</style> tiles, equal to <style=red>40%</style> of the target's HP. This effect is applied after being attacked by [First Calamity \"Magician\"], effective at the end of the turn.",
     "type": 1
   },
   {
     "id": 300,
     "name": "Voltage Shock",
     "editor_name": "电压冲击",
-    "desc": "[Debuff] Deals [Calamity] [Piercing DMG] to the target and their allies within a cross-shaped area of <style=red>8</style> tiles, equal to <style=red>60%</style> of the target's HP. This effect is applied after being attacked by [First Calamity \"Magician\"], effective at the end of the turn.",
+    "desc": "[Debuff] Deals [Calamity] [piercing DMG] to the target and their allies within a cross-shaped area of <style=red>8</style> tiles, equal to <style=red>60%</style> of the target's HP. This effect is applied after being attacked by [First Calamity \"Magician\"], effective at the end of the turn.",
     "type": 1
   },
   {
@@ -2131,14 +2131,14 @@
     "id": 308,
     "name": "Bound",
     "editor_name": "定身（以前的控制",
-    "desc": "[Debuff] Apply the following debuffs: [Stun], [Sleep], and [Freeze].",
+    "desc": "[Debuff] Apply the following debuffs: [Stunned], [Sleep], and [Freeze].",
     "type": 2
   },
   {
     "id": 309,
     "name": "Disruption",
     "editor_name": "干扰",
-    "desc": "[Debuff] Includes the following debuffs: <sprite=3>Move Series, <sprite=1>Active Skill, <sprite=1>Passive Skill, <sprite=1>Reaction Skill, <sprite=1>Assist, <sprite=1>Dodge, Blind, Straight Curse, etc.",
+    "desc": "[Debuff] Includes the following debuffs: <sprite=3>Move Series, <sprite=1>Active Skill, <sprite=1>Passive Skill, <sprite=1>Reaction Skills, <sprite=1>Assist, <sprite=1>Dodge, Blind, Straight Curse, etc.",
     "type": 2
   },
   {
@@ -2172,8 +2172,8 @@
   {
     "id": 314,
     "name": "Wound",
-    "editor_name": "伤口",
-    "desc": "[Debuff] Increases non-percentage [Piercing DMG] taken by an additional <style=red>12%</style> and reduces healing received by <style=red>30%</style>, stackable up to <style=red>4</style> times and cannot be dispelled.",
+    "editor_name": "银狼-伤口",
+    "desc": "[Debuff] Increases non-percentage [piercing DMG] taken by an additional <style=red>12%</style> and reduces healing received by <style=red>30%</style>, stackable up to <style=red>4</style> times and cannot be dispelled.",
     "type": 1
   },
   {
@@ -2186,7 +2186,7 @@
   {
     "id": 316,
     "name": "Taste of Game",
-    "editor_name": "追猎",
+    "editor_name": "猎物的味道（旧称追猎",
     "desc": "[Buff] Increases Movement by <style=red>2</style> tiles, and additionally recovers <style=green>1</style> NRG upon launching an active attack.",
     "type": 1
   },
@@ -2299,7 +2299,7 @@
     "id": 332,
     "name": "Armor of Ice",
     "editor_name": "冰铠",
-    "desc": "[Buff] Gains a [Physical Shield] equal to <style=purple>60%</style> of the caster's M.ATK and immunity to [Frosty] tile effects. After being hit by a [Melee Attack], inflicts [<sprite=3>Move I] on the attacker for <style=red>2</style> turns.",
+    "desc": "[Buff] Gains a [physical shield] equal to <style=purple>60%</style> of the caster's M.ATK and immunity to [Frosty] tile effects. After being hit by a [Melee Attack], inflicts [<sprite=3>Move I] on the attacker for <style=red>2</style> turns.",
     "type": 1
   },
   {
@@ -2341,14 +2341,14 @@
     "id": 338,
     "name": "Beast Trap",
     "editor_name": "捕兽夹",
-    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [Piercing DMG] for <style=red>10%</style> of Max HP.",
+    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [piercing DMG] for <style=red>10%</style> of Max HP.",
     "type": 2
   },
   {
     "id": 339,
     "name": "Powerful Beast Trap",
     "editor_name": "强力捕兽夹",
-    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [Piercing DMG] for <style=red>30%</style> of Max HP.",
+    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [piercing DMG] for <style=red>30%</style> of Max HP.",
     "type": 2
   },
   {
@@ -2544,7 +2544,7 @@
     "id": 368,
     "name": "Beast Trap",
     "editor_name": "（废弃）捕兽夹",
-    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [Piercing DMG] for <style=red>10%</style> of Max HP.",
+    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [piercing DMG] for <style=red>10%</style> of Max HP.",
     "type": 2
   },
   {
@@ -3363,7 +3363,7 @@
     "id": 485,
     "name": "<sprite=1>Bound",
     "editor_name": "×定身（以前的×控制",
-    "desc": "[Buff] Immunizes against the following debuffs: [Stun], [Sleep], and [Freeze].",
+    "desc": "[Buff] Immunizes against the following debuffs: [Stunned], [Sleep], and [Freeze].",
     "type": 2
   },
   {
@@ -3454,7 +3454,7 @@
     "id": 498,
     "name": "Re-attack",
     "editor_name": "再攻击",
-    "desc": "",
+    "desc": "[State] Can re-enter the Attack Turn.",
     "type": 2
   },
   {
@@ -3503,7 +3503,7 @@
     "id": 505,
     "name": "Large Character",
     "editor_name": "大型角色",
-    "desc": "",
+    "desc": "Refers to large-sized characters that occupy more than one tile.",
     "type": 2
   },
   {
@@ -3531,7 +3531,7 @@
     "id": 509,
     "name": "Brute Whirlwind",
     "editor_name": "蛮牛旋风",
-    "desc": "[Skill] Deals <style=red>40%</style> Physical DMG to all enemies within <style=red>1</style> tile around, and when attacking [Injured] enemies, inflicts [Stun] for <style=red>2</style> turns.",
+    "desc": "[Skill] Deals <style=red>40%</style> Physical DMG to all enemies within <style=red>1</style> tile around, and when attacking [Injured] enemies, inflicts [Stunned] for <style=red>2</style> turns.",
     "type": 1
   },
   {
@@ -3641,7 +3641,7 @@
   },
   {
     "id": 525,
-    "name": "Turn into the Village Chief",
+    "name": "Become Chief",
     "editor_name": "变成村长",
     "desc": "[Skill] Turns the target into [Village Chief] and inflicts [Shock] for <style=red>2</style> turns. Elite enemies cannot be selected.",
     "type": 1
@@ -3699,7 +3699,7 @@
     "id": 533,
     "name": "Dullness",
     "editor_name": "迟钝",
-    "desc": "[Debuff - Control - Disruption] Affects by [<sprite=1>Reaction Skill]. Gains [Stun] after taking a critical hit.",
+    "desc": "[Debuff - Control - Disruption] Affects by [<sprite=1>Reaction Skills]. Gains [Stunned] after taking a critical hit.",
     "type": 1
   },
   {
@@ -3740,57 +3740,57 @@
   {
     "id": 539,
     "name": "Light Oracle - Broad Radiance",
-    "editor_name": "光谕·耀护众生-魔法盾+",
+    "editor_name": "法皇之手-光谕·耀护众生-魔法盾+",
     "desc": "[Skill] Grants all allies within a 3-tile radius of the target a [Magical Shield] equal to 120% of M.ATK (cannot be dispelled), [Regeneration III], and [Control Immunity]. All effects last for 2 rounds.",
     "type": 1
   },
   {
     "id": 540,
     "name": "Broad Radiance",
-    "editor_name": "耀护众生-魔法盾",
+    "editor_name": "法皇之手-耀护众生-魔法盾",
     "desc": "[Skill] Grants all allies within a 2-tile radius of the target a [Magical Shield] equal to 80% of M.ATK and [Bound Immunity]. This effect cannot be dispelled, lasting for 2 rounds.",
     "type": 1
   },
   {
     "id": 541,
     "name": "Light Oracle - Cumulative Punishment",
-    "editor_name": "光谕·诸罪并罚-真·审判光束+",
+    "editor_name": "法皇之手-光谕·诸罪并罚-真·审判光束+",
     "desc": "[Skill] Deals DMG equal to 75% M.ATK plus 30% HP of the target to all enemies within a 3x5 area in the target's direction. The skill will be switched to [Cumulative Punishment] without [Light Oracle].",
     "type": 1
   },
   {
     "id": 542,
     "name": "Cumulative Punishment",
-    "editor_name": "诸罪并罚-真·审判光束",
+    "editor_name": "法皇之手-诸罪并罚-真·审判光束",
     "desc": "[Skill] Deals DMG equal to 50% M.ATK plus 20% HP of the target to all enemies within a 3x4 area in the target's direction. The skill will be switched to [Light Oracle - Cumulative Punishment] with [Light Oracle].",
     "type": 1
   },
   {
     "id": 543,
     "name": "Light Oracle - Elimination of All Sins",
-    "editor_name": "光谕·肃清万恶-地爆天星+",
-    "desc": "[Skill] Prepares for 1 turn. Deals 120% DMG to all enemies within 2 tiles and inflicts [Stun] for 1 turn. When attacking a [Large Character], deals an additional 50% DMG. Continues to attack, dealing 60% DMG to all enemies within 5 tiles and inflicting [<sprite=1>Healing Received] for 2 rounds. After casting the skill, skips the action of that turn.",
+    "editor_name": "法皇之手-光谕·肃清万恶-地爆天星+",
+    "desc": "[Skill] Prepares for 1 turn. Deals 120% DMG to all enemies within 2 tiles and inflicts [Stunned] for 1 turn. When attacking a [Large Character], deals an additional 50% DMG. Continues to attack, dealing 60% DMG to all enemies within 5 tiles and inflicting [<sprite=1>Healing Received] for 2 rounds. After casting the skill, skips the action of that turn.",
     "type": 1
   },
   {
     "id": 544,
     "name": "Elimination of All Sins",
-    "editor_name": "肃清万恶-地爆天星",
-    "desc": "[Skill] Prepares for 1 turn, deals 130% [Fire] DMG to all enemies within a 2-tile range of the target, and inflicts [Stun] for 1 turn. When attacking a [Large Character], deals an additional 100% DMG and skips the turn after the skill release. The skill will be switched to [Light Oracle - Elimination of All Sins] with [Light Oracle].",
+    "editor_name": "法皇之手-肃清万恶-地爆天星",
+    "desc": "[Skill] Prepares for 1 turn, deals 130% [Fire] DMG to all enemies within a 2-tile range of the target, and inflicts [Stunned] for 1 turn. When attacking a [Large Character], deals an additional 100% DMG and skips the turn after the skill release. The skill will be switched to [Light Oracle - Elimination of All Sins] with [Light Oracle].",
     "type": 1
   },
   {
     "id": 545,
     "name": "Punish the Evil",
-    "editor_name": "惩恶-普攻-尖刺",
-    "desc": "[Skill] Selects 1 enemy within a cross-shaped range and deals [Piercing DMG] equal to 30% M.ATK twice. Grant 2 stacks of [Revelation] after attacking. The skill will be switched to [Light Oracle - Punish the Evil] with [Light Oracle].",
+    "editor_name": "法皇之手-普攻-尖刺",
+    "desc": "[Skill] Selects 1 enemy within a cross-shaped range and deals [piercing DMG] equal to 30% M.ATK twice. Grant 2 stacks of [Revelation] after attacking. The skill will be switched to [Light Oracle - Punish the Evil] with [Light Oracle].",
     "type": 1
   },
   {
     "id": 546,
     "name": "Light Oracle - Punish the Evil",
-    "editor_name": "光谕·惩恶-普攻-尖刺+",
-    "desc": "[Skill] Selects 1 enemy within a cross-shaped range and deals [Piercing DMG] equal to 40% M.ATK twice. Grant 4 stacks of [Revelation] after attacking. The skill will be switched to [Punish the Evil] without [Light Oracle].",
+    "editor_name": "法皇之手-光谕·惩恶-普攻-尖刺+",
+    "desc": "[Skill] Selects 1 enemy within a cross-shaped range and deals [piercing DMG] equal to 40% M.ATK twice. Grant 4 stacks of [Revelation] after attacking. The skill will be switched to [Punish the Evil] without [Light Oracle].",
     "type": 1
   },
   {
@@ -3852,8 +3852,8 @@
   {
     "id": 555,
     "name": "Stinger",
-    "editor_name": "蜂刺",
-    "desc": "[Mark] When the mark reaches <style=red>3</style> stacks, deals [Piercing DMG] once and inflicts 1 stack of [Infection] to the target, then clears all the [Stinger] marks.",
+    "editor_name": "舞团舞娘-蜂刺",
+    "desc": "[Mark] When the mark reaches <style=red>3</style> stacks, deals [piercing DMG] once and inflicts 1 stack of [Infection] to the target, then clears all the [Stinger] marks.",
     "type": 1
   },
   {
@@ -3916,21 +3916,21 @@
     "id": 564,
     "name": "Vitality Boost",
     "editor_name": "活力鼓舞",
-    "desc": "When a [Healing Lamp] is first activated, grants [HP Restoration] to all allies in battle. [HP Restoration] heals <style=green>20%</style> of the target's HP and dispels <style=red>1</style> [Debuff] at the start of each turn. The effect cannot be dispelled and bypasses Immunities.",
+    "desc": "When a [Healing Pillar] is first activated, grants [HP Restoration] to all allies in battle. [HP Restoration] heals <style=green>20%</style> of the target's HP and dispels <style=red>1</style> [debuff] at the start of each turn. The effect cannot be dispelled and bypasses Immunities.",
     "type": 1
   },
   {
     "id": 565,
     "name": "Raid Boost",
     "editor_name": "强袭鼓舞",
-    "desc": "When a [Raid Lamp] is first activated, grants [<style=C4><sprite=2>Damage 2</style>] to all allies in battle.",
+    "desc": "When a [Assault Pillar] is first activated, grants [<style=C4><sprite=2>Damage 2</style>] to all allies in battle.",
     "type": 1
   },
   {
     "id": 566,
     "name": "Resilience Boost",
     "editor_name": "坚韧鼓舞",
-    "desc": "(Passive) When a [Barrier Lamp] is first activated, grants all allies in battle immunity to [Control], [Teleport], [Knock Back], and [Interrupt].",
+    "desc": "(Passive) When a [Barrier Pillar] is first activated, grants all allies in battle immunity to [Control], [Teleport], [Knock Back], and [Interrupt].",
     "type": 1
   },
   {
@@ -3951,7 +3951,7 @@
     "id": 569,
     "name": "Bound Immunity",
     "editor_name": "免疫定身（以前的免疫控制",
-    "desc": "[Buff] Immunizes against the following debuffs: [Stun], [Sleep], and [Freeze].",
+    "desc": "[Buff] Immunizes against the following debuffs: [Stunned], [Sleep], and [Freeze].",
     "type": 2
   },
   {
@@ -3970,9 +3970,9 @@
   },
   {
     "id": 572,
-    "name": "Historical Skill",
-    "editor_name": "史学技能",
-    "desc": "Requires to consume 2 stacks of [Knowledge] to use:\n<style=blue>[Historical Truth]</style>—[Instant] Inflicts [<sprite=3>Move II] and [Vulnerability II] on an enemy for 2 rounds.\n<style=blue>[See Future in the Past]</style>—[Instant] Dispels 2 [Debuffs] for all allies within a 2-tile range of the target, additionally recovers HP equals to 30% of M.ATK.\n<style=blue>[Hero's Epic]</style>—[Instant] Grants the target ally [<sprite=2>DMG II] and [DMG Reduction II] for 2 rounds, additionally recovering HP equals to 50% of M.ATK.",
+    "name": "Historical Skills",
+    "editor_name": "史学技能-邦国王子",
+    "desc": "Requires to consume 2 stacks of [Knowledge] to use:\n<style=blue>[Historical Truth]</style>—[Instant] Inflicts [<sprite=3>Move II] and [Vulnerability II] on an enemy for 2 rounds.\n<style=blue>[Learn from Past]</style>—[Instant] Dispels 2 [debuffs] for all allies within a 2-tile range of the target, additionally recovers HP equals to 30% of M.ATK.\n<style=blue>[Hero's Epic]</style>—[Instant] Grants the target ally [<sprite=2>DMG II] and [DMG Reduction II] for 2 rounds, additionally recovering HP equals to 50% of M.ATK.",
     "type": 1
   },
   {
@@ -4049,7 +4049,7 @@
     "id": 583,
     "name": "HP Recovery",
     "editor_name": "回复生命-未用",
-    "desc": "Buff, which heals <style=green>30%</style> HP and dispels <style=red>1</style> [Debuff] at the start of the action. The effect cannot be dispelled or immunized.",
+    "desc": "Buff, which heals <style=green>30%</style> HP and dispels <style=red>1</style> [debuff] at the start of the action. The effect cannot be dispelled or immunized.",
     "type": 1
   },
   {
@@ -4126,7 +4126,7 @@
     "id": 594,
     "name": "Greed Leads to Ruin",
     "editor_name": "一掷千金敌",
-    "desc": "[Instant] skill, which allows you to sprinkle gold coins at the target tile, drawing all enemies and [Shadow Assassins] within <style=red>3</style> tiles together and inflicting [<sprite=3>Move 2], [<sprite=3>M.DEF 2] and [<sprite=1>Rescue] on the enemies. The effect lasts <style=red>2</style> rounds.",
+    "desc": "[Instant] skill, which allows you to sprinkle gold coins at the target tile, drawing all enemies and [Shadow Assassins] within <style=red>3</style> tiles together and inflicting [<sprite=3>Move II], [<sprite=3>M.DEF 2] and [<sprite=1>Rescue] on the enemies. The effect lasts <style=red>2</style> rounds.",
     "type": 1
   },
   {
@@ -4154,7 +4154,7 @@
     "id": 598,
     "name": "Bento",
     "editor_name": "[混血儿]-便当",
-    "desc": "[Buff] At the start of the turn, recovers <style=green>25%</style> HP and dispels <style=green>2</style> [Debuffs].",
+    "desc": "[Buff] At the start of the turn, recovers <style=green>25%</style> HP and dispels <style=green>2</style> [debuffs].",
     "type": 1
   },
   {
@@ -4175,14 +4175,14 @@
     "id": 601,
     "name": "Snow Lotus",
     "editor_name": "高山雪莲",
-    "desc": "[Skill] Dispels all [Debuffs] on the target and grants [<sprite=2>DMG III] and [DMG Reduction III], and [Immune to Attribute Debuff] for <style=red>3</style> round. Can be cast up to <style=red>3</style> times per battle.",
+    "desc": "[Skill] Dispels all [debuffs] on the target and grants [<sprite=2>DMG III] and [DMG Reduction III], and [Immune to Attribute Debuff] for <style=red>3</style> round. Can be cast up to <style=red>3</style> times per battle.",
     "type": 1
   },
   {
     "id": 602,
     "name": "Hallucinogenic Mushroom",
     "editor_name": "迷幻蘑菇",
-    "desc": "[Skill] Deals [Piercing DMG] equal to <style=red>30%</style> of the target's HP and inflicts [Sleep], lasting for <style=red>1</style> turn. Afterward, inflicts <style=red>2</style> stacks of [Infection]. Can be cast up to <style=red>3</style> times per battle.",
+    "desc": "[Skill] Deals [piercing DMG] equal to <style=red>30%</style> of the target's HP and inflicts [Sleep], lasting for <style=red>1</style> turn. Afterward, inflicts <style=red>2</style> stacks of [Infection]. Can be cast up to <style=red>3</style> times per battle.",
     "type": 1
   },
   {
@@ -4202,7 +4202,7 @@
   {
     "id": 605,
     "name": "Meditator",
-    "editor_name": "流连忘形",
+    "editor_name": "舞团舞娘-暧昧空气",
     "desc": "[Debuff - Control - Disruption] Disables Passive Skills and reduces Movement by <style=red>1</style> tile.",
     "type": 1
   },
@@ -4231,7 +4231,7 @@
     "id": 609,
     "name": "Frozen Trap",
     "editor_name": "活动-大型1期-寒冰陷阱",
-    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [Piercing DMG] for <style=red>20%</style> of HP. Inflicts an extra [<sprite=3>Move 1] on enemy characters, lasting for <style=red>2</style> turns. Tiles within a <style=red>1</style>-tile radius become [Frosty] for <style=red>2</style> turns.",
+    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [piercing DMG] for <style=red>20%</style> of HP. Inflicts an extra [<sprite=3>Move 1] on enemy characters, lasting for <style=red>2</style> turns. Tiles within a <style=red>1</style>-tile radius become [Frosty] for <style=red>2</style> turns.",
     "type": 1
   },
   {
@@ -4259,7 +4259,7 @@
     "id": 613,
     "name": "In-depth Conversation",
     "editor_name": "畅谈古今",
-    "desc": "[Skill] At the end of the turn, restores <style=green>1</style> NRG to all other allies within <style=red>3</style> tiles, and dispels <style=red>1</style> [Debuff].",
+    "desc": "[Skill] At the end of the turn, restores <style=green>1</style> NRG to all other allies within <style=red>3</style> tiles, and dispels <style=red>1</style> [debuff].",
     "type": 1
   },
   {
@@ -4306,7 +4306,7 @@
   },
   {
     "id": 620,
-    "name": "Source of Agony",
+    "name": "Pain Origin",
     "editor_name": "痛苦之源",
     "desc": "Shares the DMG taken with characters with [Pain Sharing].",
     "type": 1
@@ -4315,7 +4315,7 @@
     "id": 621,
     "name": "Pain Sharing",
     "editor_name": "分担痛苦",
-    "desc": "Characters with this effect will share the DMG taken by characters with [Source of Agony].",
+    "desc": "Characters with this effect will share the DMG taken by characters with [Pain Origin].",
     "type": 1
   },
   {
@@ -4392,7 +4392,7 @@
     "id": 632,
     "name": "Corrosion Crystal",
     "editor_name": "活动-中型2期-蚀炎之晶",
-    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. When defeated, deals [Piercing DMG] equal to <style=red>50%</style> of the HP to all enemies within a <style=red>2</style>-tile radius. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. When defeated, deals [piercing DMG] equal to <style=red>50%</style> of the HP to all enemies within a <style=red>2</style>-tile radius. This effect cannot be dispelled, and bypasses Immunities.",
     "type": 1
   },
   {
@@ -4427,7 +4427,7 @@
     "id": 637,
     "name": "Entangle",
     "editor_name": "缠绕",
-    "desc": "[Debuff] Each stack reduces Movement by <style=red>1</style> tile. When having <style=red>3</style> stacks, gains [Stun] for <style=red>1</style> turn and removes all stacks. At the end of the turn, removes <style=red>1</style> stack.",
+    "desc": "[Debuff] Each stack reduces Movement by <style=red>1</style> tile. When having <style=red>3</style> stacks, gains [Stunned] for <style=red>1</style> turn and removes all stacks. At the end of the turn, removes <style=red>1</style> stack.",
     "type": 1
   },
   {
@@ -4483,14 +4483,14 @@
     "id": 645,
     "name": "Spring Wish Rocket",
     "editor_name": "活动-中型2期-己方-春愿火箭",
-    "desc": "[Item] When hit by a [Single-target Skill], it dispels tile effects in a straight line of <style=red>8</style> tiles in the direction of the hit and releases fireworks, knocking back [Calamity] by <style=red>1</style> tile and dealing [Fire] [Piercing DMG] equal to <style=red>100%</style> of the HP to enemies in the area. If attacked in other ways, it releases fireworks in a cross-shaped area of <style=red>3</style> tiles.",
+    "desc": "[Item] When hit by a [Single-target Skill], it dispels tile effects in a straight line of <style=red>8</style> tiles in the direction of the hit and releases fireworks, knocking back [Calamity] by <style=red>1</style> tile and dealing [Fire] [piercing DMG] equal to <style=red>100%</style> of the HP to enemies in the area. If attacked in other ways, it releases fireworks in a cross-shaped area of <style=red>3</style> tiles.",
     "type": 1
   },
   {
     "id": 646,
     "name": "Spring Wish Firecracker",
     "editor_name": "活动-中型2期-己方-春愿炮仗",
-    "desc": "[Item] Explodes when attacked, dispelling tile effects in an area of <style=red>2</style> tiles around it and dealing [Fire] [Piercing DMG] equal to <style=red>100%</style> of the HP to [Calamity].",
+    "desc": "[Item] Explodes when attacked, dispelling tile effects in an area of <style=red>2</style> tiles around it and dealing [Fire] [piercing DMG] equal to <style=red>100%</style> of the HP to [Calamity].",
     "type": 1
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "id": 671,
     "name": "Magic Awakening",
-    "editor_name": "魔力唤醒",
+    "editor_name": "唤醒魔力",
     "desc": "Recovers all NRG for all allies, resetting all CDs.",
     "type": 1
   },
@@ -4686,7 +4686,7 @@
     "id": 674,
     "name": "Temptation of Ingredients",
     "editor_name": "活动-大型3期-敌方-食材的诱惑",
-    "desc": "[Buff] After making an active attack, inflicts [Piercing DMG] equal to <style=red>30%</style> of the target's HP. This effect bypasses Immunities.",
+    "desc": "[Buff] After making an active attack, inflicts [piercing DMG] equal to <style=red>30%</style> of the target's HP. This effect bypasses Immunities.",
     "type": 1
   },
   {
@@ -4709,6 +4709,20 @@
     "editor_name": "消亡",
     "desc": "[Action] Refers to being defeated, triggering various effects that occur upon defeat.",
     "type": 2
+  },
+  {
+    "id": 678,
+    "name": "Anti-Raid",
+    "editor_name": "反突入",
+    "desc": "[State] This skill will be used at the start of the Raid Phase.",
+    "type": 2
+  },
+  {
+    "id": 679,
+    "name": "Critical Guarantee",
+    "editor_name": "必爆",
+    "desc": "[Buff] Guarantees a critical hit when attacking.",
+    "type": 1
   },
   {
     "id": 680,
@@ -4858,6 +4872,27 @@
     "type": 1
   },
   {
+    "id": 701,
+    "name": "Controlled Demolition",
+    "editor_name": "定点爆破",
+    "desc": "[Debuff] The marked unit takes [AoE DMG] at the start of the caster's turn or immediately when defeated.",
+    "type": 1
+  },
+  {
+    "id": 702,
+    "name": "Hot-blooded Step",
+    "editor_name": "黑帮女-灵活身法1",
+    "desc": "[Instant Skill] Charges to a location within <style=red>1</style> tile, gaining [<sprite=2>DMG II] and [<sprite=2>Critical II] for <style=red>1</style> turn. After use, the skill will be switched to [Fervent Headbutt] for <style=red>2</style> turns.",
+    "type": 1
+  },
+  {
+    "id": 703,
+    "name": "Fervent Headbutt",
+    "editor_name": "黑帮女-灵活身法2",
+    "desc": "[Skill] Selects <style=red>1</style> enemy within a cross-shaped range, charges next to them, dealing <style=red>130%</style> DMG, and knocking them back <style=red>2</style> tiles. If the target has [Controlled Demolition], it detonates immediately. After attacking, the skill will be switched to [Hot-blooded Step].",
+    "type": 1
+  },
+  {
     "id": 704,
     "name": "Touring Actress",
     "editor_name": "中活3-巡游演员-解释",
@@ -4868,7 +4903,7 @@
     "id": 705,
     "name": "Well-known Actress",
     "editor_name": "中活3-知名演员-解释",
-    "desc": "Includes: Well-known Singer, capable of using healing skills; Well-known Dancer, capable of AoE magic attacks. They are Watchers, also dispel [debuffs] from nearby allies, and can create an aura to heal allies and make enemies <sprite=1>Assist.",
+    "desc": "Includes: Well-known Singer, capable of using healing skills; Well-known Dancer, capable of AoE magic attacks. They are Watchers, also dispel [debuffs] from nearby allies, and grant them immunity to [Burning] tile effects. Can create an aura to heal allies and make enemies <sprite=1>Assist.",
     "type": 1
   },
   {
@@ -4883,6 +4918,41 @@
     "name": "Painful Binding",
     "editor_name": "中活3-痛苦绑缚",
     "desc": "[Debuff] Shares <style=red>50%</style> of DMG taken from characters with [Outland Chains].",
+    "type": 1
+  },
+  {
+    "id": 708,
+    "name": "Iris Vanguard I",
+    "editor_name": "准备充分1",
+    "desc": "[Level 1 Buff] Increases DMG dealt by <style=red>40%</style>. Triggers an alert if enemies cast a skill within the alert range of [Layla].",
+    "type": 1
+  },
+  {
+    "id": 709,
+    "name": "Iris Vanguard II",
+    "editor_name": "准备充分2",
+    "desc": "[Level 2 Buff] Increases DMG dealt by <style=red>40%</style>. After dealing DMG, inflicts [<sprite=3>DMG II] on the target for <style=red>2</style> turns. Triggers an alert if enemies cast a skill within the alert range of [Layla].",
+    "type": 1
+  },
+  {
+    "id": 710,
+    "name": "Iris Vanguard III",
+    "editor_name": "准备充分3",
+    "desc": "[Level  3 Buff] Increases DMG dealt by <style=red>60%</style>. After dealing DMG, inflicts [<sprite=3>DMG II] and [Vulnerable II] on the target for <style=red>2</style> turns. Triggers an alert if enemies cast a skill within the alert range of [Layla].",
+    "type": 1
+  },
+  {
+    "id": 711,
+    "name": "Iris Vanguard",
+    "editor_name": "准备充分综合",
+    "desc": "[Buff] Increases DMG dealt. Triggers an alert if enemies cast a skill within the alert range of [Layla]. When the advanced effect is activated, inflicts a designated [Debuff] on the target after dealing DMG.",
+    "type": 1
+  },
+  {
+    "id": 712,
+    "name": "Ghost Armor",
+    "editor_name": "活动-大型3.5期-敌方-幽灵铠甲（挑战1）",
+    "desc": "[Buff] Immune to all DMG from enemies, and able to [Jump over] enemies and neutral characters. This effect cannot be dispelled and bypasses immunity.",
     "type": 1
   },
   {
@@ -4924,7 +4994,399 @@
     "id": 718,
     "name": "K.A. Marksman",
     "editor_name": "王国军神射手",
-    "desc": "[Watcher] A summoned unit with skills like [Guerrilla], [Powerful Shot] and [Sky-Rending Arrow].",
+    "desc": "[Watcher] A summoned unit with skills like [Dharana] and [Sky-Rending Arrow].",
+    "type": 1
+  },
+  {
+    "id": 719,
+    "name": "Growth Phase",
+    "editor_name": "活动-大型3.5期-敌方-成长期（挑战3）",
+    "desc": "Cannot take any action during the growth phase, increasing DMG taken by <style=red>30%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "type": 2
+  },
+  {
+    "id": 720,
+    "name": "Swarm Proliferation",
+    "editor_name": "活动-大型3.5期-敌方-巢穴增殖（挑战3）",
+    "desc": "Increases summon limit by <style=red>1</style> (excluding Boss), stackable up to <style=red>3</style> times. This effect cannot be dispelled and bypasses immunity.",
+    "type": 2
+  },
+  {
+    "id": 721,
+    "name": "Lair Power",
+    "editor_name": "活动-大型3.5期-敌方-巢穴之力（挑战3）",
+    "desc": "Increases ATK and DEF by <style=red>20%</style> for all allies within a <style=red>2</style>-tile radius around the character, stackable up to <style=red>3</style> times.",
+    "type": 2
+  },
+  {
+    "id": 722,
+    "name": "Weakness Mark",
+    "editor_name": "活动-大型3.5期-敌方-弱点标记（挑战4）",
+    "desc": "Increases DMG taken from specified enemies by <style=red>100%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 723,
+    "name": "Snared",
+    "editor_name": "触网",
+    "desc": "[Debuff] For each stack, reduces Movement by <style=red>1</style> tile, and increases DMG and DoT taken by 15% and 20% respectively. With 3 stacks, gains [<sprite=1>Active Skill] for <style=red>1</style> turn, and removes <style=red>1</style> stack when getting hit.",
+    "type": 2
+  },
+  {
+    "id": 724,
+    "name": "Fondness",
+    "editor_name": "眷念",
+    "desc": "[Instant Skill] Selects an ally and inflicts [Endearment]. Effect: After each attack by Kiya, additionally heals the ally, and after each attack by the ally, additionally heals Kiya. Each healing amount is 20% of the caster's HP. Lasts 2 rounds.",
+    "type": 1
+  },
+  {
+    "id": 725,
+    "name": "Unyielding",
+    "editor_name": "强力不屈",
+    "desc": "[Buff] Upon being defeated, rejoins the battle with <style=green>35%</style> of HP recovered.",
+    "type": 2
+  },
+  {
+    "id": 726,
+    "name": "Resentment",
+    "editor_name": "怨念",
+    "desc": "[Instant Skill] Selects an enemy and inflicts [Resentment]. Effect: After Kiya actively attacks the target, an additional [Trait] effect is triggered. After cast, sacrifices 35% of HP, and gains [Unyielding].",
+    "type": 1
+  },
+  {
+    "id": 727,
+    "name": "Crimson Covenant",
+    "editor_name": "血夜之约",
+    "desc": "[Debuff] Reduces SPD by <style=red>150</style> points and DMG dealt by <style=red>20%</style>, while increasing Physical DMG, Magical DMG and Piercing DMG taken by <style=red>20%</style>. Kiya will return to battle when its duration ends. This effect cannot be dispelled and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 728,
+    "name": "Supreme Immortality - Swarm",
+    "editor_name": "活动-大型3.5期-敌方-无限不屈·虫（挑战4）",
+    "desc": "[Buff] Upon defeated, consumes <style=green>5</style> HP of the nest to dispel all [debuffs] and rejoins the battle with <style=green>30%</style> of HP recovered, taking effect for unlimited times; gains [Swarm Rampage], stackable up to <style=red>4</style> times. This effect cannot be dispelled and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 729,
+    "name": "Swarm Rampage",
+    "editor_name": "活动-大型3.5期-敌方-巢穴狂暴（挑战4）",
+    "desc": "[Buff] Increases DMG dealt by <style=red>15%</style> and reduces DMG taken by <style=red>15%</style>, stackable up to <style=red>4</style> times. This effect cannot be dispelled and bypasses immunity.",
+    "type": 2
+  },
+  {
+    "id": 730,
+    "name": "Low Spirits",
+    "editor_name": "网游13章-情绪低落",
+    "desc": "[Debuff] Reduces Movement by <style=red>1</style> tile for each stack. It cannot be dispelled.",
+    "type": 1
+  },
+  {
+    "id": 731,
+    "name": "Web Break",
+    "editor_name": "网游13章-断网行动",
+    "desc": "Dispels the [<style=C4>Snared</style>] of all allies within the range of <style=red>1</style> circle of the target, grants them [<sprite=2>SPD II] that lasts for <style=red>2</style> turns and clears all special terrain effects.",
+    "type": 1
+  },
+  {
+    "id": 732,
+    "name": "Round up",
+    "editor_name": "网游13章-一网打尽",
+    "desc": "Inflicts <style=red>2</style> stacks of [<style=C4>Snared</style>] on all characters within <style=red>1</style> circle and transforms [empty tile] into [Web].",
+    "type": 1
+  },
+  {
+    "id": 733,
+    "name": "Steal Fortune Bag",
+    "editor_name": "活动-大型3.5期-福袋掠夺",
+    "desc": "Ignores [Assisting Cover], teleports next to a foe to pillage the [<style=blue>Convallaria Fortune Bag</style>] from them, and gives the Fortune Bag to the ally closest to the foe target.",
+    "type": 1
+  },
+  {
+    "id": 734,
+    "name": "Summon Explosive Barrel - Extra",
+    "editor_name": "活动-大型3.5期-召唤炸药桶·改（解谜6）",
+    "desc": "(Support) [<style=C4>Instant</style>] Summons an [explosive barrel] on the targeted tile, with a maximum of <style=red>5</style> explosive barrels in the scene.",
+    "type": 1
+  },
+  {
+    "id": 735,
+    "name": "Hit-and-run Tactics - Extra",
+    "editor_name": "活动-大型3.5期-扰乱战术·改（解谜6）",
+    "desc": "(Physical DMG) Deals <style=red>50%</style> [AoE DMG] to all enemies within a <style=red>3x4</style> area in the target direction, with DMG increased by <style=red>30%</style> for each additional target hit, up to <style=red>150%</style>, and inflicts <style=red>1</style> [<style=C4>Level 2 Debuff</style>], [<style=C4>DoT</style>], lasting <style=red>2</style> rounds.",
+    "type": 1
+  },
+  {
+    "id": 736,
+    "name": "Bitter Medicine",
+    "editor_name": "应急药丸",
+    "desc": "[Buff] If in [Dying] state after attacked, recovers <style=green>40%</style> of HP. Removed after the effect is triggered.",
+    "type": 1
+  },
+  {
+    "id": 737,
+    "name": "Skips the turn",
+    "editor_name": "跳过回合（旧：跳过该回合行动，变为词条）",
+    "desc": "[Debuff - Bound] Cannot take any action in this turn.",
+    "type": 2
+  },
+  {
+    "id": 738,
+    "name": "Armed Revolt",
+    "editor_name": "武装爆发",
+    "desc": "[Buff] Grants a [physical shield] equal to <style=red>30%</style> of HP. During the effect, performs a [Basic Attack] after launching an active attack. This effect cannot be dispelled and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 739,
+    "name": "Magic Awakening",
+    "editor_name": "魔力唤醒",
+    "desc": "Recovers all NRG for all allies, resetting all CDs.",
+    "type": 1
+  },
+  {
+    "id": 740,
+    "name": "Unfulfilled Wish",
+    "editor_name": "遗志",
+    "desc": "[Buff] Increases ATK by <style=red>3%</style> and Movement by <style=red>1</style> tile.",
+    "type": 1
+  },
+  {
+    "id": 741,
+    "name": "Radiant Shield",
+    "editor_name": "光耀护盾",
+    "desc": "A special magical shield.",
+    "type": 1
+  },
+  {
+    "id": 742,
+    "name": "Twin Cannons",
+    "editor_name": "双子炮",
+    "desc": "[Skill] Compulsorily selects <style=red>2</style> random enemies in battle at the end of the action, dealing <style=red>50%</style> DMG and inflicting [<sprite=1>Healing Received] for <style=red>2</style> turns.",
+    "type": 1
+  },
+  {
+    "id": 743,
+    "name": "Void Summon",
+    "editor_name": "虚空召唤",
+    "desc": "[Skill] Gains a [Magical Shield] that is equal to <style=purple>10%</style> of HP and summons <style=red>2</style> [Apostles].",
+    "type": 1
+  },
+  {
+    "id": 744,
+    "name": "Web",
+    "editor_name": "网",
+    "desc": "[Tile] A tile covered by nets. Inflicts [Snared] on the character passing or staying. Walking on it consumes an additional <style=red>0.5</style> Movement per tile. The tile will return to normal when hit by an AoE attack.",
+    "type": 2
+  },
+  {
+    "id": 745,
+    "name": "Escape",
+    "editor_name": "逃脱",
+    "desc": "[Debuff] Grants immunity to [<sprite=1>Resolve] and allows escape when defeated, with HP fully recovered and reinforcements summoned to join the battle. 1 stack of [Escape] is then removed. This effect cannot be dispelled and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 746,
+    "name": "Combat Lord",
+    "editor_name": "陷阵-女将军",
+    "desc": "[Buff] Doubles the DMG Reduction effect of [Trait] and negates [Fatal DMG] once. This effect cannot be dispelled and bypasses Immunity.",
+    "type": 1
+  },
+  {
+    "id": 747,
+    "name": "Damaged Void Shell",
+    "editor_name": "破损虚空外壳",
+    "desc": "Reduces DMG taken by <style=red>70%</style>.",
+    "type": 1
+  },
+  {
+    "id": 748,
+    "name": "Power Boost",
+    "editor_name": "冲劲-SP拉维耶",
+    "desc": "With 2 or more stacks, enables [Re-attack] and [Move Again] after actively attacking with non-[Instant] skills. With 1 stack, only enables [Move Again] for a distance equal to the remaining Movement (minimum 3 tiles). This effect can be stacked up to 7 times, cannot be dispelled and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 749,
+    "name": "Unchained Bloodlust I",
+    "editor_name": "银狼-银狼女王1",
+    "desc": "[Buff] Increases ATK by <style=red>10%</style> and P.DEF by <style=red>20%</style>. Before attacking, for each stack of [Wound] on the target, increases Physical DMG dealt to them by <style=red>5%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "type": 2
+  },
+  {
+    "id": 750,
+    "name": "Unchained Bloodlust II",
+    "editor_name": "银狼-银狼女王2",
+    "desc": "[Buff] Increases ATK by <style=red>15%</style>, P.DEF by <style=red>20%</style> and Movement by <style=red>1</style> tile. Before attacking, for each stack of [Wound] on the target, increases Physical DMG dealt to them by <style=red>5%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "type": 2
+  },
+  {
+    "id": 751,
+    "name": "Unchained Bloodlust III",
+    "editor_name": "银狼-银狼女王3",
+    "desc": "[Buff] Increases ATK by <style=red>20%</style>, P.DEF by <style=red>20%</style> and Movement by <style=red>2</style> tiles, granting [Climb] and [Jump]. Before launching a single-target attack, grants [Armor Piercing] if the target has [Wound]. Before attacking, for each stack of [Wound] on the target, increases Physical DMG dealt to them by <style=red>5%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "type": 2
+  },
+  {
+    "id": 752,
+    "name": "Tingling Mat",
+    "editor_name": "酥麻软垫",
+    "desc": "Enemies on the Tingling Mat will exit the battle.",
+    "type": 1
+  },
+  {
+    "id": 754,
+    "name": "Move Again",
+    "editor_name": "再移动",
+    "desc": "[State] Can re-enter the Move Turn.",
+    "type": 2
+  },
+  {
+    "id": 756,
+    "name": "Measured Rewards and Punishments",
+    "editor_name": "赏罚分明",
+    "desc": "[Aura] For all \"Discipline\" allies in battle, increases ATK by <style=red>10%</style> and DEF by <style=red>20%</style>; increases DMG dealt by Summoned Unit by <style=red>20%</style>. ",
+    "type": 1
+  },
+  {
+    "id": 757,
+    "name": "<sprite=2>Range II",
+    "editor_name": "▲射程2",
+    "desc": "[Buff] Increases the maximum range and minimal range of Ranged Skills by <style=red>2</style> tiles.",
+    "type": 2
+  },
+  {
+    "id": 758,
+    "name": "Elimination of All Sins - Extra",
+    "editor_name": "活动-大型3.5期-敌方-肃清万恶·改（挑战2）",
+    "desc": "[Skill] Prepares for 1 turn, deals 130% [Fire] DMG to all enemies within a 2-tile range of the target, and inflicts [Stunned] for 1 turn. When attacking a non-countered character, deals an additional 50% DMG. Skips the turn after casting. The skill will be switched to [Light Oracle - Elimination of All Sins] when having [Light Oracle].",
+    "type": 1
+  },
+  {
+    "id": 759,
+    "name": "Light Oracle - Elimination of All Sins - Extra",
+    "editor_name": "活动-大型3.5期-敌方-光谕·肃清万恶·改（挑战2）",
+    "desc": "[Skill] Prepares for 1 turn, deals 130% [Fire] DMG to all enemies within a 2-tile range of the target, and inflicts [Stunned] for 1 turn. Continues the attack on all enemies within 5-tile range of the target, dealing 80% DMG and Inflicting [<sprite=3>Healing Received] and [<sprite=3>Move II] for 2 rounds. When attacking a non-countered character, deals an additional 50% DMG. Skips the turn after casting. The skill will be switched to [Elimination of All Sins] when not having [Light Oracle].",
+    "type": 1
+  },
+  {
+    "id": 762,
+    "name": "Treasure",
+    "editor_name": "财宝",
+    "desc": "Enables the character who picks it up to [Act Again], resets all skill CD, and grants <style=red>100</style> TP.",
+    "type": 1
+  },
+  {
+    "id": 763,
+    "name": "Shadow Guard",
+    "editor_name": "暗影卫队",
+    "desc": "[Destroyer] A Summoned Unit character.",
+    "type": 1
+  },
+  {
+    "id": 764,
+    "name": "Dark Ripple - Alter",
+    "editor_name": "极暗波动·异",
+    "desc": "Deals <style=purple>60%</style> [AoE DMG] to enemies within a <style=red>2</style>-tile range of the target and inflicts <style=red>2</style> random [<style=C4>Level 2 Attribute Debuffs</style>] on the target, lasting <style=red>2</style> rounds.",
+    "type": 1
+  },
+  {
+    "id": 768,
+    "name": "Knowledge",
+    "editor_name": "知识-邦国王子",
+    "desc": "[Mark] Allows the use of [Historical Skills] when possessed.",
+    "type": 1
+  },
+  {
+    "id": 769,
+    "name": "Luxite Pillar",
+    "editor_name": "祝福晶石灯桩",
+    "desc": "[Item] At the start of the round, recovers HP by <style=green>10%</style> and obtains <style=red>2</style> random [Level 2 Buffs] for <style=red>2</style> turns for all allies within <style=red>5</style> tiles. <style=yellow>When being destroyed</style>, dispels [Buff] and inflicts [Stigmata] on all allies within <style=red>5</style> tiles.",
+    "type": 1
+  },
+  {
+    "id": 770,
+    "name": "Double String",
+    "editor_name": "伊利亚之弓",
+    "desc": "Enables [Re-attack] after attacking and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 771,
+    "name": "Glide",
+    "editor_name": "伊利亚之刃",
+    "desc": "[Buff] Increases Movement by <style=red>99</style> tiles and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 772,
+    "name": "Halo",
+    "editor_name": "伊利亚之杖",
+    "desc": "Extends aura effects by <style=red>4</style> tiles.",
+    "type": 1
+  },
+  {
+    "id": 773,
+    "name": "Sturdy Shield",
+    "editor_name": "[网游主线11章]-举起盾牌",
+    "desc": "[Buff] Reduces Percentage DMG taken by <style=red>100%</style>.",
+    "type": 1
+  },
+  {
+    "id": 774,
+    "name": "Block Enhancement II",
+    "editor_name": "格挡强化2",
+    "desc": "[Buff] Blocks with a <style=red>100%</style> chance of negating ranged DMG from [Front or Side]. Decreases DMG taken by <style=red>25%</style> additionally when [Blocking].",
+    "type": 2
+  },
+  {
+    "id": 775,
+    "name": "Commotion",
+    "editor_name": "沙盒-骚动",
+    "desc": "[State] When having <style=red>5</style> stacks of [Commotion], a riot occurs, transforming the character into an enemy or making them attack actively.",
+    "type": 1
+  },
+  {
+    "id": 776,
+    "name": "Break - Endless Force",
+    "editor_name": "[女将军]-破阵之枪A",
+    "desc": "[Skill] Deals <style=red>45%</style> [AoE DMG] to all enemies within a <style=red>1</style>-tile range of the target <style=red>3</style> times, gains [<style=C4>Shield Break IV</style>] before attacking. After the attack, knocks back the target by <style=red>1</style> tile.",
+    "type": 1
+  },
+  {
+    "id": 777,
+    "name": "Break - Invincible",
+    "editor_name": "[女将军]-破阵之枪B",
+    "desc": "[Skill] Deals <style=red>80%</style> [AoE DMG] to all enemies within a <style=red>1x5</style> area in the target direction; if the target is in the [<style=C4>Dying</style>] state, ignores <style=red>80%</style> of their defense and [<style=C4>Resolve</style>].",
+    "type": 1
+  },
+  {
+    "id": 778,
+    "name": "Evil Might",
+    "editor_name": "S7-邪恶力量",
+    "desc": "Increases DMG dealt by <style=red>50%</style>, ignores <style=red>80%</style> of the target's DEF when attacking, and then removes this effect after launching an active attack. This effect cannot be dispelled and bypasses immunity.",
+    "type": 1
+  },
+  {
+    "id": 802,
+    "name": "Historical Truth",
+    "editor_name": "血腥历史-邦国王子",
+    "desc": "[Instant] Inflicts [<sprite=3>Move II] and [Vulnerable II] on an enemy for 2 rounds. Consumes 2 stacks of [Knowledge].",
+    "type": 1
+  },
+  {
+    "id": 803,
+    "name": "Hero's Epic",
+    "editor_name": "伟大历史-邦国王子",
+    "desc": "[Instant] Grants the target ally [<sprite=2>DMG II] and [DMG Reduction II] for 2 rounds, additionally recovering HP equals to 50% of M.ATK. Consumes 2 stacks of [Knowledge].",
+    "type": 1
+  },
+  {
+    "id": 804,
+    "name": "Learn from Past",
+    "editor_name": "和平历史-邦国王子",
+    "desc": "[Instant] Dispels 2 [debuffs] for all allies within a 2-tile range of the target, additionally recovering HP equals to 30% of M.ATK. Consumes 2 stacks of [Knowledge].",
     "type": 1
   }
 ]

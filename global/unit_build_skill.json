@@ -32319,6 +32319,216 @@
     "weight": 1
   },
   {
+    "id": 19400,
+    "idunit_build": 1245,
+    "skill_id": 2186,
+    "type": 3,
+    "weight": 1
+  },
+  {
+    "id": 19401,
+    "idunit_build": 1245,
+    "skill_id": 2403,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19402,
+    "idunit_build": 1245,
+    "skill_id": 1278,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19403,
+    "idunit_build": 1245,
+    "skill_id": 2405,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19404,
+    "idunit_build": 1245,
+    "skill_id": 2401,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19405,
+    "idunit_build": 1245,
+    "skill_id": 2420,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19406,
+    "idunit_build": 1245,
+    "skill_id": 1275,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19407,
+    "idunit_build": 1245,
+    "skill_id": 2179,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19408,
+    "idunit_build": 1245,
+    "skill_id": 2180,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19409,
+    "idunit_build": 1245,
+    "skill_id": 2400,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19410,
+    "idunit_build": 1245,
+    "skill_id": 2404,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19411,
+    "idunit_build": 1245,
+    "skill_id": 2421,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19412,
+    "idunit_build": 1245,
+    "skill_id": 1266,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19413,
+    "idunit_build": 1245,
+    "skill_id": 1273,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19414,
+    "idunit_build": 1245,
+    "skill_id": 2422,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19415,
+    "idunit_build": 1245,
+    "skill_id": 2406,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19416,
+    "idunit_build": 1245,
+    "skill_id": 1269,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19417,
+    "idunit_build": 1245,
+    "skill_id": 1267,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19418,
+    "idunit_build": 1245,
+    "skill_id": 2402,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19419,
+    "idunit_build": 1245,
+    "skill_id": 1286,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19420,
+    "idunit_build": 1245,
+    "skill_id": 2413,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19421,
+    "idunit_build": 1245,
+    "skill_id": 1303,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19422,
+    "idunit_build": 1245,
+    "skill_id": 2418,
+    "type": 3,
+    "weight": 1
+  },
+  {
+    "id": 19423,
+    "idunit_build": 1245,
+    "skill_id": 2416,
+    "type": 3,
+    "weight": 1
+  },
+  {
+    "id": 19424,
+    "idunit_build": 1245,
+    "skill_id": 1277,
+    "type": 2,
+    "weight": 1
+  },
+  {
+    "id": 19425,
+    "idunit_build": 1245,
+    "skill_id": 1198,
+    "type": 3,
+    "weight": 1
+  },
+  {
+    "id": 19426,
+    "idunit_build": 1245,
+    "skill_id": 2414,
+    "type": 3,
+    "weight": 1
+  },
+  {
+    "id": 19427,
+    "idunit_build": 1245,
+    "skill_id": 2409,
+    "type": 3,
+    "weight": 1
+  },
+  {
+    "id": 19428,
+    "idunit_build": 1245,
+    "skill_id": 1270,
+    "type": 3,
+    "weight": 1
+  },
+  {
+    "id": 19429,
+    "idunit_build": 1245,
+    "skill_id": 1201,
+    "type": 3,
+    "weight": 1
+  },
+  {
     "id": 19430,
     "idunit_build": 1246,
     "skill_id": 7634,
@@ -32525,6 +32735,433 @@
     "id": 19488,
     "idunit_build": 1246,
     "skill_id": 4059,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19609,
+    "idunit_build": 1252,
+    "skill_id": 8969,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19610,
+    "idunit_build": 1252,
+    "skill_id": 8972,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19611,
+    "idunit_build": 1252,
+    "skill_id": 9699,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19612,
+    "idunit_build": 1252,
+    "skill_id": 9369,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19613,
+    "idunit_build": 1252,
+    "skill_id": 9556,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19614,
+    "idunit_build": 1252,
+    "skill_id": 9554,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19615,
+    "idunit_build": 1252,
+    "skill_id": 9558,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19616,
+    "idunit_build": 1252,
+    "skill_id": 9557,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19617,
+    "idunit_build": 1252,
+    "skill_id": 5207,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19618,
+    "idunit_build": 1252,
+    "skill_id": 4055,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19619,
+    "idunit_build": 1252,
+    "skill_id": 4049,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19620,
+    "idunit_build": 1252,
+    "skill_id": 5203,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19621,
+    "idunit_build": 1252,
+    "skill_id": 4054,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19622,
+    "idunit_build": 1252,
+    "skill_id": 5209,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19624,
+    "idunit_build": 1252,
+    "skill_id": 4073,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19625,
+    "idunit_build": 1252,
+    "skill_id": 4060,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19626,
+    "idunit_build": 1252,
+    "skill_id": 4053,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19627,
+    "idunit_build": 1252,
+    "skill_id": 4061,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19628,
+    "idunit_build": 1252,
+    "skill_id": 4058,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19629,
+    "idunit_build": 1252,
+    "skill_id": 4066,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19630,
+    "idunit_build": 1252,
+    "skill_id": 4051,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19631,
+    "idunit_build": 1252,
+    "skill_id": 4057,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19632,
+    "idunit_build": 1252,
+    "skill_id": 10035,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19634,
+    "idunit_build": 1252,
+    "skill_id": 4237,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19635,
+    "idunit_build": 1252,
+    "skill_id": 4236,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19636,
+    "idunit_build": 1252,
+    "skill_id": 4235,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19637,
+    "idunit_build": 1252,
+    "skill_id": 4454,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19638,
+    "idunit_build": 1252,
+    "skill_id": 4607,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19639,
+    "idunit_build": 1252,
+    "skill_id": 4608,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19640,
+    "idunit_build": 1252,
+    "skill_id": 4609,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19642,
+    "idunit_build": 1253,
+    "skill_id": 9556,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19643,
+    "idunit_build": 1254,
+    "skill_id": 10725,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19644,
+    "idunit_build": 1255,
+    "skill_id": 4606,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19645,
+    "idunit_build": 1256,
+    "skill_id": 9554,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19838,
+    "idunit_build": 1262,
+    "skill_id": 4006,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19839,
+    "idunit_build": 1262,
+    "skill_id": 4210,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19840,
+    "idunit_build": 1262,
+    "skill_id": 4794,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19841,
+    "idunit_build": 1262,
+    "skill_id": 4781,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19842,
+    "idunit_build": 1262,
+    "skill_id": 4013,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19843,
+    "idunit_build": 1262,
+    "skill_id": 4161,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19844,
+    "idunit_build": 1262,
+    "skill_id": 4803,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19845,
+    "idunit_build": 1262,
+    "skill_id": 4227,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19846,
+    "idunit_build": 1262,
+    "skill_id": 4802,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19847,
+    "idunit_build": 1262,
+    "skill_id": 4502,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19848,
+    "idunit_build": 1262,
+    "skill_id": 4799,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19849,
+    "idunit_build": 1262,
+    "skill_id": 4608,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19850,
+    "idunit_build": 1262,
+    "skill_id": 3838,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19851,
+    "idunit_build": 1262,
+    "skill_id": 4611,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19852,
+    "idunit_build": 1262,
+    "skill_id": 4247,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19853,
+    "idunit_build": 1262,
+    "skill_id": 4609,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19854,
+    "idunit_build": 1262,
+    "skill_id": 4254,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19855,
+    "idunit_build": 1262,
+    "skill_id": 4453,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19856,
+    "idunit_build": 1262,
+    "skill_id": 4259,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19857,
+    "idunit_build": 1262,
+    "skill_id": 4242,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19858,
+    "idunit_build": 1262,
+    "skill_id": 4236,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19859,
+    "idunit_build": 1262,
+    "skill_id": 4018,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19860,
+    "idunit_build": 1262,
+    "skill_id": 4008,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19861,
+    "idunit_build": 1262,
+    "skill_id": 4019,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19862,
+    "idunit_build": 1262,
+    "skill_id": 4229,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19863,
+    "idunit_build": 1262,
+    "skill_id": 5163,
+    "type": 1,
+    "weight": 1
+  },
+  {
+    "id": 19864,
+    "idunit_build": 1262,
+    "skill_id": 4900,
     "type": 1,
     "weight": 1
   }

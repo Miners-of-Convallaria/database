@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Cook",
+    "prefab_name": "Event_Cook",
+    "editor_name": ""
+  },
+  {
+    "id": 2,
+    "name": "Investigate",
+    "prefab_name": "Event_Check",
+    "editor_name": ""
+  }
+]

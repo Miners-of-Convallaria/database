@@ -148,5 +148,29 @@
     "idwidget": 22,
     "name": "disappear",
     "perform_sequence_id": 611
+  },
+  {
+    "id": 26,
+    "idwidget": 40,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 27,
+    "idwidget": 40,
+    "name": "die",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 28,
+    "idwidget": 41,
+    "name": "disappear",
+    "perform_sequence_id": 611
+  },
+  {
+    "id": 29,
+    "idwidget": 41,
+    "name": "die",
+    "perform_sequence_id": 611
   }
 ]

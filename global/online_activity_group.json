@@ -14,7 +14,10 @@
     "sort_id": 4,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 1
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
   },
   {
     "id": 2,
@@ -31,7 +34,10 @@
     "sort_id": 5,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 1
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1000,
+    "fail_tip": true
   },
   {
     "id": 3,
@@ -48,7 +54,10 @@
     "sort_id": 3,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 1
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 700,
+    "fail_tip": true
   },
   {
     "id": 4,
@@ -65,7 +74,10 @@
     "sort_id": 2,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 1
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1500,
+    "fail_tip": false
   },
   {
     "id": 6,
@@ -82,7 +94,10 @@
     "sort_id": 7,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 1
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1200,
+    "fail_tip": true
   },
   {
     "id": 7,
@@ -99,7 +114,10 @@
     "sort_id": 6,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 1
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1200,
+    "fail_tip": true
   },
   {
     "id": 8,
@@ -116,7 +134,10 @@
     "sort_id": 1,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 1
+    "category": 1,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 1500,
+    "fail_tip": false
   },
   {
     "id": 9,
@@ -133,7 +154,10 @@
     "sort_id": 8,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 2
+    "category": 2,
+    "difficulty_tips": false,
+    "difficulty_thousand_times": 0,
+    "fail_tip": false
   },
   {
     "id": 11,
@@ -150,7 +174,10 @@
     "sort_id": 0,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 3
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
   },
   {
     "id": 12,
@@ -167,7 +194,10 @@
     "sort_id": 0,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 3
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
   },
   {
     "id": 13,
@@ -184,7 +214,10 @@
     "sort_id": 0,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 3
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
   },
   {
     "id": 14,
@@ -201,7 +234,10 @@
     "sort_id": 0,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 3
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
   },
   {
     "id": 15,
@@ -218,7 +254,10 @@
     "sort_id": 9,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 4
+    "category": 4,
+    "difficulty_tips": false,
+    "difficulty_thousand_times": 0,
+    "fail_tip": false
   },
   {
     "id": 16,
@@ -235,7 +274,10 @@
     "sort_id": 0,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 3
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
   },
   {
     "id": 17,
@@ -252,6 +294,49 @@
     "sort_id": 0,
     "play_type": 1,
     "play_type_param0": 0,
-    "category": 3
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
+  },
+  {
+    "id": 18,
+    "m_online_activitys": [29],
+    "type": 10,
+    "name": "Major Event Phase 3.5",
+    "editor_name": "大型活动3.5期-刷分关卡",
+    "online_activity_ids": "29",
+    "limit_count": -1,
+    "high_bonus_count": 2,
+    "quest_start_stamina": 0,
+    "quest_failed_stamina": 0,
+    "system_id": 0,
+    "sort_id": 0,
+    "play_type": 1,
+    "play_type_param0": 0,
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
+  },
+  {
+    "id": 19,
+    "m_online_activitys": [],
+    "type": 10,
+    "name": "Medium Event Phase IV",
+    "editor_name": "中型活动4期-刷分关卡",
+    "online_activity_ids": "30",
+    "limit_count": -1,
+    "high_bonus_count": 2,
+    "quest_start_stamina": 0,
+    "quest_failed_stamina": 0,
+    "system_id": 0,
+    "sort_id": 0,
+    "play_type": 1,
+    "play_type_param0": 0,
+    "category": 3,
+    "difficulty_tips": true,
+    "difficulty_thousand_times": 800,
+    "fail_tip": true
   }
 ]

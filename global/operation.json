@@ -106,5 +106,23 @@
     "type": "Smog",
     "name": "释放烟雾",
     "field_status": 14
+  },
+  {
+    "id": 19,
+    "type": "Net",
+    "name": "放网",
+    "field_status": 15
+  },
+  {
+    "id": 20,
+    "type": "Electriferous_Net",
+    "name": "放电网",
+    "field_status": 16
+  },
+  {
+    "id": 21,
+    "type": "Bubble",
+    "name": "喷泡沫",
+    "field_status": 17
   }
 ]

@@ -76,7 +76,7 @@
     "m_online_unit_rank_modify_ranks": [133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144],
     "name": "伊利亚枪兵",
     "skill_line_id": 1,
-    "tier1_name": "Guarding",
+    "tier1_name": "Guard",
     "tier2_name": "Attack"
   },
   {
@@ -221,7 +221,7 @@
     "name": "教皇国剑盾兵",
     "skill_line_id": 1,
     "tier1_name": "Enhance",
-    "tier2_name": "Rescue"
+    "tier2_name": "Assist"
   },
   {
     "id": 146,
@@ -252,8 +252,8 @@
     "m_online_unit_rank_modify_ranks": [397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408],
     "name": "黑暗之光火法",
     "skill_line_id": 1,
-    "tier1_name": "Bomb",
-    "tier2_name": "Centralized"
+    "tier1_name": "Bombardment",
+    "tier2_name": "Flame Focus"
   },
   {
     "id": 162,
@@ -352,8 +352,24 @@
     "tier2_name": "Evasion"
   },
   {
-    "id": 501,
+    "id": 415,
     "m_online_unit_rank_modify_ranks": [553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564],
+    "name": "机动部队-考尔",
+    "skill_line_id": 1,
+    "tier1_name": "Pill",
+    "tier2_name": "Sharp Tongue"
+  },
+  {
+    "id": 416,
+    "m_online_unit_rank_modify_ranks": [565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576],
+    "name": "机动部队-希孜",
+    "skill_line_id": 1,
+    "tier1_name": "Tact",
+    "tier2_name": "Snipe"
+  },
+  {
+    "id": 501,
+    "m_online_unit_rank_modify_ranks": [577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588],
     "name": "佣兵少女-小红麦莎",
     "skill_line_id": 1,
     "tier1_name": "Guard",
@@ -361,7 +377,7 @@
   },
   {
     "id": 502,
-    "m_online_unit_rank_modify_ranks": [565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576],
+    "m_online_unit_rank_modify_ranks": [589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600],
     "name": "佣兵少年-小绿法卡尔",
     "skill_line_id": 1,
     "tier1_name": "Burst",
@@ -369,7 +385,7 @@
   },
   {
     "id": 503,
-    "m_online_unit_rank_modify_ranks": [577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588],
+    "m_online_unit_rank_modify_ranks": [601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612],
     "name": "女骑士-歌洛莉亚",
     "skill_line_id": 1,
     "tier1_name": "Courage",
@@ -377,7 +393,7 @@
   },
   {
     "id": 504,
-    "m_online_unit_rank_modify_ranks": [589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600],
+    "m_online_unit_rank_modify_ranks": [613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624],
     "name": "大姐头-拉维耶",
     "skill_line_id": 1,
     "tier1_name": "Crush",
@@ -385,7 +401,7 @@
   },
   {
     "id": 505,
-    "m_online_unit_rank_modify_ranks": [601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612],
+    "m_online_unit_rank_modify_ranks": [625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636],
     "name": "黑光打手-古兹曼",
     "skill_line_id": 1,
     "tier1_name": "Trepidation",
@@ -393,7 +409,7 @@
   },
   {
     "id": 506,
-    "m_online_unit_rank_modify_ranks": [613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624],
+    "m_online_unit_rank_modify_ranks": [637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648],
     "name": "老骑士-泰登",
     "skill_line_id": 1,
     "tier1_name": "Barrier",
@@ -401,7 +417,7 @@
   },
   {
     "id": 507,
-    "m_online_unit_rank_modify_ranks": [625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636],
+    "m_online_unit_rank_modify_ranks": [649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660],
     "name": "王国军小将军泽维尔",
     "skill_line_id": 1,
     "tier1_name": "Invincibility",
@@ -409,7 +425,7 @@
   },
   {
     "id": 508,
-    "m_online_unit_rank_modify_ranks": [637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648],
+    "m_online_unit_rank_modify_ranks": [661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672],
     "name": "修女-萨曼莎",
     "skill_line_id": 1,
     "tier1_name": "Deliverance",
@@ -417,7 +433,7 @@
   },
   {
     "id": 509,
-    "m_online_unit_rank_modify_ranks": [649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660],
+    "m_online_unit_rank_modify_ranks": [673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684],
     "name": "面具刺客-科",
     "skill_line_id": 1,
     "tier1_name": "Assassination",
@@ -425,7 +441,7 @@
   },
   {
     "id": 510,
-    "m_online_unit_rank_modify_ranks": [661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672],
+    "m_online_unit_rank_modify_ranks": [685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696],
     "name": "倒吊人指挥官-索菲亚",
     "skill_line_id": 1,
     "tier1_name": "Command",
@@ -433,7 +449,7 @@
   },
   {
     "id": 511,
-    "m_online_unit_rank_modify_ranks": [673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684],
+    "m_online_unit_rank_modify_ranks": [697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708],
     "name": "二王子-鲁特菲",
     "skill_line_id": 1,
     "tier1_name": "Backstab",
@@ -441,7 +457,7 @@
   },
   {
     "id": 512,
-    "m_online_unit_rank_modify_ranks": [685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696],
+    "m_online_unit_rank_modify_ranks": [709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720],
     "name": "薇尔德妹妹-诺诺薇儿",
     "skill_line_id": 1,
     "tier1_name": "Melody",
@@ -449,7 +465,7 @@
   },
   {
     "id": 513,
-    "m_online_unit_rank_modify_ranks": [697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708],
+    "m_online_unit_rank_modify_ranks": [721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732],
     "name": "薇尔德姐姐-莉莉薇儿",
     "skill_line_id": 1,
     "tier1_name": "Curved Shot",
@@ -457,7 +473,7 @@
   },
   {
     "id": 514,
-    "m_online_unit_rank_modify_ranks": [709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720],
+    "m_online_unit_rank_modify_ranks": [733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744],
     "name": "小魔女-贝拉",
     "skill_line_id": 1,
     "tier1_name": "Bomb",
@@ -465,7 +481,7 @@
   },
   {
     "id": 515,
-    "m_online_unit_rank_modify_ranks": [721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732],
+    "m_online_unit_rank_modify_ranks": [745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756],
     "name": "大王子-迪塔利奥",
     "skill_line_id": 1,
     "tier1_name": "Dawn",
@@ -473,7 +489,7 @@
   },
   {
     "id": 516,
-    "m_online_unit_rank_modify_ranks": [733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744],
+    "m_online_unit_rank_modify_ranks": [757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768],
     "name": "佣兵头子-米格尔",
     "skill_line_id": 1,
     "tier1_name": "Dirty Hand",
@@ -481,7 +497,7 @@
   },
   {
     "id": 517,
-    "m_online_unit_rank_modify_ranks": [745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756],
+    "m_online_unit_rank_modify_ranks": [769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780],
     "name": "冰原蛮熊-阿列克谢",
     "skill_line_id": 1,
     "tier1_name": "Guard",
@@ -489,7 +505,7 @@
   },
   {
     "id": 518,
-    "m_online_unit_rank_modify_ranks": [757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768],
+    "m_online_unit_rank_modify_ranks": [781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792],
     "name": "灰狼-伊奇",
     "skill_line_id": 1,
     "tier1_name": "Hunt",
@@ -497,7 +513,7 @@
   },
   {
     "id": 519,
-    "m_online_unit_rank_modify_ranks": [769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780],
+    "m_online_unit_rank_modify_ranks": [793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804],
     "name": "三王女",
     "skill_line_id": 1,
     "tier1_name": "Encouragement",
@@ -505,15 +521,15 @@
   },
   {
     "id": 520,
-    "m_online_unit_rank_modify_ranks": [781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792],
+    "m_online_unit_rank_modify_ranks": [805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816],
     "name": "审判者C",
     "skill_line_id": 1,
-    "tier1_name": "Moves",
+    "tier1_name": "Style",
     "tier2_name": "Will"
   },
   {
     "id": 521,
-    "m_online_unit_rank_modify_ranks": [793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804],
+    "m_online_unit_rank_modify_ranks": [817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828],
     "name": "晶石少女茉茉朵儿",
     "skill_line_id": 1,
     "tier1_name": "Corruption",
@@ -521,7 +537,7 @@
   },
   {
     "id": 522,
-    "m_online_unit_rank_modify_ranks": [805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816],
+    "m_online_unit_rank_modify_ranks": [829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840],
     "name": "王国军将军马格努斯",
     "skill_line_id": 1,
     "tier1_name": "Sweep",
@@ -529,7 +545,7 @@
   },
   {
     "id": 523,
-    "m_online_unit_rank_modify_ranks": [817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828],
+    "m_online_unit_rank_modify_ranks": [841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852],
     "name": "难民少女艾达",
     "skill_line_id": 1,
     "tier1_name": "Support",
@@ -537,7 +553,7 @@
   },
   {
     "id": 524,
-    "m_online_unit_rank_modify_ranks": [829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840],
+    "m_online_unit_rank_modify_ranks": [853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864],
     "name": "骑士团法师席梦娜",
     "skill_line_id": 1,
     "tier1_name": "Winter",
@@ -545,7 +561,7 @@
   },
   {
     "id": 525,
-    "m_online_unit_rank_modify_ranks": [841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852],
+    "m_online_unit_rank_modify_ranks": [865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876],
     "name": "双子哥",
     "skill_line_id": 1,
     "tier1_name": "Guardian",
@@ -553,7 +569,7 @@
   },
   {
     "id": 526,
-    "m_online_unit_rank_modify_ranks": [853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864],
+    "m_online_unit_rank_modify_ranks": [877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888],
     "name": "双子妹",
     "skill_line_id": 1,
     "tier1_name": "Burst",
@@ -561,7 +577,7 @@
   },
   {
     "id": 527,
-    "m_online_unit_rank_modify_ranks": [865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876],
+    "m_online_unit_rank_modify_ranks": [889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900],
     "name": "银狼阿加塔",
     "skill_line_id": 1,
     "tier1_name": "Silver Wolf",
@@ -569,7 +585,7 @@
   },
   {
     "id": 528,
-    "m_online_unit_rank_modify_ranks": [877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888],
+    "m_online_unit_rank_modify_ranks": [901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912],
     "name": "骑士团团长奥古斯特",
     "skill_line_id": 1,
     "tier1_name": "Overthrow",
@@ -577,7 +593,7 @@
   },
   {
     "id": 529,
-    "m_online_unit_rank_modify_ranks": [889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900],
+    "m_online_unit_rank_modify_ranks": [913, 914, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924],
     "name": "光辉卫士长列奥尼德",
     "skill_line_id": 1,
     "tier1_name": "Charge",
@@ -585,7 +601,7 @@
   },
   {
     "id": 530,
-    "m_online_unit_rank_modify_ranks": [901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912],
+    "m_online_unit_rank_modify_ranks": [925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936],
     "name": "审判者萨曼莎",
     "skill_line_id": 1,
     "tier1_name": "Shelter",
@@ -593,7 +609,7 @@
   },
   {
     "id": 531,
-    "m_online_unit_rank_modify_ranks": [913, 914, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924],
+    "m_online_unit_rank_modify_ranks": [937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948],
     "name": "法皇之手",
     "skill_line_id": 1,
     "tier1_name": "Shelter",
@@ -601,7 +617,7 @@
   },
   {
     "id": 532,
-    "m_online_unit_rank_modify_ranks": [925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936],
+    "m_online_unit_rank_modify_ranks": [949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 959, 960],
     "name": "邦国王子",
     "skill_line_id": 1,
     "tier1_name": "Intellect",
@@ -609,7 +625,7 @@
   },
   {
     "id": 533,
-    "m_online_unit_rank_modify_ranks": [937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948],
+    "m_online_unit_rank_modify_ranks": [961, 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972],
     "name": "苏莱曼商人",
     "skill_line_id": 1,
     "tier1_name": "Bribe",
@@ -617,7 +633,7 @@
   },
   {
     "id": 534,
-    "m_online_unit_rank_modify_ranks": [949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 959, 960],
+    "m_online_unit_rank_modify_ranks": [973, 974, 975, 976, 977, 978, 979, 980, 981, 982, 983, 984],
     "name": "舞团舞娘",
     "skill_line_id": 1,
     "tier1_name": "Phantom",
@@ -625,7 +641,7 @@
   },
   {
     "id": 535,
-    "m_online_unit_rank_modify_ranks": [961, 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972],
+    "m_online_unit_rank_modify_ranks": [985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996],
     "name": "混血儿",
     "skill_line_id": 1,
     "tier1_name": "Iron Pot",
@@ -633,7 +649,7 @@
   },
   {
     "id": 536,
-    "m_online_unit_rank_modify_ranks": [973, 974, 975, 976, 977, 978, 979, 980, 981, 982, 983, 984],
+    "m_online_unit_rank_modify_ranks": [997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008],
     "name": "盲女侍卫",
     "skill_line_id": 1,
     "tier1_name": "Eerie Fragrance",
@@ -641,7 +657,7 @@
   },
   {
     "id": 537,
-    "m_online_unit_rank_modify_ranks": [985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996],
+    "m_online_unit_rank_modify_ranks": [1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020],
     "name": "鹦鹉人",
     "skill_line_id": 1,
     "tier1_name": "Streets",
@@ -649,7 +665,7 @@
   },
   {
     "id": 538,
-    "m_online_unit_rank_modify_ranks": [997, 998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008],
+    "m_online_unit_rank_modify_ranks": [1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032],
     "name": "学姐",
     "skill_line_id": 1,
     "tier1_name": "Floral Tenderness",
@@ -657,7 +673,7 @@
   },
   {
     "id": 539,
-    "m_online_unit_rank_modify_ranks": [1009, 1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020],
+    "m_online_unit_rank_modify_ranks": [1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044],
     "name": "女仆杀手",
     "skill_line_id": 1,
     "tier1_name": "Decorous Visage",
@@ -665,7 +681,7 @@
   },
   {
     "id": 540,
-    "m_online_unit_rank_modify_ranks": [1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032],
+    "m_online_unit_rank_modify_ranks": [1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056],
     "name": "SP拉维耶",
     "skill_line_id": 1,
     "tier1_name": "Wild Delight",
@@ -673,7 +689,7 @@
   },
   {
     "id": 541,
-    "m_online_unit_rank_modify_ranks": [1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044],
+    "m_online_unit_rank_modify_ranks": [1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068],
     "name": "SP索菲亚",
     "skill_line_id": 1,
     "tier1_name": "Deliberation",
@@ -681,16 +697,24 @@
   },
   {
     "id": 542,
-    "m_online_unit_rank_modify_ranks": [1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056],
-    "name": "机动部队-考尔",
+    "m_online_unit_rank_modify_ranks": [1069, 1070, 1071, 1072, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080],
+    "name": "黑帮女",
     "skill_line_id": 1,
     "tier1_name": "1",
     "tier2_name": "1"
   },
   {
     "id": 543,
-    "m_online_unit_rank_modify_ranks": [1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068],
-    "name": "机动部队-希孜",
+    "m_online_unit_rank_modify_ranks": [1081, 1082, 1083, 1084, 1085, 1086, 1087, 1088, 1089, 1090, 1091, 1092],
+    "name": "女将军",
+    "skill_line_id": 1,
+    "tier1_name": "1",
+    "tier2_name": "1"
+  },
+  {
+    "id": 544,
+    "m_online_unit_rank_modify_ranks": [1093, 1094, 1095, 1096, 1097, 1098, 1099, 1100, 1101, 1102, 1103, 1104],
+    "name": "爱莎",
     "skill_line_id": 1,
     "tier1_name": "1",
     "tier2_name": "1"

@@ -6,6 +6,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "（废弃）拉维耶的信标",
     "editor_name": " （废弃）qv3-1周目（拉维耶的信物）",
     "desc": "qv1-1周目",
@@ -27,7 +28,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 2,
@@ -36,6 +39,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "段金辉专用",
     "editor_name": "段金辉专用",
     "desc": "2021,1,1",
@@ -57,7 +61,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 3,
@@ -66,6 +72,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试事件组",
     "editor_name": "测试用-默认信物（勿删除）",
     "desc": "qv1-1周目",
@@ -87,7 +94,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|10|11|12",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 4,
@@ -96,6 +105,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "Qv3-Playthrough 0 (Features cutscenes, select with caution)",
     "editor_name": " qv3-0周目（慎选有演出）",
     "desc": "qv1-1 cycle",
@@ -117,7 +127,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|9",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 6,
@@ -126,6 +138,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "二王子的信标（废弃）",
     "editor_name": "二王子的信物（废弃）",
     "desc": "突破黑暗的阻挡，前往新的未来。",
@@ -147,7 +160,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 7,
@@ -156,6 +171,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "拉维耶的认可",
     "editor_name": "（废弃）正式信物03-拉维耶的见证",
     "desc": "由拉维耶的回忆凝聚而成，它会陪伴你开启真正的旅途。由它启动的轮回将从<color=#34b720>成为团长的那一天</color>开始。",
@@ -177,7 +193,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 8,
@@ -186,6 +204,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "歌洛莉亚的信标（废弃）",
     "editor_name": "歌洛莉亚的信物（废弃）",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变。",
@@ -207,7 +226,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 9,
@@ -216,6 +237,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "拉维耶的信标（废弃）",
     "editor_name": "拉维耶的信物（废弃）",
     "desc": "与拉维耶的羁绊发生变化，这将使你走出困境",
@@ -237,7 +259,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 10,
@@ -246,6 +270,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "Rescue in the Long Night",
     "editor_name": "正式信物02-二王子的信物",
     "desc": "When the darkness falls, there will be someone who will quietly do their best to help you tide over difficulties. The cycle activated by it will start from the day <color=#34b720>you become the leader</color> and it will be easier to gain reinforcement from the Order.",
@@ -267,7 +292,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8|9",
     "recommended_token_ids": "",
     "character_title": 2,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 11,
@@ -276,6 +303,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "Elegy of Knights",
     "editor_name": "正式信物03-歌洛莉亚的信物",
     "desc": "If I had stood by that person earlier, would she have won justice in the final judgement? The cycle activated by it will start from the day <color=#34b720>when Gloria comes</color> and it will be easier to gain the trust of Gloria.",
@@ -297,7 +325,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8|9",
     "recommended_token_ids": "",
     "character_title": 3,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 12,
@@ -306,6 +336,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "hy整活demo信标",
     "editor_name": "hydemo信物",
     "desc": "",
@@ -327,7 +358,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 13,
@@ -336,6 +369,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "Witnesses to the Tragedy",
     "editor_name": "正式信物01-惨剧的见证者",
     "desc": "Memories of the Waverun City incident. It will show you the way out of the city.",
@@ -357,7 +391,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10",
     "recommended_token_ids": "",
     "character_title": 1,
-    "country_stability": 100
+    "country_stability": 100,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 14,
@@ -366,6 +402,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "铃兰之剑徽记",
     "editor_name": "（废弃）正式信物02-铃兰之剑徽记",
     "desc": "由佣兵团的回忆凝聚而成，它会为你加强和团员之间的信任。由它启动的轮回将从<color=#34b720>成功逃出浪涌城之后</color>开始。",
@@ -387,7 +424,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 15,
@@ -396,6 +435,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "小魔女随机委托测试（无事件）",
     "editor_name": "小魔女随机委托测试（无事件）",
     "desc": "",
@@ -417,7 +457,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 16,
@@ -426,6 +468,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试用-P3开始（歌洛莉亚的信标）",
     "editor_name": "测试用-P3开始（歌洛莉亚的信标）",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变",
@@ -447,7 +490,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 17,
@@ -456,6 +501,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试用-P4开始（歌洛莉亚的信标）",
     "editor_name": "测试用-P4开始（歌洛莉亚的信标） ",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变",
@@ -477,7 +523,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 18,
@@ -486,6 +534,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试用-P5开始（歌洛莉亚的信标）",
     "editor_name": "测试用-P5开始（歌洛莉亚的信标）",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变",
@@ -507,7 +556,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 19,
@@ -516,6 +567,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试用-P6开始-二王子线（歌洛莉亚的信标）",
     "editor_name": "测试用-P6开始-二王子线（歌洛莉亚的信标）",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变",
@@ -537,7 +589,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 20,
@@ -546,6 +600,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试用-P6开始-歌洛莉亚线（歌洛莉亚的信标）Clone",
     "editor_name": "测试用-P6开始-歌洛莉亚线（歌洛莉亚的信标）",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变",
@@ -567,7 +622,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 21,
@@ -576,6 +633,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试用-P7开始-歌洛莉亚线（歌洛莉亚的信标）",
     "editor_name": "测试用-P7开始-歌洛莉亚线（歌洛莉亚的信标）",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变",
@@ -597,7 +655,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 22,
@@ -606,6 +666,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "测试用-P7开始-二王子线（歌洛莉亚的信标）",
     "editor_name": "测试用-P7开始-二王子线（歌洛莉亚的信标）",
     "desc": "一度抵达绝境之后，获得的新羁绊，命运将再度改变",
@@ -627,20 +688,23 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 23,
-    "m_sandbox_token_tags": [83],
+    "m_sandbox_token_tags": [83, 116],
     "m_tactics_skills": [],
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "接口测试用信物（勿修改）",
     "editor_name": "接口测试用信物（勿修改）",
     "desc": "接口测试用信物（勿修改）",
     "desc_unlocked": "",
-    "sandbox_token_tag_ids": "83",
+    "sandbox_token_tag_ids": "83|116",
     "faction_group_id": 1,
     "depend_faction_id": 18,
     "init_time": "999|2|4",
@@ -657,7 +721,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7",
     "recommended_token_ids": "",
     "character_title": 0,
-    "country_stability": 0
+    "country_stability": 0,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 25,
@@ -666,6 +732,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "Burning Flag of Iria",
     "editor_name": "正式信物04-燃烧的伊利亚旗帜",
     "desc": "The warmth turned to scorching heat before you even realized it. The cycle begins from the day you <color=#34b720>become the leader</color>. It will be easier to succeed in asking the King's Army for help before the Darklight's attacks.",
@@ -687,7 +754,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8|9",
     "recommended_token_ids": "",
     "character_title": 2,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 26,
@@ -696,6 +765,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "Emblem of the Hanged Men",
     "editor_name": "正式信物05-倒吊人的徽记",
     "desc": "They have paved the road in the dark. The cycle activated by it will start from the day <color=#34b720>you meet Dantalion</color>, and you will gain more special trust of Dantalion.",
@@ -717,7 +787,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8|9",
     "recommended_token_ids": "",
     "character_title": 3,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 27,
@@ -726,6 +798,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "Radiant Judgment",
     "editor_name": "正式信物06-光辉的审判",
     "desc": "Go forward firmly to bring the Radiant to the world. The cycle activated by it will start from the day <color=#34b720>you become the leader</color> and it will be easier to establish cooperation with the Papal States.",
@@ -747,7 +820,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8|9",
     "recommended_token_ids": "",
     "character_title": 2,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 28,
@@ -756,6 +831,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "First ray of the Dawn",
     "editor_name": "正式信物07-初照的曙光",
     "desc": "Healing wounds and loving the beings, an act of kindness warms the heart like the dawn. The cycle activated by it will start from the day <color=#34b720>you accompany with Samantha</color> and it will be easier to gain the trust of people.",
@@ -777,7 +853,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8|9",
     "recommended_token_ids": "",
     "character_title": 3,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 29,
@@ -786,6 +864,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "临时体验用信物-王国军线P4后",
     "editor_name": "临时体验用信物-王国军线P4后",
     "desc": "他们已在暗中将道路铺设。由它启动的轮回将从<color=#34b720>成为团长的那一天</color>开始，并且你将获得迪塔利奥更特别的信任。",
@@ -807,7 +886,9 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8",
     "recommended_token_ids": "",
     "character_title": 3,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
   },
   {
     "id": 30,
@@ -816,6 +897,7 @@
     "m_default_systemss": [],
     "m_default_capital_areass": [],
     "m_recommended_tokens": [],
+    "m_surprise_skills": [],
     "name": "The Other Side of the Balance",
     "editor_name": "正式信物08-埃拉曼线信物",
     "desc": "Sweat drips on the pier, weapons rattle in crates, and veils cling tightly in shadows… Amidst the clamor, coins clink into bags, while a bouquet of Convallaria tips the scale. Its tale initiates will <color=#34b720>make you the leader of Convallaria Trading Post</color>, launching a fresh voyage of commerce in Iria.",
@@ -837,6 +919,74 @@
     "default_capital_areas": "1|2|3|4|5|6|7|11|10|8|9",
     "recommended_token_ids": "",
     "character_title": 2,
-    "country_stability": 80
+    "country_stability": 80,
+    "sandbox_id": 1,
+    "surprise_skill_ids": ""
+  },
+  {
+    "id": 31,
+    "m_sandbox_token_tags": [114],
+    "m_tactics_skills": [],
+    "m_default_systemss": [],
+    "m_default_capital_areass": [],
+    "m_recommended_tokens": [],
+    "m_surprise_skills": [1, 2],
+    "name": "Story Mode",
+    "editor_name": "前传线-剧情模式",
+    "desc": "",
+    "desc_unlocked": "",
+    "sandbox_token_tag_ids": "114",
+    "faction_group_id": 1,
+    "depend_faction_id": 18,
+    "init_time": "",
+    "tactics_skill_ids": "",
+    "character_world_level": 0,
+    "character_round": 0,
+    "character_level": 1,
+    "icon": "0",
+    "is_soft_intercept": false,
+    "unit_level": 0,
+    "is_need_divination": true,
+    "init_event_group_id": 1,
+    "default_systems": "116|101|103|100|105|115|106|107",
+    "default_capital_areas": "13|16|17|18|19|20|21|22",
+    "recommended_token_ids": "",
+    "character_title": 0,
+    "country_stability": 0,
+    "sandbox_id": 2,
+    "surprise_skill_ids": "1|2"
+  },
+  {
+    "id": 32,
+    "m_sandbox_token_tags": [114],
+    "m_tactics_skills": [],
+    "m_default_systemss": [],
+    "m_default_capital_areass": [],
+    "m_recommended_tokens": [],
+    "m_surprise_skills": [1, 2],
+    "name": "Free Mode",
+    "editor_name": "前传线-自由模式",
+    "desc": "",
+    "desc_unlocked": "",
+    "sandbox_token_tag_ids": "114",
+    "faction_group_id": 1,
+    "depend_faction_id": 18,
+    "init_time": "",
+    "tactics_skill_ids": "",
+    "character_world_level": 0,
+    "character_round": 0,
+    "character_level": 1,
+    "icon": "0",
+    "is_soft_intercept": false,
+    "unit_level": 0,
+    "is_need_divination": true,
+    "init_event_group_id": 2,
+    "default_systems": "105|115|100|101|103|106|107|116",
+    "default_capital_areas": "13|16|17|18|19|20|21|22",
+    "recommended_token_ids": "",
+    "character_title": 0,
+    "country_stability": 0,
+    "sandbox_id": 2,
+    "surprise_skill_ids": "1|2"
   }
 ]

@@ -17,7 +17,8 @@
     "ssr_entry_build_ids": "29|30|31|32",
     "icon": "magician",
     "system_redirect_ids": "15",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 2,
@@ -37,7 +38,8 @@
     "ssr_entry_build_ids": "29|30|31|32",
     "icon": "fool",
     "system_redirect_ids": "1011",
-    "open_at": 0
+    "open_at": 1708677387,
+    "tendency_tag_id": 1
   },
   {
     "id": 3,
@@ -57,7 +59,8 @@
     "ssr_entry_build_ids": "29|30|31|33",
     "icon": "magician",
     "system_redirect_ids": "2602",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 4,
@@ -77,7 +80,8 @@
     "ssr_entry_build_ids": "29|30|31|34",
     "icon": "highpriestess",
     "system_redirect_ids": "2603",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 2
   },
   {
     "id": 5,
@@ -97,7 +101,8 @@
     "ssr_entry_build_ids": "29|30|31|35",
     "icon": "empress",
     "system_redirect_ids": "2604",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 2
   },
   {
     "id": 6,
@@ -117,7 +122,8 @@
     "ssr_entry_build_ids": "29|30|31|36",
     "icon": "emperor",
     "system_redirect_ids": "2604",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 7,
@@ -137,7 +143,8 @@
     "ssr_entry_build_ids": "29|30|31|37",
     "icon": "hierophant",
     "system_redirect_ids": "1011",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 2
   },
   {
     "id": 8,
@@ -157,7 +164,8 @@
     "ssr_entry_build_ids": "29|30|31|38",
     "icon": "lovers",
     "system_redirect_ids": "1011",
-    "open_at": 0
+    "open_at": 2708677387,
+    "tendency_tag_id": 0
   },
   {
     "id": 9,
@@ -177,7 +185,8 @@
     "ssr_entry_build_ids": "29|30|31|39",
     "icon": "chariot",
     "system_redirect_ids": "2602",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 10,
@@ -197,7 +206,8 @@
     "ssr_entry_build_ids": "29|30|31|40",
     "icon": "strength",
     "system_redirect_ids": "1011",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 11,
@@ -217,7 +227,8 @@
     "ssr_entry_build_ids": "29|30|31|41",
     "icon": "hermit",
     "system_redirect_ids": "2602",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 1
   },
   {
     "id": 12,
@@ -237,7 +248,8 @@
     "ssr_entry_build_ids": "29|30|31|42",
     "icon": "wheeloffortune",
     "system_redirect_ids": "2602",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 13,
@@ -257,7 +269,8 @@
     "ssr_entry_build_ids": "29|30|31|43",
     "icon": "justice",
     "system_redirect_ids": "2603",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 14,
@@ -277,7 +290,8 @@
     "ssr_entry_build_ids": "29|30|31|44",
     "icon": "hangedman",
     "system_redirect_ids": "1011",
-    "open_at": 0
+    "open_at": 2708677387,
+    "tendency_tag_id": 0
   },
   {
     "id": 15,
@@ -297,7 +311,8 @@
     "ssr_entry_build_ids": "29|30|31|45",
     "icon": "death",
     "system_redirect_ids": "1011",
-    "open_at": 0
+    "open_at": 2708677387,
+    "tendency_tag_id": 0
   },
   {
     "id": 16,
@@ -317,7 +332,8 @@
     "ssr_entry_build_ids": "29|30|31|46",
     "icon": "temperance",
     "system_redirect_ids": "2603",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 1
   },
   {
     "id": 17,
@@ -337,7 +353,8 @@
     "ssr_entry_build_ids": "29|30|31|47",
     "icon": "devil",
     "system_redirect_ids": "2604",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 18,
@@ -357,7 +374,8 @@
     "ssr_entry_build_ids": "29|30|31|48",
     "icon": "tower",
     "system_redirect_ids": "2602",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 19,
@@ -377,7 +395,8 @@
     "ssr_entry_build_ids": "29|30|31|49",
     "icon": "star",
     "system_redirect_ids": "1011",
-    "open_at": 0
+    "open_at": 2708677387,
+    "tendency_tag_id": 0
   },
   {
     "id": 20,
@@ -397,7 +416,8 @@
     "ssr_entry_build_ids": "29|30|31|50",
     "icon": "moon",
     "system_redirect_ids": "2604",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 21,
@@ -417,7 +437,8 @@
     "ssr_entry_build_ids": "29|30|31|51",
     "icon": "sun",
     "system_redirect_ids": "2603",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 22,
@@ -437,7 +458,8 @@
     "ssr_entry_build_ids": "29|30|31|52",
     "icon": "judgement",
     "system_redirect_ids": "2603",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   },
   {
     "id": 23,
@@ -457,6 +479,7 @@
     "ssr_entry_build_ids": "29|30|31|53",
     "icon": "world",
     "system_redirect_ids": "2604",
-    "open_at": 0
+    "open_at": 0,
+    "tendency_tag_id": 0
   }
 ]

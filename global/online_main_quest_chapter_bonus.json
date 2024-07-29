@@ -310,5 +310,29 @@
     "treasure_type": 122,
     "treasure_param0": 1329,
     "treasure_param1": 0
+  },
+  {
+    "id": 40,
+    "idonline_main_quest_chapter": 28,
+    "star_param": 12,
+    "treasure_type": 122,
+    "treasure_param0": 1456,
+    "treasure_param1": 0
+  },
+  {
+    "id": 41,
+    "idonline_main_quest_chapter": 28,
+    "star_param": 24,
+    "treasure_type": 122,
+    "treasure_param0": 1457,
+    "treasure_param1": 0
+  },
+  {
+    "id": 42,
+    "idonline_main_quest_chapter": 28,
+    "star_param": 36,
+    "treasure_type": 122,
+    "treasure_param0": 1458,
+    "treasure_param1": 0
   }
 ]

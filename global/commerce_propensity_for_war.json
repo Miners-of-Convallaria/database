@@ -3,7 +3,7 @@
     "id": 1,
     "m_sandbox_effects": [],
     "name": "War Propensity: Free Passage",
-    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
+    "desc": "Keep War Propensity below 100 to prevent all-out war in Iria.",
     "value": 0,
     "sandbox_effect_ids": ""
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "m_sandbox_effects": [],
     "name": "War Propensity: Ominous Clouds",
-    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
+    "desc": "Keep War Propensity below 100 to prevent all-out war in Iria.",
     "value": 40,
     "sandbox_effect_ids": ""
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "m_sandbox_effects": [],
     "name": "War Propensity: Tensions Rise",
-    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
+    "desc": "Keep War Propensity below 100 to prevent all-out war in Iria.",
     "value": 60,
     "sandbox_effect_ids": ""
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "m_sandbox_effects": [],
     "name": "War Propensity:  Turmoil and Tumult",
-    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
+    "desc": "Keep War Propensity below 100 to prevent all-out war in Iria.",
     "value": 80,
     "sandbox_effect_ids": ""
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "m_sandbox_effects": [],
     "name": "War Propensity: Raging War",
-    "desc": "Please keep War Propensity below 100 to prevent an all-out Iria War.",
+    "desc": "Keep War Propensity below 100 to prevent all-out war in Iria.",
     "value": 100,
     "sandbox_effect_ids": ""
   }

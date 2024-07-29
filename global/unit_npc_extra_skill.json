@@ -45,21 +45,6 @@
     "skill_id": 5626
   },
   {
-    "id": 28,
-    "idunit_npc": 3208,
-    "skill_id": 5718
-  },
-  {
-    "id": 29,
-    "idunit_npc": 3208,
-    "skill_id": 4663
-  },
-  {
-    "id": 30,
-    "idunit_npc": 3208,
-    "skill_id": 6811
-  },
-  {
     "id": 31,
     "idunit_npc": 3195,
     "skill_id": 6808
@@ -1280,6 +1265,96 @@
     "skill_id": 4663
   },
   {
+    "id": 322,
+    "idunit_npc": 4586,
+    "skill_id": 5621
+  },
+  {
+    "id": 324,
+    "idunit_npc": 4586,
+    "skill_id": 6811
+  },
+  {
+    "id": 325,
+    "idunit_npc": 4501,
+    "skill_id": 6811
+  },
+  {
+    "id": 326,
+    "idunit_npc": 4501,
+    "skill_id": 4638
+  },
+  {
+    "id": 327,
+    "idunit_npc": 4501,
+    "skill_id": 4639
+  },
+  {
+    "id": 328,
+    "idunit_npc": 4501,
+    "skill_id": 5626
+  },
+  {
+    "id": 329,
+    "idunit_npc": 4591,
+    "skill_id": 6811
+  },
+  {
+    "id": 330,
+    "idunit_npc": 4591,
+    "skill_id": 4638
+  },
+  {
+    "id": 331,
+    "idunit_npc": 4591,
+    "skill_id": 4639
+  },
+  {
+    "id": 332,
+    "idunit_npc": 4591,
+    "skill_id": 5626
+  },
+  {
+    "id": 333,
+    "idunit_npc": 4553,
+    "skill_id": 5626
+  },
+  {
+    "id": 334,
+    "idunit_npc": 4553,
+    "skill_id": 4638
+  },
+  {
+    "id": 335,
+    "idunit_npc": 4553,
+    "skill_id": 4639
+  },
+  {
+    "id": 336,
+    "idunit_npc": 4553,
+    "skill_id": 6811
+  },
+  {
+    "id": 337,
+    "idunit_npc": 4641,
+    "skill_id": 5745
+  },
+  {
+    "id": 338,
+    "idunit_npc": 4641,
+    "skill_id": 4642
+  },
+  {
+    "id": 339,
+    "idunit_npc": 4641,
+    "skill_id": 4880
+  },
+  {
+    "id": 340,
+    "idunit_npc": 4641,
+    "skill_id": 6816
+  },
+  {
     "id": 341,
     "idunit_npc": 4503,
     "skill_id": 5663
@@ -1298,5 +1373,270 @@
     "id": 344,
     "idunit_npc": 4503,
     "skill_id": 6808
+  },
+  {
+    "id": 348,
+    "idunit_npc": 4643,
+    "skill_id": 6811
+  },
+  {
+    "id": 349,
+    "idunit_npc": 4643,
+    "skill_id": 4638
+  },
+  {
+    "id": 350,
+    "idunit_npc": 4643,
+    "skill_id": 4639
+  },
+  {
+    "id": 351,
+    "idunit_npc": 4643,
+    "skill_id": 5626
+  },
+  {
+    "id": 352,
+    "idunit_npc": 4592,
+    "skill_id": 6809
+  },
+  {
+    "id": 353,
+    "idunit_npc": 4592,
+    "skill_id": 5668
+  },
+  {
+    "id": 354,
+    "idunit_npc": 4592,
+    "skill_id": 4649
+  },
+  {
+    "id": 355,
+    "idunit_npc": 4592,
+    "skill_id": 4650
+  },
+  {
+    "id": 356,
+    "idunit_npc": 4631,
+    "skill_id": 4649
+  },
+  {
+    "id": 357,
+    "idunit_npc": 4631,
+    "skill_id": 4650
+  },
+  {
+    "id": 358,
+    "idunit_npc": 4631,
+    "skill_id": 5668
+  },
+  {
+    "id": 359,
+    "idunit_npc": 4631,
+    "skill_id": 6809
+  },
+  {
+    "id": 360,
+    "idunit_npc": 4586,
+    "skill_id": 10159
+  },
+  {
+    "id": 361,
+    "idunit_npc": 4586,
+    "skill_id": 10160
+  },
+  {
+    "id": 362,
+    "idunit_npc": 4642,
+    "skill_id": 10159
+  },
+  {
+    "id": 363,
+    "idunit_npc": 4642,
+    "skill_id": 10160
+  },
+  {
+    "id": 364,
+    "idunit_npc": 4642,
+    "skill_id": 6811
+  },
+  {
+    "id": 365,
+    "idunit_npc": 4642,
+    "skill_id": 5621
+  },
+  {
+    "id": 366,
+    "idunit_npc": 4597,
+    "skill_id": 5718
+  },
+  {
+    "id": 367,
+    "idunit_npc": 4597,
+    "skill_id": 4663
+  },
+  {
+    "id": 368,
+    "idunit_npc": 4597,
+    "skill_id": 6808
+  },
+  {
+    "id": 370,
+    "idunit_npc": 4595,
+    "skill_id": 6811
+  },
+  {
+    "id": 371,
+    "idunit_npc": 4595,
+    "skill_id": 4636
+  },
+  {
+    "id": 372,
+    "idunit_npc": 4595,
+    "skill_id": 4637
+  },
+  {
+    "id": 373,
+    "idunit_npc": 4595,
+    "skill_id": 5626
+  },
+  {
+    "id": 374,
+    "idunit_npc": 4632,
+    "skill_id": 4643
+  },
+  {
+    "id": 375,
+    "idunit_npc": 4632,
+    "skill_id": 4644
+  },
+  {
+    "id": 376,
+    "idunit_npc": 4632,
+    "skill_id": 5713
+  },
+  {
+    "id": 377,
+    "idunit_npc": 4632,
+    "skill_id": 6809
+  },
+  {
+    "id": 378,
+    "idunit_npc": 4647,
+    "skill_id": 5652
+  },
+  {
+    "id": 379,
+    "idunit_npc": 4647,
+    "skill_id": 4652
+  },
+  {
+    "id": 380,
+    "idunit_npc": 4647,
+    "skill_id": 4653
+  },
+  {
+    "id": 381,
+    "idunit_npc": 4647,
+    "skill_id": 6811
+  },
+  {
+    "id": 382,
+    "idunit_npc": 4646,
+    "skill_id": 5745
+  },
+  {
+    "id": 383,
+    "idunit_npc": 4646,
+    "skill_id": 4642
+  },
+  {
+    "id": 384,
+    "idunit_npc": 4646,
+    "skill_id": 4880
+  },
+  {
+    "id": 385,
+    "idunit_npc": 4646,
+    "skill_id": 6816
+  },
+  {
+    "id": 386,
+    "idunit_npc": 4650,
+    "skill_id": 6815
+  },
+  {
+    "id": 387,
+    "idunit_npc": 4650,
+    "skill_id": 4641
+  },
+  {
+    "id": 388,
+    "idunit_npc": 4650,
+    "skill_id": 4888
+  },
+  {
+    "id": 389,
+    "idunit_npc": 4650,
+    "skill_id": 5626
+  },
+  {
+    "id": 390,
+    "idunit_npc": 4685,
+    "skill_id": 6815
+  },
+  {
+    "id": 391,
+    "idunit_npc": 4685,
+    "skill_id": 4641
+  },
+  {
+    "id": 392,
+    "idunit_npc": 4685,
+    "skill_id": 4888
+  },
+  {
+    "id": 393,
+    "idunit_npc": 4685,
+    "skill_id": 5626
+  },
+  {
+    "id": 394,
+    "idunit_npc": 4645,
+    "skill_id": 6807
+  },
+  {
+    "id": 395,
+    "idunit_npc": 4645,
+    "skill_id": 4636
+  },
+  {
+    "id": 396,
+    "idunit_npc": 4645,
+    "skill_id": 4637
+  },
+  {
+    "id": 397,
+    "idunit_npc": 4645,
+    "skill_id": 5626
+  },
+  {
+    "id": 398,
+    "idunit_npc": 4644,
+    "skill_id": 5621
+  },
+  {
+    "id": 399,
+    "idunit_npc": 4644,
+    "skill_id": 4642
+  },
+  {
+    "id": 400,
+    "idunit_npc": 4644,
+    "skill_id": 4880
+  },
+  {
+    "id": 401,
+    "idunit_npc": 4644,
+    "skill_id": 6815
   }
 ]

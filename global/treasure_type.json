@@ -30,7 +30,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 3,
@@ -63,7 +65,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 4,
@@ -96,7 +100,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 8,
@@ -129,7 +135,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 9,
@@ -162,7 +170,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 10,
@@ -195,7 +205,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 11,
@@ -228,7 +240,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 12,
@@ -261,7 +275,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 13,
@@ -294,7 +310,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 14,
@@ -327,7 +345,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 15,
@@ -360,7 +380,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 16,
@@ -393,7 +415,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 17,
@@ -426,7 +450,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 18,
@@ -459,7 +485,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 19,
@@ -492,7 +520,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 20,
@@ -525,7 +555,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 22,
@@ -558,7 +590,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 23,
@@ -591,7 +625,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 24,
@@ -624,7 +660,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 25,
@@ -657,7 +695,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 27,
@@ -690,7 +730,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 28,
@@ -723,7 +765,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 29,
@@ -756,7 +800,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 30,
@@ -789,7 +835,79 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 1,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 50,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "sandbox2_material",
+    "name": "Prequel Story General Material",
+    "editor_name": "前传线通用材料",
+    "desc": "",
+    "param0_name": "前传线材料",
+    "param0_type": "sandbox2_material",
+    "param1_name": "数量",
+    "param1_type": "int",
+    "param1_optional": false,
+    "is_online": false,
+    "is_actually_get": true,
+    "is_show_count": true,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 0,
+    "system_redirect_ids": "",
+    "warehouse_ids": "",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 2,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 51,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "sandbox2_accessory",
+    "name": "Prequel Story Personal Item",
+    "editor_name": "前传线随身物品",
+    "desc": "",
+    "param0_name": "前传线随身物品",
+    "param0_type": "sandbox2_accessory",
+    "param1_name": "",
+    "param1_type": "",
+    "param1_optional": false,
+    "is_online": false,
+    "is_actually_get": true,
+    "is_show_count": false,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 0,
+    "system_redirect_ids": "",
+    "warehouse_ids": "",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 2,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 52,
@@ -822,7 +940,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 2,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 53,
@@ -855,7 +975,114 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 2,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 54,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "sandbox2_custom_unit",
+    "name": "Prequel Story Customized Character",
+    "editor_name": "前传线定制角色",
+    "desc": "",
+    "param0_name": "前传线定制角色",
+    "param0_type": "sandbox2_custom_unit",
+    "param1_name": "",
+    "param1_type": "",
+    "param1_optional": false,
+    "is_online": false,
+    "is_actually_get": true,
+    "is_show_count": false,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 0,
+    "system_redirect_ids": "",
+    "warehouse_ids": "",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 2,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 55,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "sandbox2_treasure_chest",
+    "name": "Prequel Story Selection Chest",
+    "editor_name": "沙盒2自选宝箱",
+    "desc": "Gains a treasure. You can open it and select one reward.",
+    "param0_name": "自选宝箱",
+    "param0_type": "treasure_chest",
+    "param1_name": "",
+    "param1_type": "",
+    "param1_optional": false,
+    "is_online": false,
+    "is_actually_get": true,
+    "is_show_count": false,
+    "is_show_have": false,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": true,
+    "order_id": 0,
+    "bonus_sort_id": 2,
+    "system_redirect_ids": "",
+    "warehouse_ids": "0",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 2,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 56,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "sandbox2_treasure_random_chest",
+    "name": "Prequel Story Random Chest",
+    "editor_name": "沙盒2随机宝箱",
+    "desc": "",
+    "param0_name": "随机宝箱",
+    "param0_type": "treasure_random_chest",
+    "param1_name": "",
+    "param1_type": "",
+    "param1_optional": false,
+    "is_online": false,
+    "is_actually_get": true,
+    "is_show_count": false,
+    "is_show_have": false,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": true,
+    "order_id": 0,
+    "bonus_sort_id": 3,
+    "system_redirect_ids": "",
+    "warehouse_ids": "0",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 2,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 90,
@@ -888,7 +1115,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 100,
@@ -921,16 +1150,18 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 101,
     "m_system_redirects": [5000],
     "m_warehouses": [],
     "type": "cash",
-    "name": "Astral Gem",
+    "name": "Astral Gems",
     "editor_name": "付费钻石",
-    "desc": "The rarest currency of this Dimension. \n<style=brown>A peculiar power from a higher Dimension. </style>",
+    "desc": "The rarest currency in this dimension.\n\n<style=brown>A peculiar power from a higher dimension. </style>",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -954,7 +1185,9 @@
     "has_duration": false,
     "is_common": true,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   },
   {
     "id": 102,
@@ -963,7 +1196,7 @@
     "type": "diamond",
     "name": "Hope Luxite",
     "editor_name": "免费钻石",
-    "desc": "A rather rare currency of this Dimension. \n<style=brown>Hope manifested into a physical form.</style>",
+    "desc": "A rather rare currency in this dimension.\n\n<style=brown>Hope manifested into a physical form.</style>",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -987,7 +1220,9 @@
     "has_duration": false,
     "is_common": true,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   },
   {
     "id": 103,
@@ -996,7 +1231,7 @@
     "type": "online_money",
     "name": "Elysium Coin",
     "editor_name": "网游金币",
-    "desc": "The most common currency in this space.\n\n<style=brown>So, who issued it?</style>",
+    "desc": "The most common currency in this dimension.\n\n<style=brown>So, who issued it?</style>",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -1020,7 +1255,9 @@
     "has_duration": false,
     "is_common": true,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 104,
@@ -1053,7 +1290,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 3
   },
   {
     "id": 105,
@@ -1062,7 +1301,7 @@
     "type": "online_exp",
     "name": "Voyager Exp",
     "editor_name": "账号经验",
-    "desc": "Can be obtained by consuming Endurance and used to level up the Voyager.\n\n<style=brown>You came, you saw, and you grew.</style>",
+    "desc": "Obtained by consuming Endurance. Used to increase your Voyager level.\n\n<style=brown>You came, you saw, and you grew.</style>",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -1086,7 +1325,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 106,
@@ -1119,7 +1360,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 107,
@@ -1152,7 +1395,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 108,
@@ -1185,7 +1430,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 109,
@@ -1194,7 +1441,7 @@
     "type": "stamina_potion",
     "name": "Endurance Potion",
     "editor_name": "体力药",
-    "desc": "Restores 100 points of Endurance on use. \n\n<style=brown>A potion that provides the energy you need to continue forward.</style>",
+    "desc": "Restores 100 points of Endurance on use.\n\n<style=brown>A potion that provides the energy you need to continue forward.</style>",
     "param0_name": "体力药",
     "param0_type": "online_stamina_potion",
     "param1_name": "数量",
@@ -1218,7 +1465,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 110,
@@ -1251,7 +1500,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 111,
@@ -1284,7 +1535,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 112,
@@ -1293,7 +1546,7 @@
     "type": "online_unit_exp",
     "name": "Common Exp",
     "editor_name": "角色经验",
-    "desc": "It is concrete knowledge and can be used to level up characters.",
+    "desc": "The essence of knowledge that can be used to level up characters.",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -1317,7 +1570,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 113,
@@ -1350,7 +1605,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 114,
@@ -1383,7 +1640,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 3
   },
   {
     "id": 115,
@@ -1392,7 +1651,7 @@
     "type": "online_weapon_exp",
     "name": "Radiant Powder",
     "editor_name": "武器经验",
-    "desc": "It is an advance material for gear.",
+    "desc": "A material used to advance gear.",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -1416,7 +1675,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 116,
@@ -1449,7 +1710,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 117,
@@ -1482,7 +1745,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 118,
@@ -1515,7 +1780,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 119,
@@ -1548,7 +1815,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 120,
@@ -1581,7 +1850,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 121,
@@ -1614,7 +1885,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 122,
@@ -1647,7 +1920,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 123,
@@ -1680,7 +1955,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   },
   {
     "id": 124,
@@ -1713,7 +1990,9 @@
     "has_duration": true,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 125,
@@ -1746,7 +2025,9 @@
     "has_duration": true,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 126,
@@ -1779,7 +2060,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 127,
@@ -1812,7 +2095,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 129,
@@ -1845,7 +2130,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 130,
@@ -1878,7 +2165,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 133,
@@ -1911,7 +2200,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 134,
@@ -1920,7 +2211,7 @@
     "type": "online_tech_coin",
     "name": "Star Particles",
     "editor_name": "网游科技点数",
-    "desc": "It is a resource required for activating every talent.",
+    "desc": "A resource required to activate talents.",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -1944,7 +2235,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 135,
@@ -1977,7 +2270,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 136,
@@ -2010,7 +2305,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": true,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   },
   {
     "id": 137,
@@ -2043,7 +2340,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": true,
+    "category": 0
   },
   {
     "id": 138,
@@ -2052,7 +2351,7 @@
     "type": "online_arena_building_point",
     "name": "Merit",
     "editor_name": "网游竞技场资源点",
-    "desc": "It is a resource required for facility upgrade in the Clash.",
+    "desc": "A resource required for Clash facility upgrades.",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -2076,7 +2375,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 139,
@@ -2109,7 +2410,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 140,
@@ -2142,7 +2445,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 141,
@@ -2151,7 +2456,7 @@
     "type": "online_role_friendship_interact_crystal",
     "name": "Bond Charm",
     "editor_name": "网游角色羁绊补魔道具",
-    "desc": "Grants a character huge amount of Bond EXP.\n<style=brown>It's a sweet gesture for someone you care about.</style>",
+    "desc": "Grants a character a huge amount of Bond EXP.\n<style=brown>It's a sweet gesture for someone you care about.</style>",
     "param0_name": "",
     "param0_type": "",
     "param1_name": "数量",
@@ -2175,7 +2480,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 2
   },
   {
     "id": 142,
@@ -2196,8 +2503,8 @@
     "is_show_have": false,
     "is_unique": false,
     "is_usable": false,
-    "sparam_name": "",
-    "sparam_type": "",
+    "sparam_name": "固定开始时间",
+    "sparam_type": "int",
     "rarity": 1,
     "tag": 2,
     "is_chest": false,
@@ -2208,7 +2515,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 143,
@@ -2229,8 +2538,8 @@
     "is_show_have": false,
     "is_unique": false,
     "is_usable": false,
-    "sparam_name": "",
-    "sparam_type": "",
+    "sparam_name": "固定开始时间",
+    "sparam_type": "int",
     "rarity": 1,
     "tag": 2,
     "is_chest": false,
@@ -2241,7 +2550,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 144,
@@ -2262,8 +2573,8 @@
     "is_show_have": false,
     "is_unique": false,
     "is_usable": false,
-    "sparam_name": "",
-    "sparam_type": "",
+    "sparam_name": "固定开始时间",
+    "sparam_type": "int",
     "rarity": 1,
     "tag": 2,
     "is_chest": false,
@@ -2274,7 +2585,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 145,
@@ -2307,7 +2620,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 146,
@@ -2340,7 +2655,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": true,
+    "category": 0
   },
   {
     "id": 147,
@@ -2373,7 +2690,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 148,
@@ -2406,7 +2725,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 149,
@@ -2439,7 +2760,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   },
   {
     "id": 150,
@@ -2472,7 +2795,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 151,
@@ -2505,7 +2830,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 152,
@@ -2538,7 +2865,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 3
   },
   {
     "id": 153,
@@ -2571,7 +2900,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 154,
@@ -2604,7 +2935,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 155,
@@ -2637,7 +2970,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   },
   {
     "id": 156,
@@ -2670,7 +3005,9 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 157,
@@ -2703,19 +3040,21 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   },
   {
-    "id": 159,
+    "id": 158,
     "m_system_redirects": [],
     "m_warehouses": [],
-    "type": "online_jigsaw_group",
-    "name": "Heartscape Shard",
-    "editor_name": "拼图碎片",
-    "desc": "Piece Heartscape Shards together to receive rewards from the [Decoding Heartscape Vista] event.",
-    "param0_name": "拼图碎片组",
-    "param0_type": "online_jigsaw_group",
-    "param1_name": "数量",
+    "type": "online_player_buff",
+    "name": "Buffs for Online Game Players",
+    "editor_name": "网游玩家buff",
+    "desc": "",
+    "param0_name": "buffid",
+    "param0_type": "online_player_buff",
+    "param1_name": "天数",
     "param1_type": "int",
     "param1_optional": false,
     "is_online": true,
@@ -2736,7 +3075,44 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 159,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "online_jigsaw_group",
+    "name": "Heartscape Shard",
+    "editor_name": "拼图碎片组",
+    "desc": "Piece Heartscape Shards together to receive rewards from the [Decoding Heartscape Vista] event.",
+    "param0_name": "拼图碎片组",
+    "param0_type": "online_jigsaw_group",
+    "param1_name": "拼图随机数量",
+    "param1_type": "int",
+    "param1_optional": false,
+    "is_online": true,
+    "is_actually_get": true,
+    "is_show_count": true,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 0,
+    "system_redirect_ids": "",
+    "warehouse_ids": "",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
   },
   {
     "id": 160,
@@ -2746,8 +3122,8 @@
     "name": "Seed of Cornucopia",
     "editor_name": "战令经验",
     "desc": "Claim it to level up Cornucopia.",
-    "param0_name": "",
-    "param0_type": "",
+    "param0_name": "战令类型",
+    "param0_type": "online_battle_pass_type",
     "param1_name": "数量",
     "param1_type": "int",
     "param1_optional": false,
@@ -2769,6 +3145,218 @@
     "has_duration": false,
     "is_common": false,
     "show_system_redirect_in_resource_bar": false,
-    "sandbox_id": 0
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 161,
+    "m_system_redirects": [],
+    "m_warehouses": [1],
+    "type": "online_unit_skin",
+    "name": "Skin Dropping Item",
+    "editor_name": "皮肤掉落道具",
+    "desc": "",
+    "param0_name": "皮肤",
+    "param0_type": "unit_skin",
+    "param1_name": "",
+    "param1_type": "",
+    "param1_optional": false,
+    "is_online": true,
+    "is_actually_get": true,
+    "is_show_count": true,
+    "is_show_have": false,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 121,
+    "system_redirect_ids": "",
+    "warehouse_ids": "1",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 162,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "online_jigsaw_piece",
+    "name": "Heartscape Shard",
+    "editor_name": "拼图碎片",
+    "desc": "Piece Heartscape Shards together to receive rewards from the [Decoding Heartscape Vista] event.",
+    "param0_name": "拼图碎片",
+    "param0_type": "online_jigsaw_piece",
+    "param1_name": "",
+    "param1_type": "",
+    "param1_optional": false,
+    "is_online": true,
+    "is_actually_get": false,
+    "is_show_count": false,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 0,
+    "system_redirect_ids": "",
+    "warehouse_ids": "",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 0
+  },
+  {
+    "id": 163,
+    "m_system_redirects": [],
+    "m_warehouses": [1],
+    "type": "online_lottery_ticket",
+    "name": "Wish Coupon",
+    "editor_name": "许愿劵",
+    "desc": "Consume Wish Coupons to make wishes.\n\n<style=brown>A rainbow of wishes, condensed within.</style>",
+    "param0_name": "网游抽奖劵",
+    "param0_type": "online_lottery_ticket",
+    "param1_name": "数量",
+    "param1_type": "int",
+    "param1_optional": false,
+    "is_online": true,
+    "is_actually_get": true,
+    "is_show_count": true,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 4,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 120,
+    "system_redirect_ids": "0",
+    "warehouse_ids": "1",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 3
+  },
+  {
+    "id": 165,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "online_activity_challenge_point",
+    "name": "Challenge Token",
+    "editor_name": "活动挑战币",
+    "desc": "Resources obtained from participating in event challenges, can be exchanged for items in the Challenge Shop.",
+    "param0_name": "",
+    "param0_type": "",
+    "param1_name": "数量",
+    "param1_type": "int",
+    "param1_optional": false,
+    "is_online": true,
+    "is_actually_get": true,
+    "is_show_count": true,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 3,
+    "tag": 3,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 0,
+    "system_redirect_ids": "",
+    "warehouse_ids": "0",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
+  },
+  {
+    "id": 166,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "online_universal_material",
+    "name": "Primordial Powder",
+    "editor_name": "万能粉尘",
+    "desc": "Material used to upgrade Character Rank and for Gear Breakthroughs.\n\n<style=brown>A pure and ancient powder that manifests different powers based on the user's desires.</style>",
+    "param0_name": "网游粉尘",
+    "param0_type": "online_universal_material",
+    "param1_name": "数量",
+    "param1_type": "int",
+    "param1_optional": false,
+    "is_online": true,
+    "is_actually_get": true,
+    "is_show_count": true,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 4,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 250,
+    "system_redirect_ids": "0",
+    "warehouse_ids": "0",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": false,
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
+  },
+  {
+    "id": 167,
+    "m_system_redirects": [],
+    "m_warehouses": [],
+    "type": "online_special_currency",
+    "name": "Special Online Currency",
+    "editor_name": "网游特殊货币",
+    "desc": "",
+    "param0_name": "网游特殊货币",
+    "param0_type": "online_special_currency",
+    "param1_name": "数量",
+    "param1_type": "int",
+    "param1_optional": false,
+    "is_online": true,
+    "is_actually_get": true,
+    "is_show_count": true,
+    "is_show_have": true,
+    "is_unique": false,
+    "is_usable": false,
+    "sparam_name": "",
+    "sparam_type": "",
+    "rarity": 1,
+    "tag": 2,
+    "is_chest": false,
+    "order_id": 0,
+    "bonus_sort_id": 0,
+    "system_redirect_ids": "",
+    "warehouse_ids": "",
+    "has_duration": false,
+    "is_common": false,
+    "show_system_redirect_in_resource_bar": true,
+    "sandbox_id": 0,
+    "has_remind": false,
+    "category": 1
   }
 ]

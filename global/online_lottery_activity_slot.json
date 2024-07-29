@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "m_optional_treasures": [1, 2, 3, 4, 5, 6, 7, 8],
+    "idonline_lottery_activity": 0,
+    "is_end": true,
+    "min_draw_count": 0,
+    "optional_treasure_ids": "1|2|3|4|5|6|7|8",
+    "level": 1
+  },
+  {
+    "id": 2,
+    "m_optional_treasures": [9, 10, 11, 12, 13, 14, 15, 16],
+    "idonline_lottery_activity": 0,
+    "is_end": false,
+    "min_draw_count": 0,
+    "optional_treasure_ids": "9|10|11|12|13|14|15|16",
+    "level": 2
+  }
+]

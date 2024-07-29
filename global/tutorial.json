@@ -390,5 +390,13 @@
     "is_flexible": true,
     "next_id": 0,
     "order_id": 460
+  },
+  {
+    "id": 50,
+    "type": "Career",
+    "name": "0- 3 后解锁生涯引导",
+    "is_flexible": true,
+    "next_id": 0,
+    "order_id": 95
   }
 ]

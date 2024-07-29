@@ -33,5 +33,15 @@
     "id": 7,
     "type": "CG",
     "name": "CG演出"
+  },
+  {
+    "id": 8,
+    "type": "Talk",
+    "name": "对话演出"
+  },
+  {
+    "id": 9,
+    "type": "SuperTalk",
+    "name": "超级对话演出"
   }
 ]

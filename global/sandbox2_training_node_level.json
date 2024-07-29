@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "idsandbox2_training_node": 1,
+    "level": 1,
+    "require_point": 0,
+    "content_type_param0": 275,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 2,
+    "idsandbox2_training_node": 1,
+    "level": 2,
+    "require_point": 2,
+    "content_type_param0": 276,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 3,
+    "idsandbox2_training_node": 2,
+    "level": 1,
+    "require_point": 0,
+    "content_type_param0": 289,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 4,
+    "idsandbox2_training_node": 3,
+    "level": 1,
+    "require_point": 1,
+    "content_type_param0": 5,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 5,
+    "idsandbox2_training_node": 3,
+    "level": 2,
+    "require_point": 1,
+    "content_type_param0": 10,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 6,
+    "idsandbox2_training_node": 3,
+    "level": 3,
+    "require_point": 1,
+    "content_type_param0": 11,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 7,
+    "idsandbox2_training_node": 4,
+    "level": 1,
+    "require_point": 1,
+    "content_type_param0": 162,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 8,
+    "idsandbox2_training_node": 4,
+    "level": 2,
+    "require_point": 1,
+    "content_type_param0": 163,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 9,
+    "idsandbox2_training_node": 4,
+    "level": 3,
+    "require_point": 1,
+    "content_type_param0": 164,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 10,
+    "idsandbox2_training_node": 5,
+    "level": 1,
+    "require_point": 1,
+    "content_type_param0": 1,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 11,
+    "idsandbox2_training_node": 5,
+    "level": 2,
+    "require_point": 1,
+    "content_type_param0": 6,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 12,
+    "idsandbox2_training_node": 6,
+    "level": 1,
+    "require_point": 1,
+    "content_type_param0": 169,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 13,
+    "idsandbox2_training_node": 6,
+    "level": 2,
+    "require_point": 1,
+    "content_type_param0": 170,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 14,
+    "idsandbox2_training_node": 6,
+    "level": 3,
+    "require_point": 1,
+    "content_type_param0": 171,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 15,
+    "idsandbox2_training_node": 7,
+    "level": 1,
+    "require_point": 5,
+    "content_type_param0": 148,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 16,
+    "idsandbox2_training_node": 7,
+    "level": 2,
+    "require_point": 10,
+    "content_type_param0": 149,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 17,
+    "idsandbox2_training_node": 7,
+    "level": 3,
+    "require_point": 20,
+    "content_type_param0": 150,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 18,
+    "idsandbox2_training_node": 8,
+    "level": 1,
+    "require_point": 5,
+    "content_type_param0": 134,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 19,
+    "idsandbox2_training_node": 8,
+    "level": 2,
+    "require_point": 10,
+    "content_type_param0": 135,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  },
+  {
+    "id": 20,
+    "idsandbox2_training_node": 8,
+    "level": 3,
+    "require_point": 20,
+    "content_type_param0": 150,
+    "consume_type": 50,
+    "consume_param0": 5,
+    "consume_param1": 1,
+    "point": 1
+  }
+]

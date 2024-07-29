@@ -63,5 +63,25 @@
     "id": 12,
     "type": "CommerceGrading",
     "name": "Trading Post Rank"
+  },
+  {
+    "id": 13,
+    "type": "GiftMain",
+    "name": "Main Contents of the Pack"
+  },
+  {
+    "id": 14,
+    "type": "GiftExtra",
+    "name": "Additional Contents of the Pack (Gifted)"
+  },
+  {
+    "id": 15,
+    "type": "GiftCash",
+    "name": "Pack Free Diamond"
+  },
+  {
+    "id": 16,
+    "type": "GiftGachaTicket",
+    "name": "Pack Gacha Voucher"
   }
 ]

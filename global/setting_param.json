@@ -94,5 +94,21 @@
     "key": "mute_chat_guild",
     "client_modify": true,
     "allow_values": "0|1"
+  },
+  {
+    "id": 14,
+    "type": "OnlinePracticeAutoFormation",
+    "name": "网游代行自动上阵",
+    "key": "opaf",
+    "client_modify": true,
+    "allow_values": "0|1"
+  },
+  {
+    "id": 15,
+    "type": "HideUID",
+    "name": "隐藏主界面UID",
+    "key": "hide_UID",
+    "client_modify": true,
+    "allow_values": "0|1"
   }
 ]

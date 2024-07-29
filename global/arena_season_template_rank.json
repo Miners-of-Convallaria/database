@@ -898,5 +898,485 @@
     "treasure_param1": 0,
     "init_building_point": 2000,
     "reset_rank_score": 550
+  },
+  {
+    "id": 96,
+    "idarena_season_template": 20,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 97,
+    "idarena_season_template": 20,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 98,
+    "idarena_season_template": 20,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 99,
+    "idarena_season_template": 20,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 100,
+    "idarena_season_template": 20,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 918,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 101,
+    "idarena_season_template": 20,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 919,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
+  },
+  {
+    "id": 102,
+    "idarena_season_template": 21,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 103,
+    "idarena_season_template": 21,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 104,
+    "idarena_season_template": 21,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 105,
+    "idarena_season_template": 21,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 106,
+    "idarena_season_template": 21,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 1616,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 107,
+    "idarena_season_template": 21,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 1617,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
+  },
+  {
+    "id": 108,
+    "idarena_season_template": 22,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 109,
+    "idarena_season_template": 22,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 110,
+    "idarena_season_template": 22,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 111,
+    "idarena_season_template": 22,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 112,
+    "idarena_season_template": 22,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 1616,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 113,
+    "idarena_season_template": 22,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 1617,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
+  },
+  {
+    "id": 132,
+    "idarena_season_template": 26,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 133,
+    "idarena_season_template": 26,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 134,
+    "idarena_season_template": 26,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 135,
+    "idarena_season_template": 26,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 136,
+    "idarena_season_template": 26,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 1616,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 137,
+    "idarena_season_template": 26,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 1617,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
+  },
+  {
+    "id": 138,
+    "idarena_season_template": 27,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 139,
+    "idarena_season_template": 27,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 140,
+    "idarena_season_template": 27,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 141,
+    "idarena_season_template": 27,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 142,
+    "idarena_season_template": 27,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 1616,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 143,
+    "idarena_season_template": 27,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 1617,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
+  },
+  {
+    "id": 144,
+    "idarena_season_template": 28,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 145,
+    "idarena_season_template": 28,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 146,
+    "idarena_season_template": 28,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 147,
+    "idarena_season_template": 28,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 148,
+    "idarena_season_template": 28,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 1616,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 149,
+    "idarena_season_template": 28,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 1617,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
+  },
+  {
+    "id": 150,
+    "idarena_season_template": 29,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 151,
+    "idarena_season_template": 29,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 152,
+    "idarena_season_template": 29,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 153,
+    "idarena_season_template": 29,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 154,
+    "idarena_season_template": 29,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 1616,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 155,
+    "idarena_season_template": 29,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 1617,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
+  },
+  {
+    "id": 156,
+    "idarena_season_template": 30,
+    "rank_id": 1,
+    "treasure_type": 0,
+    "treasure_param0": 0,
+    "treasure_param1": 0,
+    "init_building_point": 0,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 157,
+    "idarena_season_template": 30,
+    "rank_id": 2,
+    "treasure_type": 122,
+    "treasure_param0": 915,
+    "treasure_param1": 0,
+    "init_building_point": 200,
+    "reset_rank_score": 100
+  },
+  {
+    "id": 158,
+    "idarena_season_template": 30,
+    "rank_id": 3,
+    "treasure_type": 122,
+    "treasure_param0": 916,
+    "treasure_param1": 0,
+    "init_building_point": 500,
+    "reset_rank_score": 150
+  },
+  {
+    "id": 159,
+    "idarena_season_template": 30,
+    "rank_id": 4,
+    "treasure_type": 122,
+    "treasure_param0": 917,
+    "treasure_param1": 0,
+    "init_building_point": 1000,
+    "reset_rank_score": 250
+  },
+  {
+    "id": 160,
+    "idarena_season_template": 30,
+    "rank_id": 5,
+    "treasure_type": 122,
+    "treasure_param0": 1616,
+    "treasure_param1": 0,
+    "init_building_point": 1500,
+    "reset_rank_score": 400
+  },
+  {
+    "id": 161,
+    "idarena_season_template": 30,
+    "rank_id": 6,
+    "treasure_type": 122,
+    "treasure_param0": 1617,
+    "treasure_param1": 0,
+    "init_building_point": 2000,
+    "reset_rank_score": 550
   }
 ]

@@ -1,128 +1,262 @@
 [
   {
     "id": 1,
-    "idonline_operation_activity": 1,
     "name": "宝剑",
+    "editor_name": "宝剑",
     "icon": "icon_spade",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 2,
-    "idonline_operation_activity": 1,
     "name": "权杖",
+    "editor_name": "权杖",
     "icon": "icon_meihua",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 3,
-    "idonline_operation_activity": 1,
     "name": "红心",
+    "editor_name": "红心",
     "icon": "icon_hearts",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 4,
-    "idonline_operation_activity": 1,
     "name": "宝石",
+    "editor_name": "宝石",
     "icon": "icon_squarepieces",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 6,
-    "idonline_operation_activity": 4,
     "name": "累计任务",
+    "editor_name": "累计任务",
     "icon": "",
     "target_quest_finish_count": 0,
     "point": 0,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 7,
-    "idonline_operation_activity": 5,
     "name": "累计任务",
+    "editor_name": "累计任务",
     "icon": "",
     "target_quest_finish_count": 0,
     "point": 0,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 8,
-    "idonline_operation_activity": 6,
     "name": "累计任务",
+    "editor_name": "累计任务",
     "icon": "",
     "target_quest_finish_count": 0,
     "point": 0,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 9,
-    "idonline_operation_activity": 6,
     "name": "每日任务",
+    "editor_name": "每日任务",
     "icon": "",
     "target_quest_finish_count": 0,
     "point": 0,
-    "refresh_quest": true
+    "refresh_quest": true,
+    "tag": 1
   },
   {
     "id": 10,
-    "idonline_operation_activity": 7,
     "name": "累计任务-不刷新",
+    "editor_name": "累计任务-不刷新",
     "icon": "",
     "target_quest_finish_count": 0,
     "point": 0,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 11,
-    "idonline_operation_activity": 41,
     "name": "帽子",
+    "editor_name": "帽子",
     "icon": "activityreturn_anthocyanins_icon01",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 12,
-    "idonline_operation_activity": 41,
     "name": "宝剑",
+    "editor_name": "宝剑",
     "icon": "activityreturn_anthocyanins_icon02",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 13,
-    "idonline_operation_activity": 41,
     "name": "盾牌",
+    "editor_name": "盾牌",
     "icon": "activityreturn_anthocyanins_icon03",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 14,
-    "idonline_operation_activity": 41,
     "name": "弓箭",
+    "editor_name": "弓箭",
     "icon": "activityreturn_anthocyanins_icon04",
     "target_quest_finish_count": 1,
     "point": 1,
-    "refresh_quest": false
+    "refresh_quest": false,
+    "tag": 1
   },
   {
     "id": 15,
-    "idonline_operation_activity": 47,
     "name": "公会建设-每日刷新",
+    "editor_name": "公会建设-每日刷新",
     "icon": "",
     "target_quest_finish_count": 5,
     "point": 1,
-    "refresh_quest": true
+    "refresh_quest": true,
+    "tag": 1
+  },
+  {
+    "id": 16,
+    "name": "拼图每日任务",
+    "editor_name": "拼图每日任务",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": true,
+    "tag": 1
+  },
+  {
+    "id": 17,
+    "name": "拼图分享",
+    "editor_name": "拼图分享",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 2
+  },
+  {
+    "id": 18,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_1",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 19,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_4",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 20,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_7",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 21,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_8",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 22,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_9",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 23,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_12",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 24,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_13",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 25,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_14",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 26,
+    "name": "2选1任务",
+    "editor_name": "主线推进-13章No_15",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 1
+  },
+  {
+    "id": 27,
+    "name": "拼图链接",
+    "editor_name": "拼图链接",
+    "icon": "",
+    "target_quest_finish_count": 0,
+    "point": 0,
+    "refresh_quest": false,
+    "tag": 3
   }
 ]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "防御者-领悟层级1",
+    "profession_category": 1,
+    "node_id": 1,
+    "level": 1,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 2,
+    "name": "防御者-领悟层级2",
+    "profession_category": 1,
+    "node_id": 2,
+    "level": 11,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 3,
+    "name": "防御者-领悟层级3",
+    "profession_category": 1,
+    "node_id": 3,
+    "level": 21,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 4,
+    "name": "防御者-领悟层级4",
+    "profession_category": 1,
+    "node_id": 4,
+    "level": 31,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 5,
+    "name": "防御者-领悟层级5",
+    "profession_category": 1,
+    "node_id": 5,
+    "level": 41,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 6,
+    "name": "防御者-领悟层级6",
+    "profession_category": 1,
+    "node_id": 6,
+    "level": 51,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 13,
+    "name": "突袭者-领悟层级1",
+    "profession_category": 2,
+    "node_id": 1,
+    "level": 2,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 14,
+    "name": "突袭者-领悟层级2",
+    "profession_category": 2,
+    "node_id": 2,
+    "level": 12,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 15,
+    "name": "突袭者-领悟层级3",
+    "profession_category": 2,
+    "node_id": 3,
+    "level": 22,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 16,
+    "name": "突袭者-领悟层级4",
+    "profession_category": 2,
+    "node_id": 4,
+    "level": 32,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 17,
+    "name": "突袭者-领悟层级5",
+    "profession_category": 2,
+    "node_id": 5,
+    "level": 42,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 18,
+    "name": "突袭者-领悟层级6",
+    "profession_category": 2,
+    "node_id": 6,
+    "level": 52,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 25,
+    "name": "毁灭者-领悟层级1",
+    "profession_category": 3,
+    "node_id": 1,
+    "level": 3,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 26,
+    "name": "毁灭者-领悟层级2",
+    "profession_category": 3,
+    "node_id": 2,
+    "level": 13,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 27,
+    "name": "毁灭者-领悟层级3",
+    "profession_category": 3,
+    "node_id": 3,
+    "level": 23,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 28,
+    "name": "毁灭者-领悟层级4",
+    "profession_category": 3,
+    "node_id": 4,
+    "level": 33,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 29,
+    "name": "毁灭者-领悟层级5",
+    "profession_category": 3,
+    "node_id": 5,
+    "level": 43,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 30,
+    "name": "毁灭者-领悟层级6",
+    "profession_category": 3,
+    "node_id": 6,
+    "level": 53,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 37,
+    "name": "粉碎者-领悟层级1",
+    "profession_category": 4,
+    "node_id": 1,
+    "level": 4,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 38,
+    "name": "粉碎者-领悟层级2",
+    "profession_category": 4,
+    "node_id": 2,
+    "level": 14,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 39,
+    "name": "粉碎者-领悟层级3",
+    "profession_category": 4,
+    "node_id": 3,
+    "level": 24,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 40,
+    "name": "粉碎者-领悟层级4",
+    "profession_category": 4,
+    "node_id": 4,
+    "level": 34,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 41,
+    "name": "粉碎者-领悟层级5",
+    "profession_category": 4,
+    "node_id": 5,
+    "level": 44,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 42,
+    "name": "粉碎者-领悟层级6",
+    "profession_category": 4,
+    "node_id": 6,
+    "level": 54,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 49,
+    "name": "守望者-领悟层级1",
+    "profession_category": 5,
+    "node_id": 1,
+    "level": 5,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 50,
+    "name": "守望者-领悟层级2",
+    "profession_category": 5,
+    "node_id": 2,
+    "level": 15,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 51,
+    "name": "守望者-领悟层级3",
+    "profession_category": 5,
+    "node_id": 3,
+    "level": 25,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 52,
+    "name": "守望者-领悟层级4",
+    "profession_category": 5,
+    "node_id": 4,
+    "level": 35,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 53,
+    "name": "守望者-领悟层级5",
+    "profession_category": 5,
+    "node_id": 5,
+    "level": 45,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  },
+  {
+    "id": 54,
+    "name": "守望者-领悟层级6",
+    "profession_category": 5,
+    "node_id": 6,
+    "level": 55,
+    "consume_treasure_type": 50,
+    "consume_treasure_param0": 1,
+    "consume_treasure_param1": 50
+  }
+]

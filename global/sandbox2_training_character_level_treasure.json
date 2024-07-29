@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "level": 10,
+    "treasure_type": 50,
+    "treasure_param0": 4,
+    "treasure_param1": 10
+  },
+  {
+    "id": 2,
+    "level": 30,
+    "treasure_type": 50,
+    "treasure_param0": 4,
+    "treasure_param1": 30
+  },
+  {
+    "id": 3,
+    "level": 60,
+    "treasure_type": 50,
+    "treasure_param0": 4,
+    "treasure_param1": 60
+  }
+]

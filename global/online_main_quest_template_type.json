@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "type": "Normal",
+    "name": "普通战斗",
+    "difficulty_tips": true,
+    "icon": "icon_fight",
+    "icon_special": "",
+    "fail_tip": true
+  },
+  {
+    "id": 2,
+    "type": "Elite",
+    "name": "主线精英",
+    "difficulty_tips": true,
+    "icon": "icon_chapter_elite",
+    "icon_special": "",
+    "fail_tip": true
+  },
+  {
+    "id": 3,
+    "type": "Boss",
+    "name": "主线Boss",
+    "difficulty_tips": true,
+    "icon": "icon_chapter_boss",
+    "icon_special": "",
+    "fail_tip": true
+  },
+  {
+    "id": 4,
+    "type": "NormalSide",
+    "name": "支线战斗",
+    "difficulty_tips": true,
+    "icon": "icon_fight",
+    "icon_special": "",
+    "fail_tip": true
+  },
+  {
+    "id": 5,
+    "type": "Bonus",
+    "name": "宝箱奖励",
+    "difficulty_tips": false,
+    "icon": "icon_reward",
+    "icon_special": "icon_rewardget",
+    "fail_tip": false
+  },
+  {
+    "id": 6,
+    "type": "Teaching",
+    "name": "教学",
+    "difficulty_tips": false,
+    "icon": "icon_teaching",
+    "icon_special": "",
+    "fail_tip": false
+  },
+  {
+    "id": 7,
+    "type": "ScenarioBattle",
+    "name": "剧情战斗",
+    "difficulty_tips": false,
+    "icon": "icon_fight",
+    "icon_special": "",
+    "fail_tip": false
+  },
+  {
+    "id": 8,
+    "type": "Secret",
+    "name": "谜之声",
+    "difficulty_tips": false,
+    "icon": "icon_through",
+    "icon_special": "",
+    "fail_tip": false
+  },
+  {
+    "id": 9,
+    "type": "NormalSideBoss",
+    "name": "支线Boss",
+    "difficulty_tips": true,
+    "icon": "icon_chapter_boss",
+    "icon_special": "",
+    "fail_tip": true
+  },
+  {
+    "id": 10,
+    "type": "Scenario",
+    "name": "演出",
+    "difficulty_tips": false,
+    "icon": "icon_play",
+    "icon_special": "",
+    "fail_tip": false
+  },
+  {
+    "id": 11,
+    "type": "Puzzle",
+    "name": "解密",
+    "difficulty_tips": false,
+    "icon": "icon_decrypt",
+    "icon_special": "",
+    "fail_tip": false
+  },
+  {
+    "id": 12,
+    "type": "Challenge",
+    "name": "挑战",
+    "difficulty_tips": false,
+    "icon": "",
+    "icon_special": "",
+    "fail_tip": false
+  }
+]

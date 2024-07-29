@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "活动-武器本",
+    "desc": "",
+    "battle_type": 4,
+    "sub_type": 4,
+    "use_battle_server": true
+  },
+  {
+    "id": 2,
+    "name": "活动-护石本",
+    "desc": "",
+    "battle_type": 4,
+    "sub_type": 8,
+    "use_battle_server": true
+  },
+  {
+    "id": 3,
+    "name": "PVE竞技场",
+    "desc": "",
+    "battle_type": 5,
+    "sub_type": 0,
+    "use_battle_server": true
+  },
+  {
+    "id": 4,
+    "name": "爬塔",
+    "desc": "",
+    "battle_type": 7,
+    "sub_type": 0,
+    "use_battle_server": true
+  },
+  {
+    "id": 5,
+    "name": "逆塔-浅层",
+    "desc": "",
+    "battle_type": 13,
+    "sub_type": 0,
+    "use_battle_server": true
+  },
+  {
+    "id": 6,
+    "name": "逆塔-深层",
+    "desc": "",
+    "battle_type": 14,
+    "sub_type": 0,
+    "use_battle_server": true
+  }
+]

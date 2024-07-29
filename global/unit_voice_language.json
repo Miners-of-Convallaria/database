@@ -21,13 +21,13 @@
     "id": 5,
     "idunit": 312,
     "voice_lang": 1,
-    "cv_actor": "Lin Su"
+    "cv_actor": "Ling Su"
   },
   {
     "id": 6,
     "idunit": 284,
     "voice_lang": 1,
-    "cv_actor": "Chen Yang"
+    "cv_actor": "Cheng Yang"
   },
   {
     "id": 7,
@@ -51,7 +51,7 @@
     "id": 11,
     "idunit": 283,
     "voice_lang": 1,
-    "cv_actor": "Gui Niang"
+    "cv_actor": "Du Qingqing"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "id": 20,
     "idunit": 350,
     "voice_lang": 1,
-    "cv_actor": "Qin Ziyi"
+    "cv_actor": "Qing Ziyi"
   },
   {
     "id": 21,
@@ -231,7 +231,7 @@
     "id": 42,
     "idunit": 440,
     "voice_lang": 1,
-    "cv_actor": "Liu Jingxia"
+    "cv_actor": "Liu jingxia"
   },
   {
     "id": 43,
@@ -454,5 +454,53 @@
     "idunit": 495,
     "voice_lang": 2,
     "cv_actor": "Shiraishi Ryoko"
+  },
+  {
+    "id": 80,
+    "idunit": 512,
+    "voice_lang": 1,
+    "cv_actor": ""
+  },
+  {
+    "id": 81,
+    "idunit": 512,
+    "voice_lang": 2,
+    "cv_actor": ""
+  },
+  {
+    "id": 82,
+    "idunit": 538,
+    "voice_lang": 1,
+    "cv_actor": "Da Wang"
+  },
+  {
+    "id": 83,
+    "idunit": 538,
+    "voice_lang": 2,
+    "cv_actor": "Kaida Yuuko"
+  },
+  {
+    "id": 87,
+    "idunit": 532,
+    "voice_lang": 1,
+    "cv_actor": ""
+  },
+  {
+    "id": 88,
+    "idunit": 532,
+    "voice_lang": 2,
+    "cv_actor": ""
+  },
+  {
+    "id": 89,
+    "idunit": 528,
+    "voice_lang": 1,
+    "cv_actor": ""
+  },
+  {
+    "id": 90,
+    "idunit": 528,
+    "voice_lang": 2,
+    "cv_actor": ""
   }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 46001,
+    "idnew_sandbox_event": 46,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 46002,
+    "idnew_sandbox_event": 46,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  },
+  {
+    "id": 168001,
+    "idnew_sandbox_event": 168,
+    "option_id": 1,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 1
+  },
+  {
+    "id": 168002,
+    "idnew_sandbox_event": 168,
+    "option_id": 2,
+    "group_id": 0,
+    "text": "",
+    "consume_ids": "",
+    "is_selectable": true,
+    "result_id": 2
+  }
+]

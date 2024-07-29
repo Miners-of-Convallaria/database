@@ -13,7 +13,8 @@
     "is_unique": false,
     "is_battle_pass": false,
     "is_battle_pass_platinum": false,
-    "system_redirect_ids": ""
+    "system_redirect_ids": "",
+    "battle_pass_type": 0
   },
   {
     "id": 2,
@@ -29,15 +30,16 @@
     "is_unique": true,
     "is_battle_pass": true,
     "is_battle_pass_platinum": false,
-    "system_redirect_ids": ""
+    "system_redirect_ids": "",
+    "battle_pass_type": 1
   },
   {
     "id": 3,
     "m_system_redirects": [],
     "m_online_monthly_card_specialitys": [4],
-    "name": "Cornucopia Praise",
+    "name": "Cornucopia's Hymn",
     "editor_name": "高级战令月卡",
-    "desc": "Cornucopia Praise",
+    "desc": "Cornucopia's Hymn",
     "icon": "",
     "rarity": 1,
     "duration": 0,
@@ -45,6 +47,24 @@
     "is_unique": true,
     "is_battle_pass": true,
     "is_battle_pass_platinum": true,
-    "system_redirect_ids": ""
+    "system_redirect_ids": "",
+    "battle_pass_type": 1
+  },
+  {
+    "id": 4,
+    "m_system_redirects": [],
+    "m_online_monthly_card_specialitys": [9],
+    "name": "Col's Promise",
+    "editor_name": "科尔战令月卡",
+    "desc": "Col's Promise",
+    "icon": "",
+    "rarity": 1,
+    "duration": 0,
+    "max_duration": 0,
+    "is_unique": true,
+    "is_battle_pass": true,
+    "is_battle_pass_platinum": false,
+    "system_redirect_ids": "",
+    "battle_pass_type": 2
   }
 ]

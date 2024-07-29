@@ -320,5 +320,26 @@
     "scenario_id": 2918,
     "scenario_type": 4,
     "scenario_index": 0
+  },
+  {
+    "id": 2017,
+    "idonline_main_quest_template": 1680,
+    "scenario_id": 3048,
+    "scenario_type": 4,
+    "scenario_index": 0
+  },
+  {
+    "id": 2019,
+    "idonline_main_quest_template": 1656,
+    "scenario_id": 3043,
+    "scenario_type": 4,
+    "scenario_index": 0
+  },
+  {
+    "id": 2020,
+    "idonline_main_quest_template": 1657,
+    "scenario_id": 3045,
+    "scenario_type": 4,
+    "scenario_index": 0
   }
 ]

@@ -56,7 +56,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_mainlevel",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyDockView"
+    "view_name": "GameLobbyDockView",
+    "system_id": 0
   },
   {
     "id": 20,
@@ -115,7 +116,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_enterchapter",
     "ui_name": "QuestUI",
-    "view_name": "QuestView"
+    "view_name": "QuestView",
+    "system_id": 0
   },
   {
     "id": 30,
@@ -174,7 +176,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_C0_level01",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 40,
@@ -233,7 +236,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_C0_level01",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 50,
@@ -292,7 +296,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_enter_C0_level01",
     "ui_name": "QuestUI",
-    "view_name": "StageViewNew"
+    "view_name": "StageViewNew",
+    "system_id": 0
   },
   {
     "id": 60,
@@ -351,7 +356,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_gacha01",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 70,
@@ -410,7 +416,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_gacha02",
     "ui_name": "GachaUI",
-    "view_name": "GachaView"
+    "view_name": "GachaView",
+    "system_id": 0
   },
   {
     "id": 80,
@@ -469,7 +476,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GachaUI",
-    "view_name": "GachaView"
+    "view_name": "GachaView",
+    "system_id": 0
   },
   {
     "id": 90,
@@ -528,7 +536,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "FormationView"
+    "view_name": "FormationView",
+    "system_id": 0
   },
   {
     "id": 100,
@@ -587,7 +596,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 110,
@@ -646,7 +656,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineResultUI",
-    "view_name": "ResultSuccessView"
+    "view_name": "ResultSuccessView",
+    "system_id": 0
   },
   {
     "id": 120,
@@ -705,7 +716,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 130,
@@ -764,7 +776,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameLobbyUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 140,
@@ -823,7 +836,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 150,
@@ -882,7 +896,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "WeaponEquipView"
+    "view_name": "WeaponEquipView",
+    "system_id": 0
   },
   {
     "id": 160,
@@ -941,7 +956,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineResultUI",
-    "view_name": "ResultSuccessView"
+    "view_name": "ResultSuccessView",
+    "system_id": 0
   },
   {
     "id": 170,
@@ -1000,7 +1016,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 180,
@@ -1059,7 +1076,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineResultUI",
-    "view_name": "ResultSuccessView"
+    "view_name": "ResultSuccessView",
+    "system_id": 0
   },
   {
     "id": 190,
@@ -1118,7 +1136,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameLobbyUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 200,
@@ -1177,7 +1196,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameLobbyUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 210,
@@ -1236,7 +1256,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameLobbyUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 220,
@@ -1295,7 +1316,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameLobbyUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 230,
@@ -1354,7 +1376,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "WeaponEquipView"
+    "view_name": "WeaponEquipView",
+    "system_id": 0
   },
   {
     "id": 240,
@@ -1413,7 +1436,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_sb01",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 250,
@@ -1472,7 +1496,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_sb02",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyDockView"
+    "view_name": "GameLobbyDockView",
+    "system_id": 0
   },
   {
     "id": 260,
@@ -1531,7 +1556,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_sb03",
     "ui_name": "SandboxEntryUI",
-    "view_name": "SandboxEntryView"
+    "view_name": "SandboxEntryView",
+    "system_id": 0
   },
   {
     "id": 270,
@@ -1590,7 +1616,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_sb04",
     "ui_name": "SandboxEntryUI",
-    "view_name": "SandboxEntryView"
+    "view_name": "SandboxEntryView",
+    "system_id": 0
   },
   {
     "id": 280,
@@ -1616,7 +1643,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 285,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -1649,7 +1676,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action01_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 285,
@@ -1675,7 +1703,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 280,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -1708,7 +1736,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action01_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 290,
@@ -1767,7 +1796,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action01_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 300,
@@ -1793,7 +1823,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 305,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -1826,7 +1856,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action02_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 305,
@@ -1852,7 +1883,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 300,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -1885,7 +1916,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action02_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 310,
@@ -1944,7 +1976,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action02_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 320,
@@ -1970,7 +2003,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 325,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2003,7 +2036,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action03_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 325,
@@ -2029,7 +2063,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 320,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2062,7 +2096,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action03_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 330,
@@ -2088,7 +2123,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 325,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2121,7 +2156,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action03_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 335,
@@ -2147,7 +2183,7 @@
     "scale": "0.65|0.65",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 320,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2180,7 +2216,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action03_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 340,
@@ -2239,7 +2276,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sb0_lv01_action03_step03",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 350,
@@ -2265,7 +2303,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 355,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2298,7 +2336,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv02_action01_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 355,
@@ -2324,7 +2363,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 350,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2357,7 +2396,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv02_action01_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 360,
@@ -2416,7 +2456,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv02_action01_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 370,
@@ -2442,7 +2483,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 375,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2475,7 +2516,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv03_action02_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 375,
@@ -2501,7 +2543,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 370,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2534,7 +2576,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv03_action02_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 380,
@@ -2560,7 +2603,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 375,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2593,7 +2636,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv03_action02_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 385,
@@ -2619,7 +2663,7 @@
     "scale": "0.65|0.65",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 370,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2652,7 +2696,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv03_action02_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 390,
@@ -2678,7 +2723,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 395,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2711,7 +2756,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv03_action02_step03",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 395,
@@ -2737,7 +2783,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 390,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2770,7 +2816,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv03_action02_step03",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 400,
@@ -2829,7 +2876,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Sblv03_action02_step04",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 410,
@@ -2855,7 +2903,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 413,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2888,7 +2936,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "C0_Lv01_action01_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 413,
@@ -2914,7 +2963,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 410,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -2947,7 +2996,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 415,
@@ -2973,7 +3023,7 @@
     "scale": "0.65|0.65",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 410,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -3006,7 +3056,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "C0_Lv01_action01_step01",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 420,
@@ -3032,7 +3083,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 425,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -3065,7 +3116,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "C0_Lv01_action01_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 425,
@@ -3091,7 +3143,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 420,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -3124,7 +3176,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "C0_Lv01_action01_step02",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 430,
@@ -3183,7 +3236,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "C0_Lv01_action01_step03",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 440,
@@ -3242,7 +3296,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 450,
@@ -3301,7 +3356,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 460,
@@ -3360,7 +3416,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 465,
@@ -3419,7 +3476,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 470,
@@ -3478,7 +3536,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 480,
@@ -3537,7 +3596,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 490,
@@ -3596,7 +3656,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitLevelUpView"
+    "view_name": "UnitLevelUpView",
+    "system_id": 0
   },
   {
     "id": 500,
@@ -3655,7 +3716,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 505,
@@ -3714,7 +3776,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 510,
@@ -3773,7 +3836,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 520,
@@ -3832,7 +3896,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 530,
@@ -3891,7 +3956,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "WeaponEquipmentView"
+    "view_name": "WeaponEquipmentView",
+    "system_id": 0
   },
   {
     "id": 540,
@@ -3950,7 +4016,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 545,
@@ -4009,7 +4076,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 550,
@@ -4068,7 +4136,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 560,
@@ -4127,7 +4196,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 569,
@@ -4186,7 +4256,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitUpgradeRankView"
+    "view_name": "UnitUpgradeRankView",
+    "system_id": 0
   },
   {
     "id": 570,
@@ -4245,7 +4316,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitUpgradeRankView"
+    "view_name": "UnitUpgradeRankView",
+    "system_id": 0
   },
   {
     "id": 580,
@@ -4304,7 +4376,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 590,
@@ -4363,7 +4436,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyDockView"
+    "view_name": "GameLobbyDockView",
+    "system_id": 0
   },
   {
     "id": 600,
@@ -4422,7 +4496,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityView"
+    "view_name": "ActivityView",
+    "system_id": 0
   },
   {
     "id": 610,
@@ -4481,7 +4556,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 615,
@@ -4540,7 +4616,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 620,
@@ -4599,7 +4676,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 630,
@@ -4658,7 +4736,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 639,
@@ -4717,7 +4796,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitUpgradeStarView"
+    "view_name": "UnitUpgradeStarView",
+    "system_id": 0
   },
   {
     "id": 640,
@@ -4776,7 +4856,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitUpgradeStarView"
+    "view_name": "UnitUpgradeStarView",
+    "system_id": 0
   },
   {
     "id": 650,
@@ -4835,7 +4916,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 655,
@@ -4894,7 +4976,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 660,
@@ -4953,7 +5036,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 670,
@@ -5012,7 +5096,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 680,
@@ -5071,7 +5156,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "WeaponEquipmentView"
+    "view_name": "WeaponEquipmentView",
+    "system_id": 0
   },
   {
     "id": 689,
@@ -5130,7 +5216,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityExpListView"
+    "view_name": "ActivityExpListView",
+    "system_id": 0
   },
   {
     "id": 690,
@@ -5189,7 +5276,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityExpListView"
+    "view_name": "ActivityExpListView",
+    "system_id": 0
   },
   {
     "id": 700,
@@ -5248,7 +5336,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 705,
@@ -5307,7 +5396,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 710,
@@ -5366,7 +5456,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 720,
@@ -5425,7 +5516,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 730,
@@ -5484,7 +5576,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "WeaponEquipmentView"
+    "view_name": "WeaponEquipmentView",
+    "system_id": 0
   },
   {
     "id": 739,
@@ -5543,7 +5636,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityForgeListView"
+    "view_name": "ActivityForgeListView",
+    "system_id": 0
   },
   {
     "id": 740,
@@ -5602,7 +5696,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityForgeListView"
+    "view_name": "ActivityForgeListView",
+    "system_id": 0
   },
   {
     "id": 750,
@@ -5661,7 +5756,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 752,
@@ -5720,7 +5816,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 754,
@@ -5779,7 +5876,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 760,
@@ -5838,7 +5936,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineTechUI",
-    "view_name": "TechView"
+    "view_name": "TechView",
+    "system_id": 0
   },
   {
     "id": 762,
@@ -5897,7 +5996,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineTechUI",
-    "view_name": "TechUpgradeView"
+    "view_name": "TechUpgradeView",
+    "system_id": 0
   },
   {
     "id": 764,
@@ -5956,7 +6056,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineTechUI",
-    "view_name": "TechUpgradeNodeInfoView"
+    "view_name": "TechUpgradeNodeInfoView",
+    "system_id": 0
   },
   {
     "id": 770,
@@ -6015,7 +6116,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineTechUI",
-    "view_name": "TechUpgradeNodeInfoView"
+    "view_name": "TechUpgradeNodeInfoView",
+    "system_id": 0
   },
   {
     "id": 779,
@@ -6074,7 +6176,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityUnitPieceListView"
+    "view_name": "ActivityUnitPieceListView",
+    "system_id": 0
   },
   {
     "id": 780,
@@ -6133,7 +6236,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityUnitPieceListView"
+    "view_name": "ActivityUnitPieceListView",
+    "system_id": 0
   },
   {
     "id": 790,
@@ -6192,7 +6296,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 794,
@@ -6251,7 +6356,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ArenaUI",
-    "view_name": "ArenaView"
+    "view_name": "ArenaView",
+    "system_id": 0
   },
   {
     "id": 795,
@@ -6310,7 +6416,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ArenaUI",
-    "view_name": "ArenaView"
+    "view_name": "ArenaView",
+    "system_id": 0
   },
   {
     "id": 799,
@@ -6369,7 +6476,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityTechListView"
+    "view_name": "ActivityTechListView",
+    "system_id": 0
   },
   {
     "id": 800,
@@ -6428,7 +6536,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityTechListView"
+    "view_name": "ActivityTechListView",
+    "system_id": 0
   },
   {
     "id": 809,
@@ -6487,7 +6596,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityWeaponListView"
+    "view_name": "ActivityWeaponListView",
+    "system_id": 0
   },
   {
     "id": 810,
@@ -6546,7 +6656,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityWeaponListView"
+    "view_name": "ActivityWeaponListView",
+    "system_id": 0
   },
   {
     "id": 820,
@@ -6605,7 +6716,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 825,
@@ -6664,7 +6776,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 830,
@@ -6723,7 +6836,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 840,
@@ -6782,7 +6896,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 849,
@@ -6841,7 +6956,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "CharmBagView"
+    "view_name": "CharmBagView",
+    "system_id": 0
   },
   {
     "id": 850,
@@ -6900,7 +7016,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "CharmBagView"
+    "view_name": "CharmBagView",
+    "system_id": 0
   },
   {
     "id": 860,
@@ -6959,7 +7076,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 869,
@@ -7018,7 +7136,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityCharmListView"
+    "view_name": "ActivityCharmListView",
+    "system_id": 0
   },
   {
     "id": 870,
@@ -7077,7 +7196,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ActivityUI",
-    "view_name": "ActivityCharmListView"
+    "view_name": "ActivityCharmListView",
+    "system_id": 0
   },
   {
     "id": 880,
@@ -7136,7 +7256,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 890,
@@ -7195,7 +7316,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "ElysiumView"
+    "view_name": "ElysiumView",
+    "system_id": 0
   },
   {
     "id": 892,
@@ -7254,7 +7376,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SandboxCollectUI",
-    "view_name": "CollectionBookView"
+    "view_name": "CollectionBookView",
+    "system_id": 0
   },
   {
     "id": 894,
@@ -7313,7 +7436,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "TranscriptUI",
-    "view_name": "TranscriptView"
+    "view_name": "TranscriptView",
+    "system_id": 0
   },
   {
     "id": 900,
@@ -7372,7 +7496,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 910,
@@ -7431,7 +7556,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 915,
@@ -7490,7 +7616,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 920,
@@ -7549,7 +7676,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 925,
@@ -7608,7 +7736,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 930,
@@ -7667,7 +7796,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 935,
@@ -7726,7 +7856,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 940,
@@ -7785,7 +7916,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 950,
@@ -7844,7 +7976,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 960,
@@ -7903,7 +8036,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitBrowseView"
+    "view_name": "UnitBrowseView",
+    "system_id": 0
   },
   {
     "id": 970,
@@ -7962,7 +8096,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "UnitInfoView"
+    "view_name": "UnitInfoView",
+    "system_id": 0
   },
   {
     "id": 990,
@@ -8021,7 +8156,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "OnlineUnitUI",
-    "view_name": "WeaponEquipmentView"
+    "view_name": "WeaponEquipmentView",
+    "system_id": 0
   },
   {
     "id": 999,
@@ -8080,7 +8216,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "TowerUI",
-    "view_name": "TowerView"
+    "view_name": "TowerView",
+    "system_id": 0
   },
   {
     "id": 1000,
@@ -8139,7 +8276,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "TowerUI",
-    "view_name": "TowerView"
+    "view_name": "TowerView",
+    "system_id": 0
   },
   {
     "id": 1010,
@@ -8198,7 +8336,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "ChapterViewNew"
+    "view_name": "ChapterViewNew",
+    "system_id": 0
   },
   {
     "id": 1020,
@@ -8257,7 +8396,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "QuestUI",
-    "view_name": "StageViewNew"
+    "view_name": "StageViewNew",
+    "system_id": 0
   },
   {
     "id": 1030,
@@ -8316,7 +8456,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "ElysiumView"
+    "view_name": "ElysiumView",
+    "system_id": 0
   },
   {
     "id": 1040,
@@ -8375,7 +8516,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "ElysiumPlacementView"
+    "view_name": "ElysiumPlacementView",
+    "system_id": 0
   },
   {
     "id": 1050,
@@ -8401,7 +8543,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 1052,
     "pointer_type": 3,
     "trigger_type": 1,
     "condition_func": "",
@@ -8434,7 +8576,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "FormationView"
+    "view_name": "FormationView",
+    "system_id": 0
   },
   {
     "id": 1052,
@@ -8460,7 +8603,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 1050,
     "pointer_type": 2,
     "trigger_type": 1,
     "condition_func": "",
@@ -8493,7 +8636,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "FormationView"
+    "view_name": "FormationView",
+    "system_id": 0
   },
   {
     "id": 1053,
@@ -8512,14 +8656,14 @@
     "posX": 0,
     "posY": 0,
     "offsetX": 0,
-    "offsetY": -120,
+    "offsetY": 0,
     "rotation": 0,
     "width": 0,
     "height": 0,
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 1050,
     "pointer_type": 1,
     "trigger_type": 1,
     "condition_func": "",
@@ -8537,9 +8681,9 @@
     "operation_type_param0": "PreWarUI(Clone)/Base/Units/AvatarList/Viewport/Content/template/unitItem_82",
     "operation_type_param1_name": "以界面对象为中心点的范围",
     "operation_type_param1": "256",
-    "operation_func": "",
-    "operation_func_param0_name": "",
-    "operation_func_param0": "",
+    "operation_func": "GamepadUnitIn",
+    "operation_func_param0_name": "角色ID",
+    "operation_func_param0": "82",
     "operation_func_param1_name": "",
     "operation_func_param1": "",
     "wait_func": "SetProcessEndHandler",
@@ -8552,7 +8696,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "FormationView"
+    "view_name": "FormationView",
+    "system_id": 0
   },
   {
     "id": 1055,
@@ -8578,7 +8723,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 1056,
     "pointer_type": 2,
     "trigger_type": 1,
     "condition_func": "",
@@ -8611,7 +8756,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "FormationView"
+    "view_name": "FormationView",
+    "system_id": 0
   },
   {
     "id": 1056,
@@ -8637,7 +8783,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 1055,
     "pointer_type": 2,
     "trigger_type": 1,
     "condition_func": "",
@@ -8670,7 +8816,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "FormationView"
+    "view_name": "FormationView",
+    "system_id": 0
   },
   {
     "id": 1060,
@@ -8729,7 +8876,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1070,
@@ -8788,7 +8936,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1080,
@@ -8814,7 +8963,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 1070,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -8847,7 +8996,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1085,
@@ -8873,7 +9023,7 @@
     "scale": "0.65|0.65",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 1070,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -8906,7 +9056,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1090,
@@ -8932,7 +9083,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 1095,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -8965,7 +9116,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1095,
@@ -8991,7 +9143,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 1090,
     "pointer_type": 1,
     "trigger_type": 2,
     "condition_func": "",
@@ -9024,7 +9176,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1100,
@@ -9083,7 +9236,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1110,
@@ -9142,7 +9296,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1120,
@@ -9168,7 +9323,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 1125,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -9201,7 +9356,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1125,
@@ -9227,7 +9383,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 1120,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -9260,7 +9416,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1130,
@@ -9286,7 +9443,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 5,
-    "control_switch_id": 0,
+    "control_switch_id": 1135,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -9319,7 +9476,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1135,
@@ -9345,7 +9503,7 @@
     "scale": "",
     "anchor": 5,
     "control_type": 4,
-    "control_switch_id": 0,
+    "control_switch_id": 1130,
     "pointer_type": 2,
     "trigger_type": 2,
     "condition_func": "CheckUnitInAction",
@@ -9378,7 +9536,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1140,
@@ -9437,7 +9596,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1145,
@@ -9496,7 +9656,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BattleUI",
-    "view_name": "BattleView"
+    "view_name": "BattleView",
+    "system_id": 0
   },
   {
     "id": 1150,
@@ -9555,7 +9716,248 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "RoleFriendshipUI",
-    "view_name": "RoleFriendshipBrowseView"
+    "view_name": "RoleFriendshipBrowseView",
+    "system_id": 0
+  },
+  {
+    "id": 1210,
+    "idtutorial": 50,
+    "name": "点击生涯旅程按钮（152）",
+    "desc": "1-2 后解锁生涯引导第1步",
+    "is_online": true,
+    "enabled": true,
+    "force_update": true,
+    "order_id": 10,
+    "depend_id": 0,
+    "mission_id": 0,
+    "chapter_0_finished": false,
+    "main_quest_progress": 202,
+    "game_count": 0,
+    "posX": 0,
+    "posY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "width": 0,
+    "height": 0,
+    "scale": "",
+    "anchor": 5,
+    "control_type": 3,
+    "control_switch_id": 0,
+    "pointer_type": 1,
+    "trigger_type": 1,
+    "condition_func": "",
+    "condition_func_param0_name": "",
+    "condition_func_param0": "",
+    "condition_func_param1_name": "",
+    "condition_func_param1": "",
+    "trigger_func": "HideDock",
+    "trigger_func_param0_name": "",
+    "trigger_func_param0": "",
+    "trigger_func_param1_name": "",
+    "trigger_func_param1": "",
+    "operation_type": 1,
+    "operation_type_param0_name": "界面对象路径",
+    "operation_type_param0": "GameLobbyUI/ActivityList/OperationActivityList/Career",
+    "operation_type_param1_name": "",
+    "operation_type_param1": "",
+    "operation_func": "",
+    "operation_func_param0_name": "",
+    "operation_func_param0": "",
+    "operation_func_param1_name": "",
+    "operation_func_param1": "",
+    "wait_func": "SetUnlockTimelinePlayEndAction",
+    "wait_time": 0,
+    "wait_mask": true,
+    "text_type": 1,
+    "text_ids": "1041",
+    "text_pos_x": 0,
+    "text_pos_y": 0,
+    "mark_param0_name": "引导埋点参数",
+    "mark_param0": "",
+    "ui_name": "ElysiumUI",
+    "view_name": "GameLobbyView",
+    "system_id": 114
+  },
+  {
+    "id": 1211,
+    "idtutorial": 50,
+    "name": "点击生涯旅程按钮（152）(主机版)",
+    "desc": "1-2 后解锁生涯引导第1步",
+    "is_online": true,
+    "enabled": true,
+    "force_update": true,
+    "order_id": 11,
+    "depend_id": 0,
+    "mission_id": 0,
+    "chapter_0_finished": false,
+    "main_quest_progress": 202,
+    "game_count": 0,
+    "posX": 0,
+    "posY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "width": 0,
+    "height": 0,
+    "scale": "",
+    "anchor": 5,
+    "control_type": 2,
+    "control_switch_id": 0,
+    "pointer_type": 1,
+    "trigger_type": 1,
+    "condition_func": "",
+    "condition_func_param0_name": "",
+    "condition_func_param0": "",
+    "condition_func_param1_name": "",
+    "condition_func_param1": "",
+    "trigger_func": "HideDock",
+    "trigger_func_param0_name": "",
+    "trigger_func_param0": "",
+    "trigger_func_param1_name": "",
+    "trigger_func_param1": "",
+    "operation_type": 1,
+    "operation_type_param0_name": "界面对象路径",
+    "operation_type_param0": "GameLobbyUI_PC/ActivityList/OperationActivityList/Career",
+    "operation_type_param1_name": "",
+    "operation_type_param1": "",
+    "operation_func": "",
+    "operation_func_param0_name": "",
+    "operation_func_param0": "",
+    "operation_func_param1_name": "",
+    "operation_func_param1": "",
+    "wait_func": "SetUnlockTimelinePlayEndAction",
+    "wait_time": 0,
+    "wait_mask": true,
+    "text_type": 1,
+    "text_ids": "1041",
+    "text_pos_x": 0,
+    "text_pos_y": 0,
+    "mark_param0_name": "引导埋点参数",
+    "mark_param0": "",
+    "ui_name": "ElysiumUI",
+    "view_name": "GameLobbyView",
+    "system_id": 114
+  },
+  {
+    "id": 1220,
+    "idtutorial": 50,
+    "name": "集结铃兰小队界面（153）",
+    "desc": "1-2 后解锁生涯引导第2步",
+    "is_online": true,
+    "enabled": false,
+    "force_update": false,
+    "order_id": 20,
+    "depend_id": 0,
+    "mission_id": 0,
+    "chapter_0_finished": false,
+    "main_quest_progress": 202,
+    "game_count": 0,
+    "posX": 0,
+    "posY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "width": 0,
+    "height": 0,
+    "scale": "",
+    "anchor": 5,
+    "control_type": 1,
+    "control_switch_id": 0,
+    "pointer_type": 1,
+    "trigger_type": 1,
+    "condition_func": "",
+    "condition_func_param0_name": "",
+    "condition_func_param0": "",
+    "condition_func_param1_name": "",
+    "condition_func_param1": "",
+    "trigger_func": "",
+    "trigger_func_param0_name": "",
+    "trigger_func_param0": "",
+    "trigger_func_param1_name": "",
+    "trigger_func_param1": "",
+    "operation_type": 1,
+    "operation_type_param0_name": "界面对象路径",
+    "operation_type_param0": "PopupCareerRewardShowView/btnClose/button",
+    "operation_type_param1_name": "",
+    "operation_type_param1": "",
+    "operation_func": "",
+    "operation_func_param0_name": "",
+    "operation_func_param0": "",
+    "operation_func_param1_name": "",
+    "operation_func_param1": "",
+    "wait_func": "",
+    "wait_time": 0,
+    "wait_mask": true,
+    "text_type": 1,
+    "text_ids": "1051",
+    "text_pos_x": 0,
+    "text_pos_y": 0,
+    "mark_param0_name": "引导埋点参数",
+    "mark_param0": "",
+    "ui_name": "CareerUI",
+    "view_name": "CareerView",
+    "system_id": 114
+  },
+  {
+    "id": 1230,
+    "idtutorial": 50,
+    "name": "介绍任务面板和点击领取按钮（154~156）",
+    "desc": "1-2 后解锁生涯引导第3步",
+    "is_online": true,
+    "enabled": false,
+    "force_update": true,
+    "order_id": 30,
+    "depend_id": 0,
+    "mission_id": 0,
+    "chapter_0_finished": false,
+    "main_quest_progress": 202,
+    "game_count": 0,
+    "posX": 0,
+    "posY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "rotation": 0,
+    "width": 0,
+    "height": 0,
+    "scale": "",
+    "anchor": 5,
+    "control_type": 1,
+    "control_switch_id": 0,
+    "pointer_type": 1,
+    "trigger_type": 1,
+    "condition_func": "",
+    "condition_func_param0_name": "",
+    "condition_func_param0": "",
+    "condition_func_param1_name": "",
+    "condition_func_param1": "",
+    "trigger_func": "",
+    "trigger_func_param0_name": "",
+    "trigger_func_param0": "",
+    "trigger_func_param1_name": "",
+    "trigger_func_param1": "",
+    "operation_type": 1,
+    "operation_type_param0_name": "界面对象路径",
+    "operation_type_param0": "UICareerView/Career/TaskList/List/Viewport/Content/tmpMaterialPanel/UItmpMaterialWdg(Clone)/Right/btnGet",
+    "operation_type_param1_name": "",
+    "operation_type_param1": "",
+    "operation_func": "",
+    "operation_func_param0_name": "",
+    "operation_func_param0": "",
+    "operation_func_param1_name": "",
+    "operation_func_param1": "",
+    "wait_func": "",
+    "wait_time": 0,
+    "wait_mask": true,
+    "text_type": 1,
+    "text_ids": "1061|1062|1063",
+    "text_pos_x": 0,
+    "text_pos_y": 0,
+    "mark_param0_name": "引导埋点参数",
+    "mark_param0": "",
+    "ui_name": "CareerUI",
+    "view_name": "CareerView",
+    "system_id": 114
   },
   {
     "id": 2010,
@@ -9614,7 +10016,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "WorldMapUI",
-    "view_name": "Game.WorldMapView"
+    "view_name": "Game.WorldMapView",
+    "system_id": 0
   },
   {
     "id": 2020,
@@ -9673,7 +10076,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameInfoUI",
-    "view_name": "Game.GameInfoView"
+    "view_name": "Game.GameInfoView",
+    "system_id": 0
   },
   {
     "id": 2030,
@@ -9732,7 +10136,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ForgeUI",
-    "view_name": "Game.ForgeView"
+    "view_name": "Game.ForgeView",
+    "system_id": 0
   },
   {
     "id": 2040,
@@ -9791,7 +10196,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "HospitalUI",
-    "view_name": "Game.HospitalView"
+    "view_name": "Game.HospitalView",
+    "system_id": 0
   },
   {
     "id": 2050,
@@ -9850,7 +10256,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "TavernUI",
-    "view_name": "Game.TavernRecruitView"
+    "view_name": "Game.TavernRecruitView",
+    "system_id": 0
   },
   {
     "id": 2060,
@@ -9909,7 +10316,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "TrainingUI",
-    "view_name": "Game.TrainingView"
+    "view_name": "Game.TrainingView",
+    "system_id": 0
   },
   {
     "id": 2070,
@@ -9968,7 +10376,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "WorkshopUI",
-    "view_name": "Game.WorkshopQuestView"
+    "view_name": "Game.WorkshopQuestView",
+    "system_id": 0
   },
   {
     "id": 2080,
@@ -10027,7 +10436,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "BlessingUI",
-    "view_name": "Game.BlessingView"
+    "view_name": "Game.BlessingView",
+    "system_id": 0
   },
   {
     "id": 2090,
@@ -10086,7 +10496,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameInfoUI",
-    "view_name": "Game.GameInfoView"
+    "view_name": "Game.GameInfoView",
+    "system_id": 0
   },
   {
     "id": 2100,
@@ -10145,7 +10556,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "GameInfoUI",
-    "view_name": "Game.GameInfoView"
+    "view_name": "Game.GameInfoView",
+    "system_id": 0
   },
   {
     "id": 10001,
@@ -10204,7 +10616,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 10002,
@@ -10263,7 +10676,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 10003,
@@ -10322,7 +10736,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 10004,
@@ -10381,7 +10796,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 10005,
@@ -10440,7 +10856,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 10006,
@@ -10499,7 +10916,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 10007,
@@ -10558,7 +10976,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 10008,
@@ -10617,7 +11036,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 20240,
@@ -10676,7 +11096,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "Tutorial_sb01",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 20465,
@@ -10735,7 +11156,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 20505,
@@ -10794,7 +11216,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 20580,
@@ -10853,7 +11276,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 20615,
@@ -10912,7 +11336,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 20655,
@@ -10971,7 +11396,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 20705,
@@ -11030,7 +11456,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 20752,
@@ -11089,7 +11516,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 20754,
@@ -11148,7 +11576,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 20825,
@@ -11207,7 +11636,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 20950,
@@ -11266,7 +11696,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "SystemNavigationUI",
-    "view_name": "SystemNavigationView"
+    "view_name": "SystemNavigationView",
+    "system_id": 0
   },
   {
     "id": 30001,
@@ -11325,7 +11756,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 30002,
@@ -11384,7 +11816,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 30003,
@@ -11443,7 +11876,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 30004,
@@ -11502,7 +11936,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 30005,
@@ -11561,7 +11996,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 30006,
@@ -11620,7 +12056,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 30007,
@@ -11679,7 +12116,8 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   },
   {
     "id": 30008,
@@ -11738,6 +12176,7 @@
     "mark_param0_name": "引导埋点参数",
     "mark_param0": "",
     "ui_name": "ElysiumUI",
-    "view_name": "GameLobbyView"
+    "view_name": "GameLobbyView",
+    "system_id": 0
   }
 ]

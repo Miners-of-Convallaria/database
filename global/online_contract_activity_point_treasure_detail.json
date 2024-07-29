@@ -350,6 +350,16 @@
     "is_big": false
   },
   {
+    "id": 136,
+    "idonline_contract_activity_point_treasure": 1,
+    "name": "测试1",
+    "target_point": 1000,
+    "treasure_type": 122,
+    "treasure_param0": 940,
+    "treasure_param1": 0,
+    "is_big": false
+  },
+  {
     "id": 201,
     "idonline_contract_activity_point_treasure": 3,
     "name": "累计讨伐点数达到1000",

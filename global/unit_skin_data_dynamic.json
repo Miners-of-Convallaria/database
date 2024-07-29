@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "skin_card_hplayerlittlewitchfset02",
+    "scale_min": 1,
+    "scale_max": 2,
+    "move_x_left": 0,
+    "move_x_right": 0,
+    "move_y_top": 0,
+    "move_y_bottom": 0,
+    "bgm_skin_get": "Play_Mus_Scenario_Happiness",
+    "bgm_skin_show": "Play_Mus_Scenario_Happiness",
+    "idtext": 24144,
+    "showtext_start": 5000,
+    "showtext_end": 8000,
+    "voice": "play_vo_sys_bela_getskin01",
+    "voice_delay": 3500
+  }
+]

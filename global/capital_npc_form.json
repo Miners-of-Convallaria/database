@@ -227,7 +227,7 @@
   {
     "id": 31,
     "idcapital_npc": 31,
-    "name": "Vlder Archer",
+    "name": "Vlderian Archer",
     "editor_name": "薇尔德弓箭手",
     "unit_model_id": 32,
     "palette": "vilderArcherF_palette",
@@ -1793,7 +1793,7 @@
   {
     "id": 265,
     "idcapital_npc": 220,
-    "name": "Vlder archer for performances",
+    "name": "Vlderian archer for performances",
     "editor_name": "演出用薇尔德弓箭手",
     "unit_model_id": 32,
     "palette": "vilderArcherF_palette",
@@ -1802,7 +1802,7 @@
   {
     "id": 266,
     "idcapital_npc": 221,
-    "name": "Vlder archer for secondary dialogues",
+    "name": "Vlderian archer for secondary dialogues",
     "editor_name": "次级对话用薇尔弓箭手",
     "unit_model_id": 32,
     "palette": "vilderArcherF_palette",
@@ -2054,7 +2054,7 @@
   {
     "id": 297,
     "idcapital_npc": 249,
-    "name": "Cardinal Caris",
+    "name": "Bishop Caris",
     "editor_name": "枢机主教卡莉丝",
     "unit_model_id": 195,
     "palette": "HpapalBishopFset01_palette",
@@ -2540,7 +2540,7 @@
   {
     "id": 356,
     "idcapital_npc": 302,
-    "name": "SP Sophia (for performance)",
+    "name": "SP Safiyyah (for performance)",
     "editor_name": "演出用SP索菲娅",
     "unit_model_id": 236,
     "palette": "",
@@ -2648,7 +2648,7 @@
   {
     "id": 368,
     "idcapital_npc": 314,
-    "name": "SP Sophia (for secondary dialogue)",
+    "name": "SP Safiyyah (for secondary dialogue)",
     "editor_name": "次级对话用SP索菲娅",
     "unit_model_id": 236,
     "palette": "",
@@ -2750,6 +2750,24 @@
     "name": "Blind Maiden Hasna (for secondary dialogue)",
     "editor_name": "次级对话用盲女哈斯娜",
     "unit_model_id": 216,
+    "palette": "",
+    "is_default": 1
+  },
+  {
+    "id": 380,
+    "idcapital_npc": 326,
+    "name": "Ol' Leatherope for Performance (NPC39)",
+    "editor_name": "演出用老皮绳（NPC39)",
+    "unit_model_id": 238,
+    "palette": "",
+    "is_default": 1
+  },
+  {
+    "id": 381,
+    "idcapital_npc": 327,
+    "name": "Ol' Leatherope for Secondary Dialogue (NPC39)",
+    "editor_name": "次级对话用老皮绳（NPC39)",
+    "unit_model_id": 238,
     "palette": "",
     "is_default": 1
   }

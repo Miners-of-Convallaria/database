@@ -302,7 +302,7 @@
   {
     "id": 30,
     "m_sandbox_effect_effects": [67],
-    "name": "Power of Guardianship",
+    "name": "Power of Guardian",
     "editor_name": "守护之力",
     "icon": "buff_global_001",
     "desc": "Get global gain: In the battle, all characters Max HP + 10%",
@@ -425,7 +425,7 @@
     "name": "Omen of the Death",
     "editor_name": "周目养成-死神",
     "icon": "buff_global_001",
-    "desc": "Inflicts 2 radom [Level 2 Debuffs] on the target for 2 round DMG is dealt with [Ranged]. When you have 5 or more [Debuffs], grants yourself [<sprite=3>Move 1] for <style=green>1</style> round.",
+    "desc": "Inflicts 2 radom [Level 2 Debuffs] on the target for 2 round DMG is dealt with [Ranged]. When you have 5 or more [debuffs], grants yourself [<sprite=3>Move 1] for <style=green>1</style> round.",
     "duration": 60,
     "is_buff": true,
     "rarity": 1,

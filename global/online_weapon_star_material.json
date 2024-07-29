@@ -2,21 +2,25 @@
   {
     "id": 1,
     "m_system_redirects": [1009],
+    "m_online_weapons": [],
     "name": "Epic Light-quenching Solvent",
     "desc": "Epic gear, and universal star level up material.",
     "rarity": 3,
     "star": 1,
     "system_redirect_ids": "1009",
-    "icon": "weapon_star_material_sr"
+    "icon": "weapon_star_material_sr",
+    "online_weapon_ids": ""
   },
   {
     "id": 2,
     "m_system_redirects": [1009],
+    "m_online_weapons": [],
     "name": "Legendary Light-quenching Solvent",
     "desc": "Legendary gear, and universal star level up material.",
     "rarity": 4,
     "star": 1,
     "system_redirect_ids": "1009",
-    "icon": "weapon_star_material_ssr"
+    "icon": "weapon_star_material_ssr",
+    "online_weapon_ids": ""
   }
 ]

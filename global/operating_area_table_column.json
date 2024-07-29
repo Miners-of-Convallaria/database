@@ -27,7 +27,7 @@
   {
     "id": 6,
     "table_name": "online_operation_activity",
-    "col_names": "time_type|start_at|end_at|open_at"
+    "col_names": "open_at"
   },
   {
     "id": 7,
@@ -98,5 +98,50 @@
     "id": 20,
     "table_name": "online_guild_build_activity",
     "col_names": "start_at|play_end_at|end_at"
+  },
+  {
+    "id": 21,
+    "table_name": "sandbox",
+    "col_names": "open_at"
+  },
+  {
+    "id": 22,
+    "table_name": "system_function",
+    "col_names": "open_at"
+  },
+  {
+    "id": 23,
+    "table_name": "online_lottery_activity",
+    "col_names": "start_at|end_at"
+  },
+  {
+    "id": 24,
+    "table_name": "unit_skin",
+    "col_names": "open_at"
+  },
+  {
+    "id": 26,
+    "table_name": "online_head_portrait",
+    "col_names": "display_at"
+  },
+  {
+    "id": 27,
+    "table_name": "online_head_portrait_bg",
+    "col_names": "display_at"
+  },
+  {
+    "id": 28,
+    "table_name": "online_head_portrait_frame",
+    "col_names": "display_at"
+  },
+  {
+    "id": 29,
+    "table_name": "online_battle_pass_type",
+    "col_names": "open_at"
+  },
+  {
+    "id": 30,
+    "table_name": "unit_tag",
+    "col_names": "open_at"
   }
 ]

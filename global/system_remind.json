@@ -288,14 +288,14 @@
   },
   {
     "id": 44,
-    "idsystem": 0,
+    "idsystem": 81,
     "type": "OnlineContractActivityQuest",
     "name": "合约活动任务",
     "custom_data": false
   },
   {
     "id": 45,
-    "idsystem": 0,
+    "idsystem": 85,
     "type": "OnlineUnlockActivity",
     "name": "解锁活动",
     "custom_data": false
@@ -389,6 +389,55 @@
     "idsystem": 57,
     "type": "OnlineOperationActivityNew",
     "name": "网游运营活动新",
+    "custom_data": false
+  },
+  {
+    "id": 61,
+    "idsystem": 102,
+    "type": "Sandbox2Clue",
+    "name": "前传线线索墙",
+    "custom_data": false
+  },
+  {
+    "id": 63,
+    "idsystem": 0,
+    "type": "OnlineTreasure",
+    "name": "网游道具",
+    "custom_data": false
+  },
+  {
+    "id": 64,
+    "idsystem": 34,
+    "type": "OnlineGachaNew",
+    "name": "网游抽卡",
+    "custom_data": false
+  },
+  {
+    "id": 65,
+    "idsystem": 34,
+    "type": "OnlineGachaNoSelect",
+    "name": "网游抽卡自选卡池未选择(最后一天)",
+    "custom_data": false
+  },
+  {
+    "id": 66,
+    "idsystem": 114,
+    "type": "OnlineCareer",
+    "name": "网游生涯引导",
+    "custom_data": false
+  },
+  {
+    "id": 68,
+    "idsystem": 33,
+    "type": "OnlineShopRefresh",
+    "name": "网游商店库存刷新",
+    "custom_data": false
+  },
+  {
+    "id": 69,
+    "idsystem": 33,
+    "type": "OnlineShopItemNew",
+    "name": "网游商店新商品",
     "custom_data": false
   }
 ]

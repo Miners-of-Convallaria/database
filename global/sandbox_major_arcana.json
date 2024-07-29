@@ -35,7 +35,7 @@
     "name": "Strength",
     "editor_name": "塔罗牌-力量",
     "icon": "major_arcana_08",
-    "desc": "Grants[<sprite=2>Crit IV] when there are no other allies around.",
+    "desc": "Grants [<sprite=2>Crit IV] when there are no other allies around.",
     "sandbox_speciality_ids": "20001",
     "weight": 1
   },

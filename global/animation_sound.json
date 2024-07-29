@@ -40750,5 +40750,635 @@
     "sound_id": 6392,
     "sound_delay": 0,
     "idunit_model": 0
+  },
+  {
+    "id": 4952,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "idle",
+    "sound_id": 6606,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4953,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "injured",
+    "sound_id": 6607,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4954,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "injured2",
+    "sound_id": 6608,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4955,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "dodge",
+    "sound_id": 6609,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4956,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "throw",
+    "sound_id": 6610,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4957,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "Exskill",
+    "sound_id": 6611,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4958,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "Exskill2",
+    "sound_id": 6612,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4959,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack",
+    "sound_id": 6613,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4960,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack2",
+    "sound_id": 6614,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4961,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack3",
+    "sound_id": 6615,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4962,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack4",
+    "sound_id": 6616,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4963,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack5",
+    "sound_id": 6617,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4964,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime1",
+    "sound_id": 6617,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4965,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime2",
+    "sound_id": 6618,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4966,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "crouch",
+    "sound_id": 6619,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4967,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "jumpUp",
+    "sound_id": 6620,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4968,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "cheer",
+    "sound_id": 6621,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4969,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "cast",
+    "sound_id": 6622,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4970,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime4",
+    "sound_id": 6623,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4971,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime5",
+    "sound_id": 6624,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4972,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "die",
+    "sound_id": 6622,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4973,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "die2",
+    "sound_id": 6622,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4974,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "injuredloop",
+    "sound_id": 6607,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4975,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "injured2loop",
+    "sound_id": 6607,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4976,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "throwStart",
+    "sound_id": 6625,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4977,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "throwEnd",
+    "sound_id": 6626,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4978,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "throwHold",
+    "sound_id": 6627,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4979,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attackStart",
+    "sound_id": 6628,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4980,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attackEnd",
+    "sound_id": 6629,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4981,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attackHold",
+    "sound_id": 6630,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4982,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack2Start",
+    "sound_id": 6631,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4983,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack2End",
+    "sound_id": 6632,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4984,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack2Hold",
+    "sound_id": 6633,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4985,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack3Start",
+    "sound_id": 6634,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4986,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack3End",
+    "sound_id": 6635,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4987,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack3Hold",
+    "sound_id": 6636,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4988,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack4Hold",
+    "sound_id": 6616,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4989,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack5Start",
+    "sound_id": 6617,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4990,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack5End",
+    "sound_id": 6617,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4991,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "attack5Hold",
+    "sound_id": 6617,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4992,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime1Start",
+    "sound_id": 6637,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4993,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime1End",
+    "sound_id": 6638,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4994,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime1Hold",
+    "sound_id": 6639,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4995,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "anime2Hold",
+    "sound_id": 6640,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 4996,
+    "name": "",
+    "model": "hcrimsonhousemaidkillerfset01",
+    "anim": "ExskillHold",
+    "sound_id": 6641,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5535,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "idle",
+    "sound_id": 7288,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5536,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "injured2",
+    "sound_id": 7289,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5537,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "dodge",
+    "sound_id": 7290,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5538,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "Exskill",
+    "sound_id": 7291,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5539,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "Exskill2",
+    "sound_id": 7292,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5540,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "Exskill3",
+    "sound_id": 7293,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5541,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack",
+    "sound_id": 7294,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5542,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack2",
+    "sound_id": 7295,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5543,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "anime1",
+    "sound_id": 7296,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5544,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "crouch",
+    "sound_id": 7297,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5545,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "jumpUp",
+    "sound_id": 7298,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5546,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "cheer",
+    "sound_id": 7299,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5547,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "cast",
+    "sound_id": 7300,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5548,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "die2",
+    "sound_id": 7301,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5549,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attackStart",
+    "sound_id": 7302,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5550,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack1Hold",
+    "sound_id": 7303,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5551,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attackHold",
+    "sound_id": 7304,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5552,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attackEnd",
+    "sound_id": 7305,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5553,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack2Start",
+    "sound_id": 7306,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5554,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack2End",
+    "sound_id": 7307,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5555,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack2Hold",
+    "sound_id": 7308,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5556,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack3Start",
+    "sound_id": 7309,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5557,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack3End",
+    "sound_id": 7310,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5558,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "attack3Hold",
+    "sound_id": 7311,
+    "sound_delay": 0,
+    "idunit_model": 0
+  },
+  {
+    "id": 5559,
+    "name": "",
+    "model": "hbanditthemaskmset02",
+    "anim": "Exskill2Hold",
+    "sound_id": 7312,
+    "sound_delay": 0,
+    "idunit_model": 0
   }
 ]

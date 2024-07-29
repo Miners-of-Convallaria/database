@@ -16,7 +16,7 @@
     "m_system_redirects": [],
     "name": "Stored Endurance (Time-limited)",
     "editor_name": "体力药(限时14天)",
-    "desc": "After you use it, restore 100 points of Endurance, while it has a usage period. \nIt will expire <style=red>at the end of the Sunday in the second week</style> after the acquisition. Please use it within the validity period.",
+    "desc": "After using it, restores 100 points of Endurance. \nIt will expire <style=red>at the end of the Sunday of the following week </style> after acquisition. Please use it before it expires!",
     "rarity": 3,
     "stamina": 100,
     "system_redirect_ids": "14",

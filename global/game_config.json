@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "Online",
+    "name": "网游",
+    "sandbox_id": 0
+  },
+  {
+    "id": 2,
+    "type": "Sandbox1",
+    "name": "沙盒1",
+    "sandbox_id": 1
+  },
+  {
+    "id": 3,
+    "type": "Sandbox2",
+    "name": "前传线",
+    "sandbox_id": 2
+  }
+]

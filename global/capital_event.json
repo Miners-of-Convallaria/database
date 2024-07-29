@@ -3946,5 +3946,453 @@
     "data": "\b�\u0005 \u0001\u0012N指定&随机112-黑道商人（NPC26）【ID：166】（埃拉曼线限定）*\u000e\u0018\u0007\b�\u0001\u0010�\u0001\"\u0004wait\u0018\u00012\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
     "name": "指定&随机112-黑道商人（NPC26）【ID：166】（埃拉曼线限定）",
     "desc": ""
+  },
+  {
+    "id": 729,
+    "idcapital": 3,
+    "data": " \u0004\b�\u0005\u0018\u0012\u0012!金盛测试用指令气泡事件2\u0010\u0012\n\u0015\u0000\u0000\u0000@\r\u0000\u0000@@\b\u000b \u0000",
+    "name": "金盛测试用指令气泡事件",
+    "desc": ""
+  },
+  {
+    "id": 734,
+    "idcapital": 3,
+    "data": " \u0002\b�\u0005*\u000e(\u0002\b\u0016\u0010\u0016\"\u0004wait\u0018'\u0018\r\u0012*前传线：攻击帕米娜C（日）-I0012�\u0001\u0012\n\u0015\u0000\u0000@@\r\u0000\u0000@@\b\u0016\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":22,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"彻查王国军！彻查帕米娜！\"} \u0000",
+    "name": "前传线：攻击帕米娜C（日）-I001",
+    "desc": ""
+  },
+  {
+    "id": 735,
+    "idcapital": 3,
+    "data": " \u0002\b�\u0005*\f\bi\u0010r\"\u0004wait\u0018L\u0018\u0015\u0012'前传线：沆瀣一气B（日）-I0192�\u0001\u0012\n\u0015\u0000\u0000@@\r\u0000\u0000@@\bi\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"伊利亚的贵族，还有没被骑士同盟渗透的吗？！\"} \u0000",
+    "name": "前传线：沆瀣一气B（日）-I019",
+    "desc": ""
+  },
+  {
+    "id": 736,
+    "idcapital": 3,
+    "data": " \u0001\b�\u0005*\f\b\n\u0010\n\"\u0004wait\u0018 \u0018\u0012\u0012\u001c金盛测试用指令事件22\u0010\u0012\n\u0015\u0000\u0000\u0000@\r\u0000\u0000@@\b\n \u0001",
+    "name": "金盛测试用指令事件2",
+    "desc": ""
+  },
+  {
+    "id": 737,
+    "idcapital": 3,
+    "data": " \u0001\b�\u0005*\f\b\r\u0010\r\"\u0004wait\u0018!\u0018\u0012\u0012\u001b金盛测试用指令事件2\u000e\u0012\n\u0015\u0000\u0000�?\r\u0000\u0000�? \u0000",
+    "name": "金盛测试用指令事件",
+    "desc": ""
+  },
+  {
+    "id": 738,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012<指定角色01-演出用机动部队弩兵考尔【ID:363】*\u000e\u0018/\b�\u0002\u0010�\u0002\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色01-演出用机动部队弩兵考尔【ID:363】",
+    "desc": ""
+  },
+  {
+    "id": 739,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012A指定角色02-演出用伊利亚长枪兵玛利克【ID：365】*\u000e\u0018/\b�\u0002\u0010�\u0002\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色02-演出用伊利亚长枪兵玛利克【ID：365】",
+    "desc": ""
+  },
+  {
+    "id": 740,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012>指定角色03-演出用机动部队光法希孜【ID：364】*\u000e\u0018/\b�\u0002\u0010�\u0002\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色03-演出用机动部队光法希孜【ID：364】",
+    "desc": ""
+  },
+  {
+    "id": 741,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u00124指定角色04-雇佣兵（绿头巾）【ID：27】*\f\u0018/\b\u001b\u0010\u001b\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色04-雇佣兵（绿头巾）【ID：27】",
+    "desc": ""
+  },
+  {
+    "id": 742,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012)指定角色05-暴民巨斧兵【ID:93】*\f\u0018/\b[\u0010]\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色05-暴民巨斧兵【ID:93】",
+    "desc": ""
+  },
+  {
+    "id": 743,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u00120指定角色06-演出用小屁孩C【ID：292】*\u000e\u0018/\b�\u0001\u0010�\u0002\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色06-演出用小屁孩C【ID：292】",
+    "desc": ""
+  },
+  {
+    "id": 744,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012\r烹饪NPC-锅*\u000e\u0018\u001f\b�\u0001\u0010�\u0002\"\u0004wait\u0018\u00122\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "烹饪NPC-锅",
+    "desc": ""
+  },
+  {
+    "id": 745,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012/指定角色07-演出用SP拉维耶【ID:355】*\u000e\u0018/\b�\u0002\u0010�\u0002\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色07-演出用SP拉维耶【ID:355】",
+    "desc": ""
+  },
+  {
+    "id": 746,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0004\u0012\u001b烹饪用气泡主城事件\u0018\u00122\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "烹饪用气泡主城事件",
+    "desc": ""
+  },
+  {
+    "id": 747,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u00122指定角色08-演出用学姐莉拉【ID：358】*\u000e\u0018/\b�\u0002\u0010�\u0002\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色08-演出用学姐莉拉【ID：358】",
+    "desc": ""
+  },
+  {
+    "id": 748,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u00128指定角色09-平民015（中分贵族）【ID：123】*\f\u0018/\br\u0010{\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色09-平民015（中分贵族）【ID：123】",
+    "desc": ""
+  },
+  {
+    "id": 749,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012:指定角色10-演出用老皮绳（NPC39）【ID：380】*\u000e\u0018/\b�\u0002\u0010�\u0002\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色10-演出用老皮绳（NPC39）【ID：380】",
+    "desc": ""
+  },
+  {
+    "id": 750,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0001\u0012/指定角色11-佣兵之家女佣【ID：174】*\u000e\u0018/\b�\u0001\u0010�\u0001\"\u0004wait\u0018\r2\u000e \u0000\u0012\n\r\u0000\u0000�?\u0015\u0000\u0000�?",
+    "name": "指定角色11-佣兵之家女佣【ID：174】",
+    "desc": ""
+  },
+  {
+    "id": 751,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012*前传线：废物治安局A（日）-I003*\f\u0018&\bq\u0010z\"\u0004wait\u0018\r2�\u0001\bq \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"果然，没人能逃脱名单杀手的处决！\"}",
+    "name": "前传线：废物治安局A（日）-I003",
+    "desc": ""
+  },
+  {
+    "id": 752,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012*前传线：民众的议论A（日）-I005*\f\u0018&\bi\u0010r\"\u0004wait\u0018\r2�\u0003\bi \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":2400,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"匿名信说得没错啊……\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"现在的伊利亚，和旧邦国有什么区别？\"}",
+    "name": "前传线：民众的议论A（日）-I005",
+    "desc": ""
+  },
+  {
+    "id": 753,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012*前传线：攻击帕米娜B（日）-I009*\f\u0018&\bp\u0010y\"\u0004wait\u0018\r2�\u0001\bp \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"彻查王国军！彻查帕米娜！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：攻击帕米娜B（日）-I009",
+    "desc": ""
+  },
+  {
+    "id": 754,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012*前传线：攻击帕米娜A（日）-I011*\u000e\u0018*(\u0002\b\f\u0010\f\"\u0004wait*\f\u0018+\bm\u0010v\"\u0004wait\u0018\r2�\u0003\b\f \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":12,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"王国军那个帕米娜将军，绝对有问题！\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":109,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"老见她袒护骑士同盟，肯定收了不少好处！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：攻击帕米娜A（日）-I011",
+    "desc": ""
+  },
+  {
+    "id": 755,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012*前传线：民众的怒火B（日）-I013*\u000e\u0018-(\u0001\b\r\u0010\r\"\u0004wait*\u000e\u0018.(\u0001\bn\u0010w\"\u0004wait\u0018\r2�\u0003\b\r \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":13,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"dialogue_content\":\"揪出骑士同盟的走狗！\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"把他们赶出伊利亚！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的怒火B（日）-I013",
+    "desc": ""
+  },
+  {
+    "id": 756,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012+前传线：民众的怒火A（日） -I015*\u000e\u0018*(\u0002\br\u0010{\"\u0004wait*\f\u0018+\bp\u0010y\"\u0004wait\u0018\r2�\u0003\br \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":114,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"dialogue_content\":\"同胞们！拿起武器，反抗贵族！\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":2,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"“冲破黑暗，照亮希望！”\"}",
+    "name": "前传线：民众的怒火A（日） -I015",
+    "desc": ""
+  },
+  {
+    "id": 757,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012(前传线：沆瀣一气C（日） -I017*\f\u0018(\bp\u0010y\"\u0004wait\u0018\r2�\u0003\bp \u0000\u0012\n\r\u0000\u0000�@\u0015\u0000\u0000�@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":3600,\"facing\":0,\"dialogue_content\":\"这些毒蛇猛兽！吸血鬼！寄生虫！\",\"anim\":\"wait\",\"hold_time\":1500}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":2,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"同胞们，你们还要忍受他们到什么时候？！\",\"anim\":\"wait\",\"hold_time\":3600}",
+    "name": "前传线：沆瀣一气C（日） -I017",
+    "desc": ""
+  },
+  {
+    "id": 758,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012'前传线：沆瀣一气A（日）-I021*\u000e\u0018*(\u0002\bp\u0010y\"\u0004wait*\f\u0018+\bh\u0010q\"\u0004wait\u0018\r2�\u0003\bp \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"dialogue_content\":\"弗雷奇真不是东西，居然栽赃下属。\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":104,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"那个莉拉也不冤枉！一个贵族，能是什么好东西？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：沆瀣一气A（日）-I021",
+    "desc": ""
+  },
+  {
+    "id": 759,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012-前传线：议论财政大臣B（日）-I025*\u000e\u0018.(\u0002\bo\u0010x\"\u0004wait*\u000e\u0018-(\u0001\b\r\u0010\r\"\u0004wait\u0018\r2�\u0003\bo \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"“柯瓦雷”？这名字有点耳熟啊……\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":13,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"年初闹洪灾，捐款最多的那个是他吧？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：议论财政大臣B（日）-I025",
+    "desc": ""
+  },
+  {
+    "id": 760,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012-前传线：议论财政大臣A（日）-I027*\u000e\u0018*(\u0002\br\u0010{\"\u0004wait*\f\u0018+\bn\u0010w\"\u0004wait\u0018\r2�\u0003\bn \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":114,\"talk_speed\":12,\"next_action_delay\":3200,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"老天，连财政部部长都跟骑士同盟勾结起来了。\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"可不是嘛，这群高官政要简直无法无天！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：议论财政大臣A（日）-I027",
+    "desc": ""
+  },
+  {
+    "id": 761,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012*前传线：废物治安局C（日）-I029*\u000e\u0018,(\u0001\bn\u0010w\"\u0004wait*\u000e\u0018-(\u0001\bh\u0010q\"\u0004wait\u0018\r2�\u0003\bn \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"dialogue_content\":\"“冲破黑暗，照亮希望！”\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":104,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"“冲破黑暗，照亮希望！”\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：废物治安局C（日）-I029",
+    "desc": ""
+  },
+  {
+    "id": 762,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012*前传线：废物治安局B（日）-I031*\f\u0018&\bq\u0010z\"\u0004wait\u0018\r2�\u0003\bq \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"你说说，我们还要治安局干嘛啊？\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"一局子废物，比不过名单杀手一个人！\"}",
+    "name": "前传线：废物治安局B（日）-I031",
+    "desc": ""
+  },
+  {
+    "id": 763,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012(前传线：民众反应2B（日）-I033*\u000e\u0018'(\u0002\br\u0010{\"\u0004wait\u0018\r2�\u0001\br \u0000\u0012\n\r\u0000\u0000\u0000@\u0015\u0000\u0000\u0000@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":114,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"轮到哈立德了，下次不会是我吧……\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众反应2B（日）-I033",
+    "desc": ""
+  },
+  {
+    "id": 764,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012)前传线：民众反应2A （日）-I035*\f\u0018(\bo\u0010x\"\u0004wait\u0018\r2�\u0003\bo \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":3200,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"一只不敢见光的老鼠，搅得人心惶惶！\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"治安局呢？有没有人管管啊！\"}",
+    "name": "前传线：民众反应2A （日）-I035",
+    "desc": ""
+  },
+  {
+    "id": 765,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012(前传线：民众反应1C（日）-I039*\f\u0018&\bm\u0010v\"\u0004wait\u0018\r2�\u0001\bm \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":109,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"又是骑士同盟，这些无耻的小偷！\"}",
+    "name": "前传线：民众反应1C（日）-I039",
+    "desc": ""
+  },
+  {
+    "id": 766,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012(前传线：民众反应1B（日）-I041*\f\u0018)\b\n\u0010\n\"\u0004wait\u0018\r2�\u0003\b\n \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":10,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"港口瘟疫也是哈立德搞的鬼……\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":10,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"混蛋……他害死了我的孩子！\"}",
+    "name": "前传线：民众反应1B（日）-I041",
+    "desc": ""
+  },
+  {
+    "id": 767,
+    "idcapital": 3,
+    "data": "\b�\u0005 \u0002\u0012(前传线：民众反应1A（日）-I043*\f\u0018,\bq\u0010z\"\u0004wait*\u000e\u0018.(\u0002\bo\u0010x\"\u0004wait\u0018\r2�\u0003\bq \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"dialogue_content\":\"看吧，名单杀手又出现了！\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"你觉得他会在什么时候下手呢？\"}",
+    "name": "前传线：民众反应1A（日）-I043",
+    "desc": ""
+  },
+  {
+    "id": 768,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：民众的议论C（日）-I047*\u0010\u0018'(\u0002\b�\u0001\u0010�\u0002\"\u0004wait\u0018\r2�\u0001\b�\u0001 \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":246,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"糖衣骗局……那是什么糖呀，甜吗？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的议论C（日）-I047",
+    "desc": ""
+  },
+  {
+    "id": 769,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：民众的议论B（日）-I049*\u000e\u0018*(\u0002\bh\u0010q\"\u0004wait*\f\u0018+\bi\u0010r\"\u0004wait\u0018\r2�\u0003\bh \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":3200,\"facing\":0,\"dialogue_content\":\"谢天谢地，终于有人愿意对付那些贵族了。\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":104,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"哼！大话说得漂亮，看他能杀几个？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的议论B（日）-I049",
+    "desc": ""
+  },
+  {
+    "id": 770,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012-前传线：议论财政大臣C（日）-I023*\f\u0018P\b\n\u0010\n\"\u0004wait*\u000e\u0018Q(\u0002\bj\u0010s\"\u0004wait\u0018\u00152�\u0003\b\n \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":10,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"财政部部长，听上去就有钱。\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":106,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"有钱也就有人，这块硬骨头不好啃啊！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：议论财政大臣C（日）-I023",
+    "desc": ""
+  },
+  {
+    "id": 771,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012(前传线：民众反应1D（日）-I037*\u000e\u0018R\b�\u0001\u0010�\u0001\"\u0004wait*\u0010\u0018T(\u0002\b�\u0001\u0010�\u0001\"\u0004wait\u0018\u00152�\u0003\b�\u0001 \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":187,\"talk_speed\":12,\"next_action_delay\":3200,\"facing\":0,\"dialogue_content\":\"提前预告，哈立德那边会加强防备吧。\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":186,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"是啊，这次能不能成功啊，真让人揪心……\"}",
+    "name": "前传线：民众反应1D（日）-I037",
+    "desc": ""
+  },
+  {
+    "id": 772,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：民众的议论D（日）-I045*\f\u0018P\bs\u0010|\"\u0004wait*\u000e\u0018Q(\u0002\bn\u0010w\"\u0004wait\u0018\u00152�\u0003\bs \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":115,\"talk_speed\":12,\"next_action_delay\":2800,\"facing\":0,\"dialogue_content\":\"“贵族践踏我们，律法背弃我们！”\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"“苦役鞭打我们！凭什么？”……凭什么！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的议论D（日）-I045",
+    "desc": ""
+  },
+  {
+    "id": 773,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：攻击帕米娜C（夜）-I002*\u000e\u00188(\u0002\b\u0016\u0010\u0016\"\u0004wait\u0018\u00102�\u0001\b\u0016 \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":22,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"彻查王国军！彻查帕米娜！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：攻击帕米娜C（夜）-I002",
+    "desc": ""
+  },
+  {
+    "id": 774,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：废物治安局A（夜）-I004*\f\u00187\bq\u0010z\"\u0004wait\u0018\u00102�\u0001\bq \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"果然，没人能逃脱名单杀手的处决！\",\"anim\":\"wait\",\"hold_time\":1400}",
+    "name": "前传线：废物治安局A（夜）-I004",
+    "desc": ""
+  },
+  {
+    "id": 775,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012+前传线：民众的议论A（夜）-I006 *\f\u00187\bi\u0010r\"\u0004wait\u0018\u00102�\u0003\bi \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"匿名信说得没错啊……\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0003\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"现在的伊利亚，和旧邦国有什么区别？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的议论A（夜）-I006 ",
+    "desc": ""
+  },
+  {
+    "id": 776,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：攻击帕米娜B（夜）-I010*\f\u00187\bp\u0010y\"\u0004wait\u0018\u00102�\u0001\bp \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"彻查王国军！彻查帕米娜！\"}",
+    "name": "前传线：攻击帕米娜B（夜）-I010",
+    "desc": ""
+  },
+  {
+    "id": 777,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：攻击帕米娜A（夜）-I012*\u000e\u0018;(\u0002\b\f\u0010\f\"\u0004wait*\f\u0018<\bm\u0010v\"\u0004wait\u0018\u00102�\u0003\b\f \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":12,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"王国军那个帕米娜将军，绝对有问题！\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":109,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"老见她袒护骑士同盟，肯定收了不少好处！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：攻击帕米娜A（夜）-I012",
+    "desc": ""
+  },
+  {
+    "id": 778,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：民众的怒火B（夜）-I014*\u000e\u0018>(\u0001\b\r\u0010\r\"\u0004wait*\u000e\u0018?(\u0001\bn\u0010w\"\u0004wait\u0018\u00102�\u0003\b\r \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":13,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"揪出骑士同盟的走狗！\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"把他们赶出伊利亚！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的怒火B（夜）-I014",
+    "desc": ""
+  },
+  {
+    "id": 779,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012+前传线：民众的怒火A （夜）-I016*\u000e\u0018;(\u0002\br\u0010{\"\u0004wait*\f\u0018<\bp\u0010y\"\u0004wait\u0018\u00102�\u0003\br \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":114,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"dialogue_content\":\"同胞们！拿起武器，反抗贵族！\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":2,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"“冲破黑暗，照亮希望！”\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的怒火A （夜）-I016",
+    "desc": ""
+  },
+  {
+    "id": 780,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012(前传线：沆瀣一气C （夜）-I018*\f\u00189\bp\u0010y\"\u0004wait\u0018\u00102�\u0003\bp \u0000\u0012\n\r\u0000\u0000�@\u0015\u0000\u0000�@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"这些毒蛇猛兽！吸血鬼！寄生虫！\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":2,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"同胞们，你们还要忍受他们到什么时候？！\"}",
+    "name": "前传线：沆瀣一气C （夜）-I018",
+    "desc": ""
+  },
+  {
+    "id": 781,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012'前传线：沆瀣一气A（夜）-I022*\u000e\u0018;(\u0002\bp\u0010y\"\u0004wait*\f\u0018<\bh\u0010q\"\u0004wait\u0018\u00102�\u0003\bp \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":112,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"弗雷奇真不是东西，居然栽赃下属。\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":104,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"那个莉拉也不冤枉！一个贵族，能是什么好东西？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：沆瀣一气A（夜）-I022",
+    "desc": ""
+  },
+  {
+    "id": 782,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012-前传线：议论财政大臣B（夜）-I026*\u000e\u0018?(\u0002\bo\u0010x\"\u0004wait*\u000e\u0018>(\u0001\b\r\u0010\r\"\u0004wait\u0018\u00102�\u0003\bo \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"“柯瓦雷”？这名字有点耳熟啊……\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":13,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"年初闹洪灾，捐款最多的那个是他吧？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：议论财政大臣B（夜）-I026",
+    "desc": ""
+  },
+  {
+    "id": 783,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012-前传线：议论财政大臣A（夜）-I028*\u000e\u0018;(\u0002\br\u0010{\"\u0004wait*\f\u0018<\bn\u0010w\"\u0004wait\u0018\u00102�\u0003\bn \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":114,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"老天，连财政部部长都跟骑士同盟勾结起来了。\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"可不是嘛，这群高官政要简直无法无天！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：议论财政大臣A（夜）-I028",
+    "desc": ""
+  },
+  {
+    "id": 784,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：废物治安局C（夜）-I030*\u000e\u0018=(\u0001\bn\u0010w\"\u0004wait*\u000e\u0018>(\u0001\bh\u0010q\"\u0004wait\u0018\u00102�\u0003\bn \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"“冲破黑暗，照亮希望！”\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":104,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"“冲破黑暗，照亮希望！”\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：废物治安局C（夜）-I030",
+    "desc": ""
+  },
+  {
+    "id": 785,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：废物治安局B（夜）-I032*\f\u00187\bq\u0010z\"\u0004wait\u0018\u00102�\u0003\bq \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"你说说，我们还要治安局干嘛啊？\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"一局子废物，比不过名单杀手一个人！\"}",
+    "name": "前传线：废物治安局B（夜）-I032",
+    "desc": ""
+  },
+  {
+    "id": 786,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012(前传线：民众反应2B（夜）-I034*\u000e\u00188(\u0002\br\u0010{\"\u0004wait\u0018\u00102�\u0001\br \u0000\u0012\n\r\u0000\u0000\u0000@\u0015\u0000\u0000\u0000@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":114,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"轮到哈立德了，下次不会是我吧……\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众反应2B（夜）-I034",
+    "desc": ""
+  },
+  {
+    "id": 787,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012)前传线：民众反应2A （夜）-I036*\f\u00189\bo\u0010x\"\u0004wait\u0018\u00102�\u0003\bo \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"一只不敢见光的老鼠，搅得人心惶惶！\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":2,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"治安局呢？有没有人管管啊！\"}",
+    "name": "前传线：民众反应2A （夜）-I036",
+    "desc": ""
+  },
+  {
+    "id": 788,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012(前传线：民众反应1C（夜）-I040*\f\u00187\bm\u0010v\"\u0004wait\u0018\u00102�\u0001\bm \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":109,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"又是骑士同盟，这些无耻的小偷！\"}",
+    "name": "前传线：民众反应1C（夜）-I040",
+    "desc": ""
+  },
+  {
+    "id": 789,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012(前传线：民众反应1B（夜）-I042*\u000e\u0018:(\u0002\b\n\u0010\n\"\u0004wait\u0018\u00102�\u0003\b\n \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":10,\"talk_speed\":12,\"next_action_delay\":2600,\"facing\":0,\"dialogue_content\":\"港口瘟疫也是哈立德搞的鬼……\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":10,\"talk_speed\":8,\"next_action_delay\":-1,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"混蛋……他害死了我的孩子！\"}",
+    "name": "前传线：民众反应1B（夜）-I042",
+    "desc": ""
+  },
+  {
+    "id": 790,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012(前传线：民众反应1A（夜）-I044*\f\u0018=\bq\u0010z\"\u0004wait*\u000e\u0018?(\u0002\bo\u0010x\"\u0004wait\u0018\u00102�\u0003\bq \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":113,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"看吧，名单杀手又出现了！\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":111,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"你们觉得他会在什么时候下手呢？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众反应1A（夜）-I044",
+    "desc": ""
+  },
+  {
+    "id": 791,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：民众的议论C（夜）-I048*\u0010\u00188(\u0002\b�\u0001\u0010�\u0002\"\u0004wait\u0018\u00102�\u0001\b�\u0001 \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":246,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"糖衣骗局……那是什么糖呀，甜吗？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的议论C（夜）-I048",
+    "desc": ""
+  },
+  {
+    "id": 792,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：民众的议论B（夜）-I050*\u000e\u0018;(\u0002\bh\u0010q\"\u0004wait*\f\u0018<\bi\u0010r\"\u0004wait\u0018\u00102�\u0003\bh \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"谢天谢地，终于有人愿意对付那些贵族了。\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":104,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"哼！大话说得漂亮，看他能杀几个？\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的议论B（夜）-I050",
+    "desc": ""
+  },
+  {
+    "id": 793,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012'前传线：沆瀣一气B（夜）-I020*\f\u0018[\bi\u0010r\"\u0004wait\u0018\u00162�\u0001\bi \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":105,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"伊利亚的贵族，还有没被骑士同盟渗透的吗？！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：沆瀣一气B（夜）-I020",
+    "desc": ""
+  },
+  {
+    "id": 794,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012-前传线：议论财政大臣C（夜）-I024*\f\u0018_\b\n\u0010\n\"\u0004wait*\u000e\u0018`(\u0002\bj\u0010s\"\u0004wait\u0018\u00162�\u0003\b\n \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":1,\"bubble_type\":0,\"move_speed\":3,\"owner\":10,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"hold_time\":1200,\"anim\":\"wait\",\"dialogue_content\":\"财政部部长，听上去就有钱。\"}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":106,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"有钱也就有人，这块硬骨头不好啃啊！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：议论财政大臣C（夜）-I024",
+    "desc": ""
+  },
+  {
+    "id": 795,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012(前传线：民众反应1D（夜）-I038*\u000e\u0018a\b�\u0001\u0010�\u0001\"\u0004wait*\u0010\u0018c(\u0002\b�\u0001\u0010�\u0001\"\u0004wait\u0018\u00162�\u0003\b�\u0001 \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":187,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"提前预告，哈立德那边会加强防备吧。\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":186,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"是啊，这次能不能成功啊，真让人揪心……\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众反应1D（夜）-I038",
+    "desc": ""
+  },
+  {
+    "id": 796,
+    "idcapital": 3,
+    "data": "\b�\u0006 \u0002\u0012*前传线：民众的议论D（夜）-I046*\f\u0018_\bs\u0010|\"\u0004wait*\u000e\u0018`(\u0002\bn\u0010w\"\u0004wait\u0018\u00162�\u0003\bs \u0000\u0012\n\r\u0000\u0000@@\u0015\u0000\u0000@@\u001a�\u0001\u0018\u0001\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":115,\"talk_speed\":12,\"next_action_delay\":3000,\"facing\":0,\"dialogue_content\":\"“贵族践踏我们，律法背弃我们！”\",\"anim\":\"wait\",\"hold_time\":1200}\u001a�\u0001\u0018\u0002\b\u0000\u0012�\u0001{\"bubble_facing\":0,\"bubble_type\":0,\"move_speed\":3,\"owner\":110,\"talk_speed\":12,\"next_action_delay\":-1,\"facing\":0,\"dialogue_content\":\"“苦役鞭打我们！凭什么？”……凭什么！\",\"anim\":\"wait\",\"hold_time\":1200}",
+    "name": "前传线：民众的议论D（夜）-I046",
+    "desc": ""
   }
 ]

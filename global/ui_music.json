@@ -8,7 +8,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "AT1_Challenge",
     "volume_state_group": "",
-    "volume_state": ""
+    "volume_state": "",
+    "game_config": 1,
+    "desc": "BonfireChallengeUI",
+    "editor_name": ""
   },
   {
     "id": 3,
@@ -19,7 +22,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "网游角色",
+    "editor_name": ""
   },
   {
     "id": 4,
@@ -30,7 +36,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "网游仓库",
+    "editor_name": ""
   },
   {
     "id": 5,
@@ -41,7 +50,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "网游商店",
+    "editor_name": ""
   },
   {
     "id": 6,
@@ -52,7 +64,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "邮件",
+    "editor_name": ""
   },
   {
     "id": 7,
@@ -63,7 +78,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "任务",
+    "editor_name": ""
   },
   {
     "id": 8,
@@ -74,7 +92,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 2,
+    "desc": "仓库",
+    "editor_name": ""
   },
   {
     "id": 9,
@@ -85,7 +106,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 2,
+    "desc": "档案",
+    "editor_name": ""
   },
   {
     "id": 10,
@@ -96,7 +120,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 2,
+    "desc": "商店",
+    "editor_name": ""
   },
   {
     "id": 11,
@@ -107,7 +134,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 2,
+    "desc": "角色",
+    "editor_name": ""
   },
   {
     "id": 12,
@@ -118,7 +148,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "World",
     "volume_state_group": "",
-    "volume_state": ""
+    "volume_state": "",
+    "game_config": 2,
+    "desc": "委托",
+    "editor_name": ""
   },
   {
     "id": 13,
@@ -129,7 +162,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Town",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "交错的世界",
+    "editor_name": ""
   },
   {
     "id": 14,
@@ -140,7 +176,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Town",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "愚者的旅程",
+    "editor_name": ""
   },
   {
     "id": 15,
@@ -151,7 +190,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "World",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "竞技场",
+    "editor_name": ""
   },
   {
     "id": 16,
@@ -162,7 +204,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "百科",
+    "editor_name": ""
   },
   {
     "id": 17,
@@ -173,7 +218,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 2,
+    "desc": "沙盒记录",
+    "editor_name": ""
   },
   {
     "id": 18,
@@ -184,7 +232,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 2,
+    "desc": "笔记",
+    "editor_name": ""
   },
   {
     "id": 19,
@@ -195,7 +246,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "沙盒暂离",
+    "editor_name": ""
   },
   {
     "id": 20,
@@ -206,7 +260,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "活动",
+    "editor_name": ""
   },
   {
     "id": 21,
@@ -217,7 +274,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "邂逅",
+    "editor_name": ""
   },
   {
     "id": 22,
@@ -228,7 +288,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "命运印记",
+    "editor_name": ""
   },
   {
     "id": 23,
@@ -239,7 +302,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "GameLobbyDockView",
+    "editor_name": ""
   },
   {
     "id": 24,
@@ -250,7 +316,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Lobby",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "沙盒入口",
+    "editor_name": ""
   },
   {
     "id": 25,
@@ -261,7 +330,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "天赋",
+    "editor_name": ""
   },
   {
     "id": 26,
@@ -272,7 +344,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "导航",
+    "editor_name": ""
   },
   {
     "id": 27,
@@ -283,7 +358,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "追忆",
+    "editor_name": ""
   },
   {
     "id": 28,
@@ -294,7 +372,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Town",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "命运印记中的追忆",
+    "editor_name": ""
   },
   {
     "id": 30,
@@ -305,7 +386,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Story",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "羁绊",
+    "editor_name": ""
   },
   {
     "id": 32,
@@ -316,7 +400,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "玩家名片",
+    "editor_name": ""
   },
   {
     "id": 33,
@@ -327,7 +414,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "丰饶之角",
+    "editor_name": ""
   },
   {
     "id": 34,
@@ -338,7 +428,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "命运印记中的见闻",
+    "editor_name": ""
   },
   {
     "id": 35,
@@ -349,7 +442,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Town",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "限时活动",
+    "editor_name": ""
   },
   {
     "id": 36,
@@ -360,7 +456,10 @@
     "music_state_group2": "",
     "music_state2": "",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "排行榜",
+    "editor_name": ""
   },
   {
     "id": 37,
@@ -371,7 +470,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "World",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 2,
+    "desc": "商会",
+    "editor_name": ""
   },
   {
     "id": 38,
@@ -382,7 +484,10 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Joy",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "大富翁",
+    "editor_name": ""
   },
   {
     "id": 39,
@@ -393,6 +498,51 @@
     "music_state_group2": "UI_Mus_Transition",
     "music_state2": "Town",
     "volume_state_group": "UI_Duck",
-    "volume_state": "Duck"
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "OperationActivitySubPageUI",
+    "editor_name": ""
+  },
+  {
+    "id": 40,
+    "name": "Abyss",
+    "event_name": "Play_Mus_Scene_Main",
+    "music_state_group": "Town_Transition",
+    "music_state": "Town_Dark",
+    "music_state_group2": "UI_Mus_Transition",
+    "music_state2": "Town",
+    "volume_state_group": "UI_Duck",
+    "volume_state": "Duck",
+    "game_config": 1,
+    "desc": "逆境之塔",
+    "editor_name": ""
+  },
+  {
+    "id": 43,
+    "name": "PrequelClueWall",
+    "event_name": "",
+    "music_state_group": "CityLY",
+    "music_state": "ClueBoard",
+    "music_state_group2": "",
+    "music_state2": "",
+    "volume_state_group": "",
+    "volume_state": "",
+    "game_config": 3,
+    "desc": "前传线-线索墙白天",
+    "editor_name": "线索墙白天"
+  },
+  {
+    "id": 46,
+    "name": "UIPrequelSandboxResultView",
+    "event_name": "",
+    "music_state_group": "",
+    "music_state": "",
+    "music_state_group2": "",
+    "music_state2": "",
+    "volume_state_group": "",
+    "volume_state": "",
+    "game_config": 3,
+    "desc": "amb环境声",
+    "editor_name": "沙盒结算"
   }
 ]

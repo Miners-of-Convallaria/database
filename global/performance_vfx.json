@@ -98,5 +98,15 @@
     "perfab": "BaseBlackFadeout",
     "type": 0,
     "time": "3"
+  },
+  {
+    "id": 11,
+    "name": "快速黑出",
+    "desc": "快速黑出，带透明度220",
+    "assetbundle": "ui/scenario",
+    "timeline": "Fadeout",
+    "perfab": "BaseBlackFadeout_fast",
+    "type": 0,
+    "time": "0.5"
   }
 ]

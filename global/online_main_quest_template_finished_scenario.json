@@ -280,6 +280,13 @@
     "scenario_index": 0
   },
   {
+    "id": 45,
+    "idonline_main_quest_template": 4,
+    "scenario_id": 3051,
+    "scenario_type": 4,
+    "scenario_index": 0
+  },
+  {
     "id": 201,
     "idonline_main_quest_template": 1463,
     "scenario_id": 827,
@@ -374,6 +381,34 @@
     "id": 2012,
     "idonline_main_quest_template": 1567,
     "scenario_id": 2919,
+    "scenario_type": 4,
+    "scenario_index": 0
+  },
+  {
+    "id": 2013,
+    "idonline_main_quest_template": 1656,
+    "scenario_id": 3044,
+    "scenario_type": 4,
+    "scenario_index": 0
+  },
+  {
+    "id": 2014,
+    "idonline_main_quest_template": 1657,
+    "scenario_id": 3046,
+    "scenario_type": 4,
+    "scenario_index": 0
+  },
+  {
+    "id": 2015,
+    "idonline_main_quest_template": 1665,
+    "scenario_id": 3047,
+    "scenario_type": 4,
+    "scenario_index": 0
+  },
+  {
+    "id": 2016,
+    "idonline_main_quest_template": 1668,
+    "scenario_id": 3049,
     "scenario_type": 4,
     "scenario_index": 0
   }

@@ -2005,5 +2005,59 @@
     "param1": 0,
     "sparam": "",
     "count_tag": 1
+  },
+  {
+    "id": 224,
+    "name": "前传线测试奖励显示",
+    "treasure_type": 50,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "count_tag": 3
+  },
+  {
+    "id": 225,
+    "name": "前传线金币_少量",
+    "treasure_type": 50,
+    "param0": 1,
+    "param1": 0,
+    "sparam": "",
+    "count_tag": 3
+  },
+  {
+    "id": 226,
+    "name": "前传线随身物品_N",
+    "treasure_type": 30,
+    "param0": 6,
+    "param1": 0,
+    "sparam": "",
+    "count_tag": 1
+  },
+  {
+    "id": 227,
+    "name": "前传线随身物品_R",
+    "treasure_type": 30,
+    "param0": 7,
+    "param1": 0,
+    "sparam": "",
+    "count_tag": 1
+  },
+  {
+    "id": 228,
+    "name": "前传线随身物品_SR",
+    "treasure_type": 30,
+    "param0": 8,
+    "param1": 0,
+    "sparam": "",
+    "count_tag": 1
+  },
+  {
+    "id": 229,
+    "name": "前传线随身物品_SSR",
+    "treasure_type": 30,
+    "param0": 9,
+    "param1": 0,
+    "sparam": "",
+    "count_tag": 1
   }
 ]

@@ -21,7 +21,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 3,
@@ -69,7 +69,7 @@
     "is_in_main_city": true,
     "enable_navigation": true,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 5,
@@ -117,7 +117,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 6,
@@ -141,7 +141,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 7,
@@ -165,7 +165,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 8,
@@ -189,7 +189,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 9,
@@ -213,7 +213,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 10,
@@ -237,7 +237,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 11,
@@ -261,7 +261,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 12,
@@ -309,7 +309,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 14,
@@ -333,7 +333,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 15,
@@ -357,7 +357,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 18,
@@ -381,7 +381,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 19,
@@ -405,7 +405,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 21,
@@ -429,7 +429,7 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 22,
@@ -621,7 +621,7 @@
     "is_in_main_city": false,
     "enable_navigation": true,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 31,
@@ -645,7 +645,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 32,
@@ -669,12 +669,12 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 33,
     "m_system_techs": [],
-    "m_system_reminds": [39, 47],
+    "m_system_reminds": [39, 47, 68, 69],
     "type": "online_shop",
     "name": "Shop",
     "editor_name": "网游商店",
@@ -698,7 +698,7 @@
   {
     "id": 34,
     "m_system_techs": [],
-    "m_system_reminds": [],
+    "m_system_reminds": [64, 65],
     "type": "online_gacha",
     "name": "Summon",
     "editor_name": "网游抽卡",
@@ -885,7 +885,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 42,
@@ -909,7 +909,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 43,
@@ -933,7 +933,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 44,
@@ -1773,7 +1773,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 79,
@@ -1797,7 +1797,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 80,
@@ -1821,12 +1821,12 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 81,
     "m_system_techs": [],
-    "m_system_reminds": [],
+    "m_system_reminds": [44],
     "type": "online_contract_activity_quest",
     "name": "Time-limited Gameplay Task",
     "editor_name": "合约活动任务",
@@ -1922,7 +1922,7 @@
   {
     "id": 85,
     "m_system_techs": [],
-    "m_system_reminds": [49],
+    "m_system_reminds": [45, 49],
     "type": "online_contract_activity",
     "name": "Time-limited Gameplay",
     "editor_name": "合约活动",
@@ -2061,7 +2061,7 @@
     "is_in_main_city": true,
     "enable_navigation": false,
     "open_at": 0,
-    "sandbox_id": 0
+    "sandbox_id": 1
   },
   {
     "id": 92,
@@ -2253,6 +2253,486 @@
     "is_in_main_city": false,
     "enable_navigation": false,
     "open_at": 1706980637,
+    "sandbox_id": 0
+  },
+  {
+    "id": 100,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_shop",
+    "name": "Shop",
+    "editor_name": "前传线商店系统",
+    "title": "前传线商店系统",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 101,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_map",
+    "name": "Map",
+    "editor_name": "前传线地图",
+    "title": "地图",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 102,
+    "m_system_techs": [],
+    "m_system_reminds": [61],
+    "type": "sandbox2_clue",
+    "name": "Clue Wall",
+    "editor_name": "前传线线索墙",
+    "title": "线索墙",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 103,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_entrust",
+    "name": "Battle",
+    "editor_name": "前传线委托",
+    "title": "委托",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 104,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_training",
+    "name": "Tactic Study",
+    "editor_name": "前传线战术训练",
+    "title": "战术训练",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 105,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2",
+    "name": "Prequel Story",
+    "editor_name": "前传线",
+    "title": "前传线",
+    "desc": "",
+    "version": 1,
+    "isdefault": true,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 106,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_tactics_skill",
+    "name": "Tactical Skill",
+    "editor_name": "前传线战术技能",
+    "title": "战术技能",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 107,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_surprise_skill",
+    "name": "",
+    "editor_name": "前传线突入技能",
+    "title": "突入技能",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 108,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_chapter_goal",
+    "name": "Layla's Commendation",
+    "editor_name": "前传线莉拉的赞许",
+    "title": "莉拉的赞许",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 109,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_unit_training",
+    "name": "Battle Training",
+    "editor_name": "前传线角色训练",
+    "title": "战技训练",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 110,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_cook_record",
+    "name": "Gourmet Records",
+    "editor_name": "前传线美食记录",
+    "title": "美食记录",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 111,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "online_exchange_item",
+    "name": "Payment Event",
+    "editor_name": "缴纳类活动",
+    "title": "缴纳类活动",
+    "desc": "\"\"",
+    "version": 0,
+    "isdefault": false,
+    "is_online": true,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "\"\"",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 0
+  },
+  {
+    "id": 112,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "capital_map_event",
+    "name": "Main City Map Event",
+    "editor_name": "主城地图事件",
+    "title": "主城地图事件",
+    "desc": "",
+    "version": 1,
+    "isdefault": true,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 0
+  },
+  {
+    "id": 113,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "online_global_quest",
+    "name": "Online Game Global Quest",
+    "editor_name": "网游全局任务",
+    "title": "网游全局任务",
+    "desc": "",
+    "version": 0,
+    "isdefault": true,
+    "is_online": true,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 0
+  },
+  {
+    "id": 114,
+    "m_system_techs": [],
+    "m_system_reminds": [66],
+    "type": "online_career",
+    "name": "Voyage Momento",
+    "editor_name": "网游生涯",
+    "title": "生涯纪念册",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": true,
+    "enable_unlock_remind": true,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "Clear The Fool's Journey 1-2 to unlock",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": true,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 0
+  },
+  {
+    "id": 115,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_warehouse",
+    "name": "Inventory",
+    "editor_name": "前传线仓库",
+    "title": "前传线仓库",
+    "desc": "",
+    "version": 1,
+    "isdefault": true,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 116,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_unit",
+    "name": "Characters",
+    "editor_name": "前传线角色",
+    "title": "前传线角色",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 117,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "top_arena",
+    "name": "Summit Arena",
+    "editor_name": "巅峰竞技场",
+    "title": "巅峰竞技场",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": true,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 1706980637,
+    "sandbox_id": 0
+  },
+  {
+    "id": 118,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "sandbox2_achievement",
+    "name": "Achievements",
+    "editor_name": "沙盒2成就",
+    "title": "",
+    "desc": "",
+    "version": 1,
+    "isdefault": true,
+    "is_online": false,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 0,
+    "sandbox_id": 2
+  },
+  {
+    "id": 119,
+    "m_system_techs": [],
+    "m_system_reminds": [],
+    "type": "online_skin",
+    "name": "Online Game Skin System",
+    "editor_name": "网游皮肤系统",
+    "title": "网游皮肤",
+    "desc": "",
+    "version": 1,
+    "isdefault": false,
+    "is_online": true,
+    "enable_unlock_remind": false,
+    "parent_system_id": 0,
+    "order_id": 0,
+    "condition": "",
+    "unlock_scenario_id": 0,
+    "icon": "",
+    "has_unlock_popup": false,
+    "is_in_main_city": false,
+    "enable_navigation": false,
+    "open_at": 1715616000,
     "sandbox_id": 0
   }
 ]

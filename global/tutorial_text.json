@@ -61,7 +61,7 @@
   },
   {
     "id": 21,
-    "text": "you can <style=red>hold</style> and <style=red>drag</style> the unit you want to the target location."
+    "text": "you can hold and drag the unit you want to the target location."
   },
   {
     "id": 22,
@@ -333,7 +333,7 @@
   },
   {
     "id": 913,
-    "text": "Hmph. I'm no blacksmith. I'll just do it once."
+    "text": "Hmph. I'm no a blacksmith. I'll just do it once."
   },
   {
     "id": 921,
@@ -510,5 +510,25 @@
   {
     "id": 1034,
     "text": "I believe that you know the next step, don't you?"
+  },
+  {
+    "id": 1041,
+    "text": "Open the Voyage Momento to see the special training content I've prepared for you!"
+  },
+  {
+    "id": 1051,
+    "text": "Complete the Voyage Momento to help assemble the Convallaria Squad!"
+  },
+  {
+    "id": 1061,
+    "text": "Complete phase quests to boost team power!"
+  },
+  {
+    "id": 1062,
+    "text": "Complete all quests of the current phase to claim the Momento Treasure and unlock the next phase."
+  },
+  {
+    "id": 1063,
+    "text": "Claim your rewards for completing quests as agreed!"
   }
 ]
