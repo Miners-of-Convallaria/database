@@ -8,7 +8,7 @@
     "rain_mobility": 15,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Dirt. Cannot be ignited by [Fire] attacks.",
+    "desc": "Dirt. Cannot be ignited by [fire] attacks.",
     "icon": "terrain1"
   },
   {
@@ -20,7 +20,7 @@
     "rain_mobility": 15,
     "material_name": "grass",
     "operations": "2|10|12|14|15|17|18|19|20|21",
-    "desc": "Grassland. Can be ignited by [Fire] attacks.",
+    "desc": "Grassland. Can be ignited by [fire] attacks.",
     "icon": "terrain2"
   },
   {
@@ -32,7 +32,7 @@
     "rain_mobility": 15,
     "material_name": "grass",
     "operations": "2|10|12|14|15|17|18|19|20|21",
-    "desc": "Grass. Can be ignited by [Fire] attacks.",
+    "desc": "Grass. Can be ignited by [fire] attacks.",
     "icon": "terrain3"
   },
   {
@@ -44,7 +44,7 @@
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "12|14|15|17|18|19|20|21",
-    "desc": "Sand. Cannot be ignited by [Fire] attacks.",
+    "desc": "Sand. Cannot be ignited by [fire] attacks.",
     "icon": "terrain4"
   },
   {
@@ -56,7 +56,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Crag. Cannot be ignited by [Fire] attacks.",
+    "desc": "Crag. Cannot be ignited by [fire] attacks.",
     "icon": "terrain5"
   },
   {
@@ -68,7 +68,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "12|14|15|17|18|19|20|21",
-    "desc": "Gravel. Cannot be ignited by [Fire] attacks.",
+    "desc": "Gravel. Cannot be ignited by [fire] attacks.",
     "icon": "terrain6"
   },
   {
@@ -80,7 +80,7 @@
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Wasteland. Cannot be ignited by [Fire] attacks.",
+    "desc": "Wasteland. Cannot be ignited by [fire] attacks.",
     "icon": "terrain7"
   },
   {
@@ -92,7 +92,7 @@
     "rain_mobility": 15,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Wetland. Cannot be ignited by [Fire] attacks.",
+    "desc": "Wetland. Cannot be ignited by [fire] attacks.",
     "icon": "terrain8"
   },
   {
@@ -104,7 +104,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Road. Cannot be ignited by [Fire] attacks.",
+    "desc": "Road. Cannot be ignited by [fire] attacks.",
     "icon": "terrain9"
   },
   {
@@ -116,7 +116,7 @@
     "rain_mobility": 10,
     "material_name": "wood",
     "operations": "2|10|12|14|15|17|18|19|20|21",
-    "desc": "Plank. Can be ignited by [Fire] attacks.",
+    "desc": "Plank. Can be ignited by [fire] attacks.",
     "icon": "terrain10"
   },
   {
@@ -128,7 +128,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Slate. Cannot be ignited by [Fire] attacks.",
+    "desc": "Slate. Cannot be ignited by [fire] attacks.",
     "icon": "terrain11"
   },
   {
@@ -140,7 +140,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "12|14|15|17|18|19|20|21",
-    "desc": "Stonewall. Cannot be ignited by [Fire] attacks.",
+    "desc": "Stonewall. Cannot be ignited by [fire] attacks.",
     "icon": "terrain12"
   },
   {
@@ -152,7 +152,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "2|12|14|15|17|18|19|20|21",
-    "desc": "Roof. Can be ignited by [Fire] attacks.",
+    "desc": "Roof. Can be ignited by [fire] attacks.",
     "icon": "terrain10"
   },
   {
@@ -212,7 +212,7 @@
     "rain_mobility": 20,
     "material_name": "",
     "operations": "",
-    "desc": "Toxic Swamp. Cannot be ignited by [Fire] attacks.",
+    "desc": "Toxic Swamp. Cannot be ignited by [fire] attacks.",
     "icon": "terrain18"
   },
   {
@@ -236,7 +236,7 @@
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Snow. Cannot be ignited by [Fire] attacks.",
+    "desc": "Snow. Cannot be ignited by [fire] attacks.",
     "icon": "terrain20"
   },
   {
@@ -248,7 +248,7 @@
     "rain_mobility": 10,
     "material_name": "dirt",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Snow Covered Road. Cannot be ignited by [Fire] attacks.",
+    "desc": "Snow Covered Road. Cannot be ignited by [fire] attacks.",
     "icon": "terrain21"
   },
   {
@@ -260,7 +260,7 @@
     "rain_mobility": 10,
     "material_name": "wood",
     "operations": "2|10|12|14|15|17|18|19|20|21",
-    "desc": "Snow Covered Plank. Can be ignited by [Fire] attacks.",
+    "desc": "Snow Covered Plank. Can be ignited by [fire] attacks.",
     "icon": "terrain22"
   },
   {
@@ -272,7 +272,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Snow Covered Slate. Cannot be ignited by [Fire] attacks.",
+    "desc": "Snow Covered Slate. Cannot be ignited by [fire] attacks.",
     "icon": "terrain23"
   },
   {
@@ -284,7 +284,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Snow Covered Stonewall. Cannot be ignited by [Fire] attacks.",
+    "desc": "Snow Covered Stonewall. Cannot be ignited by [fire] attacks.",
     "icon": "terrain24"
   },
   {
@@ -296,7 +296,7 @@
     "rain_mobility": 10,
     "material_name": "rock",
     "operations": "10|12|14|15|17|18|19|20|21",
-    "desc": "Snow Covered Roof. Cannot be ignited by [Fire] attacks.",
+    "desc": "Snow Covered Roof. Cannot be ignited by [fire] attacks.",
     "icon": "terrain25"
   },
   {
@@ -308,7 +308,7 @@
     "rain_mobility": 10,
     "material_name": "",
     "operations": "",
-    "desc": "Slick Ice. Cannot be ignited by [Fire] attacks. A character is unable to stop on it if being knocked back. The tiles passed on ice does not count towards knock-back distance.",
+    "desc": "Slick Ice. Cannot be ignited by [fire] attacks. A character is unable to stop on it if being knocked back. The tiles passed on ice does not count towards knock-back distance.",
     "icon": "terrain26"
   },
   {

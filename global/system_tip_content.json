@@ -51,7 +51,7 @@
     "image_name": "system_battlebook_001",
     "title": "Spiral of Destinies I",
     "text_anchor": 2,
-    "text": "You can return to Iria from Elysium by crossing the Spiral of Destinies.\nAnd you can also return to Elysium anytime afterward."
+    "text": "You can return to Iria from Elysium by crossing the Spiral of Destinies.\nElysium is available to come back to at anytime."
   },
   {
     "id": 100,
@@ -87,7 +87,7 @@
     "image_name": "system_battlebook_001",
     "title": "Elysium Character Level-Up I",
     "text_anchor": 2,
-    "text": "The Elysium Character can quickly level up by consuming Common Exp."
+    "text": "Elysium Characters can quickly level up by consuming Common Exp."
   },
   {
     "id": 112,
@@ -96,7 +96,7 @@
     "image_name": "system_battlebook_001",
     "title": "Elysium Character Level-Up II",
     "text_anchor": 2,
-    "text": "Attention: the Elysium Character Level must be lower than the Voyager Level.\nIn order to make the character more powerful, upgrade the Voyager Level as soon as possible."
+    "text": "Elysium Characters cannot be leveled higher than your current Voyager level.\nTo continue growing your characters, try to increase your Voyager Level as often as possible."
   },
   {
     "id": 121,
@@ -195,7 +195,7 @@
     "image_name": "system_battlebook_001",
     "title": "Level-up Training I",
     "text_anchor": 2,
-    "text": "Clear stages in [Level-up Training] to get plenty of Common Exp."
+    "text": "Clear stages in [Level-up Training] to get lots of Common Exp."
   },
   {
     "id": 172,
@@ -222,7 +222,7 @@
     "image_name": "system_battlebook_001",
     "title": "Radiant Forging I",
     "text_anchor": 2,
-    "text": "Clear stages in [Radiant Forging] to get plenty of weapon enhancement materials."
+    "text": "Clear stages in [Radiant Forging] to get lots of weapon enhancement materials."
   },
   {
     "id": 192,
@@ -249,7 +249,7 @@
     "image_name": "system_battlebook_001",
     "title": "Memory Retrieval I",
     "text_anchor": 2,
-    "text": "Clear stages in [Memory Retrieval] to get Character Memories"
+    "text": "Clear stages in [Memory Retrieval] to get Character Memories."
   },
   {
     "id": 212,
@@ -411,14 +411,14 @@
     "image_name": "system_tips_activity_weekly",
     "title": "Tower of Conquest II",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>You can claim weekly rewards by collecting a certain number of Tower Emblems every week.\n<sprite=10>When a floor is cleared for the first time, you can claim the chest for this floor, increase the Level Rewards by 1 level, and unlock more Level Rewards.\n<sprite=10>The Conqueror's Insignia in the Level Rewards can be used to exchange for resources in the shop.\n<sprite=10>If you have claimed the Level Rewards for a lower floor, the chest of the next floor will contain the reward difference.\n<sprite=10>Failing a challenge will deduct one challenge attempt, with one attempt recovered every 30 minutes.\n\n<size=28><style=C4>■ Refresh Rules</style></size>\n<sprite=10>After the weekly refresh, the [Environment], [Stage Mutation], and enemy types will change accordingly.\n<sprite=10>Based on your highest recorded floor, if you fail to clear any stage on that floor during the week, you will drop 2 floors after the refresh; if you clear any stage, you will drop 1 floor.\n<sprite=10>You will drop to the highest recorded floor minus 2 floors, but no lower than Floor 2 of the Tower of Conquest.\n<sprite=10>After clearing all stages on Floor 10, you will drop to Floor 9 at most after the refresh."
+    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>You can claim weekly rewards by collecting a certain number of Tower Emblems every week.\n<sprite=10>When a floor is cleared for the first time, you can claim the chest for this floor, increase the Floor Progress by 1, and unlock more Floor Rewards.\n<sprite=10>The Conqueror's Insignia in the Floor Rewards can be used to exchange for resources in the shop.\n<sprite=10>If you have claimed the Floor Rewards for a lower floor, the chest of the next floor will contain a bonus.\n<sprite=10>Failing a challenge will deduct one challenge attempt, with one attempt recovered every 30 minutes.\n\n<size=28><style=C4>■ Refresh Rules</style></size>\n<sprite=10>After the weekly refresh, the [Environment], [Stage Mutation], and enemy types will change accordingly.\n<sprite=10>Based on your highest recorded floor, if you fail to clear any stage on that floor during the week, you will drop 2 floors after the refresh; if you clear any stage, you will drop 1 floor.\n<sprite=10>You will drop to the highest recorded floor minus 2 floors, but no lower than Floor 2 of the Tower of Conquest.\n<sprite=10>After clearing all stages on Floor 10, you will drop to Floor 9 at most after the refresh."
   },
   {
     "id": 500,
     "name": "拖拽上阵",
     "type": 3,
     "image_name": "system_tips_battle_start",
-    "title": "Drag for Layout",
+    "title": "Drag to Deploy",
     "text_anchor": 2,
     "text": "Drag characters to the battlefield for layout"
   },
@@ -501,7 +501,7 @@
     "image_name": "system_tips_sandbox_blueprint",
     "title": "Forging",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>[Blueprint Forging]: Consumes blueprints and materials to produce gear. The gear and forging costs are determined by the selected blueprint.\n<sprite=10>[Normal Forging]: Consumes materials only to produce standard gear.\n<sprite=10>[Material Forging]: Produces the specified forging materials."
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>[Blueprint Forging]: Consumes blueprints and materials to produce gear. The gear and forging costs are determined by the selected blueprint.\n<sprite=10>[Normal Forging]: Consumes materials only to produce standard gear.\n<sprite=10>[Material Production]: Produces the specified forging materials."
   },
   {
     "id": 510,
@@ -573,7 +573,7 @@
     "image_name": "system_tips_activity_rkup",
     "title": "Rank-up Trial",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can get rank-up materials for Elysium characters by clearing Rank-up Trials.\n<sprite=10>Choose different stages to obtain rank-up materials for different classes.\n<sprite=10>You have 1 Extra Rewards attempt per day.\n<sprite=10>The Extra Rewards attempt is not consumed when you clear a stage for the first time.\n\n<size=28><style=C4>Daily Trials</style></size>\n<sprite=10>All stages in Rank-up Trials are open all-day for challenge.\n<sprite=10>However, Extra Rewards stages rotate among the five roles from Monday to Friday.\n<sprite=10>On Saturdays and Sundays, all stages offer extra rewards, and the Extra Reward attempt is shared across all stages."
+    "text": "<size=28><style=C4>Basic Information</style></size>\n<sprite=10>You can get upgrade materials for Elysium characters by clearing Rank-up Trials.\n<sprite=10>Choose different stages to obtain upgrade materials for different classes.\n<sprite=10>You have 1 Extra Rewards attempt per day.\n<sprite=10>The Extra Rewards attempt is not consumed when you clear a stage for the first time.\n\n<size=28><style=C4>Daily Trials</style></size>\n<sprite=10>All stages in Rank-up Trials are open all-day for challenge.\n<sprite=10>However, Extra Rewards stages rotate among the five roles from Monday to Friday.\n<sprite=10>On Saturdays and Sundays, all stages offer extra rewards, and the Extra Reward attempt is shared across all stages."
   },
   {
     "id": 518,
@@ -762,7 +762,7 @@
     "image_name": "system_battlebook_001",
     "title": "Field Environment",
     "text_anchor": 2,
-    "text": "Activate Environment Effect\nAnd make clever use of the environment to have an edge in battle."
+    "text": "Make full use of Environment Effects to gain the upper hand in battle."
   },
   {
     "id": 1010,
@@ -816,7 +816,7 @@
     "image_name": "",
     "title": "Trading Post",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>[Orders] are divided into event quests and freedom quests, which can be dispatched by loading cargo, and various rewards are obtained upon completion.\n<sprite=10>In [Caravans], you can view ongoing and pending orders. Some orders require battle before settlement.\n<sprite=10>[Trading Post] displays the development level, abundant produce, and hot commodities of each active trading post."
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>[Orders] are divided into Urgent Orders and Flexible Orders, which can be dispatched by loading cargo. Various rewards are obtained upon completion.\n<sprite=10>In [Caravans], you can view ongoing and pending orders. Some orders may require a battle before settlement.\n<sprite=10>The [Trading Post] displays the development level, abundant produce, and hot commodities of each active Trading Post."
   },
   {
     "id": 1017,
@@ -852,7 +852,7 @@
     "image_name": "system_tips_activity_weekly",
     "title": "Tower of Conquest III",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ Level Reward Preview</style></size>\n<sprite=10>[Lv.0] total rewards - Hope Luxite x180 , Conqueror's Insignia x140\n<sprite=10>[Lv.1] total rewards - Hope Luxite x200 , Conqueror's Insignia x180\n<sprite=10>[Lv.2] total rewards - Hope Luxite x220 , Conqueror's Insignia x200\n<sprite=10>[Lv.3] total rewards - Hope Luxite x240 , Conqueror's Insignia x220\n<sprite=10>[Lv.4] total rewards - Hope Luxite x260 , Conqueror's Insignia x240\n<sprite=10>[Lv.5] total rewards - Hope Luxite x280 , Conqueror's Insignia x260\n<sprite=10>[Lv.6] total rewards - Hope Luxite x300 , Conqueror's Insignia x340\n<sprite=10>[Lv.7] total rewards - Hope Luxite x320 , Conqueror's Insignia x420\n<sprite=10>[Lv.8] total rewards - Hope Luxite x340 , Conqueror's Insignia x580\n<sprite=10>[Lv.9] total rewards - Hope Luxite x360 , Conqueror's Insignia x820\n<sprite=10>[Lv.10] total rewards - Hope Luxite x380 , Conqueror's Insignia x1,300"
+    "text": "<size=28><style=C4>■ Floor Rewards Preview</style></size>\n<sprite=10>[Lv.0] Total: Hope Luxites x180, Conqueror's Insignia x140\n<sprite=10>[Lv.1] Total: Hope Luxites x200, Conqueror's Insignia x180\n<sprite=10>[Lv.2] Total: Hope Luxites x220, Conqueror's Insignia x200\n<sprite=10>[Lv.3] Total: Hope Luxites x240, Conqueror's Insignia x220\n<sprite=10>[Lv.4] Total: Hope Luxites x260, Conqueror's Insignia x240\n<sprite=10>[Lv.5] Total: Hope Luxites x280, Conqueror's Insignia x260\n<sprite=10>[Lv.6] Total: Hope Luxites x300, Conqueror's Insignia x340\n<sprite=10>[Lv.7] Total: Hope Luxites x320, Conqueror's Insignia x420\n<sprite=10>[Lv.8] Total: Hope Luxites x340, Conqueror's Insignia x580\n<sprite=10>[Lv.9] Total: Hope Luxites x360, Conqueror's Insignia x820\n<sprite=10>[Lv.10] Total: Hope Luxites x380, Conqueror's Insignia x1,300"
   },
   {
     "id": 1021,
@@ -897,7 +897,7 @@
     "image_name": "system_tips_arena",
     "title": "Time-Limited Event Info",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>After [Apex Showdown] is available, you can freely choose any unlocked difficulty to challenge.\n<sprite=10>The higher the difficulty you challenge, the more stages can be unlocked.\n<sprite=10>The higher the difficulty you choose, the more challenge points can be earned after clearing.\n<sprite=10>When any leader completes a high-difficulty stage, all other leaders in the server can claim the designated rewards.\n\n<size=28><style=C4>■ Other Rules</style></size>\n<sprite=10>Challenges in [Apex Showdown] will not consume any Endurance.\n<sprite=10>After the event ends, you will no longer be able to enter [Apex Showdown]."
+    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>Participate in the event to clear designated difficulty stages to unlock subsequent stages, earn challenge points and rankings, and complete event quests.\n<sprite=10>When any player clears a designated difficulty stage, other players can all claim the event rewards.\n<sprite=10>Participating in stages does not consume any Stamina."
   },
   {
     "id": 1028,
@@ -906,6 +906,6 @@
     "image_name": "system_tips_arena",
     "title": "Voyage of Discovery Intro",
     "text_anchor": 2,
-    "text": "<size=28><style=C4>■ Basic Rules</style></size>\n<sprite=10>During the event, complete the event stages to earn Adventure Coins, which can be exchanged for rewards at the [Adventure Depot].\n<sprite=10>Once unlock conditions are met, you can choose any difficulty for the adventure. After clearing normal stages, you can choose a [Buff].\n<sprite=10>After clearing the boss stage, the round of adventure ends, and you can choose to consume Endurance to settle Adventure Coins, earning more coins with higher difficulties.\n<sprite=10>Consuming Extra Bonus Attempts allows for additional Adventure Coins, with Extra Bonus Attempts recovered once a week at 24:00 on Sundays, and can be accumulated during the event."
+    "text": "<size=28><style=C4>Basic Rules</style></size>\n<sprite=10>During the event, complete the event stages to earn Adventure Coins, which can be exchanged for rewards at the [Adventure Depot].\n<sprite=10>Once unlock conditions are met, you can choose any difficulty for the adventure. After clearing common stages, you can choose a buff.\n<sprite=10>After clearing the boss stage, the round of adventure ends, and you can choose to consume Endurance to settle Adventure Coins, earning more coins with higher difficulties.\n<sprite=10>Consuming Extra Bonus Attempts allows for additional Adventure Coins, with Extra Bonus Attempts recovered once a week at 24:00 on Sundays, and can be accumulated during the event."
   }
 ]

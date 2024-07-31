@@ -2690,7 +2690,7 @@
   {
     "id": 385,
     "idunit": 423,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Special care from you? I'm looking forward to it…",
     "event_name": "play_vo_sys_momo_recover"
   },
@@ -2949,7 +2949,7 @@
   {
     "id": 422,
     "idunit": 161,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "I... I'm ready.",
     "event_name": "play_vo_sys_geluoliya_recover"
   },
@@ -2998,7 +2998,7 @@
   {
     "id": 429,
     "idunit": 423,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "It's amazing. I feel better suddenly. Thank you.",
     "event_name": "play_vo_sys_momo_recovered"
   },
@@ -3026,7 +3026,7 @@
   {
     "id": 433,
     "idunit": 161,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "I thank you. This bond will be my everlasting treasure.",
     "event_name": "play_vo_sys_geluoliya_recovered"
   },
@@ -3118,20 +3118,20 @@
     "id": 446,
     "idunit": 312,
     "title": "Chat 3",
-    "text": "/",
+    "text": "I think I understand now. To see the truth of something clearly, eyes alone aren't enough - you need to use your heart too. Let go of stray thoughts, shed the burdens in your heart, and look ahead... There's still a long road ahead, so why should we be in a rush for answers at this moment?",
     "event_name": "play_vo_sys_laweiye_chat3"
   },
   {
     "id": 447,
     "idunit": 312,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "C'mon! Between us, there's no need to be shy!",
     "event_name": "play_vo_sys_laweiye_recover"
   },
   {
     "id": 448,
     "idunit": 312,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Hmm... This feeling's not bad.",
     "event_name": "play_vo_sys_laweiye_recovered"
   },
@@ -3236,14 +3236,14 @@
   {
     "id": 463,
     "idunit": 284,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Sorry, it's a long hard day for you again.",
     "event_name": "play_vo_sys_maisha_recover"
   },
   {
     "id": 464,
     "idunit": 284,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "The bond between heart and mind... is this the tie that binds?",
     "event_name": "play_vo_sys_maisha_recovered"
   },
@@ -3348,14 +3348,14 @@
   {
     "id": 479,
     "idunit": 285,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Does it have to be like this? Okay...",
     "event_name": "play_vo_sys_fakaer_recover"
   },
   {
     "id": 480,
     "idunit": 285,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Anyway... Thank you.",
     "event_name": "play_vo_sys_fakaer_recovered"
   },
@@ -3440,7 +3440,7 @@
     "id": 492,
     "idunit": 343,
     "title": "Chat 2",
-    "text": "/",
+    "text": "Let's equip the new device and head to that mysterious area we just discovered. Catching a dozen calamities at once will be a breeze! But... I always hear strange sounds whenever we go there... Maybe the calamity there is even stronger than the ones in the Sea of Chaos? Hmm... Perhaps they can communicate with each other like humans? Ah! If only we could catch one that can talk and ask it some questions!",
     "event_name": "play_vo_sys_bela_chat2"
   },
   {
@@ -3453,14 +3453,14 @@
   {
     "id": 494,
     "idunit": 343,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Is that fun? I wanna try it too!",
     "event_name": "play_vo_sys_bela_recover"
   },
   {
     "id": 495,
     "idunit": 343,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Ooh! That was amazing! How'd you do that?",
     "event_name": "play_vo_sys_bela_recovered"
   },
@@ -3545,7 +3545,7 @@
     "id": 507,
     "idunit": 349,
     "title": "Chat 2",
-    "text": "It's true that I have used many hard means, and the ambition or sincerity of many people, to change the situation in Iria. Whatever the outcome, I've never looked back.",
+    "text": "Perhaps you're shouldering some missions that belong only to you, and perhaps that leaves you feeling lost. But please remember - the reason we're here isn't just the various choices you've made, but also the decisions each of us made for ourselves... So do what you want to do.",
     "event_name": "play_vo_sys_ditaliao_chat2"
   },
   {
@@ -3558,14 +3558,14 @@
   {
     "id": 509,
     "idunit": 349,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "I hope you know exactly what you are doing.",
     "event_name": "play_vo_sys_ditaliao_recover"
   },
   {
     "id": 510,
     "idunit": 349,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "What were you expecting?",
     "event_name": "play_vo_sys_ditaliao_recovered"
   },
@@ -3663,14 +3663,14 @@
   {
     "id": 524,
     "idunit": 323,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Mm-hmm , you can start at any time.",
     "event_name": "play_vo_sys_lutefei_recover"
   },
   {
     "id": 525,
     "idunit": 323,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "My friend, your way of expressing friendship is really special!",
     "event_name": "play_vo_sys_lutefei_recovered"
   },
@@ -3762,20 +3762,20 @@
     "id": 538,
     "idunit": 313,
     "title": "Chat 3",
-    "text": "/",
+    "text": "I've always believed that those who have left us, whether separated by life or death, continue to accompany us in some way, guiding our every move and breath... As long as they once entered the deepest part of your heart.",
     "event_name": "play_vo_sys_suofeiya_chat3"
   },
   {
     "id": 539,
     "idunit": 313,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Are you... Are you sure you're ready?",
     "event_name": "play_vo_sys_suofeiya_recover"
   },
   {
     "id": 540,
     "idunit": 313,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "It turns out that your heart is not always as calm as your appearance.",
     "event_name": "play_vo_sys_suofeiya_recovered"
   },
@@ -3867,7 +3867,7 @@
     "id": 553,
     "idunit": 362,
     "title": "Chat 2",
-    "text": "/",
+    "text": "That kid is quite popular on Elysium, much better than me. Col has been imitating how others talk lately. Can't let her pick up bad habits from her old man - ahem, I mean, from me...",
     "event_name": "play_vo_sys_migeer_chat2"
   },
   {
@@ -3880,14 +3880,14 @@
   {
     "id": 555,
     "idunit": 362,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Don't regret it.",
     "event_name": "play_vo_sys_migeer_recover"
   },
   {
     "id": 556,
     "idunit": 362,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "You're too good a person… it's hopeless.",
     "event_name": "play_vo_sys_migeer_recovered"
   },
@@ -3985,14 +3985,14 @@
   {
     "id": 585,
     "idunit": 399,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Well, I think I'm ready.",
     "event_name": "play_vo_sys_aida_recover"
   },
   {
     "id": 586,
     "idunit": 399,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "I've never felt this way before, thank you.",
     "event_name": "play_vo_sys_aida_recovered"
   },
@@ -4090,14 +4090,14 @@
   {
     "id": 616,
     "idunit": 283,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "I think... I'm ready.",
     "event_name": "play_vo_sys_yinanna1_recover"
   },
   {
     "id": 617,
     "idunit": 283,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "It is incredible... That which fills the space between our hearts flutters with warmth.",
     "event_name": "play_vo_sys_yinanna1_recovered"
   },
@@ -4182,27 +4182,27 @@
     "id": 629,
     "idunit": 348,
     "title": "Chat 2",
-    "text": "/",
+    "text": "You're always worrying about me, but what about you? Are you... happy? What have you experienced lately? I... want to know it all. Can you tell me one by one?",
     "event_name": "play_vo_sys_samansha1_chat2"
   },
   {
     "id": 630,
     "idunit": 348,
     "title": "Chat 3",
-    "text": "/",
+    "text": "Dazzling meteors and the vast sea of stars... The night sky on Elysium is beautiful. The road ahead is long too. Perhaps... there are even more beautiful sights waiting for us.",
     "event_name": "play_vo_sys_samansha1_chat3"
   },
   {
     "id": 631,
     "idunit": 348,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "It is always you who carries forward our burdens…",
     "event_name": "play_vo_sys_samansha1_recover"
   },
   {
     "id": 632,
     "idunit": 348,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "It is this Light... that keeps me from being lost in the dark.",
     "event_name": "play_vo_sys_samansha1_recovered"
   },
@@ -4867,14 +4867,14 @@
   {
     "id": 757,
     "idunit": 162,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "I... I'm ready.",
     "event_name": "play_vo_sys_geluoliya_recover"
   },
   {
     "id": 758,
     "idunit": 162,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Thanks. This bond will be my everlasting treasure.",
     "event_name": "play_vo_sys_geluoliya_recovered"
   },
@@ -5161,14 +5161,14 @@
   {
     "id": 799,
     "idunit": 373,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "A soul-to-soul ceremony? Fun.",
     "event_name": "play_vo_sys_ajiata_recover"
   },
   {
     "id": 800,
     "idunit": 373,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Like sleep tight after a long absence... well done!",
     "event_name": "play_vo_sys_ajiata_recovered"
   },
@@ -5399,14 +5399,14 @@
   {
     "id": 833,
     "idunit": 334,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Thank you for your effort.",
     "event_name": "play_vo_sys_magenusi_recover"
   },
   {
     "id": 834,
     "idunit": 334,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "I propose a toast to celebrate a friendship that transcends generations!",
     "event_name": "play_vo_sys_magenusi_recovered"
   },
@@ -5477,7 +5477,7 @@
     "id": 844,
     "idunit": 401,
     "title": "Received Buff",
-    "text": "Ah, thank you...",
+    "text": "Ah, thank you…",
     "event_name": "play_vo_bt_lunjiale_getbuff"
   },
   {
@@ -5637,14 +5637,14 @@
   {
     "id": 867,
     "idunit": 401,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Huh? Now?",
     "event_name": "play_vo_sys_lunjiale_recover"
   },
   {
     "id": 868,
     "idunit": 401,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "This sensation is growing stronger… What is it...?",
     "event_name": "play_vo_sys_lunjiale_recovered"
   },
@@ -5875,14 +5875,14 @@
   {
     "id": 901,
     "idunit": 402,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "I'm ready.",
     "event_name": "play_vo_sys_neierjiale_recover"
   },
   {
     "id": 902,
     "idunit": 402,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Sorry, I'm not used to this…",
     "event_name": "play_vo_sys_neierjiale_recovered"
   },
@@ -6113,14 +6113,14 @@
   {
     "id": 935,
     "idunit": 393,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Come on! Uh... Still a little nervous.",
     "event_name": "play_vo_sys_yiqi_recover"
   },
   {
     "id": 936,
     "idunit": 393,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Whoo! How did this happen!",
     "event_name": "play_vo_sys_yiqi_recovered"
   },
@@ -6351,14 +6351,14 @@
   {
     "id": 969,
     "idunit": 318,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "If you think it's necessary.",
     "event_name": "play_vo_sys_aogusite_recover"
   },
   {
     "id": 970,
     "idunit": 318,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Peeping into other people's hearts is a dangerous thing.",
     "event_name": "play_vo_sys_aogusite_recovered"
   },
@@ -6576,7 +6576,7 @@
     "id": 1001,
     "idunit": 441,
     "title": "Chat 2",
-    "text": "/",
+    "text": "\"Love the world, and give people hope.\"... Please don't mind me; seeing the buds blooming under the new moon just brought back many memories... Thank you. I will get even closer to them and care for them until the day the garden is in full bloom.",
     "event_name": "play_vo_sys_lieaonide_chat2"
   },
   {
@@ -6589,14 +6589,14 @@
   {
     "id": 1003,
     "idunit": 441,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Well, if you wish.",
     "event_name": "play_vo_sys_lieaonide_recover"
   },
   {
     "id": 1004,
     "idunit": 441,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "This ritual is consuming your energy. Is it really… worth it?",
     "event_name": "play_vo_sys_lieaonide_recovered"
   },
@@ -6827,14 +6827,14 @@
   {
     "id": 1037,
     "idunit": 335,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Yes, I'm ready!",
     "event_name": "play_vo_sys_zeweier_recover"
   },
   {
     "id": 1038,
     "idunit": 335,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "This rushing feeling of blood through my chest... I am once again filled with determination!",
     "event_name": "play_vo_sys_zeweier_recovered"
   },
@@ -7052,27 +7052,27 @@
     "id": 1069,
     "idunit": 151,
     "title": "Chat 2",
-    "text": "/",
+    "text": "My belly is full, and I feel great! Miguel really likes this place too... *burp* - Hehe... Miguel, I prepared a feast! Come eat with us, nice guy!",
     "event_name": "play_vo_sys_keer_chat2"
   },
   {
     "id": 1070,
     "idunit": 151,
     "title": "Chat 3",
-    "text": "/",
+    "text": "Col prepared a lot of canned food. When kittens eat it, they purr and roll over, letting Col pet their bellies... Want a can too, nice guy?",
     "event_name": "play_vo_sys_keer_chat3"
   },
   {
     "id": 1071,
     "idunit": 151,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Fetters? Col didn't understand.",
     "event_name": "play_vo_sys_keer_recover"
   },
   {
     "id": 1072,
     "idunit": 151,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Hmm... This, very good! Col likes it!",
     "event_name": "play_vo_sys_keer_recovered"
   },
@@ -7290,27 +7290,27 @@
     "id": 1103,
     "idunit": 437,
     "title": "Chat 2",
-    "text": "/",
+    "text": "Peaceful Elysium? Hmph, boring enough to make me puke! Everyone has this serene look as they have ascended to heaven. Sorry, but faces like that are better off in a coffin. Hey, come saw some calamities with me!",
     "event_name": "play_vo_sys_jiaxiya_chat2"
   },
   {
     "id": 1104,
     "idunit": 437,
     "title": "Chat 3",
-    "text": "/",
+    "text": "The Chainsaw Wheel is spinning really smoothly today. Hmph, hmm hmm ♪. Hm? What do you need? -- My mood? Ahem, why care so much? Elysium doesn't tolerate slackers!",
     "event_name": "play_vo_sys_jiaxiya_chat3"
   },
   {
     "id": 1105,
     "idunit": 437,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Wh-What do you want?",
     "event_name": "play_vo_sys_jiaxiya_recover"
   },
   {
     "id": 1106,
     "idunit": 437,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "I'm warning you! Whatever you saw... if you... Ugh!",
     "event_name": "play_vo_sys_jiaxiya_recovered"
   },
@@ -7541,14 +7541,14 @@
   {
     "id": 1139,
     "idunit": 336,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Let's... start.",
     "event_name": "play_vo_sys_guziman_recover"
   },
   {
     "id": 1140,
     "idunit": 336,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "You shoulder a heavy burden for one teetering on the edge of madness, a creature forged for slaughter. I am in your debt…",
     "event_name": "play_vo_sys_guziman_recovered"
   },
@@ -8213,14 +8213,14 @@
   {
     "id": 1235,
     "idunit": 351,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "...Well, I'm ready.",
     "event_name": "play_vo_sys_nuonuoweier_recover"
   },
   {
     "id": 1236,
     "idunit": 351,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Thank you for your kindness...",
     "event_name": "play_vo_sys_nuonuoweier_recovered"
   },
@@ -8318,14 +8318,14 @@
   {
     "id": 1250,
     "idunit": 372,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "A soul-to-soul ceremony? Fun.",
     "event_name": "play_vo_sys_ajiata_recover"
   },
   {
     "id": 1251,
     "idunit": 372,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Like sleep tight after a long absence... well done!",
     "event_name": "play_vo_sys_ajiata_recovered"
   },
@@ -8430,14 +8430,14 @@
   {
     "id": 1266,
     "idunit": 350,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Let's get started...",
     "event_name": "play_vo_sys_liliweier_recover"
   },
   {
     "id": 1267,
     "idunit": 350,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "This incredible feeling is...",
     "event_name": "play_vo_sys_liliweier_recovered"
   },
@@ -8535,14 +8535,14 @@
   {
     "id": 1281,
     "idunit": 332,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Sorry to trouble you once again.",
     "event_name": "play_vo_sys_taideng_recover"
   },
   {
     "id": 1282,
     "idunit": 332,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "I'm really sorry to bother you every time.",
     "event_name": "play_vo_sys_taideng_recovered"
   },
@@ -9040,7 +9040,7 @@
     "id": 1444,
     "idunit": 440,
     "title": "Chat",
-    "text": "The Sea of Chaos, Elysium, the Dimension Fragment… How does this world tick anyway…",
+    "text": "The Sea of Chaos, Elysium, the dimension fragment… How does this world tick anyway…",
     "event_name": "play_vo_sys_ximengna_chat1"
   },
   {
@@ -9060,14 +9060,14 @@
   {
     "id": 1447,
     "idunit": 440,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "\"Spiritual Forging,\" you say? I'm ready whenever you are.",
     "event_name": "play_vo_sys_ximengna_recover"
   },
   {
     "id": 1448,
     "idunit": 440,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "I hope this \"Bond\" won't shackle us on our journey ahead.",
     "event_name": "play_vo_sys_ximengna_recovered"
   },
@@ -9354,14 +9354,14 @@
   {
     "id": 1489,
     "idunit": 477,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "The link between souls… was once just a distant hope for me.",
     "event_name": "play_vo_sys_taaier_recover"
   },
   {
     "id": 1490,
     "idunit": 477,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Thank you, my friend…",
     "event_name": "play_vo_sys_taaier_recovered"
   },
@@ -9648,14 +9648,14 @@
   {
     "id": 1531,
     "idunit": 358,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Is this some kind of totem ritual? Haha, let's dive in!",
     "event_name": "play_vo_sys_alikexie_recover"
   },
   {
     "id": 1532,
     "idunit": 358,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Thanks to you, I'm feeling stronger than ever!",
     "event_name": "play_vo_sys_alikexie_recovered"
   },
@@ -9942,14 +9942,14 @@
   {
     "id": 1573,
     "idunit": 463,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "If you're feeling anxious, just close your eyes for a moment.",
     "event_name": "play_vo_sys_kalisi_recover"
   },
   {
     "id": 1574,
     "idunit": 463,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "This clear, warm sensation… feels so familiar, bringing a long-lost calm to my heart.",
     "event_name": "play_vo_sys_kalisi_recovered"
   },
@@ -10236,14 +10236,14 @@
   {
     "id": 1615,
     "idunit": 473,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Oh? Are you… nervous?",
     "event_name": "play_vo_sys_xiakelulu_recover"
   },
   {
     "id": 1616,
     "idunit": 473,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Quite an intriguing experience, feels like I've gotten to know you better.",
     "event_name": "play_vo_sys_xiakelulu_recovered"
   },
@@ -10530,14 +10530,14 @@
   {
     "id": 1657,
     "idunit": 493,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Hm… I'm all set! Let's get this party started!",
     "event_name": "play_vo_sys_koukouna_recover"
   },
   {
     "id": 1658,
     "idunit": 493,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Wow! What a magical experience. Traveling with you is truly exciting!",
     "event_name": "play_vo_sys_koukouna_recovered"
   },
@@ -10824,14 +10824,14 @@
   {
     "id": 1699,
     "idunit": 480,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Alright… if it maximizes our gains, then so be it.",
     "event_name": "play_vo_sys_akanbei_recover"
   },
   {
     "id": 1700,
     "idunit": 480,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Is this what they call a \"bond\"? It seems… not that bad…",
     "event_name": "play_vo_sys_akanbei_recovered"
   },
@@ -11118,14 +11118,14 @@
   {
     "id": 1741,
     "idunit": 490,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "What should I expect, then?",
     "event_name": "play_vo_sys_hasina_recover"
   },
   {
     "id": 1742,
     "idunit": 490,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "Your face seems to come into focus for me…",
     "event_name": "play_vo_sys_hasina_recovered"
   },
@@ -11412,14 +11412,14 @@
   {
     "id": 1783,
     "idunit": 495,
-    "title": "Synchronization Ready",
+    "title": "Spiritual Forging Ready",
     "text": "Alright, we're all set!",
     "event_name": "play_vo_sys_huoma_recover"
   },
   {
     "id": 1784,
     "idunit": 495,
-    "title": "Synchronization Complete",
+    "title": "Spiritual Forging Complete",
     "text": "That feels so powerful…",
     "event_name": "play_vo_sys_huoma_recovered"
   },
@@ -11622,169 +11622,169 @@
   {
     "id": 2042,
     "idunit": 362,
-    "title": "",
-    "text": "",
+    "title": "Chat 2",
+    "text": "You're absolutely right; the little one's ideas are what truly matter. Col seems fond of you when she says you're a nice leader. Col even mentioned treating you to a feast... Oh, how I struggle to cook anything fancy, but it seems I'm in for some trouble.",
     "event_name": "play_vo_sys_migeer_chat2_02"
   },
   {
     "id": 2043,
     "idunit": 318,
-    "title": "",
-    "text": "",
+    "title": "Chat 2",
+    "text": "Rather than wasting time here, don't you have more important things to do, \"Lord Leader\"? After all, nothing is more important than changing the world, right?",
     "event_name": "play_vo_sys_aogusite_chat2_02"
   },
   {
     "id": 2044,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Deploy",
+    "text": "A smart choice.",
     "event_name": "play_vo_bt_kewalei_entrance"
   },
   {
     "id": 2045,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Battle Standby 1",
+    "text": "Interesting.",
     "event_name": "play_vo_bt_kewalei_idle_01"
   },
   {
     "id": 2046,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Battle Standby 2",
+    "text": "Mm, no rush.",
     "event_name": "play_vo_bt_kewalei_idle_02"
   },
   {
     "id": 2047,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Standard Finisher",
+    "text": "It's nothing.",
     "event_name": "play_vo_bt_kewalei_kill1"
   },
   {
     "id": 2048,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Special Finisher",
+    "text": "Choosing the right moment to act. That's not bad.",
     "event_name": "play_vo_bt_kewalei_kill2"
   },
   {
     "id": 2049,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Continuous Finisher",
+    "text": "What a thunderstorm.",
     "event_name": "play_vo_bt_kewalei_kill3"
   },
   {
     "id": 2050,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Attack",
+    "text": "[breath 1]",
     "event_name": "play_vo_bt_kewalei_attack_01"
   },
   {
     "id": 2051,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Attack 2",
+    "text": "[breath 2]",
     "event_name": "play_vo_bt_kewalei_attack_02"
   },
   {
     "id": 2052,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Attack 3",
+    "text": "[breath 3]",
     "event_name": "play_vo_bt_kewalei_attack_03"
   },
   {
     "id": 2053,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Damage 1",
+    "text": "Stupid.",
     "event_name": "play_vo_bt_kewalei_attack2_01"
   },
   {
     "id": 2054,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Damage 2",
+    "text": "Let's end it.",
     "event_name": "play_vo_bt_kewalei_attack2_02"
   },
   {
     "id": 2055,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Self Buff",
+    "text": "Plan before you fight.",
     "event_name": "play_vo_bt_kewalei_buff1"
   },
   {
     "id": 2056,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Buff Ally",
+    "text": "Stay calm.",
     "event_name": "play_vo_bt_kewalei_buff2"
   },
   {
     "id": 2057,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Received Buff",
+    "text": "Thank you for your help.",
     "event_name": "play_vo_bt_kewalei_getbuff"
   },
   {
     "id": 2058,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Heavy Damage",
+    "text": "Hmph, no matter.",
     "event_name": "play_vo_bt_kewalei_weak"
   },
   {
     "id": 2059,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Healthy",
+    "text": "Advance, retreat, attack, defend, how will you choose?",
     "event_name": "play_vo_bt_kewalei_battlestart1"
   },
   {
     "id": 2060,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Injured",
+    "text": "Continue your plan.",
     "event_name": "play_vo_bt_kewalei_battlestart2"
   },
   {
     "id": 2061,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Critical",
+    "text": "I'm sure you know what you're doing.",
     "event_name": "play_vo_bt_kewalei_battlestart3"
   },
   {
     "id": 2062,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Exhausted",
+    "text": "That was my mistake.",
     "event_name": "play_vo_bt_kewalei_die"
   },
   {
     "id": 2063,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Perfect Victory",
+    "text": "The contest on the battlefield begins before the fighting even starts. Achieving victory before battle, you did quite well indeed.",
     "event_name": "play_vo_bt_kewalei_win1"
   },
   {
     "id": 2064,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Standard Victory",
+    "text": "The more thorough the preparation and the more accurate the judgment, the smaller the price. But for now, let's enjoy our victory.",
     "event_name": "play_vo_bt_kewalei_win2"
   },
   {
     "id": 2065,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Preempt",
+    "text": "How dare you.",
     "event_name": "play_vo_bt_kewalei_counter"
   },
   {
@@ -11825,57 +11825,57 @@
   {
     "id": 2071,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Summon",
+    "text": "The weather's not bad. I came here because of you? Heh, don't mind it. Everyone is either a player or a piece, sometimes both. Tell me, what forces are you fighting against, and what kind of balance are you seeking?",
     "event_name": "play_vo_sys_kewalei_getcharacter"
   },
   {
     "id": 2072,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Level Up",
+    "text": "One step closer to the destination.",
     "event_name": "play_vo_sys_kewalei_levelup"
   },
   {
     "id": 2073,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Learn Skills",
+    "text": "The art of victory requires both wit and means.",
     "event_name": "play_vo_sys_kewalei_getskill"
   },
   {
     "id": 2074,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Star Level Up",
+    "text": "Stand taller and you'll see the bigger picture more clearly.",
     "event_name": "play_vo_sys_kewalei_starup"
   },
   {
     "id": 2075,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Serve as Assistant",
+    "text": "Some details can indeed decide success or failure.",
     "event_name": "play_vo_sys_kewalei_assistance"
   },
   {
     "id": 2076,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Mail Reminder",
+    "text": "The best time to read a letter is the moment you receive it. If you believe information has value, you know it also depreciates.",
     "event_name": "play_vo_sys_kewalei_mail"
   },
   {
     "id": 2077,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Event Reminder",
+    "text": "I like this kind of change, within plans yet beyond expectations. Go take a look.",
     "event_name": "play_vo_sys_kewalei_event"
   },
   {
     "id": 2078,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Chat",
+    "text": "Chess? You're a commander, you understand the game. A good opponent is harder to find than a good teammate.",
     "event_name": "play_vo_sys_kewalei_chat1"
   },
   {
@@ -11888,36 +11888,36 @@
   {
     "id": 2080,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Spiritual Forging Ready",
+    "text": "A bond helps to accomplish things. I'm willing to try.",
     "event_name": "play_vo_sys_kewalei_recover"
   },
   {
     "id": 2081,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Spiritual Forging Complete",
+    "text": "It's a... very deep bond, yet unexpectedly simple. This is good. Simple means sturdy.",
     "event_name": "play_vo_sys_kewalei_recovered"
   },
   {
     "id": 2082,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Execute Command",
+    "text": "Forget it then.",
     "event_name": "play_vo_sys_kewalei_obey"
   },
   {
     "id": 2083,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Greeting",
+    "text": "Here? Shall we continue our last chess game?",
     "event_name": "play_vo_sys_kewalei_greeting"
   },
   {
     "id": 2084,
     "idunit": 634,
-    "title": "",
-    "text": "",
+    "title": "Idle",
+    "text": "What are you waiting for? Or... are you trying to capture the changes around by keeping yourself still?",
     "event_name": "play_vo_sys_kewalei_idle"
   },
   {

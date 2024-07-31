@@ -8,9 +8,9 @@
   },
   {
     "id": 2,
-    "name": "<sprite=1>Active Skill",
+    "name": "<sprite=1>Active Skills",
     "editor_name": "×主动技",
-    "desc": "[Debuff - Control - Disruption] Unable to cast any of [Active Skills], aside from [Basic Attack].",
+    "desc": "[Debuff - Control - Disruption] Unable to cast any of [Active Skills], aside from [basic attack].",
     "type": 2
   },
   {
@@ -24,7 +24,7 @@
     "id": 4,
     "name": "Warrior of Frost",
     "editor_name": "冰面作战",
-    "desc": "[Buff] Reduces DMG taken by <style=red>30%</style> and increases the distance the character can move by <style=red>1</style> tile when on [Frosty] tiles.",
+    "desc": "[Buff] Reduces DMG taken by <style=red>30%</style> and increases the distance the character can move by <style=red>1</style> tile when on [frosty] tiles.",
     "type": 2
   },
   {
@@ -52,7 +52,7 @@
     "id": 8,
     "name": "Apostle - Will",
     "editor_name": "使徒·意志",
-    "desc": "[Trait] Ignore the effects of [Black Mud] tiles. Reduces DMG taken by <style=red>30%</style> when on [Black Mud] tiles. After this character is defeated, gain [Stunned] until the end of battle and share this trait to allies.",
+    "desc": "[Trait] Ignore the effects of [black sludge] tiles. Reduces DMG taken by <style=red>30%</style> when on [black sludge] tiles. After this character is defeated, gain [stunned] until the end of battle and share this trait to allies.",
     "type": 1
   },
   {
@@ -101,7 +101,7 @@
     "id": 16,
     "name": "Dying",
     "editor_name": "濒死",
-    "desc": "[State] Activates when HP is below <style=red>30%</style>. Reduces DMG dealt by <style=red>30%</style> and increases DMG taken by <style=red>30%</style>.",
+    "desc": "[State] Activates when HP is below <style=green>30%</style>. Reduces DMG dealt by <style=red>30%</style> and increases DMG taken by <style=red>30%</style>.",
     "type": 2
   },
   {
@@ -129,7 +129,7 @@
     "id": 20,
     "name": "Shelter of Light",
     "editor_name": "光之庇佑",
-    "desc": "[Buff] Character is immune to all DMG and status afflictions. This buff will be dispelled upon being inflicted with [Stigmata].",
+    "desc": "[Buff] Character is immune to all DMG and status afflictions. This buff will be dispelled upon being inflicted with [Stigmata]. Otherwise it cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -227,7 +227,7 @@
     "id": 34,
     "name": "Invisibility",
     "editor_name": "隐身",
-    "desc": "[Buff] Character cannot be targeted by enemy skills.",
+    "desc": "[Buff]. Character cannot be targeted by skills, but is still affected by [AoE DMG] and [Environmental DMG], also can be [locked onto].",
     "type": 2
   },
   {
@@ -241,7 +241,7 @@
     "id": 36,
     "name": "Mind's Eye",
     "editor_name": "心眼",
-    "desc": "[Buff] Activates [Block] once after taking a [Back Attack].",
+    "desc": "[Buff] Activates [block] once after taking a [back attack].",
     "type": 2
   },
   {
@@ -269,21 +269,21 @@
     "id": 40,
     "name": "Counterattack",
     "editor_name": "回击",
-    "desc": "[Buff] When taking an Active Attack from an enemy from [the Front or Side] within attack range, performs a [Strike Back] that deals <style=red>70%</style> of [Basic Attack] DMG. This effect triggers only <style=red>once</style> per round.",
+    "desc": "[Buff] When taking an active attack from an enemy from [the front or side] within attack range, performs a [strike back] that deals <style=red>70%</style> of [basic attack] DMG. This effect triggers only <style=red>once</style> per round.",
     "type": 2
   },
   {
     "id": 41,
     "name": "Aura",
     "editor_name": "光环",
-    "desc": "N/A",
+    "desc": "[Buff] Takes effect in a certain range and cannot be dispelled or immunized.",
     "type": 2
   },
   {
     "id": 42,
     "name": "Mana Conversion",
     "editor_name": "魔能转换",
-    "desc": "[Buff] Boosts P.ATK by <style=red>40%</style> of the character's M.DEF.",
+    "desc": "[Buff] Boosts P.ATK by <style=purple>80%</style> of the character's M.DEF.",
     "type": 2
   },
   {
@@ -318,7 +318,7 @@
     "id": 47,
     "name": "Preempt",
     "editor_name": "先制",
-    "desc": "[Buff] Turns immediately before being attacked by enemies from [Front or Side], dealing DMG to the attacker.",
+    "desc": "[Buff] Turns immediately before being attacked by enemies from [front or side], dealing DMG to the attacker.",
     "type": 2
   },
   {
@@ -332,7 +332,7 @@
     "id": 49,
     "name": "Physical Shield",
     "editor_name": "物理护盾",
-    "desc": "[Shield] Blocks additional Physical DMG.",
+    "desc": "[shield] Blocks additional Physical DMG.",
     "type": 2
   },
   {
@@ -759,7 +759,7 @@
     "id": 110,
     "name": "<sprite=1>Attribute Debuff",
     "editor_name": "×属性减益",
-    "desc": "Buff: Immune to Attribute Debuffs, including <sprite=3>Attack, <sprite=3>P.DEF, <sprite=3>M.DEF, <sprite=3>Critical, <sprite=3>Crit DMG, <sprite=3>DMG, Vulnerable, <sprite=3>SPD, <sprite=3>Healing Received, <sprite=1>Healing Received, <sprite=1>Healing, <sprite=1>Attribute Boost, etc.",
+    "desc": "Buff: Immune to Attribute Debuffs, including <sprite=3>Attack, <sprite=3>P.DEF, <sprite=3>M.DEF, <sprite=3>Critical, <sprite=3>Crit DMG, <sprite=3>DMG, Vulnerable, <sprite=3>SPD, <sprite=3>Healing Received, <sprite=1>Healing Received, <sprite=1>Healing, <sprite=1>Attribute Buff, etc.",
     "type": 2
   },
   {
@@ -920,7 +920,7 @@
     "id": 133,
     "name": "<sprite=3>Crit DMG V",
     "editor_name": "▼暴伤5",
-    "desc": "[Debuff] Decreases Crit DMG by <style=red>100%</style>.",
+    "desc": "[Debuff] Decreases Crit DMG by <style=red>75%</style>.",
     "type": 2
   },
   {
@@ -1312,21 +1312,21 @@
     "id": 189,
     "name": "<sprite=1>Resolve",
     "editor_name": "×不屈",
-    "desc": "[Debuff] Nullifies [ResoLve], as well as certain effects that prevent being defeated or allow a return to combat upon defeat.",
+    "desc": "[Debuff] Nullifies [Resolve], as well as certain effects that prevent being defeated or allow a return to combat upon defeat.",
     "type": 2
   },
   {
     "id": 190,
     "name": "<sprite=1>Dodge",
     "editor_name": "×闪避",
-    "desc": "[Debuff - Control - Disruption] Nullifies [Dodge].",
+    "desc": "[Debuff - Control - Disruption] Nullifies [dodge].",
     "type": 2
   },
   {
     "id": 191,
     "name": "Ignore Dodge",
     "editor_name": "无视闪避",
-    "desc": "[Buff] Bypasses the enemy's ability to [Dodge].",
+    "desc": "[Buff] Bypasses the enemy's ability to [dodge].",
     "type": 2
   },
   {
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 194,
-    "name": "Stunned",
+    "name": "Stun",
     "editor_name": "晕眩",
     "desc": "[Debuff - Bound] Cannot take any action.",
     "type": 2
@@ -1361,7 +1361,7 @@
     "id": 196,
     "name": "Frozen",
     "editor_name": "冰封",
-    "desc": "[Debuff - Control - Bound] Cannot take any action or be passed through, and gains immunity to all [Physical DMG]. The effect is disabled upon taking Fire [AoE DMG].",
+    "desc": "[Debuff - Control - Bound] Cannot take any action or be passed through, and gains immunity to all [physical DMG]. The effect is disabled upon taking Fire [AoE DMG].",
     "type": 2
   },
   {
@@ -1389,7 +1389,7 @@
     "id": 200,
     "name": "Life Loss",
     "editor_name": "生命流失",
-    "desc": "[Debuff] Loses a certain amount of HP at the end of each action.",
+    "desc": "[Debuff] Loses a certain amount of HP at the end of each turn.",
     "type": 2
   },
   {
@@ -1417,7 +1417,7 @@
     "id": 204,
     "name": "<sprite=1>Attribute Buff",
     "editor_name": "×属性增益",
-    "desc": "[Debuff] Character is unable to add Attribute Boosts, including [<sprite=2>Attack], [<sprite=2>DMG], [<sprite=2>Critical], [<sprite=2>Crit DMG], [<sprite=2>P.DEF], [<sprite=2>M.DEF], [DMG Reduction], etc.",
+    "desc": "[Debuff] Character is unable to add Attribute Buffs, including [<sprite=2>Attack], [<sprite=2>DMG], [<sprite=2>Critical], [<sprite=2>Crit DMG], [<sprite=2>P.DEF], [<sprite=2>M.DEF], [DMG Reduction], etc.",
     "type": 2
   },
   {
@@ -1543,42 +1543,42 @@
     "id": 222,
     "name": "Shield Break",
     "editor_name": "破盾",
-    "desc": "[Buff] Increases ATK by a certain amount when attacking enemies with [Shield].",
+    "desc": "[Buff] Increases ATK by a certain amount when attacking enemies with [shield].",
     "type": 2
   },
   {
     "id": 223,
     "name": "Shield Break I",
     "editor_name": "破盾1",
-    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>5%</style> when attacking enemies with [Shield].",
+    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>15%</style> when attacking enemies with [shield].",
     "type": 2
   },
   {
     "id": 224,
     "name": "Shield Break II",
     "editor_name": "破盾2",
-    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>20%</style> when attacking enemies with [Shield].",
+    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>30%</style> when attacking enemies with [shield].",
     "type": 2
   },
   {
     "id": 225,
     "name": "Shield Break III",
     "editor_name": "破盾3",
-    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>35%</style> when attacking enemies with [Shield].",
+    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>45%</style> when attacking enemies with [shield].",
     "type": 2
   },
   {
     "id": 226,
     "name": "Shield Break IV",
     "editor_name": "破盾4",
-    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>50%</style> when attacking enemies with [Shield].",
+    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>60%</style> when attacking enemies with [shield].",
     "type": 2
   },
   {
     "id": 227,
     "name": "Shield Break V",
     "editor_name": "破盾5",
-    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>75%</style> when attacking enemies with [Shield].",
+    "desc": "[Buff] Cannot be blocked. Increases ATK by <style=red>75%</style> when attacking enemies with [shield].",
     "type": 2
   },
   {
@@ -1627,14 +1627,14 @@
     "id": 235,
     "name": "Tropical Cyclone",
     "editor_name": "烈风超重斩",
-    "desc": "[Skill] Launches a single-target attack, dealing <style=red>140%</style> DMG. Increases DMG by <style=red>10%</style> for each [Debuff] on the target, up to <style=red>50%</style>.",
+    "desc": "[Skill] Launches a single-target attack, dealing <style=red>140%</style> DMG. Increases DMG by <style=red>10%</style> for each [debuff] on the target, up to <style=red>50%</style>.",
     "type": 1
   },
   {
     "id": 236,
     "name": "Toughness",
     "editor_name": "强韧",
-    "desc": "[Skill] Gain Immunity to [Injured] and [Dying] effects.",
+    "desc": "[Skill] Gain Immunity to [injured] and [dying] effects.",
     "type": 2
   },
   {
@@ -1655,7 +1655,7 @@
     "id": 239,
     "name": "Flag Waving",
     "editor_name": "扬旗",
-    "desc": "[Aura] Increases the attack and defense of all allies within <style=red>3</style> tiles by <style=red>12%</style>. Cannot be dispelled and bypasses Immunities.",
+    "desc": "[Aura] Increases the attack and defense of all allies within <style=red>3</style> tiles by <style=red>12%</style>. Cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -1669,14 +1669,14 @@
     "id": 241,
     "name": "Flag Waving Aura",
     "editor_name": "扬旗进军",
-    "desc": "[Aura] Increases the ATK and DEF attributes of allies within a certain range by <style=red>12%</style>. Cannot be dispelled and bypasses Immunities.",
+    "desc": "[Aura] Increases the ATK and DEF attributes of allies within a certain range by <style=red>12%</style>. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 242,
     "name": "Sword - Full Moon",
     "editor_name": "压制横扫",
-    "desc": "[Skill] Deals <style=red>90%</style> AoE Physical DMG to all enemies within <style=red>2</style> tiles around the character. DMG dealt is increased by <style=red>30%</style> when the targets are [Injured]. Gain [DMG Reduction 2] for <style=red>2</style> turns after performing the skill.",
+    "desc": "[Skill] Deals <style=red>90%</style> AoE physical DMG to all enemies within <style=red>2</style> tiles around the character. DMG dealt is increased by <style=red>30%</style> when the targets are [injured]. Gain [DMG Reduction 2] for <style=red>2</style> turns after performing the skill.",
     "type": 1
   },
   {
@@ -1746,7 +1746,7 @@
     "id": 252,
     "name": "Level 2 Debuff",
     "editor_name": "2级减益",
-    "desc": "[Debuff] Applies the following: [<sprite=3>Attack 2], [<sprite=3>Critical 2], [<sprite=3>P.DEF 2], [<sprite=3>M.DEF 2], [<sprite=1>Passive Skill], [<sprite=1>Reaction Skills], [<sprite=1>Healing Received], and [<sprite=1>Attribute Boost].",
+    "desc": "[Debuff] Applies the following: [<sprite=3>Attack 2], [<sprite=3>Critical 2], [<sprite=3>P.DEF 2], [<sprite=3>M.DEF 2], [<sprite=1>Passive Skill], [<sprite=1>Reaction Skills], [<sprite=1>Healing Received], and [<sprite=1>Attribute Buff].",
     "type": 2
   },
   {
@@ -1767,7 +1767,7 @@
     "id": 255,
     "name": "Obstinate",
     "editor_name": "阻挡",
-    "desc": "[State] Attacks the target, but DMG will be taken by the enemy in front of the target.",
+    "desc": "State. Attacks the target, but the attack path is blocked by the enemy or item in front of the target.",
     "type": 2
   },
   {
@@ -1816,14 +1816,14 @@
     "id": 263,
     "name": "Burning Heart",
     "editor_name": "内在烈火",
-    "desc": "[Buff] Deals <style=red>70%</style> Physical DMG to <style=red>2</style> enemies at random.",
+    "desc": "[Buff] Deals <style=red>70%</style> physical DMG to <style=red>2</style> enemies at random.",
     "type": 1
   },
   {
     "id": 264,
     "name": "Pick an Audience",
     "editor_name": "急速突击",
-    "desc": "[Buff] Deals <style=red>110%</style> Physical DMG to <style=red>1</style> enemy at random. Inflicts [<style=C4>Taunt</style>], lasting for <style=red>2</style> turns.",
+    "desc": "[Buff] Deals <style=red>110%</style> physical DMG to <style=red>1</style> enemy at random. Inflicts [<style=C4>Taunt</style>], lasting for <style=red>2</style> turns.",
     "type": 1
   },
   {
@@ -1851,14 +1851,14 @@
     "id": 268,
     "name": "Devil",
     "editor_name": "恶魔",
-    "desc": "[Buff] Increases ATK and DEF by <style=red>3%</style>, up to <style=red>30%</style>. This effect cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Increases ATK and DEF by <style=red>3%</style>, up to <style=red>30%</style>. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 269,
     "name": "Judgment",
     "editor_name": "审判",
-    "desc": "[Debuff] Increases DMG taken by <style=red>10%</style>. This effect bypasses Immunities.",
+    "desc": "[Debuff] Increases DMG taken by <style=red>10%</style>. This effect bypasses immunities.",
     "type": 1
   },
   {
@@ -1879,7 +1879,7 @@
     "id": 272,
     "name": "Parry",
     "editor_name": "招架",
-    "desc": "[State] Faces the target before taking melee P.DMG, increasing the P.ATK and P.DEF by <style=red>20%</style>.",
+    "desc": "[State] Before receiving a physical melee attack, turns to face the attacker and adds <style=red>20%</style> of the character's P.ATK to P.DEF.",
     "type": 2
   },
   {
@@ -1935,7 +1935,7 @@
     "id": 280,
     "name": "Fading Shadow",
     "editor_name": "遁入暗影",
-    "desc": "[Buff] Dodge all attacks within the duration, immunizing against all anomalies. This effect cannot be dispelled or negated.",
+    "desc": "[Buff] Dodge all attacks within the duration, immunizing against all anomalies. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -1970,7 +1970,7 @@
     "id": 285,
     "name": "Shift",
     "editor_name": "移形换影",
-    "desc": "[Buff] Attack inflicts critical DMG when its a [Back Attack].",
+    "desc": "[Buff] Attack inflicts critical DMG when its a [back attack].",
     "type": 1
   },
   {
@@ -1991,14 +1991,14 @@
     "id": 288,
     "name": "Repulsion Barrier",
     "editor_name": "斥力屏障",
-    "desc": "[Buff] Gains immunity to knockback. Each stack increases ATK by <style=red>2%</style>. [Blocks] P.ATK, and reduces DMG taken by <style=red>50%</style>. <style=red>1</style> stack is removed each time when taking DMG. This effect cannot be dispelled, and bypasses Immunities, stacking up to <style=red>5</style> times.",
+    "desc": "[Buff] Gains immunity to knockback. Each stack increases ATK by <style=red>2%</style>. [Blocks] P.ATK, and reduces DMG taken by <style=red>50%</style>. <style=red>1</style> stack is removed each time when taking DMG. This effect cannot be immunized or dispelled, stacking up to <style=red>5</style> times.",
     "type": 1
   },
   {
     "id": 289,
     "name": "Block Enhancement",
     "editor_name": "格挡强化",
-    "desc": "[Buff] Blocks with a 100% chance of negating ranged Physical DMG from the front or the side. Decreases DMG taken by 10% additionally when [Blocking].",
+    "desc": "[Buff] Blocks with a 100% chance of negating ranged physical DMG from the front or the side. Decreases DMG taken by 10% additionally when [Blocking].",
     "type": 2
   },
   {
@@ -2040,7 +2040,7 @@
     "id": 295,
     "name": "Veil",
     "editor_name": "面纱",
-    "desc": "[Buff] Decreases [AOE Damage] taken by <style=red>99%</style> and disappears after being attacked by [AOE Attack]. This effect cannot be dispelled or immunized.",
+    "desc": "[Buff] Decreases [AoE Damage] taken by <style=red>99%</style> and disappears after being attacked by [AoE Attack]. This effect cannot be dispelled or immunized.",
     "type": 1
   },
   {
@@ -2052,9 +2052,9 @@
   },
   {
     "id": 297,
-    "name": "Battle-tested Shield",
+    "name": "Battle-Tested Shield",
     "editor_name": "百战之姿",
-    "desc": "Gains [Block]. Performs [Alert] to 3 horizontal tiles ahead after the turn, dealing [AOE Damage] for a number of times equal to the character's DEF. Increases ATK by a by an additional percentage when using other [Alert] skills.",
+    "desc": "Gains [block]. Performs [Alert] to 3 horizontal tiles ahead after the turn, dealing [AoE Damage] for a number of times equal to the character's DEF. Increases ATK by a by an additional percentage when using other [Alert] skills.",
     "type": 1
   },
   {
@@ -2089,28 +2089,28 @@
     "id": 302,
     "name": "Enhanced Strike Back I",
     "editor_name": "强化反击1",
-    "desc": "[Buff] [Strikes Back] against all attacks within a <style=red>1</style>-tile radius. Deals P.DMG equal to <style=red>50%</style> of P.ATK plus M.ATK. This effect bypasses immunity and cannot be dispelled, lasting until the start of the next action.",
+    "desc": "[Buff] [Strikes Back] against all attacks within a <style=red>1</style>-tile radius. Deals P.DMG equal to <style=red>50%</style> of P.ATK plus M.ATK. This effect cannot be immunized or dispelled, lasting until the start of the next action.",
     "type": 2
   },
   {
     "id": 303,
     "name": "Enhanced Strike Back II",
     "editor_name": "强化反击2",
-    "desc": "[Buff] [Strikes Back] against all attacks within a <style=red>3</style>-tile radius. Deals P.DMG equal to <style=red>75%</style> of P.ATK plus M.ATK. This effect bypasses immunity and cannot be dispelled, lasting until the start of the next action.",
+    "desc": "[Buff] [Strikes Back] against all attacks within a <style=red>3</style>-tile radius. Deals P.DMG equal to <style=red>75%</style> of P.ATK plus M.ATK. This effect cannot be immunized or dispelled, lasting until the start of the next action.",
     "type": 2
   },
   {
     "id": 304,
     "name": "Enhanced Strike Back III",
     "editor_name": "强化反击3",
-    "desc": "[Buff] [Strikes Back] against all attacks within a <style=red>5</style>-tile radius. Deals P.DMG equal to <style=red>100%</style> of P.ATK plus M.ATK. This effect bypasses immunity and cannot be dispelled, lasting until the start of the next action.",
+    "desc": "[Buff] [Strikes Back] against all attacks within a <style=red>5</style>-tile radius. Deals P.DMG equal to <style=red>100%</style> of P.ATK plus M.ATK. This effect cannot be immunized or dispelled, lasting until the start of the next action.",
     "type": 2
   },
   {
     "id": 305,
     "name": "Invincible",
     "editor_name": "无敌",
-    "desc": "[Buff] Character is immune to all DMG. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Character is immune to all DMG. This effect cannot be immunized or dispelled.",
     "type": 2
   },
   {
@@ -2122,7 +2122,7 @@
   },
   {
     "id": 307,
-    "name": "Attack Debuff",
+    "name": "Attack Attribute Debuff",
     "editor_name": "攻击属性减益",
     "desc": "[Debuff] Applies the following: [<sprite=3>Attack], [<sprite=3>DMG], [<sprite=3>Critical], and [<sprite=3>Crit DMG].",
     "type": 2
@@ -2180,12 +2180,12 @@
     "id": 315,
     "name": "Beastification",
     "editor_name": "兽化",
-    "desc": "Increases ATK and P.DEF by <style=red>20%</style>, reducing M.DEF by <style=purple>50%</style>. Cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Increases ATK and P.DEF by <style=red>20%</style>, reducing M.DEF by <style=purple>50%</style>. It cannot be immunized or dispelled.",
     "type": 2
   },
   {
     "id": 316,
-    "name": "Taste of Game",
+    "name": "Taste of Prey",
     "editor_name": "猎物的味道（旧称追猎",
     "desc": "[Buff] Increases Movement by <style=red>2</style> tiles, and additionally recovers <style=green>1</style> NRG upon launching an active attack.",
     "type": 1
@@ -2194,14 +2194,14 @@
     "id": 317,
     "name": "Powerful Shield Charge",
     "editor_name": "强力盾牌充能",
-    "desc": "[Buff] Increases [Block] chance to <style=red>100%</style>. When performing [Block], reduces DMG taken by <style=red>15%</style> for each stack, up to <style=red>2</style> stacks. Removes <style=red>1</style> stack after receiving a physical single-target attack.",
+    "desc": "[Buff] Increases [block] chance to <style=red>100%</style>. When performing [block], reduces DMG taken by <style=red>15%</style> for each stack, up to <style=red>2</style> stacks. Removes <style=red>1</style> stack after receiving a physical single-target attack.",
     "type": 1
   },
   {
     "id": 318,
     "name": "Shield Charge",
     "editor_name": "盾牌充能",
-    "desc": "[Buff] Increases [Block] chance to <style=red>100%</style>. When performing [Block], reduces DMG taken by an additional <style=red>10%</style> for each stack. Removes <style=red>1</style> stack after receiving a physical single-target attack.",
+    "desc": "[Buff] Increases [block] chance to <style=red>100%</style>. When performing [block], reduces DMG taken by an additional <style=red>10%</style> for each stack. Removes <style=red>1</style> stack after receiving a physical single-target attack.",
     "type": 1
   },
   {
@@ -2215,7 +2215,7 @@
     "id": 320,
     "name": "Rage",
     "editor_name": "怒意",
-    "desc": "Increases ATK by <style=red>3%</style> per stack, stacking up to <style=red>6</style> times. Cannot be dispelled and bypasses Immunities.",
+    "desc": "Increases ATK by <style=red>3%</style> per stack, stacking up to <style=red>6</style> times. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -2299,7 +2299,7 @@
     "id": 332,
     "name": "Armor of Ice",
     "editor_name": "冰铠",
-    "desc": "[Buff] Gains a [physical shield] equal to <style=purple>60%</style> of the caster's M.ATK and immunity to [Frosty] tile effects. After being hit by a [Melee Attack], inflicts [<sprite=3>Move I] on the attacker for <style=red>2</style> turns.",
+    "desc": "[Buff] Gains a [physical shield] equal to <style=purple>60%</style> of the caster's M.ATK and immunity to [frosty] tile effects. After being hit by a [Melee Attack], inflicts [<sprite=3>Move I] on the attacker for <style=red>2</style> turns.",
     "type": 1
   },
   {
@@ -2313,7 +2313,7 @@
     "id": 334,
     "name": "Light Oracle",
     "editor_name": "[法皇之手]-权杖强化",
-    "desc": "[Buff] Conducts Skill Switch for some of Caris's exclusive skills. As for her non-exclusive skills, it increases the maximum range by <style=red>2</style> tiles and reduces the NRG consumed by <style=red>1</style>. This buff will be removed at the end of the action if a skill is cast. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Conducts Skill Switch for some of Caris's exclusive skills. As for her non-exclusive skills, it increases the maximum range by <style=red>2</style> tiles and reduces the NRG consumed by <style=red>1</style>. This buff will be removed at the end of the action if a skill is cast. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -2411,7 +2411,7 @@
     "id": 348,
     "name": "Charge Stance",
     "editor_name": "突击姿态",
-    "desc": "[Buff] Increases move distance by <style=red>2</style> tiles, restricting movement to a straight line. Increases attack by <style=red>15%</style> after moving. The character can move again after attacking, carrying over the unused movement. This effect cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Increases move distance by <style=red>2</style> tiles, restricting movement to a straight line. Increases attack by <style=red>15%</style> after moving. The character can move again after attacking, carrying over the unused movement. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -2446,7 +2446,7 @@
     "id": 353,
     "name": "Corrosion",
     "editor_name": "蚀炎",
-    "desc": "[Debuff] Character loses <style=red>4%</style> of their current HP after each turn. This effect cannot be stacked, cannot be dispelled and bypasses Immunities. If the effect is applied again, the character immediatly takes DMG <style=red>1</style> time.",
+    "desc": "[Debuff] Character loses <style=red>4%</style> of their current HP after each turn. This effect cannot be stacked, cannot be immunized or dispelled. If the effect is applied again, the character immediatly takes DMG <style=red>1</style> time.",
     "type": 2
   },
   {
@@ -2488,7 +2488,7 @@
     "id": 360,
     "name": "Intermediate Immunity",
     "editor_name": "免疫中级",
-    "desc": "Reduces HP [Percentage DMG] taken by <style=red>80%</style> and gains immunity to Bound, [<sprite=1>Active Skill], Teleportation, Knockback, and Interruption.",
+    "desc": "Reduces HP [Percentage DMG] taken by <style=red>80%</style> and gains immunity to Bound, [<sprite=1>Active Skills], Teleportation, Knockback, and Interruption.",
     "type": 2
   },
   {
@@ -2537,7 +2537,7 @@
     "id": 367,
     "name": "Lance of Justice",
     "editor_name": "贯彻正义之枪",
-    "desc": "[Skill] Deals <style=red>70%</style> Physical DMG to all enemies within <style=red>1</style> tile. When [Flag Waving] is not active, the skill is transformed into [Sword of Justice].",
+    "desc": "[Skill] Deals <style=red>70%</style> physical DMG to all enemies within <style=red>1</style> tile. When [Flag Waving] is not active, the skill is transformed into [Sword of Justice].",
     "type": 1
   },
   {
@@ -2551,7 +2551,7 @@
     "id": 369,
     "name": "Attribute Debuff",
     "editor_name": "属性减益",
-    "desc": "[Attribute Debuff] Applies <sprite=3>ATK, <sprite=3>P.DEF, <sprite=3>M.DEF, <sprite=3>Crit, <sprite=3>Crit DMG, <sprite=3>DMG, Vulnerable, <sprite=3>SPD, <sprite=3>Healing Received, <sprite=1>Healing Received, <sprite=1>Healing, <sprite=1>Attribute Boost, etc.",
+    "desc": "[Attribute Debuff] Applies <sprite=3>ATK, <sprite=3>P.DEF, <sprite=3>M.DEF, <sprite=3>Crit, <sprite=3>Crit DMG, <sprite=3>DMG, Vulnerable, <sprite=3>SPD, <sprite=3>Healing Received, <sprite=1>Healing Received, <sprite=1>Healing, <sprite=1>Attribute Buff, etc.",
     "type": 2
   },
   {
@@ -2593,14 +2593,14 @@
     "id": 375,
     "name": "Shield",
     "editor_name": "护盾",
-    "desc": "[Shield] Categorized into Physical Shield and Magical Shield, used to resist P.DMG and M.DMG respectively.",
+    "desc": "[shield] Categorized into Physical Shield and Magical Shield, used to resist P.DMG and M.DMG respectively.",
     "type": 2
   },
   {
     "id": 376,
     "name": "Fire",
     "editor_name": "火属性",
-    "desc": "[State] Transform a flammable tile into [Burning].",
+    "desc": "[State] Transform a flammable tile into [burning].",
     "type": 2
   },
   {
@@ -2684,7 +2684,7 @@
     "id": 388,
     "name": "Ruin Power Word",
     "editor_name": "毁灭律令",
-    "desc": "[Buff] Increases ATK and DEF by <style=red>20%</style> and Max Range by <style=red>2</style> tiles. This effect can be stacked up to <style=red>10</style> times. Cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Increases ATK and DEF by <style=red>20%</style> and Max Range by <style=red>2</style> tiles. This effect can be stacked up to <style=red>10</style> times. It cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -2712,7 +2712,7 @@
     "id": 392,
     "name": "Sniping Stance",
     "editor_name": "狙击姿态",
-    "desc": "[Buff] Increases the maximum range of ranged skills by <style=red>2</style> tiles. Increases ATK and Crit by <style=red>15%</style>. Unable to move. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Increases the maximum range of ranged skills by <style=red>2</style> tiles. Increases ATK and Crit by <style=red>15%</style>. Unable to move. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -2761,7 +2761,7 @@
     "id": 399,
     "name": "Calamity Armor",
     "editor_name": "灾厄护甲",
-    "desc": "[Buff] Grants both a Physical Shield and a Magical Shield equal to <style=red>50%</style> of the character's max HP. This effect cannot be dispelled and bypasses Immunities. When either Shield is broken, both shields are removed.",
+    "desc": "[Buff] Grants both a Physical Shield and a Magical Shield equal to <style=red>50%</style> of the character's max HP. This effect cannot be immunized or dispelled. When either Shield is broken, both shields are removed.",
     "type": 1
   },
   {
@@ -2815,7 +2815,7 @@
   },
   {
     "id": 407,
-    "name": "Fire Magic",
+    "name": "Fire Magic (Error)",
     "editor_name": "火魔法",
     "desc": "",
     "type": 2
@@ -2824,7 +2824,7 @@
     "id": 408,
     "name": "Calamity Bite",
     "editor_name": "灾厄反噬",
-    "desc": "[Buff] Character is unable to perform any actions. DMG received is reduced by <style=red>50%</style>. Immune to Teleport. This effect cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Character is unable to perform any actions. DMG received is reduced by <style=red>50%</style>. Immune to Teleport. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -2908,7 +2908,7 @@
     "id": 420,
     "name": "Mixed DMG",
     "editor_name": "混合伤害",
-    "desc": "Refers to the Skill DMG that includes Physical DMG and Magical DMG.",
+    "desc": "Refers to the Skill DMG that includes physical DMG and Magical DMG.",
     "type": 2
   },
   {
@@ -3069,7 +3069,7 @@
     "id": 443,
     "name": "Pivot",
     "editor_name": "中枢",
-    "desc": "Trait: Ignore the effect of [Black Sludge] Tile. Deal <style=red>20%</style> bonus DMG to enemies inflicted with [Corrosion]. After being defeated, you'll be Stunned until the end of the battle and grant your [Trait] to other allies.",
+    "desc": "Trait: Ignore the effect of [black sludge] tiles. Deal <style=red>20%</style> bonus DMG to enemies inflicted with [Corrosion]. After being defeated, you'll be Stunned until the end of the battle and grant your [Trait] to other allies.",
     "type": 1
   },
   {
@@ -3090,7 +3090,7 @@
     "id": 446,
     "name": "Apostle - Instinct",
     "editor_name": "使徒·本能",
-    "desc": "Trait: Ignore the effect of [Black Sludge] Tile. Deal <style=red>50%</style> bonus DMG when on [Black Sludge] Tiles. After being defeated, you'll be Stunned until the end of the battle and grant your [Trait] to other allies.",
+    "desc": "Trait: Ignore the effect of [black sludge] tiles. Deal <style=red>50%</style> bonus DMG when on [black sludge] tiles. After being defeated, you'll be Stunned until the end of the battle and grant your [Trait] to other allies.",
     "type": 1
   },
   {
@@ -3214,7 +3214,7 @@
   },
   {
     "id": 464,
-    "name": "<sprite=2>Defense I",
+    "name": "<sprite=2>DEF I",
     "editor_name": "▲防御1",
     "desc": "[Buff] Applies [<sprite=2>P.DEF 1] and [<sprite=2>Magic 1].",
     "type": 2
@@ -3501,7 +3501,7 @@
   },
   {
     "id": 505,
-    "name": "Large Character",
+    "name": "Large Target",
     "editor_name": "大型角色",
     "desc": "Refers to large-sized characters that occupy more than one tile.",
     "type": 2
@@ -3510,28 +3510,28 @@
     "id": 506,
     "name": "Revelation",
     "editor_name": "启示",
-    "desc": "With revelation received, the effect cannot be dispelled and bypasses immunity, stacking up to <style=red>15</style> times.",
+    "desc": "With revelation received, the effect cannot be immunized or dispelled, stacking up to <style=red>15</style> times.",
     "type": 1
   },
   {
     "id": 507,
     "name": "Oath Shattering",
     "editor_name": "粉碎誓言",
-    "desc": "[Buff] Grants [<sprite=2>DMG 3] and [<sprite=2>Move 1]. This buff is removed by Back Attack DMG. This effect cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Grants [<sprite=2>DMG 3] and [<sprite=2>Move 1]. This buff is removed by Back Attack DMG. This effect cannot be dispelled and bypasses immunities.",
     "type": 1
   },
   {
     "id": 508,
     "name": "Blade of Night",
     "editor_name": "夜幕之刃",
-    "desc": "[Buff] Character cannot be targeted. Increases DMG by <style=red>30%</style>. This buff will be removed after attacking or when attacked. This effect cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Character cannot be targeted. Increases DMG by <style=red>30%</style>. This buff will be removed after attacking or when attacked. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 509,
     "name": "Brute Whirlwind",
     "editor_name": "蛮牛旋风",
-    "desc": "[Skill] Deals <style=red>40%</style> Physical DMG to all enemies within <style=red>1</style> tile around, and when attacking [Injured] enemies, inflicts [Stunned] for <style=red>2</style> turns.",
+    "desc": "[Skill] Deals <style=red>40%</style> physical DMG to all enemies within <style=red>1</style> tile around, and when attacking [injured] enemies, inflicts [stunned] for <style=red>2</style> turns.",
     "type": 1
   },
   {
@@ -3594,49 +3594,49 @@
     "id": 518,
     "name": "Seriousness",
     "editor_name": "活动-大型2期-认真（挑战5）",
-    "desc": "[Buff] Increases DMG dealt by <style=red>20%</style>, reduces DMG taken by <style=red>20%</style>, and increases Movement by <style=red>2</style> tiles. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Increases DMG dealt by <style=red>20%</style>, reduces DMG taken by <style=red>20%</style>, and increases Movement by <style=red>2</style> tiles. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 519,
     "name": "Thorns",
     "editor_name": "荆棘之刺",
-    "desc": "[Buff] Reflects <style=red>15%</style> of DMG taken back to the attacker. This effect can be stacked up to <style=red>3</style> times and cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Reflects <style=red>15%</style> of DMG taken back to the attacker. This effect can be stacked up to <style=red>3</style> times and cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 520,
     "name": "Diligent",
     "editor_name": "活动-大型2期-刻苦（挑战5）",
-    "desc": "[Buff] Increases ATK by <style=red>20%</style>, DEF by <style=red>40%</style>, and Movement by <style=red>2</style> tiles. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Increases ATK by <style=red>20%</style>, DEF by <style=red>40%</style>, and Movement by <style=red>2</style> tiles. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 521,
     "name": "Range Increase",
     "editor_name": "射程增加",
-    "desc": "[Buff] Increases Max Range by <style=red>1</style> tile. This effect can be stacked up to <style=red>3</style> times. Cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Increases Max Range by <style=red>1</style> tile. This effect can be stacked up to <style=red>3</style> times. It cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 522,
     "name": "Strength Burst",
     "editor_name": "力量爆发",
-    "desc": "[Buff] Increases DMG by <style=red>7%</style>This effect can be stacked up to <style=red>3</style> times. Cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Increases DMG by <style=red>7%</style>This effect can be stacked up to <style=red>3</style> times. It cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 523,
     "name": "Life Recovery",
     "editor_name": "生命复苏",
-    "desc": "[Buff] Recovers <style=green>7%</style> of HP at the end of the turn. This effect can be stacked up to <style=red>3</style> times. Cannot be dispelled and bypasses Immunities.",
+    "desc": "[Buff] Recovers <style=green>7%</style> of HP at the end of the turn. This effect can be stacked up to <style=red>3</style> times. It cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 524,
     "name": "Shock",
     "editor_name": "震惊",
-    "desc": "[Debuff] Character is unable to perform any actions and is Immune to all DMG.",
+    "desc": "[Debuff] Character is unable to perform any actions and is immune to all DMG.",
     "type": 1
   },
   {
@@ -3699,21 +3699,21 @@
     "id": 533,
     "name": "Dullness",
     "editor_name": "迟钝",
-    "desc": "[Debuff - Control - Disruption] Affects by [<sprite=1>Reaction Skills]. Gains [Stunned] after taking a critical hit.",
+    "desc": "[Debuff - Control - Disruption] Affects by [<sprite=1>Reaction Skills]. Gains [stunned] after taking a critical hit.",
     "type": 1
   },
   {
     "id": 534,
     "name": "Power Blessing",
     "editor_name": "力量赐福",
-    "desc": "[Buff] Deals <style=red>50%</style> bonus DMG, ignoring Immune effects. This effect cannot be dispelled.",
+    "desc": "[Buff] Deals <style=red>50%</style> bonus DMG, ignoring Immune effects. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 535,
     "name": "Agility Blessing",
     "editor_name": "迅捷赐福",
-    "desc": "[Buff] Character can [Act Again] after attacking, ignoring Immune effects. This effect cannot be dispelled.",
+    "desc": "[Buff] Character can [Act Again] after attacking, ignoring Immune effects. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -3769,14 +3769,14 @@
     "id": 543,
     "name": "Light Oracle - Elimination of All Sins",
     "editor_name": "法皇之手-光谕·肃清万恶-地爆天星+",
-    "desc": "[Skill] Prepares for 1 turn. Deals 120% DMG to all enemies within 2 tiles and inflicts [Stunned] for 1 turn. When attacking a [Large Character], deals an additional 50% DMG. Continues to attack, dealing 60% DMG to all enemies within 5 tiles and inflicting [<sprite=1>Healing Received] for 2 rounds. After casting the skill, skips the action of that turn.",
+    "desc": "[Skill] Prepares for 1 turn. Deals 120% DMG to all enemies within 2 tiles and inflicts [stunned] for 1 turn. When attacking a [Large Target], deals an additional 50% DMG. Continues to attack, dealing 60% DMG to all enemies within 5 tiles and inflicting [<sprite=1>Healing Received] for 2 rounds. After casting the skill, skips the action of that turn.",
     "type": 1
   },
   {
     "id": 544,
     "name": "Elimination of All Sins",
     "editor_name": "法皇之手-肃清万恶-地爆天星",
-    "desc": "[Skill] Prepares for 1 turn, deals 130% [Fire] DMG to all enemies within a 2-tile range of the target, and inflicts [Stunned] for 1 turn. When attacking a [Large Character], deals an additional 100% DMG and skips the turn after the skill release. The skill will be switched to [Light Oracle - Elimination of All Sins] with [Light Oracle].",
+    "desc": "[Skill] Prepares for 1 turn, deals 130% [fire] DMG to all enemies within a 2-tile range of the target, and inflicts [stunned] for 1 turn. When attacking a [Large Target], deals an additional 100% DMG and skips the turn after the skill release. The skill will be switched to [Light Oracle - Elimination of All Sins] with [Light Oracle].",
     "type": 1
   },
   {
@@ -3867,7 +3867,7 @@
     "id": 557,
     "name": "Take Cover!",
     "editor_name": "长官小心！",
-    "desc": "[Buff] Casts [Assisting Cover] when [Fallen Knight - Curt] is under attack within a <style=red>4</style>-tile radius. Triggers <style=red>1</style> time max each round.",
+    "desc": "[Buff] Casts [assisting cover] when [Fallen Knight - Curt] is under attack within a <style=red>4</style>-tile radius. Triggers <style=red>1</style> time max each round.",
     "type": 1
   },
   {
@@ -3881,7 +3881,7 @@
     "id": 559,
     "name": "Will",
     "editor_name": "意志",
-    "desc": "[Status] Increases M.DEF by <style=purple>50%</style> when the character is [Injured].",
+    "desc": "[Status] Increases M.DEF by <style=purple>50%</style> when the character is [injured].",
     "type": 2
   },
   {
@@ -3916,7 +3916,7 @@
     "id": 564,
     "name": "Vitality Boost",
     "editor_name": "活力鼓舞",
-    "desc": "When a [Healing Pillar] is first activated, grants [HP Restoration] to all allies in battle. [HP Restoration] heals <style=green>20%</style> of the target's HP and dispels <style=red>1</style> [debuff] at the start of each turn. The effect cannot be dispelled and bypasses Immunities.",
+    "desc": "When a [Healing Pillar] is first activated, grants [HP Restoration] to all allies in battle. [HP Restoration] heals <style=green>20%</style> of the target's HP and dispels <style=red>1</style> [debuff] at the start of each turn. The effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -3930,14 +3930,14 @@
     "id": 566,
     "name": "Resilience Boost",
     "editor_name": "坚韧鼓舞",
-    "desc": "(Passive) When a [Barrier Pillar] is first activated, grants all allies in battle immunity to [Control], [Teleport], [Knock Back], and [Interrupt].",
+    "desc": "(Passive) When a [Barrier Pillar] is first activated, grants all allies in battle immunity to [control], [teleportation], [knock back], and [interrupt].",
     "type": 1
   },
   {
     "id": 567,
     "name": "Caged Reverie",
     "editor_name": "笼中说梦",
-    "desc": "[Aura] Increases DMG and Piercing DMG by <style=red>15%</style> for all allies within <style=red>3</style> tiles, allows them to share the DMG taken, and grants them immunity to [Attribute Debuff]. At the end of the action, recovers <style=green>15%</style> of HP. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Aura] Increases DMG and Piercing DMG by <style=red>15%</style> for all allies within <style=red>3</style> tiles, allows them to share the DMG taken, and grants them immunity to [Attribute Debuff]. At the end of the action, recovers <style=green>15%</style> of HP. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -3958,7 +3958,7 @@
     "id": 570,
     "name": "Immune to Attribute Debuff",
     "editor_name": "免疫属性减益",
-    "desc": "Buff: Immune to Attribute Debuffs, including <sprite=3>Attack, <sprite=3>P.DEF, <sprite=3>M.DEF, <sprite=3>Critical, <sprite=3>Crit DMG, <sprite=3>DMG, Vulnerable, <sprite=3>SPD, <sprite=3>Healing Received, <sprite=1>Healing Received, <sprite=1>Healing, <sprite=1>Attribute Boost, etc.",
+    "desc": "Buff: Immune to Attribute Debuffs, including <sprite=3>Attack, <sprite=3>P.DEF, <sprite=3>M.DEF, <sprite=3>Critical, <sprite=3>Crit DMG, <sprite=3>DMG, Vulnerable, <sprite=3>SPD, <sprite=3>Healing Received, <sprite=1>Healing Received, <sprite=1>Healing, <sprite=1>Attribute Buff, etc.",
     "type": 2
   },
   {
@@ -4000,28 +4000,28 @@
     "id": 576,
     "name": "Panic",
     "editor_name": "网游主线第十章-自乱阵脚",
-    "desc": "Debuff, which inflicts [The Hanged Men's Mark] at the start of the action. The effect lasts <style=red>2</style> rounds and the mark will be removed if DMG is dealt.",
+    "desc": "Debuff, which inflicts [The Hanged Men's Mark] at the start of the action. The effect lasts <style=red>2</style> turns and the mark will be removed if DMG is dealt.",
     "type": 1
   },
   {
     "id": 577,
     "name": "Chaotic Mutation - Iron Wall",
     "editor_name": "混沌异变·铁壁-未用",
-    "desc": "Buff, which decreases the Physical DMG taken by all allies within <style=red>3</style> tiles around you by <style=red>50%</style>. The effect cannot be dispelled. When having <style=blue>[Chaotic Mutation - Twisted]</style>, you deal <style=red>50%</style> more DMG. The effect cannot be dispelled.",
+    "desc": "Buff, which decreases the physical DMG taken by all allies within <style=red>3</style> tiles around you by <style=red>50%</style>. The effect cannot be dispelled. When having <style=blue>[Chaotic Mutation - Twisted]</style>, you deal <style=red>50%</style> more DMG. The effect cannot be dispelled.",
     "type": 1
   },
   {
     "id": 578,
     "name": "Chaotic Mutation - Twisted",
     "editor_name": "混沌异变·扭曲-未用",
-    "desc": "Buff, which decreases the Magical DMG taken by all allies within <style=red>3</style> tiles around you by <style=purple>50%</style>. The effect cannot be dispelled. When having <style=blue>[Chaotic Mutation - Iron Wall]</style>, you deal <style=red>50%</style> more DMG. The effect cannot be dispelled.",
+    "desc": "Buff, which decreases the magical DMG taken by all allies within <style=red>3</style> tiles around you by <style=purple>50%</style>. The effect cannot be dispelled. When having <style=blue>[Chaotic Mutation - Iron Wall]</style>, you deal <style=red>50%</style> more DMG. The effect cannot be dispelled.",
     "type": 1
   },
   {
     "id": 579,
     "name": "Unlimited Resolve",
     "editor_name": "无限不屈",
-    "desc": "Buff, which allows you to rejoin the battle and to restore <style=green>1</style> HP after being defeated. The effect can be activated unlimited times.",
+    "desc": "Buff. When defeated, returns to battle and recovers a certain amount of HP, with limit no activations.",
     "type": 1
   },
   {
@@ -4035,14 +4035,14 @@
     "id": 581,
     "name": "Physical DMG Reduction - Extra",
     "editor_name": "物伤减免·改",
-    "desc": "Buff, which decreases Physical DMG taken by <style=red>70%</style>. The effect cannot be dispelled or immunized.",
+    "desc": "Buff, which decreases physical DMG taken by <style=red>70%</style>. The effect cannot be dispelled or immunized.",
     "type": 1
   },
   {
     "id": 582,
     "name": "Magical DMG Reduction - Extra",
     "editor_name": "魔伤减免·改",
-    "desc": "Buff, which decreases Magical DMG taken by <style=red>70%</style>. The effect cannot be dispelled or immunized.",
+    "desc": "Buff, which decreases magical DMG taken by <style=red>70%</style>. The effect cannot be dispelled or immunized.",
     "type": 1
   },
   {
@@ -4054,7 +4054,7 @@
   },
   {
     "id": 584,
-    "name": "Supreme Immortality - Alter",
+    "name": "Unlimited Indestructibility - Alter",
     "editor_name": "无限不屈·异",
     "desc": "Buff, which allows you to rejoin the battle and to restore <style=green>50%</style> HP after being defeated, while decreasing your Movement by <style=red>1</style> tile for 1 turn and increasing the DMG taken by <style=red>20%</style>. The effect stacks up to <style=red>5</style> times and cannot be dispelled or immunized.",
     "type": 1
@@ -4070,7 +4070,7 @@
     "id": 586,
     "name": "Summon Clone",
     "editor_name": "活动-中型1期-敌方-召唤分身（挑战7）",
-    "desc": "When you're [Dying], summon <style=red>1</style> [Clone], which partially inherits your attributes.",
+    "desc": "When you're [dying], summon <style=red>1</style> [Clone], which partially inherits your attributes.",
     "type": 1
   },
   {
@@ -4126,21 +4126,21 @@
     "id": 594,
     "name": "Greed Leads to Ruin",
     "editor_name": "一掷千金敌",
-    "desc": "[Instant] skill, which allows you to sprinkle gold coins at the target tile, drawing all enemies and [Shadow Assassins] within <style=red>3</style> tiles together and inflicting [<sprite=3>Move II], [<sprite=3>M.DEF 2] and [<sprite=1>Rescue] on the enemies. The effect lasts <style=red>2</style> rounds.",
+    "desc": "[Instant] skill, which allows you to sprinkle gold coins at the target tile, drawing all enemies and [Shadow Assassins] within <style=red>3</style> tiles together and inflicting [<sprite=3>Move II], [<sprite=3>M.DEF 2] and [<sprite=1>Rescue] on the enemies. The effect lasts <style=red>2</style> turns.",
     "type": 1
   },
   {
     "id": 595,
     "name": "Rich rewards",
     "editor_name": "一掷千金友",
-    "desc": "[Skill] Restores <style=red>1</style> NRG to allies within <style=green>3</style> tiles around, decreases their Active Skill CD by <style=red>1</style> turn, and grants them [<sprite=2>ATK II], [<sprite=2>P.DEF II] and [<sprite=2>M.DEF II]; summoned units additionally gain [<sprite=2> Attack IV]. The effects last for <style=red>2</style> turns.",
+    "desc": "[Skill] Restores <style=green>1</style> NRG to allies within <style=red>3</style> tiles around, decreases their Active Skill CD by <style=red>1</style> turn, and grants them [<sprite=2>ATK II], [<sprite=2>P.DEF II] and [<sprite=2>M.DEF II]; summoned units additionally gain [<sprite=2> Attack IV]. The effects last for <style=red>2</style> turns.",
     "type": 1
   },
   {
     "id": 596,
     "name": "<sprite=1>NRG Restored",
     "editor_name": "×回能",
-    "desc": "[Debuff] Disables NRG restoration at the end of the action. This effect is blocked by Immunities, but cannot be dispelled.",
+    "desc": "[Debuff] Disables NRG restoration at the end of the action. This effect can be immunized, but cannot be dispelled.",
     "type": 2
   },
   {
@@ -4189,7 +4189,7 @@
     "id": 603,
     "name": "Hidden Fragrance",
     "editor_name": "暗香",
-    "desc": "[Debuff] When attacked by [Hasna], suffers additional effects. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Debuff] When attacked by [Hasna], suffers additional effects. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -4217,7 +4217,7 @@
     "id": 607,
     "name": "Shadowless Blade",
     "editor_name": "无影之刃",
-    "desc": "[Buff] Dodges one direct single-target attack and reacts with a [Strike Back], dealing <style=red>85%</style> of their [Physical AoE DMG]. Inflicts [Vulnerable II] for <style=red>2</style> turns, and restores <style=green>2</style> NRG to self.",
+    "desc": "[Buff] Dodges one direct single-target attack and reacts with a [strike back], dealing <style=red>85%</style> of their [physical AoE DMG]. Inflicts [Vulnerable II] for <style=red>2</style> turns, and restores <style=green>2</style> NRG to self.",
     "type": 1
   },
   {
@@ -4231,7 +4231,7 @@
     "id": 609,
     "name": "Frozen Trap",
     "editor_name": "活动-大型1期-寒冰陷阱",
-    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [piercing DMG] for <style=red>20%</style> of HP. Inflicts an extra [<sprite=3>Move 1] on enemy characters, lasting for <style=red>2</style> turns. Tiles within a <style=red>1</style>-tile radius become [Frosty] for <style=red>2</style> turns.",
+    "desc": "[Trap] Characters that cross or stand on the trap are inflicted with [piercing DMG] for <style=red>20%</style> of HP. Inflicts an extra [<sprite=3>Move 1] on enemy characters, lasting for <style=red>2</style> turns. Tiles within a <style=red>1</style>-tile radius become [frosty] for <style=red>2</style> turns.",
     "type": 1
   },
   {
@@ -4273,7 +4273,7 @@
     "id": 615,
     "name": "Knight's Valor",
     "editor_name": "骑士的英勇",
-    "desc": "Grants all allies [<style=blue>Knight's Valor</style>] for <style=red>2</style> turns:\nWhen attacking enemies from the [Front], increases ATK by <style=red>50%</style>. When attacked by enemies from the [Front], increases DEF by <style=red>40%</style>.\nBefore taking an Active Attack, uses [Basic Attack] to Preempt. After taking an Active Attack, uses [Basic Attack] to strike back. Unlimited times per round.",
+    "desc": "Grants all allies [<style=blue>Knight's Valor</style>] for <style=red>2</style> turns:\nWhen attacking enemies from the [Front], increases ATK by <style=red>50%</style>. When attacked by enemies from the [Front], increases DEF by <style=red>40%</style>.\nBefore taking an Active Attack, uses [basic attack] to Preempt. After taking an Active Attack, uses [basic attack] to strike back. Unlimited times per round.",
     "type": 1
   },
   {
@@ -4336,7 +4336,7 @@
     "id": 624,
     "name": "Corrosion Throne - Extra",
     "editor_name": "活动-中型2期-蚀炎之座·改",
-    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. While on [Unstable Sludge] tiles, increases DMG dealt by <style=red>50%</style>, gains <style=red>50%</style> [Life Steal] after attacking. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. While on [Unstable Sludge] tiles, increases DMG dealt by <style=red>50%</style>, gains <style=red>50%</style> [Life Steal] after attacking. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -4350,84 +4350,84 @@
     "id": 626,
     "name": "Rampage",
     "editor_name": "活动-中型2期-横冲直撞",
-    "desc": "[Buff] Gains immunity to all DMG. Traveling through [Unstable Sludge] doesn't consume Movement. Can only move in straight lines. Can [Jump over] enemies and neutral characters. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Gains immunity to all DMG. Traveling through [Unstable Sludge] doesn't consume Movement. Can only move in straight lines. Can [Jump over] enemies and neutral characters. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 627,
     "name": "Chariot's Power - Extra",
     "editor_name": "活动-中型2期-战车之力·改",
-    "desc": "[Buff] Gains immunity to knockback and all DMG. Traveling through [Unstable Sludge] doesn't consume Movement. Can [Jump over] enemies and neutral characters. When defeated, can rejoin the battle, recovers <style=green>50%</style> of HP, and gains [<style=C4><sprite=2>DMG V</style>]. The effect can be triggered up to <style=red>once</style> per round. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Gains immunity to knockback and all DMG. Traveling through [Unstable Sludge] doesn't consume Movement. Can [Jump over] enemies and neutral characters. When defeated, can rejoin the battle, recovers <style=green>50%</style> of HP, and gains [<style=C4><sprite=2>DMG V</style>]. The effect can be triggered up to <style=red>once</style> per round. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 628,
     "name": "Corrosion Shadow",
     "editor_name": "活动-中型2期-蚀炎之影",
-    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. While on [Unstable Sludge] tiles, can dodge infinitely. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. While on [Unstable Sludge] tiles, can dodge infinitely. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 629,
-    "name": "Taste of Game - Extra",
+    "name": "Taste of Prey - Extra",
     "editor_name": "活动-大型1期-追猎·改",
-    "desc": "[Buff] Increases Movement by <style=red>2</style> tiles. When attacking [Injured] enemies, additionally recovers <style=green>1</style> NRG (<style=red>once</style> per round). When attacking enemies on [Ice], inflicts 20% of [Life Steal].",
+    "desc": "[Buff] Increases Movement by <style=red>2</style> tiles. When attacking [injured] enemies, additionally recovers <style=green>1</style> NRG (<style=red>once</style> per round). When attacking enemies on [ice], inflicts 20% of [Life Steal].",
     "type": 1
   },
   {
     "id": 630,
     "name": "Corrosion Shadow - Extra",
     "editor_name": "活动-中型2期-蚀炎之影·改",
-    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. While on [Unstable Sludge] tiles, increases ATK by <style=red>50%</style>. When attacking, the target cannot get [Assisting Cover]. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. While on [Unstable Sludge] tiles, increases ATK by <style=red>50%</style>. When attacking, the target cannot get [assisting cover]. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 631,
     "name": "Track of Path",
     "editor_name": "活动-中型2期-轨迹行径",
-    "desc": "[Buff] Gains immunity to all DMG, moves along a fixed path, and can [Jump Over] enemies and neutral characters.",
+    "desc": "[Buff] Gains immunity to all DMG, moves along a fixed path, and can [jump over] enemies and neutral characters.",
     "type": 1
   },
   {
     "id": 632,
     "name": "Corrosion Crystal",
     "editor_name": "活动-中型2期-蚀炎之晶",
-    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. When defeated, deals [piercing DMG] equal to <style=red>50%</style> of the HP to all enemies within a <style=red>2</style>-tile radius. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Ignores the effects of [Unstable Sludge] tiles. When defeated, deals [piercing DMG] equal to <style=red>50%</style> of the HP to all enemies within a <style=red>2</style>-tile radius. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 633,
     "name": "Range Enhancement - Ice",
     "editor_name": "活动-大型1期-射程强化·冰",
-    "desc": "[Buff] Increases Crit DMG by <style=red>20%</style>. At the start of the turn, if on a [Frosty] tile, increases [Ranged Skill] maximum range by <style=red>1</style> tile.",
+    "desc": "[Buff] Increases Crit DMG by <style=red>20%</style>. At the start of the turn, if on a [frosty] tile, increases [Ranged Skill] maximum range by <style=red>1</style> tile.",
     "type": 1
   },
   {
     "id": 634,
     "name": "Ice Boost",
     "editor_name": "活动-大型1期-冰术增幅",
-    "desc": "[Buff] Increases M.DEF by <style=red>50%</style> and DMG dealt by <style=red>10%</style>. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Increases M.DEF by <style=red>50%</style> and DMG dealt by <style=red>10%</style>. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 635,
     "name": "Radiant Boost",
     "editor_name": "活动-大型1期-光术增幅",
-    "desc": "[Buff] Increases P.DEF by <style=red>50%</style> and DMG dealt by <style=red>10%</style>. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Increases P.DEF by <style=red>50%</style> and DMG dealt by <style=red>10%</style>. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 636,
     "name": "HP Recovery - Ice",
     "editor_name": "活动-大型1期-生命回复·冰",
-    "desc": "[Buff] Increases Crit by <style=red>20%</style>. At the end of the turn, if on a [Frosty] tile, recovers <style=green>10%</style> HP.",
+    "desc": "[Buff] Increases Crit by <style=red>20%</style>. At the end of the turn, if on a [frosty] tile, recovers <style=green>10%</style> HP.",
     "type": 1
   },
   {
     "id": 637,
     "name": "Entangle",
     "editor_name": "缠绕",
-    "desc": "[Debuff] Each stack reduces Movement by <style=red>1</style> tile. When having <style=red>3</style> stacks, gains [Stunned] for <style=red>1</style> turn and removes all stacks. At the end of the turn, removes <style=red>1</style> stack.",
+    "desc": "[Debuff] Each stack reduces Movement by <style=red>1</style> tile. When having <style=red>3</style> stacks, gains [stunned] for <style=red>1</style> turn and removes all stacks. At the end of the turn, removes <style=red>1</style> stack.",
     "type": 1
   },
   {
@@ -4441,14 +4441,14 @@
     "id": 639,
     "name": "Wavering Will",
     "editor_name": "偏斜的意志",
-    "desc": "Gains a <style=C4>Magical Shield</style> equal to <style=green>80%</style> of maximum HP, and gains immunity to debuffs and control effects while shielded. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "Gains a <style=C4>Magical Shield</style> equal to <style=green>80%</style> of maximum HP, and gains immunity to debuffs and control effects while shielded. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 640,
     "name": "Chariot's Power",
     "editor_name": "活动-中型2期-战车之力",
-    "desc": "[Buff] Gains immunity to all DMG. Traveling through [Unstable Sludge] doesn't consume Movement. Can [Jump Over] enemies and neutral characters. When defeated, can rejoin battle, recovers <style=green>50%</style> of HP, and gains [<style=C4><sprite=2>DMG V</style>], only effective <style=red>once</style>. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Gains immunity to all DMG. Traveling through [Unstable Sludge] doesn't consume Movement. Can [jump over] enemies and neutral characters. When defeated, can rejoin battle, recovers <style=green>50%</style> of HP, and gains [<style=C4><sprite=2>DMG V</style>], only effective <style=red>once</style>. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -4462,7 +4462,7 @@
     "id": 642,
     "name": "The Magician's Crimson",
     "editor_name": "魔术师之红",
-    "desc": "[Debuff] After the next attack by The Magician, The Magician immediately deals <style=purple>300%</style> of M.DMG to all allies within a <style=red>1</style>-circle radius. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Debuff] After the next attack by The Magician, The Magician immediately deals <style=purple>300%</style> of M.DMG to all allies within a <style=red>1</style>-circle radius. This effect cannot be dispelled, and bypasses immunities.",
     "type": 1
   },
   {
@@ -4483,35 +4483,35 @@
     "id": 645,
     "name": "Spring Wish Rocket",
     "editor_name": "活动-中型2期-己方-春愿火箭",
-    "desc": "[Item] When hit by a [Single-target Skill], it dispels tile effects in a straight line of <style=red>8</style> tiles in the direction of the hit and releases fireworks, knocking back [Calamity] by <style=red>1</style> tile and dealing [Fire] [piercing DMG] equal to <style=red>100%</style> of the HP to enemies in the area. If attacked in other ways, it releases fireworks in a cross-shaped area of <style=red>3</style> tiles.",
+    "desc": "[Item] When hit by a [Single-target Skill], it dispels tile effects in a straight line of <style=red>8</style> tiles in the direction of the hit and releases fireworks, knocking back [Calamity] by <style=red>1</style> tile and dealing [fire] [piercing DMG] equal to <style=red>100%</style> of the HP to enemies in the area. If attacked in other ways, it releases fireworks in a cross-shaped area of <style=red>3</style> tiles.",
     "type": 1
   },
   {
     "id": 646,
     "name": "Spring Wish Firecracker",
     "editor_name": "活动-中型2期-己方-春愿炮仗",
-    "desc": "[Item] Explodes when attacked, dispelling tile effects in an area of <style=red>2</style> tiles around it and dealing [Fire] [piercing DMG] equal to <style=red>100%</style> of the HP to [Calamity].",
+    "desc": "[Item] Explodes when attacked, dispelling tile effects in an area of <style=red>2</style> tiles around it and dealing [fire] [piercing DMG] equal to <style=red>100%</style> of the HP to [Calamity].",
     "type": 1
   },
   {
     "id": 647,
     "name": "Nature Outburst",
     "editor_name": "本能爆发",
-    "desc": "[Buff] Increases Movement by <style=red>2</style> tiles, ATK by <style=red>30%</style>, and DMG taken by <style=red>15%</style>. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Increases Movement by <style=red>2</style> tiles, ATK by <style=red>30%</style>, and DMG taken by <style=red>15%</style>. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 648,
     "name": "Molting Armor",
     "editor_name": "蜕变装甲",
-    "desc": "Clears all debuffs on self at the start of the action. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "Clears all debuffs on self at the start of the action. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 649,
     "name": "Chimeratech",
     "editor_name": "嵌合超载",
-    "desc": "When stacked up to certain stacks, the battle is forcibly failed. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "When stacked up to certain stacks, the battle is forcibly failed. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -4539,14 +4539,14 @@
     "id": 653,
     "name": "Exotic Boots",
     "editor_name": "中活3-异域之靴",
-    "desc": "[Buff] [Dodges] single-target attacks. The effect can be triggered up to <style=red>twice</style> per round. Gains immunity to [Burning] tiles, inflicting [Burning] to targets after dealing DMG. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] [Dodges] single-target attacks. The effect can be triggered up to <style=red>twice</style> per round. Gains immunity to [burning] tiles, inflicting [burning] to targets after dealing DMG. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 654,
     "name": "Exotic Shield",
     "editor_name": "中活3-异域之盾",
-    "desc": "[Buff] Reduces P.DMG taken by <style=green>50%</style>, and takes single-target attacks for other allies within a <style=red>3</style>-tile radius. When performing [Assisting Cover], increases M.DMG taken by <style=purple>40%</style>. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Reduces P.DMG taken by <style=green>50%</style>, and takes single-target attacks for other allies within a <style=red>3</style>-tile radius. When performing [assisting cover], increases M.DMG taken by <style=purple>40%</style>. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
@@ -4574,42 +4574,42 @@
     "id": 658,
     "name": "Touring Dancer",
     "editor_name": "中活3-巡游舞者",
-    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [Burning] tile effects, also capable of AoE magic attacks.",
+    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [burning] tile effects, also capable of AoE magic attacks.",
     "type": 1
   },
   {
     "id": 659,
     "name": "Well-known Dancer",
     "editor_name": "中活3-知名舞者",
-    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [Burning] tile effects, also capable of AoE magic attacks. Can create an aura to heal allies and make enemies <sprite=1>Assist.",
+    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [burning] tile effects, also capable of AoE magic attacks. Can create an aura to heal allies and make enemies <sprite=1>Assist.",
     "type": 1
   },
   {
     "id": 660,
     "name": "Dancing Star",
     "editor_name": "中活3-明星舞者",
-    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [Burning] tile effects, also capable of AoE magic attacks. Can create an aura to heal allies and make enemies <sprite=1>Assist. Additionally possesses the [Fighting Spirit] skill.",
+    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [burning] tile effects, also capable of AoE magic attacks. Can create an aura to heal allies and make enemies <sprite=1>Assist. Additionally possesses the [Fighting Spirit] skill.",
     "type": 1
   },
   {
     "id": 661,
     "name": "Touring Singer",
     "editor_name": "中活3-巡游歌姬",
-    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [Burning] tile effects, also capable of healing skills.",
+    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [burning] tile effects, also capable of healing skills.",
     "type": 1
   },
   {
     "id": 662,
     "name": "Well-known Singer",
     "editor_name": "中活3-知名歌姬",
-    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [Burning] tile effects, also capable of healing skills. Can create an aura to heal allies and make enemies <sprite=1>Assist.",
+    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [burning] tile effects, also capable of healing skills. Can create an aura to heal allies and make enemies <sprite=1>Assist.",
     "type": 1
   },
   {
     "id": 663,
     "name": "Singing Star",
     "editor_name": "中活3-明星歌姬",
-    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [Burning] tile effects, also capable of healing skills. Can create an aura to heal allies and make enemies <sprite=1>Assist. Additionally possesses the [Will] skill.",
+    "desc": "[Watcher] Can dispel [debuffs] on nearby allies and grant them immunity to [burning] tile effects, also capable of healing skills. Can create an aura to heal allies and make enemies <sprite=1>Assist. Additionally possesses the [Will] skill.",
     "type": 1
   },
   {
@@ -4623,21 +4623,21 @@
     "id": 665,
     "name": "Loyal Fighter",
     "editor_name": "中活3-忠诚战士",
-    "desc": "[Defender] Can make AoE Attacks and perform Assisting Cover for allies. Has [Taunt], can [Strike Back] when receives single attacks.",
+    "desc": "[Defender] Can make AoE Attacks and perform Assisting Cover for allies. Possesses [Taunt], can [strike back] when receives single attacks.",
     "type": 1
   },
   {
     "id": 666,
     "name": "Zealous Fighter",
     "editor_name": "中活3-狂热战士",
-    "desc": "[Defender] Can make AoE Attacks and perform Assisting Cover for allies. Has [Taunt], can [Strike Back] when receives single attacks. Additionally possesses the [Sharpened Blade] skill.",
+    "desc": "[Defender] Can make AoE Attacks and perform Assisting Cover for allies. Possesses [Taunt], can [strike back] when receives single attacks. Additionally possesses the [Sharpened Blade] skill.",
     "type": 1
   },
   {
     "id": 667,
     "name": "Star Gathering",
     "editor_name": "活动-大型3期-星辰聚集",
-    "desc": "[Buff] Increases ATK by <style=red>15%</style>, and DEF by <style=red>40%</style>, with a maximum of <style=red>3</style> stacks. This effect bypasses Immunities. Upon receiving [Collision], forcibly dispels <style=red>1</style> stack.",
+    "desc": "[Buff] Increases ATK by <style=red>15%</style>, and DEF by <style=red>40%</style>, with a maximum of <style=red>3</style> stacks. This effect bypasses immunities. Upon receiving [Collision], forcibly dispels <style=red>1</style> stack.",
     "type": 1
   },
   {
@@ -4679,28 +4679,28 @@
     "id": 673,
     "name": "Ingredient - Giant Spider",
     "editor_name": "活动-大型3期-食材——巨型蜘蛛",
-    "desc": "[Buff] A terrifying creature. The bearer's Movement is reduced by <style=red>1</style> tile. Gains immunity to knockback, with both P.ATK and M.ATK increased by <style=red>20%</style>. This effect bypasses Immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around.",
+    "desc": "[Buff] A terrifying creature. The bearer's Movement is reduced by <style=red>1</style> tile. Gains immunity to knockback, with both P.ATK and M.ATK increased by <style=red>20%</style>. This effect bypasses immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around.",
     "type": 1
   },
   {
     "id": 674,
     "name": "Temptation of Ingredients",
     "editor_name": "活动-大型3期-敌方-食材的诱惑",
-    "desc": "[Buff] After making an active attack, inflicts [piercing DMG] equal to <style=red>30%</style> of the target's HP. This effect bypasses Immunities.",
+    "desc": "[Buff] After making an active attack, inflicts [piercing DMG] equal to <style=red>30%</style> of the target's HP. This effect bypasses immunities.",
     "type": 1
   },
   {
     "id": 675,
     "name": "Ingredient - Pururu",
     "editor_name": "活动-大型3期-食材——噗露露",
-    "desc": "[Buff] An ingredient that can be refined into elastic jelly. The bearer's Movement is reduced by <style=red>1</style> tile. Gains immunity to knockback. Upon defeat, can rejoin the battle, recovering <style=green>20%</style> of HP. The effect can be triggered <style=red>once</style> and bypasses Immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around.",
+    "desc": "[Buff] An ingredient that can be refined into elastic jelly. The bearer's Movement is reduced by <style=red>1</style> tile. Gains immunity to knockback. Upon defeat, can rejoin the battle, recovering <style=green>20%</style> of HP. The effect can be triggered <style=red>once</style> and bypasses immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around.",
     "type": 1
   },
   {
     "id": 676,
     "name": "Ingredient - Cave Boar",
     "editor_name": "活动-大型3期-食材——洞穴野猪",
-    "desc": "[Buff] With a thick and tempting flesh. The bearer's Movement reduces by <style=red>1</style> tile. Gains immunity to knockback, P.DEF increased by <style=red>40%</style>. This effect bypasses Immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around self.",
+    "desc": "[Buff] With a thick and tempting flesh. The bearer's Movement reduces by <style=red>1</style> tile. Gains immunity to knockback, P.DEF increased by <style=red>40%</style>. This effect bypasses immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around self.",
     "type": 1
   },
   {
@@ -4728,7 +4728,7 @@
     "id": 680,
     "name": "Ingredient - Wolf King",
     "editor_name": "活动-大型3期-食材——野狼王",
-    "desc": "[Buff] A rare ingredient seldom found even in caves. Reduces the bearer's Movement by <style=red>1</style> tile. Gains immunity to knockback, and DMG taken is reduced by <style=red>50%</style>. This effect bypasses Immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around.",
+    "desc": "[Buff] A rare ingredient seldom found even in caves. Reduces the bearer's Movement by <style=red>1</style> tile. Gains immunity to knockback, and DMG taken is reduced by <style=red>50%</style>. This effect bypasses immunities. Upon being attacked or defeated, it randomly drops in a <style=red>3</style>-tile diamond shape around.",
     "type": 1
   },
   {
@@ -4763,28 +4763,28 @@
     "id": 685,
     "name": "Victory Prayer",
     "editor_name": "活动-大型3期-胜利祈愿",
-    "desc": "[Buff] Increases the attack range of all AoE skills by <style=red>1</style> tile, M.DEF is increased by <style=red>40%</style>, stacking up to <style=red>2</style> times. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Increases the attack range of all AoE skills by <style=red>1</style> tile, M.DEF is increased by <style=red>40%</style>, stacking up to <style=red>2</style> times. This effect cannot be dispelled or immunized.",
     "type": 1
   },
   {
     "id": 686,
     "name": "Advanced Recruitment",
     "editor_name": "活动-大型3期-重金雇佣",
-    "desc": "Recruits <style=red>1</style> [Recruited Archer] and <style=red>1</style> [Recruited Guard] to assist in battle, stacking up to <style=red>2</style> times (increasing the number of mercenaries by <style=red>2</style>). This effect cannot be dispelled, and bypasses Immunities. <style=red>Each</style> mercenary increases [Acambe]'s P.DEF by <style=red>20%</style>, stacking up to <style=red>6</style> times.",
+    "desc": "Recruits <style=red>1</style> [Recruited Archer] and <style=red>1</style> [Recruited Guard] to assist in battle, stacking up to <style=red>2</style> times (increasing the number of mercenaries by <style=red>2</style>). This effect cannot be immunized or dispelled. <style=red>Each</style> mercenary increases [Acambe]'s P.DEF by <style=red>20%</style>, stacking up to <style=red>6</style> times.",
     "type": 1
   },
   {
     "id": 687,
     "name": "Make-or-break",
     "editor_name": "活动-大型3期-背水一击",
-    "desc": "[Buff] Increases DEF by <style=red>30%</style>, Back Attack DMG by <style=red>30%</style>, and Movement by <style=red>1</style> tile, stacking up to <style=red>2</style> times. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] Increases DEF by <style=red>30%</style>, Back Attack DMG by <style=red>30%</style>, and Movement by <style=red>1</style> tile, stacking up to <style=red>2</style> times. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 688,
     "name": "Charging Potion",
     "editor_name": "活动-大型3期-充能药剂",
-    "desc": "[Buff] DMG taken is reduced by <style=red>10%</style>, DMG dealt is increased by <style=red>10%</style>, and generates <style=red>10%</style> of [Life Steal], stacking up to <style=red>3</style> times. This effect cannot be dispelled, and bypasses Immunities.",
+    "desc": "[Buff] DMG taken is reduced by <style=red>10%</style>, DMG dealt is increased by <style=red>10%</style>, and generates <style=red>10%</style> of [Life Steal], stacking up to <style=red>3</style> times. This effect cannot be dispelled or immunized.",
     "type": 1
   },
   {
@@ -4798,7 +4798,7 @@
     "id": 690,
     "name": "Stellar Rampage",
     "editor_name": "活动-大型3期-星辰狂暴",
-    "desc": "[Buff] Gains immunity to all debuffs. Increases DMG dealt by <style=red>10%</style> and reduces DMG taken by <style=red>15%</style>, stacking up to <style=red>5</style> times. This effect bypasses Immunities. Upon receiving [Collision], forcibly dispels <style=red>1</style> stack. At <style=red>5</style> stacks, [Power of the Stars] will be unleashed and all stacks of [Stellar Rampage] will be cleared.",
+    "desc": "[Buff] Gains immunity to all debuffs. Increases DMG dealt by <style=red>10%</style> and reduces DMG taken by <style=red>15%</style>, stacking up to <style=red>5</style> times. This effect bypasses immunities. Upon receiving [Collision], forcibly dispels <style=red>1</style> stack. At <style=red>5</style> stacks, [Power of the Stars] will be unleashed and all stacks of [Stellar Rampage] will be cleared.",
     "type": 1
   },
   {
@@ -4812,7 +4812,7 @@
     "id": 692,
     "name": "Fondness",
     "editor_name": "眷恋",
-    "desc": "After dealing damage, removes the target's NRG and [Buffs]. This effect cannot be dispelled, and bypasses Immunities, but can be forcibly dispelled by the [<style=red>Purifying Fruit</style>].",
+    "desc": "After dealing damage, removes the target's NRG and [buffs]. This effect cannot be immunized or dispelled, but can be forcibly dispelled by the [<style=red>Purifying Fruit</style>].",
     "type": 1
   },
   {
@@ -4880,7 +4880,7 @@
   },
   {
     "id": 702,
-    "name": "Hot-blooded Step",
+    "name": "Fervent Lunge",
     "editor_name": "黑帮女-灵活身法1",
     "desc": "[Instant Skill] Charges to a location within <style=red>1</style> tile, gaining [<sprite=2>DMG II] and [<sprite=2>Critical II] for <style=red>1</style> turn. After use, the skill will be switched to [Fervent Headbutt] for <style=red>2</style> turns.",
     "type": 1
@@ -4896,21 +4896,21 @@
     "id": 704,
     "name": "Touring Actress",
     "editor_name": "中活3-巡游演员-解释",
-    "desc": "Includes: Touring Singer, capable of using healing skills; Touring Dancer, capable of AoE magic attacks. They are Watchers, also dispel [debuffs] from nearby allies, and grant them immunity to [Burning] tile effects.",
+    "desc": "Includes: Touring Singer, capable of using healing skills; Touring Dancer, capable of AoE magic attacks. They are Watchers, also dispel [debuffs] from nearby allies, and grant them immunity to [burning] tile effects.",
     "type": 1
   },
   {
     "id": 705,
     "name": "Well-known Actress",
     "editor_name": "中活3-知名演员-解释",
-    "desc": "Includes: Well-known Singer, capable of using healing skills; Well-known Dancer, capable of AoE magic attacks. They are Watchers, also dispel [debuffs] from nearby allies, and grant them immunity to [Burning] tile effects. Can create an aura to heal allies and make enemies <sprite=1>Assist.",
+    "desc": "Includes: Well-known Singer, capable of using healing skills; Well-known Dancer, capable of AoE magic attacks. They are Watchers, also dispel [debuffs] from nearby allies, and grant them immunity to [burning] tile effects. Can create an aura to heal allies and make enemies <sprite=1>Assist.",
     "type": 1
   },
   {
     "id": 706,
     "name": "Acting Star",
     "editor_name": "中活3-明星演员-解释",
-    "desc": "Includes: Singing Star, capable of using healing skills, additionally possesses the [Will] skill; Dancing Star, capable of AoE magic attacks, additionally possesses the [Fighting Spirit] skill. They are Watchers, also dispel [debuffs] from nearby allies, and grant them immunity to [Burning] tile effects, and can create an aura to heal allies and make enemies <sprite=1>Assist.",
+    "desc": "Includes: Singing Star, capable of using healing skills, additionally possesses the [Will] skill; Dancing Star, capable of AoE magic attacks, additionally possesses the [Fighting Spirit] skill. They are Watchers, also dispel [debuffs] from nearby allies, and grant them immunity to [burning] tile effects, and can create an aura to heal allies and make enemies <sprite=1>Assist.",
     "type": 1
   },
   {
@@ -4952,14 +4952,14 @@
     "id": 712,
     "name": "Ghost Armor",
     "editor_name": "活动-大型3.5期-敌方-幽灵铠甲（挑战1）",
-    "desc": "[Buff] Immune to all DMG from enemies, and able to [Jump over] enemies and neutral characters. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Immune to all DMG from enemies, and able to [Jump over] enemies and neutral characters. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 713,
     "name": "Wild Wraith",
     "editor_name": "荒野缚灵",
-    "desc": "<style=green>[Wild Wraith]</style> [Buff] At the start of the turn, consumes it to summon Forest WoLves, up to <style=red>4</style> can be summoned each turn.",
+    "desc": "<style=green>[Wild Wraith]</style> [Buff] At the start of the turn, consumes it to summon Forest Wolves, up to <style=red>4</style> can be summoned each turn.",
     "type": 1
   },
   {
@@ -5001,14 +5001,14 @@
     "id": 719,
     "name": "Growth Phase",
     "editor_name": "活动-大型3.5期-敌方-成长期（挑战3）",
-    "desc": "Cannot take any action during the growth phase, increasing DMG taken by <style=red>30%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "Cannot take any action during the growth phase, increasing DMG taken by <style=red>30%</style>. This effect cannot be dispelled or immunized.",
     "type": 2
   },
   {
     "id": 720,
     "name": "Swarm Proliferation",
     "editor_name": "活动-大型3.5期-敌方-巢穴增殖（挑战3）",
-    "desc": "Increases summon limit by <style=red>1</style> (excluding Boss), stackable up to <style=red>3</style> times. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "Increases summon limit by <style=red>1</style> (excluding Boss), stackable up to <style=red>3</style> times. This effect cannot be dispelled or immunized.",
     "type": 2
   },
   {
@@ -5022,21 +5022,21 @@
     "id": 722,
     "name": "Weakness Mark",
     "editor_name": "活动-大型3.5期-敌方-弱点标记（挑战4）",
-    "desc": "Increases DMG taken from specified enemies by <style=red>100%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "Increases DMG taken from specified enemies by <style=red>100%</style>. This effect cannot be dispelled or immunized.",
     "type": 1
   },
   {
     "id": 723,
     "name": "Snared",
     "editor_name": "触网",
-    "desc": "[Debuff] For each stack, reduces Movement by <style=red>1</style> tile, and increases DMG and DoT taken by 15% and 20% respectively. With 3 stacks, gains [<sprite=1>Active Skill] for <style=red>1</style> turn, and removes <style=red>1</style> stack when getting hit.",
+    "desc": "[Debuff] For each stack, reduces Movement by <style=red>1</style> tile, and increases DMG and DoT taken by 15% and 20% respectively. With 3 stacks, gains [<sprite=1>Active Skills] for <style=red>1</style> turn, and removes <style=red>1</style> stack when getting hit.",
     "type": 2
   },
   {
     "id": 724,
     "name": "Fondness",
     "editor_name": "眷念",
-    "desc": "[Instant Skill] Selects an ally and inflicts [Endearment]. Effect: After each attack by Kiya, additionally heals the ally, and after each attack by the ally, additionally heals Kiya. Each healing amount is 20% of the caster's HP. Lasts 2 rounds.",
+    "desc": "[Instant Skill] Selects an ally and inflicts [Endearment]. Effect: After each attack by Kiya, additionally heals the ally, and after each attack by the ally, additionally heals Kiya. Each healing amount is 20% of the caster's HP. This effect lasts 2 turns.",
     "type": 1
   },
   {
@@ -5057,26 +5057,26 @@
     "id": 727,
     "name": "Crimson Covenant",
     "editor_name": "血夜之约",
-    "desc": "[Debuff] Reduces SPD by <style=red>150</style> points and DMG dealt by <style=red>20%</style>, while increasing Physical DMG, Magical DMG and Piercing DMG taken by <style=red>20%</style>. Kiya will return to battle when its duration ends. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Debuff] Reduces SPD by <style=red>150</style> points and DMG dealt by <style=red>20%</style>, while increasing Physical DMG, magical DMG and Piercing DMG taken by <style=red>20%</style>. Kiya will return to battle when its duration ends. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 728,
     "name": "Supreme Immortality - Swarm",
     "editor_name": "活动-大型3.5期-敌方-无限不屈·虫（挑战4）",
-    "desc": "[Buff] Upon defeated, consumes <style=green>5</style> HP of the nest to dispel all [debuffs] and rejoins the battle with <style=green>30%</style> of HP recovered, taking effect for unlimited times; gains [Swarm Rampage], stackable up to <style=red>4</style> times. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Upon defeated, consumes <style=green>5</style> HP of the nest to dispel all [debuffs] and rejoins the battle with <style=green>30%</style> of HP recovered, taking effect for unlimited times; gains [Swarm Rampage], stackable up to <style=red>4</style> times. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 729,
     "name": "Swarm Rampage",
     "editor_name": "活动-大型3.5期-敌方-巢穴狂暴（挑战4）",
-    "desc": "[Buff] Increases DMG dealt by <style=red>15%</style> and reduces DMG taken by <style=red>15%</style>, stackable up to <style=red>4</style> times. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Increases DMG dealt by <style=red>15%</style> and reduces DMG taken by <style=red>15%</style>, stackable up to <style=red>4</style> times. This effect cannot be immunized or dispelled.",
     "type": 2
   },
   {
     "id": 730,
-    "name": "Low Spirits",
+    "name": "Bad Mood",
     "editor_name": "网游13章-情绪低落",
     "desc": "[Debuff] Reduces Movement by <style=red>1</style> tile for each stack. It cannot be dispelled.",
     "type": 1
@@ -5085,42 +5085,42 @@
     "id": 731,
     "name": "Web Break",
     "editor_name": "网游13章-断网行动",
-    "desc": "Dispels the [<style=C4>Snared</style>] of all allies within the range of <style=red>1</style> circle of the target, grants them [<sprite=2>SPD II] that lasts for <style=red>2</style> turns and clears all special terrain effects.",
+    "desc": "Dispels [<style=C4>Snared</style>] from all allies within <style=red>1</style> tile around the target, granting them [<sprite=2>SPD II] for <style=red>2</style> turns, and clears all special tile effects.",
     "type": 1
   },
   {
     "id": 732,
-    "name": "Round up",
+    "name": "Catch Them All",
     "editor_name": "网游13章-一网打尽",
-    "desc": "Inflicts <style=red>2</style> stacks of [<style=C4>Snared</style>] on all characters within <style=red>1</style> circle and transforms [empty tile] into [Web].",
+    "desc": "Inflicts <style=red>2</style> stacks of [<style=C4>Snared</style>] on all characters within <style=red>1</style> tile around the target and turns [Empty Tiles] into [Net] tiles.",
     "type": 1
   },
   {
     "id": 733,
-    "name": "Steal Fortune Bag",
+    "name": "Steal Lucky Bag",
     "editor_name": "活动-大型3.5期-福袋掠夺",
-    "desc": "Ignores [Assisting Cover], teleports next to a foe to pillage the [<style=blue>Convallaria Fortune Bag</style>] from them, and gives the Fortune Bag to the ally closest to the foe target.",
+    "desc": "Ignores [assisting cover], teleports next to a foe to pillage the [<style=blue>Convallaria Fortune Bag</style>] from them, and gives the Fortune Bag to the ally closest to the foe target.",
     "type": 1
   },
   {
     "id": 734,
     "name": "Summon Explosive Barrel - Extra",
     "editor_name": "活动-大型3.5期-召唤炸药桶·改（解谜6）",
-    "desc": "(Support) [<style=C4>Instant</style>] Summons an [explosive barrel] on the targeted tile, with a maximum of <style=red>5</style> explosive barrels in the scene.",
+    "desc": "(Support) [<style=C4>Instant</style>] Summons an [Explosive Barrel] on the target tile. Up to <style=red>5</style> can exist in the scenario.",
     "type": 1
   },
   {
     "id": 735,
     "name": "Hit-and-run Tactics - Extra",
     "editor_name": "活动-大型3.5期-扰乱战术·改（解谜6）",
-    "desc": "(Physical DMG) Deals <style=red>50%</style> [AoE DMG] to all enemies within a <style=red>3x4</style> area in the target direction, with DMG increased by <style=red>30%</style> for each additional target hit, up to <style=red>150%</style>, and inflicts <style=red>1</style> [<style=C4>Level 2 Debuff</style>], [<style=C4>DoT</style>], lasting <style=red>2</style> rounds.",
+    "desc": "(Physical DMG) Deals <style=red>50%</style> [AoE DMG] to all enemies within a <style=red>3x4</style> area in the target direction. DMG increases by <style=red>30%</style> for <style=red>each</style> additional target hit, up to <style=red>150%</style>. Inflicts <style=red>1</style> [<style=C4>Level 2 Debuff</style>] and [<style=C4>DoT</style>] on each target, lasting for <style=red>2</style> turns.",
     "type": 1
   },
   {
     "id": 736,
-    "name": "Bitter Medicine",
+    "name": "Bitterwort",
     "editor_name": "应急药丸",
-    "desc": "[Buff] If in [Dying] state after attacked, recovers <style=green>40%</style> of HP. Removed after the effect is triggered.",
+    "desc": "[Buff] If in [dying] state after attacked, recovers <style=green>40%</style> of HP. Removed after the effect is triggered.",
     "type": 1
   },
   {
@@ -5132,9 +5132,9 @@
   },
   {
     "id": 738,
-    "name": "Armed Revolt",
+    "name": "Armed Outburst",
     "editor_name": "武装爆发",
-    "desc": "[Buff] Grants a [physical shield] equal to <style=red>30%</style> of HP. During the effect, performs a [Basic Attack] after launching an active attack. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "Gains [physical shield] equal to <style=red>30%</style> of HP. During this time, performs an additional [basic attack] after performing an active attack. Cannot be dispelled, and ignores immunity.",
     "type": 1
   },
   {
@@ -5183,14 +5183,14 @@
     "id": 745,
     "name": "Escape",
     "editor_name": "逃脱",
-    "desc": "[Debuff] Grants immunity to [<sprite=1>Resolve] and allows escape when defeated, with HP fully recovered and reinforcements summoned to join the battle. 1 stack of [Escape] is then removed. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Debuff] Grants immunity to [<sprite=1>Resolve] and allows escape when defeated, with HP fully recovered and reinforcements summoned to join the battle. 1 stack of [Escape] is then removed. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {
     "id": 746,
     "name": "Combat Lord",
     "editor_name": "陷阵-女将军",
-    "desc": "[Buff] Doubles the DMG Reduction effect of [Trait] and negates [Fatal DMG] once. This effect cannot be dispelled and bypasses Immunity.",
+    "desc": "Buff. Reduces DMG and piercing DMG taken by <style=red>30%</style>; gains [resolve], can block one [fatal DMG]. This effect cannot be dispelled.",
     "type": 1
   },
   {
@@ -5202,35 +5202,35 @@
   },
   {
     "id": 748,
-    "name": "Power Boost",
+    "name": "Stamina",
     "editor_name": "冲劲-SP拉维耶",
-    "desc": "With 2 or more stacks, enables [Re-attack] and [Move Again] after actively attacking with non-[Instant] skills. With 1 stack, only enables [Move Again] for a distance equal to the remaining Movement (minimum 3 tiles). This effect can be stacked up to 7 times, cannot be dispelled and bypasses immunity.",
+    "desc": "Mark. For each <style=red>1</style> stack, Crit increases by <style=red>1%</style>. Cannot be dispelled and ignores immunity.\nAnd:\nWhen having <style=red>10</style> stacks, DMG is increased by <style=red>10%</style>;\nWhen having <style=red>20</style> stacks, Crit DMG is increased by <style=red>10%</style>;\nWhen having <style=red>30</style> stacks, DMG and Crit DMG are further increased by <style=red>10%</style>.",
     "type": 1
   },
   {
     "id": 749,
-    "name": "Unchained Bloodlust I",
+    "name": "Wolven Awakening I",
     "editor_name": "银狼-银狼女王1",
-    "desc": "[Buff] Increases ATK by <style=red>10%</style> and P.DEF by <style=red>20%</style>. Before attacking, for each stack of [Wound] on the target, increases Physical DMG dealt to them by <style=red>5%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Increases ATK by <style=red>10%</style> and P.DEF by <style=red>20%</style>. Before attacking, for each stack of [Wound] on the target, increases physical DMG dealt to them by <style=red>5%</style>. This effect cannot be immunized or dispelled.",
     "type": 2
   },
   {
     "id": 750,
-    "name": "Unchained Bloodlust II",
+    "name": "Wolven Awakening II",
     "editor_name": "银狼-银狼女王2",
-    "desc": "[Buff] Increases ATK by <style=red>15%</style>, P.DEF by <style=red>20%</style> and Movement by <style=red>1</style> tile. Before attacking, for each stack of [Wound] on the target, increases Physical DMG dealt to them by <style=red>5%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Increases ATK by <style=red>15%</style>, P.DEF by <style=red>20%</style> and Movement by <style=red>1</style> tile. Before attacking, for each stack of [Wound] on the target, increases physical DMG dealt to them by <style=red>5%</style>. This effect cannot be immunized or dispelled.",
     "type": 2
   },
   {
     "id": 751,
-    "name": "Unchained Bloodlust III",
+    "name": "Wolven Awakening III",
     "editor_name": "银狼-银狼女王3",
-    "desc": "[Buff] Increases ATK by <style=red>20%</style>, P.DEF by <style=red>20%</style> and Movement by <style=red>2</style> tiles, granting [Climb] and [Jump]. Before launching a single-target attack, grants [Armor Piercing] if the target has [Wound]. Before attacking, for each stack of [Wound] on the target, increases Physical DMG dealt to them by <style=red>5%</style>. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "[Buff] Increases ATK by <style=red>20%</style>, P.DEF by <style=red>20%</style> and Movement by <style=red>2</style> tiles, granting [Climb] and [Jump]. Before launching a single-target attack, grants [Armor Piercing] if the target has [Wound]. Before attacking, for each stack of [Wound] on the target, increases physical DMG dealt to them by <style=red>5%</style>. This effect cannot be immunized or dispelled.",
     "type": 2
   },
   {
     "id": 752,
-    "name": "Tingling Mat",
+    "name": "Numbing Mattress",
     "editor_name": "酥麻软垫",
     "desc": "Enemies on the Tingling Mat will exit the battle.",
     "type": 1
@@ -5260,14 +5260,14 @@
     "id": 758,
     "name": "Elimination of All Sins - Extra",
     "editor_name": "活动-大型3.5期-敌方-肃清万恶·改（挑战2）",
-    "desc": "[Skill] Prepares for 1 turn, deals 130% [Fire] DMG to all enemies within a 2-tile range of the target, and inflicts [Stunned] for 1 turn. When attacking a non-countered character, deals an additional 50% DMG. Skips the turn after casting. The skill will be switched to [Light Oracle - Elimination of All Sins] when having [Light Oracle].",
+    "desc": "[Skill] Prepares for 1 turn, deals 130% [fire] DMG to all enemies within a 2-tile range of the target, and inflicts [stunned] for 1 turn. When attacking a non-countered character, deals an additional 50% DMG. Skips the turn after casting. The skill will be switched to [Light Oracle - Elimination of All Sins] when having [Light Oracle].",
     "type": 1
   },
   {
     "id": 759,
     "name": "Light Oracle - Elimination of All Sins - Extra",
     "editor_name": "活动-大型3.5期-敌方-光谕·肃清万恶·改（挑战2）",
-    "desc": "[Skill] Prepares for 1 turn, deals 130% [Fire] DMG to all enemies within a 2-tile range of the target, and inflicts [Stunned] for 1 turn. Continues the attack on all enemies within 5-tile range of the target, dealing 80% DMG and Inflicting [<sprite=3>Healing Received] and [<sprite=3>Move II] for 2 rounds. When attacking a non-countered character, deals an additional 50% DMG. Skips the turn after casting. The skill will be switched to [Elimination of All Sins] when not having [Light Oracle].",
+    "desc": "[Skill] Prepares for 1 turn, deals 130% [fire] DMG to all enemies within a 2-tile range of the target, and inflicts [stunned] for 1 turn. Continues the attack on all enemies within 5-tile range of the target, dealing 80% DMG and Inflicting [<sprite=3>Healing Received] and [<sprite=3>Move II] for 2 rounds. When attacking a non-countered character, deals an additional 50% DMG. Skips the turn after casting. The skill will be switched to [Elimination of All Sins] when not having [Light Oracle].",
     "type": 1
   },
   {
@@ -5309,14 +5309,14 @@
     "id": 770,
     "name": "Double String",
     "editor_name": "伊利亚之弓",
-    "desc": "Enables [Re-attack] after attacking and bypasses immunity.",
+    "desc": "Enables [re-attack] after attacking and cannot be immunized.",
     "type": 1
   },
   {
     "id": 771,
     "name": "Glide",
     "editor_name": "伊利亚之刃",
-    "desc": "[Buff] Increases Movement by <style=red>99</style> tiles and bypasses immunity.",
+    "desc": "[Buff] Increases Movement by <style=red>99</style> tiles and cannot be immunized.",
     "type": 1
   },
   {
@@ -5337,7 +5337,7 @@
     "id": 774,
     "name": "Block Enhancement II",
     "editor_name": "格挡强化2",
-    "desc": "[Buff] Blocks with a <style=red>100%</style> chance of negating ranged DMG from [Front or Side]. Decreases DMG taken by <style=red>25%</style> additionally when [Blocking].",
+    "desc": "[Buff] Blocks with a <style=red>100%</style> chance of negating ranged DMG from [front or side]. Decreases DMG taken by <style=red>25%</style> additionally when [Blocking].",
     "type": 2
   },
   {
@@ -5351,21 +5351,21 @@
     "id": 776,
     "name": "Break - Endless Force",
     "editor_name": "[女将军]-破阵之枪A",
-    "desc": "[Skill] Deals <style=red>45%</style> [AoE DMG] to all enemies within a <style=red>1</style>-tile range of the target <style=red>3</style> times, gains [<style=C4>Shield Break IV</style>] before attacking. After the attack, knocks back the target by <style=red>1</style> tile.",
+    "desc": "Skill. Deals <style=red>50%</style> [AoE DMG] <style=red>3</style> times to all enemies within <style=red>1</style> tile of the target, gaining [<style=C4>Shield Break IV</style>] before attacking; if the target is [<style=C4>Dying</style>], ignores <style=red>80%</style> of their DEF and inflicts [<style=C4><sprite=1>Resolve</style>] before attacking.",
     "type": 1
   },
   {
     "id": 777,
     "name": "Break - Invincible",
     "editor_name": "[女将军]-破阵之枪B",
-    "desc": "[Skill] Deals <style=red>80%</style> [AoE DMG] to all enemies within a <style=red>1x5</style> area in the target direction; if the target is in the [<style=C4>Dying</style>] state, ignores <style=red>80%</style> of their defense and [<style=C4>Resolve</style>].",
+    "desc": "Skill. Deals <style=red>110%</style> [AoE DMG] to all enemies within a <style=red>1×5</style> area in the target direction; knocks the first enemy back by <style=red>2</style> tiles.",
     "type": 1
   },
   {
     "id": 778,
-    "name": "Evil Might",
+    "name": "Evil Power",
     "editor_name": "S7-邪恶力量",
-    "desc": "Increases DMG dealt by <style=red>50%</style>, ignores <style=red>80%</style> of the target's DEF when attacking, and then removes this effect after launching an active attack. This effect cannot be dispelled and bypasses immunity.",
+    "desc": "Increases DMG dealt by <style=red>50%</style>, ignores <style=red>80%</style> of the target's DEF when attacking, and then removes this effect after launching an active attack. This effect cannot be immunized or dispelled.",
     "type": 1
   },
   {

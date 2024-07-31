@@ -15,13 +15,13 @@
     "id": 4,
     "name": "问卷填写",
     "title": "Survey Reward",
-    "content": "Dear Voyager: \nThank you for participating in the questionnaire, please collect your rewards. \nMay your choices bring peace to Iria."
+    "content": "Dear Voyager:\nThank you for participating in the questionnaire, please collect your rewards.\nMay your choices bring peace to Iria."
   },
   {
     "id": 5,
     "name": "活动奖励发放",
     "title": "Event Reward",
-    "content": "Please collect the event benefits you have earned. \nMay your choices bring peace to Iria."
+    "content": "Please collect the event benefits you have earned.\nMay your choices bring peace to Iria."
   },
   {
     "id": 6,
@@ -33,7 +33,7 @@
     "id": 7,
     "name": "丰饶之角奖励",
     "title": "Cornucopia Reward",
-    "content": "Human, you forgot to claim your Cornucopia reward. \nLuckily, I went to the Sea of Chaos to retrieve your reward. Gratefully accept it!"
+    "content": "Human, you forgot to claim your Cornucopia reward.\nLuckily, I went to the Sea of Chaos to retrieve your reward. Gratefully accept it!"
   },
   {
     "id": 9,
@@ -69,13 +69,13 @@
     "id": 14,
     "name": "逆境之塔奖励发放",
     "title": "Tower of Adversity Reward",
-    "content": "Human, you forgot to claim your Tower of Adversity reward. \nLuckily, I went to the Sea of Chaos to retrieve your reward. Gratefully accept it!"
+    "content": "Human, you forgot to claim your Tower of Adversity reward.\nLuckily, I went to the Sea of Chaos to retrieve your reward. Gratefully accept it!"
   },
   {
     "id": 15,
     "name": "圣杯大秘宝分享奖励",
     "title": "[Voyagers' Conundrum] Sharing Reward",
-    "content": "Dear Voyager,\nThank you for your active participation. Please collect the following event rewards."
+    "content": "Dear Voyager:\nThank you for actively participating in the [Voyagers' Conundrum] sharing event.\nBelow are your event rewards, please collect them.\nMay your choices bring peace to Iria."
   },
   {
     "id": 16,
@@ -110,7 +110,7 @@
   {
     "id": 23,
     "name": "海外OBT-公测预约奖励发放",
-    "title": "Open Beta Reservation Reward",
-    "content": "Dear Voyager,\nSword of Convallaria has achieved the global pre-registration milestone of over 2 million participants! We would like to express our heartfelt gratitude to all of you for your continuous care and support.\nThe pre-registration rewards have been distributed.\nMay your journey be fruitful and may you bring peace and happiness to Iria.\nSword of Convallaria Dev Team"
+    "title": "Pre-registration Rewards",
+    "content": "Dear Voyagers:\nThe total number of global reservations for <Sword of Convallaria> has exceeded 2 million! \nThank you for your continued love and support. \nThe reservation rewards have been issued. \nPlease check them out! \nMay your choice bring peace to Iria."
   }
 ]

@@ -24,7 +24,7 @@
     "guaranteed_desc": "",
     "is_up_selectable": false,
     "up_selectable_guaranteed_count": 0,
-    "desc": "",
+    "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\": [\"During the event, you have a 2% chance to get Legendary characters.\",\"Each summon in any summon event will accumulate toward the overall guarantee count. <style=yellow>You will randomly obtain one featured Legendary character</style> on your 100 guarantee counts. The guarantee count is reset when you get a Legendary character. (Current guarantee count: Guaranteed to get a random Legendary character in <style=yellow>{count}</style> summon(s).) Guarantee counts exclude summoning attempts from [First Summon].\"]}]}",
     "guaranteed_up_count": 0
   },
   {
@@ -38,7 +38,7 @@
     "guaranteed_desc": "Current <style=yellow>[{rule}] Guarantee</style>: A current Rate-UP character is guaranteed within <style=yellow>{upCount}</style> summon(s).",
     "is_up_selectable": false,
     "up_selectable_guaranteed_count": 0,
-    "desc": "",
+    "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 2% chance to get Legendary characters, and the featured Rate-UP character accounts for 50% of the Legendary character rate.\",\"Each summon contributes to the cumulative overall summon count in any summon event. Once the overall summon count hits 100, <style=yellow>you're guaranteed to obtain one released Legendary character randomly.</style> The overall summon count resets when any Legendary character is obtained. (Current overall summon: <style=yellow>{count}</style> more summons for a guaranteed random Legendary character.)\"]},{\"title\": \"[Debut] Guarantee Rules\",\"rows\": [\"During all [Debut] events, each summon contributes to the cumulative [Debut] summon count. Once the [Debut] summon count hits 180, <style=yellow>you're guaranteed to obtain one Legendary Rate-UP character</style>. For each current event, obtaining the current Rate-UP character resets the [Debut] summon count. (Current [Debut] summon count: <style=yellow>{upCount}</style> more summons for a guaranteed current Rate-UP character.)\",\"When the [Debut] guarantee is triggered, the guarantee summon count will remain unchanged.\",\"The [Debut] summon count will continuously accumulate within the [Debut] event and is calculated independently, not affecting the summon count of other types of summon events. Guarantee counts and Debut counts exclude summoning attempts from [First Summon].\"]}]}",
     "guaranteed_up_count": 3
   },
   {
@@ -52,7 +52,7 @@
     "guaranteed_desc": "Current <style=yellow>[{rule}] Guarantee</style>: A current Rate-UP character is guaranteed within <style=yellow>{upCount}</style> summon(s).",
     "is_up_selectable": false,
     "up_selectable_guaranteed_count": 0,
-    "desc": "",
+    "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 2% chance to get Legendary characters, and the featured Rate-UP character accounts for 75% of the Legendary character rate.\",\"Each summon in any summon event will accumulate toward the overall guarantee count. When the guarantee count reaches 100, <style=yellow>you will randomly obtain one released Legendary character.</style> The guarantee count is reset when you get a Legendary character. (Current overall summon: <style=yellow>{count}</style> more summons for a guaranteed random Legendary character.)\"]},{\"title\": \"[Destined] Guarantee Rules\",\"rows\": [\"Each summon in any [Destined] summon event will accumulate toward the [Destined] guarantee count. When the [Destined] guarantee count reaches 180, <style=yellow>you will get a featured Rate-UP character you have not obtained.</style> If you have already obtained all the featured Rate-UP characters, you will get 1 random featured Rate-UP character. During the event, the [Destined] guarantee count is reset when you get a featured character for the second time or trigger the guarantee after obtaining all featured characters. (Current [Destined] summon count: <style=yellow>{upCount}</style> more summons for a guaranteed current UP character.)\",\"When the [Destined] guarantee is triggered, the overall guarantee summon count will remain unchanged.\",\"The [Destined] summon count will continuously accumulate within the [Destined] event and is calculated independently, not affecting the summon count of other types of summon events. Overall guarantee counts and Destined counts exclude summoning attempts from [First Summon].\"]}]}",
     "guaranteed_up_count": 4
   },
   {
@@ -66,7 +66,7 @@
     "guaranteed_desc": "Current <style=yellow>[{rule}] Guarantee</style>: A Blessed Character is guaranteed within <style=yellow>{upCount}</style> summon(s).",
     "is_up_selectable": false,
     "up_selectable_guaranteed_count": 0,
-    "desc": "",
+    "desc": "{\"desc_list\":[{\"title\": \"Basic Information\",\"rows\": [\"During the event, you have a 2% chance to get legendary characters.\",\"In the [Blessed] event, the legendary characters you summon are guaranteed to be the two selected legendary characters.<style=yellow>(The characters cannot be changed once they are selected.)</style>]},{\"title\": \"[Blessed] Guarantee Rules\",\"rows\":[\"Each Summon in any [Blessed] Summon Event will accumulate toward the [Blessed] guarantee count. When the [Blessed] guarantee count reaches 90, <style=yellow>you will get a blessed character</style>. If you obtain the same blessed character twice, the next legendary character summoned is guaranteed to be the another blessed character. The guarantee count is reset when you get a blessed character. (Current guarantee count: Guaranteed to get a blessed character in <style=yellow>{upCount}</style> Summon(s).)\",\"The [Blessed] event do not participate in the overall guarantee count. It is independent of the guarantee counts of other types of Summon Events.\"]}]}",
     "guaranteed_up_count": 0
   },
   {
@@ -80,7 +80,7 @@
     "guaranteed_desc": "",
     "is_up_selectable": false,
     "up_selectable_guaranteed_count": 0,
-    "desc": "",
+    "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 5% chance to get Legendary gear.\",\"You have the opportunity to summon any released gear (Cornucopia Weapons excluded) in the [Standard Summon].\"]}]}",
     "guaranteed_up_count": 0
   },
   {

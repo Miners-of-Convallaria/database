@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Trading Post Funds",
-    "desc": "Funds designated for Trading Post transactions only, strictly prohibited from unauthorized private use or reallocation.",
+    "desc": "Funds designated for Trading Post transactions only. Strictly prohibited for unauthorized private use or reallocation.",
     "editor_name": "商会资金",
     "type": 4,
     "rarity": 2,
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "name": "Grain",
-    "desc": "Essential for both survival and work. Wheat from the Town of Convallaria and fish from Waverun City sustain the lives of many across the Iria regions.",
+    "desc": "Essential for both survival and work. Wheat from the Town of Convallaria and fish from Waverun City sustain the lives of many across Iria.",
     "editor_name": "基础货物_粮食",
     "type": 1,
     "rarity": 2,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "name": "Stone",
-    "desc": "Materials for constructing robust buildings that resist some dangers and cold. Mine Pit and Mornrays Castle, located near the mine, boast a high output of standard-grade stone.",
+    "desc": "Material used to construct sturdy buildings that protect against dangers and the cold. The Mine Pit and Mornrays Castle, located near the mine, boast a high output of standard-grade stone.",
     "editor_name": "基础货物_石材",
     "type": 1,
     "rarity": 2,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "name": "Wheel",
-    "desc": "Rough and bumpy roads often damage wheels, risking profit losses. That's why even the most penny-pinching merchants are willing to spend extra money to mitigate this risk. Artisans from Windyvale Town and Mornrays Castle are adept at making a more durable type of wheel.",
+    "desc": "Rough and bumpy roads often damage wheels, risking profit losses. Even the most frugal of merchants are willing to spend the extra coin to mitigate risk. Artisans from Windyvale Town and Mornrays Castle are adept at making more durable wheels.",
     "editor_name": "基础货物_车轮",
     "type": 1,
     "rarity": 2,
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "name": "Salt",
-    "desc": "The King of Flavors. Adequate replenishment of it is vital after strenuous labor. With mining conditions back to normal, the Mine Pit now holds the largest reserves of rock salt.",
+    "desc": "The king of flavor. Adequate replenishment of it is vital after strenuous labor. With mining conditions returned to normal, the Mine Pit now holds the largest rock salt reserves.",
     "editor_name": "基础货物_盐",
     "type": 1,
     "rarity": 2,
@@ -68,7 +68,7 @@
   {
     "id": 7,
     "name": "Weaponry",
-    "desc": "Diverse in form, yet with a singular purpose. Lately, a significant number of standardized weaponry appears to originate from Windyvale Town.",
+    "desc": "Diverse in form, yet with a singular purpose. Lately, a significant number of weapons seem to originate from Windyvale Town.",
     "editor_name": "高级货物_武器装备",
     "type": 2,
     "rarity": 3,
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "name": "Rye Beer",
-    "desc": "The famous specialty of the Town of Convallaria.",
+    "desc": "A famous specialty from the Town of Convallaria.",
     "editor_name": "高级货物_黑麦汁",
     "type": 2,
     "rarity": 3,
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "name": "Spice",
-    "desc": "Things that make food tastier are in demand everywhere, yet these can only be procured along the trade route to Elaman, such as in Windyvale Town and the Rabi'a Oasis.",
+    "desc": "Ingredients that enhance the flavor of food are in demand everywhere, but this can only be procured along the trade route to Elaman, such as in Windyvale Town and the Rabi'a Oasis.",
     "editor_name": "基础货物_香料",
     "type": 1,
     "rarity": 2,
@@ -101,7 +101,7 @@
   {
     "id": 10,
     "name": "Fur",
-    "desc": "Sleek, water-resistant, and warm-keeping, it can only be procured in bulk from the veteran hunters of the Vlder Tribes.",
+    "desc": "Sleek, water-resistant, and warm. Can only be procured in large quantities from the veteran hunters of the Vlder Tribes.",
     "editor_name": "高级货物_皮草",
     "type": 2,
     "rarity": 3,
@@ -123,7 +123,7 @@
   {
     "id": 12,
     "name": "Pearl",
-    "desc": "An ocean-born decoration that gleams after a basic polish. Can only be purchased from the coastal city of Waverun.",
+    "desc": "An adornment that comes from the ocean; it gleams after a little polish. Can only be purchased from the coastal city of Waverun.",
     "editor_name": "高级货物_珍珠",
     "type": 2,
     "rarity": 3,
@@ -133,8 +133,8 @@
   },
   {
     "id": 13,
-    "name": "Gem",
-    "desc": "A rare ore, less dazzling than Luxites but capable of radiant gleam with delicate polishing. The majority of gem artisans in the realm of Iria are based in Mornrays Castle.",
+    "name": "Gems",
+    "desc": "Rare minerals. Less dazzling than Luxite but capable of a radiant gleam with delicate polishing. The majority of gem artisans in Iria are based in Mornrays Castle.",
     "editor_name": "高级货物_宝石",
     "type": 2,
     "rarity": 3,
@@ -145,7 +145,7 @@
   {
     "id": 14,
     "name": "Fortune Net",
-    "desc": "A Vlder handwoven craft, widely believed to bring luck, is highly sought after by seafarers.",
+    "desc": "A Vlder handwoven craft, widely believed to bring luck. Highly sought after by seafarers.",
     "editor_name": "高级货物_幸运网",
     "type": 2,
     "rarity": 3,
@@ -178,7 +178,7 @@
   {
     "id": 17,
     "name": "Tattered Chronicles",
-    "desc": "Written in convoluted language, this book recounts the tales of the Radiant Son and Divine Light, of little value to common folk but coveted by those with particular intentions.",
+    "desc": "Written in convoluted language, this book recounts the tales of the Radiant Son and Divine Light. Of little value to common folk, but coveted by those with particular intentions.",
     "editor_name": "故事类货物_破旧史书",
     "type": 3,
     "rarity": 4,

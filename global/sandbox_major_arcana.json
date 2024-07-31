@@ -105,7 +105,7 @@
     "name": "Devil",
     "editor_name": "塔罗牌-恶魔",
     "icon": "major_arcana_15",
-    "desc": "When dealing no damage, grants the [Shield] and enhances the ability.",
+    "desc": "When dealing no damage, grants the [shield] and enhances the ability.",
     "sandbox_speciality_ids": "20008",
     "weight": 1
   },
@@ -115,7 +115,7 @@
     "name": "The High Priestess",
     "editor_name": "塔罗牌-女祭司",
     "icon": "major_arcana_02",
-    "desc": "Gains enhancement after using [Cover Ally], [Dodge] or [Block]",
+    "desc": "Gains enhancement after using [assisting cover], [dodge] or [block]",
     "sandbox_speciality_ids": "20009",
     "weight": 1
   },
@@ -125,7 +125,7 @@
     "name": "The Tower",
     "editor_name": "塔罗牌-塔",
     "icon": "major_arcana_16",
-    "desc": "NRG +2 after using [Strike Back], [Dodge] or [Block]",
+    "desc": "NRG +2 after using [strike back], [dodge] or [block]",
     "sandbox_speciality_ids": "20010",
     "weight": 1
   },

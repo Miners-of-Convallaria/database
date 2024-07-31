@@ -1608,6 +1608,14 @@
     "sparam": ""
   },
   {
+    "id": 229,
+    "type": "OnlineChatMessageCount",
+    "name": "网游单个聊天对话保留条数",
+    "desc": "",
+    "iparam": 100,
+    "sparam": ""
+  },
+  {
     "id": 234,
     "type": "OnlineExpConvertRatioWhenPlayerMaxLevel",
     "name": "满级后账号经验转化比例",

@@ -376,5 +376,12 @@
     "name": "被使用技能前",
     "desc": "",
     "need_check": false
+  },
+  {
+    "id": 55,
+    "type": "BECOUNTER",
+    "name": "被反击",
+    "desc": "",
+    "need_check": false
   }
 ]

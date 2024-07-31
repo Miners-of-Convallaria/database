@@ -12,7 +12,7 @@
     "idround_report_type": 2,
     "type": "tavern",
     "name": "招募",
-    "desc": "{0} appeared in the Tavern and can be recruited.",
+    "desc": "{0} can now be recruited from the Tavern.",
     "single_desc": "<color=#e5ab4f>{0}</color>"
   },
   {
@@ -52,7 +52,7 @@
     "idround_report_type": 4,
     "type": "workshop_progress",
     "name": "晶石工坊-战斗任务进度",
-    "desc": "Use <color=#ca6c4b>{2}</color> {1} time(s) within {0} week(s), {3}/{4} completed.",
+    "desc": "Use <color=#ca6c4b>{2}</color> {1} time(s) within {0} week(s). {3}/{4}",
     "single_desc": ""
   },
   {
@@ -68,7 +68,7 @@
     "idround_report_type": 5,
     "type": "blessing_seat_cd",
     "name": "祝福栏位CD",
-    "desc": "{0} is ready",
+    "desc": "{0} is ready.",
     "single_desc": ""
   }
 ]

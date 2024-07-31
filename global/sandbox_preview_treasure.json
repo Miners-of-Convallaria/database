@@ -41,9 +41,9 @@
   {
     "id": 4,
     "m_system_redirects": [],
-    "name": "Basic Selection Cargo",
+    "name": "Basic Abundant Cargo",
     "editor_name": "普通自选货物_显示",
-    "desc": "Choose 1 set from all the basic abundant products available at the current Trading Post.",
+    "desc": "Choose to obtain a batch of basic Abundant Produce available from the order location.",
     "rarity": 2,
     "icon": "selectable_props_chest_1",
     "treasure_type": 0,

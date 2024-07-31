@@ -144,7 +144,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Facility Upgrade Chest",
     "editor_name": "QV1-SSR级科技奖励宝箱",
-    "desc": "Choose one of three random facility upgrades",
+    "desc": "Choose one of the three random facility upgrades",
     "rarity": 4,
     "icon": "material_treasure_tech_chest4",
     "view_type": 3
@@ -154,7 +154,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Facility Upgrade Chest",
     "editor_name": "QV1-SR级科技奖励宝箱",
-    "desc": "Choose one of three random facility upgrades",
+    "desc": "Choose one of the three random facility upgrades",
     "rarity": 3,
     "icon": "material_treasure_tech_chest3",
     "view_type": 3
@@ -164,7 +164,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Technology Reward Treasure",
     "editor_name": "QV1-R级科技奖励宝箱",
-    "desc": "Choose one of three random facility upgrades",
+    "desc": "Choose one of the three random facility upgrades",
     "rarity": 2,
     "icon": "material_treasure_tech_chest2",
     "view_type": 3
@@ -174,7 +174,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Tailored Training Tome",
     "editor_name": "AT2-SSR级训练被动宝箱",
-    "desc": "Choose one of three random Legendary tailored trainings. Good luck.",
+    "desc": "Choose one of the three random Legendary tailored trainings. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_faction_skill_chest4",
     "view_type": 6
@@ -184,7 +184,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Tailored Training Tome",
     "editor_name": "AT2-SR级训练被动宝箱",
-    "desc": "Choose one of three random tailored trainings. Good luck.",
+    "desc": "Choose one of the three random tailored trainings. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_faction_skill_chest3",
     "view_type": 6
@@ -194,7 +194,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Tailored Training Tome",
     "editor_name": "AT2-R级训练被动宝箱",
-    "desc": "Choose one of three random tailored trainings. Good luck.",
+    "desc": "Choose one of the three random tailored trainings. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_faction_skill_chest2",
     "view_type": 6
@@ -204,7 +204,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Common Tailored Training Tome",
     "editor_name": "AT2-N级训练被动宝箱",
-    "desc": "Choose one of three random tailored trainings. Good luck.",
+    "desc": "Choose one of the three random tailored trainings. Good luck.",
     "rarity": 1,
     "icon": "material_treasure_faction_skill_chest1",
     "view_type": 6
@@ -214,7 +214,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Tactical Skill Treasure",
     "editor_name": "QV1-SSR级战术技能宝箱",
-    "desc": "Select one of three random Tactical Skills",
+    "desc": "Select one of the three random Tactical Skills",
     "rarity": 4,
     "icon": "material_treasure_tactics_skill_chest4",
     "view_type": 4
@@ -224,7 +224,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Tactical Skill Treasure",
     "editor_name": "QV1-SR级战术技能宝箱",
-    "desc": "Select one of three random Tactical Skills",
+    "desc": "Select one of the three random Tactical Skills",
     "rarity": 3,
     "icon": "material_treasure_tactics_skill_chest3",
     "view_type": 4
@@ -234,7 +234,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Tactical Skill Treasure",
     "editor_name": "QV1-R级战术技能宝箱",
-    "desc": "Select one of three random Tactical Skills",
+    "desc": "Select one of the three random Tactical Skills",
     "rarity": 2,
     "icon": "material_treasure_tactics_skill_chest2",
     "view_type": 4
@@ -244,7 +244,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Common Tactical Skill Treasure",
     "editor_name": "QV1-N级战术技能宝箱",
-    "desc": "Select one of three random Tactical Skills",
+    "desc": "Select one of the three random Tactical Skills",
     "rarity": 1,
     "icon": "material_treasure_tactics_skill_chest1",
     "view_type": 4
@@ -364,7 +364,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Tailored Training Tome",
     "editor_name": "AT2-SSR级训练被动宝箱 骑士团",
-    "desc": "Choose one of three random Legendary tailored trainings. Good luck.",
+    "desc": "Choose one of the three random Legendary tailored trainings. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_faction_skill_chest4",
     "view_type": 6
@@ -454,7 +454,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Facility Upgrade Chest",
     "editor_name": "AT2-SR级科技奖励宝箱",
-    "desc": "Choose one of three random Epic facility upgrades. Good luck.",
+    "desc": "Choose one of the three random Epic facility upgrades. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_random_tech_chest3",
     "view_type": 3
@@ -464,7 +464,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Facility Upgrade Chest",
     "editor_name": "AT2-R级科技奖励宝箱",
-    "desc": "Choose one of three random Rare facility upgrades. Good luck.",
+    "desc": "Choose one of the three random Rare facility upgrades. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_random_tech_chest2",
     "view_type": 3
@@ -474,7 +474,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Facility Upgrade Chest",
     "editor_name": "AT2-SSR级科技奖励宝箱",
-    "desc": "Choose one of three random Legendary facility upgrades. Good luck.",
+    "desc": "Choose one of the three random Legendary facility upgrades. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_random_tech_chest4",
     "view_type": 3
@@ -484,7 +484,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Common Facility Upgrade Chest",
     "editor_name": "AT2-N级科技奖励宝箱",
-    "desc": "Choose one of three random Common Facility Upgrades. Good luck.",
+    "desc": "Choose one of the three random Common Facility Upgrades. Good luck.",
     "rarity": 1,
     "icon": "material_treasure_random_tech_chest1",
     "view_type": 3
@@ -514,7 +514,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Forging Facility Upgrade Chest",
     "editor_name": "AT2-SR级锻造科技奖励宝箱",
-    "desc": "Choose one of three random Epic facility upgrades related to forging. Good luck.",
+    "desc": "Choose one of the three random Epic facility upgrades related to forging. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_random_tech_chest3",
     "view_type": 3
@@ -584,7 +584,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Weapon Chest",
     "editor_name": "CB1-R级主武器奖励宝箱",
-    "desc": "Choose one of three random Rare weapons. Good luck.",
+    "desc": "Choose one of the three random Rare weapons. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_chest2",
     "view_type": 1
@@ -594,7 +594,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Trinket Chest",
     "editor_name": "CB1-R级副武器奖励宝箱",
-    "desc": "Choose one of three random Rare trinkets. Good luck.",
+    "desc": "Choose one of the three random Rare trinkets. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_chest2",
     "view_type": 1
@@ -604,7 +604,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Weapon Chest",
     "editor_name": "CB1-SR级主武器奖励宝箱",
-    "desc": "Choose one of three random Epic weapons. Good luck.",
+    "desc": "Choose one of the three random Epic weapons. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_chest3",
     "view_type": 1
@@ -614,7 +614,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Trinket Chest",
     "editor_name": "CB1-SR级副武器奖励宝箱",
-    "desc": "Choose one of three random Epic trinkets. Good luck.",
+    "desc": "Choose one of the three random Epic trinkets. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_chest3",
     "view_type": 1
@@ -654,7 +654,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Tailored Training Tome",
     "editor_name": "AT2-SSR级训练被动宝箱 伊利亚",
-    "desc": "Choose one of three random Legendary tailored trainings. Good luck.",
+    "desc": "Choose one of the three random Legendary tailored trainings. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_faction_skill_chest4",
     "view_type": 6
@@ -664,7 +664,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Gear Chest",
     "editor_name": "CB1-R级装备奖励宝箱",
-    "desc": "Choose one of three random Rare weapons or trinkets. Good luck.",
+    "desc": "Choose one of the three random Rare weapons or trinkets. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_weapon_chest2",
     "view_type": 1
@@ -674,7 +674,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Gear Chest",
     "editor_name": "CB1-SR级装备奖励宝箱",
-    "desc": "Choose one of three random Epic weapons or trinkets. Good luck.",
+    "desc": "Choose one of the three random Epic weapons or trinkets. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_weapon_chest3",
     "view_type": 1
@@ -684,7 +684,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Common Gear Chest",
     "editor_name": "CB1-N级装备奖励宝箱",
-    "desc": "Choose one of three random Common weapons or trinkets. Good luck.",
+    "desc": "Choose one of the three random Common weapons or trinkets. Good luck.",
     "rarity": 1,
     "icon": "material_treasure_weapon_chest1",
     "view_type": 1
@@ -694,7 +694,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Gear Chest",
     "editor_name": "CB1-SSR级装备奖励宝箱",
-    "desc": "Choose one of three random Legendary weapons or trinkets. Good luck.",
+    "desc": "Choose one of the three random Legendary weapons or trinkets. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_weapon_chest4",
     "view_type": 1
@@ -704,7 +704,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Weapon Chest",
     "editor_name": "CB1-SSR级武器奖励宝箱",
-    "desc": "Choose one of three random Legendary weapons. Good luck.",
+    "desc": "Choose one of the three random Legendary weapons. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_weapon_chest4",
     "view_type": 1
@@ -714,7 +714,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Trinket Chest",
     "editor_name": "CB1-SSR级装具奖励宝箱",
-    "desc": "Choose one of three random Legendary trinkets. Good luck.",
+    "desc": "Choose one of the three random Legendary trinkets. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_weapon_chest4",
     "view_type": 1
@@ -764,7 +764,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Common Facility Upgrade Chest",
     "editor_name": "N级科技奖励宝箱-埃拉曼线用",
-    "desc": "Choose one of three random Common Facility Upgrades. Good luck.",
+    "desc": "Choose one of the three random Common Facility Upgrades. Good luck.",
     "rarity": 1,
     "icon": "material_treasure_random_tech_chest1",
     "view_type": 3
@@ -774,7 +774,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Rare Facility Upgrade Chest",
     "editor_name": "R级科技奖励宝箱-埃拉曼线用",
-    "desc": "Choose one of three random Rare facility upgrades. Good luck.",
+    "desc": "Choose one of the three random Rare facility upgrades. Good luck.",
     "rarity": 2,
     "icon": "material_treasure_random_tech_chest2",
     "view_type": 3
@@ -784,7 +784,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Facility Upgrade Chest",
     "editor_name": "SR级科技奖励宝箱-埃拉曼线用",
-    "desc": "Choose one of three random Epic facility upgrades. Good luck.",
+    "desc": "Choose one of the three random Epic facility upgrades. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_random_tech_chest3",
     "view_type": 3
@@ -794,7 +794,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Legendary Facility Upgrade Chest",
     "editor_name": "SSR级科技奖励宝箱-埃拉曼线用",
-    "desc": "Choose one of three random Legendary facility upgrades. Good luck.",
+    "desc": "Choose one of the three random Legendary facility upgrades. Good luck.",
     "rarity": 4,
     "icon": "material_treasure_random_tech_chest4",
     "view_type": 3
@@ -904,7 +904,7 @@
     "m_treasure_chest_bonuss": [],
     "name": "Epic Weapon Chest",
     "editor_name": "SR级武器奖励宝箱-埃拉曼线用",
-    "desc": "Choose one of three random Epic weapons or trinkets. Good luck.",
+    "desc": "Choose one of the three random Epic weapons or trinkets. Good luck.",
     "rarity": 3,
     "icon": "material_treasure_chest3",
     "view_type": 1

@@ -30,7 +30,7 @@
     "m_online_gacha_package_groups": [34, 35, 36, 37],
     "name": "Mighty Weapons",
     "editor_name": "普通武器卡包",
-    "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"desc\":[\"During the event, you have a 5% chance to get Legendary gear.\",\"You have the opportunity to summon any released gear (Cornucopia Weapons excluded) in the [Standard Summon].\"]}]}",
+    "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 5% chance to get Legendary gear.\",\"You have the opportunity to summon any released gear (Cornucopia Weapons excluded) in the [Standard Summon].\"]}]}",
     "rule_id": 101,
     "ticket_treasure_type": 114,
     "ticket_param0": 1,
@@ -67,7 +67,7 @@
   {
     "id": 11,
     "m_online_gacha_package_groups": [86, 88, 89, 90],
-    "name": "Innocence amid Chaos",
+    "name": "Innocence",
     "editor_name": "【UP0-1】小魔女、面具刺客",
     "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 2% chance to get Legendary characters, and the featured Rate-UP character accounts for 75% of the Legendary character rate.\",\"Each summon in any summon event will accumulate toward the overall guarantee count. When the guarantee count reaches 100, <style=yellow>you will randomly obtain one released Legendary character.</style> The guarantee count is reset when you get a Legendary character. (Current overall summon: <style=yellow>{count}</style> more summons for a guaranteed random Legendary character.)\"]},{\"title\": \"[Destined] Guarantee Rules\",\"rows\": [\"Each summon in any [Destined] summon event will accumulate toward the [Destined] guarantee count. When the [Destined] guarantee count reaches 180, <style=yellow>you will get a featured Rate-UP character you have not obtained.</style> If you have already obtained all the featured Rate-UP characters, you will get 1 random featured Rate-UP character. During the event, the [Destined] guarantee count is reset when you get a featured character for the second time or trigger the guarantee after obtaining all featured characters. (Current [Destined] summon count: <style=yellow>{upCount}</style> more summons for a guaranteed current UP character.)\",\"When the [Destined] guarantee is triggered, the overall guarantee summon count will remain unchanged.\",\"The [Destined] summon count will continuously accumulate within the [Destined] event and is calculated independently, not affecting the summon count of other types of summon events. Overall guarantee counts and Destined counts exclude summoning attempts from [First Summon].\"]}]}",
     "rule_id": 4,
@@ -223,7 +223,7 @@
   {
     "id": 25,
     "m_online_gacha_package_groups": [162, 163, 164, 165],
-    "name": "Innocence amid Chaos",
+    "name": "Innocence",
     "editor_name": "【复刻UP0-1】小魔女、面具刺客",
     "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 2% chance to get Legendary characters, and the featured Rate-UP character accounts for 75% of the Legendary character rate.\",\"Each summon in any summon event will accumulate toward the overall guarantee count. When the guarantee count reaches 100, <style=yellow>you will randomly obtain one released Legendary character.</style> The guarantee count is reset when you get a Legendary character. (Current overall summon: <style=yellow>{count}</style> more summons for a guaranteed random Legendary character.)\"]},{\"title\": \"[Destined] Guarantee Rules\",\"rows\": [\"Each summon in any [Destined] summon event will accumulate toward the [Destined] guarantee count. When the [Destined] guarantee count reaches 180, <style=yellow>you will get a featured Rate-UP character you have not obtained.</style> If you have already obtained all the featured Rate-UP characters, you will get 1 random featured Rate-UP character. During the event, the [Destined] guarantee count is reset when you get a featured character for the second time or trigger the guarantee after obtaining all featured characters. (Current [Destined] summon count: <style=yellow>{upCount}</style> more summons for a guaranteed current UP character.)\",\"When the [Destined] guarantee is triggered, the overall guarantee summon count will remain unchanged.\",\"The [Destined] summon count will continuously accumulate within the [Destined] event and is calculated independently, not affecting the summon count of other types of summon events. Overall guarantee counts and Destined counts exclude summoning attempts from [First Summon].\"]}]}",
     "rule_id": 4,
@@ -561,7 +561,7 @@
   {
     "id": 58,
     "m_online_gacha_package_groups": [286, 287, 288, 289],
-    "name": "Innocence amid Chaos",
+    "name": "Innocence",
     "editor_name": "【半周年UP0-1】科尔、贝拉",
     "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 2% chance to get Legendary characters, and the featured Rate-UP character accounts for 75% of the Legendary character rate.\",\"Each summon in any summon event will accumulate toward the overall guarantee count. When the guarantee count reaches 100, <style=yellow>you will randomly obtain one released Legendary character.</style> The guarantee count is reset when you get a Legendary character. (Current overall summon: <style=yellow>{count}</style> more summons for a guaranteed random Legendary character.)\"]},{\"title\": \"[Destined] Guarantee Rules\",\"rows\": [\"Each summon in any [Destined] summon event will accumulate toward the [Destined] guarantee count. When the [Destined] guarantee count reaches 180, <style=yellow>you will get a featured Rate-UP character you have not obtained.</style> If you have already obtained all the featured Rate-UP characters, you will get 1 random featured Rate-UP character. During the event, the [Destined] guarantee count is reset when you get a featured character for the second time or trigger the guarantee after obtaining all featured characters. (Current [Destined] summon count: <style=yellow>{upCount}</style> more summons for a guaranteed current UP character.)\",\"When the [Destined] guarantee is triggered, the overall guarantee summon count will remain unchanged.\",\"The [Destined] summon count will continuously accumulate within the [Destined] event and is calculated independently, not affecting the summon count of other types of summon events. Overall guarantee counts and Destined counts exclude summoning attempts from [First Summon].\"]}]}",
     "rule_id": 4,
@@ -574,7 +574,7 @@
   {
     "id": 59,
     "m_online_gacha_package_groups": [290, 291, 292, 293],
-    "name": "Innocence amid Chaos",
+    "name": "Innocence",
     "editor_name": "【半周年UP0-1】科尔、贝拉生涯池",
     "desc": "{\"desc_list\":[{\"title\": \"Basic Rules\",\"rows\":[\"During the event, you have a 2% chance to get Legendary characters, and the featured Rate-UP character accounts for 75% of the Legendary character rate.\",\"Each summon in any summon event will accumulate toward the overall guarantee count. When the guarantee count reaches 100, <style=yellow>you will randomly obtain one released Legendary character.</style> The guarantee count is reset when you get a Legendary character. (Current overall summon: <style=yellow>{count}</style> more summons for a guaranteed random Legendary character.)\"]},{\"title\": \"[Destined] Guarantee Rules\",\"rows\": [\"Each summon in any [Destined] summon event will accumulate toward the [Destined] guarantee count. When the [Destined] guarantee count reaches 180, <style=yellow>you will get a featured Rate-UP character you have not obtained.</style> If you have already obtained all the featured Rate-UP characters, you will get 1 random featured Rate-UP character. During the event, the [Destined] guarantee count is reset when you get a featured character for the second time or trigger the guarantee after obtaining all featured characters. (Current [Destined] summon count: <style=yellow>{upCount}</style> more summons for a guaranteed current UP character.)\",\"When the [Destined] guarantee is triggered, the overall guarantee summon count will remain unchanged.\",\"The [Destined] summon count will continuously accumulate within the [Destined] event and is calculated independently, not affecting the summon count of other types of summon events. Overall guarantee counts and Destined counts exclude summoning attempts from [First Summon].\"]}]}",
     "rule_id": 4,
@@ -704,7 +704,7 @@
   {
     "id": 86,
     "m_online_gacha_package_groups": [398, 399, 400, 401],
-    "name": "",
+    "name": "Get Together",
     "editor_name": "【UP】通用角色卡包",
     "desc": "",
     "rule_id": 4,

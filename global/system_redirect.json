@@ -1611,9 +1611,45 @@
     "param2": 0
   },
   {
+    "id": 5113,
+    "name": "抽卡系统-重逢之时-莉莉薇儿、小熊",
+    "desc": "",
+    "system": 34,
+    "param0": 77,
+    "param1": 0,
+    "param2": 0
+  },
+  {
+    "id": 5114,
+    "name": "抽卡系统-重逢之时-茉茉、诺诺薇儿",
+    "desc": "",
+    "system": 34,
+    "param0": 81,
+    "param1": 0,
+    "param2": 0
+  },
+  {
+    "id": 5115,
+    "name": "抽卡系统-重逢之时-三王女、泽维尔",
+    "desc": "",
+    "system": 34,
+    "param0": 82,
+    "param1": 0,
+    "param2": 0
+  },
+  {
+    "id": 5116,
+    "name": "运营活动-天平上的铃兰",
+    "desc": "",
+    "system": 57,
+    "param0": 46,
+    "param1": 0,
+    "param2": 0
+  },
+  {
     "id": 5119,
     "name": "战令-科尔皮肤战令",
-    "desc": "",
+    "desc": "[Col's Afternoon] Obtain from [Col's Promise]",
     "system": 70,
     "param0": 2,
     "param1": 0,

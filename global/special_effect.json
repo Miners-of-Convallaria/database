@@ -422,7 +422,7 @@
   {
     "id": 63,
     "m_special_effect_details": [81],
-    "name": "Takes 30% less Physical DMG when Healthy, and 30% less Magical DMG when Injured.",
+    "name": "Takes 30% less physical DMG when Healthy, and 30% less magical DMG when Injured.",
     "editor_name": "健康时受到物理伤害降低30%，受伤时受到魔法伤害降低30%",
     "special_effect_detail_ids": "81"
   },

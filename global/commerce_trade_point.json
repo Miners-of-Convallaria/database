@@ -3,7 +3,7 @@
     "id": 1,
     "m_commerce_developments": [1, 2, 3, 4],
     "name": "Waverun City",
-    "desc": "A seaside port city abundant in various seafood, ravaged by war, and in need of extensive reconstruction, where sailors pray for luck more frequently before setting sail due to frequent maritime disasters. The Advance Order stationed here has a large demand for Luxites.",
+    "desc": "A seaside port city abundant with a variety of seafood. It's been ravaged by war and in need of extensive reconstruction. Sailors are often found praying for luck before departure due to frequent shipwrecks. The Advance Order stationed here has a high demand for Luxite.",
     "faction_id": 3,
     "editor_name": "浪涌城",
     "icon": "commerce_city_waveruncity"
@@ -12,7 +12,7 @@
     "id": 2,
     "m_commerce_developments": [5, 6, 7, 8],
     "name": "Windyvale Town",
-    "desc": "A small town near the Town of Convallaria, situated at the entrance to the Great Sea of Sand. Recently, the town has been filled with the sounds of steel clashing and the pungent smell of explosives. Due to the heavy physical labor and frequent accidents, there is a demand for both salt and medicine.",
+    "desc": "A small town near the Town of Convallaria, situated on the edge of the Great Sea of Sand. Recently, the town has been filled with the clashing of steel and the acrid stench of explosives. Due to the hard physical labor and frequent accidents here, there is demand for both salt and medicine.",
     "faction_id": 0,
     "editor_name": "风谷镇",
     "icon": "commerce_city_windyvaletown"
@@ -21,7 +21,7 @@
     "id": 3,
     "m_commerce_developments": [9, 10, 11, 12],
     "name": "Mine Pit",
-    "desc": "A once-abandoned mining town now undergoing rejuvenation. It is abundant in various ores and rock salt, while in need of grain, medicine, and explosives used in mining.",
+    "desc": "A once-abandoned mining town that is slowly being revitalized. It's abundant in rock salt and a variety of ore. There is demand for grain, medicine, and explosives that are used when mining.",
     "faction_id": 0,
     "editor_name": "矿坑城",
     "icon": "commerce_city_minepit"
@@ -57,7 +57,7 @@
     "id": 7,
     "m_commerce_developments": [25, 26, 27, 28],
     "name": "Vlder Tribes",
-    "desc": "The home of the Vlderians, who are skilled in hunting and crafting medicines from various exotic materials, as well as making handmade items in their leisure time. Before venturing out of the mountains, they need to fortify their defense facilities and replenish their weaponry.",
+    "desc": "The home of the Vlderians, skilled in both hunting and crafting medicine from various exotic ingredients. They're known to create handmade goods in their leisure time. Before venturing out from the mountains, they must fortify their defenses and replenish their weaponry.",
     "faction_id": 4,
     "editor_name": "薇尔德部族",
     "icon": "commerce_city_vldertribes"

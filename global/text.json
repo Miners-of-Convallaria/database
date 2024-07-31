@@ -192,7 +192,7 @@
   {
     "id": 115,
     "type": "system",
-    "text": "Connection lost. Reconnect to the realm of Sword of Convallaria?"
+    "text": "Connection lost. \nReconnect to the realm of Sword of Convallaria?"
   },
   {
     "id": 116,
@@ -242,7 +242,7 @@
   {
     "id": 125,
     "type": "system",
-    "text": "Connection lost. Reconnect to the realm of Sword of Convallaria?"
+    "text": "Connection lost. \nReconnect to the realm of Sword of Convallaria?"
   },
   {
     "id": 126,
@@ -557,7 +557,7 @@
   {
     "id": 188,
     "type": "",
-    "text": "General Level exceeds Level {0}"
+    "text": "General Level exceeds Lv. {0}"
   },
   {
     "id": 189,
@@ -587,7 +587,7 @@
   {
     "id": 194,
     "type": "",
-    "text": "Requires Level {0}"
+    "text": "Requires Lv. {0}"
   },
   {
     "id": 195,
@@ -807,7 +807,7 @@
   {
     "id": 238,
     "type": "",
-    "text": "Your level is too low, requiring Level {0}"
+    "text": "Your level is too low, requiring Lv. {0}"
   },
   {
     "id": 239,
@@ -852,7 +852,7 @@
   {
     "id": 247,
     "type": "",
-    "text": "Rank-up requires Level {0}"
+    "text": "Rank-up requires Lv. {0}"
   },
   {
     "id": 248,
@@ -867,7 +867,7 @@
   {
     "id": 250,
     "type": "",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 251,
@@ -942,7 +942,7 @@
   {
     "id": 265,
     "type": "",
-    "text": "                      Are you sure you want to cancel training?\n(*The funds spent on the training will be returned, but the character will not receive any upgrade.)"
+    "text": "                      Are you sure you want to stop training?\n(*The funds spent on the training will be returned, but the character will not receive any upgrade.)"
   },
   {
     "id": 266,
@@ -1337,7 +1337,7 @@
   {
     "id": 344,
     "type": "tip",
-    "text": "Attacking a unit from [Behind] will trigger a [Back Attack], providing a DMG bonus."
+    "text": "Attacking a unit from [Behind] will trigger a [back attack], providing a DMG bonus."
   },
   {
     "id": 345,
@@ -1372,7 +1372,7 @@
   {
     "id": 351,
     "type": "tip",
-    "text": "A character can equip up to 1 [Basic Attack], 1 [Reaction Skill], and 3 [Skills]. A good combination is the foundation of victory."
+    "text": "A character can equip up to 1 [basic attack], 1 [reaction skill], and 3 [Skills]. A good combination is the foundation of victory."
   },
   {
     "id": 352,
@@ -1472,7 +1472,7 @@
   {
     "id": 372,
     "type": "",
-    "text": "Conduct Exp Training to gain exp and level-up"
+    "text": "Conduct Exp Training to gain exp and level-up."
   },
   {
     "id": 373,
@@ -1487,7 +1487,7 @@
   {
     "id": 375,
     "type": "",
-    "text": "Conduct Skill Training. You can choose one of three skills once the training is completed."
+    "text": "Conduct Skill Training. You can choose one of the three skills once the training is completed."
   },
   {
     "id": 376,
@@ -1537,7 +1537,7 @@
   {
     "id": 385,
     "type": "",
-    "text": "{0} Reputation"
+    "text": "Reputation with {0}"
   },
   {
     "id": 386,
@@ -1552,7 +1552,7 @@
   {
     "id": 388,
     "type": "",
-    "text": "Radiant Calendar: Year {0}, {1} - Week {2}"
+    "text": "Radiant Calendar: {0}, {1} - Week {2}"
   },
   {
     "id": 389,
@@ -1622,7 +1622,7 @@
   {
     "id": 402,
     "type": "",
-    "text": "Someone's waiting for you at the {0}, heading to {1}"
+    "text": "Meet someone at {0}"
   },
   {
     "id": 403,
@@ -1637,7 +1637,7 @@
   {
     "id": 405,
     "type": "",
-    "text": "Now lacking {0} {1} to exchange {2} pieces of {3}. Would you like to purchase Luxite?"
+    "text": "Now lacking {0} {1} to exchange {2} pieces of {3}. Would you like to purchase Hope Luxites?"
   },
   {
     "id": 406,
@@ -1697,12 +1697,12 @@
   {
     "id": 417,
     "type": "",
-    "text": "Requires Voyager Level {0}"
+    "text": "Requires Voyager Lv. {0}"
   },
   {
     "id": 418,
     "type": "",
-    "text": "Gear Level {0} is required"
+    "text": "Gear Lv. {0} is required"
   },
   {
     "id": 419,
@@ -1727,17 +1727,17 @@
   {
     "id": 423,
     "type": "",
-    "text": "Optional Gleam Shard"
+    "text": "Optional Astral Shard"
   },
   {
     "id": 424,
     "type": "",
-    "text": "Get extra Gleam Shard in the end"
+    "text": "Get extra Astral Shard in the end"
   },
   {
     "id": 425,
     "type": "",
-    "text": "Storable Gleam Shard"
+    "text": "Storable Astral Shard"
   },
   {
     "id": 426,
@@ -1757,7 +1757,7 @@
   {
     "id": 429,
     "type": "",
-    "text": "{0} Gleam Shard(s)"
+    "text": "{0} Astral Shard(s)"
   },
   {
     "id": 430,
@@ -1797,7 +1797,7 @@
   {
     "id": 437,
     "type": "",
-    "text": "Clear stages to get rank-up materials"
+    "text": "Clear stages to get upgrade materials"
   },
   {
     "id": 438,
@@ -2167,7 +2167,7 @@
   {
     "id": 1010,
     "type": "",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 1011,
@@ -2357,7 +2357,7 @@
   {
     "id": 1049,
     "type": "",
-    "text": "Unlock at Level {0}"
+    "text": "Unlock at Lv. {0}"
   },
   {
     "id": 1050,
@@ -2407,7 +2407,7 @@
   {
     "id": 1059,
     "type": "",
-    "text": "Due to lack of Hope Luxite, you cannot purchase it"
+    "text": "Due to lack of Hope Luxites, you cannot purchase it"
   },
   {
     "id": 1060,
@@ -2432,7 +2432,7 @@
   {
     "id": 1064,
     "type": "",
-    "text": "Level {0} required"
+    "text": "Lv. {0} required"
   },
   {
     "id": 1065,
@@ -2447,7 +2447,7 @@
   {
     "id": 1067,
     "type": "",
-    "text": "Star Level {0} Effect"
+    "text": "Star Lv. {0} Effect"
   },
   {
     "id": 1068,
@@ -2537,7 +2537,7 @@
   {
     "id": 1085,
     "type": "",
-    "text": "Combo Level {0}"
+    "text": "Combo Lv. {0}"
   },
   {
     "id": 1086,
@@ -2667,7 +2667,7 @@
   {
     "id": 1112,
     "type": "",
-    "text": "1. Casting Tactical Skills consumes TP. \n\n2. TP recovers after a character's action or the round ends.\n\n3. TP recovers upon triggering the following effects:\n\n[Counter]: Attacking a unit countered by the character\n\n[Highland]: Attacking from a highland\n\n[Back Attack]: Attacking with Backstab\n\n[AOE]: Dealing Crowd DMG to at least 4 enemies\n\n[Collision]: Dealing Collision DMG to 2 enemies simultaneously\n\n[Objects]: Make interactive objects/traps/devices effective\n\n[Healing the Dying]: Healing dying characters\n\n[Crowd Healing]: Healing 3 allies simultaneously"
+    "text": "1. Casting Tactical Skills consumes TP. \n\n2. TP recovers after a character's action or the round ends.\n\n3. TP recovers upon triggering the following effects:\n\n[Counter]: Attacking a unit countered by the character\n\n[Highland]: Attacking from a highland\n\n[Back Attack]: Attacking with Backstab\n\n[AoE]: Dealing Crowd DMG to at least 4 enemies\n\n[Collision]: Dealing Collision DMG to 2 enemies simultaneously\n\n[Objects]: Make interactive objects/traps/devices effective\n\n[Healing the Dying]: Healing dying characters\n\n[Crowd Healing]: Healing 3 allies simultaneously"
   },
   {
     "id": 1113,
@@ -2757,12 +2757,12 @@
   {
     "id": 1130,
     "type": "prefab",
-    "text": "Custom Forging"
+    "text": "Custom"
   },
   {
     "id": 1131,
     "type": "prefab",
-    "text": "Normal Forging"
+    "text": "Normal"
   },
   {
     "id": 1132,
@@ -3017,7 +3017,7 @@
   {
     "id": 1182,
     "type": "prefab",
-    "text": "Turn"
+    "text": "ROUND"
   },
   {
     "id": 1183,
@@ -3147,7 +3147,7 @@
   {
     "id": 1208,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 1209,
@@ -3307,7 +3307,7 @@
   {
     "id": 1240,
     "type": "prefab",
-    "text": "Hope Luxite is an extremely valuable resource that can be used to summon characters or unlock a new Spiral of Destinies"
+    "text": "Hope Luxites is an extremely valuable resource that can be used to summon characters or unlock a new Spiral of Destinies"
   },
   {
     "id": 1241,
@@ -3757,7 +3757,7 @@
   {
     "id": 1330,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 1331,
@@ -3812,7 +3812,7 @@
   {
     "id": 1341,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 1342,
@@ -3872,7 +3872,7 @@
   {
     "id": 1353,
     "type": "prefab",
-    "text": "Delete Read"
+    "text": "Delete Read Mail"
   },
   {
     "id": 1354,
@@ -4042,7 +4042,7 @@
   {
     "id": 1387,
     "type": "prefab",
-    "text": "Learn"
+    "text": "＋"
   },
   {
     "id": 1388,
@@ -4427,7 +4427,7 @@
   {
     "id": 1464,
     "type": "prefab",
-    "text": "Astral Gems"
+    "text": "Purchase"
   },
   {
     "id": 1465,
@@ -4437,7 +4437,7 @@
   {
     "id": 1466,
     "type": "prefab",
-    "text": "Forging Spot"
+    "text": "Forging Slot"
   },
   {
     "id": 1467,
@@ -4782,7 +4782,7 @@
   {
     "id": 1535,
     "type": "prefab",
-    "text": "Dispatch Request"
+    "text": "Dispatch Quest"
   },
   {
     "id": 1536,
@@ -4887,7 +4887,7 @@
   {
     "id": 1556,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 1557,
@@ -4942,7 +4942,7 @@
   {
     "id": 1567,
     "type": "prefab",
-    "text": "Gleam Shard"
+    "text": "Astral Shard"
   },
   {
     "id": 1568,
@@ -5042,7 +5042,7 @@
   {
     "id": 1587,
     "type": "prefab",
-    "text": "Skill 2 learned"
+    "text": "to learn a new skill"
   },
   {
     "id": 1588,
@@ -5307,7 +5307,7 @@
   {
     "id": 1640,
     "type": "prefab",
-    "text": "Impact"
+    "text": "{0} Impact"
   },
   {
     "id": 1641,
@@ -5357,7 +5357,7 @@
   {
     "id": 1650,
     "type": "prefab",
-    "text": "Natural Restore"
+    "text": "Basic"
   },
   {
     "id": 1651,
@@ -5492,7 +5492,7 @@
   {
     "id": 1677,
     "type": "prefab",
-    "text": "Select Gleam Shard"
+    "text": "Select Astral Shard"
   },
   {
     "id": 1678,
@@ -5547,7 +5547,7 @@
   {
     "id": 1688,
     "type": "prefab",
-    "text": "Resources Returned"
+    "text": "Materials Returned"
   },
   {
     "id": 1689,
@@ -5572,7 +5572,7 @@
   {
     "id": 1693,
     "type": "prefab",
-    "text": "Character Attributes"
+    "text": "Attributes"
   },
   {
     "id": 1694,
@@ -5832,7 +5832,7 @@
   {
     "id": 1745,
     "type": "prefab",
-    "text": "Limited Time Shop"
+    "text": "Time Left: "
   },
   {
     "id": 1746,
@@ -5892,7 +5892,7 @@
   {
     "id": 1757,
     "type": "prefab",
-    "text": "Required:"
+    "text": "Required: "
   },
   {
     "id": 1758,
@@ -6232,7 +6232,7 @@
   {
     "id": 1827,
     "type": "message",
-    "text": "Due to lack of Hope Luxite, you cannot exchange remaining required Secret Fate"
+    "text": "Due to lack of Hope Luxites, you cannot exchange remaining required Secret Fate"
   },
   {
     "id": 1828,
@@ -6247,7 +6247,7 @@
   {
     "id": 1830,
     "type": "message ",
-    "text": "New feature unlocked: Gleam Shard"
+    "text": "New feature unlocked: Astral Shard"
   },
   {
     "id": 1831,
@@ -6302,7 +6302,7 @@
   {
     "id": 1841,
     "type": "",
-    "text": "Try the newly obtained beacon"
+    "text": "Try the new beacon!"
   },
   {
     "id": 1842,
@@ -6347,7 +6347,7 @@
   {
     "id": 1850,
     "type": "",
-    "text": "Expire in {0}"
+    "text": "Expires in {0}"
   },
   {
     "id": 1851,
@@ -6362,12 +6362,12 @@
   {
     "id": 1853,
     "type": "",
-    "text": "Are you sure to delete read mails? (Unclaimed mails will not be deleted)"
+    "text": "Are you sure you want to delete all read mail? (Unread mail will not be deleted.)"
   },
   {
     "id": 1854,
     "type": "",
-    "text": "Mails deleted successfully"
+    "text": "Mail deleted successfully"
   },
   {
     "id": 1855,
@@ -6587,12 +6587,12 @@
   {
     "id": 1898,
     "type": "",
-    "text": "You have selected {0} piece(s) of gear, including"
+    "text": "<style=red>(This action cannot be reverted.)</style> You have selected {0} piece(s) of gear, including"
   },
   {
     "id": 1899,
     "type": "",
-    "text": "{0} <style=blue>{1}×{2}</style>;"
+    "text": "<style=blue>\n- {0}×{1}</style>;"
   },
   {
     "id": 1900,
@@ -6662,7 +6662,7 @@
   {
     "id": 1913,
     "type": "",
-    "text": "{0} Limit"
+    "text": "{0}"
   },
   {
     "id": 1914,
@@ -6762,12 +6762,12 @@
   {
     "id": 1933,
     "type": "",
-    "text": "Radiant Calendar:Year {0}, {1}"
+    "text": "Radiant Calendar: {0}, {1}"
   },
   {
     "id": 1934,
     "type": "",
-    "text": "Wk.{0}"
+    "text": "Week {0}"
   },
   {
     "id": 1935,
@@ -6852,7 +6852,7 @@
   {
     "id": 1952,
     "type": "",
-    "text": "Beryl's Research Level {0}"
+    "text": "Beryl's Research Lv. {0}"
   },
   {
     "id": 1953,
@@ -7372,7 +7372,7 @@
   {
     "id": 2056,
     "type": "prefab",
-    "text": "Recall"
+    "text": "Recollection"
   },
   {
     "id": 2057,
@@ -7407,7 +7407,7 @@
   {
     "id": 2063,
     "type": "",
-    "text": "You have selected {0} Tarot Whisper(s), including"
+    "text": "<style=red>(This action cannot be reverted.)</style> You have selected {0} Tarot Whisper(s), including"
   },
   {
     "id": 2064,
@@ -7497,7 +7497,7 @@
   {
     "id": 2081,
     "type": "",
-    "text": "- When you claim a Floor Reward for the first time, the Floor Reward level will be permanently increased by 1.\n- Increase your Reward level to unlock better Floor Rewards."
+    "text": "- When you claim a Floor Reward for the first time, the Floor Reward level will be permanently increased by 1.\n- Increase Floor Progress to unlock better rewards."
   },
   {
     "id": 2082,
@@ -7642,7 +7642,7 @@
   {
     "id": 2112,
     "type": "",
-    "text": "Round {0} of Spiral of Destinies"
+    "text": "Cycle {0}"
   },
   {
     "id": 2113,
@@ -7762,7 +7762,7 @@
   {
     "id": 2136,
     "type": "",
-    "text": "A Recall entry will be generated at the end of each cycle, and when the number of entries exceeds the limit, the earliest unprotected entry will be automatically removed."
+    "text": "Recollection details will be generated at the end of each cycle, and when the number of entries exceeds the limit, the earliest unprotected entry will be automatically removed."
   },
   {
     "id": 2137,
@@ -7832,7 +7832,7 @@
   {
     "id": 2155,
     "type": "",
-    "text": "Learn"
+    "text": "＋"
   },
   {
     "id": 2156,
@@ -8022,7 +8022,7 @@
   {
     "id": 2196,
     "type": "",
-    "text": "Defense Editing"
+    "text": "Set Defenses"
   },
   {
     "id": 2197,
@@ -8207,7 +8207,7 @@
   {
     "id": 2233,
     "type": "",
-    "text": "Radiant Calendar:Year {0}, {1}"
+    "text": "Radiant Calendar: {0}, {1}"
   },
   {
     "id": 2234,
@@ -8252,7 +8252,7 @@
   {
     "id": 2242,
     "type": "",
-    "text": "Would you like to spend {0} Hope Luxite to refresh the opponent?"
+    "text": "Would you like to spend {0} Hope Luxites to refresh the opponent?"
   },
   {
     "id": 2243,
@@ -8572,7 +8572,7 @@
   {
     "id": 2306,
     "type": "prefab",
-    "text": "Defense Editing"
+    "text": "Set Defenses"
   },
   {
     "id": 2307,
@@ -8832,7 +8832,7 @@
   {
     "id": 2358,
     "type": "prefab",
-    "text": "Defend"
+    "text": "DEF"
   },
   {
     "id": 2359,
@@ -8907,12 +8907,12 @@
   {
     "id": 2373,
     "type": "prefab",
-    "text": "You have obtained [Fate's Favor "
+    "text": "Obtained Fate's Favor  "
   },
   {
     "id": 2374,
     "type": "prefab",
-    "text": "]"
+    "text": " "
   },
   {
     "id": 2375,
@@ -8922,7 +8922,7 @@
   {
     "id": 2376,
     "type": "prefab",
-    "text": "DMG taken"
+    "text": "DMG Taken"
   },
   {
     "id": 2377,
@@ -9012,7 +9012,7 @@
   {
     "id": 2394,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 2395,
@@ -9112,7 +9112,7 @@
   {
     "id": 2414,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 2415,
@@ -9522,7 +9522,7 @@
   {
     "id": 2496,
     "type": "prefab",
-    "text": "Would you like to activate the Gleam Node?"
+    "text": "Would you like to activate the Astral Node?"
   },
   {
     "id": 2497,
@@ -9552,12 +9552,12 @@
   {
     "id": 2502,
     "type": "prefab",
-    "text": "Augment"
+    "text": "Augments"
   },
   {
     "id": 2503,
     "type": "prefab",
-    "text": "Gleam Machine"
+    "text": "Mechanics"
   },
   {
     "id": 2504,
@@ -9612,7 +9612,7 @@
   {
     "id": 2514,
     "type": "prefab",
-    "text": "Custom Forging"
+    "text": "Custom"
   },
   {
     "id": 2515,
@@ -9632,17 +9632,17 @@
   {
     "id": 2518,
     "type": "prefab",
-    "text": "Obtained from forging"
+    "text": " "
   },
   {
     "id": 2519,
     "type": "prefab",
-    "text": "Result Preview"
+    "text": "Preview"
   },
   {
     "id": 2520,
     "type": "prefab",
-    "text": "Result Preview"
+    "text": "Preview"
   },
   {
     "id": 2521,
@@ -9807,7 +9807,7 @@
   {
     "id": 2553,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 2554,
@@ -9852,7 +9852,7 @@
   {
     "id": 2562,
     "type": "prefab",
-    "text": "Basic Reward"
+    "text": "Basic"
   },
   {
     "id": 2563,
@@ -9892,7 +9892,7 @@
   {
     "id": 2570,
     "type": "prefab",
-    "text": "Back to the present"
+    "text": "Return"
   },
   {
     "id": 2571,
@@ -10067,7 +10067,7 @@
   {
     "id": 2605,
     "type": "prefab",
-    "text": "Preparing experiment task..."
+    "text": "Preparing research task..."
   },
   {
     "id": 2606,
@@ -10087,7 +10087,7 @@
   {
     "id": 2609,
     "type": "prefab",
-    "text": "Experimental plan completed"
+    "text": "Research task completed"
   },
   {
     "id": 2610,
@@ -10157,7 +10157,7 @@
   {
     "id": 2624,
     "type": "",
-    "text": "Memory limit reached. The earliest saved record will be automatically deleted after the next clear"
+    "text": "Memory limit reached. The earliest unprotected saved record will be automatically deleted after the next cycle."
   },
   {
     "id": 2625,
@@ -10282,7 +10282,7 @@
   {
     "id": 2649,
     "type": "",
-    "text": "{0} time(s)"
+    "text": "{0} Left"
   },
   {
     "id": 2650,
@@ -10337,12 +10337,12 @@
   {
     "id": 2660,
     "type": "",
-    "text": "Lack of Hope Luxite"
+    "text": "Lack of Hope Luxites"
   },
   {
     "id": 2661,
     "type": "",
-    "text": "Requires {1} character(s) with Level {0}"
+    "text": "Requires {1} character(s) with Lv. {0}"
   },
   {
     "id": 2662,
@@ -10352,7 +10352,7 @@
   {
     "id": 2663,
     "type": "",
-    "text": "Requires {1} character(s) with Star Level {0}"
+    "text": "Requires {1} character(s) with Star Lv. {0}"
   },
   {
     "id": 2664,
@@ -10362,7 +10362,7 @@
   {
     "id": 2665,
     "type": "",
-    "text": "Requires {1} character(s) with Role of {0}"
+    "text": "Requires {0} character(s): {1} "
   },
   {
     "id": 2666,
@@ -10497,7 +10497,7 @@
   {
     "id": 2695,
     "type": "",
-    "text": "{0} Days"
+    "text": "{0} Day(s)"
   },
   {
     "id": 2696,
@@ -10602,7 +10602,7 @@
   {
     "id": 2716,
     "type": "prefab",
-    "text": "Gear Star Level Up"
+    "text": "Gear Star Level Up\n"
   },
   {
     "id": 2717,
@@ -10807,12 +10807,12 @@
   {
     "id": 2757,
     "type": "prefab",
-    "text": "Remaining Spirit of Hearts"
+    "text": "Spirit of Hearts"
   },
   {
     "id": 2758,
     "type": "prefab",
-    "text": "Press and hold to start\nSpirit Alignment"
+    "text": "Press and hold to start\nSpiritual Forging"
   },
   {
     "id": 2759,
@@ -10932,7 +10932,7 @@
   {
     "id": 2782,
     "type": "prefab",
-    "text": "Level Rewards Difference"
+    "text": "Bonus"
   },
   {
     "id": 2783,
@@ -10992,7 +10992,7 @@
   {
     "id": 2796,
     "type": "",
-    "text": "{0} time(s)"
+    "text": "{0} Left"
   },
   {
     "id": 2797,
@@ -11082,32 +11082,32 @@
   {
     "id": 2814,
     "type": "",
-    "text": "No change in your name"
+    "text": "Nickname remains the same"
   },
   {
     "id": 2815,
     "type": "",
-    "text": "Would you like to rename {0} {1}?"
+    "text": "Would you like to rename {0} to {1}?"
   },
   {
     "id": 2816,
     "type": "",
-    "text": "rename {0} {1}"
+    "text": "rename {0} to {1}"
   },
   {
     "id": 2817,
     "type": "",
-    "text": "Would you like to change the role name back to {0}"
+    "text": "Would you like to change the name back to {0}?"
   },
   {
     "id": 2818,
     "type": "",
-    "text": "Renaming succeeded!"
+    "text": "True names have magical power"
   },
   {
     "id": 2819,
     "type": "",
-    "text": "No change in your name"
+    "text": "Nickname remains the same"
   },
   {
     "id": 2820,
@@ -11277,7 +11277,7 @@
   {
     "id": 2853,
     "type": "",
-    "text": "<style=yellow>[Introduction]<style=yellow>\nReceive 300 Hope Luxite immediately and a Blessing for 30 days with each purchase.\nDuring the Blessing, you can get 80 Hope Luxite and the Backtrack benefit.\n<style=yellow>[Note]</style>\\\nYou can re-purchase the Blessing of Hope, but not if the number of days remaining is more than 180 days.\nThe daily Blessing reward of 80 Hope Luxite will be sent to you at the time of check-in and will not be resent if you fail to check in.\nIf you have not yet claimed your daily Blessing reward when you successfully purchase the Blessing of Hope, you can claim today's reward along with the purchase."
+    "text": "<style=yellow>[Introduction]<style=yellow>\nReceive 300 Hope Luxites immediately and a Blessing for 30 days with each purchase.\nDuring the Blessing, you can get 80 Hope Luxites and the Backtrack benefit.\n<style=yellow>[Note]</style>\\\nYou can re-purchase the Blessing of Hope, but not if the number of days remaining is more than 180 days.\nThe daily Blessing reward of 80 Hope Luxites will be sent to you at the time of check-in and will not be resent if you fail to check in.\nIf you have not yet claimed your daily Blessing reward when you successfully purchase the Blessing of Hope, you can claim today's reward along with the purchase."
   },
   {
     "id": 2854,
@@ -11427,7 +11427,7 @@
   {
     "id": 2884,
     "type": "",
-    "text": "{0} D"
+    "text": "{0} Day(s)"
   },
   {
     "id": 2885,
@@ -11547,22 +11547,22 @@
   {
     "id": 2909,
     "type": "",
-    "text": "Affects Physical DMG dealt by the character"
+    "text": "Affects physical DMG dealt by the character"
   },
   {
     "id": 2910,
     "type": "",
-    "text": "Affects Magical DMG dealt by the character"
+    "text": "Affects magical DMG dealt by the character"
   },
   {
     "id": 2911,
     "type": "",
-    "text": "Reduces Physical DMG taken by the character"
+    "text": "Reduces physical DMG taken by the character"
   },
   {
     "id": 2912,
     "type": "",
-    "text": "Reduces Magical DMG taken by the character"
+    "text": "Reduces magical DMG taken by the character"
   },
   {
     "id": 2913,
@@ -11662,12 +11662,12 @@
   {
     "id": 2932,
     "type": "",
-    "text": "Requires {1} characters at Level {0}\n(changes with the Voyager Level)"
+    "text": "Requires {1} characters at Lv. {0} (changes with the Voyager Level)"
   },
   {
     "id": 2933,
     "type": "",
-    "text": "Requires {1} character(s) at Rank {0} (changes with the Voyager Level)"
+    "text": "Requires {1} characters at Rk {0} (changes with the Voyager Level)"
   },
   {
     "id": 2934,
@@ -11737,7 +11737,7 @@
   {
     "id": 2947,
     "type": "",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 2948,
@@ -12322,7 +12322,7 @@
   {
     "id": 3064,
     "type": "prefab",
-    "text": "Recall"
+    "text": "Recollection"
   },
   {
     "id": 3065,
@@ -12337,7 +12337,7 @@
   {
     "id": 3067,
     "type": "prefab",
-    "text": "Recall"
+    "text": "Recollection"
   },
   {
     "id": 3068,
@@ -12647,7 +12647,7 @@
   {
     "id": 3129,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 3130,
@@ -12917,12 +12917,12 @@
   {
     "id": 3183,
     "type": "prefab",
-    "text": "Guarding"
+    "text": "DEF"
   },
   {
     "id": 3184,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 3185,
@@ -13052,12 +13052,12 @@
   {
     "id": 3210,
     "type": "prefab",
-    "text": "Guarding"
+    "text": "DEF"
   },
   {
     "id": 3211,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 3212,
@@ -13282,7 +13282,7 @@
   {
     "id": 3256,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 3257,
@@ -14112,7 +14112,7 @@
   {
     "id": 3422,
     "type": "prefab",
-    "text": "Turn"
+    "text": "ROUND"
   },
   {
     "id": 3423,
@@ -14702,7 +14702,7 @@
   {
     "id": 3540,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 3541,
@@ -14872,7 +14872,7 @@
   {
     "id": 3574,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 3575,
@@ -15117,7 +15117,7 @@
   {
     "id": 3623,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 3624,
@@ -15172,7 +15172,7 @@
   {
     "id": 3634,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 3635,
@@ -15997,7 +15997,7 @@
   {
     "id": 3799,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 3800,
@@ -16047,7 +16047,7 @@
   {
     "id": 3809,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 3810,
@@ -16122,7 +16122,7 @@
   {
     "id": 3824,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 3825,
@@ -16447,7 +16447,7 @@
   {
     "id": 3889,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 3890,
@@ -17132,7 +17132,7 @@
   {
     "id": 4026,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4027,
@@ -17472,7 +17472,7 @@
   {
     "id": 4094,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4095,
@@ -17612,7 +17612,7 @@
   {
     "id": 4122,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4123,
@@ -17712,7 +17712,7 @@
   {
     "id": 4142,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4143,
@@ -17982,7 +17982,7 @@
   {
     "id": 4196,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4197,
@@ -18182,7 +18182,7 @@
   {
     "id": 4236,
     "type": "prefab",
-    "text": "Defend"
+    "text": "DEF"
   },
   {
     "id": 4237,
@@ -18242,7 +18242,7 @@
   {
     "id": 4248,
     "type": "prefab",
-    "text": "Turn"
+    "text": "ROUND"
   },
   {
     "id": 4249,
@@ -18272,7 +18272,7 @@
   {
     "id": 4254,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4255,
@@ -18327,7 +18327,7 @@
   {
     "id": 4265,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4266,
@@ -18377,7 +18377,7 @@
   {
     "id": 4275,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4276,
@@ -18427,7 +18427,7 @@
   {
     "id": 4285,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4286,
@@ -18477,7 +18477,7 @@
   {
     "id": 4295,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4296,
@@ -18527,7 +18527,7 @@
   {
     "id": 4305,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4306,
@@ -18612,7 +18612,7 @@
   {
     "id": 4322,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4323,
@@ -18662,7 +18662,7 @@
   {
     "id": 4332,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4333,
@@ -18712,7 +18712,7 @@
   {
     "id": 4342,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4343,
@@ -18762,7 +18762,7 @@
   {
     "id": 4352,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4353,
@@ -18812,7 +18812,7 @@
   {
     "id": 4362,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4363,
@@ -18897,7 +18897,7 @@
   {
     "id": 4379,
     "type": "prefab",
-    "text": "]"
+    "text": " "
   },
   {
     "id": 4380,
@@ -18907,7 +18907,7 @@
   {
     "id": 4381,
     "type": "prefab",
-    "text": "DMG taken"
+    "text": "DMG Taken"
   },
   {
     "id": 4382,
@@ -18987,7 +18987,7 @@
   {
     "id": 4397,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 4398,
@@ -20097,7 +20097,7 @@
   {
     "id": 4619,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4620,
@@ -20607,7 +20607,7 @@
   {
     "id": 4721,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4722,
@@ -20877,7 +20877,7 @@
   {
     "id": 4775,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4776,
@@ -21442,7 +21442,7 @@
   {
     "id": 4888,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4889,
@@ -21577,7 +21577,7 @@
   {
     "id": 4915,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4916,
@@ -21762,7 +21762,7 @@
   {
     "id": 4952,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 4953,
@@ -22017,7 +22017,7 @@
   {
     "id": 5003,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 5004,
@@ -22132,7 +22132,7 @@
   {
     "id": 5026,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 5027,
@@ -22502,7 +22502,7 @@
   {
     "id": 5100,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 5101,
@@ -22652,7 +22652,7 @@
   {
     "id": 5130,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 5131,
@@ -22737,7 +22737,7 @@
   {
     "id": 5147,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 5148,
@@ -23792,7 +23792,7 @@
   {
     "id": 5358,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 5359,
@@ -23982,7 +23982,7 @@
   {
     "id": 5396,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5397,
@@ -24112,7 +24112,7 @@
   {
     "id": 5422,
     "type": "prefab",
-    "text": "Coziness Level"
+    "text": "Level"
   },
   {
     "id": 5423,
@@ -24217,7 +24217,7 @@
   {
     "id": 5443,
     "type": "prefab",
-    "text": "Coziness Level"
+    "text": "Level"
   },
   {
     "id": 5444,
@@ -24597,7 +24597,7 @@
   {
     "id": 5519,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5520,
@@ -24762,7 +24762,7 @@
   {
     "id": 5552,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 5553,
@@ -24772,7 +24772,7 @@
   {
     "id": 5554,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5555,
@@ -24887,7 +24887,7 @@
   {
     "id": 5577,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5578,
@@ -25047,7 +25047,7 @@
   {
     "id": 5609,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 5610,
@@ -25057,7 +25057,7 @@
   {
     "id": 5611,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5612,
@@ -25267,7 +25267,7 @@
   {
     "id": 5653,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5654,
@@ -25432,7 +25432,7 @@
   {
     "id": 5686,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 5687,
@@ -25442,7 +25442,7 @@
   {
     "id": 5688,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5689,
@@ -25477,7 +25477,7 @@
   {
     "id": 5695,
     "type": "prefab",
-    "text": "Dispatch Request"
+    "text": "Dispatch Quest"
   },
   {
     "id": 5696,
@@ -25567,7 +25567,7 @@
   {
     "id": 5713,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5714,
@@ -25657,7 +25657,7 @@
   {
     "id": 5731,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 5732,
@@ -25857,7 +25857,7 @@
   {
     "id": 5771,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 5772,
@@ -25962,7 +25962,7 @@
   {
     "id": 5792,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 5793,
@@ -26152,7 +26152,7 @@
   {
     "id": 5830,
     "type": "prefab",
-    "text": "Impact"
+    "text": "{0} Impact"
   },
   {
     "id": 5831,
@@ -26877,7 +26877,7 @@
   {
     "id": 5975,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 5976,
@@ -26957,7 +26957,7 @@
   {
     "id": 5991,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 5992,
@@ -28582,7 +28582,7 @@
   {
     "id": 6316,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 6317,
@@ -28767,7 +28767,7 @@
   {
     "id": 6353,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 6354,
@@ -29257,7 +29257,7 @@
   {
     "id": 6451,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 6452,
@@ -29337,7 +29337,7 @@
   {
     "id": 6467,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 6468,
@@ -29482,7 +29482,7 @@
   {
     "id": 6496,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 6497,
@@ -29537,7 +29537,7 @@
   {
     "id": 6507,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 6508,
@@ -31197,7 +31197,7 @@
   {
     "id": 6839,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 6840,
@@ -31582,7 +31582,7 @@
   {
     "id": 6916,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 6917,
@@ -32677,7 +32677,7 @@
   {
     "id": 7135,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7136,
@@ -32787,7 +32787,7 @@
   {
     "id": 7157,
     "type": "prefab",
-    "text": "<sprite=11>"
+    "text": "Time: "
   },
   {
     "id": 7158,
@@ -32832,7 +32832,7 @@
   {
     "id": 7166,
     "type": "prefab",
-    "text": "Remaining"
+    "text": "Time: "
   },
   {
     "id": 7167,
@@ -32872,7 +32872,7 @@
   {
     "id": 7174,
     "type": "prefab",
-    "text": "<sprite=11>"
+    "text": "Time: "
   },
   {
     "id": 7175,
@@ -33232,7 +33232,7 @@
   {
     "id": 7246,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7247,
@@ -33312,7 +33312,7 @@
   {
     "id": 7262,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7263,
@@ -33362,7 +33362,7 @@
   {
     "id": 7272,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7273,
@@ -33412,7 +33412,7 @@
   {
     "id": 7282,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7283,
@@ -33462,7 +33462,7 @@
   {
     "id": 7292,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7293,
@@ -33512,7 +33512,7 @@
   {
     "id": 7302,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7303,
@@ -33662,7 +33662,7 @@
   {
     "id": 7332,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7333,
@@ -33727,7 +33727,7 @@
   {
     "id": 7345,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7346,
@@ -33762,7 +33762,7 @@
   {
     "id": 7352,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7353,
@@ -34182,7 +34182,7 @@
   {
     "id": 7436,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7437,
@@ -34427,7 +34427,7 @@
   {
     "id": 7485,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7486,
@@ -34557,7 +34557,7 @@
   {
     "id": 7511,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7512,
@@ -34702,7 +34702,7 @@
   {
     "id": 7540,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7541,
@@ -34767,7 +34767,7 @@
   {
     "id": 7553,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7554,
@@ -35122,7 +35122,7 @@
   {
     "id": 7624,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7625,
@@ -35187,7 +35187,7 @@
   {
     "id": 7637,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7638,
@@ -35222,7 +35222,7 @@
   {
     "id": 7644,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7645,
@@ -35802,7 +35802,7 @@
   {
     "id": 7760,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7761,
@@ -35867,7 +35867,7 @@
   {
     "id": 7773,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7774,
@@ -35902,7 +35902,7 @@
   {
     "id": 7780,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7781,
@@ -36292,7 +36292,7 @@
   {
     "id": 7858,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7859,
@@ -36357,7 +36357,7 @@
   {
     "id": 7871,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7872,
@@ -36677,7 +36677,7 @@
   {
     "id": 7935,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7936,
@@ -36742,7 +36742,7 @@
   {
     "id": 7948,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7949,
@@ -36777,7 +36777,7 @@
   {
     "id": 7955,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 7956,
@@ -36867,7 +36867,7 @@
   {
     "id": 7973,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7974,
@@ -36922,7 +36922,7 @@
   {
     "id": 7984,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7985,
@@ -36977,7 +36977,7 @@
   {
     "id": 7995,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 7996,
@@ -37322,7 +37322,7 @@
   {
     "id": 8064,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8065,
@@ -37447,7 +37447,7 @@
   {
     "id": 8089,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8090,
@@ -37727,7 +37727,7 @@
   {
     "id": 8145,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8146,
@@ -37792,7 +37792,7 @@
   {
     "id": 8158,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8159,
@@ -37827,7 +37827,7 @@
   {
     "id": 8165,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8166,
@@ -38327,7 +38327,7 @@
   {
     "id": 8265,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8266,
@@ -38392,7 +38392,7 @@
   {
     "id": 8278,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8279,
@@ -38427,7 +38427,7 @@
   {
     "id": 8285,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8286,
@@ -38972,7 +38972,7 @@
   {
     "id": 8394,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8395,
@@ -39037,7 +39037,7 @@
   {
     "id": 8407,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8408,
@@ -39072,7 +39072,7 @@
   {
     "id": 8414,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8415,
@@ -39532,7 +39532,7 @@
   {
     "id": 8506,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8507,
@@ -39597,7 +39597,7 @@
   {
     "id": 8519,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8520,
@@ -39632,7 +39632,7 @@
   {
     "id": 8526,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8527,
@@ -39722,7 +39722,7 @@
   {
     "id": 8544,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 8545,
@@ -39777,7 +39777,7 @@
   {
     "id": 8555,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 8556,
@@ -39832,7 +39832,7 @@
   {
     "id": 8566,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 8567,
@@ -40172,7 +40172,7 @@
   {
     "id": 8634,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8635,
@@ -40287,7 +40287,7 @@
   {
     "id": 8657,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8658,
@@ -40642,12 +40642,12 @@
   {
     "id": 8728,
     "type": "prefab",
-    "text": "Remaining Spirit of Hearts"
+    "text": "Spirit of Hearts"
   },
   {
     "id": 8729,
     "type": "prefab",
-    "text": "Press and hold to start\nSpirit Alignment"
+    "text": "Press and hold to start\nSpiritual Forging"
   },
   {
     "id": 8730,
@@ -40872,7 +40872,7 @@
   {
     "id": 8774,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 8775,
@@ -41137,7 +41137,7 @@
   {
     "id": 8827,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 8828,
@@ -41182,7 +41182,7 @@
   {
     "id": 8836,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 8837,
@@ -41367,7 +41367,7 @@
   {
     "id": 8873,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 8874,
@@ -41442,7 +41442,7 @@
   {
     "id": 8888,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 8889,
@@ -41497,7 +41497,7 @@
   {
     "id": 8899,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 8900,
@@ -41657,7 +41657,7 @@
   {
     "id": 8931,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 8932,
@@ -41772,7 +41772,7 @@
   {
     "id": 8954,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 8955,
@@ -41862,7 +41862,7 @@
   {
     "id": 8972,
     "type": "prefab",
-    "text": "Gleam Shard"
+    "text": "Astral Shards"
   },
   {
     "id": 8973,
@@ -41897,7 +41897,7 @@
   {
     "id": 8979,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 8980,
@@ -42087,12 +42087,12 @@
   {
     "id": 9017,
     "type": "prefab",
-    "text": "Exchange Code"
+    "text": "Redeem Code"
   },
   {
     "id": 9018,
     "type": "prefab",
-    "text": "Go to exchange"
+    "text": "Redeem"
   },
   {
     "id": 9019,
@@ -42412,7 +42412,7 @@
   {
     "id": 9082,
     "type": "prefab",
-    "text": "Astral Gems"
+    "text": "Purchase"
   },
   {
     "id": 9083,
@@ -42427,7 +42427,7 @@
   {
     "id": 9085,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 9086,
@@ -42802,7 +42802,7 @@
   {
     "id": 9160,
     "type": "prefab",
-    "text": "Memory Crystal Transformer Guide"
+    "text": "Memory Crystal Conversion Guide"
   },
   {
     "id": 9161,
@@ -43327,12 +43327,12 @@
   {
     "id": 9265,
     "type": "prefab",
-    "text": "Astral Gems"
+    "text": "Purchase"
   },
   {
     "id": 9266,
     "type": "prefab",
-    "text": "Astral Gems"
+    "text": "Purchase"
   },
   {
     "id": 9267,
@@ -43477,7 +43477,7 @@
   {
     "id": 9295,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 9296,
@@ -43557,12 +43557,12 @@
   {
     "id": 9311,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 9312,
     "type": "prefab",
-    "text": "W"
+    "text": "weeks"
   },
   {
     "id": 9313,
@@ -44402,7 +44402,7 @@
   {
     "id": 9480,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9481,
@@ -44467,7 +44467,7 @@
   {
     "id": 9493,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9494,
@@ -44502,7 +44502,7 @@
   {
     "id": 9500,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9501,
@@ -44927,7 +44927,7 @@
   {
     "id": 9585,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 9586,
@@ -45297,7 +45297,7 @@
   {
     "id": 9659,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9660,
@@ -45497,7 +45497,7 @@
   {
     "id": 9699,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 9700,
@@ -45567,7 +45567,7 @@
   {
     "id": 9713,
     "type": "prefab",
-    "text": "Learn"
+    "text": "＋"
   },
   {
     "id": 9714,
@@ -45712,7 +45712,7 @@
   {
     "id": 9742,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 9743,
@@ -45777,7 +45777,7 @@
   {
     "id": 9755,
     "type": "prefab",
-    "text": "Learn"
+    "text": "＋"
   },
   {
     "id": 9756,
@@ -45922,7 +45922,7 @@
   {
     "id": 9784,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9785,
@@ -45977,7 +45977,7 @@
   {
     "id": 9795,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9796,
@@ -46252,7 +46252,7 @@
   {
     "id": 9850,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 9851,
@@ -46267,7 +46267,7 @@
   {
     "id": 9853,
     "type": "prefab",
-    "text": "Basic Reward"
+    "text": "Basic"
   },
   {
     "id": 9854,
@@ -46462,7 +46462,7 @@
   {
     "id": 9892,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 9893,
@@ -46482,12 +46482,12 @@
   {
     "id": 9896,
     "type": "prefab",
-    "text": "Basic Reward"
+    "text": "Basic"
   },
   {
     "id": 9897,
     "type": "prefab",
-    "text": "Basic Reward"
+    "text": "Basic"
   },
   {
     "id": 9898,
@@ -46607,7 +46607,7 @@
   {
     "id": 9921,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 9922,
@@ -46787,7 +46787,7 @@
   {
     "id": 9957,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9958,
@@ -46852,7 +46852,7 @@
   {
     "id": 9970,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9971,
@@ -46887,7 +46887,7 @@
   {
     "id": 9977,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 9978,
@@ -47222,7 +47222,7 @@
   {
     "id": 10044,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 10045,
@@ -47407,7 +47407,7 @@
   {
     "id": 10081,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10082,
@@ -47472,7 +47472,7 @@
   {
     "id": 10094,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10095,
@@ -47507,7 +47507,7 @@
   {
     "id": 10101,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10102,
@@ -47867,7 +47867,7 @@
   {
     "id": 10173,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 10174,
@@ -47877,7 +47877,7 @@
   {
     "id": 10175,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 10176,
@@ -47887,7 +47887,7 @@
   {
     "id": 10177,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 10178,
@@ -47897,7 +47897,7 @@
   {
     "id": 10179,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 10180,
@@ -47907,7 +47907,7 @@
   {
     "id": 10181,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 10182,
@@ -47917,7 +47917,7 @@
   {
     "id": 10183,
     "type": "prefab",
-    "text": "Time"
+    "text": "<sprite=11>"
   },
   {
     "id": 10184,
@@ -47927,7 +47927,7 @@
   {
     "id": 10185,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 10186,
@@ -48092,7 +48092,7 @@
   {
     "id": 10218,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10219,
@@ -48142,7 +48142,7 @@
   {
     "id": 10228,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10229,
@@ -48197,7 +48197,7 @@
   {
     "id": 10239,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 10240,
@@ -48582,7 +48582,7 @@
   {
     "id": 10316,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 10317,
@@ -48832,7 +48832,7 @@
   {
     "id": 10366,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10367,
@@ -48967,7 +48967,7 @@
   {
     "id": 10393,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10394,
@@ -49242,7 +49242,7 @@
   {
     "id": 10448,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10449,
@@ -49467,7 +49467,7 @@
   {
     "id": 10493,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 10494,
@@ -49852,7 +49852,7 @@
   {
     "id": 10570,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10571,
@@ -50762,7 +50762,7 @@
   {
     "id": 10752,
     "type": "prefab",
-    "text": "Character Attributes"
+    "text": "Attributes"
   },
   {
     "id": 10753,
@@ -51207,7 +51207,7 @@
   {
     "id": 10841,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10842,
@@ -51262,7 +51262,7 @@
   {
     "id": 10852,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10853,
@@ -51327,7 +51327,7 @@
   {
     "id": 10865,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10866,
@@ -51977,7 +51977,7 @@
   {
     "id": 10995,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 10996,
@@ -52047,7 +52047,7 @@
   {
     "id": 11009,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11010,
@@ -52117,7 +52117,7 @@
   {
     "id": 11023,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11024,
@@ -52197,7 +52197,7 @@
   {
     "id": 11039,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11040,
@@ -52417,7 +52417,7 @@
   {
     "id": 11083,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11084,
@@ -52567,7 +52567,7 @@
   {
     "id": 11113,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11114,
@@ -53172,7 +53172,7 @@
   {
     "id": 11234,
     "type": "prefab",
-    "text": "Resources Returned"
+    "text": "Materials Returned"
   },
   {
     "id": 11235,
@@ -53522,7 +53522,7 @@
   {
     "id": 11304,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11305,
@@ -53587,7 +53587,7 @@
   {
     "id": 11317,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11318,
@@ -53622,7 +53622,7 @@
   {
     "id": 11324,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 11325,
@@ -53967,7 +53967,7 @@
   {
     "id": 11393,
     "type": "prefab",
-    "text": "Preparing experiment task..."
+    "text": "Preparing research task..."
   },
   {
     "id": 11394,
@@ -54002,7 +54002,7 @@
   {
     "id": 11400,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 11401,
@@ -54192,7 +54192,7 @@
   {
     "id": 11438,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 11439,
@@ -54577,7 +54577,7 @@
   {
     "id": 11515,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 11516,
@@ -54757,7 +54757,7 @@
   {
     "id": 11551,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 11552,
@@ -54792,7 +54792,7 @@
   {
     "id": 11558,
     "type": "",
-    "text": "{1} character(s) with Role {0}"
+    "text": "{0} character(s): {1} "
   },
   {
     "id": 11559,
@@ -55067,12 +55067,12 @@
   {
     "id": 11613,
     "type": "",
-    "text": "Role name restored successfully"
+    "text": "Character name restored successfully"
   },
   {
     "id": 11614,
     "type": "",
-    "text": "No change in your name"
+    "text": "Give them a true name"
   },
   {
     "id": 11615,
@@ -55117,12 +55117,12 @@
   {
     "id": 11623,
     "type": "prefab",
-    "text": "Each time you use \"Fate's Favor\", your characters will receive an additional bonus in this battle, which can be accumulated and calculated. After using \"Fate's Favor\" to clear, the Mercenary Group score will <style=green>drop</style>, making the difficulty of the quest <style=green>decrease</style>."
+    "text": "Each use of a \"Fate's Favor\" gives characters an additional bonus for the current battle. Bonuses can be stacked. Using \"Fate's Favor\" will <style=green>drop the Mercenary Group score</style>, and <style=green>decrease the quest difficulty level</style>."
   },
   {
     "id": 11624,
     "type": "prefab",
-    "text": "You have obtained [Fate's Favor "
+    "text": "Obtained Fate's Favor  "
   },
   {
     "id": 11625,
@@ -55777,7 +55777,7 @@
   {
     "id": 11755,
     "type": "prefab",
-    "text": "Each time you use \"Fate's Favor\", your characters will receive an additional bonus in this battle, which can be accumulated and calculated. After using \"Fate's Favor\" to clear, the Mercenary Group score will <style=green>drop</style>, making the difficulty of the quest <style=green>decrease</style>."
+    "text": "Each use of a \"Fate's Favor\" gives characters an additional bonus for the current battle. Bonuses can be stacked. Using \"Fate's Favor\" will <style=green>drop the Mercenary Group score</style>, and <style=green>decrease the quest difficulty level</style>."
   },
   {
     "id": 11756,
@@ -55962,7 +55962,7 @@
   {
     "id": 11792,
     "type": "prefab",
-    "text": "The Town of Convallaria"
+    "text": "Initial"
   },
   {
     "id": 11793,
@@ -56222,7 +56222,7 @@
   {
     "id": 11844,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 11845,
@@ -56232,7 +56232,7 @@
   {
     "id": 11846,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 11847,
@@ -56417,7 +56417,7 @@
   {
     "id": 11883,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 11884,
@@ -56437,12 +56437,12 @@
   {
     "id": 11887,
     "type": "prefab",
-    "text": "Basic Reward"
+    "text": "Basic"
   },
   {
     "id": 11888,
     "type": "prefab",
-    "text": "Basic Reward"
+    "text": "Basic"
   },
   {
     "id": 11889,
@@ -56562,7 +56562,7 @@
   {
     "id": 11912,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 11913,
@@ -56602,7 +56602,7 @@
   {
     "id": 11920,
     "type": "prefab",
-    "text": "Through the <style=blue>Memory Crystal Transformer</style> system, any <style=blue>Memory Shards</style> exceeding the amount needed for a character's <style=blue>Breakthrough</style> will be reclaimed. They will be <style=blue>converted</style> into a corresponding number of <style=blue>Memory Crystals</style> based on the <style=blue>rarity</style> of the Memory Shards used."
+    "text": "Through the <style=blue>Memory Crystal Conversion</style> system, any <style=blue>Memory Shards</style> exceeding the amount needed for a character's <style=blue>Breakthrough</style> will be reclaimed. They will be <style=blue>converted</style> into a corresponding number of <style=blue>Memory Crystals</style> based on the <style=blue>rarity</style> of the Memory Shards used."
   },
   {
     "id": 11921,
@@ -56927,7 +56927,7 @@
   {
     "id": 11985,
     "type": "prefab",
-    "text": "Would you like to activate the Gleam Node?"
+    "text": "Would you like to activate the Astral Node?"
   },
   {
     "id": 11986,
@@ -56967,7 +56967,7 @@
   {
     "id": 11993,
     "type": "prefab",
-    "text": "Gleam Node"
+    "text": "Astral Node"
   },
   {
     "id": 11994,
@@ -57082,7 +57082,7 @@
   {
     "id": 12016,
     "type": "",
-    "text": "AOE Damage"
+    "text": "AoE Damage"
   },
   {
     "id": 12017,
@@ -57172,7 +57172,7 @@
   {
     "id": 12034,
     "type": "",
-    "text": "AOE Physical DMG"
+    "text": "AoE Physical DMG"
   },
   {
     "id": 12035,
@@ -57277,7 +57277,7 @@
   {
     "id": 12055,
     "type": "",
-    "text": "AOE Skill"
+    "text": "AoE Skill"
   },
   {
     "id": 12056,
@@ -57517,7 +57517,7 @@
   {
     "id": 12105,
     "type": "",
-    "text": "Are you sure to change the characters' audio into {0} in bulk? Individual character can be set in [Bond] later."
+    "text": "Are you sure to change the characters' voice into {0} in bulk? Individual character can be set in [Bond] later."
   },
   {
     "id": 12106,
@@ -57732,7 +57732,7 @@
   {
     "id": 12156,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 12157,
@@ -57882,7 +57882,7 @@
   {
     "id": 12186,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 12187,
@@ -59682,7 +59682,7 @@
   {
     "id": 12546,
     "type": "",
-    "text": "Friend request not accepted:"
+    "text": "Failed to add as a friend:"
   },
   {
     "id": 12547,
@@ -59757,7 +59757,7 @@
   {
     "id": 12562,
     "type": "",
-    "text": "The new chapter has been unlocked"
+    "text": "New chapter unlocked"
   },
   {
     "id": 12563,
@@ -60072,7 +60072,7 @@
   {
     "id": 12625,
     "type": "",
-    "text": "The Karma Level of {0} reachs Lv. {1}"
+    "text": "The Bond Level of {0} reachs Lv. {1}"
   },
   {
     "id": 12626,
@@ -61382,7 +61382,7 @@
   {
     "id": 12887,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 12888,
@@ -61772,12 +61772,12 @@
   {
     "id": 12967,
     "type": "",
-    "text": "Characters"
+    "text": "Summon Records"
   },
   {
     "id": 12968,
     "type": "",
-    "text": "Sommon Records"
+    "text": "Records"
   },
   {
     "id": 12969,
@@ -61802,7 +61802,7 @@
   {
     "id": 12973,
     "type": "",
-    "text": "Character Name"
+    "text": "Character"
   },
   {
     "id": 12974,
@@ -61817,17 +61817,17 @@
   {
     "id": 12976,
     "type": "prefab",
-    "text": "Characters"
+    "text": "Summon Records"
   },
   {
     "id": 12977,
     "type": "prefab",
-    "text": "Sommon Records"
+    "text": "Gear"
   },
   {
     "id": 12978,
     "type": "prefab",
-    "text": "Sommon Records"
+    "text": "Gear"
   },
   {
     "id": 12979,
@@ -61837,12 +61837,12 @@
   {
     "id": 12980,
     "type": "prefab",
-    "text": "Summon chance"
+    "text": "Legendary"
   },
   {
     "id": 12981,
     "type": "prefab",
-    "text": "Characters"
+    "text": "Summon Records"
   },
   {
     "id": 12982,
@@ -61862,12 +61862,12 @@
   {
     "id": 12985,
     "type": "prefab",
-    "text": "Summon chance"
+    "text": "Legendary"
   },
   {
     "id": 12986,
     "type": "prefab",
-    "text": "Sommon Records"
+    "text": "Records"
   },
   {
     "id": 12987,
@@ -61907,12 +61907,12 @@
   {
     "id": 12995,
     "type": "",
-    "text": "Record Description"
+    "text": "Detail"
   },
   {
     "id": 12996,
     "type": "",
-    "text": "All Records"
+    "text": "All"
   },
   {
     "id": 12997,
@@ -61927,7 +61927,7 @@
   {
     "id": 12999,
     "type": "",
-    "text": "Bond full. No need for Spirit Alignment."
+    "text": "Bond full. No need for Spiritual Forging."
   },
   {
     "id": 13000,
@@ -62092,12 +62092,12 @@
   {
     "id": 13032,
     "type": "prefab",
-    "text": "Remaining Spirit of Hearts"
+    "text": "Spirit of Hearts"
   },
   {
     "id": 13033,
     "type": "prefab",
-    "text": "Press and hold to start\nSpirit Alignment"
+    "text": "Press and hold to start\nSpiritual Forging"
   },
   {
     "id": 13034,
@@ -64422,7 +64422,7 @@
   {
     "id": 13500,
     "type": "",
-    "text": "Leader, Endurance is full! Time for Sword of Convallaria to sail again!"
+    "text": "Voyager, your endurance is full! It's time to continue your journey with the Sword of Convallaria!"
   },
   {
     "id": 13501,
@@ -64432,12 +64432,12 @@
   {
     "id": 13502,
     "type": "",
-    "text": "Summon Event"
+    "text": "Event"
   },
   {
     "id": 13503,
     "type": "",
-    "text": "Summon Event"
+    "text": "Event"
   },
   {
     "id": 13504,
@@ -64862,7 +64862,7 @@
   {
     "id": 13588,
     "type": "prefab",
-    "text": "Character Name"
+    "text": "Character"
   },
   {
     "id": 13589,
@@ -64977,7 +64977,7 @@
   {
     "id": 13611,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 13612,
@@ -65147,12 +65147,12 @@
   {
     "id": 13645,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13646,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13647,
@@ -65587,12 +65587,12 @@
   {
     "id": 13733,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13734,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13735,
@@ -66027,12 +66027,12 @@
   {
     "id": 13821,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13822,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13823,
@@ -66467,12 +66467,12 @@
   {
     "id": 13909,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13910,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 13911,
@@ -67302,7 +67302,7 @@
   {
     "id": 14076,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 14077,
@@ -67377,7 +67377,7 @@
   {
     "id": 14091,
     "type": "prefab",
-    "text": "Learn"
+    "text": "＋"
   },
   {
     "id": 14092,
@@ -67977,12 +67977,12 @@
   {
     "id": 14212,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 14213,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 14214,
@@ -68902,7 +68902,7 @@
   {
     "id": 14397,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 14398,
@@ -69537,7 +69537,7 @@
   {
     "id": 14524,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 14525,
@@ -70657,12 +70657,12 @@
   {
     "id": 14748,
     "type": "prefab",
-    "text": "Tactic Preparation"
+    "text": "Tactic\nPreparation"
   },
   {
     "id": 14749,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 14750,
@@ -70777,7 +70777,7 @@
   {
     "id": 14772,
     "type": "prefab",
-    "text": "Learn"
+    "text": "＋"
   },
   {
     "id": 14773,
@@ -71222,7 +71222,7 @@
   {
     "id": 14861,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 14862,
@@ -72757,7 +72757,7 @@
   {
     "id": 15170,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 15171,
@@ -73122,7 +73122,7 @@
   {
     "id": 15251,
     "type": "",
-    "text": "Ancestral Power: Grants powerful [Buffs] to characters it passes by, while inflicting gradual HP loss."
+    "text": "Ancestral Power: Grants powerful [buffs] to characters it passes by, while inflicting gradual HP loss."
   },
   {
     "id": 15252,
@@ -73172,7 +73172,7 @@
   {
     "id": 15261,
     "type": "",
-    "text": "Luxite Pillar: Grants multiple [Buffs] to all characters of the corresponding category within a certain range, which will be removed once the pillar is destroyed."
+    "text": "Luxite Pillar: Grants multiple [buffs] to all characters of the corresponding category within a certain range, which will be removed once the pillar is destroyed."
   },
   {
     "id": 15262,
@@ -73182,7 +73182,7 @@
   {
     "id": 15263,
     "type": "",
-    "text": "Step on the switch to make the corresponding fire trap project a jet of fire. Fire traps wear out after being used a couple of times."
+    "text": "Step on the switch to make the corresponding fire trap a jet of fire. Fire traps wear out after being used a couple of times."
   },
   {
     "id": 15264,
@@ -74367,7 +74367,7 @@
   {
     "id": 15500,
     "type": "prefab",
-    "text": "Select Augment"
+    "text": "Select an Augment"
   },
   {
     "id": 15501,
@@ -74687,7 +74687,7 @@
   {
     "id": 15564,
     "type": "prefab",
-    "text": "Codes are case-sensitive and may include similar characters like O, I, L, 0, and 1 for accuracy."
+    "text": "Codes are case-sensitive. Please ensure you input it correctly, as some characters such as O, 0, I, L, and 1 may look similar."
   },
   {
     "id": 15565,
@@ -75712,7 +75712,7 @@
   {
     "id": 15769,
     "type": "",
-    "text": "Current Summon (Any Type) Guarantee: <style=yellow>{count}</style> summons for a guaranteed random Legendary character"
+    "text": "Current <style=yellow>Guarantee</style> (Any Type): <style=yellow>{count}</style> summons for a guaranteed random Legendary character"
   },
   {
     "id": 15770,
@@ -76077,7 +76077,7 @@
   {
     "id": 15843,
     "type": "tip",
-    "text": "In battle, Melee Attack and Ranged Attack are not considered AoE Attack."
+    "text": "In battle, melee attack and ranged Attack are not considered AoE attack. \"Crit\" refers to the percentage chance of a critical hit occurring, while \"Crit DMG\" stands for critical damage."
   },
   {
     "id": 15844,
@@ -76127,12 +76127,12 @@
   {
     "id": 15853,
     "type": "prefab",
-    "text": "Hope Luxite"
+    "text": "Hope Luxites"
   },
   {
     "id": 15854,
     "type": "prefab",
-    "text": "Hope Luxite"
+    "text": "Hope Luxites"
   },
   {
     "id": 15855,
@@ -76362,7 +76362,7 @@
   {
     "id": 15901,
     "type": "prefab",
-    "text": "Go to exchange"
+    "text": "Redeem"
   },
   {
     "id": 15902,
@@ -76427,7 +76427,7 @@
   {
     "id": 15914,
     "type": "",
-    "text": "After taking a Ranged Attack, Calamity I \"The Magician\" will strike back powerfully, so it is most suitable to engage him with melee characters."
+    "text": "After taking a ranged attack, Calamity I \"The Magician\" will strike back powerfully, so it is most suitable to engage him with melee characters."
   },
   {
     "id": 15915,
@@ -76442,12 +76442,12 @@
   {
     "id": 15917,
     "type": "",
-    "text": "[Apostle - Strength of Immortal] will perform [Assisting Cover] on the Eighth Calamity \"Strength\", making it immune to Physical DMG."
+    "text": "[Apostle - Strength of Immortal] will perform [assisting cover] on the Eighth Calamity \"Strength\", making it immune to Physical DMG."
   },
   {
     "id": 15918,
     "type": "",
-    "text": "[Apostle - Strength of Corrosion] will prioritize attacking our Marked characters, but you can launch [Assisting Cover] to protect them."
+    "text": "[Apostle - Strength of Corrosion] will prioritize attacking our Marked characters, but you can launch [assisting cover] to protect them."
   },
   {
     "id": 15919,
@@ -78987,7 +78987,7 @@
   {
     "id": 16428,
     "type": "",
-    "text": "In {0} hour(s)"
+    "text": "{0} hour(s) ago"
   },
   {
     "id": 16429,
@@ -79082,7 +79082,7 @@
   {
     "id": 16447,
     "type": "prefab",
-    "text": "Go to exchange"
+    "text": "Redeem"
   },
   {
     "id": 16448,
@@ -79257,7 +79257,7 @@
   {
     "id": 16482,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 16483,
@@ -79842,7 +79842,7 @@
   {
     "id": 16599,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 16600,
@@ -79987,7 +79987,7 @@
   {
     "id": 16628,
     "type": "prefab",
-    "text": "Drag or click to select a target tile"
+    "text": "Select a target tile"
   },
   {
     "id": 16629,
@@ -80167,7 +80167,7 @@
   {
     "id": 16664,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 16665,
@@ -80697,7 +80697,7 @@
   {
     "id": 16993,
     "type": "prefab",
-    "text": "Change Appearance\n"
+    "text": "Change Appearance"
   },
   {
     "id": 16994,
@@ -80797,7 +80797,7 @@
   {
     "id": 17013,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 17014,
@@ -80922,7 +80922,7 @@
   {
     "id": 17038,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 17039,
@@ -81232,7 +81232,7 @@
   {
     "id": 17100,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 17101,
@@ -81707,7 +81707,7 @@
   {
     "id": 17195,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17196,
@@ -81782,7 +81782,7 @@
   {
     "id": 17210,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 17211,
@@ -82522,17 +82522,17 @@
   {
     "id": 17360,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17361,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17362,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17363,
@@ -82592,7 +82592,7 @@
   {
     "id": 17374,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17375,
@@ -82602,7 +82602,7 @@
   {
     "id": 17376,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17377,
@@ -82617,17 +82617,17 @@
   {
     "id": 17379,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17380,
     "type": "prefab",
-    "text": "The Town of Convallaria\n"
+    "text": "The Town of Convallaria"
   },
   {
     "id": 17381,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17382,
@@ -82637,7 +82637,7 @@
   {
     "id": 17383,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 17384,
@@ -82742,17 +82742,17 @@
   {
     "id": 17404,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17405,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17406,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17407,
@@ -82792,7 +82792,7 @@
   {
     "id": 17414,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17415,
@@ -82802,7 +82802,7 @@
   {
     "id": 17416,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17417,
@@ -82817,17 +82817,17 @@
   {
     "id": 17419,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17420,
     "type": "prefab",
-    "text": "The Town of Convallaria\n"
+    "text": "The Town of Convallaria"
   },
   {
     "id": 17421,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17422,
@@ -82837,7 +82837,7 @@
   {
     "id": 17423,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 17424,
@@ -83632,7 +83632,7 @@
   {
     "id": 17583,
     "type": "prefab",
-    "text": "Take Order"
+    "text": "Accept Order"
   },
   {
     "id": 17584,
@@ -83662,12 +83662,12 @@
   {
     "id": 17589,
     "type": "prefab",
-    "text": "Trading Post Orders"
+    "text": "Trading Post Order"
   },
   {
     "id": 17590,
     "type": "prefab",
-    "text": "Difficulty"
+    "text": " "
   },
   {
     "id": 17591,
@@ -83697,7 +83697,7 @@
   {
     "id": 17596,
     "type": "prefab",
-    "text": "Destination"
+    "text": "To"
   },
   {
     "id": 17597,
@@ -83732,7 +83732,7 @@
   {
     "id": 17603,
     "type": "prefab",
-    "text": "Convallaria Trading Post reserves the right to final explanation"
+    "text": "Convallaria Trading Post reserves the right to the final decision."
   },
   {
     "id": 17604,
@@ -83757,7 +83757,7 @@
   {
     "id": 17608,
     "type": "prefab",
-    "text": "Small Earnings"
+    "text": "Small Profit"
   },
   {
     "id": 17609,
@@ -83822,7 +83822,7 @@
   {
     "id": 17621,
     "type": "prefab",
-    "text": "Inventory Slot\n"
+    "text": "Inventory Slots\n"
   },
   {
     "id": 17622,
@@ -83887,7 +83887,7 @@
   {
     "id": 17634,
     "type": "prefab",
-    "text": "Caravan Departure"
+    "text": "Send Caravan"
   },
   {
     "id": 17635,
@@ -84072,17 +84072,17 @@
   {
     "id": 17671,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17672,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17673,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17674,
@@ -84142,7 +84142,7 @@
   {
     "id": 17685,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17686,
@@ -84152,7 +84152,7 @@
   {
     "id": 17687,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17688,
@@ -84167,17 +84167,17 @@
   {
     "id": 17690,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17691,
     "type": "prefab",
-    "text": "The Town of Convallaria\n"
+    "text": "The Town of Convallaria"
   },
   {
     "id": 17692,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 17693,
@@ -84187,7 +84187,7 @@
   {
     "id": 17694,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 17695,
@@ -84762,7 +84762,7 @@
   {
     "id": 17809,
     "type": "prefab",
-    "text": "Prepare to Depart"
+    "text": "Preparing"
   },
   {
     "id": 17810,
@@ -84797,7 +84797,7 @@
   {
     "id": 17816,
     "type": "prefab",
-    "text": "Encounter Battle Erupted"
+    "text": "Battle Encountered"
   },
   {
     "id": 17817,
@@ -84807,7 +84807,7 @@
   {
     "id": 17818,
     "type": "prefab",
-    "text": "Caravan Returning"
+    "text": "Returning"
   },
   {
     "id": 17819,
@@ -84932,7 +84932,7 @@
   {
     "id": 17843,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17844,
@@ -85032,7 +85032,7 @@
   {
     "id": 17863,
     "type": "prefab",
-    "text": "Trading Post Orders"
+    "text": "Trading Post Order"
   },
   {
     "id": 17864,
@@ -85057,7 +85057,7 @@
   {
     "id": 17868,
     "type": "prefab",
-    "text": "Small Earnings"
+    "text": "Small Profit"
   },
   {
     "id": 17869,
@@ -85082,7 +85082,7 @@
   {
     "id": 17873,
     "type": "prefab",
-    "text": "Destination"
+    "text": "To"
   },
   {
     "id": 17874,
@@ -85092,7 +85092,7 @@
   {
     "id": 17875,
     "type": "prefab",
-    "text": "Convallaria Trading Post reserves the right to final explanation"
+    "text": "Convallaria Trading Post reserves the right to the final decision."
   },
   {
     "id": 17876,
@@ -85202,12 +85202,12 @@
   {
     "id": 17897,
     "type": "prefab",
-    "text": "Trade Outcomes"
+    "text": "Trade Outcome"
   },
   {
     "id": 17898,
     "type": "prefab",
-    "text": "Caravan Returning"
+    "text": "Returning"
   },
   {
     "id": 17899,
@@ -85232,7 +85232,7 @@
   {
     "id": 17903,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17904,
@@ -85292,7 +85292,7 @@
   {
     "id": 17915,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17916,
@@ -85352,7 +85352,7 @@
   {
     "id": 17927,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17928,
@@ -85412,7 +85412,7 @@
   {
     "id": 17939,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17940,
@@ -85472,7 +85472,7 @@
   {
     "id": 17951,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17952,
@@ -85532,7 +85532,7 @@
   {
     "id": 17963,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17964,
@@ -85592,7 +85592,7 @@
   {
     "id": 17975,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17976,
@@ -85652,7 +85652,7 @@
   {
     "id": 17987,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 17988,
@@ -85712,7 +85712,7 @@
   {
     "id": 17999,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 18000,
@@ -85772,7 +85772,7 @@
   {
     "id": 18011,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 18012,
@@ -85817,7 +85817,7 @@
   {
     "id": 18020,
     "type": "prefab",
-    "text": "Order's Final Rank"
+    "text": "Final Profit Rank"
   },
   {
     "id": 18021,
@@ -85832,7 +85832,7 @@
   {
     "id": 18023,
     "type": "prefab",
-    "text": "Sell cargo"
+    "text": "Cargo Sold"
   },
   {
     "id": 18024,
@@ -86127,7 +86127,7 @@
   {
     "id": 18082,
     "type": "prefab",
-    "text": "Characters"
+    "text": "Teammate"
   },
   {
     "id": 18083,
@@ -86357,7 +86357,7 @@
   {
     "id": 18128,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 18129,
@@ -87917,7 +87917,7 @@
   {
     "id": 18445,
     "type": "prefab",
-    "text": "Claim All\n"
+    "text": "Claim All"
   },
   {
     "id": 18446,
@@ -88032,7 +88032,7 @@
   {
     "id": 18468,
     "type": "prefab",
-    "text": "Claim All\n"
+    "text": "Claim All"
   },
   {
     "id": 18469,
@@ -88212,7 +88212,7 @@
   {
     "id": 18504,
     "type": "prefab",
-    "text": "Say goodbye to the old and welcome the new with amazing gifts, including Hope Luxite, Epic Characters, and Random Legendary Gear!"
+    "text": "Say goodbye to the old and welcome the new with amazing gifts, including Hope Luxites, Epic Characters, and Random Legendary Gear!"
   },
   {
     "id": 18505,
@@ -88382,7 +88382,7 @@
   {
     "id": 18538,
     "type": "",
-    "text": "Quit this Encounter Battle?\nThe rank for the related order will drop to the lowest as a result."
+    "text": "Quit this battle?\nThe rank for the related order will drop to the lowest as a result."
   },
   {
     "id": 18539,
@@ -88397,7 +88397,7 @@
   {
     "id": 18541,
     "type": "",
-    "text": "Development Change"
+    "text": " Development"
   },
   {
     "id": 18542,
@@ -88417,7 +88417,7 @@
   {
     "id": 18545,
     "type": "",
-    "text": "Cannot Use Trading Post Funds for replenishment"
+    "text": "Unable to use funds\nto replenish cargo"
   },
   {
     "id": 18546,
@@ -88457,7 +88457,7 @@
   {
     "id": 18553,
     "type": "",
-    "text": "Confirm to abandon the current order?"
+    "text": "Would you like to cancel the current order?"
   },
   {
     "id": 18554,
@@ -88467,12 +88467,12 @@
   {
     "id": 18555,
     "type": "",
-    "text": "Slot loaded with cargo reaches"
+    "text": "Slots loaded with cargo: "
   },
   {
     "id": 18556,
     "type": "",
-    "text": "Rank reaches"
+    "text": "Estimate reaches: "
   },
   {
     "id": 18557,
@@ -88482,12 +88482,12 @@
   {
     "id": 18558,
     "type": "",
-    "text": "Order dispatch conditions met"
+    "text": "Departure conditions met"
   },
   {
     "id": 18559,
     "type": "",
-    "text": "Order dispatch conditions not met"
+    "text": "Departure conditions not met"
   },
   {
     "id": 18560,
@@ -88502,42 +88502,42 @@
   {
     "id": 18562,
     "type": "",
-    "text": "Effect of the Next Development Level"
+    "text": "Next Development Level Effects"
   },
   {
     "id": 18563,
     "type": "",
-    "text": "Gained a New Urgent Order: <color=#f6b46e><{0}></color>"
+    "text": "Received a new Urgent Order: <color=#f6b46e><{0}></color>"
   },
   {
     "id": 18564,
     "type": "",
-    "text": "Gained a New Order: <color=#f6b46e><{0}></color>"
+    "text": "Received a new Order: <color=#f6b46e><{0}></color>"
   },
   {
     "id": 18565,
     "type": "",
-    "text": "Gained a New Trading Opportunity: <color=#f6b46e><{0}></color>"
+    "text": "Received a new Trading Opportunity: <color=#f6b46e><{0}></color>"
   },
   {
     "id": 18566,
     "type": "",
-    "text": "An Urgent Order is about to expire. <color=#f6b46e>Go check it out.</color>"
+    "text": "An <color=#f6b46e>Urgent Order</color> expires soon"
   },
   {
     "id": 18567,
     "type": "",
-    "text": "The Caravan for the Urgent Order has returned. <color=#f6b46e>Go handle it.</color>"
+    "text": "A Caravan has returned from an <color=#f6b46e>Urgent Order</color>."
   },
   {
     "id": 18568,
     "type": "",
-    "text": "An idle Caravan is available to take orders. <color=#f6b46e>Go check it out.</color>"
+    "text": "A <color=#f6b46e>Caravan</color> is ready to be sent out."
   },
   {
     "id": 18569,
     "type": "",
-    "text": "There is a Free Caravan returning. <color=#f6b46e>Go handle it.</color>"
+    "text": "A Caravan has returned from a <color=#f6b46e>Flexible Order</color>."
   },
   {
     "id": 18570,
@@ -88592,7 +88592,7 @@
   {
     "id": 18580,
     "type": "prefab",
-    "text": "Advance\n"
+    "text": "Advance"
   },
   {
     "id": 18581,
@@ -88777,12 +88777,12 @@
   {
     "id": 18617,
     "type": "prefab",
-    "text": "Opened"
+    "text": "On"
   },
   {
     "id": 18618,
     "type": "prefab",
-    "text": "Close"
+    "text": "Off"
   },
   {
     "id": 18619,
@@ -88897,7 +88897,7 @@
   {
     "id": 18641,
     "type": "prefab",
-    "text": "Event Quest"
+    "text": "###text\\text\\18641"
   },
   {
     "id": 18642,
@@ -88992,7 +88992,7 @@
   {
     "id": 18660,
     "type": "prefab",
-    "text": "Earn Trading Post Funds"
+    "text": "Earned Funds"
   },
   {
     "id": 18661,
@@ -89002,7 +89002,7 @@
   {
     "id": 18662,
     "type": "prefab",
-    "text": "Earn Trading Post Funds"
+    "text": "Earned Funds"
   },
   {
     "id": 18663,
@@ -89177,7 +89177,7 @@
   {
     "id": 18697,
     "type": "",
-    "text": "Convallaria Trading Post"
+    "text": "Trading Post"
   },
   {
     "id": 18698,
@@ -89232,7 +89232,7 @@
   {
     "id": 18708,
     "type": "prefab",
-    "text": "Earn Trading Post Funds"
+    "text": "Earned Funds"
   },
   {
     "id": 18709,
@@ -89337,7 +89337,7 @@
   {
     "id": 18729,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 18730,
@@ -89397,7 +89397,7 @@
   {
     "id": 18741,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 18742,
@@ -89472,17 +89472,17 @@
   {
     "id": 18756,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18757,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18758,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18759,
@@ -89542,7 +89542,7 @@
   {
     "id": 18770,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18771,
@@ -89552,7 +89552,7 @@
   {
     "id": 18772,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18773,
@@ -89567,17 +89567,17 @@
   {
     "id": 18775,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18776,
     "type": "prefab",
-    "text": "The Town of Convallaria\n"
+    "text": "The Town of Convallaria"
   },
   {
     "id": 18777,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18778,
@@ -89587,7 +89587,7 @@
   {
     "id": 18779,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 18780,
@@ -89677,7 +89677,7 @@
   {
     "id": 18797,
     "type": "prefab",
-    "text": "Event Quest"
+    "text": "###text\\text\\18797"
   },
   {
     "id": 18798,
@@ -89717,7 +89717,7 @@
   {
     "id": 18805,
     "type": "prefab",
-    "text": "Event Quest"
+    "text": "###text\\text\\18805"
   },
   {
     "id": 18806,
@@ -90042,12 +90042,12 @@
   {
     "id": 18870,
     "type": "prefab",
-    "text": "The Town of Convallaria\n"
+    "text": "The Town of Convallaria"
   },
   {
     "id": 18871,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 18872,
@@ -90097,17 +90097,17 @@
   {
     "id": 18881,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18882,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18883,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18884,
@@ -90167,7 +90167,7 @@
   {
     "id": 18895,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18896,
@@ -90177,7 +90177,7 @@
   {
     "id": 18897,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18898,
@@ -90192,17 +90192,17 @@
   {
     "id": 18900,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18901,
     "type": "prefab",
-    "text": "The Town of Convallaria\n"
+    "text": "The Town of Convallaria"
   },
   {
     "id": 18902,
     "type": "prefab",
-    "text": "Iria\n"
+    "text": "Iria"
   },
   {
     "id": 18903,
@@ -90212,7 +90212,7 @@
   {
     "id": 18904,
     "type": "prefab",
-    "text": "The Mine Pit"
+    "text": "Mine Pit"
   },
   {
     "id": 18905,
@@ -90517,7 +90517,7 @@
   {
     "id": 18965,
     "type": "tip",
-    "text": "In battle, Auras are categorized into [Common Aura] and [Leader's Aura], typically provided by Passive/Trait skills. If they only increase a single Attribute, the highest value is taken."
+    "text": "In battle, Auras are categorized into [Common Aura] and [Leader's Aura], typically provided by Passive/Trait skills. If they only increase a single attribute, the highest value is taken."
   },
   {
     "id": 18966,
@@ -90722,7 +90722,7 @@
   {
     "id": 19006,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 19007,
@@ -90967,7 +90967,7 @@
   {
     "id": 19055,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 19056,
@@ -91102,7 +91102,7 @@
   {
     "id": 19082,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 19083,
@@ -91332,7 +91332,7 @@
   {
     "id": 19128,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 19129,
@@ -91467,7 +91467,7 @@
   {
     "id": 19155,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 19156,
@@ -92777,7 +92777,7 @@
   {
     "id": 19417,
     "type": "prefab",
-    "text": "Basic Reward"
+    "text": "Basic"
   },
   {
     "id": 19418,
@@ -92842,7 +92842,7 @@
   {
     "id": 19430,
     "type": "prefab",
-    "text": "The higher the level, the greater the level rewards"
+    "text": "The higher the floor, the greater the Floor Rewards"
   },
   {
     "id": 19431,
@@ -92962,7 +92962,7 @@
   {
     "id": 19454,
     "type": "",
-    "text": "Collect {0}"
+    "text": "{0} Collected"
   },
   {
     "id": 19455,
@@ -93322,7 +93322,7 @@
   {
     "id": 19526,
     "type": "prefab",
-    "text": "Find the beacon location to obtain 1 Friendship Beacon and Hope Luxite"
+    "text": "Find the beacon location to obtain 1 Friendship Beacon and Hope Luxites"
   },
   {
     "id": 19527,
@@ -94537,7 +94537,7 @@
   {
     "id": 19769,
     "type": "prefab",
-    "text": "Order description"
+    "text": "Order Description"
   },
   {
     "id": 19771,
@@ -94792,7 +94792,7 @@
   {
     "id": 19821,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 19822,
@@ -94852,7 +94852,7 @@
   {
     "id": 19833,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 19834,
@@ -94922,7 +94922,7 @@
   {
     "id": 19847,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 19848,
@@ -94972,7 +94972,7 @@
   {
     "id": 19857,
     "type": "prefab",
-    "text": "Attack"
+    "text": "ATK"
   },
   {
     "id": 19858,
@@ -95012,7 +95012,7 @@
   {
     "id": 19865,
     "type": "prefab",
-    "text": "Guarding"
+    "text": "DEF"
   },
   {
     "id": 19866,
@@ -95227,7 +95227,7 @@
   {
     "id": 19908,
     "type": "prefab",
-    "text": "Guarding"
+    "text": "DEF"
   },
   {
     "id": 19909,
@@ -95697,12 +95697,12 @@
   {
     "id": 20002,
     "type": "prefab",
-    "text": "Skip the above acquisition conditions\nand quickly obtain the beacon"
+    "text": "Skip acquisition conditions and\nimmediately unlock the beacon"
   },
   {
     "id": 20003,
     "type": "prefab",
-    "text": "Skip the above acquisition conditions\nand quickly obtain the beacon"
+    "text": "Skip acquisition conditions and\nimmediately unlock the beacon"
   },
   {
     "id": 20004,
@@ -95747,7 +95747,7 @@
   {
     "id": 20012,
     "type": "prefab",
-    "text": "No escorts info"
+    "text": "No Escort Info"
   },
   {
     "id": 20013,
@@ -95762,7 +95762,7 @@
   {
     "id": 20015,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 20016,
@@ -95832,7 +95832,7 @@
   {
     "id": 20029,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 20030,
@@ -96012,7 +96012,7 @@
   {
     "id": 20065,
     "type": "prefab",
-    "text": "Load more cargo to meet the minimum departure condition"
+    "text": "Load more cargo to meet minimum profit estimates"
   },
   {
     "id": 20066,
@@ -96037,7 +96037,7 @@
   {
     "id": 20070,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 20071,
@@ -96127,7 +96127,7 @@
   {
     "id": 20088,
     "type": "prefab",
-    "text": "Event List"
+    "text": "Event Rewards"
   },
   {
     "id": 20089,
@@ -96137,7 +96137,7 @@
   {
     "id": 20090,
     "type": "prefab",
-    "text": "Event List"
+    "text": "Event Rewards"
   },
   {
     "id": 20091,
@@ -96187,12 +96187,12 @@
   {
     "id": 20100,
     "type": "prefab",
-    "text": "Skip the above acquisition conditions\nand quickly obtain the beacon"
+    "text": "Skip acquisition conditions and\nimmediately unlock the beacon"
   },
   {
     "id": 20101,
     "type": "prefab",
-    "text": "Skip the above acquisition conditions\nand quickly obtain the beacon"
+    "text": "Skip acquisition conditions and\nimmediately unlock the beacon"
   },
   {
     "id": 20102,
@@ -96667,7 +96667,7 @@
   {
     "id": 20196,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 20197,
@@ -96782,7 +96782,7 @@
   {
     "id": 20219,
     "type": "prefab",
-    "text": "Say goodbye to the old and welcome the new with amazing gifts, including Hope Luxite, Epic Characters, and Random Legendary Gear!"
+    "text": "Say goodbye to the old and welcome the new with amazing gifts, including Hope Luxites, Epic Characters, and Random Legendary Gear!"
   },
   {
     "id": 20220,
@@ -96897,7 +96897,7 @@
   {
     "id": 20242,
     "type": "prefab",
-    "text": "Say goodbye to the old and welcome the new with amazing gifts, including Hope Luxite, Epic Characters, and Random Legendary Gear!"
+    "text": "Say goodbye to the old and welcome the new with amazing gifts, including Hope Luxites, Epic Characters, and Random Legendary Gear!"
   },
   {
     "id": 20243,
@@ -97737,7 +97737,7 @@
   {
     "id": 20410,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 20411,
@@ -98307,7 +98307,7 @@
   {
     "id": 20524,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 20525,
@@ -98492,7 +98492,7 @@
   {
     "id": 20561,
     "type": "prefab",
-    "text": "When the gears of wishes turn again, the disorderly space-time, the blurred silhouettes… the fantasy still retains the expectation and warmth of reunion."
+    "text": "When the gears of wishes turn again, the disorderly dimension, the blurred silhouettes… the fantasy still retains the expectation and warmth of reunion."
   },
   {
     "id": 20562,
@@ -98717,7 +98717,7 @@
   {
     "id": 20606,
     "type": "prefab",
-    "text": "Event Quest"
+    "text": "###text\\text\\20606"
   },
   {
     "id": 20607,
@@ -98767,7 +98767,7 @@
   {
     "id": 20616,
     "type": "prefab",
-    "text": "When the gears of wishes turn again, the disorderly space-time, the blurred silhouettes… the fantasy still retains the expectation and warmth of reunion."
+    "text": "When the gears of wishes turn again, the disorderly dimension, the blurred silhouettes… the fantasy still retains the expectation and warmth of reunion."
   },
   {
     "id": 20617,
@@ -98822,12 +98822,12 @@
   {
     "id": 20627,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 20628,
     "type": "prefab",
-    "text": "Go to exchange"
+    "text": "Redeem"
   },
   {
     "id": 20629,
@@ -98847,7 +98847,7 @@
   {
     "id": 20632,
     "type": "prefab",
-    "text": "Reward Level"
+    "text": "Floor Level"
   },
   {
     "id": 20633,
@@ -99212,7 +99212,7 @@
   {
     "id": 20705,
     "type": "prefab",
-    "text": "Earn Trading Post Funds"
+    "text": "Earned Funds"
   },
   {
     "id": 20706,
@@ -99222,7 +99222,7 @@
   {
     "id": 20707,
     "type": "prefab",
-    "text": "Earn Trading Post Funds"
+    "text": "Earned Funds"
   },
   {
     "id": 20708,
@@ -99362,7 +99362,7 @@
   {
     "id": 20737,
     "type": "prefab",
-    "text": "Character Attributes"
+    "text": "Attributes"
   },
   {
     "id": 20738,
@@ -99537,7 +99537,7 @@
   {
     "id": 20772,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 20773,
@@ -99672,7 +99672,7 @@
   {
     "id": 20799,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 20800,
@@ -100037,7 +100037,7 @@
   {
     "id": 20872,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 20873,
@@ -100647,7 +100647,7 @@
   {
     "id": 20994,
     "type": "prefab",
-    "text": "The Town of Convallaria"
+    "text": "Iria"
   },
   {
     "id": 20995,
@@ -100722,7 +100722,7 @@
   {
     "id": 21009,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21010,
@@ -100797,7 +100797,7 @@
   {
     "id": 21024,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21025,
@@ -100897,7 +100897,7 @@
   {
     "id": 21044,
     "type": "prefab",
-    "text": "Inspired Skill"
+    "text": "Learned Skill"
   },
   {
     "id": 21045,
@@ -100932,7 +100932,7 @@
   {
     "id": 21051,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21052,
@@ -101007,7 +101007,7 @@
   {
     "id": 21066,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21067,
@@ -101127,7 +101127,7 @@
   {
     "id": 21090,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21091,
@@ -101192,7 +101192,7 @@
   {
     "id": 21103,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21104,
@@ -101257,7 +101257,7 @@
   {
     "id": 21116,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21117,
@@ -101317,7 +101317,7 @@
   {
     "id": 21128,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21129,
@@ -101507,7 +101507,7 @@
   {
     "id": 21167,
     "type": "prefab",
-    "text": "Go to Inspirate"
+    "text": "Learned Skill"
   },
   {
     "id": 21168,
@@ -101547,7 +101547,7 @@
   {
     "id": 21175,
     "type": "prefab",
-    "text": "Go to Inspirate"
+    "text": "Learned Skill"
   },
   {
     "id": 21176,
@@ -101687,7 +101687,7 @@
   {
     "id": 21203,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 21204,
@@ -101777,7 +101777,7 @@
   {
     "id": 21221,
     "type": "prefab",
-    "text": "Quest Description"
+    "text": "Battle Details"
   },
   {
     "id": 21222,
@@ -101892,7 +101892,7 @@
   {
     "id": 21244,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 21245,
@@ -101982,7 +101982,7 @@
   {
     "id": 21262,
     "type": "prefab",
-    "text": "Quest Description"
+    "text": "Battle Details"
   },
   {
     "id": 21263,
@@ -102047,7 +102047,7 @@
   {
     "id": 21275,
     "type": "prefab",
-    "text": "Current Level"
+    "text": "Safiyyah's Level"
   },
   {
     "id": 21276,
@@ -102172,7 +102172,7 @@
   {
     "id": 21300,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21301,
@@ -102192,12 +102192,12 @@
   {
     "id": 21304,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21305,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21306,
@@ -103992,7 +103992,7 @@
   {
     "id": 21666,
     "type": "prefab",
-    "text": ""
+    "text": "Claimed"
   },
   {
     "id": 21667,
@@ -104502,7 +104502,7 @@
   {
     "id": 21768,
     "type": "",
-    "text": "{0} D"
+    "text": "{0} Day(s)"
   },
   {
     "id": 21769,
@@ -104597,17 +104597,17 @@
   {
     "id": 21787,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21788,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21789,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21790,
@@ -104777,7 +104777,7 @@
   {
     "id": 21823,
     "type": "prefab",
-    "text": "Resources Returned"
+    "text": "Materials Returned"
   },
   {
     "id": 21824,
@@ -105217,7 +105217,7 @@
   {
     "id": 21993,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 21994,
@@ -105282,7 +105282,7 @@
   {
     "id": 22006,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 22007,
@@ -105342,7 +105342,7 @@
   {
     "id": 22018,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 22019,
@@ -105762,7 +105762,7 @@
   {
     "id": 22103,
     "type": "prefab",
-    "text": ""
+    "text": "Claim All"
   },
   {
     "id": 22104,
@@ -106392,7 +106392,7 @@
   {
     "id": 22232,
     "type": "prefab",
-    "text": ""
+    "text": "Achievements"
   },
   {
     "id": 22233,
@@ -106407,7 +106407,7 @@
   {
     "id": 22235,
     "type": "prefab",
-    "text": ""
+    "text": "Claim All"
   },
   {
     "id": 22236,
@@ -107782,7 +107782,7 @@
   {
     "id": 22523,
     "type": "prefab",
-    "text": "Characters"
+    "text": "Teammate"
   },
   {
     "id": 22524,
@@ -108827,7 +108827,7 @@
   {
     "id": 22770,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 22771,
@@ -108932,7 +108932,7 @@
   {
     "id": 22791,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 22792,
@@ -109047,7 +109047,7 @@
   {
     "id": 22814,
     "type": "prefab",
-    "text": "time(s)"
+    "text": " "
   },
   {
     "id": 22815,
@@ -109317,7 +109317,7 @@
   {
     "id": 22868,
     "type": "prefab",
-    "text": "Event List"
+    "text": "Event Rewards"
   },
   {
     "id": 22869,
@@ -109422,7 +109422,7 @@
   {
     "id": 23078,
     "type": "prefab",
-    "text": "Why did all the cream I used for decoration end up on Rawiyah's face?"
+    "text": "Cake is the happiest food, right? I'll keep practicing and make it for... everyone next time."
   },
   {
     "id": 23079,
@@ -109452,7 +109452,7 @@
   {
     "id": 23084,
     "type": "prefab",
-    "text": "Sunset, breeze, and Rawiyah's smile… Soon, these will be moments I cherish dearly, yet tremble to recall."
+    "text": "Sunset, breeze, and Rawiyah's smile... Soon, these will be moments I cherish dearly, yet tremble to recall."
   },
   {
     "id": 23085,
@@ -109462,7 +109462,7 @@
   {
     "id": 23086,
     "type": "prefab",
-    "text": "She remains content and happy as on the first day… If only I could relive that moment."
+    "text": "She remains content and happy as on the first day... If only I could relive that moment."
   },
   {
     "id": 23087,
@@ -109632,7 +109632,7 @@
   {
     "id": 23120,
     "type": "prefab",
-    "text": "Go to exchange"
+    "text": "Redeem"
   },
   {
     "id": 23121,
@@ -109997,32 +109997,32 @@
   {
     "id": 23193,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23194,
     "type": "prefab",
-    "text": ""
+    "text": "NEW"
   },
   {
     "id": 23195,
     "type": "prefab",
-    "text": ""
+    "text": "UP"
   },
   {
     "id": 23196,
     "type": "prefab",
-    "text": ""
+    "text": "NEW"
   },
   {
     "id": 23197,
     "type": "prefab",
-    "text": ""
+    "text": "UP"
   },
   {
     "id": 23198,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23199,
@@ -110037,47 +110037,47 @@
   {
     "id": 23201,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23202,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23203,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23204,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23205,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23206,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23207,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23208,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23209,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23210,
@@ -110092,7 +110092,7 @@
   {
     "id": 23212,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23213,
@@ -110102,72 +110102,72 @@
   {
     "id": 23214,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23215,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23216,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23217,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23218,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23219,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23220,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23221,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23222,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23223,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23224,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23225,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23226,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23227,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 23228,
@@ -111257,7 +111257,7 @@
   {
     "id": 23447,
     "type": "",
-    "text": "Bravo! You've completed all [Develop] quests of the phase! All [Resource] quests will be completed automatically. Complete the remaining quests to claim your career rewards and unlock the next phase, Leader!"
+    "text": "Bravo! You've completed all [Develop] quests of the phase! All [Resource] quests will be completed automatically. Complete the remaining quests to claim your career rewards and unlock the next phase!"
   },
   {
     "id": 23448,
@@ -111422,7 +111422,7 @@
   {
     "id": 23483,
     "type": "prefab",
-    "text": "Select Characters"
+    "text": "Select a Character"
   },
   {
     "id": 23484,
@@ -111747,7 +111747,7 @@
   {
     "id": 23727,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 23728,
@@ -112057,7 +112057,7 @@
   {
     "id": 23844,
     "type": "",
-    "text": "Terms of Service/Privacy Policy as required by the Payment Services Act"
+    "text": "Terms of Service/Privacy Policy as\nrequired by the Payment Services Act"
   },
   {
     "id": 23845,
@@ -112267,7 +112267,7 @@
   {
     "id": 23921,
     "type": "",
-    "text": "Double Luxite"
+    "text": "Double Luxites"
   },
   {
     "id": 23922,
@@ -112287,7 +112287,7 @@
   {
     "id": 23925,
     "type": "",
-    "text": "Purchase resources"
+    "text": "Resources"
   },
   {
     "id": 23926,
@@ -112457,7 +112457,7 @@
   {
     "id": 23995,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 23996,
@@ -112592,7 +112592,7 @@
   {
     "id": 24022,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 24023,
@@ -112702,7 +112702,7 @@
   {
     "id": 24044,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 24045,
@@ -112752,7 +112752,7 @@
   {
     "id": 24054,
     "type": "prefab",
-    "text": "Extra Rewards"
+    "text": "Free Rewards"
   },
   {
     "id": 24055,
@@ -112832,7 +112832,7 @@
   {
     "id": 24070,
     "type": "prefab",
-    "text": "Remaining:"
+    "text": "Attempt ×"
   },
   {
     "id": 24071,
@@ -114302,7 +114302,7 @@
   {
     "id": 24687,
     "type": "prefab",
-    "text": "Event List"
+    "text": "Event Rewards"
   },
   {
     "id": 24688,
@@ -114312,7 +114312,7 @@
   {
     "id": 24689,
     "type": "prefab",
-    "text": "Event List"
+    "text": "Event Rewards"
   },
   {
     "id": 24690,
@@ -114387,12 +114387,12 @@
   {
     "id": 24866,
     "type": "prefab",
-    "text": "scenario"
+    "text": "Story"
   },
   {
     "id": 24867,
     "type": "prefab",
-    "text": "scenario"
+    "text": "Story"
   },
   {
     "id": 24868,
@@ -114437,7 +114437,7 @@
   {
     "id": 24876,
     "type": "prefab",
-    "text": "Dispatching"
+    "text": "Dispatched"
   },
   {
     "id": 24877,
@@ -114487,7 +114487,7 @@
   {
     "id": 24886,
     "type": "prefab",
-    "text": "Drained"
+    "text": "Fatigued"
   },
   {
     "id": 24887,
@@ -114682,22 +114682,22 @@
   {
     "id": 24960,
     "type": "prefab",
-    "text": ""
+    "text": "Voyage Quests"
   },
   {
     "id": 24961,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 24962,
     "type": "prefab",
-    "text": ""
+    "text": "More"
   },
   {
     "id": 24963,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 24982,
@@ -114712,7 +114712,7 @@
   {
     "id": 24984,
     "type": "prefab",
-    "text": "Spiral of Destinies"
+    "text": "Spiral of \nDestinies"
   },
   {
     "id": 24985,
@@ -114732,7 +114732,7 @@
   {
     "id": 24988,
     "type": "prefab",
-    "text": ""
+    "text": "Progress"
   },
   {
     "id": 24989,
@@ -114767,12 +114767,12 @@
   {
     "id": 24995,
     "type": "prefab",
-    "text": ""
+    "text": "Strength"
   },
   {
     "id": 24996,
     "type": "prefab",
-    "text": ""
+    "text": "Until: June 18, 2023"
   },
   {
     "id": 24997,
@@ -114782,22 +114782,22 @@
   {
     "id": 24998,
     "type": "prefab",
-    "text": ""
+    "text": "Chance UP"
   },
   {
     "id": 24999,
     "type": "prefab",
-    "text": ""
+    "text": "Skill demo"
   },
   {
     "id": 25000,
     "type": "prefab",
-    "text": ""
+    "text": "Details"
   },
   {
     "id": 25001,
     "type": "prefab",
-    "text": ""
+    "text": "Character Trial"
   },
   {
     "id": 25005,
@@ -114987,7 +114987,7 @@
   {
     "id": 25042,
     "type": "prefab",
-    "text": ""
+    "text": "Summer Package Name"
   },
   {
     "id": 25043,
@@ -115017,12 +115017,12 @@
   {
     "id": 25048,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25049,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25050,
@@ -115347,27 +115347,27 @@
   {
     "id": 25116,
     "type": "prefab",
-    "text": ""
+    "text": "No effect bonus now"
   },
   {
     "id": 25117,
     "type": "prefab",
-    "text": ""
+    "text": "<color=#ffb884>Global effect deactivated"
   },
   {
     "id": 25118,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 25119,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 25120,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 25123,
@@ -115662,7 +115662,7 @@
   {
     "id": 25278,
     "type": "prefab",
-    "text": ""
+    "text": "Summer Package Name"
   },
   {
     "id": 25279,
@@ -115692,12 +115692,12 @@
   {
     "id": 25284,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25285,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25286,
@@ -116017,7 +116017,7 @@
   {
     "id": 25349,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25350,
@@ -116642,12 +116642,12 @@
   {
     "id": 25474,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25475,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25476,
@@ -116992,7 +116992,7 @@
   {
     "id": 25544,
     "type": "prefab",
-    "text": ""
+    "text": "Summer Package Name"
   },
   {
     "id": 25545,
@@ -117022,12 +117022,12 @@
   {
     "id": 25550,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25551,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25552,
@@ -118177,12 +118177,12 @@
   {
     "id": 25781,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25782,
     "type": "prefab",
-    "text": ""
+    "text": "Battle Pass Rewards"
   },
   {
     "id": 25783,
@@ -118497,22 +118497,22 @@
   {
     "id": 25845,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25846,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25847,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25848,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25849,
@@ -118877,12 +118877,12 @@
   {
     "id": 25921,
     "type": "prefab",
-    "text": ""
+    "text": "Winter\nConcerto"
   },
   {
     "id": 25922,
     "type": "prefab",
-    "text": ""
+    "text": "Winter\nConcerto"
   },
   {
     "id": 25923,
@@ -118907,12 +118907,12 @@
   {
     "id": 25927,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 25928,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 25929,
@@ -119227,7 +119227,7 @@
   {
     "id": 25991,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 25992,
@@ -119297,12 +119297,12 @@
   {
     "id": 26005,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 26006,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 26007,
@@ -119617,7 +119617,7 @@
   {
     "id": 26069,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 26070,
@@ -119657,7 +119657,7 @@
   {
     "id": 26077,
     "type": "prefab",
-    "text": ""
+    "text": "Spring Sonnet"
   },
   {
     "id": 26078,
@@ -119687,12 +119687,12 @@
   {
     "id": 26083,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 26084,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 26085,
@@ -120007,7 +120007,7 @@
   {
     "id": 26147,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 26148,
@@ -120532,7 +120532,7 @@
   {
     "id": 26252,
     "type": "prefab",
-    "text": ""
+    "text": "Summer Package Name"
   },
   {
     "id": 26253,
@@ -120562,12 +120562,12 @@
   {
     "id": 26258,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 26259,
     "type": "prefab",
-    "text": "Round Reward"
+    "text": "Rewards"
   },
   {
     "id": 26260,
@@ -120882,7 +120882,7 @@
   {
     "id": 26322,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 26323,
@@ -120892,22 +120892,22 @@
   {
     "id": 26324,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 26325,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 26326,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 26327,
     "type": "prefab",
-    "text": ""
+    "text": "Description"
   },
   {
     "id": 26572,
@@ -120980,6 +120980,11 @@
     "text": "A wickedness exposed by the act of concealment, a truth narrated through the means of lies...\n\nWill they unravel the darkness and shed light on the secrets in the suffocating interrogation room?"
   },
   {
+    "id": 26647,
+    "type": "prefab",
+    "text": "Trait"
+  },
+  {
     "id": 26648,
     "type": "",
     "text": "Lv. {0}"
@@ -120987,12 +120992,12 @@
   {
     "id": 26768,
     "type": "",
-    "text": "{0}W remaining"
+    "text": "{0}W Left"
   },
   {
     "id": 26769,
     "type": "",
-    "text": "{0} time(s)"
+    "text": "{0} Left"
   },
   {
     "id": 26775,
@@ -121322,7 +121327,7 @@
   {
     "id": 27089,
     "type": "prefab",
-    "text": "Log in for 7 days during the event to receive a legendary character, exclusive furniture, an exclusive avatar frame, and more!"
+    "text": "Log in for 7 days during the event to receive a legendary character, \nexclusive furniture, an exclusive avatar frame, and more!"
   },
   {
     "id": 27091,
@@ -121647,7 +121652,7 @@
   {
     "id": 27155,
     "type": "prefab",
-    "text": "Log in for 7 days during the event to receive a legendary character, exclusive furniture, an exclusive avatar frame, and more!"
+    "text": "Log in for 7 days during the event to receive a legendary character, \nexclusive furniture, an exclusive avatar frame, and more!"
   },
   {
     "id": 27286,
@@ -122162,7 +122167,7 @@
   {
     "id": 27457,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27458,
@@ -122177,7 +122182,7 @@
   {
     "id": 27460,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27461,
@@ -122192,7 +122197,7 @@
   {
     "id": 27463,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27464,
@@ -122237,7 +122242,7 @@
   {
     "id": 27472,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27473,
@@ -122252,7 +122257,7 @@
   {
     "id": 27475,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27476,
@@ -122267,7 +122272,7 @@
   {
     "id": 27478,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27479,
@@ -122312,7 +122317,7 @@
   {
     "id": 27487,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27488,
@@ -122327,7 +122332,7 @@
   {
     "id": 27490,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27491,
@@ -122342,7 +122347,7 @@
   {
     "id": 27493,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27494,
@@ -122387,7 +122392,7 @@
   {
     "id": 27502,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27503,
@@ -122402,7 +122407,7 @@
   {
     "id": 27505,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27506,
@@ -122417,7 +122422,7 @@
   {
     "id": 27508,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27509,
@@ -122462,7 +122467,7 @@
   {
     "id": 27517,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27518,
@@ -122477,7 +122482,7 @@
   {
     "id": 27520,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27521,
@@ -122492,7 +122497,7 @@
   {
     "id": 27523,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27524,
@@ -122537,7 +122542,7 @@
   {
     "id": 27532,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27533,
@@ -122552,7 +122557,7 @@
   {
     "id": 27535,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27536,
@@ -122567,7 +122572,7 @@
   {
     "id": 27538,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27539,
@@ -122612,7 +122617,7 @@
   {
     "id": 27547,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27548,
@@ -122627,7 +122632,7 @@
   {
     "id": 27550,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27551,
@@ -122642,7 +122647,7 @@
   {
     "id": 27553,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27554,
@@ -122687,7 +122692,7 @@
   {
     "id": 27562,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27563,
@@ -122697,7 +122702,7 @@
   {
     "id": 27564,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27565,
@@ -122707,7 +122712,7 @@
   {
     "id": 27566,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27567,
@@ -122717,7 +122722,7 @@
   {
     "id": 27568,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27569,
@@ -122732,7 +122737,7 @@
   {
     "id": 27571,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27572,
@@ -122747,7 +122752,7 @@
   {
     "id": 27574,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27575,
@@ -122792,7 +122797,7 @@
   {
     "id": 27583,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27584,
@@ -122807,7 +122812,7 @@
   {
     "id": 27586,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27587,
@@ -122822,7 +122827,7 @@
   {
     "id": 27589,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27590,
@@ -122867,7 +122872,7 @@
   {
     "id": 27598,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27599,
@@ -122882,7 +122887,7 @@
   {
     "id": 27601,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27602,
@@ -122897,7 +122902,7 @@
   {
     "id": 27604,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27605,
@@ -122942,7 +122947,7 @@
   {
     "id": 27613,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27614,
@@ -122957,7 +122962,7 @@
   {
     "id": 27616,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27617,
@@ -122972,7 +122977,7 @@
   {
     "id": 27619,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27620,
@@ -123017,7 +123022,7 @@
   {
     "id": 27628,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27629,
@@ -123032,7 +123037,7 @@
   {
     "id": 27631,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27632,
@@ -123047,7 +123052,7 @@
   {
     "id": 27634,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27635,
@@ -123092,7 +123097,7 @@
   {
     "id": 27643,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27644,
@@ -123107,7 +123112,7 @@
   {
     "id": 27646,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27647,
@@ -123122,7 +123127,7 @@
   {
     "id": 27649,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27650,
@@ -123207,7 +123212,7 @@
   {
     "id": 27666,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27667,
@@ -123262,7 +123267,7 @@
   {
     "id": 27677,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27678,
@@ -123317,7 +123322,7 @@
   {
     "id": 27688,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27689,
@@ -123372,7 +123377,7 @@
   {
     "id": 27699,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27700,
@@ -123427,7 +123432,7 @@
   {
     "id": 27710,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27711,
@@ -123482,7 +123487,7 @@
   {
     "id": 27721,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27722,
@@ -123537,7 +123542,7 @@
   {
     "id": 27732,
     "type": "prefab",
-    "text": "Week"
+    "text": "Week  "
   },
   {
     "id": 27733,
@@ -124427,7 +124432,7 @@
   {
     "id": 27953,
     "type": "prefab",
-    "text": "Career Journey"
+    "text": "Voyage Momento"
   },
   {
     "id": 27954,
@@ -124452,12 +124457,12 @@
   {
     "id": 27958,
     "type": "prefab",
-    "text": "Opened"
+    "text": "On"
   },
   {
     "id": 27959,
     "type": "prefab",
-    "text": "Close"
+    "text": "Off"
   },
   {
     "id": 27960,
@@ -124610,6 +124615,36 @@
     "text": "Character Trial"
   },
   {
+    "id": 28004,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 28005,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 28006,
+    "type": "prefab",
+    "text": "Private Chat"
+  },
+  {
+    "id": 28007,
+    "type": "prefab",
+    "text": "Guild"
+  },
+  {
+    "id": 28008,
+    "type": "prefab",
+    "text": "Team"
+  },
+  {
+    "id": 28009,
+    "type": "prefab",
+    "text": "System"
+  },
+  {
     "id": 28010,
     "type": "prefab",
     "text": "Notice"
@@ -124707,7 +124742,7 @@
   {
     "id": 28029,
     "type": "",
-    "text": "Level {0}"
+    "text": "Lv. {0}"
   },
   {
     "id": 28030,
@@ -125532,12 +125567,12 @@
   {
     "id": 28915,
     "type": "prefab",
-    "text": "Debut"
+    "text": "NEW"
   },
   {
     "id": 28916,
     "type": "prefab",
-    "text": "Destined"
+    "text": "UP"
   },
   {
     "id": 28937,
@@ -125567,17 +125602,17 @@
   {
     "id": 29117,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 29118,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 29119,
     "type": "prefab",
-    "text": ""
+    "text": "New"
   },
   {
     "id": 29120,
@@ -125587,7 +125622,7 @@
   {
     "id": 29121,
     "type": "prefab",
-    "text": ""
+    "text": "Trait"
   },
   {
     "id": 29154,
@@ -125603,5 +125638,135 @@
     "id": 29156,
     "type": "",
     "text": "Weekly quests have been refreshed."
+  },
+  {
+    "id": 29355,
+    "type": "prefab",
+    "text": "Resting"
+  },
+  {
+    "id": 29356,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29357,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29358,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29359,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29360,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29361,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29362,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29363,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29364,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29365,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29366,
+    "type": "prefab",
+    "text": "Resting"
+  },
+  {
+    "id": 29367,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29409,
+    "type": "",
+    "text": "Unlock"
+  },
+  {
+    "id": 29410,
+    "type": "prefab",
+    "text": "Online"
+  },
+  {
+    "id": 29411,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29412,
+    "type": "prefab",
+    "text": "Private Chat"
+  },
+  {
+    "id": 29413,
+    "type": "prefab",
+    "text": "Guild"
+  },
+  {
+    "id": 29414,
+    "type": "prefab",
+    "text": "Team"
+  },
+  {
+    "id": 29415,
+    "type": "prefab",
+    "text": "System"
+  },
+  {
+    "id": 29416,
+    "type": "prefab",
+    "text": "Skill"
+  },
+  {
+    "id": 29417,
+    "type": "prefab",
+    "text": "New"
+  },
+  {
+    "id": 29418,
+    "type": "prefab",
+    "text": "Private Chat"
+  },
+  {
+    "id": 29419,
+    "type": "prefab",
+    "text": "Guild"
+  },
+  {
+    "id": 29420,
+    "type": "prefab",
+    "text": "Team"
+  },
+  {
+    "id": 29421,
+    "type": "prefab",
+    "text": "System"
   }
 ]

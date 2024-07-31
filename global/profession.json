@@ -1191,7 +1191,7 @@
     "id": 117,
     "name": "Leading Character",
     "editor_name": "主角职业小类",
-    "desc": "Dons a holy chiffon vestment and wields an artifact of purity that dazes opponents.\nPossesses better defense skills in comparison with ice conjurers from other factions. In battle, they can create barriers or temporary buildings to protect allies and leverage the power of ice to stop bleeding.",
+    "desc": "Dons a holy chiffon vestment and wields an artifact of purity that dazes opponents.\nPossesses better defense skills in comparison with ice priests from other factions. In battle, they can create barriers or temporary buildings to protect allies and leverage the power of ice to stop bleeding.",
     "type": 18,
     "category": 5,
     "icon": "playermset01",
@@ -1486,7 +1486,7 @@
   },
   {
     "id": 144,
-    "name": "Papal Judge",
+    "name": "Judge of Papal",
     "editor_name": "嘉西亚-审判者C",
     "desc": "Garcia",
     "type": 17,
@@ -1884,7 +1884,7 @@
     "id": 180,
     "name": "Mysterious Cat",
     "editor_name": "黑猫职业小类",
-    "desc": "Dons a holy chiffon vestment and wields an artifact of purity that dazes opponents.\nPossesses better defense skills in comparison with ice conjurers from other factions. In battle, they can create barriers or temporary buildings to protect allies and leverage the power of ice to stop bleeding.",
+    "desc": "Dons a holy chiffon vestment and wields an artifact of purity that dazes opponents.\nPossesses better defense skills in comparison with ice priests from other factions. In battle, they can create barriers or temporary buildings to protect allies and leverage the power of ice to stop bleeding.",
     "type": 18,
     "category": 5,
     "icon": "playermset01",
@@ -2256,7 +2256,7 @@
   },
   {
     "id": 214,
-    "name": "Loudmouth of the Dockers",
+    "name": "Gang Elite Enforcer",
     "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮大嗓门·精英",
     "desc": "",
     "type": 20,
@@ -2267,7 +2267,7 @@
   },
   {
     "id": 215,
-    "name": "Axeman of the Dockers",
+    "name": "Gang Axeman",
     "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮巨斧兵",
     "desc": "",
     "type": 20,
@@ -2278,7 +2278,7 @@
   },
   {
     "id": 216,
-    "name": "Archer of the Dockers",
+    "name": "Gang Archer",
     "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮弓兵",
     "desc": "",
     "type": 18,
@@ -2289,7 +2289,7 @@
   },
   {
     "id": 217,
-    "name": "Crossbowman of the Dockers",
+    "name": "Gang Crossbowman",
     "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮弩兵",
     "desc": "",
     "type": 18,
@@ -2300,7 +2300,7 @@
   },
   {
     "id": 218,
-    "name": "Shieldguard of the Dockers ",
+    "name": "Gang Axe Shieldman",
     "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮斧盾兵",
     "desc": "",
     "type": 21,
@@ -2311,7 +2311,7 @@
   },
   {
     "id": 219,
-    "name": "Pikeman of the Dockers",
+    "name": "Gang Spearman",
     "editor_name": "（1.9）沙盒-敌高级-前传线水鬼帮长枪兵·精英",
     "desc": "",
     "type": 20,
@@ -2421,7 +2421,7 @@
   },
   {
     "id": 229,
-    "name": "Arsonist Militia Scythe-bearer",
+    "name": "Rioter Miner",
     "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒民兵镰刀手",
     "desc": "",
     "type": 17,
@@ -2432,7 +2432,7 @@
   },
   {
     "id": 230,
-    "name": "Arsonist Militia Shovel-bearer",
+    "name": "Rioter Fork Worker",
     "editor_name": "（1.9）沙盒-敌高级-前传线纵火恶徒民兵铲子兵",
     "desc": "",
     "type": 20,

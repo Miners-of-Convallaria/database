@@ -63,7 +63,7 @@
     "aura_speciality": 9746,
     "icon": "weather_sandstorm",
     "effects": "2054",
-    "desc": "Sandstorm surges, knocking back the target by <style=red>2</style> tiles after dealing Melee DMG. If [Collision] occurs, the target will be [Stunned] for 1 turn."
+    "desc": "Sandstorm surges, knocking back the target by <style=red>2</style> tiles after dealing Melee DMG. If [Collision] occurs, the target will be [stunned] for 1 turn."
   },
   {
     "id": 8,
@@ -74,7 +74,7 @@
     "aura_speciality": 9746,
     "icon": "weather_sandstorm",
     "effects": "2055",
-    "desc": "Sandstorm surges, knocking back the target by <style=red>2</style> tiles after dealing Melee DMG. If [Collision] occurs, the target will be [Stunned] for 1 turn."
+    "desc": "Sandstorm surges, knocking back the target by <style=red>2</style> tiles after dealing Melee DMG. If [Collision] occurs, the target will be [stunned] for 1 turn."
   },
   {
     "id": 9,

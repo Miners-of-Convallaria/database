@@ -197,7 +197,7 @@
   {
     "id": 110,
     "m_sandbox2_weapon_attributes": [78, 79],
-    "name": "Battle Iron Axe",
+    "name": "Battle-Hardened Axe",
     "editor_name": "前传线10-斧-R-武器10_斧",
     "desc": "Although the handle may seem a bit old-fashioned, the axe blade has been carefully adjusted, making it perfect for breaking through the enemies' spears and shields. This weapon has a savage appearance, yet conceals a steady and composed temperament.",
     "model": "",
@@ -262,7 +262,7 @@
   {
     "id": 115,
     "m_sandbox2_weapon_attributes": [91, 92, 93],
-    "name": "Gleam Short Staff",
+    "name": "Astral Rod",
     "editor_name": "前传线15-杖-R-武器15_杖 1-",
     "desc": "An antiquated wand that can be used for writing, tinkering, or stirring crucibles. As a well-worn wand, it may have its limitations, but it remains effective and can be relied upon by the user. If it's not working properly, simply give it a tap and restore it to its former glory.",
     "model": "",
@@ -288,7 +288,7 @@
   {
     "id": 117,
     "m_sandbox2_weapon_attributes": [97, 98, 99],
-    "name": "Duel Dagger",
+    "name": "Dueling Dagger",
     "editor_name": "前传线17-剑-SR-武器17_剑 2",
     "desc": "With its uniquely designed gauntlet and a lightweight and highly durable blade, this sword empowers the wielder to easily parry many deadly attacks.",
     "model": "",
@@ -392,7 +392,7 @@
   {
     "id": 125,
     "m_sandbox2_weapon_attributes": [118, 119, 120],
-    "name": "Vlder Longbow",
+    "name": "Vlderian Longbow",
     "editor_name": "前传线25-弓-SR-武器25_弓 1",
     "desc": "This is the signature weapon for Vlder's soldiers, made from the familiar wood of their homeland. Even in mass production, it boasts a level of precision unmatched by other techniques of similar cost.",
     "model": "",
@@ -483,7 +483,7 @@
   {
     "id": 132,
     "m_sandbox2_weapon_attributes": [139, 140, 141],
-    "name": "",
+    "name": "Vanguard Broadsword",
     "editor_name": "前传线32-剑-SSR-武器32_剑 2+",
     "desc": "",
     "model": "",
@@ -860,7 +860,7 @@
   {
     "id": 161,
     "m_sandbox2_weapon_attributes": [218, 219, 220, 221],
-    "name": "Thorn Ring",
+    "name": "Thorny Ring",
     "editor_name": "前传线61-饰品-SR-武器61_生存类副武器 2",
     "desc": "It was originally a type of herb used for stopping bleeding, but its side effect was found to cause users to become easily irritable. After generations of selective breeding, this thorn-woven ring can amplify the effects of anger appropriately.",
     "model": "",
@@ -886,7 +886,7 @@
   {
     "id": 163,
     "m_sandbox2_weapon_attributes": [226, 227, 228, 229],
-    "name": "Evergreen Pendant",
+    "name": "Evergreen Pendent",
     "editor_name": "前传线63-饰品-SR-武器63_生存类副武器 4",
     "desc": "Made of a combination of semi-Luxite and semi-jade, this pendant often promotes a quick recovery from injuries and ailments.",
     "model": "",
@@ -899,7 +899,7 @@
   {
     "id": 164,
     "m_sandbox2_weapon_attributes": [230, 231, 232, 233],
-    "name": "Spring Wind Herbal Drink",
+    "name": "Spring Tonic",
     "editor_name": "前传线64-饰品-SR-武器64_生存类副武器 5",
     "desc": "Made from wild-grown medicinal herbs and crystal-clear dew, this weapon can awaken the primal survival instincts of warriors and create a resonance between their lives.",
     "model": "",
@@ -1055,9 +1055,9 @@
   {
     "id": 176,
     "m_sandbox2_weapon_attributes": [266, 267, 268, 269],
-    "name": "Breeze Herb Compound Condensed Pill",
+    "name": "Spring Pill",
     "editor_name": "前传线76-饰品-SSR1-武器76_生存类副武器 5+",
-    "desc": "Made by mixing condensed Vltar Mountain mint with the Breeze Herbal Drink recipe, providing a longer-lasting aroma and refreshing sensation while improving focus.",
+    "desc": "Made by mixing condensed Vltar Mountain mint with the Spring Tonic recipe, providing a longer-lasting aroma and refreshing sensation while improving focus.",
     "model": "",
     "palette": "",
     "type": 2,
@@ -1159,7 +1159,7 @@
   {
     "id": 184,
     "m_sandbox2_weapon_attributes": [286, 287, 288],
-    "name": "Beheading Sickle",
+    "name": "Beheading Machete",
     "editor_name": "前传线84-剑-SSR1-武器84_伊利亚剑 1+",
     "desc": "An almost circular, hooked blade designed for efficient beheading of enemies by the Hanged Men from high places, or for painfully suspending enemies in the air. It has also become a form of torture in the Papal States.",
     "model": "",
@@ -1185,7 +1185,7 @@
   {
     "id": 186,
     "m_sandbox2_weapon_attributes": [292, 293, 294],
-    "name": "Iria Fighting Bow",
+    "name": "Irian Combat Bow",
     "editor_name": "前传线86-弓-SSR1-武器86_伊利亚弓 1+",
     "desc": "Made with lightweight yet sturdy materials, it can endure a certain amount of melee damage which makes it ideal for special operatives who might need to make a hasty retreat.",
     "model": "",
@@ -1315,7 +1315,7 @@
   {
     "id": 196,
     "m_sandbox2_weapon_attributes": [310, 311, 312],
-    "name": "Bone Wand",
+    "name": "Skeleton Staff",
     "editor_name": "前传线96-杖-SSR1-武器96_教皇国杖 1+",
     "desc": "The gloomy yet stylish bone wand is the last legacy of a prominent Sanctuary Priest in the Papal States. As long as its power is not depleted, the user's spirit will endure even after the body perishes.",
     "model": "",
@@ -1341,7 +1341,7 @@
   {
     "id": 198,
     "m_sandbox2_weapon_attributes": [316, 317, 318],
-    "name": "Doom War Scythe",
+    "name": "Doomsday Scythe",
     "editor_name": "前传线98-枪-SSR1-武器98_教皇国枪 1+",
     "desc": "A sickle emitting an aura of decay that can unleash its maximum power when silently approaching enemies.",
     "model": "",
@@ -1575,7 +1575,7 @@
   {
     "id": 216,
     "m_sandbox2_weapon_attributes": [350, 351, 352],
-    "name": "Cinderedge",
+    "name": "Ever-Burning Blade",
     "editor_name": "前传线116-剑-SSR2-武器116_骑士团剑 1+",
     "desc": "This sword is the pinnacle of Luxite-infused weaponry. With its blade perpetually engulfed in flames, this extraordinary and symbolic sword still awaits a knight who can fully wield it.",
     "model": "",
@@ -1614,7 +1614,7 @@
   {
     "id": 219,
     "m_sandbox2_weapon_attributes": [359, 360, 361],
-    "name": "Nameless Warstaff",
+    "name": "Nameless Staff",
     "editor_name": "前传线119-枪-SSR2-武器119_骑士团枪 2+",
     "desc": "An antique designed to be deceptively solid, this weapon has its weight distributed to both ends. It can be swung with ease and still generate enough force to penetrate armor and cause internal damage to enemies. It appears to have come from the Far East.",
     "model": "",
@@ -1640,7 +1640,7 @@
   {
     "id": 221,
     "m_sandbox2_weapon_attributes": [364, 365],
-    "name": "Justice Voice Hammer",
+    "name": "Tuning Hammer",
     "editor_name": "前传线121-斧-SSR2-武器121_骑士团斧 2+",
     "desc": "The tuning hammer was originally used by the Union to check the tuning of the holy bells in various council halls. However, it was later discovered that this hammer had a remarkable effect when used to educate enemies, with most of them confessing their crimes after the first strike.",
     "model": "",
@@ -1666,7 +1666,7 @@
   {
     "id": 223,
     "m_sandbox2_weapon_attributes": [369, 370, 371],
-    "name": "Star Speed Crossbow",
+    "name": "Star-Raid Crossbow",
     "editor_name": "前传线123-弓-SSR2-武器123_骑士团弓 2+",
     "desc": "This crossbow was once wielded by a former city defense general of the Union during a protracted night-time siege. Its bolts flew like shooting stars, dazzlingly fast and accurate, maintaining the defenders' high morale and turning the hopeless situation into a victorious one.",
     "model": "",

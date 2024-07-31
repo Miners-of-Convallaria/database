@@ -132,7 +132,7 @@
     "m_online_unit_rank_modify_ranks": [217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228],
     "name": "倒吊人暗法",
     "skill_line_id": 1,
-    "tier1_name": "AOE",
+    "tier1_name": "AoE",
     "tier2_name": "Solo Kill"
   },
   {
@@ -252,7 +252,7 @@
     "m_online_unit_rank_modify_ranks": [397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408],
     "name": "黑暗之光火法",
     "skill_line_id": 1,
-    "tier1_name": "Bombardment",
+    "tier1_name": "Bomb",
     "tier2_name": "Flame Focus"
   },
   {
@@ -276,7 +276,7 @@
     "m_online_unit_rank_modify_ranks": [433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444],
     "name": "雇佣兵巨斧兵",
     "skill_line_id": 1,
-    "tier1_name": "AOE",
+    "tier1_name": "AoE",
     "tier2_name": "Execution"
   },
   {
@@ -308,7 +308,7 @@
     "m_online_unit_rank_modify_ranks": [481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492],
     "name": "雇佣兵精英火法",
     "skill_line_id": 1,
-    "tier1_name": "AOE",
+    "tier1_name": "AoE",
     "tier2_name": "Solo Kill"
   },
   {
@@ -356,16 +356,16 @@
     "m_online_unit_rank_modify_ranks": [553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564],
     "name": "机动部队-考尔",
     "skill_line_id": 1,
-    "tier1_name": "Pill",
-    "tier2_name": "Sharp Tongue"
+    "tier1_name": "Tact",
+    "tier2_name": "Snipe"
   },
   {
     "id": 416,
     "m_online_unit_rank_modify_ranks": [565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576],
     "name": "机动部队-希孜",
     "skill_line_id": 1,
-    "tier1_name": "Tact",
-    "tier2_name": "Snipe"
+    "tier1_name": "Pill",
+    "tier2_name": "Sharp Tongue"
   },
   {
     "id": 501,
@@ -629,7 +629,7 @@
     "name": "苏莱曼商人",
     "skill_line_id": 1,
     "tier1_name": "Bribe",
-    "tier2_name": "Misfortune Removal"
+    "tier2_name": "Exchange"
   },
   {
     "id": 534,
@@ -692,8 +692,8 @@
     "m_online_unit_rank_modify_ranks": [1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068],
     "name": "SP索菲亚",
     "skill_line_id": 1,
-    "tier1_name": "Deliberation",
-    "tier2_name": "Determination"
+    "tier1_name": "Determination",
+    "tier2_name": "Deliberation"
   },
   {
     "id": 542,
@@ -708,8 +708,8 @@
     "m_online_unit_rank_modify_ranks": [1081, 1082, 1083, 1084, 1085, 1086, 1087, 1088, 1089, 1090, 1091, 1092],
     "name": "女将军",
     "skill_line_id": 1,
-    "tier1_name": "1",
-    "tier2_name": "1"
+    "tier1_name": "Army-Breaker",
+    "tier2_name": "Indomitable"
   },
   {
     "id": 544,

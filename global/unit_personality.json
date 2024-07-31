@@ -37,7 +37,7 @@
   {
     "id": 6,
     "m_unit_personality_skills": [28, 65, 66, 67, 68],
-    "name": "Battle-tested Shield",
+    "name": "Battle-Tested Shield",
     "editor_name": "[英雄个性]-泰登",
     "icon": "unitpersonality_teadon"
   },
@@ -107,7 +107,7 @@
   {
     "id": 16,
     "m_unit_personality_skills": [921],
-    "name": "Residual magic illusion",
+    "name": "Residual Magic Illusion",
     "editor_name": "[网游主线第五章]-魔女诺拉召唤物个性",
     "icon": "unitpersonality_common002"
   },
@@ -149,7 +149,7 @@
   {
     "id": 43,
     "m_unit_personality_skills": [1123, 1539],
-    "name": "In a Dilemma",
+    "name": "Dilemma",
     "editor_name": "[网游主线第十章]-弗兰克个性：进退维谷",
     "icon": "unitpersonality_enemy002"
   },
@@ -555,7 +555,7 @@
   {
     "id": 101,
     "m_unit_personality_skills": [439, 440, 441, 442, 443],
-    "name": "Hunting",
+    "name": "Swiftness",
     "editor_name": "[英雄个性]-米格尔-追猎",
     "icon": "unitpersonality_shimingbida"
   },
@@ -618,7 +618,7 @@
   {
     "id": 110,
     "m_unit_personality_skills": [513, 514, 515],
-    "name": "Shelter",
+    "name": "Sanctuary",
     "editor_name": "塔罗怪个性-光·光环塔罗·坚守光环",
     "icon": "unitpersonality_enemy012"
   },
@@ -1010,7 +1010,7 @@
   {
     "id": 170,
     "m_unit_personality_skills": [821, 822, 823, 824, 825],
-    "name": "Luxite Gardebras",
+    "name": "Luxite Gauntlet",
     "editor_name": "[英雄个性]-双子哥哥-拳盾精通",
     "icon": "unitpersonality_quandunjingtong"
   },
@@ -1122,7 +1122,7 @@
   {
     "id": 187,
     "m_unit_personality_skills": [913, 914, 915, 916, 917, 918, 920],
-    "name": "Undead Skeleton",
+    "name": "Undead Corpse",
     "editor_name": "[英雄个性]-古兹曼-战争机器-主线-决战矿坑城用",
     "icon": "unitpersonality_guzman"
   },
@@ -1213,7 +1213,7 @@
   {
     "id": 200,
     "m_unit_personality_skills": [992, 993, 994],
-    "name": "Undead Skeleton",
+    "name": "Undead Corpse",
     "editor_name": "[日常本]-古兹曼-战争机器-特殊版本-不含一血不死和复活",
     "icon": "unitpersonality_guzman"
   },
@@ -1381,7 +1381,7 @@
   {
     "id": 227,
     "m_unit_personality_skills": [1126],
-    "name": "Angry",
+    "name": "Wrath",
     "editor_name": "[网游主线11章]-近战心魔个性",
     "icon": "unitpersonality_common012"
   },
@@ -1535,14 +1535,14 @@
   {
     "id": 249,
     "m_unit_personality_skills": [1227, 1299],
-    "name": "Claw",
+    "name": "Sharp Claw",
     "editor_name": "活动-大型1期-森林狼个性",
     "icon": "unitpersonality_enemy027"
   },
   {
     "id": 250,
     "m_unit_personality_skills": [1229, 1230, 1231, 1297],
-    "name": "Pack Leader",
+    "name": "Alpha Wolf",
     "editor_name": "活动-大型1期-狼王个性-狼群领袖",
     "icon": "unitpersonality_enemy014"
   },
@@ -1710,7 +1710,7 @@
   {
     "id": 274,
     "m_unit_personality_skills": [1396, 1659, 1660, 1661, 1662, 1776, 1777, 2097, 2098, 2099],
-    "name": "Vibrant Little Sun",
+    "name": "The Sun of Stamina",
     "editor_name": "[英雄个性]- SP拉维耶-热血少女",
     "icon": "unitpersonality_common035"
   },
@@ -1731,7 +1731,7 @@
   {
     "id": 277,
     "m_unit_personality_skills": [1399, 1400, 1401, 1402, 1403],
-    "name": "SP Safiyyah",
+    "name": "M.S. Combat Staff",
     "editor_name": "sp索菲亚个性",
     "icon": ""
   },
@@ -1843,7 +1843,7 @@
   {
     "id": 294,
     "m_unit_personality_skills": [1482, 1483, 1484, 1485, 1488],
-    "name": "Inverted Omen - Extra",
+    "name": "Inverted Omen - Enhanced",
     "editor_name": "活动-中型1期-塔罗怪个性-暗·法师塔罗-逆位预兆（挑战3）",
     "icon": "unitpersonality_enemy010"
   },
@@ -1934,7 +1934,7 @@
   {
     "id": 308,
     "m_unit_personality_skills": [1540, 1541, 1542, 1543, 1544],
-    "name": "Paranoid",
+    "name": "Blood for Blood",
     "editor_name": "[英雄个性]-女仆-偏执",
     "icon": "unitpersonality_common027"
   },
@@ -1969,7 +1969,7 @@
   {
     "id": 313,
     "m_unit_personality_skills": [1567],
-    "name": "Vibrant Little Sun",
+    "name": "The Sun of Stamina",
     "editor_name": "[英雄个性]- SP拉维耶-热血少女-方案2",
     "icon": "unitpersonality_common035"
   },
@@ -1990,14 +1990,14 @@
   {
     "id": 316,
     "m_unit_personality_skills": [1580, 1581, 1582, 1583, 1584],
-    "name": "Bitter Medicine",
+    "name": "Bitterwort",
     "editor_name": "[英雄个性]-机动部队-希孜-医药管理",
     "icon": "unitpersonality_common037"
   },
   {
     "id": 317,
     "m_unit_personality_skills": [1585, 1586, 1587, 1588, 1589],
-    "name": "Dark Gleam",
+    "name": "Deadly Aim",
     "editor_name": "[英雄个性]-机动部队-考尔-致命准心",
     "icon": "unitpersonality_common016"
   },
@@ -2102,7 +2102,7 @@
   {
     "id": 334,
     "m_unit_personality_skills": [1642],
-    "name": "Supercharging",
+    "name": "Supercharge",
     "editor_name": "塔罗怪个性-战士塔罗-灵巧行进（召唤）",
     "icon": "unitpersonality_enemy007"
   },
@@ -2375,7 +2375,7 @@
   {
     "id": 374,
     "m_unit_personality_skills": [1751, 1752, 1753, 1754, 1755, 1769],
-    "name": "Pious Prayer - Extra",
+    "name": "Pious Prayer - Enhanced",
     "editor_name": "活动-大型3期-敌方-萨曼莎修女个性（挑战2）",
     "icon": "unitpersonality_qianchengqidao"
   },
@@ -2410,7 +2410,7 @@
   {
     "id": 379,
     "m_unit_personality_skills": [1773, 1774, 1775],
-    "name": "Stone Armor - Extra",
+    "name": "Stone Armor - Enhanced",
     "editor_name": "活动-大型3期-敌方-塔罗怪个性-重型塔罗-重型护甲（挑战3）",
     "icon": "unitpersonality_enemy006"
   },
@@ -2445,7 +2445,7 @@
   {
     "id": 385,
     "m_unit_personality_skills": [1802],
-    "name": "Fire Mutant - Extra",
+    "name": "Fire Mutation - Extra",
     "editor_name": "活动-大型3期-敌方-晶石软泥怪红个性（刷分）",
     "icon": "unitpersonality_enemy004"
   },
@@ -2473,7 +2473,7 @@
   {
     "id": 390,
     "m_unit_personality_skills": [1825, 1826, 1827, 1828],
-    "name": "Inverted Omen - Extra",
+    "name": "Inverted Omen - Enhanced",
     "editor_name": "活动-大型3.5期-暗·法师塔罗个性（挑战1）",
     "icon": "unitpersonality_enemy010"
   },
@@ -2641,7 +2641,7 @@
   {
     "id": 414,
     "m_unit_personality_skills": [1965],
-    "name": "Strength of Cohesion",
+    "name": "Cohesion Strength",
     "editor_name": "塔罗怪个性-护石本塔罗狮子-防御型 （S3）",
     "icon": "unitpersonality_enemy019"
   },
@@ -2767,7 +2767,7 @@
   {
     "id": 433,
     "m_unit_personality_skills": [1999, 2000, 2003, 2022],
-    "name": "Webbing - Extra",
+    "name": "Webbing - Enhanced",
     "editor_name": "活动-大型3.5期-敌方-首领蜘蛛个性（挑战4）",
     "icon": "unitpersonality_magnus"
   },
@@ -2788,21 +2788,21 @@
   {
     "id": 436,
     "m_unit_personality_skills": [2024],
-    "name": "Low Spirits",
+    "name": "Bad Mood",
     "editor_name": "网游13章-舞团舞娘特殊个性",
     "icon": "unitpersonality_enemy003"
   },
   {
     "id": 437,
     "m_unit_personality_skills": [2025],
-    "name": "Defense Mastery",
+    "name": "Night Watch",
     "editor_name": "机动部队C-埃利斯-防御精通",
     "icon": "unitpersonality_enemy019"
   },
   {
     "id": 438,
     "m_unit_personality_skills": [2026],
-    "name": "Attack Mastery",
+    "name": "Valiant Resolve",
     "editor_name": "机动部队D-马利克-攻击精通",
     "icon": "unitpersonality_common030"
   },
@@ -2837,7 +2837,7 @@
   {
     "id": 443,
     "m_unit_personality_skills": [2046],
-    "name": "Night Howl",
+    "name": "Howl of the Gray Wolf",
     "editor_name": "沙盒-前传线-BOSS巨狼个性",
     "icon": "unitpersonality_enemy014"
   },
@@ -2851,7 +2851,7 @@
   {
     "id": 445,
     "m_unit_personality_skills": [2054],
-    "name": "Master of Disguise",
+    "name": "Versatile Thief",
     "editor_name": "沙盒-前传线-BOSS-罗宾",
     "icon": "unitpersonality_shashoubenneng"
   },

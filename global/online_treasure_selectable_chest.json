@@ -574,7 +574,7 @@
     "m_online_treasure_selectable_chest_bonuss": [388, 389, 390, 391, 392, 393, 394, 395],
     "name": "Comprehensive Selection Chest",
     "editor_name": "综合自选宝箱",
-    "desc": "Select one set from Rank Medal, Radiant Ore, Engraving Chest, Common Exp, Radiant Powder, Tarot Essence, Star Particles, and Elysium Coin to obtain.",
+    "desc": "Select one set from Rank Medal, Radiant Ore, Engraving Chest, Common Exp, Radiant Powder, Tarot Essence, Star Particles, and Elysium Coins to obtain.",
     "rarity": 4,
     "icon": "material_random_chest4",
     "manual": true
@@ -602,7 +602,7 @@
   {
     "id": 63,
     "m_online_treasure_selectable_chest_bonuss": [404, 405, 406, 407],
-    "name": "Obscure Talent Material",
+    "name": "Unnamed Talent Material",
     "editor_name": "自选科技材料宝箱-全稀有度",
     "desc": "Choose one set from Talent Materials of each Rarity to obtain.",
     "rarity": 4,
@@ -662,7 +662,7 @@
   {
     "id": 70,
     "m_online_treasure_selectable_chest_bonuss": [465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493],
-    "name": "Legendary Weapon Selection Chest",
+    "name": "Unnamed Legendary Weapon Chest",
     "editor_name": "自选SSR主武器（系列Ⅰ、系列Ⅱ）",
     "desc": "Select one of the designated Legendary weapons to obtain.",
     "rarity": 4,
@@ -696,7 +696,7 @@
     "editor_name": "海外服自选角色SSR-手动 ",
     "desc": "Choose one designated legendary character.",
     "rarity": 4,
-    "icon": "material_treasure_chest4",
+    "icon": "material_online_shop_gift_0033",
     "manual": true
   }
 ]

@@ -347,7 +347,7 @@
     "special_effect_ids": "33",
     "icon": "buff_09",
     "desc": "\"Whoa! Are those the curtain call fireworks?\"",
-    "content": "Enemies explode upon defeat, dealing <style=red>80% of</style> Physical DMG to all the nearby enemies within a <style=red>1</style>-circle radius.",
+    "content": "Enemies explode upon defeat, dealing <style=red>80% of</style> physical DMG to all the nearby enemies within a <style=red>1</style>-circle radius.",
     "editor_name": "所有敌方角色会在死后自爆，对2格内的敌方单位造成0.8倍物理伤害",
     "mutually_exclude": true
   },
@@ -391,7 +391,7 @@
     "special_effect_ids": "47",
     "icon": "buff_19",
     "desc": "\"Th-this isn't fair to us!\"",
-    "content": "Reduces enemy Magical DMG taken by <style=purple>40%</style> and Percentage DMG taken by <style=red>50%</style>.",
+    "content": "Reduces enemy magical DMG taken by <style=purple>40%</style> and Percentage DMG taken by <style=red>50%</style>.",
     "editor_name": "敌方受到魔法伤害降低40%，受到百分比伤害降低50%",
     "mutually_exclude": true
   },
@@ -457,7 +457,7 @@
     "special_effect_ids": "45",
     "icon": "buff_11",
     "desc": "\"I'll provide the same sense of security for everyone!\"",
-    "content": "With Teadon deployed, all enemies gain a [<style=red>Physical Shield</style>] equal to <style=C4>30%</style> of their Max HP at the start of the battle. If the enemy has no [Shield] at the start of their action, they gain a Physical Shield equal to <style=red>10%</style> of their max HP, otherwise, increases their DMG dealt by <style=red>20%</style>, and their DEF by <style=red>30%</style>.",
+    "content": "With Teadon deployed, all enemies gain a [<style=red>Physical Shield</style>] with value equal to <style=C4>30%</style> of their Max HP at the start of the battle. If the enemy has no [shield] at the start of their action, they gain a Physical Shield equal to <style=red>10%</style> of their max HP, otherwise, increases their DMG dealt by <style=red>20%</style>, and their DEF by <style=red>30%</style>.",
     "editor_name": "泰登上阵-骑士团挑战",
     "mutually_exclude": true
   },
@@ -655,7 +655,7 @@
     "special_effect_ids": "50",
     "icon": "buff_10",
     "desc": "\"Samantha is like a whole new person with the mask on.\"",
-    "content": "The Judge Samantha enters the battlefield. Any enemy unit with more [Buffs] than its target has a <style=red>100%</style> chance to land a critical hit, ignoring <style=red>30%</style> of the target's DEF, and steals <style=red>3</style> [Buffs] from the target after the attack.",
+    "content": "The Judge Samantha enters the battlefield. Any enemy unit with more [buffs] than its target has a <style=red>100%</style> chance to land a critical hit, ignoring <style=red>30%</style> of the target's DEF, and steals <style=red>3</style> [buffs] from the target after the attack.",
     "editor_name": "审判者萨曼莎出战-教皇国挑战",
     "mutually_exclude": true
   },
@@ -861,7 +861,7 @@
     "id": 40,
     "m_special_effects": [63],
     "m_exclude_contracts": [],
-    "name": "Takes 30% less Physical DMG when Healthy, and 30% less Magical DMG when Injured.",
+    "name": "Takes 30% less physical DMG when Healthy, and 30% less magical DMG when Injured.",
     "level": 0,
     "type": 2,
     "idcontract_group": 0,
@@ -875,7 +875,7 @@
     "special_effect_ids": "63",
     "icon": "buff_19",
     "desc": "",
-    "content": "Takes <style=C4>30%</style> less Physical DMG when [<style=red>Healthy</style>], and <style=C4>30%</style> less Magical DMG when [<style=purple>Injured</style>].",
+    "content": "Takes <style=C4>30%</style> less physical DMG when [<style=red>Healthy</style>], and <style=C4>30%</style> less magical DMG when [<style=purple>Injured</style>].",
     "editor_name": "健康时受到物理伤害降低30%，受伤时受到魔法伤害降低30%",
     "mutually_exclude": true
   },
@@ -941,7 +941,7 @@
     "special_effect_ids": "62",
     "icon": "buff_19",
     "desc": "\"I'll provide the same sense of security for everyone!\"",
-    "content": "Receives a [<style=red>Physical Shield</style>] equal to <style=C4>10%</style> of Max HP at the start of the battle. While [shielded], deals <style=red>15%</style> more DMG and takes <style=red>15%</style> less DMG.",
+    "content": "Receives a [<style=red>Physical Shield</style>] with value equal to <style=C4>10%</style> of Max HP at the start of the battle. While [shielded], deals <style=red>15%</style> more DMG and takes <style=red>15%</style> less DMG.",
     "editor_name": "泰登护盾",
     "mutually_exclude": true
   },
@@ -1139,7 +1139,7 @@
     "special_effect_ids": "83",
     "icon": "buff_20",
     "desc": "\"Your blessings can't compare to our items!\"",
-    "content": "Increases Enemy's DMG dealt by <style=red>10%</style> and reduces DMG taken by <style=red>10%</style> for each [Buff] they possess, up to <style=red>30%</style>.",
+    "content": "Increases Enemy's DMG dealt by <style=red>10%</style> and reduces DMG taken by <style=red>10%</style> for each [buff] they possess, up to <style=red>30%</style>.",
     "editor_name": "敌方每拥有1个增益造成伤害提升10%，受到伤害降低10%，最多30%。",
     "mutually_exclude": true
   },
@@ -1183,7 +1183,7 @@
     "special_effect_ids": "88",
     "icon": "buff_11",
     "desc": "\"I'll provide the same sense of security for everyone!\"",
-    "content": "At the start of the battle, all enemies gain a [<style=red>Physical Shield</style>] equal to <style=C4>20%</style> of their Max HP; if they end their action without a shield, they gain a [physical shield] equal to <style=red>10%</style> of their Max HP.",
+    "content": "At the start of the battle, all enemies gain a [<style=red>Physical Shield</style>] with value equal to <style=C4>20%</style> of their Max HP; if they end their action without a shield, they gain a [physical shield] equal to <style=red>10%</style> of their Max HP.",
     "editor_name": "小型活动用-开战获得20%最大生命值的【物理护盾】，行动结束时若自身没有护盾，则获得10%",
     "mutually_exclude": true
   },
@@ -1227,7 +1227,7 @@
     "special_effect_ids": "90",
     "icon": "buff_09",
     "desc": "Keep a safe distance.",
-    "content": "Enemies target those with lower defense. Deals <style=red>20%</style> more Physical DMG to all enemies within <style=red>2</style> tiles at the end of the action.",
+    "content": "Enemies target those with lower defense. Deals <style=red>20%</style> more physical DMG to all enemies within <style=red>2</style> tiles at the end of the action.",
     "editor_name": "小型活动用-伤害类型转换为目标较低防御的类型，攻击后造成伤害",
     "mutually_exclude": true
   },
@@ -1953,7 +1953,7 @@
     "special_effect_ids": "122",
     "icon": "buff_19",
     "desc": "",
-    "content": "At the start of the battle, foes gain a [<style=C4>Magical Shield</style>] equal to <style=purple>60%</style> of their HP.",
+    "content": "At the start of the battle, foes gain a [<style=C4>Magical Shield</style>] with value equal to <style=purple>60%</style> of their HP.",
     "editor_name": "敌方开战获得60%最大生命值的魔法护盾",
     "mutually_exclude": true
   },
@@ -2129,7 +2129,7 @@
     "special_effect_ids": "136",
     "icon": "buff_qingwa01",
     "desc": "",
-    "content": "When attacked, a foe with more [Buffs] than the attacker takes <style=red>50%</style> less DMG.",
+    "content": "When attacked, a foe with more [buffs] than the attacker takes <style=red>50%</style> less DMG.",
     "editor_name": "敌方受到攻击时，若自身增益多于对方，则受到伤害降低50%",
     "mutually_exclude": true
   },

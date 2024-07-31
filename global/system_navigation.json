@@ -8,7 +8,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 2,
+    "order_id": 3,
     "icon": "icon_bag",
     "platform": 1
   },
@@ -21,7 +21,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 4,
+    "order_id": 5,
     "icon": "icon_shop",
     "platform": 1
   },
@@ -34,7 +34,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 1,
+    "order_id": 2,
     "icon": "icon_unit",
     "platform": 1
   },
@@ -47,7 +47,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 5,
+    "order_id": 6,
     "icon": "icon_achievement",
     "platform": 1
   },
@@ -60,7 +60,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 3,
+    "order_id": 4,
     "icon": "icon_gacha",
     "platform": 1
   },
@@ -73,7 +73,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 7,
+    "order_id": 8,
     "icon": "icon_collectionbook",
     "platform": 1
   },
@@ -86,7 +86,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 6,
+    "order_id": 7,
     "icon": "icon_tech",
     "platform": 1
   },
@@ -114,7 +114,7 @@
     "in_layout": true,
     "order_id": 2,
     "icon": "icon_mail",
-    "platform": 1
+    "platform": 2
   },
   {
     "id": 10,
@@ -203,7 +203,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 8,
+    "order_id": 9,
     "icon": "icon_fetters",
     "platform": 1
   },
@@ -229,7 +229,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 10,
+    "order_id": 11,
     "icon": "icon_guild",
     "platform": 1
   },
@@ -242,7 +242,7 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 11,
+    "order_id": 12,
     "icon": "icon_battlebook",
     "platform": 1
   },
@@ -268,8 +268,34 @@
     "enabled": true,
     "layout_type": 2,
     "in_layout": true,
-    "order_id": 12,
+    "order_id": 13,
     "icon": "icon_career_navi",
     "platform": 1
+  },
+  {
+    "id": 23,
+    "idsystem": 120,
+    "type": "online_crafting",
+    "name": "Combine System",
+    "editor_name": "合成系统",
+    "enabled": true,
+    "layout_type": 2,
+    "in_layout": true,
+    "order_id": 14,
+    "icon": "icon_crafting",
+    "platform": 1
+  },
+  {
+    "id": 24,
+    "idsystem": 58,
+    "type": "online_mail_console",
+    "name": "Mailbox",
+    "editor_name": "网游邮箱导航",
+    "enabled": true,
+    "layout_type": 2,
+    "in_layout": true,
+    "order_id": 1,
+    "icon": "icon_mail",
+    "platform": 3
   }
 ]

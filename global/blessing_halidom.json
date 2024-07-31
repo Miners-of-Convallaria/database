@@ -46,7 +46,7 @@
   {
     "id": 5,
     "m_blessing_halidom_upgrades": [17, 18, 19],
-    "name": "Candle of Brightness",
+    "name": "Bright Candle",
     "editor_name": "圣物-萨曼莎3",
     "desc": "Extends the lasting weeks or increases the effect of the [Chosen Ritual].",
     "icon": "05",
@@ -70,7 +70,7 @@
     "m_blessing_halidom_upgrades": [23, 24, 25, 26, 27],
     "name": "Jubilant Goblet",
     "editor_name": "圣物-萨曼莎5",
-    "desc": "Increases the chance of receiving the Radiant Blessing granted by the \"Chosen Ritual.\"",
+    "desc": "Increases the chance of receiving Fortune Blessing granted by the \"Chosen Ritual.\"",
     "icon": "07",
     "display_locked": false,
     "is_special": true,

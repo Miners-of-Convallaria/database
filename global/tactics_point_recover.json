@@ -25,7 +25,7 @@
     "type": "AOE4",
     "name": "主动造成伤害AOE命中>=4",
     "recover_point": 8,
-    "display_name": "Trigger AOE Damage"
+    "display_name": "Trigger AoE Damage"
   },
   {
     "id": 5,
@@ -67,6 +67,6 @@
     "type": "HealInjured3",
     "name": "主动同时治疗>=3个受伤单位",
     "recover_point": 6,
-    "display_name": "AOE Healing"
+    "display_name": "AoE Healing"
   }
 ]
